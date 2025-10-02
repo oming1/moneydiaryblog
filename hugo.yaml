@@ -31,6 +31,13 @@ markup:
   highlight:
     noClasses: false
 
+permalinks:
+  산업-테마공부: "/industry-study/:slug/"
+  기업공부: "/company-analysis/:slug/"
+  Daily시황정리: "/daily-summary/:year/:month/:slug/"
+  earning: "/earnings/:slug/"
+  투자아이디어: "/investment-ideas/:slug/"
+
 # 인라인 shortcode 활성화 (hextra 고급 기능용)
 enableInlineShortcodes: true
 
