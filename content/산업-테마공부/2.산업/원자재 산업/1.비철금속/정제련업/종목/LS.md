@@ -1,0 +1,18 @@
+﻿---
+title: "LS"
+date: 2025-06-26T21:51:50+09:00
+lastmod: 2025-06-26T21:51:50+09:00
+type: docs
+sidebar:
+  open: true
+weight: 2
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2025-06-26T12:51:50Z" />
+  <meta property="article:modified_time" content="2025-06-26T12:51:50Z" />
+</div>
+#종목 #비철금속
+
+1. 테마구분: [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/),[구리 정제련](/industry-study/구리-정제련/)
+
+2. 기본정보
