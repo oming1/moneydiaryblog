@@ -1,56 +1,186 @@
 # Hugo configuration file
-title: My Site
+title: 머니다이어리 블로그
+baseURL: "https://moneydiary.co.kr"
+languageCode: ko-kr
+defaultContentLanguage: ko
 
-# import hextra as module
+# Hugo 버전 요구사항
 module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
   imports:
     - path: github.com/imfing/hextra
 
+# 마크업 설정 (중복 제거 및 통합)
 markup:
-  # allow raw html
   goldmark:
     renderer:
       unsafe: true
-
-  # enable hextra syntax highlight
+    extensions:
+      wikilink:
+        enable: true
+      # LaTeX 수식 지원 (선택사항)
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+    parser:
+      wikiLinks: true
   highlight:
     noClasses: false
 
-menu:
-  main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+# 인라인 shortcode 활성화 (hextra 고급 기능용)
+enableInlineShortcodes: true
 
+# 분류 체계
+taxonomies:
+  category: categories
+  tag: tags
+
+enableRobotsTXT: true
+# Parse Git commit
+# enableGitInfo: true
+# enableEmoji: false
+# hasCJKLanguage: true
+
+# 구글애널리틱스
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
+
+# 출력 형식
+outputs:
+  home: ["HTML", "RSS"]
+  section: ["HTML", "RSS"]
+  taxonomy: ["HTML", "RSS"]
+  term: ["HTML", "RSS"]
+
+# 각 섹션의 모든 페이지에 기본 프론트매터 적용
+_merge:
+  - content:
+      _target:
+        kind: ['page']
+        path: ['Daily시황정리', '산업-테마공부', '기업공부', 'earning', '투자아이디어']
+      type: 'docs'
+      sidebar:
+        open: true
+
+# Hextra 테마 파라미터
 params:
+  # 사이트 설명
+  description: "데이터 기반의 정확한 분석과 깊이 있는 통찰로 투자 여정에 도움을 드리는 블로그입니다."
+
+  # 네비게이션 바
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
 
+  # 테마 설정
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  # 푸터
   footer:
+    enable: true
     displayCopyright: false
     displayPoweredBy: true
+    width: normal
 
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  # 검색 기능
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+      tokenize: forward
+
+  # 편집 URL
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/oming1/moneydiaryblog/edit/main/content"
+
+  # 페이지 설정
+  page:
+    width: normal
+
+  # 목차 설정
+  toc:
+    displayTags: true
+
+  # 코드 하이라이트
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+  page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: normal
+    # tabs:
+    #   sync: true
+
+#댓글기능 프론트메타에 comments: true 필요
+  #comments:
+    #enable: false
+    #type: giscus
+
+    #giscus:
+      #repo: <repository>
+      #repoId: <repository ID>
+      #category: <category>
+      #categoryId: <category ID>
+
+# 메뉴 설정
+menu:
+  main:
+    - name: Daily시황정리
+      pageRef: /Daily시황정리
+      weight: 1
+    - name: 산업-테마공부
+      pageRef: /산업-테마공부
+      weight: 2
+    - name: 기업공부
+      pageRef: /기업공부
+      weight: 3
+    - name: Earning
+      pageRef: /earning
+      weight: 4
+    - name: 투자아이디어
+      pageRef: /투자아이디어
+      weight: 5
+    - name: 소개
+      pageRef: /about
+      weight: 6
+    - name: 검색
+      weight: 7
+      params:
+        type: search
+    - name: Telegram
+      weight: 8
+      url: "https://t.me/moneydiary_ko"
+      params:
+        icon: x-twitter
+    - name: Language Switcher
+      weight: 9
+      params:
+        type: language-switch
+        label: true
+        icon: "globe-alt"
+
+
