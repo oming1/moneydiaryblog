@@ -12,9 +12,11 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
-# hugo.yaml에 추가
+# 큰 파일들 무시 (Cloudflare Pages 25MB 제한 대응)
 ignoreFiles:
   - "\\.pdf$"  # 모든 PDF 파일 무시
+  - "\\.zip$"  # ZIP 파일도 무시 (필요시)
+  - "\\.rar$"  # RAR 파일도 무시 (필요시)
 
 # 마크업 설정 (중복 제거 및 통합)
 markup:
