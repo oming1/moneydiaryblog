@@ -1,0 +1,88 @@
+{{/* layouts/shortcodes/my/card-with-recent-posts.html */}}
+{{ $link := .Get "link" }}
+{{ $title := .Get "title" }}
+{{ $subtitle := .Get "label" | default (.Get "subtitle") }}
+{{ $icon := .Get "icon" }}
+{{ $section := .Get "section" }}
+{{ $count := .Get "count" | default 3 }}
+
+{{ if not $section }}
+  {{ errorf "ERROR: 'my/card-with-recent-posts' shortcode requires a 'section' parameter." }}
+{{ end }}
+
+{{/* --- 디버깅 섹션 시작 --- */}}
+{{ $showDebug := false }}
+{{ if eq $section "Daily시황정리" }}{{ $showDebug = true }}{{ end }}
+{{ if eq $section "Earning" }}{{ $showDebug = true }}{{ end }}
+
+{{ if $showDebug }}
+<div style="background-color:#ffebeb; border:1px solid red; padding:5px; margin:5px 0; color:black; font-size:12px;">
+  <strong>DEBUG INFO for section '{{ $section }}':</strong><br>
+  Shortcode parameter section: {{ $section }}<br>
+  
+  {{ $allRegularPages := site.RegularPages }}
+  Total site.RegularPages: {{ len $allRegularPages }}<br>
+  
+  {{ $filteredPages := where $allRegularPages "Section" $section }}
+  Pages filtered by .Section '{{ $section }}': {{ len $filteredPages }}<br>
+  
+  {{/* 필터링된 페이지가 없는 경우, 모든 RegularPages의 Section을 출력하여 확인 */}}
+  {{ if eq (len $filteredPages) 0 }}
+    No pages found with .Section = '{{ $section }}'.<br>
+    <strong>Checking all RegularPages sections:</strong><br>
+    <ul style="margin:5px 0; padding-left:20px;">
+    {{ range $p := $allRegularPages }}
+      <li>Path: {{ $p.Path }}, .Section: '{{ $p.Section }}', .File.Dir: '{{ $p.File.Dir }}'</li>
+    {{ end }}
+    </ul>
+  {{ else }}
+    <strong>Found pages:</strong><br>
+    <ul style="margin:5px 0; padding-left:20px;">
+    {{ range $filteredPages }}
+      <li>{{ .Title }} ({{ .Date.Format "2006-01-02" }})</li>
+    {{ end }}
+    </ul>
+  {{ end }}
+</div>
+{{ end }}
+{{/* --- 디버깅 섹션 끝 --- */}}
+
+{{ $filteredPages := where site.RegularPages "Section" $section }}
+{{ $sortedPages := sort $filteredPages "Date" "desc" }}
+{{ $recentPosts := first $count $sortedPages }}
+
+<div class="hextra-feature-card hx:group hx:relative hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-black/5 hx:bg-neutral-50 hx:p-6 hx:shadow-sm hx:dark:border-white/10 hx:dark:bg-neutral-900 hx:min-h-[280px] hx:max-w-none">
+  {{ with $link }}
+    <a class="hx:absolute hx:inset-0 hx:z-10" href="{{ . | relURL }}" aria-label="{{ $title }}"></a>
+  {{ end }}
+  
+  {{ if $icon }}
+    <div class="hx:mb-2 hx:flex hx:items-center hx:justify-center">
+      {{ partial "icon" (dict "name" $icon "attributes" "width=24 height=24") }}
+    </div>
+  {{ end }}
+  
+  <h3 class="hx:mb-2 hx:text-lg hx:font-semibold hx:text-neutral-900 hx:dark:text-neutral-50">{{ $title }}</h3>
+  {{ with $subtitle }}
+    <p class="hx:text-sm hx:text-neutral-500 hx:dark:text-neutral-400 hx:mb-2">{{ . }}</p>
+  {{ end }}
+
+  {{ if $recentPosts }}
+    <div class="hx:border-t hx:border-black/5 hx:dark:border-white/10"></div>
+    <div class="hx:mt-2">
+      <h4 class="hx:text-sm hx:font-normal hx:text-neutral-600 hx:dark:text-neutral-300 hx:mb-2">최신글</h4>
+      <ul class="hx:list-inside hx:pl-0 hx:space-y-1.5">
+        {{ range $recentPosts }}
+          <li class="hx:text-neutral-600 hx:dark:text-neutral-300 hx:flex hx:justify-between hx:items-baseline">
+            <a href="{{ .RelPermalink }}" class="hx:text-sm hx:font-normal hx:text-primary-600 hx:hover:underline hx:dark:text-primary-400 hx:relative hx:z-20 hx:flex-1 hx:pr-2">
+              {{ .Title }}
+            </a>
+            <span class="hx:text-xs hx:text-neutral-500 hx:dark:text-neutral-400 hx:flex-shrink-0">({{ .Date.Format "01-02" }})</span>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ else }}
+    <p class="hx:text-xs hx:text-neutral-500 hx:dark:text-neutral-400 hx:mt-2">아직 게시된 글이 없습니다.</p>
+  {{ end }}
+</div>

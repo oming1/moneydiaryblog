@@ -1,0 +1,51 @@
+{{/* layouts/shortcodes/recent-posts-advanced.html */}}
+{{ $section := .Get "section" }}
+{{ $count := .Get "count" | default 5 }}
+
+{{ $pages := where site.RegularPages "Section" $section }}
+
+{{ if $pages }}
+<div class="recent-posts">
+  {{ range first $count ($pages.ByDate.Reverse) }}
+    {{ $publishedTime := "" }}
+    {{ $modifiedTime := "" }}
+    
+    {{/* SEO 메타 태그에서 날짜 추출 시도 */}}
+    {{ if .Content }}
+      {{ $content := .Content }}
+      {{ if findRE `<meta property="article:published_time" content="([^"]+)"` $content }}
+        {{ $publishedTime = index (findRE `<meta property="article:published_time" content="([^"]+)"` $content) 0 }}
+        {{ $publishedTime = replaceRE `<meta property="article:published_time" content="([^"]+)"` "$1" $publishedTime }}
+      {{ end }}
+      {{ if findRE `<meta property="article:modified_time" content="([^"]+)"` $content }}
+        {{ $modifiedTime = index (findRE `<meta property="article:modified_time" content="([^"]+)"` $content) 0 }}
+        {{ $modifiedTime = replaceRE `<meta property="article:modified_time" content="([^"]+)"` "$1" $modifiedTime }}
+      {{ end }}
+    {{ end }}
+    
+    <div class="recent-post-item">
+      <div class="post-date">
+        {{ if $publishedTime }}
+          {{ $publishedTime | dateFormat "2006-01-02" }}
+        {{ else if .Params.date }}
+          {{ .Date.Format "2006-01-02" }}
+        {{ else }}
+          {{ .File.ModTime.Format "2006-01-02" }}
+        {{ end }}
+      </div>
+      <div class="post-title">
+        <a href="{{ .RelPermalink }}" class="post-link">{{ .Title }}</a>
+      </div>
+      {{ if $modifiedTime }}
+      <div class="post-modified">
+        <small>수정: {{ $modifiedTime | dateFormat "01-02" }}</small>
+      </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+{{ else }}
+<p class="no-posts">아직 게시된 글이 없습니다.</p>
+{{ end }}
+
+{{/* CSS는 위와 동일 */}}
