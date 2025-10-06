@@ -18,7 +18,7 @@ toc: false
     link="Daily시황정리" 
     title="Daily 시황정리" 
     subtitle="매일의 시장 동향과 주요 이슈들을 데이터와 함께 정리합니다." 
-    section="Daily시황정리" 
+    section="daily시황정리" 
     count="3" >}}
 
   {{< my/card-with-recent-posts 
