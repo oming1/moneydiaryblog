@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} – {{ .Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -14,20 +14,25 @@
     {{ end }}
     
     {{/* --- 수정된 부분: RSS에 포함할 페이지 필터링 로직 --- */}}
-    {{ $rssPages := $.Site.RegularPages }}
+    {{ $filteredPages := $.Site.RegularPages }}
     {{ if $.IsHome }}
-      {{/* 홈페이지 RSS일 경우, 모든 type:docs 페이지 중 최신 50개 */}}
-      {{ $rssPages = first 50 (where $.Site.RegularPages "Type" "docs") }}
+      {{/* 홈페이지 RSS일 경우, 모든 정규 페이지 중 최신 50개 */}}
+      {{ $filteredPages = $.Site.RegularPages }}
     {{ else if $.IsSection }}
-      {{/* 섹션 페이지 RSS일 경우, 해당 섹션 내 type:docs 페이지 중 최신 50개 */}}
-      {{ $rssPages = first 50 (where $.Page.RegularPages "Type" "docs") }}
+      {{/* 섹션 페이지 RSS일 경우, 해당 섹션 내 정규 페이지 중 최신 50개 */}}
+      {{ $filteredPages = $.Page.RegularPages }}
     {{ else if $.IsTerm }}
-      {{/* Taxonomy (태그/카테고리) 페이지 RSS일 경우, 해당 태그/카테고리 내 type:docs 페이지 중 최신 50개 */}}
-      {{ $rssPages = first 50 (where $.Page.RegularPages "Type" "docs") }}
+      {{/* Taxonomy (태그/카테고리) 페이지 RSS일 경우, 해당 태그/카테고리 내 정규 페이지 중 최신 50개 */}}
+      {{ $filteredPages = $.Page.RegularPages }}
     {{ end }}
+
+    {{/* type: "docs"인 페이지들만 포함 */}}
+    {{ $rssPages := where $filteredPages "Type" "docs" }}
+    {{/* 최신순으로 정렬 후 상위 50개만 가져오기 */}}
+    {{ $rssPages = first 50 $rssPages.ByDate.Reverse }}
     {{/* --- 수정 끝 --- */}}
 
-    {{ range $rssPages.ByDate.Reverse }}
+    {{ range $rssPages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -35,7 +40,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>
-        {{/* 피쳐드 이미지 추출 및 HTML에 삽입 (Resources에 있는 이미지 활용) */}}
+        {{/* 피쳐드 이미지 추출 및 HTML에 삽입 */}}
         {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $img }}
         {{ $img := .Resize "640x" }}
@@ -48,3 +53,4 @@
     {{ end }}
   </channel>
 </rss>
+
