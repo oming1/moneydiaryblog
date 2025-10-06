@@ -40,7 +40,7 @@ markup:
 permalinks:
   산업-테마공부: "/industry-study/:slug/"
   기업공부: "/company-analysis/:slug/"
-  Daily시황정리: "/daily-summary/:year/:month/:slug/"
+  daily시황정리: "/daily-summary/:year/:month/:slug/"
   earning: "/earnings/:slug/"
   투자아이디어: "/investment-ideas/:slug/"
 
@@ -163,7 +163,7 @@ params:
 menu:
   main:
     - name: Daily시황정리
-      pageRef: /Daily시황정리
+      pageRef: /daily시황정리
       weight: 1
     - name: 산업-테마공부
       pageRef: /산업-테마공부
