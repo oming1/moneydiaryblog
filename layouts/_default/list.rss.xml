@@ -57,9 +57,8 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid isPermaLink="true">{{ .Permalink }}</guid>
       <description>{{ $summary | html }}</description>
-      <content:encoded><![CDATA[{{ $cleanContent | safeHTML }}]]></content:encoded>
+      <content:encoded>{{ $cleanContent | safeHTML }}</content:encoded>
     </item>
     {{ end }}
   </channel>
 </rss>
-
