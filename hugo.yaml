@@ -40,7 +40,7 @@ markup:
 permalinks:
   산업-테마공부: "/industry-study/:slug/"
   기업공부: "/company-analysis/:slug/"
-  daily시황정리: "/daily-summary/:year/:month/:slug/"
+  Daily시황정리: "/daily-summary/:year/:month/:slug/"  # 대문자 'D'로 변경
   earning: "/earnings/:slug/"
   투자아이디어: "/investment-ideas/:slug/"
 
