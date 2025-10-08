@@ -83,7 +83,10 @@ _merge:
 # Hextra 테마 파라미터
 params:
   # 사이트 설명
-  description: "데이터 기반의 정확한 분석과 깊이 있는 통찰로 투자 여정에 도움을 드리는 블로그입니다."
+  description: "데이터 기반의 정확한 분석과 통찰을 공부하며 투자 여정을 걷는 블로그입니다."
+  # 기존 params 내용 유지하고 아래 추가
+  customHead: |
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
 
   # 네비게이션 바
   navbar:
