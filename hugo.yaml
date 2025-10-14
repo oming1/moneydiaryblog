@@ -199,4 +199,6 @@ menu:
         label: true
         icon: "globe-alt"
 
-
+  # Google AdSense 추가
+  customHead: |
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
