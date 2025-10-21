@@ -59,9 +59,9 @@ enableRobotsTXT: true
 # hasCJKLanguage: true
 
 # 구글애널리틱스
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
+ services:
+   googleAnalytics:
+     ID: G-NGGXTL53D1
 
 # 출력 형식
 outputs:
@@ -84,6 +84,10 @@ _merge:
 params:
   # 사이트 설명
   description: "데이터 기반의 정확한 분석과 통찰을 공부하며 투자 여정을 걷는 블로그입니다."
+  
+  # Google AdSense (이 부분은 유지!)
+  customHead: |
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
 
   # 네비게이션 바
   navbar:
@@ -195,3 +199,4 @@ menu:
         type: language-switch
         label: true
         icon: "globe-alt"
+
