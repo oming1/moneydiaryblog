@@ -14,11 +14,11 @@ module:
 
 # 큰 파일들 무시 (Cloudflare Pages 25MB 제한 대응)
 ignoreFiles:
-  - "\\.pdf$"
-  - "\\.zip$"
-  - "\\.rar$"
+  - "\\.pdf$"  # 모든 PDF 파일 무시
+  - "\\.zip$"  # ZIP 파일도 무시 (필요시)
+  - "\\.rar$"  # RAR 파일도 무시 (필요시)
 
-# 마크업 설정
+# 마크업 설정 (중복 제거 및 통합)
 markup:
   goldmark:
     renderer:
@@ -26,6 +26,7 @@ markup:
     extensions:
       wikilink:
         enable: true
+      # LaTeX 수식 지원 (선택사항)
       passthrough:
         delimiters:
           block: [['\[', '\]'], ['$$', '$$']]
@@ -39,11 +40,11 @@ markup:
 permalinks:
   산업-테마공부: "/industry-study/:slug/"
   기업공부: "/company-analysis/:slug/"
-  Daily시황정리: "/daily-summary/:year/:month/:slug/"
+  Daily시황정리: "/daily-summary/:year/:month/:slug/"  # 대문자 'D'로 변경
   earning: "/earnings/:slug/"
   투자아이디어: "/investment-ideas/:slug/"
 
-# 인라인 shortcode 활성화
+# 인라인 shortcode 활성화 (hextra 고급 기능용)
 enableInlineShortcodes: true
 
 # 분류 체계
@@ -52,6 +53,15 @@ taxonomies:
   tag: tags
 
 enableRobotsTXT: true
+# Parse Git commit
+# enableGitInfo: true
+# enableEmoji: false
+# hasCJKLanguage: true
+
+# 구글애널리틱스
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
 
 # 출력 형식
 outputs:
@@ -82,10 +92,14 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
     width: wide
 
   # 테마 설정
   theme:
+    # light | dark | system
     default: system
     displayToggle: true
 
@@ -96,7 +110,7 @@ params:
     displayPoweredBy: true
     width: normal
 
-  # 날짜 표시
+  # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
@@ -125,7 +139,25 @@ params:
   highlight:
     copy:
       enable: true
+      # hover | always
       display: hover
+
+  page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: normal
+    # tabs:
+    #   sync: true
+
+#댓글기능 프론트메타에 comments: true 필요
+  #comments:
+    #enable: false
+    #type: giscus
+
+    #giscus:
+      #repo: <repository>
+      #repoId: <repository ID>
+      #category: <category>
+      #categoryId: <category ID>
 
 # 메뉴 설정
 menu:
