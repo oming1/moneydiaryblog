@@ -14,9 +14,9 @@ module:
 
 # 큰 파일들 무시 (Cloudflare Pages 25MB 제한 대응)
 ignoreFiles:
-  - "\\.pdf$"  # 모든 PDF 파일 무시
-  - "\\.zip$"  # ZIP 파일도 무시 (필요시)
-  - "\\.rar$"  # RAR 파일도 무시 (필요시)
+  - "\\.pdf$"
+  - "\\.zip$"
+  - "\\.rar$"
 
 # 마크업 설정 (중복 제거 및 통합)
 markup:
@@ -26,7 +26,6 @@ markup:
     extensions:
       wikilink:
         enable: true
-      # LaTeX 수식 지원 (선택사항)
       passthrough:
         delimiters:
           block: [['\[', '\]'], ['$$', '$$']]
@@ -40,7 +39,7 @@ markup:
 permalinks:
   산업-테마공부: "/industry-study/:slug/"
   기업공부: "/company-analysis/:slug/"
-  Daily시황정리: "/daily-summary/:year/:month/:slug/"  # 대문자 'D'로 변경
+  Daily시황정리: "/daily-summary/:year/:month/:slug/"
   earning: "/earnings/:slug/"
   투자아이디어: "/investment-ideas/:slug/"
 
@@ -53,15 +52,6 @@ taxonomies:
   tag: tags
 
 enableRobotsTXT: true
-# Parse Git commit
-# enableGitInfo: true
-# enableEmoji: false
-# hasCJKLanguage: true
-
-# 구글애널리틱스
- services:
-   googleAnalytics:
-     ID: G-NGGXTL53D1
 
 # 출력 형식
 outputs:
@@ -82,43 +72,31 @@ _merge:
 
 # Hextra 테마 파라미터
 params:
-  # 사이트 설명
-  description: "데이터 기반의 정확한 분석과 통찰을 공부하며 투자 여정을 걷는 블로그입니다."
+  description: "오늘을 기록하고 내일의 투자를 준비하는 블로그."
   
-  # Google AdSense (이 부분은 유지!)
-  customHead: |
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
+  customHead: '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>'
 
-  # 네비게이션 바
   navbar:
     displayTitle: true
     displayLogo: true
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      # width: 40
-      # height: 20
-      # link: /
     width: wide
 
-  # 테마 설정
   theme:
-    # light | dark | system
     default: system
     displayToggle: true
 
-  # 푸터
   footer:
     enable: true
     displayCopyright: false
     displayPoweredBy: true
     width: normal
 
-  # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
-  # 검색 기능
   search:
     enable: true
     type: flexsearch
@@ -126,42 +104,20 @@ params:
       index: content
       tokenize: forward
 
-  # 편집 URL
   editURL:
     enable: true
     base: "https://github.com/oming1/moneydiaryblog/edit/main/content"
 
-  # 페이지 설정
   page:
     width: normal
 
-  # 목차 설정
   toc:
     displayTags: true
 
-  # 코드 하이라이트
   highlight:
     copy:
       enable: true
-      # hover | always
       display: hover
-
-  page:
-    # full (100%), wide (90rem), normal (80rem)
-    width: normal
-    # tabs:
-    #   sync: true
-
-#댓글기능 프론트메타에 comments: true 필요
-  #comments:
-    #enable: false
-    #type: giscus
-
-    #giscus:
-      #repo: <repository>
-      #repoId: <repository ID>
-      #category: <category>
-      #categoryId: <category ID>
 
 # 메뉴 설정
 menu:
@@ -199,4 +155,3 @@ menu:
         type: language-switch
         label: true
         icon: "globe-alt"
-
