@@ -11,15 +11,15 @@ module:
     min: "0.146.0"
   imports:
     - path: github.com/imfing/hextra
-      version: v0.11.1  # ← 버전 명시
+      version: v0.11.1
 
 # 큰 파일들 무시 (Cloudflare Pages 25MB 제한 대응)
 ignoreFiles:
-  - "\\.pdf$"  # 모든 PDF 파일 무시
-  - "\\.zip$"  # ZIP 파일도 무시 (필요시)
-  - "\\.rar$"  # RAR 파일도 무시 (필요시)
+  - "\\.pdf$"
+  - "\\.zip$"
+  - "\\.rar$"
 
-# 마크업 설정 (중복 제거 및 통합)
+# 마크업 설정
 markup:
   goldmark:
     renderer:
@@ -27,17 +27,20 @@ markup:
     extensions:
       wikilink:
         enable: true
-      # LaTeX 수식 지원 (선택사항)
       passthrough:
         delimiters:
-          block: [['\[', '\]'], ['$$', '$$']]
-          inline: [['\(', '\)']]
+          block:
+            - ['\[', '\]']
+            - ['$$', '$$']
+          inline:
+            - ['\(', '\)']
         enable: true
     parser:
       wikiLinks: true
   highlight:
     noClasses: false
 
+# 퍼머링크 설정
 permalinks:
   산업-테마공부: "/industry-study/:slug/"
   기업공부: "/company-analysis/:slug/"
@@ -45,7 +48,7 @@ permalinks:
   earning: "/earnings/:slug/"
   투자아이디어: "/investment-ideas/:slug/"
 
-# 인라인 shortcode 활성화 (hextra 고급 기능용)
+# 인라인 shortcode 활성화
 enableInlineShortcodes: true
 
 # 분류 체계
@@ -54,15 +57,11 @@ taxonomies:
   tag: tags
 
 enableRobotsTXT: true
-# Parse Git commit
-# enableGitInfo: true
-# enableEmoji: false
-# hasCJKLanguage: true
 
-# 구글애널리틱스
- services:
-   googleAnalytics:
-     ID: G-NGGXTL53D1
+# 구글 애널리틱스
+services:
+  googleAnalytics:
+    ID: G-NGGXTL53D1
 
 # 출력 형식
 outputs:
@@ -80,6 +79,50 @@ _merge:
       type: 'docs'
       sidebar:
         open: true
+
+# Hextra 테마 파라미터
+params:
+  description: "오늘을 기록하고 내일의 투자를 준비하는 블로그, 머니다이어리(Moneydiary)"
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+    width: wide
+
+  theme:
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: true
+    width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  # 검색 기능 비활성화
+  search:
+    enable: false
+
+  editURL:
+    enable: true
+    base: "https://github.com/oming1/moneydiaryblog/edit/main/content"
+
+  page:
+    width: normal
+
+  toc:
+    displayTags: true
+
+  highlight:
+    copy:
+      enable: true
+      display: hover
 
 # 메뉴 설정
 menu:
@@ -114,83 +157,3 @@ menu:
     - name: Language Switcher
       weight: 9
 
-
-# Hextra 테마 파라미터
-params:
-  # 사이트 설명
-  description: "오늘을 기록하고 내일의 투자를 준비하는 블로그, 머니다이어리(Moneydiary)"
-
-  # 네비게이션 바
-  navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      # width: 40
-      # height: 20
-      # link: /
-    width: wide
-
-  # 테마 설정
-  theme:
-    # light | dark | system
-    default: system
-    displayToggle: true
-
-  # 푸터
-  footer:
-    enable: true
-    displayCopyright: false
-    displayPoweredBy: true
-    width: normal
-
-  # Display the last modification date
-  displayUpdatedDate: true
-  dateFormat: "January 2, 2006"
-
-  search: 
-    enable: false  # true → false로 변경
-    type: flexsearch
-    flexsearch:
-      # 한국어 토크나이저 변경
-      tokenize: forward  # 기존 설정
-      # 또는
-      # tokenize: full
-
-  # 편집 URL
-  editURL:
-    enable: true
-    base: "https://github.com/oming1/moneydiaryblog/edit/main/content"
-
-  # 페이지 설정
-  page:
-    width: normal
-
-  # 목차 설정
-  toc:
-    displayTags: true
-
-  # 코드 하이라이트
-  highlight:
-    copy:
-      enable: true
-      # hover | always
-      display: hover
-
-  page:
-    # full (100%), wide (90rem), normal (80rem)
-    width: normal
-    # tabs:
-    #   sync: true
-
-#댓글기능 프론트메타에 comments: true 필요
-  #comments:
-    #enable: false
-    #type: giscus
-
-    #giscus:
-      #repo: <repository>
-      #repoId: <repository ID>
-      #category: <category>
-      #categoryId: <category ID>
