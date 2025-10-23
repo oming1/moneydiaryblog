@@ -105,18 +105,11 @@ params:
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
-  # 검색 기능 비활성화
-  # Search
-  # flexsearch is enabled by default
   search:
     enable: true
     type: flexsearch
-
     flexsearch:
-      # index page by: content | summary | heading | title
       index: content
-      # full | forward | reverse | strict
-      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
 
   editURL:
@@ -133,6 +126,10 @@ params:
     copy:
       enable: true
       display: hover
+
+  # Google AdSense
+  customHead: |
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
 
 # 메뉴 설정
 menu:
