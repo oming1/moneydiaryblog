@@ -60,9 +60,9 @@ enableRobotsTXT: true
 # hasCJKLanguage: true
 
 # 구글애널리틱스
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
+ services:
+   googleAnalytics:
+     ID: G-NGGXTL53D1
 
 # 출력 형식
 outputs:
