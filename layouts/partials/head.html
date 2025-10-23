@@ -1,15 +1,2 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- 기존 내용들 -->
-    {{ partial "head/css.html" . }}
-    {{ partial "head/js.html" . }}
-    
-    <!-- 커스텀 헤드 (애드센스 포함) - 이 줄이 있어야 함! -->
-    {{ partial "head/custom.html" . }}
-    
-    {{ partial "head-end.html" . }}
-</head>
+<!-- 커스텀 헤드 (애드센스 포함) -->
+{{ partial "head/custom.html" . }}
