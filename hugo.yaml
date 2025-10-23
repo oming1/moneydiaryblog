@@ -106,8 +106,18 @@ params:
   dateFormat: "January 2, 2006"
 
   # 검색 기능 비활성화
+  # Search
+  # flexsearch is enabled by default
   search:
-    enable: false
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
 
   editURL:
     enable: true
