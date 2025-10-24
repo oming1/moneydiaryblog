@@ -1,15 +1,15 @@
 ﻿---
 title: "SONY"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-11-09T12:39:12+09:00
+lastmod: 2025-10-15T09:08:31+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 814
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-11-09T03:39:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:31Z" />
 </div>
 #임의소비재 #가전제품 #전자제품 #게임 #엔터테인먼트 #금융 
 

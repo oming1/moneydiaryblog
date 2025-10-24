@@ -1,15 +1,15 @@
 ﻿---
 title: "KT&G"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-08-30T14:55:10+09:00
+lastmod: 2025-10-15T09:11:27+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 496
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-08-30T05:55:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:27Z" />
 </div>
 #담배 #궐련형전자담배 #건기식 #소비자방어주 #건기식
 

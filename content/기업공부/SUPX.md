@@ -1,15 +1,15 @@
 ﻿---
 title: "SUPX"
-date: 2025-07-30T19:29:26+09:00
-lastmod: 2025-07-30T19:29:26+09:00
+date: 2025-07-30T09:51:17+09:00
+lastmod: 2025-10-15T09:14:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 841
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T10:29:26Z" />
-  <meta property="article:modified_time" content="2025-07-30T10:29:26Z" />
+  <meta property="article:published_time" content="2025-07-30T00:51:17Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:11Z" />
 </div>
 #AI인프라 #인공지능서버 #HVDC #클라우드컴퓨팅 #데이터센터 #고성능컴퓨팅 #엔터프라이즈AI #AI배포 #기술인프라 #냉각솔루션 #데이터파이프라인 #시스템통합 #서버솔루션 #엔드투엔드서비스 #모델호스팅 #싱가포르기업 #AI기술기업 #NASDAQ상장 #엣지컴퓨팅 #연구기관인프라 #전력효율화솔루션 #글로벌공급망 #일본확장 #클라우드인프라 #디지털인프라
 

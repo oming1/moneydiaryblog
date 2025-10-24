@@ -1,15 +1,15 @@
 ﻿---
 title: "GL"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-09-30T11:07:45+09:00
+lastmod: 2025-10-15T09:09:05+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 377
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-09-30T02:07:45Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:05Z" />
 </div>
 #금융서비스 #생명보험
 

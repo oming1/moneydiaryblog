@@ -1,15 +1,15 @@
 ﻿---
 title: "DKNG"
-date: 2025-08-07T06:18:33+09:00
-lastmod: 2025-08-07T06:18:33+09:00
+date: 2025-04-29T18:46:48+09:00
+lastmod: 2025-10-15T09:14:17+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 281
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T21:18:33Z" />
-  <meta property="article:modified_time" content="2025-08-06T21:18:33Z" />
+  <meta property="article:published_time" content="2025-04-29T09:46:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:17Z" />
 </div>
 #온라인스포츠베팅 #일일판타지스포츠 #모바일베팅 #iGaming #온라인카지노 #라이브베팅 #스포츠북 #게이밍규제 #디지털복권 #Jackpocket #고객획득 #베팅홀드율 #AI베팅기술 #스포츠파트너십 #NBA #NFL #MLB #마케팅지출 #브랜드인지도 #월활성사용자 #평생가치 #지역확장 #게이밍세금 #현금흐름 #수익성전환
 

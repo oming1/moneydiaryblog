@@ -1,15 +1,15 @@
 ﻿---
 title: "ACM"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2025-03-20T21:43:10+09:00
+lastmod: 2025-10-15T09:12:15+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 21
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2025-03-20T12:43:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:15Z" />
 </div>
 ## 핵심 키워드
 

@@ -1,0 +1,12 @@
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "static\\images",
+  "trashOption": "none",
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": false,
+  "focusNewTab": true,
+  "uriCallbacks": false
+}

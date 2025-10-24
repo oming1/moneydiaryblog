@@ -1,15 +1,15 @@
 ﻿---
-title: "Affirm Holdings, Inc. (\\AFRM) Q4 2025실적발표 요약(\\2025-08-29)"
-date: 2025-08-30T07:08:05+09:00
-lastmod: 2025-08-30T07:08:05+09:00
+title: "Affirm 2025 Q4 실적발표"
+date: 2025-10-08T23:21:29+09:00
+lastmod: 2025-10-15T09:11:02+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-29T22:08:05Z" />
-  <meta property="article:modified_time" content="2025-08-29T22:08:05Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:02Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 #AFRM
 

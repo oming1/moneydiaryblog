@@ -1,22 +1,22 @@
 ﻿---
 title: "EU배터리법"
-date: 2025-06-27T01:45:42+09:00
-lastmod: 2025-06-27T01:45:42+09:00
+date: 2025-10-08T23:21:58+09:00
+lastmod: 2025-10-15T09:09:48+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:45:42Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:45:42Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:48Z" />
 </div>
 #EU배터리법
 
 - 주요 이벤트
 	- 2023년
 		- 2023-06-14
-			- 유럽연합(EU)에서 이르면 2031년부터 [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/)이나 [코발트](/industry-study/코발트/) 등 [전기차](/industry-study/2산업자동차-산업전기차/) 배터리 생산에 사용되는 핵심 원료의 [리사이클링](/industry-study/리사이클링/)(재활용)이 의무화된다. 유럽의회는 14일(현지시간) 본회의에서 배터리 설계에서 생산, 폐배터리 관리에 대한 포괄적 규제를 담은 '지속가능한 배터리법'(이하 배터리법)을 승인했다고 밝혔다![](https://i.imgur.com/q6s7t3v.png)
+			- 유럽연합(EU)에서 이르면 2031년부터 [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/)이나 [코발트](/industry-study/코발트/) 등 [전기차](/industry-study/2산업자동차-산업전기차/) 배터리 생산에 사용되는 핵심 원료의 [리사이클링](/industry-study/리사이클링/)(재활용)이 의무화된다. 유럽의회는 14일(현지시간) 본회의에서 배터리 설계에서 생산, 폐배터리 관리에 대한 포괄적 규제를 담은 '지속가능한 배터리법'(이하 배터리법)을 승인했다고 밝혔다![](/images/https://i.imgur.com/q6s7t3v.png)
 			- 배터리법은 EU 시장에서 판매되는 휴대전화를 비롯해 전기차 등 산업용에 이르기까지 업계 전반에 걸쳐 배터리의 생애주기를 관리하고 친환경성을 강화하기 위한 규제다.
 			- 이에 EU는 법 발효 시점을 기준으로 8년 뒤부터는 역내에서 새로운 배터리 생산 시 핵심 원자재의 재활용을 의무화할 방침이다.
 			- 원자재별 재활용 [의무화 비율은 시행 8년 뒤 기준 코발트 16%, 리튬 6%, 납 85%, 니켈 6% 등]이다.

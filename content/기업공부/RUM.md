@@ -1,15 +1,15 @@
 ﻿---
 title: "RUM"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-24T14:59:27+09:00
+lastmod: 2025-10-15T09:10:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 762
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-24T05:59:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:41Z" />
 </div>
 #비디오공유플랫폼 #소셜미디어 #콘텐츠크리에이터 #디지털광고 #클라우드서비스  #테더투자 #비트코인투자 #온라인비디오 #스트리밍 #광고수익화 #클라우드인프라 #디지털미디어 #기술혁신 #사용자참여 #임의소비재 #미디어엔터테인먼트
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "NBIS"
-date: 2025-08-13T01:32:59+09:00
-lastmod: 2025-08-13T01:32:59+09:00
+date: 2025-02-14T22:42:14+09:00
+lastmod: 2025-10-15T09:10:51+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 605
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:59Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:59Z" />
+  <meta property="article:published_time" content="2025-02-14T13:42:14Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:51Z" />
 </div>
 ## 핵심 키워드
 

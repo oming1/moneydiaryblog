@@ -1,15 +1,15 @@
 ﻿---
 title: "UBER"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-16T11:55:08+09:00
+lastmod: 2025-10-15T09:09:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 903
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-16T02:55:08Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:29Z" />
 </div>
 #교통 #테크 #공유자동차 #배달
 

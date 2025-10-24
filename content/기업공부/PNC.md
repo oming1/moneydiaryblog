@@ -1,15 +1,15 @@
 ﻿---
 title: "PNC"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-11-12T10:12:26+09:00
+lastmod: 2025-10-15T09:10:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 700
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-11-12T01:12:26Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:11Z" />
 </div>
 #다각화된은행 #금융 #대출 #카드 
 

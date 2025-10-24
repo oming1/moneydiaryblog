@@ -1,15 +1,15 @@
 ﻿---
 title: "SATS"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-13T22:38:05+09:00
+lastmod: 2025-10-15T09:10:47+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 770
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-13T13:38:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:47Z" />
 </div>
 #커뮤니케이션서비스 #위성통신 #고속위성인터넷 #위성방송  #정지궤도위성 #통신위성 #소형위성 
 

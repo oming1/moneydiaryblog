@@ -1,15 +1,15 @@
 ﻿---
 title: "STO"
-date: 2025-06-27T02:39:57+09:00
-lastmod: 2025-06-27T02:39:57+09:00
+date: 2024-11-20T21:02:29+09:00
+lastmod: 2025-10-15T09:14:45+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:39:57Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:39:57Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:45Z" />
 </div>
 #코인 #STO #증권형토큰
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "KOTRA - 중국의 희토류 수출 통제"
-date: 2025-08-28T02:26:11+09:00
-lastmod: 2025-08-28T02:26:11+09:00
+date: 2025-08-20T09:10:20+09:00
+lastmod: 2025-10-15T09:08:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-27T17:26:11Z" />
-  <meta property="article:modified_time" content="2025-08-27T17:26:11Z" />
+  <meta property="article:published_time" content="2025-08-20T00:10:20Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:54Z" />
 </div>
 #희토류 
 

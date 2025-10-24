@@ -1,15 +1,15 @@
 ﻿---
 title: "Japan Tobacco"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-08-30T13:56:14+09:00
+lastmod: 2025-10-15T09:11:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 462
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-08-30T04:56:14Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:11Z" />
 </div>
 #담배 #전자담배 #소비자방어주
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SNOW"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-23T12:05:40+09:00
+lastmod: 2025-10-15T09:10:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 810
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-23T03:05:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:20Z" />
 </div>
 #소프트웨어 #테크 #클라우드 #데이터플랫폼
 

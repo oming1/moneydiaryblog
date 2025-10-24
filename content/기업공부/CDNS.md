@@ -1,15 +1,15 @@
 ﻿---
 title: "CDNS"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-10-30T17:34:19+09:00
+lastmod: 2025-10-15T09:09:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 184
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-10-30T08:34:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:20Z" />
 </div>
 #반도체 #정보기술 #소프트웨어 #캐나다 #맞춤형IC설계및시뮬레이션제품
 

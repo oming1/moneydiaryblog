@@ -1,15 +1,15 @@
 ﻿---
-title: "오라클(Oracle) 2026 회계연도 1분기 실적 심화 분석(\\2025-09-09)"
-date: 2025-09-10T18:47:05+09:00
-lastmod: 2025-09-10T18:47:05+09:00
+title: "Oracle(ORCL) 2026 Q1 실적발표"
+date: 2025-10-08T23:21:29+09:00
+lastmod: 2025-10-15T09:10:58+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-10T09:47:05Z" />
-  <meta property="article:modified_time" content="2025-09-10T09:47:05Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:58Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
 

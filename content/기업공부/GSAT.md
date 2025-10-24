@@ -1,15 +1,15 @@
 ﻿---
 title: "GSAT"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-11-09T13:04:12+09:00
+lastmod: 2025-10-15T09:10:27+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 390
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-11-09T04:04:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:27Z" />
 </div>
 #통신 #무선통신 #위성통신 #모바일위성전화 #통신위성 #저궤도위성
 

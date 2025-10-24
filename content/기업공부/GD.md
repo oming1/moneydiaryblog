@@ -1,15 +1,15 @@
 ﻿---
 title: "GD"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2025-01-29T17:42:04+09:00
+lastmod: 2025-10-15T09:11:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 366
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2025-01-29T08:42:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:33Z" />
 </div>
 ## 핵심 키워드
 

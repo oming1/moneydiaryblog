@@ -1,15 +1,15 @@
 ﻿---
 title: "INDI"
-date: 2025-08-13T01:32:58+09:00
-lastmod: 2025-08-13T01:32:58+09:00
+date: 2025-01-16T22:08:12+09:00
+lastmod: 2025-10-15T09:11:45+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 443
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:58Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:58Z" />
+  <meta property="article:published_time" content="2025-01-16T13:08:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:45Z" />
 </div>
 ## 핵심 키워드
 

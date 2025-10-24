@@ -1,15 +1,15 @@
 ﻿---
 title: "AXL"
-date: 2025-08-11T21:59:17+09:00
-lastmod: 2025-08-11T21:59:17+09:00
+date: 2025-08-11T10:19:56+09:00
+lastmod: 2025-10-15T09:11:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 106
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-11T12:59:17Z" />
-  <meta property="article:modified_time" content="2025-08-11T12:59:17Z" />
+  <meta property="article:published_time" content="2025-08-11T01:19:56Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:55Z" />
 </div>
 #자동차부품 #구동계 #차량경량화 #전기차 #아메리칸악슬 #제조업 #자동차산업 #모빌리티 #기술혁신 #지속가능성 #고객맞춤형 #경쟁력 #글로벌시장 #OEM #부품공급 #전략적제휴 #품질관리 #비용절감 #시장점유율
 

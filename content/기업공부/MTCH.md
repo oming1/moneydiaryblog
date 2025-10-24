@@ -1,15 +1,15 @@
 ﻿---
 title: "MTCH"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2025-02-20T10:39:27+09:00
+lastmod: 2025-10-15T09:11:05+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 596
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2025-02-20T01:39:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:05Z" />
 </div>
 ## 핵심 키워드
 

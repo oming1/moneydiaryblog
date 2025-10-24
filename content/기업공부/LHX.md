@@ -1,15 +1,15 @@
 ﻿---
 title: "LHX"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-11-09T22:37:33+09:00
+lastmod: 2025-10-15T09:11:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 514
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-11-09T13:37:33Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:25Z" />
 </div>
 #우주통신 #우주및항공시스템 #로켓 #미사일 #산업재 #항공우주및방산 #통신장비 #항공기시스템 
 

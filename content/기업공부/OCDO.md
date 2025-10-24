@@ -1,15 +1,15 @@
 ﻿---
 title: "OCDO"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2023-06-28T12:17:42+09:00
+lastmod: 2025-10-15T09:10:13+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 648
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2023-06-28T03:17:42Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:13Z" />
 </div>
 #로봇 #서비스로봇 #소비자방어주 #식료품소매
 

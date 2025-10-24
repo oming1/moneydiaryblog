@@ -1,15 +1,15 @@
 ﻿---
 title: "HCI"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-10-12T00:23:42+09:00
+lastmod: 2025-10-15T09:10:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 400
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-10-11T15:23:42Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:10Z" />
 </div>
 #금융서비스 #재보험 #플로리다 #보험 #허리케인 
 

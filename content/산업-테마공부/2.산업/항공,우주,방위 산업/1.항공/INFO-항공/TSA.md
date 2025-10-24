@@ -1,15 +1,15 @@
 ﻿---
 title: "TSA"
-date: 2025-06-27T02:13:50+09:00
-lastmod: 2025-06-27T02:13:50+09:00
+date: 2025-10-08T23:22:05+09:00
+lastmod: 2025-10-15T09:08:40+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 8
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:13:50Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:13:50Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:40Z" />
 </div>
 #항공 #TSA #미국교통안정청
 

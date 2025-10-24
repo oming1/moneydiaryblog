@@ -1,15 +1,15 @@
 ﻿---
 title: "MMM"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-30T21:06:52+09:00
+lastmod: 2025-10-15T09:10:52+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 571
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-30T12:06:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:52Z" />
 </div>
 #산업재 #소비자제품 #산업용제품 #접착제 #필터 #의료기기 #안전장비 #전기장비 #테이프 #마스크 #필터 
 

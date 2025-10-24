@@ -1,15 +1,15 @@
 ﻿---
 title: "ETN"
-date: 2025-07-18T03:53:21+09:00
-lastmod: 2025-07-18T03:53:21+09:00
+date: 2024-09-10T10:27:45+09:00
+lastmod: 2025-10-15T09:11:22+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 323
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-17T18:53:21Z" />
-  <meta property="article:modified_time" content="2025-07-17T18:53:21Z" />
+  <meta property="article:published_time" content="2024-09-10T01:27:45Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:22Z" />
 </div>
 #산업재 #특수산업기계 #전력기기 #전력관리 #전기 #리쇼어링 #제조업 #데이터센터 
 
@@ -21,7 +21,7 @@ weight: 323
 기업소개
 이튼 코퍼레이션(이하 이튼)은 미국의 대표 전력기기 기업이다. 전기,유압 및 기계 동력을 위한 에너지 솔루션을 제공한다. 관리를 위한 서비스 사업도 영위하고 있다
 
-세부사업![](Pasted%20image%2020250331171904.png)
+세부사업![](/images/Pasted%20image%2020250331171904.png)
 사업부는 크게 전력 사업부, 우주항공 사업부, 자동차 사업부, E모빌리티 사업부 등으로 구분된다. 전력 사업부는 크게 아메리카 부문과 글로벌 부문으로 구분된다. 각 사업부별 매출 비중은 FY 2024 기준 아메리카 46%, 글로벌 25.1%, 우주항공 15%, 자동차 11.2%, E모빌리티 2.7% 등으로 구성돼 있다.
 
 전력 사업부는 주로 전기 부품, 산업용 부품, 배전, 주거용 제품 등 전력 효율성을 강화하는 다양한 제품과 솔루션을 판매한다. 

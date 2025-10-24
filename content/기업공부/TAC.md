@@ -1,15 +1,15 @@
 ﻿---
 title: "TAC"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-13T20:46:30+09:00
+lastmod: 2025-10-15T09:10:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 850
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-13T11:46:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:18Z" />
 </div>
 #전력플랜트 #캐나다 #유틸리티 #전기유틸리티 #전기발전 #발전소 #천연가스 #풍력
 

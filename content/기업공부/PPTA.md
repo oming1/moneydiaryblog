@@ -1,15 +1,15 @@
 ﻿---
 title: "PPTA"
-date: 2025-07-13T01:20:55+09:00
-lastmod: 2025-07-13T01:20:55+09:00
+date: 2024-11-19T16:23:11+09:00
+lastmod: 2025-10-15T09:09:16+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 707
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-12T16:20:55Z" />
-  <meta property="article:modified_time" content="2025-07-12T16:20:55Z" />
+  <meta property="article:published_time" content="2024-11-19T07:23:11Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:16Z" />
 </div>
 #안티모니 #희토류 #금속및광업 #기초소재 #원자재 #금 
 

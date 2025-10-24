@@ -1,15 +1,15 @@
 ﻿---
 title: "CARR"
-date: 2025-07-18T03:53:21+09:00
-lastmod: 2025-07-18T03:53:21+09:00
+date: 2024-09-10T12:14:05+09:00
+lastmod: 2025-10-15T09:10:04+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 173
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-17T18:53:21Z" />
-  <meta property="article:modified_time" content="2025-07-17T18:53:21Z" />
+  <meta property="article:published_time" content="2024-09-10T03:14:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:04Z" />
 </div>
 #산업재 #건축제품및장비 #냉장
 

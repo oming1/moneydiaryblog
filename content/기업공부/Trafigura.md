@@ -1,15 +1,15 @@
 ﻿---
 title: "Trafigura"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2023-06-04T17:05:24+09:00
+lastmod: 2025-10-15T09:09:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 882
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2023-06-04T08:05:24Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:46Z" />
 </div>
 #비철금속 #수소 #소재 #무역 #석유및광물 #석유 
 

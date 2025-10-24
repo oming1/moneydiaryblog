@@ -1,15 +1,15 @@
 ﻿---
 title: "MGO"
-date: 2025-06-27T02:02:35+09:00
-lastmod: 2025-06-27T02:02:35+09:00
+date: 2025-10-08T23:22:02+09:00
+lastmod: 2025-10-15T09:08:05+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 7
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:02:35Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:02:35Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:02Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:05Z" />
 </div>
 #MGO #선박용경유 
 

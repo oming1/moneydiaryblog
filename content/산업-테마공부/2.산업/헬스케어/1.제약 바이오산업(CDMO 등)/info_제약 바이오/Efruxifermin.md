@@ -1,15 +1,15 @@
 ﻿---
 title: "Efruxifermin"
-date: 2025-06-27T02:18:42+09:00
-lastmod: 2025-06-27T02:18:42+09:00
+date: 2025-10-08T23:22:10+09:00
+lastmod: 2025-10-15T09:08:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:18:42Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:18:42Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:25Z" />
 </div>
 #Efruxifermin #MASH치료제 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "NYT"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2025-07-04T09:56:40+09:00
+lastmod: 2025-10-15T09:13:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 646
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2025-07-04T00:56:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:41Z" />
 </div>
 ## 핵심 키워드
 

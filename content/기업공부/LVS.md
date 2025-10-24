@@ -1,15 +1,15 @@
 ﻿---
 title: "LVS"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-10-09T08:28:01+09:00
+lastmod: 2025-10-15T09:10:13+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 537
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-10-08T23:28:01Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:13Z" />
 </div>
 #경기소비재 #카지노 #호텔 #중국 #마카오 
 

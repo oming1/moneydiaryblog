@@ -1,15 +1,15 @@
 ﻿---
 title: "EWTX"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-09-02T12:23:07+09:00
+lastmod: 2025-10-15T09:09:08+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 329
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-09-02T03:23:07Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:08Z" />
 </div>
 #헬스케어 #바이오테크 #근육질환 #디스트로피 #근육디스트로피
 

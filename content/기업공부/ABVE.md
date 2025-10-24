@@ -1,15 +1,15 @@
 ﻿---
 title: "ABVE"
-date: 2025-07-31T02:22:09+09:00
-lastmod: 2025-07-31T02:22:09+09:00
+date: 2025-07-18T09:38:06+09:00
+lastmod: 2025-10-15T09:13:52+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 16
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T17:22:09Z" />
-  <meta property="article:modified_time" content="2025-07-30T17:22:09Z" />
+  <meta property="article:published_time" content="2025-07-18T00:38:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:52Z" />
 </div>
 #식품원료 #재생농업 #지속가능농업 #수직통합 #공급망 #식물성단백질 #콩류 #완두콩 #렌틸콩 #귀리 #펄스 #팜글로벌 #합병 #디지털자산 #토큰화 #블록체인 #금담보 #몬태나 #사스카툰 #캐나다 #애완동물사료 #유기농 #친환경 #추적가능성 #영양성분
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "APA"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-12-30T09:24:10+09:00
+lastmod: 2025-10-15T09:10:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 77
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-12-30T00:24:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:54Z" />
 </div>
 #석유가스 #탐사생산 #에너지 #천연가스 #원유 #미드스트림 #배당주 #에너지
 

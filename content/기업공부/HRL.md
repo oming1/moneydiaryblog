@@ -1,15 +1,15 @@
 ﻿---
 title: "HRL"
-date: 2025-07-28T19:00:22+09:00
-lastmod: 2025-07-28T19:00:22+09:00
+date: 2024-12-19T12:00:18+09:00
+lastmod: 2025-10-15T09:15:23+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 417
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-28T10:00:22Z" />
-  <meta property="article:modified_time" content="2025-07-28T10:00:22Z" />
+  <meta property="article:published_time" content="2024-12-19T03:00:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:23Z" />
 </div>
 #식품가공 #육가공 #스낵 #단백질식품 #SPAM #SKIPPY #PLANTERS #냉장식품 #식품브랜드 #식품유통 #통조림 #가공식품 #식료품 #디비던드왕 #안정적성장 #방어주 #해외시장확장 #중국시장 #소비자필수재 #수익다각화 #소매브랜드 #식품서비스 #원자재가격변동 #공급망관리 #유통최적화 #국제식품시장 #식품안전 #지속가능성
 

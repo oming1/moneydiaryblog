@@ -1,15 +1,15 @@
 ﻿---
 title: "CGNX"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2023-06-28T12:17:49+09:00
+lastmod: 2025-10-15T09:09:43+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 192
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2023-06-28T03:17:49Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:43Z" />
 </div>
 #로봇 #머신비전 #산업용바코드판독기 #테크
 

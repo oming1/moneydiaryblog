@@ -1,0 +1,49 @@
+{
+  "githubRepo": "myhomepage",
+  "githubToken": "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",
+  "githubUserName": "financearchive",
+  "gardenBaseUrl": "https://www.moneydiary.co.kr/",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"Red Graphite\",\"author\":\"SeanWcom\",\"repo\":\"seanwcom/Red-Graphite-for-Obsidian\",\"screenshot\":\"thumbnail.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/seanwcom/Red-Graphite-for-Obsidian/HEAD/theme.css\"}",
+  "faviconPath": "",
+  "useFullResolutionImages": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "주절주절 금융일기",
+  "mainLanguage": "ko",
+  "slugifyEnabled": false,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": false,
+  "showNoteIconInFileTree": false,
+  "showNoteIconOnInternalLink": false,
+  "showNoteIconOnBackLink": false,
+  "showCreatedTimestamp": true,
+  "createdTimestampKey": "",
+  "showUpdatedTimestamp": true,
+  "updatedTimestampKey": "",
+  "timestampFormat": "MMM dd, yyyy h:mm a",
+  "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
+  "pathRewriteRules": "",
+  "customFilters": [
+    {
+      "pattern": "",
+      "flags": "g",
+      "replace": ""
+    }
+  ],
+  "contentClassesKey": "dg-content-classes",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": false,
+    "dgLinkPreview": true,
+    "dgShowTags": false
+  }
+}

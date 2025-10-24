@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "showViewHeader": true,
+  "baseFontSize": 18,
+  "translucency": false,
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "social-icons"
+  ]
+}

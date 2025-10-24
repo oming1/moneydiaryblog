@@ -1,15 +1,15 @@
 ﻿---
 title: "ANYCOLOR"
-date: 2025-07-11T22:02:12+09:00
-lastmod: 2025-07-11T22:02:12+09:00
+date: 2025-04-23T22:00:40+09:00
+lastmod: 2025-10-15T09:15:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 76
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T13:02:12Z" />
-  <meta property="article:modified_time" content="2025-07-11T13:02:12Z" />
+  <meta property="article:published_time" content="2025-04-23T13:00:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:26Z" />
 </div>
 ## 핵심 키워드
 

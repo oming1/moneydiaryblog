@@ -1,15 +1,15 @@
 ﻿---
 title: "UAMC"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-27T10:04:54+09:00
+lastmod: 2025-10-15T09:11:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 900
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-27T01:04:54Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:55Z" />
 </div>
 #알루미늄 #자동차부품 #경량화 #정밀가공 #압출 #주조 #표면처리 #자동차산업 #전기차 #하이브리드차 #내연기관차 #소재기술 #글로벌공급망 #환경규제 #연비향상  #재활용 #소재
 

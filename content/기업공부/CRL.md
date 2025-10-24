@@ -1,15 +1,15 @@
 ﻿---
 title: "CRL"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-11-13T17:00:50+09:00
+lastmod: 2025-10-15T09:10:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 234
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-11-13T08:00:50Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:33Z" />
 </div>
 #헬스케어 #바이오테크 #임상실험실서비스 #세포치료 #유전자치료 #실험동물모델 #전임상실험서비스 
 

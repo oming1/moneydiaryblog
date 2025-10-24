@@ -1,15 +1,15 @@
 ﻿---
 title: "SFIX"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-12T21:08:23+09:00
+lastmod: 2025-10-15T09:09:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 783
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-12T12:08:23Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:44Z" />
 </div>
 #온라인개인스타일링서비스 #임의소비재 #의류소매 #의류 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "CMO"
-date: 2025-06-27T02:18:22+09:00
-lastmod: 2025-06-27T02:18:22+09:00
+date: 2025-10-08T23:22:10+09:00
+lastmod: 2025-10-15T09:09:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:18:22Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:18:22Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:44Z" />
 </div>
 #헬스케어  #CMO
 

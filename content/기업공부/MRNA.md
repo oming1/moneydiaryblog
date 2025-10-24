@@ -1,15 +1,15 @@
 ﻿---
 title: "MRNA"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-09-13T10:26:07+09:00
+lastmod: 2025-10-15T09:10:15+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 590
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-09-13T01:26:07Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:15Z" />
 </div>
 #헬스케어 #바이오테크 #mRNA #코로나 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "GCT"
-date: 2025-08-11T22:02:28+09:00
-lastmod: 2025-08-11T22:02:28+09:00
+date: 2025-08-11T10:20:10+09:00
+lastmod: 2025-10-15T09:12:39+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 365
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-11T13:02:28Z" />
-  <meta property="article:modified_time" content="2025-08-11T13:02:28Z" />
+  <meta property="article:published_time" content="2025-08-11T01:20:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:39Z" />
 </div>
 #클라우드컴퓨팅 #데이터센터 #네트워크솔루션 #5G #IoT #글로벌커넥트 #기술혁신 #디지털전환 #AI #빅데이터 #사물인터넷 #고객맞춤형 #서비스형소프트웨어 #SaaS #보안솔루션 #글로벌시장 #경쟁력 #지속가능성 #시장점유율
 

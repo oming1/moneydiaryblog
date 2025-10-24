@@ -1,15 +1,15 @@
 ﻿---
 title: "ASTS"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-11-17T12:02:55+09:00
+lastmod: 2025-10-15T09:09:47+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 91
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-11-17T03:02:55Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:47Z" />
 </div>
 #커뮤니케이션서비스 #위성통신 #인공위성 #통신위성 #우주 #방산 #저궤도위성
 

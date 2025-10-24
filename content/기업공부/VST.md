@@ -1,15 +1,15 @@
 ﻿---
 title: "VST"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-11-05T14:49:04+09:00
+lastmod: 2025-10-15T09:11:45+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 944
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-11-05T05:49:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:45Z" />
 </div>
 #전력 #유틸리티 #원자력발전 #전력생산 #소매전기 #탄소중립 #원자력 #태양광 #배터리저장 #에너지전환 #유틸리티 #재생에너지 #헤징프로그램 #통합사업모델 #배당 #자사주매입 #일리노이석탄태양광전환 #에너지하버인수 #전기화 #주주환원 #기후변화대응 #전기 #ESS 
 

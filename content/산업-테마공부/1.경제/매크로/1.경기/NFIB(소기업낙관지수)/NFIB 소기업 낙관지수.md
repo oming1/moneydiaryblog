@@ -1,15 +1,15 @@
 ﻿---
 title: "NFIB 소기업 낙관지수"
-date: 2025-08-19T20:02:16+09:00
-lastmod: 2025-08-19T20:02:16+09:00
+date: 2025-10-08T23:21:34+09:00
+lastmod: 2025-10-15T09:08:34+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-19T11:02:16Z" />
-  <meta property="article:modified_time" content="2025-08-19T11:02:16Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:34Z" />
 </div>
 #경기 #소기업
 

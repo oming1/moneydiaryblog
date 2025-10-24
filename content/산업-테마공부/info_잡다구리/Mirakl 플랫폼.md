@@ -1,15 +1,15 @@
 ﻿---
-title: "**Mirakl 플랫폼 개념 및 주요 기능**"
-date: 2025-08-29T18:56:37+09:00
-lastmod: 2025-08-29T18:56:37+09:00
+title: "Mirakl 플랫폼"
+date: 2025-08-29T09:42:48+09:00
+lastmod: 2025-10-15T09:10:53+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-29T09:56:37Z" />
-  <meta property="article:modified_time" content="2025-08-29T09:56:37Z" />
+  <meta property="article:published_time" content="2025-08-29T00:42:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:53Z" />
 </div>
 #온라인 #온라인플랫폼 #전자상거래 #BBY 
 

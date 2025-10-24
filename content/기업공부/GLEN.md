@@ -1,15 +1,15 @@
 ﻿---
 title: "GLEN"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-08-30T20:59:21+09:00
+lastmod: 2025-10-15T09:09:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 378
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-08-30T11:59:21Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:25Z" />
 </div>
 #비철금속 #광산 #리사이클링 #원자재 #금속및광업 #농산물 #석탄 #석유 #구리 #아연 #니켈
 

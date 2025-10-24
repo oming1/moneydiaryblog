@@ -1,15 +1,15 @@
 ﻿---
 title: "LSMnM"
-date: 2025-09-29T23:20:35+09:00
-lastmod: 2025-10-02T20:03:34+09:00
+date: 2025-09-15T15:15:30+09:00
+lastmod: 2025-10-15T09:10:39+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 530
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-29T14:20:35Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:03:34Z" />
+  <meta property="article:published_time" content="2025-09-15T06:15:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:39Z" />
 </div>
 #LSMnM #비철금속
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "TDY"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-17T23:42:04+09:00
+lastmod: 2025-10-15T09:11:27+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 855
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-17T14:42:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:27Z" />
 </div>
 #항공우주및방산 #산업재 #항공우주부품 #우주 #방산 #항공 #항공우주 #센서 #관측위성 #이미지센서 #고해상도광학카메라
 

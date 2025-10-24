@@ -1,15 +1,15 @@
 ﻿---
 title: "UAA"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-11T10:20:57+09:00
+lastmod: 2025-10-15T09:09:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 898
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-11T01:20:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:20Z" />
 </div>
 #소비재 #의류제조 #임의소비재
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "DDC"
-date: 2025-07-31T02:21:43+09:00
-lastmod: 2025-07-31T02:21:43+09:00
+date: 2025-07-15T15:38:19+09:00
+lastmod: 2025-10-15T09:13:15+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 264
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T17:21:43Z" />
-  <meta property="article:modified_time" content="2025-07-30T17:21:43Z" />
+  <meta property="article:published_time" content="2025-07-15T06:38:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:15Z" />
 </div>
 ## 핵심 키워드
 

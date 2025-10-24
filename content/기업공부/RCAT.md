@@ -1,15 +1,15 @@
 ﻿---
 title: "RCAT"
-date: 2025-07-31T01:59:57+09:00
-lastmod: 2025-07-31T01:59:57+09:00
+date: 2024-12-17T21:13:51+09:00
+lastmod: 2025-10-15T09:13:09+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 730
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T16:59:57Z" />
-  <meta property="article:modified_time" content="2025-07-30T16:59:57Z" />
+  <meta property="article:published_time" content="2024-12-17T12:13:51Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:09Z" />
 </div>
 #소형드론 #미국방부 #정찰드론 #국방계약 #BluesUAS #틸드론 #에지130 #블랙위도우 #군사드론 #유인항공기 #정찰감시 #무인항공기 #드론제조업체 #펜타곤 #미육군 #상황인식 #항공정보 #로봇시스템 #드론기술 #국방혁신 #드론도미넌스 #전술드론 #UAV #아라크니드 #플라이트웨이브 #틸드론즈 #미국제조 #군사보안 #무인시스템 #드론정찰
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "HP"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-11-29T15:52:43+09:00
+lastmod: 2025-10-15T09:10:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 414
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-11-29T06:52:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:55Z" />
 </div>
 #석유가스 #시추 #에너지 #계약시추 #FlexRig #에너지 #해상시추
 

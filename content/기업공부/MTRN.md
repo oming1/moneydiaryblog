@@ -1,15 +1,15 @@
 ﻿---
 title: "MTRN"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-09-20T14:44:07+09:00
+lastmod: 2025-10-15T09:09:06+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 597
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-09-20T05:44:07Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:06Z" />
 </div>
 #기타산업금속및광업 #기초소재
 

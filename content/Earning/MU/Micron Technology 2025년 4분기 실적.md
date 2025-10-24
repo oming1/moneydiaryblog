@@ -1,15 +1,15 @@
 ﻿---
-title: "마이크론(\\MU) 실적발표 요약"
-date: 2025-09-29T23:20:36+09:00
-lastmod: 2025-10-02T20:04:32+09:00
+title: "Micron Technology 2025년 4분기 실적"
+date: 2025-10-08T23:21:29+09:00
+lastmod: 2025-10-15T09:12:22+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-29T14:20:36Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:04:32Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:22Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "IHRT"
-date: 2025-07-05T10:14:23+09:00
-lastmod: 2025-07-05T10:14:23+09:00
+date: 2025-07-04T09:16:59+09:00
+lastmod: 2025-10-15T09:13:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 437
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-05T01:14:23Z" />
-  <meta property="article:modified_time" content="2025-07-05T01:14:23Z" />
+  <meta property="article:published_time" content="2025-07-04T00:16:59Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:33Z" />
 </div>
 #라디오방송 #디지털오디오 #팟캐스트 #오디오광고 #방송네트워크 #미디어 #iHeartRadio #오디오콘텐츠 #스트리밍 #광고플랫폼 #디지털광고 #커뮤니케이션서비스 #엔터테인먼트 #오디오애널리틱스 #프로그래매틱광고 #팟캐스트플랫폼 #ClearChannel #오디오기술 #음성광고 #미디어네트워크
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "PARA"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-28T13:59:27+09:00
+lastmod: 2025-10-15T09:10:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 674
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-28T04:59:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:29Z" />
 </div>
 #커뮤니케이션서비스 #엔터테인먼트 #스트리밍 #영화 #출판
 

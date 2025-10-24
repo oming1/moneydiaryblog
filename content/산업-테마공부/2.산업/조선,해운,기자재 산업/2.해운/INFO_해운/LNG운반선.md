@@ -1,15 +1,15 @@
 ﻿---
 title: "LNG운반선"
-date: 2025-06-27T02:03:46+09:00
-lastmod: 2025-06-27T02:03:46+09:00
+date: 2025-10-08T23:22:03+09:00
+lastmod: 2025-10-15T09:07:51+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:03:46Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:03:46Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:03Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:07:51Z" />
 </div>
 #LNG운반선 #해운 
 

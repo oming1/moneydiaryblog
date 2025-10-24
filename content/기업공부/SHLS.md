@@ -1,15 +1,15 @@
 ﻿---
 title: "SHLS"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-02-20T11:19:29+09:00
+lastmod: 2025-10-15T09:11:19+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 789
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-02-20T02:19:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:19Z" />
 </div>
 ## 핵심 키워드
 

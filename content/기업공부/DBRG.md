@@ -1,15 +1,15 @@
 ﻿---
 title: "DBRG"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2025-01-28T10:06:05+09:00
+lastmod: 2025-10-15T09:11:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 261
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2025-01-28T01:06:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:18Z" />
 </div>
 ## 핵심 키워드
 

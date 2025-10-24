@@ -1,15 +1,15 @@
 ﻿---
 title: "Raas"
-date: 2025-06-04T05:07:20+09:00
-lastmod: 2025-06-04T05:07:20+09:00
+date: 2024-11-20T21:02:28+09:00
+lastmod: 2025-10-15T09:09:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:07:20Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:07:20Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:28Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:25Z" />
 </div>
 #로봇 #렌탈 
 
@@ -22,7 +22,7 @@ weight: 5
 
 - 세부정보
 	- 국내 주요 RaaS
-		- ![](https://i.imgur.com/8U66rUz.png)
+		- ![](/images/https://i.imgur.com/8U66rUz.png)
 
-	- Geek+의 로봇 렌탈 서비스 및 오퍼레이션 서비스를 제공![](https://i.imgur.com/2IXWm6p.png)
+	- Geek+의 로봇 렌탈 서비스 및 오퍼레이션 서비스를 제공![](/images/https://i.imgur.com/2IXWm6p.png)
 		- 번한기에 1 개월 단위로 로봇 렌탈이 가능한 쉐어링 서비스와, 작업량에 따른 월별 요금 부과 등 다양한 형태의 선택지를 제공하고 있다. RaaS 활성화에 따라 [물류 로봇](/industry-study/물류-로봇/) 도입에 대한 가격 장벽이 점차 낮아질 것으로 기대되며, 로봇 이용 기업의 수요에 맞는 유연한 활용이 가능해질 것으로 전망

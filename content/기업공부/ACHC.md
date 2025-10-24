@@ -1,15 +1,15 @@
 ﻿---
 title: "ACHC"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-12-26T22:20:43+09:00
+lastmod: 2025-10-15T09:11:56+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 17
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-12-26T13:20:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:56Z" />
 </div>
 #의료시설 #행동건강 #정신건강  #헬스케어 #중독치료 #청소년치료 #의료서비스 #정신과치료 #헬스케어
 

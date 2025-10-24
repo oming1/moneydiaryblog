@@ -1,15 +1,15 @@
 ﻿---
 title: "UAM"
-date: 2025-10-02T20:38:06+09:00
-lastmod: 2025-10-02T20:38:06+09:00
+date: 2025-10-08T23:22:10+09:00
+lastmod: 2025-10-15T11:26:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-02T11:38:06Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:38:06Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T02:26:55Z" />
 </div>
 # UAM
 

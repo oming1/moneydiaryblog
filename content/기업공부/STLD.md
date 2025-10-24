@@ -1,15 +1,15 @@
 ﻿---
 title: "STLD"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-02-11T12:50:14+09:00
+lastmod: 2025-10-15T09:10:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 833
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-02-11T03:50:14Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:33Z" />
 </div>
 Steel Dynamics Inc (NASDAQ: STLD) is one of the largest domestic steel producers and metals recyclers in the United States. Here are key details about the company:
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "HMC"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-12-24T15:10:31+09:00
+lastmod: 2025-10-15T09:09:58+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 410
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-12-24T06:10:31Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:58Z" />
 </div>
 #임의소비재 #자동차 #자동차제조업체 #자동차제조업 #일본 #오토바이 
 

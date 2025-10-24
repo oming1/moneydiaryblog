@@ -1,15 +1,15 @@
 ﻿---
 title: "SAF"
-date: 2025-06-27T02:13:25+09:00
-lastmod: 2025-06-27T02:13:25+09:00
+date: 2025-10-08T23:22:05+09:00
+lastmod: 2025-10-15T09:09:24+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 7
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:13:25Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:13:25Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:24Z" />
 </div>
 #SAF #항공운송 #항공 #에너지 #친환경 #항공유 
 
@@ -23,8 +23,8 @@ weight: 7
 	- 국내 정유·항공업계도 강화되는 ESG(환경·사회·지배구조) 기조에 발맞춰 SAF 시장 진출을 선언하고 있다.  
 	- [가격도 기존 항공유 대비 3~5 배 가량 높아] 항공사 비용 부담 증대로 이어질 가능성이 크다. SAF 2% 혼유 시 유류비가 4~8% 증가하고, 10% 혼유 시 20~40% 유류비 부담이 커지게 되는 것으로 추정된다. 향후 SAF 대량생산 체제 구축 등을 통해 가격 하락이 예상되나, 단기적으로 비용 부담이 늘어나는 점에 대해 항공사들은 연료 사용 절감 등의 대책 마련이필요할 것이다. 
 	- 이에 따라 연료 효율이 높인 친환경 항공기 도입(B787 등)과 운항 효율화(비행 경로, 지상 대기 최소화 등)과 같은 연료 사용 감소를 위한 다양한 대책 마련이 요구된다. 대한항공의 경우 기존 [노후 기종을 B787-9 와 B737-8, A321-NEO 와 같은 연료 효율이 높은 항공기 도입을 추진]하고 있고, [제주항공](/industry-study/제주항공/)도 B737-8 도입을 결정한 바 있다. 글로벌 항공 시장에서도 여러 변화가 관측되는 가운데, 트렌드에 맞추어 대응에 나서는 항공사에 주목할 필요가 있다.
-  ![](https://i.imgur.com/HhE4jHD.png)
+  ![](/images/https://i.imgur.com/HhE4jHD.png)
 
 - 세부정보
 	- 항공사별 SAF구매처
-		-  ![](https://i.imgur.com/yGL3dnD.png)
+		-  ![](/images/https://i.imgur.com/yGL3dnD.png)

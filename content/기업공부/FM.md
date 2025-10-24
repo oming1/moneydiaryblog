@@ -1,15 +1,15 @@
 ﻿---
 title: "FM"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2023-05-31T11:06:33+09:00
+lastmod: 2025-10-15T09:09:38+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 347
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2023-05-31T02:06:33Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:38Z" />
 </div>
 #구리 #광산 #원자재
 

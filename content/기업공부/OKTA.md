@@ -1,15 +1,15 @@
 ﻿---
 title: "OKTA"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-05T21:59:54+09:00
+lastmod: 2025-10-15T09:08:32+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 654
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-05T12:59:54Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:32Z" />
 </div>
 #정보기술 #소프트웨어 #인증서비스
  

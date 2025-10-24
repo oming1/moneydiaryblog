@@ -1,15 +1,15 @@
 ﻿---
 title: "CYH"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-26T22:20:39+09:00
+lastmod: 2025-10-15T09:11:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 255
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-26T13:20:39Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:29Z" />
 </div>
 #의료시설 #병원운영 #급성치료 #외래진료 #헬스케어 #지역의료 #재무구조개선 #인수합병 #의료서비스 #환자중심 #헬스케어 #병원 
 

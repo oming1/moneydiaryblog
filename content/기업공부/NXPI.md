@@ -1,15 +1,15 @@
 ﻿---
 title: "NXPI"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-11-05T14:50:04+09:00
+lastmod: 2025-10-15T09:10:50+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 644
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-11-05T05:50:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:50Z" />
 </div>
 #반도체 #테크 #반도체장비 #자동차 #중국 #마이크로컨트롤러
 

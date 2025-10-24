@@ -1,15 +1,15 @@
 ﻿---
 title: "APLD"
-date: 2025-07-10T23:35:47+09:00
-lastmod: 2025-07-10T23:35:47+09:00
+date: 2025-01-15T20:52:09+09:00
+lastmod: 2025-10-15T09:15:19+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 78
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T14:35:47Z" />
-  <meta property="article:modified_time" content="2025-07-10T14:35:47Z" />
+  <meta property="article:published_time" content="2025-01-15T11:52:09Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:19Z" />
 </div>
 #데이터센터 #AI인프라 #GPU컴퓨팅 #고성능컴퓨팅 #비트코인마이닝 #클라우드서비스 #데이터센터호스팅 #AI데이터센터 #디지털인프라 #HPC호스팅 #노스다코타 #CoreWeave #크립토마이닝 #인공지능 #머신러닝 #정보기술 #서비스 #데이터센터개발 #에너지효율 #지속가능성
 

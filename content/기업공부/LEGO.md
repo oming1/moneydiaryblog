@@ -1,15 +1,15 @@
 ﻿---
 title: "LEGO"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-09-19T14:36:46+09:00
+lastmod: 2025-10-15T09:09:04+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 510
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-09-19T05:36:46Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:04Z" />
 </div>
 #로봇  #임의소비재 #가정용내구재 #로봇 #가정용로봇 #교육용로봇 #레저 #가전제품
 

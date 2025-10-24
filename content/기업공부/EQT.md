@@ -1,15 +1,15 @@
 ﻿---
 title: "EQT"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-31T09:00:10+09:00
+lastmod: 2025-10-15T09:10:40+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 320
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-31T00:00:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:40Z" />
 </div>
 #천연가스 #에너지 #탐사생산 #마르셀러스셰일 #유티카셰일 #LNG #석유가스소비연료 #에너지 #NGL #미드스트림
 

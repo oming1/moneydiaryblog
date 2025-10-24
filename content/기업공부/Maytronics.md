@@ -1,15 +1,15 @@
 ﻿---
 title: "Maytronics"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-09-19T14:36:29+09:00
+lastmod: 2025-10-15T09:09:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 549
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-09-19T05:36:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:44Z" />
 </div>
 #로봇 #가정용내구재 #로봇 #가정용로봇 #테크  #수영장청소로봇 #가전제품
 

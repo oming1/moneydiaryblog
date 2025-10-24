@@ -1,15 +1,15 @@
 ﻿---
 title: "DPRO"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2025-01-02T21:08:53+09:00
+lastmod: 2025-10-15T09:10:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 290
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2025-01-02T12:08:53Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:33Z" />
 </div>
 #드론기술 #무인항공시스템 #상업용드론 #정부계약 #항공전자공학 #데이터분석 #실시간영상 #원격조종 #항공안전 #정밀농업 #공공안전 #인프라점검 #환경모니터링 #드론서비스 #혁신기술 #임의소비재 #항공우주방위 #항공우주및방위
 #드론 

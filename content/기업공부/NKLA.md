@@ -1,15 +1,15 @@
 ﻿---
 title: "NKLA"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2023-07-14T10:40:51+09:00
+lastmod: 2025-10-15T09:10:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 619
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2023-07-14T01:40:51Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:44Z" />
 </div>
 #자동차 #수소 #전기차 #수소충전소 #자동차제조 #전기트럭 #산업재 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "NICE"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2025-02-21T10:59:04+09:00
+lastmod: 2025-10-15T09:11:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 613
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2025-02-21T01:59:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:26Z" />
 </div>
 ## 핵심 키워드
 

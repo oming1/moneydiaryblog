@@ -1,15 +1,15 @@
 ﻿---
 title: "TSLA"
-date: 2025-08-20T06:11:06+09:00
-lastmod: 2025-08-20T06:11:06+09:00
+date: 2023-06-20T14:00:02+09:00
+lastmod: 2025-10-15T09:19:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 888
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-19T21:11:06Z" />
-  <meta property="article:modified_time" content="2025-08-19T21:11:06Z" />
+  <meta property="article:published_time" content="2023-06-20T05:00:02Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:19:10Z" />
 </div>
 #자동차 #소비자재량주  #전기차 #태양광 #ESS #태양광패널 #자율주행 #VPP #트럼프 #임의소비재 #배터리기술 #AI #에너지저장 #기가팩토리 #수직계열화 #FSD #테슬라봇 #사이버트럭 #슈퍼차저 #오토파일럿 #EV #FSD #오토파일럿 #사이버트럭 #모델S #모델3 #모델X #모델Y #배터리클린에너지 #일론머스크 #테슬라 #임의소비재
 
@@ -91,7 +91,7 @@ weight: 888
 			  
 			  따라서 목표주가를 $345에서 $320으로 하향하며, 중립의견을 유지합니다.	
 		- 2025-03-15, 저가형 모델 y 중국 출시 가능성에 대한 보도
-		  ![](Pasted%20image%2020250315124611.png)
+		  ![](/images/Pasted%20image%2020250315124611.png)
 		  
 		- 2025-03-26, Tesla([TSLA](/company-analysis/tsla/)) 논란, 미국 EV 수요 기반 확대로 이어질 것
 			- 최근 Elon Musk의 정치 참여로 인해 Tesla 브랜드 가치에 대한 논란이 이어지고 있다. 이것이 판매량 부진으로 이어질 것이라는 우려이다. 당사는 이러한 논란이 오히려, 미국 전기차 수요 기반 확대로 이어질 것으로 판단한다.

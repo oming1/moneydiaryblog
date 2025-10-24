@@ -1,15 +1,15 @@
 ﻿---
 title: "WWD"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-11-09T22:43:30+09:00
+lastmod: 2025-10-15T09:10:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 981
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-11-09T13:43:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:11Z" />
 </div>
 #산업재 #항공우주 #우주 #항공 #항공우주및방산 #항공기엔진 #산업용엔진 #산업용터빈 #항공기엔진제어시스템
 

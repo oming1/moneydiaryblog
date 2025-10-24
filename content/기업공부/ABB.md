@@ -1,15 +1,15 @@
 ﻿---
 title: "ABB"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-09-10T10:24:03+09:00
+lastmod: 2025-10-15T09:09:40+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 8
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-09-10T01:24:03Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:40Z" />
 </div>
 #산업재 #전기장비 #로봇 #변압기 #산업용로봇 
 

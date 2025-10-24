@@ -1,15 +1,15 @@
 ﻿---
 title: "EHC"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-26T22:20:41+09:00
+lastmod: 2025-10-15T09:11:05+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 306
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-26T13:20:41Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:05Z" />
 </div>
 #의료시설 #재활치료 #가정건강관리 #급성기후치료 #헬스케어 
 

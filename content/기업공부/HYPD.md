@@ -1,15 +1,15 @@
 ﻿---
 title: "HYPD"
-date: 2025-07-31T02:21:41+09:00
-lastmod: 2025-07-31T02:21:41+09:00
+date: 2025-07-29T14:14:10+09:00
+lastmod: 2025-10-15T09:14:38+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 431
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T17:21:41Z" />
-  <meta property="article:modified_time" content="2025-07-30T17:21:41Z" />
+  <meta property="article:published_time" content="2025-07-29T05:14:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:38Z" />
 </div>
 #BNB토큰 #암호화폐재무 #디지털자산 #바이낸스생태계 #마이크로스트래티지모델 #암호화폐트레저리 #베이핑산업 #전자담배 #캐나다유통망 #FatPanda #기업인수 #PIPE자금조달 #10XCapital #YZiLabs #비즈니스모델전환 #분산금융 #암호화폐투자 #패시브인컴전략 #BNB스테이킹 #규제된니코틴시장 #암호화폐재무전략 #수직통합 #전략적다각화 #소매확장 #비즈니스피벗 #바이낸스코인 #오미채널전략 #제조역량 #블록체인생태계 #암호화폐ETF
 

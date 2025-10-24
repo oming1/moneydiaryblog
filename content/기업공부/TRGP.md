@@ -1,15 +1,15 @@
 ﻿---
 title: "TRGP"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-28T08:19:06+09:00
+lastmod: 2025-10-15T09:11:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 884
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-27T23:19:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:55Z" />
 </div>
 #미드스트림 #천연가스 #NGL #석유 #파이프라인 #처리시설 #수송 #저장 #프랙셔네이션 #수출터미널 #퍼미안베이신 #통합서비스 #수직계열화 #규모의경제 #장기계약 #에너지인프라 #LPG수출 #에너지
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "TerraPower"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-19T21:00:23+09:00
+lastmod: 2025-10-15T09:10:12+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 860
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-19T12:00:23Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:12Z" />
 </div>
 #원자력발전 #에너지 #원자력발전 #소듐냉각고속로 #SMR #4세대SMR  #소형모듈형원자로 #고순도저농축우라늄 #소듐 #Natrium원자로
 

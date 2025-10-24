@@ -1,15 +1,15 @@
 ﻿---
 title: "TGT"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-22T10:54:23+09:00
+lastmod: 2025-10-15T09:09:19+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 864
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-22T01:54:23Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:19Z" />
 </div>
 #소비재 #중저가 #할인점 #소매 #소비자방어주 #블랙프라이데이 
 

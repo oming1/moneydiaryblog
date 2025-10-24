@@ -1,15 +1,15 @@
 ﻿---
 title: "HD현대중공업"
-date: 2025-06-27T01:59:13+09:00
-lastmod: 2025-06-27T01:59:13+09:00
+date: 2025-10-08T23:22:03+09:00
+lastmod: 2025-10-15T09:08:36+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:59:13Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:59:13Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:03Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:36Z" />
 </div>
 #HD현대중공업 #조선 
 

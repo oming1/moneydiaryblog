@@ -1,15 +1,15 @@
 ﻿---
 title: "2025년"
-date: 2025-10-02T20:38:05+09:00
-lastmod: 2025-10-02T20:38:05+09:00
+date: 2025-10-08T23:21:28+09:00
+lastmod: 2025-10-22T06:43:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-02T11:38:05Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:38:05Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:28Z" />
+  <meta property="article:modified_time" content="2025-10-21T21:43:26Z" />
 </div>
 # 2025년
 

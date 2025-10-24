@@ -1,15 +1,15 @@
 ﻿---
 title: "AMRC"
-date: 2025-08-07T02:33:00+09:00
-lastmod: 2025-08-07T02:33:00+09:00
+date: 2025-08-06T15:44:59+09:00
+lastmod: 2025-10-15T09:13:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 63
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T17:33:00Z" />
-  <meta property="article:modified_time" content="2025-08-06T17:33:00Z" />
+  <meta property="article:published_time" content="2025-08-06T06:44:59Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:54Z" />
 </div>
 #에너지효율 #ESPCs #신재생에너지 #에너지서비스 #탄소중립 #분산에너지자원 #태양광 #PPA #청정기술 #ESCO #바이오가스 #에너지저장 #그린인프라 #지속가능성 #에너지보안 #스마트빌딩 #전력구매계약 #EBITDA #백로그 #연방정부계약 #공공사업 #교육기관 #EaaS #에너지전환
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "TAP"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-01-06T13:59:47+09:00
+lastmod: 2025-10-15T09:10:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 852
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-01-06T04:59:47Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:54Z" />
 </div>
 #맥주 #양조 #알코올음료 #프리미엄브랜드 #글로벌기업 #쿠어스라이트 #밀러라이트 #블루문 #CdTe  #북미시장 #유럽시장  #디지털전환 #비알코올음료 #하드셀처 #크래프트맥주 
 

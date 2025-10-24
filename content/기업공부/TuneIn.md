@@ -1,15 +1,15 @@
 ﻿---
 title: "TuneIn"
-date: 2025-07-10T19:09:22+09:00
-lastmod: 2025-07-10T19:09:22+09:00
+date: 2025-07-04T11:02:54+09:00
+lastmod: 2025-10-15T09:07:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 893
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:09:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:09:22Z" />
+  <meta property="article:published_time" content="2025-07-04T02:02:54Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:07:54Z" />
 </div>
 #스트리밍 #음악스트리밍 
 

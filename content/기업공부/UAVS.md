@@ -1,15 +1,15 @@
 ﻿---
 title: "UAVS"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-01-02T21:08:51+09:00
+lastmod: 2025-10-15T09:11:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 902
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-01-02T12:08:51Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:55Z" />
 </div>
 #드론기술 #무인항공시스템 #정밀농업 #군사용드론 #상업용드론 #정부계약 #항공전자공학 #데이터분석 #클라우드서비스 #IoT #인공지능 #실시간영상 #원격조종 #항공안전 #국방기술 #센서기술 #소프트웨어솔루션 #지리정보시스템 #환경모니터링 #인프라점검 #임의소비재 #항공우주방위 #항공우주및방위 #드론
 

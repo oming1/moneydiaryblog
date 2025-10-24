@@ -1,15 +1,15 @@
 ﻿---
 title: "RIO"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-30T20:59:18+09:00
+lastmod: 2025-10-15T09:10:36+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 745
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-30T11:59:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:36Z" />
 </div>
 #비철금속 #리튬 #비철금속 #원자재 #알루미늄 #리사이클링 #수소 #광산 #기초자재 #금속및광업
 

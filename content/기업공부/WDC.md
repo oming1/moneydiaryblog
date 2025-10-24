@@ -1,15 +1,15 @@
 ﻿---
 title: "WDC"
-date: 2025-08-29T18:15:23+09:00
-lastmod: 2025-08-29T18:15:23+09:00
+date: 2025-01-22T06:56:52+09:00
+lastmod: 2025-10-15T09:11:37+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 957
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-29T09:15:23Z" />
-  <meta property="article:modified_time" content="2025-08-29T09:15:23Z" />
+  <meta property="article:published_time" content="2025-01-21T21:56:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:37Z" />
 </div>
 ## 핵심 키워드
 

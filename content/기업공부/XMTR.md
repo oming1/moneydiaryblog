@@ -1,15 +1,15 @@
 ﻿---
 title: "XMTR"
-date: 2025-08-07T02:33:00+09:00
-lastmod: 2025-08-07T02:33:00+09:00
+date: 2025-08-06T15:45:30+09:00
+lastmod: 2025-10-15T09:14:59+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 985
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T17:33:00Z" />
-  <meta property="article:modified_time" content="2025-08-06T17:33:00Z" />
+  <meta property="article:published_time" content="2025-08-06T06:45:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:59Z" />
 </div>
 #Xometry #XMTR #온디맨드제조 #AI마켓플레이스 #맞춤제조 #CNC가공 #3D프린팅 #사출성형 #판금가공 #Thomas산업소싱 #즉시견적 #머신러닝 #디지털제조 #공급업체네트워크 #제조업디지털화 #Protolabs경쟁 #글로벌확장 #유럽아시아 #기업고객 #제조플랫폼 #산업혁신 #스마트제조 #B2B마켓플레이스 #제조업혁신
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "KLAR"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-08-29T21:57:01+09:00
+lastmod: 2025-10-15T09:09:32+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 489
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-08-29T12:57:01Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:32Z" />
 </div>
 #헬스케어 #의약품제조 #제약 #수마트립탄 #편두통
 

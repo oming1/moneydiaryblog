@@ -1,15 +1,15 @@
 ﻿---
 title: "ALTM"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-10-12T00:12:58+09:00
+lastmod: 2025-10-15T09:09:53+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 55
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-10-11T15:12:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:53Z" />
 </div>
 #원자재 #리튬 #희토류 #특수화학 #전기차 #리튬화학제품 
 #리튬카보네이트 #리튬하이드록사이드 #부틸리튬 #배터리 

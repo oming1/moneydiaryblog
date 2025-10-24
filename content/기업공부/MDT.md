@@ -1,15 +1,15 @@
 ﻿---
 title: "MDT"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-06T22:09:58+09:00
+lastmod: 2025-10-15T09:09:12+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 558
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-06T13:09:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:12Z" />
 </div>
 #헬스케어 #의료장비및용품 
 

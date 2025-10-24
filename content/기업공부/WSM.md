@@ -1,15 +1,15 @@
 ﻿---
 title: "WSM"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-11-21T11:09:06+09:00
+lastmod: 2025-10-15T09:08:40+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 975
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-11-21T02:09:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:40Z" />
 </div>
 #가정용품소매 #경기소비재 #주방용품 #가구 #홈인테리어 
 

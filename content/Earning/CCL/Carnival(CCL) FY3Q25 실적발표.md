@@ -1,15 +1,15 @@
 ﻿---
-title: "카니발(CCL) FY3Q25 실적발표 요약"
-date: 2025-09-30T11:50:34+09:00
-lastmod: 2025-10-02T20:03:49+09:00
+title: "Carnival(CCL) FY3Q25 실적발표"
+date: 2025-10-08T23:21:29+09:00
+lastmod: 2025-10-15T06:58:47+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-30T02:50:34Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:03:49Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
+  <meta property="article:modified_time" content="2025-10-14T21:58:47Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 #CCL 
 

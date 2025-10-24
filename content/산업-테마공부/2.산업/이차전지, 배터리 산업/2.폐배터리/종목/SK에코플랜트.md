@@ -1,15 +1,15 @@
 ﻿---
 title: "SK에코플랜트"
-date: 2025-06-04T05:07:21+09:00
-lastmod: 2025-06-04T05:07:21+09:00
+date: 2025-10-08T23:21:58+09:00
+lastmod: 2025-10-15T09:07:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:07:21Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:07:21Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:07:54Z" />
 </div>
 #폐배터리  #후처리 
 

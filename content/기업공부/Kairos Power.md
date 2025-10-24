@@ -1,15 +1,15 @@
 ﻿---
 title: "Kairos Power"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-11-19T17:08:51+09:00
+lastmod: 2025-10-15T09:10:14+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 477
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-11-19T08:08:51Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:14Z" />
 </div>
 #불화염냉각고온로 #SMR #4세대SMR #저농축산화우라늄 #고순도저농축우라늄 #피복입자 #TRISO연료 #원자력발전 #에너지 #원전 #원자력 #흑연 #헬륨기체 #불화염 #소형모듈형원자로 
 

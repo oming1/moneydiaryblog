@@ -1,15 +1,15 @@
 ﻿---
 title: "COF"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-09-11T09:23:21+09:00
+lastmod: 2025-10-15T09:09:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 212
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-09-11T00:23:21Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:20Z" />
 </div>
 #금융 #신용서비스 #자동차금융 #대출 #신용카드사
 

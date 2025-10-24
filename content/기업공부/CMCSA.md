@@ -1,15 +1,15 @@
 ﻿---
 title: "CMCSA"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-11-21T11:06:15+09:00
+lastmod: 2025-10-15T09:09:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 204
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-11-21T02:06:15Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:46Z" />
 </div>
 #커뮤니케이션서비스 #미디어 #케이블TV #스트리밍 #테마파크 
 

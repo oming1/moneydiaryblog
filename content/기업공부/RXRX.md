@@ -1,15 +1,15 @@
 ﻿---
 title: "RXRX"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-17T21:13:57+09:00
+lastmod: 2025-10-15T09:12:40+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 765
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-17T12:13:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:40Z" />
 </div>
 #AI신약개발 #머신러닝 #희귀질환치료제 #임상시험 #바이오테크 #클라우드컴퓨팅 #데이터과학 #약물발견 #TechBio #임상파이프라인 #CDK7억제제 #희귀신경혈관질환 #종양학 #염증 #인공지능 #생물학맵핑 #고효율스크리닝 #정밀의학 #디지털헬스 #플랫폼기술 #바이오테크 
 

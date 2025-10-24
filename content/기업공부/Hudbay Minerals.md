@@ -1,15 +1,15 @@
 ﻿---
 title: "Hudbay Minerals"
-date: 2025-09-29T23:20:35+09:00
-lastmod: 2025-10-02T20:05:09+09:00
+date: 2025-09-25T12:20:06+09:00
+lastmod: 2025-10-15T09:14:00+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 423
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-29T14:20:35Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:05:09Z" />
+  <meta property="article:published_time" content="2025-09-25T03:20:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:00Z" />
 </div>
 #허드베이광산 #HBM #구리 #금 #은 #아연 #광산기업 #베이스메탈 #귀금속 #탐사 #개발 #생산 #페루광산 #캐나다광산 #미국광산 #Constancia #Lalor #CopperWorld #지속가능광업 #에너지전환 #전기차수혜 #원자재가격 #글로벌공급망 #운영효율 #탐사잠재력 #ESG경영 #지역사회 #환경규제 #광업기술 #지하채굴 #노천채굴 #선광 #제련 #공급망다변화 #광물자원 #미국산업 #캐나다산업 #페루산업 #산업구조 #광업경제 #광업투자 #광업성장
 

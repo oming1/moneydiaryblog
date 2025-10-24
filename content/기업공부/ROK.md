@@ -1,15 +1,15 @@
 ﻿---
 title: "ROK"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-03-31T17:21:30+09:00
+lastmod: 2025-10-15T09:12:06+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 755
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-03-31T08:21:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:06Z" />
 </div>
 #관세 #자동화 #리쇼어링 #산업자동화 #스마트제조 #IoT #디지털전환 #PLC #SCADA #산업로봇 #모션제어 #AI기술 #클라우드컴퓨팅 #제조효율성 #지속가능성 #ESG #산업용소프트웨어 #사이버보안 #디지털트윈 #인더스트리4.0 #공장자동화 #스마트팩토리
 
@@ -25,7 +25,7 @@ Rockwell Automation Inc.(NYSE: ROK)는 미국 위스콘신주 밀워키에 본�
 
 록웰 오토메이션은 다양한 산업 자동화 솔루션과 정보 서비스를 제공 하는 기업이다. PLC에 강점이 있다. 
 
-사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](Pasted%20image%2020250331172254.png)
+사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](/images/Pasted%20image%2020250331172254.png)
 
 지능형 장치 사업부는 록웰의 하드웨어 사업부다. 드라이브, 모션, 안전 센싱, 산업용 부품 및 주문형 제품 판매 등을 영위한다. 
 

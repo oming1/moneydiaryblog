@@ -1,15 +1,15 @@
 ﻿---
 title: "CORZ"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-17T21:13:59+09:00
+lastmod: 2025-10-15T09:10:04+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 220
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-17T12:13:59Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:04Z" />
 </div>
 #소프트웨어 #정보기술 #비트코인
 ## 산업섹터

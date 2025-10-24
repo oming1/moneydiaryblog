@@ -1,15 +1,15 @@
 ﻿---
 title: "LCC"
-date: 2025-08-05T05:50:57+09:00
-lastmod: 2025-08-05T05:50:57+09:00
+date: 2025-10-08T23:22:05+09:00
+lastmod: 2025-10-15T09:11:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-04T20:50:57Z" />
-  <meta property="article:modified_time" content="2025-08-04T20:50:57Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:41Z" />
 </div>
 #항공 #항공운송 #화물운송 #여객운송 #LCC #화물 
 

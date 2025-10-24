@@ -1,15 +1,15 @@
 ﻿---
 title: "LLY"
-date: 2025-09-09T18:28:17+09:00
-lastmod: 2025-09-09T18:28:17+09:00
+date: 2024-08-21T17:21:12+09:00
+lastmod: 2025-10-15T09:16:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 522
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-09T09:28:17Z" />
-  <meta property="article:modified_time" content="2025-09-09T09:28:17Z" />
+  <meta property="article:published_time" content="2024-08-21T08:21:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:16:33Z" />
 </div>
 #헬스케어 #제약 #당뇨병 #암 #비만치료제 #마운자로 #젭바운드 #수면무호흡 #비만치료제 #당뇨치료제 #티르제파타이드 #인슐린 #GLP-1 #제약회사 #바이오파마 #신약개발 #임상시험 #API #원료의약품 #대사질환 #면역학 #종양학 #신경과학 #프로작 #심발타 #지프렉사 #제약산업 #헬스케어
 
@@ -262,7 +262,7 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 
 ## **주요제품**
 
-**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](Pasted%20image%2020240828151149.png)
+**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png)
 
 **Zepbound ([티르제파타이드](/industry-study/티르제파타이드/), [젭바운드](/industry-study/젭바운드/)):** 비만 치료제, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/). **GLP-1 유사 펩티드** 계열로(GLP-1/GIP 이중작용제), 체중 감량([비만 치료제](/industry-study/비만-치료제/))과 당뇨병 예방에 효과적이며 [비만 치료제](/industry-study/비만-치료제/)로 각광 받고 있음. 최근에는 **폐쇄성 수면 무호흡증(수면 무호흡)**, 환자에게도 효과가 있는 것으로 나타났습니다.
 	- [티르제파타이드는 38개의 아미노산으로 이루어진 합성 선형 펩타이드](9.9_모두가%20기다린%20마법의%20약.pdf#page=35&selection=30,0,43,4&color=yellow)

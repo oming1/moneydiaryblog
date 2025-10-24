@@ -1,15 +1,15 @@
 ﻿---
 title: "SPOT"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-29T21:47:52+09:00
+lastmod: 2025-10-15T09:15:30+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 822
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-29T12:47:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:30Z" />
 </div>
 #인터넷콘텐츠및정보  #디지털오디오스트리밍 
 #음악스트리밍 #오디오스트리밍 #구독서비스 #팟캐스트 #오디오북 #프리미엄구독 #광고기반수익 #독점콘텐츠 #글로벌음악 #디지털음악 #스트리밍플랫폼 #오디오플랫폼 #구독경제 #디지털미디어 #엔터테인먼트 #음악발견 #플레이리스트 #커뮤니케이션서비스 #미디어스트리밍

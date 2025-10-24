@@ -1,15 +1,15 @@
 ﻿---
 title: "CNI"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2025-02-06T21:24:43+09:00
+lastmod: 2025-10-15T09:11:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 208
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2025-02-06T12:24:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:46Z" />
 </div>
 ## 핵심 키워드
 

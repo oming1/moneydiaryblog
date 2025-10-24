@@ -1,15 +1,15 @@
 ﻿---
 title: "CI"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-11-11T23:01:16+09:00
+lastmod: 2025-10-15T09:10:28+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 196
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-11-11T14:01:16Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:28Z" />
 </div>
 #보험 #헬스케어 #관리형헬스케어 #건강보험 #메디케어 #메디케이드 #의약품혜택관리중개자 #약국 
 

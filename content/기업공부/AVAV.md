@@ -1,15 +1,15 @@
 ﻿---
 title: "AVAV"
-date: 2025-07-31T02:21:59+09:00
-lastmod: 2025-07-31T02:21:59+09:00
+date: 2024-09-02T12:23:14+09:00
+lastmod: 2025-10-15T09:13:12+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 98
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-30T17:21:59Z" />
-  <meta property="article:modified_time" content="2025-07-30T17:21:59Z" />
+  <meta property="article:published_time" content="2024-09-02T03:23:14Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:12Z" />
 </div>
 #드론제조 #무인항공기 #국방계약업체 #배회탄약 #스위치블레이드 #군사드론 #소형무인기 #레이븐드론 #퓨마드론 #와스프드론 #미군공급업체 #로이터링뮤니션 #자율무기시스템 #미국육군계약 #다영역로봇시스템 #정찰드론 #공격드론 #방산혁신 #UAV기술 #무인지상차량 #드론방어 #전술미사일 #원맨팀드론 #펜타곤공급업체 #항공우주기술 #스마트무기
 

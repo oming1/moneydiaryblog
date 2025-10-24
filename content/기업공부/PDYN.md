@@ -1,15 +1,15 @@
 ﻿---
 title: "PDYN"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2025-01-16T22:15:34+09:00
+lastmod: 2025-10-15T09:11:23+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 680
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2025-01-16T13:15:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:23Z" />
 </div>
 ## 핵심 키워드
 

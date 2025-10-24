@@ -1,15 +1,15 @@
 ﻿---
 title: "ERIE"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-09-24T10:20:16+09:00
+lastmod: 2025-10-15T09:10:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 321
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-09-24T01:20:16Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:10Z" />
 </div>
 #금융서비스 #보험 
 

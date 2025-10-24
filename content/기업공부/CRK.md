@@ -1,15 +1,15 @@
 ﻿---
 title: "CRK"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-31T09:02:30+09:00
+lastmod: 2025-10-15T09:10:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 233
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-31T00:02:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:18Z" />
 </div>
 #석유가스 #탐사생산 #천연가스 #에너지 #석유가스소비연료 #에너지 #원유 
 

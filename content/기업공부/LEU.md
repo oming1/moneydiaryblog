@@ -1,15 +1,15 @@
 ﻿---
 title: "LEU"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-10-03T21:16:25+09:00
+lastmod: 2025-10-15T09:10:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 512
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-10-03T12:16:25Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:20Z" />
 </div>
 #우라늄 #에너지 #원전 #원자력 #친환경 #저농축산화우라늄 #고순도저농축우라늄
 

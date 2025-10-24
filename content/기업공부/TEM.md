@@ -1,15 +1,15 @@
 ﻿---
 title: "TEM"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-12-13T21:48:45+09:00
+lastmod: 2025-10-15T09:11:12+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 858
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-12-13T12:48:45Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:12Z" />
 </div>
 #테크 #컴퓨터소프트웨어 #헬스케어 
 

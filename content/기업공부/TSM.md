@@ -1,15 +1,15 @@
 ﻿---
 title: "TSM"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-08-29T21:47:48+09:00
+lastmod: 2025-10-15T09:09:59+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 889
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-08-29T12:47:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:59Z" />
 </div>
 #테크 #반도체 #파운드리
 

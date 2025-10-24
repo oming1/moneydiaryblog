@@ -1,15 +1,15 @@
 ﻿---
 title: "HBM"
-date: 2025-07-10T19:44:21+09:00
-lastmod: 2025-07-10T19:44:21+09:00
+date: 2024-11-20T21:02:28+09:00
+lastmod: 2025-10-15T09:08:57+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:21Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:21Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:28Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:57Z" />
 </div>
 #반도체 #DRAM
 
@@ -28,7 +28,7 @@ weight: 4
 		 - 아무리 GPU/CPU의 성능이 좋아도, 도로가 막히면 도로묵 => 고성능 도로를 깔아줘야 하는 것
 		 - 실제 [NVDA](/company-analysis/nvda/)(엔비디아)의 AI 서버 제품인 H100에는 GPU 내에 HBM이 기본 탑재됨
 
-	-  HBM 시장점유율과 경쟁?![](https://i.imgur.com/UJT5kqK.png)
+	-  HBM 시장점유율과 경쟁?![](/images/https://i.imgur.com/UJT5kqK.png)
 
 		 - SK하이닉스 50%, 삼성전자 40%, 마이크론 10% (2022년 기준)
 		 - HBM도 2013년 첫 개발 이후, 계속 기술이 발전해 1세대부터 4세대까지 등장

@@ -1,15 +1,15 @@
 ﻿---
 title: "ACMR"
-date: 2025-08-26T05:27:02+09:00
-lastmod: 2025-08-26T05:27:02+09:00
+date: 2025-08-25T17:14:53+09:00
+lastmod: 2025-10-15T09:12:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 22
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-25T20:27:02Z" />
-  <meta property="article:modified_time" content="2025-08-25T20:27:02Z" />
+  <meta property="article:published_time" content="2025-08-25T08:14:53Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:54Z" />
 </div>
 #ACMResearch #ACMR #웨이퍼세정 #반도체장비 #웨이퍼전처리 #CMP세정 #ATW세정코팅 #습식공정 #반도체제조 #고객맞춤장비 #메가소닉 #나노클린 #장비판매 #서비스매출 #OEM #파운드리 #IDM #글로벌네트워크 #정밀제어 #에너지절감 #공정수율 #웨이퍼품질 #수율향상
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "NOC"
-date: 2025-07-12T00:12:59+09:00
-lastmod: 2025-07-12T00:12:59+09:00
+date: 2024-11-09T22:37:44+09:00
+lastmod: 2025-10-15T09:15:02+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 622
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T15:12:59Z" />
-  <meta property="article:modified_time" content="2025-07-11T15:12:59Z" />
+  <meta property="article:published_time" content="2024-11-09T13:37:44Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:02Z" />
 </div>
 #B-21레이더 #F-35 #센티널ICBM #미사일방어 #우주시스템 #무인항공기 #글로벌호크 #트리톤 #우주항공 #국방 #스텔스폭격기 #전투기 #위성 #레이더 #전자전 #사이버보안 #핵무기 #차세대요격기 #우주발사 #방위산업 
 

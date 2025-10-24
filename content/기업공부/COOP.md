@@ -1,15 +1,15 @@
 ﻿---
 title: "COOP"
-date: 2025-09-30T19:36:25+09:00
-lastmod: 2025-10-02T20:05:08+09:00
+date: 2025-09-30T14:46:53+09:00
+lastmod: 2025-10-15T09:13:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 217
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-30T10:36:25Z" />
-  <meta property="article:modified_time" content="2025-10-02T11:05:08Z" />
+  <meta property="article:published_time" content="2025-09-30T05:46:53Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:55Z" />
 </div>
 #미스터쿠퍼 #COOP #모기지서비스 #주택담보대출 #대출관리 #대출매입 #부동산금융 #주택담보시장 #저당채권 #주택금융 #이자율리스크 #금리상승 #주택시장 #데이터드리븐 #디지털플랫폼 #모바일앱 #고객유지 #리파이낸싱 #재융자 #기술혁신 #규제준수 #리스크관리 #수수료수익 #이자수익 #금융테크 #주택대출시장 #금융서비스 #데이터분석 #개인화서비스 #주택시장분석 #글로벌금융 #주택경제
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "AUR"
-date: 2025-08-13T01:32:58+09:00
-lastmod: 2025-08-13T01:32:58+09:00
+date: 2024-12-13T22:02:44+09:00
+lastmod: 2025-10-15T09:10:16+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 96
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:58Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:58Z" />
+  <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:16Z" />
 </div>
 #자율주행 #테크 #정보기술서비스 #라이다 #LiDAR
 

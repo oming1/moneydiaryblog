@@ -1,15 +1,15 @@
 ﻿---
 title: "UNH"
-date: 2025-08-21T01:11:14+09:00
-lastmod: 2025-08-21T01:11:14+09:00
+date: 2024-09-06T15:11:49+09:00
+lastmod: 2025-10-15T09:12:08+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 910
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-20T16:11:14Z" />
-  <meta property="article:modified_time" content="2025-08-20T16:11:14Z" />
+  <meta property="article:published_time" content="2024-09-06T06:11:49Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:08Z" />
 </div>
 #워렌버핏 #UnitedHealth #UNH #건강보험 #의료서비스 #헬스케어 #ManagedCare #Optum #보험청구 #의료비절감 #데이터분석 #원격의료 #처방약관리 #통합플랫폼 #인구고령화 #비용관리 #디지털헬스 #AI헬스케어 #텔레헬스 #PBM #CareCoordination #RiskAdjustment #메디케어 
 

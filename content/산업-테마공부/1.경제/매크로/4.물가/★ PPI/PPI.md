@@ -1,15 +1,15 @@
 ﻿---
 title: "PPI"
-date: 2025-08-17T18:22:23+09:00
-lastmod: 2025-08-17T18:22:23+09:00
+date: 2024-11-20T21:02:27+09:00
+lastmod: 2025-10-15T09:10:50+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-17T09:22:23Z" />
-  <meta property="article:modified_time" content="2025-08-17T09:22:23Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:50Z" />
 </div>
 #물가 #생산자물가
 
@@ -63,10 +63,10 @@ PPI는 국내 생산자가 받는 판매가격의 평균 변화를 측정합니�
 				- 미국 6월 PPI 역시 시장 컨센서스 하회. 전월치도 하향
 				- 주간 신규 실업수당 청구건수는 시장 예상보다 적은 +23.7만건 기록
 				- 물가안정 기대와 견고한 고용시장의 지표 조합
-				- ![](https://i.imgur.com/PLuCtc1.png)
-				- ![](https://i.imgur.com/y5YeiZw.png)
-				- ![](https://i.imgur.com/vWjsZpL.png)
-				- ![](https://i.imgur.com/lwbJ5pY.png)
+				- ![](/images/https://i.imgur.com/PLuCtc1.png)
+				- ![](/images/https://i.imgur.com/y5YeiZw.png)
+				- ![](/images/https://i.imgur.com/vWjsZpL.png)
+				- ![](/images/https://i.imgur.com/lwbJ5pY.png)
 
 			- **[금융시장 반응]
 				- 발표 전

@@ -1,15 +1,15 @@
 ﻿---
 title: "BITQ"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-12-05T22:13:46+09:00
+lastmod: 2025-10-15T09:08:00+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 134
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-12-05T13:13:46Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:00Z" />
 </div>
 #비트코인 #암호화폐 
 

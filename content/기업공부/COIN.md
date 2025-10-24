@@ -1,15 +1,15 @@
 ﻿---
 title: "COIN"
-date: 2025-07-11T02:56:05+09:00
-lastmod: 2025-07-11T02:56:05+09:00
+date: 2023-07-14T10:40:49+09:00
+lastmod: 2025-10-15T09:15:24+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 214
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T17:56:05Z" />
-  <meta property="article:modified_time" content="2025-07-10T17:56:05Z" />
+  <meta property="article:published_time" content="2023-07-14T01:40:49Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:24Z" />
 </div>
 #암호화폐 #비트코인 #이더리움 #디지털자산 #블록체인 #거래소 #커스터디 #스테이블코인 #USDC #스테이킹 #DeFi #NFT #웹3 #핀테크 #디지털지갑 #Layer2 #Base #기관투자자 #개인투자자 #규제 #라이선스 #금융 #핀테크
 

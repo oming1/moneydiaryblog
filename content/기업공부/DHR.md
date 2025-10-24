@@ -1,15 +1,15 @@
 ﻿---
 title: "DHR"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-11-13T16:55:18+09:00
+lastmod: 2025-10-15T09:10:32+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 277
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-11-13T07:55:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:32Z" />
 </div>
 #헬스케어 #진단 #진단기기 
 

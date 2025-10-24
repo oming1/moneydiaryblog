@@ -1,15 +1,15 @@
 ﻿---
 title: "INTC"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-09-02T12:13:48+09:00
+lastmod: 2025-10-15T09:10:02+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 447
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-09-02T03:13:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:02Z" />
 </div>
 #반도체 #테크 #데이터센터 #파운드리 #AI #모빌아이 #자율주행
 

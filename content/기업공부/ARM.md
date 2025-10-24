@@ -1,15 +1,15 @@
 ﻿---
 title: "ARM"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-09-10T16:28:19+09:00
+lastmod: 2025-10-15T09:10:30+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 85
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-09-10T07:28:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:30Z" />
 </div>
 #테크 #반도체 #마이크로컨트롤러
 

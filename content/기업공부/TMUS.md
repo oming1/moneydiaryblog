@@ -1,15 +1,15 @@
 ﻿---
 title: "TMUS"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-12-10T10:50:10+09:00
+lastmod: 2025-10-15T09:09:16+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 877
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-12-10T01:50:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:16Z" />
 </div>
 #무선통신서비스 #통신사 #커뮤니케이션서비스 #통신서비스
 

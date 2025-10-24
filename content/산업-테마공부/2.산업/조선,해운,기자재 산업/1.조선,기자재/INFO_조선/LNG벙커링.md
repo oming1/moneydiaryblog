@@ -1,15 +1,15 @@
 ﻿---
 title: "LNG벙커링"
-date: 2025-06-27T02:01:41+09:00
-lastmod: 2025-06-27T02:01:41+09:00
+date: 2025-10-08T23:22:02+09:00
+lastmod: 2025-10-15T09:09:28+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:01:41Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:01:41Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:02Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:28Z" />
 </div>
 #LNG벙커링 #LNG
 

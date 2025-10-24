@@ -1,15 +1,15 @@
 ﻿---
 title: "AKAM"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-11-11T09:37:57+09:00
+lastmod: 2025-10-15T09:10:04+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 48
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-11-11T00:37:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:04Z" />
 </div>
 #테크 #소프트웨어 #CDN #클라우드보안
 

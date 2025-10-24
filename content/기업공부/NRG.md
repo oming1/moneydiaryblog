@@ -1,15 +1,15 @@
 ﻿---
 title: "NRG"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-11-07T12:04:11+09:00
+lastmod: 2025-10-15T09:11:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 627
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-11-07T03:04:11Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:46Z" />
 </div>
 #전력생산및유통 #유틸리티 #캐나다 #전력생산 #도매전력시장 #에너지 #천연가스 #석탄 #풍력 #태양광 #원자력발전 #원전 #마이크로그리드 #분산형발전 #전기차충전 #전력유틸리티 #바이오매스
 

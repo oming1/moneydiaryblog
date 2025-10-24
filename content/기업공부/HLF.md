@@ -1,15 +1,15 @@
 ﻿---
 title: "HLF"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2025-02-21T11:01:29+09:00
+lastmod: 2025-10-15T09:11:22+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 407
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2025-02-21T02:01:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:22Z" />
 </div>
 ## 핵심 키워드
 

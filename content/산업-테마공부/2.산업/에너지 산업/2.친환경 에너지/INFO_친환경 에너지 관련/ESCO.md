@@ -1,15 +1,15 @@
 ﻿---
 title: "ESCO"
-date: 2025-08-07T02:40:20+09:00
-lastmod: 2025-08-07T02:40:20+09:00
+date: 2025-10-08T23:21:54+09:00
+lastmod: 2025-10-15T09:11:49+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T17:40:20Z" />
-  <meta property="article:modified_time" content="2025-08-06T17:40:20Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:54Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:49Z" />
 </div>
 #ESCO #에너지서비스기업 #에너지절약전문기업 #에너지효율 #성과보증계약 #탄소중립 #ESG투자 #그린뉴딜 #에너지관리 #LED조명 #고효율설비 #보일러교체 #냉난방시스템 #태양광 #지열 #폐열회수 #인버터 #BMS #스마트빌딩 #에너지진단 #케너텍 #한국에너지공단 #정부지원사업 #저탄소경제 #지속가능성 #에너지 
 

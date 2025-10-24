@@ -1,15 +1,15 @@
 ﻿---
 title: "LI"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-09-06T11:06:21+09:00
+lastmod: 2025-10-15T09:10:23+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 515
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-09-06T02:06:21Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:23Z" />
 </div>
 #자동차 #전기차 #중국 #산업재 #프리미엄전기차
 

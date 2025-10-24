@@ -1,15 +1,15 @@
 ﻿---
 title: "NWS"
-date: 2025-07-05T10:14:23+09:00
-lastmod: 2025-07-05T10:14:23+09:00
+date: 2025-07-04T10:14:56+09:00
+lastmod: 2025-10-15T09:15:06+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 643
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-05T01:14:23Z" />
-  <meta property="article:modified_time" content="2025-07-05T01:14:23Z" />
+  <meta property="article:published_time" content="2025-07-04T01:14:56Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:06Z" />
 </div>
 ## 미국 상장 여부
 

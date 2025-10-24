@@ -1,15 +1,15 @@
 ﻿---
 title: "MMS"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-20T21:58:30+09:00
+lastmod: 2025-10-15T09:09:17+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 572
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-20T12:58:30Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:17Z" />
 </div>
 #데이터처리및아웃소싱서비스 #정보기술 #정부 
 

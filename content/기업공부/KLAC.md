@@ -1,15 +1,15 @@
 ﻿---
 title: "KLAC"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2025-01-17T06:51:48+09:00
+lastmod: 2025-10-15T09:11:19+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 488
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2025-01-16T21:51:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:19Z" />
 </div>
 ## 핵심 키워드
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SE"
-date: 2025-07-11T22:00:47+09:00
-lastmod: 2025-07-11T22:00:47+09:00
+date: 2025-07-10T11:26:34+09:00
+lastmod: 2025-10-15T09:15:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 779
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T13:00:47Z" />
-  <meta property="article:modified_time" content="2025-07-11T13:00:47Z" />
+  <meta property="article:published_time" content="2025-07-10T02:26:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:29Z" />
 </div>
 #동남아시아 #이커머스 #게임 #핀테크 #쇼피 #가레나 #씨머니 #프리파이어 #모바일게임 #온라인쇼핑 #디지털금융 #라틴아메리카 #브라질 #싱가포르 #플랫폼 #생태계 #GMV #라이브스트리밍 #배틀로얄 #전자지갑 #임의소비재 #정보기술
 

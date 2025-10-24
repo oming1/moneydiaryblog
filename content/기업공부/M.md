@@ -1,15 +1,15 @@
 ﻿---
 title: "M"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-08-22T10:56:19+09:00
+lastmod: 2025-10-15T09:09:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 541
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-08-22T01:56:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:11Z" />
 </div>
 #소비재 #백화점 #소매 #임의소비재
 

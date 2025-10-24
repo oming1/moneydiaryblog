@@ -1,15 +1,15 @@
 ﻿---
 title: "UAMY"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-19T16:21:57+09:00
+lastmod: 2025-10-15T09:10:04+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 901
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-19T07:21:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:04Z" />
 </div>
 #안티모니 #희토류 #금속및광업 #기초소재 #원자재 #귀금속 #제올라이트 #금 #은 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "APP"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-12-13T21:49:52+09:00
+lastmod: 2025-10-15T09:11:07+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 80
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-12-13T12:49:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:07Z" />
 </div>
 #앱개발자를위한소프트웨어플랫폼 #금융 #테크 
 

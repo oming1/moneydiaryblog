@@ -1,15 +1,15 @@
 ﻿---
-title: "최근이슈"
-date: 2025-07-12T09:17:29+09:00
-lastmod: 2025-07-12T09:17:29+09:00
+title: "WOLF"
+date: 2024-10-03T21:19:37+09:00
+lastmod: 2025-10-15T09:16:15+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 967
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-12T00:17:29Z" />
-  <meta property="article:modified_time" content="2025-07-12T00:17:29Z" />
+  <meta property="article:published_time" content="2024-10-03T12:19:37Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:16:15Z" />
 </div>
 ## 핵심 키워드
 

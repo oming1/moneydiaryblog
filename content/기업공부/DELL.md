@@ -1,15 +1,15 @@
 ﻿---
 title: "DELL"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-08-30T11:09:18+09:00
+lastmod: 2025-10-15T09:09:49+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 271
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-08-30T02:09:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:49Z" />
 </div>
 #테크 #컴퓨터하드웨어 #컴퓨터 #서버 
 

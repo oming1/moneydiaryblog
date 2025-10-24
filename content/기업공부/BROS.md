@@ -1,15 +1,15 @@
 ﻿---
 title: "BROS"
-date: 2025-07-10T23:59:20+09:00
-lastmod: 2025-07-10T23:59:20+09:00
+date: 2024-09-16T12:23:36+09:00
+lastmod: 2025-10-15T09:15:16+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 156
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T14:59:20Z" />
-  <meta property="article:modified_time" content="2025-07-10T14:59:20Z" />
+  <meta property="article:published_time" content="2024-09-16T03:23:36Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:16Z" />
 </div>
 #커피 #드라이브스루 #음료 #에스프레소 #차세대커피 #확장 #가맹점 #직영점 #브로이스타 #고객경험 #음료혁신 #프랜차이즈 #서부지역 #성장 #매출증가 #젊은층 #소셜미디어 #브랜드충성도 #레스토랑 #임의소비재
 

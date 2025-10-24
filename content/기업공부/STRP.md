@@ -1,15 +1,15 @@
 ﻿---
 title: "STRP"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-05T22:09:11+09:00
+lastmod: 2025-10-15T09:08:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 835
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-05T13:09:11Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:33Z" />
 </div>
 #정보기술 #금융기술 #결제처리플랫폼
 

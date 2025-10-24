@@ -1,15 +1,15 @@
 ﻿---
 title: "WBA"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-28T16:51:52+09:00
+lastmod: 2025-10-15T09:09:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 952
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-28T07:51:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:11Z" />
 </div>
 #약국 #헬스케어 #소비재 #소비자방어주 #건기식 #제약소매업
 

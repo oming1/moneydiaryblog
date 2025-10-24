@@ -1,15 +1,15 @@
 ﻿---
 title: "KSS"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-09-02T12:22:41+09:00
+lastmod: 2025-10-15T09:09:12+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 495
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-09-02T03:22:41Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:12Z" />
 </div>
 #소비재 #백화점 #소매 #의류  #임의소비재 
 

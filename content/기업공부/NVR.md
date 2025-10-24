@@ -1,15 +1,15 @@
 ﻿---
 title: "NVR"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-10-30T20:54:20+09:00
+lastmod: 2025-10-15T09:09:01+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 640
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-10-30T11:54:20Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:01Z" />
 </div>
 #주택건설 #부동산 #임의소비재
 

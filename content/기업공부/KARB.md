@@ -1,15 +1,15 @@
 ﻿---
 title: "KARB"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2023-05-24T14:58:50+09:00
+lastmod: 2025-10-15T09:08:33+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 478
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2023-05-24T05:58:50Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:33Z" />
 </div>
 #ETF
 

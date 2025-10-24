@@ -1,15 +1,15 @@
 ﻿---
 title: "METC"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2025-07-15T15:38:22+09:00
+lastmod: 2025-10-15T09:14:38+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 563
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2025-07-15T06:38:22Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:38Z" />
 </div>
 ## 2. 핵심 키워드
 

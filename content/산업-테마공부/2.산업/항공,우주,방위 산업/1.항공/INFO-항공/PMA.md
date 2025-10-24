@@ -1,15 +1,15 @@
 ﻿---
 title: "PMA"
-date: 2025-08-28T00:51:03+09:00
-lastmod: 2025-08-28T00:51:03+09:00
+date: 2025-10-08T23:22:05+09:00
+lastmod: 2025-10-15T09:11:09+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-27T15:51:03Z" />
-  <meta property="article:modified_time" content="2025-08-27T15:51:03Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:05Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:09Z" />
 </div>
 #항공 #FAA #MRO #대체부품 #PMA대체부품 
 

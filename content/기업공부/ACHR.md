@@ -1,15 +1,15 @@
 ﻿---
 title: "ACHR"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-12-03T21:55:10+09:00
+lastmod: 2025-10-15T06:35:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 18
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-12-03T12:55:10Z" />
+  <meta property="article:modified_time" content="2025-10-14T21:35:18Z" />
 </div>
 #산업재 #항공우주및방위 #eVTOL #UAM
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "ULTA"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-08-30T11:10:34+09:00
+lastmod: 2025-10-15T09:10:47+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 908
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-08-30T02:10:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:47Z" />
 </div>
 #전문소매 #소비자재량주 #화장품 #스킨케어 #임의소비재
 

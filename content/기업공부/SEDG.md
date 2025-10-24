@@ -1,15 +1,15 @@
 ﻿---
 title: "SEDG"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-12T11:46:47+09:00
+lastmod: 2025-10-15T09:10:20+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 780
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-12T02:46:47Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:20Z" />
 </div>
 #태양광 #테크 #태양광인버터 #전기차충전기 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "State Farm"
-date: 2025-07-10T19:04:45+09:00
-lastmod: 2025-07-10T19:04:45+09:00
+date: 2025-07-04T09:44:07+09:00
+lastmod: 2025-10-15T09:07:47+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 831
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:04:45Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:04:45Z" />
+  <meta property="article:published_time" content="2025-07-04T00:44:07Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:07:47Z" />
 </div>
 #보험 #상호보험
  

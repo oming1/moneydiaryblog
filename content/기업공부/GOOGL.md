@@ -1,15 +1,15 @@
 ﻿---
 title: "GOOGL"
-date: 2025-07-10T22:13:23+09:00
-lastmod: 2025-07-10T22:13:23+09:00
+date: 2023-07-14T10:40:11+09:00
+lastmod: 2025-10-15T09:15:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 384
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T13:13:23Z" />
-  <meta property="article:modified_time" content="2025-07-10T13:13:23Z" />
+  <meta property="article:published_time" content="2023-07-14T01:40:11Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:18Z" />
 </div>
 #구글검색 #유튜브 #광고 #클라우드 #AI #안드로이드 #크롬 #검색엔진 #데이터 #알고리즘 #머신러닝 #웨이모 #자율주행 #픽셀 #구글워크스페이스 #빅데이터 #디지털광고 #플랫폼 #인공지능 #혁신 #커뮤니케이션서비스 #정보기술
 

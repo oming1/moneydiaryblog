@@ -1,15 +1,15 @@
 ﻿---
 title: "Impossible Foods"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2023-07-15T11:50:41+09:00
+lastmod: 2025-10-15T09:11:06+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 441
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2023-07-15T02:50:41Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:06Z" />
 </div>
 #포장식품 #대체육 #소비자방어주
 
@@ -26,14 +26,14 @@ Impossible Foods, Inc.는 2011년에 설립된 미국의 식품 회사로, 식�
 	- 기술적 해자를 보유한 대체 단백질 제조 업체
 	- 글로벌 2위 대체 단백질 제조 업체로 21년 기준 글로벌 대체육 시장 점유율 4.6%로 추정
 	- 발효 기술로 생산한 헴([Heme](/industry-study/heme/)) 성분을 첨가해 경쟁사 대비 뛰어난 제품의 맛/식감 구현
-	- 주요 제품은 임파서블 버거 패티, 소시지, 치킨너겟, 미트볼![](https://i.imgur.com/bEwYfyd.png)
+	- 주요 제품은 임파서블 버거 패티, 소시지, 치킨너겟, 미트볼![](/images/https://i.imgur.com/bEwYfyd.png)
 	- 총 20억 달러 (한화 2.6조원) 규모의 자금조달에 성공하며 시리즈 H 클로징. 미래에셋 글로벌, 빌게이츠, 구글벤처스, 호라이즌벤처스 등이 주요 투자자로 참여
 
 - 세부정보
 	- 각 매체별 맛 평가 코멘트
-		- ![](https://i.imgur.com/ahXWURm.png)
+		- ![](/images/https://i.imgur.com/ahXWURm.png)
 	- 비욘드미트 vs. 임파서블푸드 생산과정 비교`
-		- ![](https://i.imgur.com/6xELiyS.png)
+		- ![](/images/https://i.imgur.com/6xELiyS.png)
 	- 투자포인트:  시장 지배력 강화 예상
 		- 비욘드미트 대비 뛰어난 가격 경쟁력과 실제 고기와 더 유사한 맛을 구현하면서 맛에서도 높은 경쟁력을 보유하고 있어 2025년 임파서블푸드의 점유율은 6.0%까지 상승, 비욘드미트를 앞설 것으로 전망
 		- 올해 4월 유음료 업체 초바니 마케팅 및 브랜드 최고 담당자였던 피터 맥귀니스 (Peter Mcguiness)를 CEO로 영입

@@ -1,15 +1,15 @@
 ﻿---
 title: "LFP 배터리"
-date: 2025-06-27T01:39:12+09:00
-lastmod: 2025-06-27T01:39:12+09:00
+date: 2024-11-20T21:02:27+09:00
+lastmod: 2025-10-15T09:11:03+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:39:12Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:39:12Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:03Z" />
 </div>
 #배터리 #LFP배터리
 

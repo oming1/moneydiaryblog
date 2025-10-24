@@ -1,15 +1,15 @@
 ﻿---
 title: "HUN"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-12-30T21:07:08+09:00
+lastmod: 2025-10-15T09:10:31+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 425
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-12-30T12:07:08Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:31Z" />
 </div>
 #화학 #소재과학 #폴리우레탄 #산업용화학제품 #첨단소재 #원자재 #소재 #유기화학제품 #에폭시 #아크릴 #아민 #말레산무수물 #폴리머 #MDI
 

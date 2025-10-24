@@ -1,15 +1,15 @@
 ﻿---
 title: "BNPL"
-date: 2025-06-25T22:28:40+09:00
-lastmod: 2025-06-25T22:28:40+09:00
+date: 2024-11-20T21:02:27+09:00
+lastmod: 2025-10-15T09:12:22+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-25T13:28:40Z" />
-  <meta property="article:modified_time" content="2025-06-25T13:28:40Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:22Z" />
 </div>
 #금융 
 

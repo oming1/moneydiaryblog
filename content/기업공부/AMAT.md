@@ -1,15 +1,15 @@
 ﻿---
 title: "AMAT"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-08-21T17:56:18+09:00
+lastmod: 2025-10-15T09:08:59+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 58
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-08-21T08:56:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:59Z" />
 </div>
 #반도체 #장비 #중국 #테크 #반도체장비
 

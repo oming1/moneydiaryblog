@@ -1,15 +1,15 @@
 ﻿---
 title: "CTV"
-date: 2025-06-27T02:22:23+09:00
-lastmod: 2025-06-27T02:22:23+09:00
+date: 2025-03-17T14:01:40+09:00
+lastmod: 2025-10-15T09:10:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:22:23Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:22:23Z" />
+  <meta property="article:published_time" content="2025-03-17T05:01:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:29Z" />
 </div>
 #CTV
 

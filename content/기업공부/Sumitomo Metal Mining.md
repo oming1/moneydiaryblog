@@ -1,15 +1,15 @@
 ﻿---
 title: "Sumitomo Metal Mining"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2023-06-04T17:05:23+09:00
+lastmod: 2025-10-15T09:10:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 839
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2023-06-04T08:05:23Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:26Z" />
 </div>
 #비철금속 #리사이클링 #양극재 #광산 #정제련업 #니켈파우더 #금속및광업 #소재
 

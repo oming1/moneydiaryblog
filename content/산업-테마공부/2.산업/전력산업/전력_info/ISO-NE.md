@@ -1,15 +1,15 @@
 ﻿---
 title: "ISO-NE"
-date: 2025-06-04T05:07:21+09:00
-lastmod: 2025-06-04T05:07:21+09:00
+date: 2024-11-20T21:02:29+09:00
+lastmod: 2025-10-15T09:08:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:07:21Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:07:21Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:11Z" />
 </div>
 #전력 #뉴잉글랜드 #ISO
 

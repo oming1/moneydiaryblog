@@ -1,15 +1,15 @@
 ﻿---
 title: "HIMS"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-08-28T14:18:12+09:00
+lastmod: 2025-10-15T09:09:09+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 406
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-08-28T05:18:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:09Z" />
 </div>
 #소비재 #개인용품 #탈모 #헬스케어 #여드름 #건강관리 #발기부전 #의료 #원격의료
 

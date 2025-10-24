@@ -1,15 +1,15 @@
 ﻿---
 title: "DFH"
-date: 2025-08-20T07:06:55+09:00
-lastmod: 2025-08-20T07:06:55+09:00
+date: 2025-08-14T20:31:14+09:00
+lastmod: 2025-10-15T09:12:49+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 272
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-19T22:06:55Z" />
-  <meta property="article:modified_time" content="2025-08-19T22:06:55Z" />
+  <meta property="article:published_time" content="2025-08-14T11:31:14Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:49Z" />
 </div>
 #드림파인더스홈즈 #DFH #주택건설 #홈빌더 #부동산개발 #미국주택시장 #단독주택 #타운홈 #주택판매 #건설산업 #플로리다기반 #글로벌확장 #지속가능건축 #디지털마케팅 #주택수요 #경제변동 #주택금리 #공급망관리 #건설혁신 #주택인벤토리 #부동산트렌드 #홈바이어 #건설자재 #지속가능주택 #주택가격 #건설비용 #부동산투자 #주택시장분석 #건설테크 #부동산성장
 

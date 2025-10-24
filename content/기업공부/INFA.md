@@ -1,15 +1,15 @@
 ﻿---
 title: "INFA"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2025-02-17T13:56:45+09:00
+lastmod: 2025-10-15T09:10:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 444
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2025-02-17T04:56:45Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:46Z" />
 </div>
 ## 핵심 키워드
 

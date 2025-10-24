@@ -1,15 +1,15 @@
 ﻿---
 title: "TDG"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-09T22:43:26+09:00
+lastmod: 2025-10-15T09:09:54+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 854
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-09T13:43:26Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:54Z" />
 </div>
 #항공우주및방위산업 #산업재 #엔지니어링부품 #항공 #우주 #액추에이터 #통신안테나 #태양광패널 
 

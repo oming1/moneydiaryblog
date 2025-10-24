@@ -1,15 +1,15 @@
 ﻿---
 title: "ORA"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-11-07T13:24:59+09:00
+lastmod: 2025-10-15T09:10:34+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 662
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-11-07T04:24:59Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:34Z" />
 </div>
 #유틸리티 #재생에너지 #지열 #에너지 
 

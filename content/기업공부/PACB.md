@@ -1,15 +1,15 @@
 ﻿---
 title: "PACB"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-17T22:05:29+09:00
+lastmod: 2025-10-15T09:12:03+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 669
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-17T13:05:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:03Z" />
 </div>
 #유전체학 #DNA시퀀싱 #생명과학 #바이오테크놀로지 #장기읽기시퀀싱 #HiFi기술 #Revio시스템 #Vega시퀀서 #유전자분석 #정밀의학 #농업유전학 #미생물학 #종양학 #희귀질환연구 #생물정보학 #헬스케어 #생명공학 #유전체연구 #분자진단 #헬스케어 #생명과학도구및서비스
 

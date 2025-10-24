@@ -1,15 +1,15 @@
 ﻿---
 title: "TM"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-27T09:49:40+09:00
+lastmod: 2025-10-15T09:11:24+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 873
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-27T00:49:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:24Z" />
 </div>
 #자동차제조 #글로벌브랜드 #하이브리드기술 #품질관리 #생산시스템 #연구개발 #글로벌네트워크 #다각화사업 #지속가능성 #전기차전환 #자율주행 #커넥티드카 #공급망관리 #인재육성 #브랜드가치 #재무건전성 #임의소비재 #자동차 #일본 #전기차 #자동차 
 

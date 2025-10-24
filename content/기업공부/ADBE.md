@@ -1,15 +1,15 @@
 ﻿---
 title: "ADBE"
-date: 2025-08-14T00:17:14+09:00
-lastmod: 2025-08-14T00:17:14+09:00
+date: 2024-09-13T11:44:10+09:00
+lastmod: 2025-10-15T09:09:49+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 26
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:14Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:14Z" />
+  <meta property="article:published_time" content="2024-09-13T02:44:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:49Z" />
 </div>
 #소프트웨어 #테크 
 

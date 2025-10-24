@@ -1,15 +1,15 @@
 ﻿---
 title: "EMR"
-date: 2025-07-18T03:53:21+09:00
-lastmod: 2025-07-18T03:53:21+09:00
+date: 2024-09-10T10:36:46+09:00
+lastmod: 2025-10-15T09:10:39+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 312
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-17T18:53:21Z" />
-  <meta property="article:modified_time" content="2025-07-17T18:53:21Z" />
+  <meta property="article:published_time" content="2024-09-10T01:36:46Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:39Z" />
 </div>
 #산업재 #전력기기 #특수산업기계 #전력관리
 

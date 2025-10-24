@@ -1,15 +1,15 @@
 ﻿---
 title: "LAZR"
-date: 2025-08-13T01:32:58+09:00
-lastmod: 2025-08-13T01:32:58+09:00
+date: 2024-12-15T12:43:54+09:00
+lastmod: 2025-10-15T09:10:36+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 504
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:58Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:58Z" />
+  <meta property="article:published_time" content="2024-12-15T03:43:54Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:36Z" />
 </div>
 #자동차부품 #정보기술 #센서 #LiDAR #라이다 #자율주행
 

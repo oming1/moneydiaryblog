@@ -1,15 +1,15 @@
 ﻿---
 title: "TSQ"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2025-07-04T09:44:26+09:00
+lastmod: 2025-10-15T09:15:32+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 891
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2025-07-04T00:44:26Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:32Z" />
 </div>
 ## 미국 상장 여부
 

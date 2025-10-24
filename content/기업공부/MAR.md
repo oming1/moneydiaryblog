@@ -1,15 +1,15 @@
 ﻿---
 title: "MAR"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-11-05T14:51:03+09:00
+lastmod: 2025-10-15T09:10:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 544
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-11-05T05:51:03Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:26Z" />
 </div>
 #호텔 #임의소비재 #숙박 
 

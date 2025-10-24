@@ -1,15 +1,15 @@
 ﻿---
 title: "TWST"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-17T21:31:01+09:00
+lastmod: 2025-10-15T09:11:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 895
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-17T12:31:01Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:26Z" />
 </div>
 #DNA합성 #합성생물학 #유전체학 #실리콘기반기술 #고처리량 #정밀도 #맞춤형DNA #NGS #CRISPR #항체발견 #바이오제약 #농업 #산업화학 #데이터저장 #혁신 #ARKInvest #성장주 #바이오테크 #유전자편집 #실리콘칩
 

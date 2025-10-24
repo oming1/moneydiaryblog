@@ -1,15 +1,15 @@
 ﻿---
 title: "S"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2025-01-17T20:39:20+09:00
+lastmod: 2025-10-15T09:11:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 766
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2025-01-17T11:39:20Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:26Z" />
 </div>
 ## 핵심 키워드
 

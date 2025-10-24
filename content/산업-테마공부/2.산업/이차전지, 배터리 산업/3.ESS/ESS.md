@@ -1,15 +1,15 @@
 ﻿---
 title: "ESS"
-date: 2025-06-27T01:46:32+09:00
-lastmod: 2025-06-27T01:46:32+09:00
+date: 2024-11-20T21:02:27+09:00
+lastmod: 2025-10-15T09:13:51+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:46:32Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:46:32Z" />
+  <meta property="article:published_time" content="2024-11-20T12:02:27Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:51Z" />
 </div>
 #배터리 #ESS 
 
@@ -38,7 +38,7 @@ weight: 3
 			   게다가, ESS는 공장, 전력망, 태양광 발전소 등의 설치 환경에 맞춰 공간을 최대로 활용할 수 있다. 즉, ESS는 [에너지 밀도 보다 총 용량이 중요]한 시스템이다. 배터리의 가격을 결정하는 가장 중요한 원인 변수는 에너지 밀도인데, ESS는 부피가 크고 무거워도 큰 제약이 없으므로, 전기차 보다는 더 저렴 한 배터리를 탑재할 수 있는 환경이다.
 	- [(3) ESS가 빠르게 성장하고 있는 CAISO와 ERCOT](9.11_돈이되는%20ESS.pdf#page=50&selection=16,0,32,5&color=yellow)
 		- 미국에서 재생에너지 비중이 가장 높은 캘리포니아주와 텍사스주는 기후 재난이 빈번하게 발생하는 지역이다. 전력망의 안정성이 중요하기 때문에 독립된 에너지저장시설에 대한 가치 부여가 강화되는 중 ([CAISO](/industry-study/caiso/), [ERCOT](/industry-study/ercot/))
-![](https://i.imgur.com/19r5yht.png)
+![](/images/https://i.imgur.com/19r5yht.png)
 
 - 기본정보
 	- [ESS(Energy Storage System)란?](9.11_BESS%20성장%20사이클%20초입기.pdf#page=7&selection=9,0,16,1&color=yellow)

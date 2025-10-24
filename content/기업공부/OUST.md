@@ -1,15 +1,15 @@
 ﻿---
 title: "OUST"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-15T12:56:43+09:00
+lastmod: 2025-10-15T09:10:24+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 667
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-15T03:56:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:24Z" />
 </div>
 #자율주행 #라이다 #LiDAR #전자장비및부품
 

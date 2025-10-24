@@ -1,15 +1,15 @@
 ﻿---
 title: "LNG"
-date: 2025-06-25T22:55:02+09:00
-lastmod: 2025-06-25T22:55:02+09:00
+date: 2025-10-08T23:21:50+09:00
+lastmod: 2025-10-15T09:08:07+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-25T13:55:02Z" />
-  <meta property="article:modified_time" content="2025-06-25T13:55:02Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:50Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:07Z" />
 </div>
 #천연가스 #LNG
 

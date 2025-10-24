@@ -1,15 +1,15 @@
 ﻿---
 title: "BTM 발전자원"
-date: 2025-06-27T01:53:08+09:00
-lastmod: 2025-06-27T01:53:08+09:00
+date: 2025-10-08T23:21:58+09:00
+lastmod: 2025-10-15T09:08:08+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:53:08Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:53:08Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:08Z" />
 </div>
 #BTM발전자원 #BTM
 

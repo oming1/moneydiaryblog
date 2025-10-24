@@ -1,15 +1,15 @@
 ﻿---
 title: "OXY"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-23T11:28:21+09:00
+lastmod: 2025-10-15T09:10:53+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 668
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-23T02:28:21Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:53Z" />
 </div>
 #석유가스 #탐사생산 #화학 #미드스트림 #저탄소기술 #EOR #탄소포집 #퍼미안베이신 #에너지
 

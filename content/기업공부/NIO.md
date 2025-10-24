@@ -1,15 +1,15 @@
 ﻿---
 title: "NIO"
-date: 2025-08-13T01:32:59+09:00
-lastmod: 2025-08-13T01:32:59+09:00
+date: 2024-09-06T11:05:42+09:00
+lastmod: 2025-10-15T09:10:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 615
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:59Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:59Z" />
+  <meta property="article:published_time" content="2024-09-06T02:05:42Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:25Z" />
 </div>
 #자동차 #전기차 #중국 #산업재 
    

@@ -1,15 +1,15 @@
 ﻿---
 title: "CWT"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-09-20T15:32:06+09:00
+lastmod: 2025-10-15T09:09:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 253
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-09-20T06:32:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:18Z" />
 </div>
 #인프라 #물공급 #상하수도 #수도유틸리티 #유틸리티
 

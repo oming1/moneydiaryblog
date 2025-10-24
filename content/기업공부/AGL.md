@@ -1,15 +1,15 @@
 ﻿---
 title: "AGL"
-date: 2025-08-28T00:51:11+09:00
-lastmod: 2025-08-28T00:51:11+09:00
+date: 2025-08-27T14:02:52+09:00
+lastmod: 2025-10-15T09:13:15+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 40
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-27T15:51:11Z" />
-  <meta property="article:modified_time" content="2025-08-27T15:51:11Z" />
+  <meta property="article:published_time" content="2025-08-27T05:02:52Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:15Z" />
 </div>
 #앵글로아메리칸 #NGLOY #AAL #글로벌광산 #구리 #철광석 #다이아몬드 #PGM #백금군금속 #제강용석탄 #니켈 #비료원료 #폴리할라이트 #남미광산 #남아공광산 #브라질미나스리우 #디비어스 #쿼야베코 #운영효율 #미래광업 #FutureSmartMining #광물수요 #에너지전환 #ESG #탈탄소 #공정혁신 #원자재가격 #사업재편
 

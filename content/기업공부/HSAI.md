@@ -1,15 +1,15 @@
 ﻿---
 title: "HSAI"
-date: 2025-08-28T00:51:11+09:00
-lastmod: 2025-08-28T00:51:11+09:00
+date: 2025-08-27T14:02:00+09:00
+lastmod: 2025-10-15T09:12:57+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 419
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-27T15:51:11Z" />
-  <meta property="article:modified_time" content="2025-08-27T15:51:11Z" />
+  <meta property="article:published_time" content="2025-08-27T05:02:00Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:57Z" />
 </div>
 #헤싸이 #Hesai #HSAI #라이다 #ADAS #자율주행 #하이브리드솔리드스테이트 #포인트클라우드 #장거리감지 #차량용센서 #로보틱스라이다 #맵핑 #센서퓨전 #OEM양산 #중국NEV #부품밸류체인 #광반도체 #VCSEL #905nm #열관리 #생산수율 #규제리스크 #미국상장중국기업 #가격경쟁력 #모듈원가하락 #품질신뢰성 #IP보호 #글로벌확장 #물류로보틱스 #산업안전 #중국 
 

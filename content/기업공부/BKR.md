@@ -1,15 +1,15 @@
 ﻿---
 title: "BKR"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-11-12T09:56:53+09:00
+lastmod: 2025-10-15T09:10:09+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 138
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-11-12T00:56:53Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:09Z" />
 </div>
 #에너지 #에너지장비및서비스 #탄소포집 #유정굴착장비 
 

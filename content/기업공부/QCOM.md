@@ -1,15 +1,15 @@
 ﻿---
 title: "QCOM"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-09-02T13:55:04+09:00
+lastmod: 2025-10-15T09:10:35+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 720
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-09-02T04:55:04Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:35Z" />
 </div>
 #테크 #반도체 #스냅드래곤
 

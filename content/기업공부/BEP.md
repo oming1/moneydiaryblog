@@ -1,14 +1,14 @@
 ﻿---
 title: "BEP"
-date: 2025-06-27T02:45:51+09:00
-lastmod: 2025-06-27T02:45:51+09:00
+date: 2025-06-04T20:48:48+09:00
+lastmod: 2025-10-15T09:07:31+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 127
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:45:51Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:45:51Z" />
+  <meta property="article:published_time" content="2025-06-04T11:48:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:07:31Z" />
 </div>
 

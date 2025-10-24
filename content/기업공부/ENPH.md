@@ -1,15 +1,15 @@
 ﻿---
 title: "ENPH"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-09-12T09:19:12+09:00
+lastmod: 2025-10-15T09:15:31+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 314
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-09-12T00:19:12Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:31Z" />
 </div>
 #태양광 #마이크로인버터 #에너지저장 #배터리 #재생에너지 #분산형태양광 #에너지관리 #스마트그리드 #전기차충전 #주거용태양광 #상업용태양광 #캘리포니아 #유럽 #인도 #IRA #AI #소프트웨어 #클린에너지
 

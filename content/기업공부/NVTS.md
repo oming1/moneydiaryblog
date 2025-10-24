@@ -1,15 +1,15 @@
 ﻿---
 title: "NVTS"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-06T21:47:48+09:00
+lastmod: 2025-10-15T09:09:50+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 642
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-06T12:47:48Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:50Z" />
 </div>
 #정보기술 #반도체 #GaN #갈륨나이트라이드
 

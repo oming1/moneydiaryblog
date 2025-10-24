@@ -1,15 +1,15 @@
 ﻿---
 title: "SR"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-12-30T21:02:06+09:00
+lastmod: 2025-10-15T09:11:42+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 826
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-12-30T12:02:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:42Z" />
 </div>
 #유틸리티 #천연가스 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #가스유틸리티 #유틸리티 #천연가스 #미드스트림 
 

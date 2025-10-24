@@ -1,15 +1,15 @@
 ﻿---
 title: "VRTX"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2025-02-01T12:56:28+09:00
+lastmod: 2025-10-15T09:11:49+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 940
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2025-02-01T03:56:28Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:49Z" />
 </div>
 ## 핵심 키워드
 

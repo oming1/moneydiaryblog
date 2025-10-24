@@ -1,15 +1,15 @@
 ﻿---
 title: "LBRT"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-11-19T13:25:19+09:00
+lastmod: 2025-10-15T09:09:26+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 505
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-11-19T04:25:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:26Z" />
 </div>
 #석유및가스장비및서비스 #에너지 #셰일가스 #유정시추 #원유 #정유 
 

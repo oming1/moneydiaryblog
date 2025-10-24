@@ -1,15 +1,15 @@
 ﻿---
 title: "Ad-Tech"
-date: 2025-06-27T02:22:52+09:00
-lastmod: 2025-06-27T02:22:52+09:00
+date: 2025-03-17T13:56:00+09:00
+lastmod: 2025-10-15T09:08:42+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:22:52Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:22:52Z" />
+  <meta property="article:published_time" content="2025-03-17T04:56:00Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:42Z" />
 </div>
 #Ad-Tech #애드테크 #AI
 

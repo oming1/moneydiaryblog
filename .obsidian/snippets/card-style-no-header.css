@@ -1,0 +1,36 @@
+
+.dataview.table-view-table thead {
+  display: none;
+}
+
+.dataview.table-view-table tbody {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.dataview.table-view-table tr {
+  background-color: var(--background-secondary);
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto auto;
+  width: 220px;
+  height: auto;
+  justify-content: start;
+  align-items: start;
+  transition: transform 0.2s ease;
+}
+
+.dataview.table-view-table tr:hover {
+  transform: scale(1.03);
+}
+
+.dataview.table-view-table td {
+  border: none !important;
+  padding: 4px 0;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+}

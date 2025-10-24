@@ -1,15 +1,15 @@
 ﻿---
 title: "VALN"
-date: 2025-08-20T07:06:55+09:00
-lastmod: 2025-08-20T07:06:55+09:00
+date: 2025-08-14T20:28:32+09:00
+lastmod: 2025-10-15T09:13:07+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 927
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-19T22:06:55Z" />
-  <meta property="article:modified_time" content="2025-08-19T22:06:55Z" />
+  <meta property="article:published_time" content="2025-08-14T11:28:32Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:07Z" />
 </div>
 #발네바 #VALN #백신개발 #생명공학 #바이오테크 #감염병백신 #여행백신 #코로나백신 #임상시험 #글로벌파트너십 #유럽바이오 #프랑스제약 #백신생산 #면역학 #치쿠군야백신 #라임병백신 #백신혁신 #바이오제조 #감염병대응 #글로벌헬스 #임상연구 #백신라이선싱 #바이오테크투자 #감염병예방 #백신공급망 #지속가능헬스케어 #바이오테크산업 #면역치료 #글로벌백신 #헬스케어테크
 

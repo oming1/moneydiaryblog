@@ -1,15 +1,15 @@
 ﻿---
 title: "BLBD"
-date: 2025-09-09T00:57:51+09:00
-lastmod: 2025-09-09T00:57:51+09:00
+date: 2025-09-08T15:54:22+09:00
+lastmod: 2025-10-15T09:13:03+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 140
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-08T15:57:51Z" />
-  <meta property="article:modified_time" content="2025-09-08T15:57:51Z" />
+  <meta property="article:published_time" content="2025-09-08T06:54:22Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:03Z" />
 </div>
 #블루버드 #BLBD #스쿨버스 #스쿨버스제조 #전기버스 #대체연료버스 #TypeC버스 #TypeD버스 #학생수송 #교육교통 #버스플릿 #버스안전 #버스디자인 #버스엔지니어링 #버스부품 #버스서비스 #북미시장 #글로벌확장 #지속가능교통 #전기화추진 #배출가스규제 #학교버스전동화 #연방보조금 #교육예산 #학생안전 #버스플릿관리 #원가절감 #공급망최적화 #성장잠재력
 

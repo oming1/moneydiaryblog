@@ -1,15 +1,15 @@
 ﻿---
 title: "KBH"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-10-30T20:54:18+09:00
+lastmod: 2025-10-15T09:08:56+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 479
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-10-30T11:54:18Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:56Z" />
 </div>
 #주택건설 #부동산 #임의소비재 
 

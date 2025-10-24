@@ -1,15 +1,15 @@
 ﻿---
 title: "PG"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2024-08-30T22:16:51+09:00
+lastmod: 2025-10-15T09:10:13+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 687
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2024-08-30T13:16:51Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:13Z" />
 </div>
 #소비자방어주 #가정용품및개인용품 #세제 #헬스케어
 

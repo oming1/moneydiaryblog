@@ -1,15 +1,15 @@
 ﻿---
 title: "RUN"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-12T09:19:17+09:00
+lastmod: 2025-10-15T09:10:01+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 763
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-12T00:19:17Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:01Z" />
 </div>
 #태양광 #테크 #ESS #태양광패널 #주거용태양광 
 

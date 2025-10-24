@@ -1,15 +1,15 @@
 ﻿---
 title: "CSCO"
-date: 2025-07-11T23:20:54+09:00
-lastmod: 2025-07-11T23:20:54+09:00
+date: 2024-11-15T21:27:19+09:00
+lastmod: 2025-10-15T09:15:30+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 241
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T14:20:54Z" />
-  <meta property="article:modified_time" content="2025-07-11T14:20:54Z" />
+  <meta property="article:published_time" content="2024-11-15T12:27:19Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:30Z" />
 </div>
 #네트워킹하드웨어및소프트웨어 #정보기술 #보안 #사이버보안 #데이터센터 #라우터 
 #네트워킹 #라우터 #스위치 #보안 #사이버보안 #클라우드 #AI인프라 #데이터센터 #엔터프라이즈 #통신장비 #소프트웨어 #구독서비스 #디지털전환 #SD-WAN #무선네트워크 #정보기술 #기업솔루션 #네트워크보안 #협업솔루션 #관찰솔루션

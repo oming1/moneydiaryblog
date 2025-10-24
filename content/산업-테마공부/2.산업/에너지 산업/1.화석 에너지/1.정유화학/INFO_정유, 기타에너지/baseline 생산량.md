@@ -1,15 +1,15 @@
 ﻿---
 title: "baseline 생산량"
-date: 2025-06-27T02:34:37+09:00
-lastmod: 2025-06-27T02:34:37+09:00
+date: 2025-10-08T23:21:50+09:00
+lastmod: 2025-10-15T09:08:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:34:37Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:34:37Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:50Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:10Z" />
 </div>
 #baseline생산량
 

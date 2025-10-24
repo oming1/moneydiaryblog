@@ -1,15 +1,15 @@
 ﻿---
 title: "GFS"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-12-26T21:04:55+09:00
+lastmod: 2025-10-15T09:11:29+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 373
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-12-26T12:04:55Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:29Z" />
 </div>
 #반도체 #파운드리 #첨단공정 #자동차 #IoT #데이터센터 #정보기술 #반도체마스크 
 

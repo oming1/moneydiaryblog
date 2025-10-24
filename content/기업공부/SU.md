@@ -1,15 +1,15 @@
 ﻿---
 title: "SU"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-10T10:24:00+09:00
+lastmod: 2025-10-15T09:09:56+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 838
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-10T01:24:00Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:56Z" />
 </div>
 #산업재 #특수산업기계 #전력관리 #데이터센터 
 

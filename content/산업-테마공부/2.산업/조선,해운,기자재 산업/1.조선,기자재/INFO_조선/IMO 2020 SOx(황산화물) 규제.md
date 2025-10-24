@@ -1,15 +1,15 @@
 ﻿---
 title: "IMO 2020 SOx(황산화물) 규제"
-date: 2025-06-27T02:01:32+09:00
-lastmod: 2025-06-27T02:01:32+09:00
+date: 2025-10-08T23:22:02+09:00
+lastmod: 2025-10-15T09:08:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:01:32Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:01:32Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:02Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:18Z" />
 </div>
 #IMO2020SOx황산화물규제 #조선 #해운 #친환경  
 

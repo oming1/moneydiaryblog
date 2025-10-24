@@ -1,15 +1,15 @@
 ﻿---
-title: "MongoDB (\\MDB) Q2 2026 실적발표 요약(\\2025-08-27)"
-date: 2025-08-30T02:41:14+09:00
-lastmod: 2025-08-30T02:41:14+09:00
+title: "MongoDB Q2 2026 실적발표"
+date: 2025-10-08T23:21:29+09:00
+lastmod: 2025-10-15T09:11:50+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-29T17:41:14Z" />
-  <meta property="article:modified_time" content="2025-08-29T17:41:14Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:50Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
  #MDB #Atlas

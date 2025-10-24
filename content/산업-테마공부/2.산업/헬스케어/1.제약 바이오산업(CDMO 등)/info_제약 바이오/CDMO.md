@@ -1,15 +1,15 @@
 ﻿---
 title: "CDMO"
-date: 2025-06-27T02:18:16+09:00
-lastmod: 2025-06-27T02:18:16+09:00
+date: 2025-10-08T23:22:10+09:00
+lastmod: 2025-10-15T09:12:37+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T17:18:16Z" />
-  <meta property="article:modified_time" content="2025-06-26T17:18:16Z" />
+  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:37Z" />
 </div>
 #헬스케어 #CDMO
 

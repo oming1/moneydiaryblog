@@ -1,15 +1,15 @@
 ﻿---
 title: "DE"
-date: 2025-08-13T01:32:58+09:00
-lastmod: 2025-08-13T01:32:58+09:00
+date: 2025-01-14T21:04:06+09:00
+lastmod: 2025-10-15T09:11:01+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 268
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-12T16:32:58Z" />
-  <meta property="article:modified_time" content="2025-08-12T16:32:58Z" />
+  <meta property="article:published_time" content="2025-01-14T12:04:06Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:01Z" />
 </div>
 ## 핵심 키워드
 

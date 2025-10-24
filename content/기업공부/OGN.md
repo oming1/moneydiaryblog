@@ -1,15 +1,15 @@
 ﻿---
 title: "OGN"
-date: 2025-08-07T02:33:00+09:00
-lastmod: 2025-08-07T02:33:00+09:00
+date: 2025-08-06T15:45:46+09:00
+lastmod: 2025-10-15T09:14:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 650
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T17:33:00Z" />
-  <meta property="article:modified_time" content="2025-08-06T17:33:00Z" />
+  <meta property="article:published_time" content="2025-08-06T06:45:46Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:14:41Z" />
 </div>
 #여성건강 #Organon #OGN #피임약 #Nexplanon #NuvaRing #바이오시밀러 #생식건강 #호르몬치료 #자궁내막증 #불임치료 #Follistim #의료기기 #제약회사 #MSD스핀오프 #여성의료 #생물학적동등의약품 #면역학 #종양학 #글로벌헬스케어 #처방의약품 #의료혁신
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SOCAMM"
-date: 2025-06-25T22:33:16+09:00
-lastmod: 2025-06-25T22:33:16+09:00
+date: 2025-02-21T16:55:08+09:00
+lastmod: 2025-10-15T09:10:11+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-25T13:33:16Z" />
-  <meta property="article:modified_time" content="2025-06-25T13:33:16Z" />
+  <meta property="article:published_time" content="2025-02-21T07:55:08Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:11Z" />
 </div>
 SOCAMM(System On Chip with Advanced Memory Module)!Pasted image 20250625133311.png
 

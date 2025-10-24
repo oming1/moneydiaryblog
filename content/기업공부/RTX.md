@@ -1,15 +1,15 @@
 ﻿---
 title: "RTX"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-11-09T22:37:37+09:00
+lastmod: 2025-10-15T09:10:16+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 761
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-11-09T13:37:37Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:16Z" />
 </div>
 #항공우주및방산 #방산 #항공 #우주 #산업재 #지정학 #무기 #항공우주 #항공기엔진
 

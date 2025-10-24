@@ -1,15 +1,15 @@
 ﻿---
 title: "Vuihoc"
-date: 2025-07-12T00:25:26+09:00
-lastmod: 2025-07-12T00:25:26+09:00
+date: 2025-03-26T17:01:43+09:00
+lastmod: 2025-10-15T09:11:53+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 946
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T15:25:26Z" />
-  <meta property="article:modified_time" content="2025-07-11T15:25:26Z" />
+  <meta property="article:published_time" content="2025-03-26T08:01:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:53Z" />
 </div>
 #교육 #교육서비스 #온라인 #에듀테크 #온라인교육 #베트남 #K12 #디지털러닝 #AI튜터 #맞춤형학습 #모바일앱 #e러닝 #교육플랫폼 #교육콘텐츠 #수학 #영어 #과학 #교사연수 #학습분석 #학생참여 #교과심화 #역량중심교육 #동남아시장
 

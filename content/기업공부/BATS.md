@@ -1,15 +1,15 @@
 ﻿---
 title: "BATS"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-08-30T13:56:11+09:00
+lastmod: 2025-10-15T09:15:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 116
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-08-30T04:56:11Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:15:41Z" />
 </div>
 #담배 #비궐련형담배 #궐련형전자담배 #소비자방어주
 

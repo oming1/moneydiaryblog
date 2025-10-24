@@ -1,15 +1,15 @@
 ﻿---
 title: "OMC"
-date: 2025-08-14T00:17:16+09:00
-lastmod: 2025-08-14T00:17:16+09:00
+date: 2024-12-09T22:03:40+09:00
+lastmod: 2025-10-15T09:09:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 656
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:16Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:16Z" />
+  <meta property="article:published_time" content="2024-12-09T13:03:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:44Z" />
 </div>
 #광고 #커뮤니케이션서비스 
 

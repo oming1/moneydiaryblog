@@ -1,15 +1,15 @@
 ﻿---
 title: "WDAY"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-11-29T09:42:16+09:00
+lastmod: 2025-10-15T09:09:18+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 956
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-11-29T00:42:16Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:18Z" />
 </div>
 #정보기술 #소프트웨어 #재무관리 #인적자원관리
 

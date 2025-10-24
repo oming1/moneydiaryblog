@@ -1,15 +1,15 @@
 ﻿---
 title: "X"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-09-04T13:33:34+09:00
+lastmod: 2025-10-15T09:09:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 983
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-09-04T04:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:10Z" />
 </div>
 #기초소재 #철강
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "EXPN"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-08-29T21:57:13+09:00
+lastmod: 2025-10-15T09:09:06+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 333
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-08-29T12:57:13Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:06Z" />
 </div>
 #산업재 #비즈니스서비스 #신용평가 #신용정보
 

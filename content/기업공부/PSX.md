@@ -1,15 +1,15 @@
 ﻿---
 title: "PSX"
-date: 2025-06-04T05:06:00+09:00
-lastmod: 2025-06-04T05:06:00+09:00
+date: 2024-12-30T09:25:02+09:00
+lastmod: 2025-10-15T09:12:19+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 712
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:00Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:00Z" />
+  <meta property="article:published_time" content="2024-12-30T00:25:02Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:12:19Z" />
 </div>
 #석유정제 #석유화학 #미드스트림 #정유 #에너지물류 #연료유통 #천연가스처리 #윤활유 #석유제품 #정유소 #주유소네트워크 #파이프라인 #에너지인프라 #재생연료  #에너지 #석유가스정제마케팅
 

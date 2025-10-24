@@ -1,15 +1,15 @@
 ﻿---
 title: "Teck"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2023-06-04T17:05:17+09:00
+lastmod: 2025-10-15T09:10:52+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 857
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2023-06-04T08:05:17Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:52Z" />
 </div>
 #비철금속 #석탄 #광산 #아연 #아연광산 #소재 #금속및광업 #캐나다
 

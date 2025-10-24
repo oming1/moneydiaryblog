@@ -1,15 +1,15 @@
 ﻿---
 title: "LAD"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-12-25T21:16:26+09:00
+lastmod: 2025-10-15T09:10:17+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 502
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-12-25T12:16:26Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:17Z" />
 </div>
 #자동차소매 #임의소비재 #중고차 #자동차 #신차
 

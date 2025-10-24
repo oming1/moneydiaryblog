@@ -1,15 +1,15 @@
 ﻿---
 title: "XPEV"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-09-06T11:06:22+09:00
+lastmod: 2025-10-15T09:09:55+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 987
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-09-06T02:06:22Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:55Z" />
 </div>
 #자동차 #전기차 #중국 #산업재 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "CB 경기선행지수"
-date: 2025-06-04T05:07:19+09:00
-lastmod: 2025-06-04T05:07:19+09:00
+date: 2025-10-08T23:21:34+09:00
+lastmod: 2025-10-15T09:08:35+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:07:19Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:07:19Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:34Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:08:35Z" />
 </div>
 #경기 #선행지수
 

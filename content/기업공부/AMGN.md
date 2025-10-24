@@ -1,15 +1,15 @@
 ﻿---
 title: "AMGN"
-date: 2025-06-04T05:05:57+09:00
-lastmod: 2025-06-04T05:05:57+09:00
+date: 2024-09-06T15:11:41+09:00
+lastmod: 2025-10-15T09:10:44+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 61
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:57Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:57Z" />
+  <meta property="article:published_time" content="2024-09-06T06:11:41Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:44Z" />
 </div>
 #헬스케어 #비만치료제 #제약 #자가면역질환 #골다공증
 

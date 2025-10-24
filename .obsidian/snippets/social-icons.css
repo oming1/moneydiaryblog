@@ -1,0 +1,19 @@
+/* .obsidian/snippets/social-icons.css */
+.social-icons {
+  display: flex;
+  gap: 50px;
+  margin: 20px 0;
+}
+.social-icons .item {
+  text-align: center;
+}
+.social-icons .item img {
+  width: 80px;
+}
+.social-icons .item span {
+  display: block;
+  margin-top: 8px;
+  font-size: 16px;
+  color: #778899;
+  font-weight: bold;
+}

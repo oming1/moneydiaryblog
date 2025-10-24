@@ -1,15 +1,15 @@
 ﻿---
 title: "JBLU"
-date: 2025-06-04T05:05:59+09:00
-lastmod: 2025-06-04T05:05:59+09:00
+date: 2024-09-06T10:54:20+09:00
+lastmod: 2025-10-15T09:10:46+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 464
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:59Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:59Z" />
+  <meta property="article:published_time" content="2024-09-06T01:54:20Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:46Z" />
 </div>
 #항공사 #산업재 #항공운송 
 

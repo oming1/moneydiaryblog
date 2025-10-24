@@ -1,15 +1,15 @@
 ﻿---
 title: "DD"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-11-06T19:45:40+09:00
+lastmod: 2025-10-15T09:10:25+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 263
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-11-06T10:45:40Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:25Z" />
 </div>
 #소재 #특수화학 #화학제품 #수처리솔류션 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SMXT"
-date: 2025-08-07T02:33:00+09:00
-lastmod: 2025-08-07T02:33:00+09:00
+date: 2025-08-06T15:44:57+09:00
+lastmod: 2025-10-15T09:13:43+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 806
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-06T17:33:00Z" />
-  <meta property="article:modified_time" content="2025-08-06T17:33:00Z" />
+  <meta property="article:published_time" content="2025-08-06T06:44:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:43Z" />
 </div>
 #태양광에너지 #배터리저장시스템 #BESS #EPC계약 #신재생에너지 #캘리포니아태양광 #상업용태양광 #유틸리티규모 #에너지저장 #그리드스케일 #리튬배터리 #클린에너지 #전력저장 #분산에너지 #소형주 #IPO2024 #마이크로캡 #텍사스프로젝트 #태양광시공 #주거용태양광 #상업용태양광
 

@@ -1,19 +1,19 @@
 ﻿---
 title: "VPP 운영사"
-date: 2025-06-27T01:54:39+09:00
-lastmod: 2025-06-27T01:54:39+09:00
+date: 2025-10-08T23:21:58+09:00
+lastmod: 2025-10-15T09:09:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 9
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-26T16:54:39Z" />
-  <meta property="article:modified_time" content="2025-06-26T16:54:39Z" />
+  <meta property="article:published_time" content="2025-10-08T14:21:58Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:10Z" />
 </div>
 #VPP #VPP운영사
 
-- 기본정보![](https://i.imgur.com/7BJxwql.png)
+- 기본정보![](/images/https://i.imgur.com/7BJxwql.png)
 
 	- [유틸리티와 협력을 통해 VPP 수익모델을 개발하고, 분산자원을 관리하여 VPP로서 기능할 수 있게 하는 하드웨어 및 소프트웨어 플랫폼을 보유한 회사]들이다. 
 	- 이 회사들 중에는 과거 수요자원시장에 참여하고 있던 기업들도 다수 포진하고 있다. VPP 운영사는 주로 자산 모집이 가능한 개발/보유회사들과 협업하는 경우가 많다. VPP 운영을 통해 [유틸리티로부터 받은 수익을 개별 자산의 소유자나 집합자원 모집자와 공유]하거나, [VPP 소프트웨어를 판매]하는 것이 이 기업들의 수익모델이다.

@@ -1,15 +1,15 @@
 ﻿---
 title: "Sibanye Stillwater"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-09-13T10:45:32+09:00
+lastmod: 2025-10-15T09:09:37+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 792
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-09-13T01:45:32Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:37Z" />
 </div>
 #금속및광업 #원자재 #백금 #팔라듐 #로듐 #금 #리튬 #배터리 
 

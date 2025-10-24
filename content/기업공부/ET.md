@@ -1,15 +1,15 @@
 ﻿---
 title: "ET"
-date: 2025-06-04T05:05:58+09:00
-lastmod: 2025-06-04T05:05:58+09:00
+date: 2024-12-28T08:19:01+09:00
+lastmod: 2025-10-15T09:11:05+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 322
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:05:58Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:05:58Z" />
+  <meta property="article:published_time" content="2024-12-27T23:19:01Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:05Z" />
 </div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 

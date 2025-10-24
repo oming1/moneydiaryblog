@@ -1,15 +1,15 @@
 ﻿---
 title: "UVE"
-date: 2025-06-04T05:06:01+09:00
-lastmod: 2025-06-04T05:06:01+09:00
+date: 2024-10-12T00:23:07+09:00
+lastmod: 2025-10-15T09:10:01+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 923
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:01Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:01Z" />
+  <meta property="article:published_time" content="2024-10-11T15:23:07Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:01Z" />
 </div>
 #금융서비스 #보험 #재보험 
 

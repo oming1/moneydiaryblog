@@ -1,15 +1,15 @@
 ﻿---
 title: "ASML"
-date: 2025-07-10T19:44:22+09:00
-lastmod: 2025-07-10T19:44:22+09:00
+date: 2024-09-04T20:45:57+09:00
+lastmod: 2025-10-15T09:11:10+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 89
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-10T10:44:22Z" />
-  <meta property="article:modified_time" content="2025-07-10T10:44:22Z" />
+  <meta property="article:published_time" content="2024-09-04T11:45:57Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:10Z" />
 </div>
 #반도체 #반도체장비및재료 #EUV #SUV #노광장비 #리소그래피 #DUV
 

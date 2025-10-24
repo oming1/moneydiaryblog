@@ -1,15 +1,15 @@
 ﻿---
 title: "XE"
-date: 2025-06-04T05:06:02+09:00
-lastmod: 2025-06-04T05:06:02+09:00
+date: 2024-10-18T17:15:10+09:00
+lastmod: 2025-10-15T09:10:36+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 984
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-06-03T20:06:02Z" />
-  <meta property="article:modified_time" content="2025-06-03T20:06:02Z" />
+  <meta property="article:published_time" content="2024-10-18T08:15:10Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:36Z" />
 </div>
 #에너지 #원전 #SMR #원자력 #고온가스냉각로 #4세대SMR
 #저농축산화우라늄 #고순도저농축우라늄 #피복입자 #TRISO연료 #Xe-100원자로

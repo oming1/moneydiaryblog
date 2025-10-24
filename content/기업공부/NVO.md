@@ -1,15 +1,15 @@
 ﻿---
 title: "NVO"
-date: 2025-08-20T02:10:56+09:00
-lastmod: 2025-08-20T02:10:56+09:00
+date: 2024-09-06T15:11:39+09:00
+lastmod: 2025-10-15T09:11:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 639
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-19T17:10:56Z" />
-  <meta property="article:modified_time" content="2025-08-19T17:10:56Z" />
+  <meta property="article:published_time" content="2024-09-06T06:11:39Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:11:41Z" />
 </div>
 #헬스케어 #제약 #당뇨병 #비만치료제 #혈우병
 #성장호르몬결핍증치료제 #인슐린 #바이오테크 #위고비 #삭센다 
@@ -57,7 +57,7 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 - [Oral amycretin](/industry-study/oral-amycretin/)(GLP-1/Amylin 이중 작용제; 노보노디스크)
 - **[리벨서스](/industry-study/리벨서스/)(Rybelsus®) ([세마글루타이드](/industry-study/세마글루타이드/))**: [경구용 비만 치료제](/industry-study/경구용-비만-치료제/) (2023년 매출 비중: 20%)
 	- [리벨서스는 SNAC(Sodium-N-[8-(2-hydroxybezoyl)-amino]caprylate)과 세마글루타이드가 결합된 경구 제형 약물](9.9_모두가%20기다린%20마법의%20약.pdf#page=47&selection=19,0,32,2&color=yellow)
-	- 낮은 생체이용률(0.4~1%)에도 불구하고 약물의 강력한 GLP-1 수용체 활성화로 유의미한 혈당 조절 및 체중 감소 효과를 보이고 있다.![](Pasted%20image%2020240909114721.png)
+	- 낮은 생체이용률(0.4~1%)에도 불구하고 약물의 강력한 GLP-1 수용체 활성화로 유의미한 혈당 조절 및 체중 감소 효과를 보이고 있다.![](/images/Pasted%20image%2020240909114721.png)
 - **Wegovy([위고비](/industry-study/위고비/))® ([세마글루타이드](/industry-study/세마글루타이드/))**: 비만 치료제 (2023년 매출 비중: 15%)
 	- [1주 1회 제형으로 삭센다 대비 높은 체중 감소 효과(68주차에 14.9%의 체중 감소)를 보여 출시 첫 해 2억달러, 2년 뒤 45억달러의 매출을 달성했다.](9.9_모두가%20기다린%20마법의%20약.pdf#page=15&selection=74,0,128,0&color=yellow)
 - **NovoRapid (인슐린 아스파트):** 인슐린 (매출 비중: 2023년 기준 20%)

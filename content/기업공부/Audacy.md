@@ -1,15 +1,15 @@
 ﻿---
 title: "Audacy"
-date: 2025-07-05T10:14:22+09:00
-lastmod: 2025-07-05T10:14:22+09:00
+date: 2025-07-04T09:16:47+09:00
+lastmod: 2025-10-15T09:13:07+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 95
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-05T01:14:22Z" />
-  <meta property="article:modified_time" content="2025-07-05T01:14:22Z" />
+  <meta property="article:published_time" content="2025-07-04T00:16:47Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:13:07Z" />
 </div>
 ## 미국 상장 여부
 

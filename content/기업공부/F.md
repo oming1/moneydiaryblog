@@ -1,15 +1,15 @@
 ﻿---
 title: "F"
-date: 2025-08-14T00:17:15+09:00
-lastmod: 2025-08-14T00:17:15+09:00
+date: 2024-08-22T14:41:43+09:00
+lastmod: 2025-10-15T09:09:57+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 334
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:15Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:15Z" />
+  <meta property="article:published_time" content="2024-08-22T05:41:43Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:09:57Z" />
 </div>
 #자동차 #자동차제조업체 #소비재 #전기차 #소비자재량주 #임의소비재
 

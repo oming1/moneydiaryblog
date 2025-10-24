@@ -1,15 +1,15 @@
 ﻿---
 title: "ROKU"
-date: 2025-08-14T00:17:17+09:00
-lastmod: 2025-08-14T00:17:17+09:00
+date: 2023-07-12T11:47:28+09:00
+lastmod: 2025-10-15T09:10:41+09:00
 type: docs
 sidebar:
-  open: true
+  open: false
 weight: 756
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-13T15:17:17Z" />
-  <meta property="article:modified_time" content="2025-08-13T15:17:17Z" />
+  <meta property="article:published_time" content="2023-07-12T02:47:28Z" />
+  <meta property="article:modified_time" content="2025-10-15T00:10:41Z" />
 </div>
 #스트리밍 #미디어 #커뮤니케이션서비스 #엔터테인먼트
 
