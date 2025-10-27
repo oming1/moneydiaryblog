@@ -1,15 +1,15 @@
 ﻿---
 title: "MU"
-date: 2025-10-08T23:21:29+09:00
-lastmod: 2025-10-15T09:07:44+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:07:44Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 # MU
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "F&B 로봇"
-date: 2024-11-20T21:02:28+09:00
-lastmod: 2025-10-15T09:10:29+09:00
+date: 2025-10-24T22:46:35+09:00
+lastmod: 2025-10-24T22:04:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:28Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:29Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:44Z" />
 </div>
 #로봇 #서비스로봇 #서빙로봇 #조리로봇
 

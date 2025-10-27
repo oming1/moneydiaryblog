@@ -1,15 +1,15 @@
 ﻿---
 title: "FPSO"
-date: 2025-10-08T23:22:02+09:00
-lastmod: 2025-10-15T09:08:53+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:02Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:53Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #FPSO #LNG
 

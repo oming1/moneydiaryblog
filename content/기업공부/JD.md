@@ -1,15 +1,15 @@
 ﻿---
 title: "JD"
-date: 2024-08-28T14:19:59+09:00
-lastmod: 2025-10-15T09:09:25+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 466
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-08-28T05:19:59Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:25Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #소비재 #소매 #전자상거래 #중국  #임의소비재 
 

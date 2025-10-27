@@ -1,15 +1,15 @@
 ﻿---
 title: "EU배터리법"
-date: 2025-10-08T23:21:58+09:00
-lastmod: 2025-10-15T09:09:48+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:58Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:48Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #EU배터리법
 

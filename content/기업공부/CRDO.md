@@ -1,15 +1,15 @@
 ﻿---
 title: "CRDO"
-date: 2024-12-03T21:01:46+09:00
-lastmod: 2025-10-15T09:08:55+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 232
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T12:01:46Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:55Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #테크 #반도체 #케이블 #네트워크케이블
 

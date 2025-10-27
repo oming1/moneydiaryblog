@@ -1,15 +1,15 @@
 ﻿---
 title: "SGHC"
-date: 2024-12-13T21:42:22+09:00
-lastmod: 2025-10-15T09:10:48+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 786
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:42:22Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:48Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #임의소비재 #카지노및게임 #유럽 #온라인스포츠베팅 #카지노
 

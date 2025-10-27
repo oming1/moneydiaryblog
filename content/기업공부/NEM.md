@@ -1,15 +1,15 @@
 ﻿---
 title: "NEM"
-date: 2024-10-25T13:43:30+09:00
-lastmod: 2025-10-15T09:10:01+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 609
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-25T04:43:30Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:01Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #원자재 #기초소재 #금 #광산 #금광 #구리 #아연 #은 #납 
 

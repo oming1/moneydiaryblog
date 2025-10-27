@@ -1,15 +1,15 @@
 ﻿---
 title: "SCCO"
-date: 2025-07-10T06:53:10+09:00
-lastmod: 2025-10-15T09:15:31+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 774
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-09T21:53:10Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:31Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 ## 핵심 키워드
 

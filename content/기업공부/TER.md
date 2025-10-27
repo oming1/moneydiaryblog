@@ -1,15 +1,15 @@
 ﻿---
 title: "TER"
-date: 2023-06-28T12:13:15+09:00
-lastmod: 2025-10-15T09:15:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 859
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:13:15Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #로봇 #반도체 #반도체후공정 #AMR #테크 #양자 
 #반도체테스트 #자동화테스트장비 #협동로봇 #반도체장비 #테스트솔루션  #ATE #반도체 #로보틱스 #AI칩테스트 #메모리테스트 #시스템테스트 #산업자동화 #모바일로봇 #협업로봇 #TSM #Apple #Qualcomm #정보기술 #반도체장비

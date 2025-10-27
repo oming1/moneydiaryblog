@@ -1,15 +1,15 @@
 ﻿---
 title: "AREC"
-date: 2024-11-19T15:22:06+09:00
-lastmod: 2025-10-15T09:08:54+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 84
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-19T06:22:06Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:54Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #희토류 #원자재 #기타산업용금속및광업 #희토류산화물
 

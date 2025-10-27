@@ -1,15 +1,15 @@
 ﻿---
 title: "LPNT"
-date: 2025-01-05T18:44:44+09:00
-lastmod: 2025-10-15T09:11:48+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 527
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-01-05T09:44:44Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:48Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #의료서비스 #병원운영 #지역사회의료 #농촌의료 #외래수술센터 #재활의료 #행동건강 #다각화의료네트워크 #인수합병 #사모펀드 #혁신전략 #디지털헬스케어 #원격의료 #환자중심케어 #의료품질향상 #의료접근성 #비용효율화 #헬스케어 #병원 
 

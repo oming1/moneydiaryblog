@@ -1,15 +1,15 @@
 ﻿---
 title: "GTLB"
-date: 2024-12-13T21:49:20+09:00
-lastmod: 2025-10-15T09:10:25+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 392
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:49:20Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:25Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #테크 #소프트웨어 #DevSecOps #플랫폼
 

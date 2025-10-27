@@ -1,15 +1,15 @@
 ﻿---
 title: "PAM"
-date: 2025-09-21T21:56:32+09:00
-lastmod: 2025-10-15T09:13:57+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 671
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-21T12:56:32Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:57Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #팜파에네르기아 #PAM #아르헨티나전력 #에너지인프라 #천연가스 #정유 #석유화학 #재생에너지 #열병합발전 #수력발전 #풍력발전 #송전사업 #VacaMuerta #비컨벤셔널가스 #지정학적리스크 #국유화위험 #환율변동성 #인플레이션헤지 #정부규제 #가격통제 #원자재수출 #에너지자급 #탄소중립 #에너지안보 #지속가능에너지 #아르헨티나경제 #글로벌투자 #남미시장 #신흥시장 #에너지솔루션 #파이프라인개발 #탐사생산 #수송인프라 #전력생산 #전력배전 #전력판매
 

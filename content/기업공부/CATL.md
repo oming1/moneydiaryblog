@@ -1,15 +1,15 @@
 ﻿---
 title: "CATL"
-date: 2024-09-12T09:36:03+09:00
-lastmod: 2025-10-15T09:13:47+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 177
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-12T00:36:03Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:47Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #CATL #컨템포러리암페렉스 #전기차배터리 #리튬이온배터리 #배터리제조 #에너지저장 #전기차 #지속가능에너지 #전기차시장 #배터리기술 #리튬 #전고체배터리 #배터리재활용 #전기차충전 #글로벌리더 #자동차산업 #에너지전환 #스마트그리드 #전기차생태계 #전기차혁신 #배터리공급망 #전기차배터리시장 #전기차충전소 #배터리기술혁신 #전기차배터리생산 #지속가능한미래 #전기차산업 #리튬배터리 #전기차배터리공급
 

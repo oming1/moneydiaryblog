@@ -1,15 +1,15 @@
 ﻿---
 title: "MDLZ"
-date: 2024-12-20T21:06:48+09:00
-lastmod: 2025-10-15T09:09:12+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 557
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-20T12:06:48Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:12Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #식품제품 #필수소비재 #과자 #스낵 #초콜릿 #비스킷
 

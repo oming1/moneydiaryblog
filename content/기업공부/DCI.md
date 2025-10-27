@@ -1,15 +1,15 @@
 ﻿---
 title: "DCI"
-date: 2025-08-28T21:25:07+09:00
-lastmod: 2025-10-15T09:13:07+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 262
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-28T12:25:07Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:07Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #도날드슨 #DCI #필트레이션 #산업필터 #모바일솔루션 #애프터마켓 #나노파이버 #에어필터 #유체필터 #분진집진기 #먼지집진 #가스터빈흡입필터 #프로세스필터 #압축공기필터 #클린룸 #반도체미세먼지 #바이오프로세싱 #생명과학필터 #수명주기비용 #OEM공급 #교체부품 #소모품매출 #글로벌제조 #공급망다변화 #원자재비용 #규제순응 #환경규제 #에너지효율 #신흥시장수요
 

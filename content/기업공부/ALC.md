@@ -1,15 +1,15 @@
 ﻿---
 title: "ALC"
-date: 2025-08-21T21:12:51+09:00
-lastmod: 2025-10-15T09:16:58+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 52
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-21T12:12:51Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:16:58Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #Alcon #ALC #안과 #눈건강 #비전케어 #VisionCare #콘택트렌즈 #안과수술 #백내장수술 #녹내장 #안구건조증 #인공수정체 #렌즈관리용액 #안과장비 #의료기기 #헬스케어 #소모품 #노인인구 #첨단기술 #FDA승인 #안과시장 #PrecisionHealth #의료혁신 #안과의사 #검안사
 

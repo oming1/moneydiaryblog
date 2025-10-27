@@ -1,15 +1,15 @@
 ﻿---
 title: "DXCM"
-date: 2024-09-04T13:35:12+09:00
-lastmod: 2025-10-15T09:09:59+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 298
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-04T04:35:12Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:59Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #헬스케어 #의료기기 #당뇨병  
 

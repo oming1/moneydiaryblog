@@ -1,15 +1,15 @@
 ﻿---
 title: "UAM"
-date: 2024-11-20T21:02:29+09:00
-lastmod: 2025-10-15T09:09:17+09:00
+date: 2025-10-24T22:46:38+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:29Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:17Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:38Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #UAM #도심항공모빌리티 #여객 #모빌리티 #항공 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "BYND"
-date: 2023-07-15T12:25:29+09:00
-lastmod: 2025-10-15T09:14:57+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 165
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-15T03:25:29Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:57Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #포장식품 #대체육 #식물성고기 #비건 #대체육 #단백질 #완두콩단백질 #지속가능성 #비건버거 #식물성소시지 #맥도날드 #판다익스프레스 #펩시코 #얌브랜드 #소매유통 #레스토랑 #푸드서비스 #소비재 #필수소비재 #식품음료 #식물성식품 #환경친화적
 

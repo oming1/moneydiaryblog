@@ -1,15 +1,15 @@
 ﻿---
 title: "Study"
-date: 2025-10-08T23:22:00+09:00
-lastmod: 2025-10-15T11:27:43+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:00Z" />
-  <meta property="article:modified_time" content="2025-10-15T02:27:43Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 # Study
 

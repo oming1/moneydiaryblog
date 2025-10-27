@@ -1,15 +1,15 @@
 ﻿---
 title: "BLK"
-date: 2024-11-12T10:08:10+09:00
-lastmod: 2025-10-15T09:10:27+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 142
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-12T01:08:10Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:27Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #투자관리 #금융 #자산운용회사 
 

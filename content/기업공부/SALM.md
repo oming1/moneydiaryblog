@@ -1,15 +1,15 @@
 ﻿---
 title: "SALM"
-date: 2025-07-04T09:44:28+09:00
-lastmod: 2025-10-15T09:13:10+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 767
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-04T00:44:28Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:10Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 ## 미국 상장 여부
 

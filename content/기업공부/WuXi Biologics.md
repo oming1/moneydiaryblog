@@ -1,15 +1,15 @@
 ﻿---
 title: "WuXi Biologics"
-date: 2024-09-11T10:53:00+09:00
-lastmod: 2025-10-15T09:09:52+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 979
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-11T01:53:00Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:52Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #바이오테크 #헬스케어 #CDMO #중국 
 

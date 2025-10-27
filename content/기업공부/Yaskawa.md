@@ -1,15 +1,15 @@
 ﻿---
 title: "Yaskawa"
-date: 2023-06-28T12:13:14+09:00
-lastmod: 2025-10-15T09:10:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 990
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:13:14Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #로봇 #산업용로봇 #산업재 #전기장비및부품 #모터 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "TREE"
-date: 2025-09-30T14:46:55+09:00
-lastmod: 2025-10-15T09:13:58+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 883
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-09-30T05:46:55Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:58Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #렌딩트리 #LendingTree #온라인대출마켓플레이스 #핀테크 #모기지대출 #개인대출 #자동차대출 #학자금대출 #신용카드 #부동산중개 #보험비교 #금융서비스 #데이터드리븐매칭 #리드생성 #금융상품비교 #디지털금융 #소비자금융 #대출중개 #플랫폼비즈니스 #금융테크 #규제준수 #금리민감주 #경기민감주 #소비자신용 #경쟁우위 #모바일앱 #인수합병 #금융인프라 #디지털전환 #데이터분석 #개인화서비스
 

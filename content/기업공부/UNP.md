@@ -1,15 +1,15 @@
 ﻿---
 title: "UNP"
-date: 2025-03-05T10:45:39+09:00
-lastmod: 2025-10-15T09:11:33+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 911
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-05T01:45:39Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:33Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #화물철도 #북미물류 #벌크화물 #인터모달운송 #공급망 #에너지수송 #철도인프라 #디지털화 #자동화운영 #연비향상 #ESG #탄소감축 #정밀운송 #철도안전 #수송효율 #중서부운송 #곡물수송 #자동차수송 #화학수송 #미국제조업
 

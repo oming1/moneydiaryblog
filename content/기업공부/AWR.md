@@ -1,15 +1,15 @@
 ﻿---
 title: "AWR"
-date: 2024-09-20T15:31:41+09:00
-lastmod: 2025-10-15T09:09:15+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 104
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T06:31:41Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:15Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #인프라 #물공급 #상하수도 #수도유틸리티 #유틸리티 #전기 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "USAR"
-date: 2025-07-11T13:52:41+09:00
-lastmod: 2025-10-15T09:15:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 918
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-11T04:52:41Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #희토류 #레어어스 #네오디뮴 #디스프로슘 #마그네트 #전기차 #풍력발전 #국방 #첨단기술 #텍사스 #라운드톱 #광산 #채굴 #정제 #수직통합 #공급망 #중국의존도 #에너지전환 #소재 #광물
 

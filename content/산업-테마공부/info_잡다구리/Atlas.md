@@ -1,15 +1,15 @@
 ﻿---
 title: "Atlas"
-date: 2025-08-29T14:45:49+09:00
-lastmod: 2025-10-15T09:11:34+09:00
+date: 2025-10-24T22:46:39+09:00
+lastmod: 2025-10-24T22:04:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-29T05:45:49Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:34Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:43Z" />
 </div>
 #MDB #Atlas #데이터베이스 #클라우드데이터베이스
 

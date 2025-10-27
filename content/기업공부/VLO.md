@@ -1,15 +1,15 @@
 ﻿---
 title: "VLO"
-date: 2024-10-04T22:01:36+09:00
-lastmod: 2025-10-15T09:08:42+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 933
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-04T13:01:36Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:42Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #에너지 #원유 #정유 #석유및가스정제및마케팅 #에탄올 #디젤 
 

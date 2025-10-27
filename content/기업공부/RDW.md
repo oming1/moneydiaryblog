@@ -1,15 +1,15 @@
 ﻿---
 title: "RDW"
-date: 2024-11-09T13:04:12+09:00
-lastmod: 2025-10-15T09:09:49+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 735
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-09T04:04:12Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:49Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #산업재 #항공우주및방위산업 #우주인프라기술 #3D프린팅 #우주센서 #위성부품 #저궤도위성 #정지궤도위성 #위성용태양광판
 

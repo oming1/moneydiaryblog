@@ -1,15 +1,15 @@
 ﻿---
 title: "DECK"
-date: 2024-09-20T09:16:50+09:00
-lastmod: 2025-10-15T09:14:47+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 269
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T00:16:50Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:47Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #프리미엄신발 #UGG #HOKA #러닝화 #애슬레틱슈즈 #패션신발 #캐주얼신발 #아웃도어 #컴포트슈즈 #프리미엄브랜드 #직접판매채널 #이커머스 #포트폴리오다각화 #럭셔리푸트웨어 #지속가능패션 #스포츠신발 #국제확장 #브랜드파워 #마진성장 #공급망관리 #글로벌유통 #디지털트랜스포메이션 #라이프스타일브랜드 #성장주 #소비자트렌드 #실적호조
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SaaS"
-date: 2025-03-08T08:09:56+09:00
-lastmod: 2025-10-15T09:12:56+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-07T23:09:56Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:56Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:43Z" />
 </div>
 #SaaS #클라우드컴퓨팅 #구독경제 #소프트웨어배포 #CRM #ERP #협업툴 #데이터분석 #AI통합 #API #마이크로서비스 #다중테넌시 #자동확장 #보안 #데이터호스팅 #유지보수 #고객성공 #PLG #SLG #클라우드인프라
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "HTFL"
-date: 2025-08-11T10:19:08+09:00
-lastmod: 2025-10-15T09:12:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 421
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-11T01:19:08Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #심혈관질환 #의료기술 #AI #3D모델링 #비침습적검사 #심장CT #진단솔루션 #헬스케어 #정밀의료 #환자맞춤형 #의료영상 #데이터분석 #의료혁신 #시장점유율  #의료기기 #비용효율성 #의사결정지원 #디지털헬스 #전문가시스템
 

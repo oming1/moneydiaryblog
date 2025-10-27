@@ -1,15 +1,15 @@
 ﻿---
 title: "ISRG"
-date: 2023-06-28T12:17:44+09:00
-lastmod: 2025-10-15T09:11:02+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 461
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:44Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:02Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #로봇 #헬스케어 #의료기기 #로봇수술 #다빈치수술시스템 #의료로봇
 

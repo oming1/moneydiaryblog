@@ -1,15 +1,15 @@
 ﻿---
 title: "TEVA"
-date: 2024-12-18T11:20:09+09:00
-lastmod: 2025-10-15T09:10:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 861
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-18T02:20:09Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #제약 #제네릭의약품 #특수의약품 #중추신경계 #호흡기 #종양학 #여성건강 #API #OTC #글로벌제약기업 #이스라엘기업 #연구개발 #제조 #유통 #의약품포트폴리오 #제네릭 #헬스케어 #제약
 

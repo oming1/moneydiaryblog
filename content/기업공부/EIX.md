@@ -1,15 +1,15 @@
 ﻿---
 title: "EIX"
-date: 2025-01-14T21:09:12+09:00
-lastmod: 2025-10-15T09:11:11+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 307
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-01-14T12:09:12Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:11Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 ## 핵심 키워드
 

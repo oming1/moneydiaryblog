@@ -1,15 +1,15 @@
 ﻿---
 title: "TRIP"
-date: 2024-10-24T10:50:01+09:00
-lastmod: 2025-10-15T09:11:18+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 885
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-24T01:50:01Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:18Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #여행서비스 #경기소비재 #여행 #레저 
 

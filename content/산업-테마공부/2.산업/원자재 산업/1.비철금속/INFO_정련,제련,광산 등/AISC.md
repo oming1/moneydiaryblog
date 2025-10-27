@@ -1,15 +1,15 @@
 ﻿---
 title: "AISC"
-date: 2025-10-08T23:21:55+09:00
-lastmod: 2025-10-15T09:08:14+09:00
+date: 2025-10-24T22:46:36+09:00
+lastmod: 2025-10-24T22:04:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:55Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:14Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:44Z" />
 </div>
 #AISC
 

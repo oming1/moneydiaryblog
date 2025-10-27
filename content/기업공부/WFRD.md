@@ -1,15 +1,15 @@
 ﻿---
 title: "WFRD"
-date: 2024-11-12T09:57:03+09:00
-lastmod: 2025-10-15T09:10:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 961
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-12T00:57:03Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #유전서비스 #에너지 #셰일가스 #유정시추 
 

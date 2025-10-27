@@ -1,15 +1,15 @@
 ﻿---
 title: "GGAL"
-date: 2024-12-13T21:50:14+09:00
-lastmod: 2025-10-15T09:10:10+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 374
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:50:14Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:10Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #금융 #지역은행 #아르헨티나의금융서비스지주회사 #은행 #보험 #아르헨티나 #지주사 
 

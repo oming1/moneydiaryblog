@@ -1,15 +1,15 @@
 ﻿---
 title: "BX"
-date: 2025-01-16T22:16:36+09:00
-lastmod: 2025-10-15T09:11:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 163
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-01-16T13:16:36Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 ## 핵심 키워드
 

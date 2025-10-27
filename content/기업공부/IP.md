@@ -1,15 +1,15 @@
 ﻿---
 title: "IP"
-date: 2024-09-03T14:36:57+09:00
-lastmod: 2025-10-15T09:10:33+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 452
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-03T05:36:57Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:33Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #담배 #포장재 #소비자방어주 #종이및종이제품
 

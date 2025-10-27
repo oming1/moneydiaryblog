@@ -1,15 +1,15 @@
 ﻿---
 title: "TRMB"
-date: 2024-11-14T17:56:39+09:00
-lastmod: 2025-10-15T09:10:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 886
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-14T08:56:39Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #건설관리소프트웨어 #클라우드 #GPS #인공위성 #정밀측량 #고정밀GPS #위성위치추적관리 #지리공간기술 #GNSS #관성내비게이션시스템 #UAV 
 

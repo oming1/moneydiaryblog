@@ -1,15 +1,15 @@
 ﻿---
 title: "GNRC"
-date: 2024-10-09T07:06:15+09:00
-lastmod: 2025-10-15T09:10:29+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 383
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-08T22:06:15Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:29Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #허리케인 #산업재 #특수산업기계 #발전기 #ESS #전력 
 

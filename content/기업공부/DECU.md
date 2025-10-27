@@ -1,15 +1,15 @@
 ﻿---
 title: "DECU"
-date: 2025-07-15T15:38:03+09:00
-lastmod: 2025-10-15T09:12:49+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 270
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-15T06:38:03Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:49Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 ## 핵심 키워드
 

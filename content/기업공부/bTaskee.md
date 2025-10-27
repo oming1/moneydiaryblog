@@ -1,15 +1,15 @@
 ﻿---
 title: "bTaskee"
-date: 2025-03-26T16:55:47+09:00
-lastmod: 2025-10-15T09:11:49+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 159
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-26T07:55:47Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:49Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #베트남 #가사지원서비스 #HomeCleaning #포장이사 #가사도우미 #청소서비스 #온디맨드플랫폼 #스타트업 #모바일앱 #홈서비스 #O2O #고객편의성 #디지털화 #ESG #지역확장 #베트남시장 #소비자서비스 #일자리창출 #스마트매칭 #예약시스템
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "HPE"
-date: 2024-09-05T17:55:45+09:00
-lastmod: 2025-10-15T09:10:50+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 415
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-05T08:55:45Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:50Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #테크 #정보기술 #보안솔루션
 

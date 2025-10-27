@@ -1,15 +1,15 @@
 ﻿---
 title: "FCX의 구리 가격 변동으로 뭘 사볼까"
-date: 2025-10-08T23:22:21+09:00
-lastmod: 2025-10-15T09:12:05+09:00
+date: 2025-10-24T22:46:39+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:21Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:05Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #FCX #구리 #인도네시아 #SCCO 
 

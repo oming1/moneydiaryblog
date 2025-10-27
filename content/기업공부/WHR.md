@@ -1,15 +1,15 @@
 ﻿---
 title: "WHR"
-date: 2024-12-13T21:46:59+09:00
-lastmod: 2025-10-15T09:10:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 962
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:46:59Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #임의소비재 #가전제품 #주방가전 #세탁가전 #제조업 
 

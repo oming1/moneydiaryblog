@@ -1,15 +1,15 @@
 ﻿---
 title: "AIR"
-date: 2024-11-14T20:54:50+09:00
-lastmod: 2025-10-15T09:10:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 43
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-14T11:54:50Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #인공위성 #항공기제조 #항공우주및방위 #우주선 #항공기 #방산 #항공 #우주 
 

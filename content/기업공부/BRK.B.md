@@ -1,15 +1,15 @@
 ﻿---
 title: "BRK.B"
-date: 2024-11-05T14:47:00+09:00
-lastmod: 2025-10-15T09:11:04+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 155
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-05T05:47:00Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:04Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #금융 #다각화된금융서비스 #보험 #철도 #에너지 #제조업 #소매업 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SCFI"
-date: 2025-10-08T23:22:03+09:00
-lastmod: 2025-10-15T09:09:00+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:03Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:00Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #해운  #컨테이너선 #컨테이너 #SCFI 
 

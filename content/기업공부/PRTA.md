@@ -1,15 +1,15 @@
 ﻿---
 title: "PRTA"
-date: 2024-12-23T16:17:46+09:00
-lastmod: 2025-10-15T09:09:40+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 708
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-23T07:17:46Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:40Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #바이오텍 #헬스케어  #바이오테크놀로지 #신약개발 #알츠하이머 #파킨슨병 #단백질치료제 #임상시험 #희귀질환 #면역치료제 #신경퇴행성질환 #정밀의학 #생명과학도구및서비스
 

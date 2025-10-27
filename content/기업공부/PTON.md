@@ -1,15 +1,15 @@
 ﻿---
 title: "PTON"
-date: 2025-01-05T18:33:42+09:00
-lastmod: 2025-10-15T09:11:36+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 715
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-01-05T09:33:42Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:36Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #커넥티드피트니스 #홈피트니스 #구독모델 #디지털콘텐츠 #프리미엄브랜드 #혁신기술 #사용자경험 #커뮤니티 #데이터분석 #라이브스트리밍 #온디맨드클래스 #하드웨어 #소프트웨어 #글로벌확장 #경쟁심화 #리브랜딩 #제품다각화 #임의소비재 #레저제품
 

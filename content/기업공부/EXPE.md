@@ -1,15 +1,15 @@
 ﻿---
 title: "EXPE"
-date: 2024-10-18T14:51:44+09:00
-lastmod: 2025-10-15T09:10:32+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 332
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-18T05:51:44Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:32Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #여행서비스 #임의소비재 #여행 #레저 
 

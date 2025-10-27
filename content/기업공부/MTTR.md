@@ -1,15 +1,15 @@
 ﻿---
 title: "MTTR"
-date: 2023-07-12T11:47:30+09:00
-lastmod: 2025-10-15T09:09:42+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 600
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:30Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:42Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #테크 #소프트웨어 #디지털트윈 #부동산
 

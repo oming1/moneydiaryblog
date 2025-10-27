@@ -1,15 +1,15 @@
 ﻿---
 title: "Volkswagen"
-date: 2023-06-20T14:05:37+09:00
-lastmod: 2025-10-15T09:09:05+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 936
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-20T05:05:37Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:05Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #자동차 #소비재 #전기차 #임의소비재 #자동차제조업
 

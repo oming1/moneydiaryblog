@@ -1,15 +1,15 @@
 ﻿---
 title: "SMIC"
-date: 2025-02-20T16:10:11+09:00
-lastmod: 2025-10-15T09:11:55+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 803
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-02-20T07:10:11Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:55Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 ## 핵심 키워드
 

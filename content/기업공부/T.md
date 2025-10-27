@@ -1,15 +1,15 @@
 ﻿---
 title: "T"
-date: 2024-10-23T21:04:51+09:00
-lastmod: 2025-10-15T09:14:19+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 849
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-23T12:04:51Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:19Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #통신서비스 #5G네트워크 #광섬유 #무선통신 #배당주 #통신인프라 #FirstNet #공공보안 #디지털전환 #브로드밴드 #엔터프라이즈 #소비자통신 #Ericsson파트너십 #OpenRAN #IoT #클라우드서비스 #DIRECTV매각 #네트워크현대화 #통신장비 #디지털미디어 #스마트폰서비스 #인터넷서비스 #무선인프라 #통신기술 #데이터서비스 #디지털솔루션
 

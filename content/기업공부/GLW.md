@@ -1,15 +1,15 @@
 ﻿---
 title: "GLW"
-date: 2024-10-28T21:27:30+09:00
-lastmod: 2025-10-15T09:14:51+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 379
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:27:30Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:51Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #특수유리 #광섬유 #고릴라글래스 #디스플레이기술 #광통신 #스마트폰글래스 #Corning #소재과학 #5G인프라 #AI데이터센터 #자동차유리 #환경기술 #생명과학 #실리카유리 #세라믹소재 #반도체폴리실리콘 #전자부품 #통신장비 #광케이블 #혁신소재 #Springboard전략 #Broadcom파트너십 #내구성유리 #첨단광학 #자동차 #스마트폰 #광섬유 
 

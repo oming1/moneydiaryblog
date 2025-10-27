@@ -1,15 +1,15 @@
 ﻿---
 title: "CTVA"
-date: 2024-09-13T17:43:54+09:00
-lastmod: 2025-10-15T09:09:57+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 248
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T08:43:54Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:57Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #농약 #기초소재 #농업투입재 #농업 
 

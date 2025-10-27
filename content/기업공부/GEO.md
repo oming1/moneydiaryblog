@@ -1,15 +1,15 @@
 ﻿---
 title: "GEO"
-date: 2024-11-12T10:14:59+09:00
-lastmod: 2025-10-15T09:10:27+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 370
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-12T01:14:59Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:27Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #보안및보호서비스 #산업재 #교도소
 

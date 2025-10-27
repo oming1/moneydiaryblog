@@ -1,15 +1,15 @@
 ﻿---
 title: "LNG추진선"
-date: 2025-10-08T23:22:02+09:00
-lastmod: 2025-10-15T09:09:22+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:02Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:22Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #이산화탄소 #LNG추진선 #LNG
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "BOC"
-date: 2025-10-08T23:21:34+09:00
-lastmod: 2025-10-15T11:26:53+09:00
+date: 2025-10-24T22:46:35+09:00
+lastmod: 2025-10-24T22:04:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:34Z" />
-  <meta property="article:modified_time" content="2025-10-15T02:26:53Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:43Z" />
 </div>
 # BOC
 

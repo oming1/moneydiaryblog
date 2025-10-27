@@ -1,15 +1,15 @@
 ﻿---
 title: "SLB"
-date: 2024-10-21T18:11:57+09:00
-lastmod: 2025-10-15T09:10:38+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 801
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-21T09:11:57Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:38Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #에너지 #석유 #가스 #시추장비 
 

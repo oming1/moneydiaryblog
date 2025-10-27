@@ -1,15 +1,15 @@
 ﻿---
 title: "TILE"
-date: 2024-10-28T21:02:07+09:00
-lastmod: 2025-10-15T09:08:38+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 867
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:02:07Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:38Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #바닥재 #가구  #타일 #카펫 #산업재 #건축제품 #타일
 

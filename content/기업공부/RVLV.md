@@ -1,15 +1,15 @@
 ﻿---
 title: "RVLV"
-date: 2024-12-13T20:44:57+09:00
-lastmod: 2025-10-15T09:09:11+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 764
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T11:44:57Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:11Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #임의소비재 #의류 #패션 #인터넷소매
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "BGLC"
-date: 2025-07-18T09:38:13+09:00
-lastmod: 2025-10-15T09:13:57+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 129
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-18T00:38:13Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:57Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #바이오테크놀로지 #액체생검 #유전체스크리닝 #정밀진단 #특수화학 #말레이시아 #mRNA #분자진단 #바이오마커 #조기진단 #헬스케어 #화학원료 #산업용화학 #의료기기 #자동차 #전자산업 #항공우주 #기계공업 #Chemrex #BGS #나스닥컴플라이언스 #동남아시아 #인도네시아 #베트남 #AI헬스케어
 

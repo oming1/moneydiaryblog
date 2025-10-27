@@ -1,15 +1,15 @@
 ﻿---
 title: "PPI"
-date: 2024-11-20T21:02:27+09:00
-lastmod: 2025-10-15T09:10:50+09:00
+date: 2025-10-24T22:46:35+09:00
+lastmod: 2025-10-24T22:04:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:27Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:50Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:43Z" />
 </div>
 #물가 #생산자물가
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "BYD"
-date: 2024-09-12T11:30:25+09:00
-lastmod: 2025-10-15T09:10:20+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 164
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-12T02:30:25Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:20Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #중국 #전기차 #임의소비재 #자동차제조 #ESS
 

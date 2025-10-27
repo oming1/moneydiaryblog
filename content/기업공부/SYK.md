@@ -1,15 +1,15 @@
 ﻿---
 title: "SYK"
-date: 2024-12-06T22:09:54+09:00
-lastmod: 2025-10-15T09:09:12+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 847
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:09:54Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:12Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #헬스케어 #의료장비및용품
 

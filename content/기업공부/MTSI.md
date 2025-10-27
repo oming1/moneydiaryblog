@@ -1,15 +1,15 @@
 ﻿---
 title: "MTSI"
-date: 2025-08-20T16:21:22+09:00
-lastmod: 2025-10-15T09:12:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 598
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-20T07:21:22Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #MACOM #MTSI #RF #Microwave #MillimeterWave #GaN #GaAs #InP #Semiconductor #AnalogIC #Photonics #5G #6G #DataCenter #AerospaceDefense #SatelliteComms #Radar #LiDAR #OpticalInterconnect #Connectivity #HighFrequency #NetworkEdge #IndustrialSensor
 

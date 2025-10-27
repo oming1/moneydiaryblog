@@ -1,15 +1,15 @@
 ﻿---
 title: "EH"
-date: 2024-12-27T10:10:52+09:00
-lastmod: 2025-10-15T09:11:06+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 305
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-27T01:10:52Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:06Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #자율항공기 #도심항공교통 #전기수직이착륙기 #중국기업 #항공모빌리티 #반도체 #정보기술 #UAM #항공기부품 #eVTOL
 

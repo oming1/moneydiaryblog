@@ -1,15 +1,15 @@
 ﻿---
 title: "DISH"
-date: 2024-12-10T21:16:51+09:00
-lastmod: 2025-10-15T09:08:53+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 279
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:16:51Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:53Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #위성TV
 

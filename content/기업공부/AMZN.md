@@ -1,15 +1,15 @@
 ﻿---
 title: "AMZN"
-date: 2023-07-12T10:42:22+09:00
-lastmod: 2025-10-15T09:15:57+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 67
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T01:42:22Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:57Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #이커머스 #AWS #클라우드컴퓨팅 #온라인쇼핑 #프라임 #아마존웹서비스 #광고서비스 #배송물류 #알렉사 #인공지능 #마켓플레이스 #구독서비스 #아마존프라임 #빅데이터 #아마존스토어 #배송네트워크 #디지털서비스 #전자상거래 #임의소비재 #커뮤니케이션서비스 #우주 #카이퍼프로젝트 
 

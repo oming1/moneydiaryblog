@@ -1,15 +1,15 @@
 ﻿---
 title: "AMKR"
-date: 2024-12-26T21:04:58+09:00
-lastmod: 2025-10-15T09:10:40+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 62
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-26T12:04:58Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:40Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #반도체 #패키징 #테스트 #아웃소싱 #글로벌기업 #정보기술 #반도체패키징 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "주택 분산자원을 활용한 Residential VPP 모델"
-date: 2025-10-08T23:21:59+09:00
-lastmod: 2025-10-15T09:08:54+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 21
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:59Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:54Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #VPP
 

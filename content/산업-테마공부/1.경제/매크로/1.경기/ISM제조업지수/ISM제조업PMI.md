@@ -1,15 +1,15 @@
 ﻿---
 title: "ISM제조업PMI"
-date: 2024-11-20T21:02:26+09:00
-lastmod: 2025-10-15T09:10:11+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:26Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:11Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:43Z" />
 </div>
 #매크로 #경기 #제조업
 

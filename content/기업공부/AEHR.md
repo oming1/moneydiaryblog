@@ -1,15 +1,15 @@
 ﻿---
 title: "AEHR"
-date: 2025-08-05T14:02:11+09:00
-lastmod: 2025-10-15T09:14:19+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 32
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-05T05:02:11Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:19Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #반도체테스트장비 #웨이퍼레벨번인 #실리콘카바이드 #전기차반도체 #AI프로세서테스트 #WaferPak컨택터 #FOX테스트시스템 #번인장비 #파워반도체 #갈륨나이트라이드 #실리콘포토닉스 #플래시메모리테스트 #하드디스크반도체 #소모품수익모델 #반도체신뢰성테스트 #웨이퍼접촉테스트 #Incal인수합병 #Sonoma시스템 #패키지레벨번인 #고전력반도체테스트 #반도체품질보장 #테스트자동화장비 #반도체 #웨이퍼테스트 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "WM"
-date: 2024-09-12T12:08:21+09:00
-lastmod: 2025-10-15T09:10:07+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 964
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-12T03:08:21Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:07Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #산업재 #폐기물관리 #재활용 #재생에너지 #메탄가스
 

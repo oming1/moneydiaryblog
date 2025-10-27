@@ -1,15 +1,15 @@
 ﻿---
 title: "NVS"
-date: 2024-12-24T12:03:32+09:00
-lastmod: 2025-10-15T09:11:02+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 641
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-24T03:03:32Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:02Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 답변
 

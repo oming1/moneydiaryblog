@@ -1,15 +1,15 @@
 ﻿---
 title: "CPTN"
-date: 2024-12-15T13:06:52+09:00
-lastmod: 2025-10-15T09:10:23+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 229
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-15T04:06:52Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:23Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #전자장비및부품 #정보기술 #라이다 #LiDAR
 

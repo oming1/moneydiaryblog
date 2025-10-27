@@ -1,15 +1,15 @@
 ﻿---
 title: "BHP"
-date: 2023-06-04T17:05:14+09:00
-lastmod: 2025-10-15T09:09:12+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 130
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-04T08:05:14Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:12Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #비철금속 #포타슘 #광산 #기타산업용금속및광업 #기초소재 #구리 #니켈 #철광석
 

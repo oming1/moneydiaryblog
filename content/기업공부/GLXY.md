@@ -1,15 +1,15 @@
 ﻿---
 title: "GLXY"
-date: 2024-12-27T10:10:47+09:00
-lastmod: 2025-10-15T09:15:22+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 380
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-27T01:10:47Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:22Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #암호화폐 #비트코인 #디지털자산 #AI데이터센터 #기관투자자 #자산운용 #트레이딩 #스테이킹 #마이닝 #블록체인 #핀테크 #마이크노보그라츠 #DeFi #ETF #대체투자 #고성능컴퓨팅 #코어웨이브 
 

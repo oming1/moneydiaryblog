@@ -1,15 +1,15 @@
 ﻿---
 title: "Z"
-date: 2023-07-12T11:47:26+09:00
-lastmod: 2025-10-15T09:09:02+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 994
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:26Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:02Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #부동산 #커뮤니케이션서비스 #인터넷콘텐츠
 

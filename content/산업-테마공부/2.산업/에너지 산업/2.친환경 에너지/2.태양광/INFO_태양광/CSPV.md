@@ -1,15 +1,15 @@
 ﻿---
 title: "CSPV"
-date: 2025-10-08T23:21:53+09:00
-lastmod: 2025-10-15T09:08:44+09:00
+date: 2025-10-24T22:46:36+09:00
+lastmod: 2025-10-24T22:04:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:53Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:44Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:44Z" />
 </div>
 #태양광 #결정질실리콘태양광 #CSPV
 

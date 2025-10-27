@@ -1,15 +1,15 @@
 ﻿---
 title: "CJ제일제당"
-date: 2024-11-20T21:02:28+09:00
-lastmod: 2025-10-15T09:08:45+09:00
+date: 2025-10-24T22:46:36+09:00
+lastmod: 2025-10-24T22:04:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:28Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:45Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:44Z" />
 </div>
 #CJ제일제당
 

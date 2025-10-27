@@ -1,15 +1,15 @@
 ﻿---
 title: "Nabtesco"
-date: 2023-06-28T12:17:47+09:00
-lastmod: 2025-10-15T09:09:52+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 604
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:47Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:52Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #로봇 #로봇부품 #중대형감속기 #산업용로봇 #산업재 #산업용기계 #정밀감속기
 

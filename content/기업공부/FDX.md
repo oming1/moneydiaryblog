@@ -1,15 +1,15 @@
 ﻿---
 title: "FDX"
-date: 2024-08-30T20:35:33+09:00
-lastmod: 2025-10-15T09:10:13+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 340
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T11:35:33Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:13Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #산업재 #택배 #물류 #통합화물및물류 #항공운송 #3PL
 

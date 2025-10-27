@@ -1,15 +1,15 @@
 ﻿---
 title: "WMB"
-date: 2024-12-28T08:18:57+09:00
-lastmod: 2025-10-15T09:11:44+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 965
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-27T23:18:57Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:44Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 ## 기업 개요
 

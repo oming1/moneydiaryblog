@@ -1,15 +1,15 @@
 ﻿---
 title: "NUE"
-date: 2024-12-16T17:33:31+09:00
-lastmod: 2025-10-15T09:09:33+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 634
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-16T08:33:31Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:33Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #소재 #철강
 

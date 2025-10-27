@@ -1,15 +1,15 @@
 ﻿---
 title: "GENIUS 법안"
-date: 2025-07-23T18:57:40+09:00
-lastmod: 2025-10-15T09:09:33+09:00
+date: 2025-10-24T22:46:36+09:00
+lastmod: 2025-10-24T22:04:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-23T09:57:40Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:33Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:44Z" />
 </div>
 #암호화폐 #스테이블코인 
 

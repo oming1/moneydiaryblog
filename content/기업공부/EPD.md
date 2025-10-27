@@ -1,15 +1,15 @@
 ﻿---
 title: "EPD"
-date: 2024-12-28T08:19:03+09:00
-lastmod: 2025-10-15T09:11:02+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 318
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-27T23:19:03Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:02Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #천연가스 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 

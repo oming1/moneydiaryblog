@@ -1,15 +1,15 @@
 ﻿---
 title: "USFD"
-date: 2024-11-07T10:14:18+09:00
-lastmod: 2025-10-15T09:10:31+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 921
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-07T01:14:18Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:31Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #소비자방어주 #식품유통 
 

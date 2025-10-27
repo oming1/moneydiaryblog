@@ -1,15 +1,15 @@
 ﻿---
 title: "EXC"
-date: 2024-10-24T10:26:52+09:00
-lastmod: 2025-10-15T09:10:15+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 331
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-24T01:26:52Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:15Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #유틸리티 #전기유틸리티 #전기 #전력 #천연가스 
 

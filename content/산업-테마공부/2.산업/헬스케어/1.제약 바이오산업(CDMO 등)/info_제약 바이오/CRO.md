@@ -1,15 +1,15 @@
 ﻿---
 title: "CRO"
-date: 2025-10-08T23:22:10+09:00
-lastmod: 2025-10-15T09:08:47+09:00
+date: 2025-10-24T22:46:39+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:47Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #헬스케어 #CRO 
 

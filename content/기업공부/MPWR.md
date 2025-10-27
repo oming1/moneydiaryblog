@@ -1,15 +1,15 @@
 ﻿---
 title: "MPWR"
-date: 2024-12-24T11:59:04+09:00
-lastmod: 2025-10-15T09:11:23+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 586
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-24T02:59:04Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:23Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #팹리스 #반도체 #정보기술 #반도체 #전력관리IC #데이터센터 #자동차 #통신 #DC-DC변환기 #전력관리통합회로 
 

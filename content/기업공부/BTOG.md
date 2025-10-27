@@ -1,15 +1,15 @@
 ﻿---
 title: "BTOG"
-date: 2025-07-18T09:38:11+09:00
-lastmod: 2025-10-15T09:13:32+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 161
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-07-18T00:38:11Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:32Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #암호화폐채굴 #비트코인마이닝 #도지코인 #블록체인기술 #BTOG #크립토마이닝 #디지털자산 #암호화폐투자 #나스닥상장 #중국샹타이푸드 #싱가포르 #마이닝장비 #해시레이트 #비트코인 #도지코인금고 #5억달러펀드 #소규모채굴업체 #GPU채굴 #AI컴퓨팅 #에지컴퓨팅 #아에디르파트너십 #미국채굴데이터센터 #조지아채굴 #와이오밍채굴 #경영권변화 #채굴수익성 #전력비용 #나스닥컴플라이언스 #핀테크혁신 #블록체인솔루션
 

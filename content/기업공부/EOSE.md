@@ -1,15 +1,15 @@
 ﻿---
 title: "EOSE"
-date: 2025-08-05T14:00:31+09:00
-lastmod: 2025-10-15T09:13:37+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 317
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-05T05:00:31Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:37Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #아연배터리 #에너지저장시스템 #전력저장 #신재생에너지 #그리드규모배터리 #수성아연기술 #장시간에너지저장 #Znyth배터리 #리튬이온대안 #유틸리티스케일 #마이크로그리드 #배터리기술혁신 #친환경배터리 #전력안정성 #에너지인프라 #ESS #BESS #아연브로마이드 #청정에너지 #에너지독립 #상용에너지저장 #전력망안정화 #재생에너지통합 #배터리 #이차전지 
 

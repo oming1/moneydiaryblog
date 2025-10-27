@@ -1,15 +1,15 @@
 ﻿---
 title: "TTD"
-date: 2023-07-14T10:40:55+09:00
-lastmod: 2025-10-15T09:15:21+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 892
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-14T01:40:55Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:15:21Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #광고 #테크 #소프트웨어 #프로그래매틱광고 #DSP #광고기술 #CTV #커넥티드TV #디지털광고 #애드테크 #자동화광고 #데이터기반광고 #리얼타임비딩 #광고플랫폼 #미디어구매 #광고대행사 #정보기술  #마케팅기술 #광고캠페인 #옴니채널 #광고측정 #정보기술
 

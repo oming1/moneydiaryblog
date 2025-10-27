@@ -1,15 +1,15 @@
 ﻿---
 title: "SSTK"
-date: 2023-07-12T10:42:19+09:00
-lastmod: 2025-10-15T09:10:42+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 829
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T01:42:19Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:42Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #테크 #소프트웨어 #인터넷콘텐츠및정보 #커뮤니케이션서비스
 

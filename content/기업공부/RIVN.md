@@ -1,15 +1,15 @@
 ﻿---
 title: "RIVN"
-date: 2024-10-05T09:50:42+09:00
-lastmod: 2025-10-15T09:08:55+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 747
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-05T00:50:42Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:55Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #임의소비재 #자동차제조업 #전기차 #전기트럭 
 

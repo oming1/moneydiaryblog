@@ -1,15 +1,15 @@
 ﻿---
 title: "RMD"
-date: 2024-08-28T14:20:39+09:00
-lastmod: 2025-10-15T09:10:33+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 752
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-08-28T05:20:39Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:33Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #헬스케어 #의료기기 #수면무호흡 #폐기능검사장비
 

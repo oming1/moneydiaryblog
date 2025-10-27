@@ -1,15 +1,15 @@
 ﻿---
 title: "V"
-date: 2024-10-31T14:01:17+09:00
-lastmod: 2025-10-15T09:10:44+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 925
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-31T05:01:17Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:44Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #신용카드 #금융서서비스 #신용서비스 
 

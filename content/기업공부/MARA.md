@@ -1,15 +1,15 @@
 ﻿---
 title: "MARA"
-date: 2024-11-07T09:55:33+09:00
-lastmod: 2025-10-15T09:10:27+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 545
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-07T00:55:33Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:27Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #금융 #자본시장 #암호화폐 #비트코인
 

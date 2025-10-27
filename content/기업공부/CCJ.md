@@ -1,15 +1,15 @@
 ﻿---
 title: "CCJ"
-date: 2024-10-18T17:15:07+09:00
-lastmod: 2025-10-15T09:09:52+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 181
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-18T08:15:07Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:52Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #우라늄 #에너지 #원자력연료 #원전 #광산 #우라늄광산
 #우라늄농축물 #우라늄옥사이드 

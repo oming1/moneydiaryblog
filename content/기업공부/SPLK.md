@@ -1,15 +1,15 @@
 ﻿---
 title: "SPLK"
-date: 2024-10-31T18:18:50+09:00
-lastmod: 2025-10-15T09:10:51+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 820
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-10-31T09:18:50Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:51Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #테크 #소프트웨어 #데이터분석 
 

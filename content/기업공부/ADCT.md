@@ -1,15 +1,15 @@
 ﻿---
 title: "ADCT"
-date: 2024-12-07T11:30:19+09:00
-lastmod: 2025-10-15T06:35:25+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 27
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:30:19Z" />
-  <meta property="article:modified_time" content="2025-10-14T21:35:25Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #혈액암 #고형암 #헬스케어 #바이오테크
 

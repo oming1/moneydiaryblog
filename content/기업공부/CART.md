@@ -1,15 +1,15 @@
 ﻿---
 title: "CART"
-date: 2025-01-14T22:43:59+09:00
-lastmod: 2025-10-15T09:10:56+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 175
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-01-14T13:43:59Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:56Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 ## 핵심 키워드
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "Omron"
-date: 2023-06-28T12:17:49+09:00
-lastmod: 2025-10-15T09:10:18+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 657
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:49Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:18Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #로봇 #제어기기 #협동로봇 #AMR #로봇부품 #테크 #전자부품 #자동화시스템
 

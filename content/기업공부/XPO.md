@@ -1,15 +1,15 @@
 ﻿---
 title: "XPO"
-date: 2024-12-13T20:43:57+09:00
-lastmod: 2025-10-15T09:10:14+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 988
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T11:43:57Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:14Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #소량화물 #화물운송 #산업재 #트럭운송
 

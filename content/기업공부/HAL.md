@@ -1,15 +1,15 @@
 ﻿---
 title: "HAL"
-date: 2024-11-12T09:56:20+09:00
-lastmod: 2025-10-15T09:10:19+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 395
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-12T00:56:20Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:19Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #에너지장비및서비스 #에너지 #셰일가스 #석유 #천연가스 #유정시추
 

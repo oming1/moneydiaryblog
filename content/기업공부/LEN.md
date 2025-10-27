@@ -1,15 +1,15 @@
 ﻿---
 title: "LEN"
-date: 2024-09-20T09:19:08+09:00
-lastmod: 2025-10-15T09:12:23+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 511
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T00:19:08Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:23Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #Lennar #LEN #Homebuilder #주택건설 #ResidentialConstruction #미국주택시장 #HousingMarket #신축주택 #부동산개발 #건설사 #LandBank #BuildforRent #Backlog #MortgageRates #HousingDemand #SupplyChain #원자재비용 #수익성  #주택수급불균형 #주택가격 #시장점유율 #비용절감 #디지털설계 #그린빌딩 #워렌버핏 
 

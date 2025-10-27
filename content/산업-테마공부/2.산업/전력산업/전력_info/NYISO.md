@@ -1,15 +1,15 @@
 ﻿---
 title: "NYISO"
-date: 2024-11-20T21:02:29+09:00
-lastmod: 2025-10-15T09:08:10+09:00
+date: 2025-10-24T22:46:37+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 7
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T12:02:29Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:10Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 #전력 #뉴욕 #비영리독립시스템운영자 #ISO
 

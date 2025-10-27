@@ -1,15 +1,15 @@
 ﻿---
 title: "ALBT"
-date: 2024-12-07T11:37:11+09:00
-lastmod: 2025-10-15T09:08:49+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 51
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:37:11Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:08:49Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #헬스케어 #유전자기반정밀진단검사
 

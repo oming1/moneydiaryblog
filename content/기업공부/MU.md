@@ -1,15 +1,15 @@
 ﻿---
 title: "MU"
-date: 2024-09-13T10:24:29+09:00
-lastmod: 2025-10-15T09:10:29+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 601
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T01:24:29Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:29Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #반도체 #HBM #테크 #서버 #클라우드 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "CRM"
-date: 2023-07-12T11:47:21+09:00
-lastmod: 2025-10-15T09:09:39+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 235
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:21Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:09:39Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #테크 #소프트웨어 #클라우드
 

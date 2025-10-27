@@ -1,15 +1,15 @@
 ﻿---
 title: "SMCI"
-date: 2024-08-28T13:58:21+09:00
-lastmod: 2025-10-15T09:10:26+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 802
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-08-28T04:58:21Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:26Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #테크 #하드웨어 #데이터센터 #서버 #클라우드 #컴퓨터하드웨어
 

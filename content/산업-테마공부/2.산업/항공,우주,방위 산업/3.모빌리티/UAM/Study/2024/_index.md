@@ -1,15 +1,15 @@
 ﻿---
 title: "2024"
-date: 2025-10-08T23:22:10+09:00
-lastmod: 2025-10-15T11:27:26+09:00
+date: 2025-10-24T22:46:38+09:00
+lastmod: 2025-10-24T22:04:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 1
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:10Z" />
-  <meta property="article:modified_time" content="2025-10-15T02:27:26Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:38Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:45Z" />
 </div>
 # 2024
 

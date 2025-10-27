@@ -1,15 +1,15 @@
 ﻿---
 title: "TME"
-date: 2025-03-05T10:45:58+09:00
-lastmod: 2025-10-15T09:11:23+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 875
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-05T01:45:58Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:23Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 ## 핵심 키워드
 

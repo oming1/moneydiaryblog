@@ -1,15 +1,15 @@
 ﻿---
 title: "Holtec International"
-date: 2025-03-21T14:50:21+09:00
-lastmod: 2025-10-15T09:14:11+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 411
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-21T05:50:21Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:14:11Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #원전 #원자력발전 #원자력 #SMR #소형모듈원자로 #사용후핵연료 #원전해체 #에너지저장 #스팀터빈 #방사성폐기물 #클린에너지 #탈탄소 #ESG #플랜트설계 #설치서비스 #수출확대 #미국제조업
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SWKS"
-date: 2024-11-13T22:38:33+09:00
-lastmod: 2025-10-15T09:10:39+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 843
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-13T13:38:33Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:39Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #정보기술 #반도체 #아날로그반도체 #모바일 #RF스위치 #전력관리칩
 

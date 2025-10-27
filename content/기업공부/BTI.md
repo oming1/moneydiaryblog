@@ -1,15 +1,15 @@
 ﻿---
 title: "BTI"
-date: 2025-08-21T21:22:51+09:00
-lastmod: 2025-10-15T09:13:34+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 160
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-21T12:22:51Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:13:34Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #BritishAmericanTobacco #BTI #담배 #전자담배 #가열담배 #니코틴파우치 #Vuse #glo #Velo #연소제품 #비연소제품 #NCP #신규카테고리 #소모품모델 #규제리스크 #멘톨규제 #FDA #ESG #청소년보호 #가격인상전략 #현금흐름 #배당 #환율리스크 #원엽담배 #유통네트워크 #소비재 #프리미엄브랜드
 

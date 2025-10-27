@@ -1,15 +1,15 @@
 ﻿---
 title: "YUMC"
-date: 2025-03-27T15:41:42+09:00
-lastmod: 2025-10-15T09:11:34+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:48+09:00
 type: docs
 sidebar:
   open: false
 weight: 993
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-03-27T06:41:42Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:34Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
 </div>
 #외식프랜차이즈 #중국소비시장 #퀵서비스레스토랑 #KFC중국 #피자헛중국 #TacoBell중국 #포장및배달 #디지털오더 #모바일앱 #로컬화 #O2O #메뉴혁신 #지속가능성 #ESG #푸드테크 #프랜차이즈확장 #중국중산층 #푸드서플라이체인 #글로벌브랜드 #중국 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "CPN"
-date: 2024-11-07T12:04:18+09:00
-lastmod: 2025-10-15T09:10:30+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 225
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-11-07T03:04:18Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:30Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #유틸리티 #독립전력생산업체 #전력생산 #천연가스 #지열 #발전소 #전력 #산업용증기 
 

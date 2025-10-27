@@ -1,15 +1,15 @@
 ﻿---
 title: "CTRA"
-date: 2024-12-31T09:00:27+09:00
-lastmod: 2025-10-15T09:10:26+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 246
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2024-12-31T00:00:27Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:10:26Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #천연가스 #석유 #탐사생산 #에너지 #석유가스소비연료 #에너지
 

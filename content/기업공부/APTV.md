@@ -1,15 +1,15 @@
 ﻿---
 title: "APTV"
-date: 2025-04-03T19:25:16+09:00
-lastmod: 2025-10-15T09:11:30+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:46+09:00
 type: docs
 sidebar:
   open: false
 weight: 82
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-04-03T10:25:16Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:11:30Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
 </div>
 #자동차부품 #자율주행 #전기차 #커넥티드카 #모빌리티솔루션 #ADAS #전장부품 #파워트레인 #소프트웨어정의차량 #ESG #스마트모빌리티 #디지털화 #센서기술 #배터리관리시스템 #사이버보안 #V2X통신 #전기화솔루션 #OEM파트너십 #지속가능성
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SKYT"
-date: 2025-08-20T16:38:22+09:00
-lastmod: 2025-10-15T09:12:50+09:00
+date: 2025-10-24T22:46:34+09:00
+lastmod: 2025-10-24T22:04:47+09:00
 type: docs
 sidebar:
   open: false
 weight: 800
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-08-20T07:38:22Z" />
-  <meta property="article:modified_time" content="2025-10-15T00:12:50Z" />
+  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
+  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
 </div>
 #SkyWaterTechnology #SKYT #파운드리 #반도체파운드리 #미국파운드리 #칩생산 #CMOS #MEMS #포토닉스 #고급패키징 #3DIC #WaferFab #TestAssembly #CHIPSAct #안보칩 #Backlog #Fab2fab #기술이전 #고객맞춤형 #서비스모델
 
