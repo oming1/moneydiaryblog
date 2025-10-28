@@ -1,0 +1,5 @@
+{{ define "main" }}
+<article>
+  {{ .Content | replaceRE "(<h2.*?</h2>)" "\$1{{< adsense-infeed >}}" | safeHTML }}
+</article>
+{{ end }}
