@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/10월/2025-10-25 미국 시황 정리.md",
+                "file": "content/Daily시황정리/2025년/10월/2025-10-28 미국 시황 정리.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-25 미국 시황 정리"
+              "title": "2025-10-28 미국 시황 정리"
             }
           }
         ]
@@ -195,8 +195,12 @@
   },
   "active": "ba0b940f963212f7",
   "lastOpenFiles": [
-    "content/Daily시황정리/2025년/10월/2025-10-28 미국 시황 정리.md",
+    "4.템플렛/0.(간소화)데일리.md",
+    "content/Daily시황정리/과거/2023/08월/2023-08-16.md",
+    "content/산업-테마공부/_index.md",
+    "content/산업-테마공부/기술적분석_ETF/_index.md",
     "content/Daily시황정리/2025년/10월/2025-10-25 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-28 미국 시황 정리.md",
     "백업용/코드",
     "content/Daily시황정리/2025년/10월/2025-10-01 미국 시황 정리.md",
     "content/Daily시황정리/2025년/10월/2025-10-02 미국 시황 정리.md",
@@ -218,11 +222,7 @@
     "content/Daily시황정리/2025년/05월/2025-05-15 미국 시황 정리.md",
     "content/Daily시황정리/2025년/05월/2025-05-17 미국 시황 정리.md",
     "content/Daily시황정리/2025년/03월/2025-03-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/03월/2025-03-13 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/03월/2025-03-19 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/03월/2025-03-28 미국 시황 정리.md",
-    "content/산업-테마공부/2.산업/게임산업/게임산업.md",
-    "content/산업-테마공부/2.산업/미용기기산업/Study/2023/23.1 중소형 미용기기 톺아보기.pdf",
+    "content/산업-테마공부/02.산업/미용기기산업/Study/2023/23.1 중소형 미용기기 톺아보기.pdf",
     "static/images/Pasted image 20251024065234.png",
     "static/images/Pasted image 20251024065224.png",
     "static/images/Pasted image 20251024064904.png",

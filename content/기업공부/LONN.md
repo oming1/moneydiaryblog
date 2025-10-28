@@ -21,7 +21,7 @@ weight: 525
 #### 영위사업
 
 Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), 영양 시장을 위한 다양한 제품과 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
-- [동북아시아의 확장 전에 가장 큰 설비능력을 갖던 상장 CDMO](8.28_바이오시밀러와%20cdmo.pdf#page=34&selection=21,0,39,4&color=yellow)
+-[동북아시아의 확장 전에 가장 큰 설비능력을 갖던 상장 CDMO](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=34&selection=21,0,39,4&color=yellow))
 
 - **Biologics**: 생물의약품의 계약 개발 및 제조 (CDMO)
 - **Small Molecules**: 소분자 약물의 개발 및 제조 (CDMO)

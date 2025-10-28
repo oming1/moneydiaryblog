@@ -16,7 +16,7 @@ weight: 638
 ## 최근 이슈
 
 - 2024년
-	- Nvidia는 DOE(미국 에너지부)의 지원을 받아 [냉각 시스템](/industry-study/냉각-시스템/) 개발을 진행 중이다. DTC와 [액침냉각](/industry-study/액침냉각/) 방식을 접목한 기술로, [DOE의 ‘COOLERHIPS’ 프로그램에 선정돼 5백만달러 지원을 받았다.](2.26_%20AI%20뜨거울수록%20좋아.pdf#page=26&selection=42,0,95,1&color=yellow)
+	- Nvidia는 DOE(미국 에너지부)의 지원을 받아 [냉각 시스템](/industry-study/냉각-시스템/) 개발을 진행 중이다. DTC와 [액침냉각](/industry-study/액침냉각/) 방식을 접목한 기술로,[DOE의 ‘COOLERHIPS’ 프로그램에 선정돼 5백만달러 지원을 받았다.](content/산업-테마공부/02.산업/통신_데이터센터%20산업/Report/2024/2.26_%20AI%20뜨거울수록%20좋아.pdf#page=26&selection=42,0,95,1&color=yellow))
 	  
 - 2025년
 	- 2025-08-28, 엔비디아 2분기 실적, 예상치 상회, 데이터센터 매출 부진으로 주가 하락

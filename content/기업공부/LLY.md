@@ -265,7 +265,7 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 **Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png)
 
 **Zepbound ([티르제파타이드](/industry-study/티르제파타이드/), [젭바운드](/industry-study/젭바운드/)):** 비만 치료제, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/). **GLP-1 유사 펩티드** 계열로(GLP-1/GIP 이중작용제), 체중 감량([비만 치료제](/industry-study/비만-치료제/))과 당뇨병 예방에 효과적이며 [비만 치료제](/industry-study/비만-치료제/)로 각광 받고 있음. 최근에는 **폐쇄성 수면 무호흡증(수면 무호흡)**, 환자에게도 효과가 있는 것으로 나타났습니다.
-	- [티르제파타이드는 38개의 아미노산으로 이루어진 합성 선형 펩타이드](9.9_모두가%20기다린%20마법의%20약.pdf#page=35&selection=30,0,43,4&color=yellow)
+	-[티르제파타이드는 38개의 아미노산으로 이루어진 합성 선형 펩타이드](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=35&selection=30,0,43,4&color=yellow))
 
 **Trulicity (둘라글루타이드):** GLP-1 계열 당뇨병 치료제, 매출 비중 약 12% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY
 

@@ -22,8 +22,7 @@ weight: 639
 #### 영위사업
 
 Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제조 및 유통하는 글로벌 헬스케어 기업입니다. 주요 사업 부문은 당뇨병 및 [비만 치료제](/industry-study/비만-치료제/)와 희귀질환 치료제(인슐린, 성장 호르몬, 혈우병 치료제)로 나뉩니다.
-
-[노보노디스크는 주요 파이프라인 중 여전히 비만과 당뇨를 우선순위로 두고 개발하고 있다. 제품 차별화를 위한 제형 변경 시도는 지속될 전망이다.](9.9_모두가%20기다린%20마법의%20약.pdf#page=48&selection=188,1,227,1&color=yellow)
+[노보노디스크는 주요 파이프라인 중 여전히 비만과 당뇨를 우선순위로 두고 개발하고 있다. 제품 차별화를 위한 제형 변경 시도는 지속될 전망이다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=48&selection=188,1,227,1&color=yellow))
 
 #### 전방/후방산업
 
@@ -46,8 +45,8 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
     - **대표 회사**: Roche (스위스, [ROG](/company-analysis/rog/)), Merck (미국, [MRK](/company-analysis/mrk/))
 - **제조**: 의약품을 대량 생산하는 단계입니다.
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Sanofi (프랑스, [SAN](/company-analysis/san/))
-    - [(2024-09-09)노보노디스크의 CMO파트너사](9.9_모두가%20기다린%20마법의%20약.pdf#page=23&selection=280,0,283,4&color=yellow)
-    - [(2024-09-09)노보노디스크의 인하우스 Capa 증설 발표](9.9_모두가%20기다린%20마법의%20약.pdf#page=24&selection=9,0,17,2&color=yellow)
+    -[(2024-09-09)노보노디스크의 CMO파트너사](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=23&selection=280,0,283,4&color=yellow))
+    -[(2024-09-09)노보노디스크의 인하우스 Capa 증설 발표](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=24&selection=9,0,17,2&color=yellow))
 - **유통**: 생산된 의약품을 전 세계로 유통합니다.
     - **대표 회사**: McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
 
@@ -56,14 +55,14 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 - **Ozempic, [오젬픽](/industry-study/오젬픽/)® ([세마글루타이드](/industry-study/세마글루타이드/))**: 제2형 당뇨병 치료제, [비만 치료제](/industry-study/비만-치료제/) (2023년 매출 비중: 30%)
 - [Oral amycretin](/industry-study/oral-amycretin/)(GLP-1/Amylin 이중 작용제; 노보노디스크)
 - **[리벨서스](/industry-study/리벨서스/)(Rybelsus®) ([세마글루타이드](/industry-study/세마글루타이드/))**: [경구용 비만 치료제](/industry-study/경구용-비만-치료제/) (2023년 매출 비중: 20%)
-	- [리벨서스는 SNAC(Sodium-N-[8-(2-hydroxybezoyl)-amino]caprylate)과 세마글루타이드가 결합된 경구 제형 약물](9.9_모두가%20기다린%20마법의%20약.pdf#page=47&selection=19,0,32,2&color=yellow)
+	-[리벨서스는 SNAC(Sodium-N-[8-(2-hydroxybezoyl)-amino]caprylate)과 세마글루타이드가 결합된 경구 제형 약물](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=47&selection=19,0,32,2&color=yellow))
 	- 낮은 생체이용률(0.4~1%)에도 불구하고 약물의 강력한 GLP-1 수용체 활성화로 유의미한 혈당 조절 및 체중 감소 효과를 보이고 있다.![](/images/Pasted%20image%2020240909114721.png)
 - **Wegovy([위고비](/industry-study/위고비/))® ([세마글루타이드](/industry-study/세마글루타이드/))**: 비만 치료제 (2023년 매출 비중: 15%)
-	- [1주 1회 제형으로 삭센다 대비 높은 체중 감소 효과(68주차에 14.9%의 체중 감소)를 보여 출시 첫 해 2억달러, 2년 뒤 45억달러의 매출을 달성했다.](9.9_모두가%20기다린%20마법의%20약.pdf#page=15&selection=74,0,128,0&color=yellow)
+	-[1주 1회 제형으로 삭센다 대비 높은 체중 감소 효과(68주차에 14.9%의 체중 감소)를 보여 출시 첫 해 2억달러, 2년 뒤 45억달러의 매출을 달성했다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=15&selection=74,0,128,0&color=yellow))
 - **NovoRapid (인슐린 아스파트):** 인슐린 (매출 비중: 2023년 기준 20%)
 - **Norditropin (성장 호르몬):** 성장 호르몬 (매출 비중: 2023년 기준 10%)
 - **삭센다** (Saxenda)는 **리라글루티드** (liraglutide) 성분을 포함한 [비만 치료제](/industry-study/비만-치료제/)
-- [카그리세마](/industry-study/카그리세마/)[Cagrisema(GLP-1/Amylin 이중작용제; 노보노디스크)](9.9_모두가%20기다린%20마법의%20약.pdf#page=40&selection=6,17,14,1&color=yellow)
+- [카그리세마](/industry-study/카그리세마/[Cagrisema(GLP-1/Amylin 이중작용제; 노보노디스크)](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=40&selection=6,17,14,1&color=yellow))
 
 #### 주요 판매국가
 
