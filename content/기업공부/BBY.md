@@ -1,7 +1,7 @@
 ﻿---
 title: "BBY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:27+09:00
+lastmod: 2025-10-28T22:05:46+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 122
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:27Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
 </div>
 #베스트바이 #BestBuy #소비자가전 #가전유통 #전자제품리테일 #옴니채널 #이커머스 #매장체험 #GeekSquad #설치서비스 #수리서비스 #매치프라이스 #프라이스가드 #멤버십구독 #TotalTech #모바일셀 #컴퓨터액세서리 #홈시어터 #스마트홈 #헬스케어기기 #게이밍 #콘솔판매 #소모품교체 #리모컨지원 #케이블관리 #공식리셀러 #고객충성도 #주택시장연동 #경기민감소비
 

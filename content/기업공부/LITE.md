@@ -1,7 +1,7 @@
 ﻿---
 title: "LITE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:33+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 521
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:33Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #루멘텀홀딩스 #LITE #광학통신 #포토닉스 #데이터센터 #클라우드네트워킹 #인공지능 #AI인프라 #EML칩 #인듐인광 #레이저다이오드 #광트랜시버 #5G통신 #산업레이저 #3D센싱 #FaceID #VCSEL #옵티컬스위칭 #하이퍼스케일 #실리콘포토닉스 #고속광통신 #800G #200G #멀티테라비트 #네트워크장비 #텔레콤 #반도체레이저 #광부품 #광섬유통신
 

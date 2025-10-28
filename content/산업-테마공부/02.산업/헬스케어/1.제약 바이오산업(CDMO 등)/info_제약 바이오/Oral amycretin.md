@@ -1,7 +1,7 @@
 ﻿---
 title: "Oral amycretin"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-28T06:44:25+09:00
+lastmod: 2025-10-28T22:05:45+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 6
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:25Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:45Z" />
 </div>
 #당뇨 #비만 #비만치료제 #노보노디스크 #Oralamycretin #GLP-1 #경구용비만치료제 
 

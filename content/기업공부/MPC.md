@@ -1,7 +1,7 @@
 ﻿---
 title: "MPC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:34+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 585
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:34Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #정유 #석유제품 #미드스트림 #주유소네트워크 #에너지물류 #연료유통 #천연가스처리 #석유화학 #재생연료 #지속가능에너지 #물류네트워크 #소매유통 #에너지 #석유가스정제마케팅
 

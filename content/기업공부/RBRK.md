@@ -1,7 +1,7 @@
 ﻿---
 title: "RBRK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:36+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 729
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:36Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #루브릭 #데이터보안 #클라우드데이터관리 #백업복구 #사이버보안 #제로트러스트 #랜섬웨어방어 #데이터보호 #엔터프라이즈보안 #클라우드보안 #AI보안 #데이터복구 #사이버복원력 #SaaS보안 #하이브리드클라우드 #데이터관리 #보안플랫폼 #클라우드네이티브 #데이터거버넌스 #보안자동화 #정보기술 #테크놀로지
 

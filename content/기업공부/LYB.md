@@ -1,7 +1,7 @@
 ﻿---
 title: "LYB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:34+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 539
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:34Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #라이온델바젤 #LYB #기초화학 #플라스틱 #폴리올레핀 #올레핀 #에틸렌 #프로필렌 #폴리에틸렌 #폴리프로필렌 #범용플라스틱 #화학리사이클 #순환경제 #원유정제 #옥탄첨가제 #아시아시장 #유럽화학 #미국화학 #에너지전환 #지속가능성 #원자재가격 #경기민감주 #공급망다변화 #화학산업 #정제마진 #폴리머기술 #플라스틱재활용 #글로벌화학 #첨단고분자 #자동차부품 #포장재 #건설자재 #태양광패널 #수처리 #의료기기
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "ONDS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:35+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 659
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:35Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #자율드론 #드론인프라 #철도무선네트워크 #900MHz #반드시설비 #군사드론 #공공안전 #스마트시티 #IronDroneRaider #Optimus시스템 #철도통신 #카운터UAS #드론보안 #자율보안 #AI구동 #드론박스 #경계방어 #무선통신 #인프라보안 #방산기술 #스마트인프라 #드론자동화 #네트워크장비 #미래교통 #드론 
 

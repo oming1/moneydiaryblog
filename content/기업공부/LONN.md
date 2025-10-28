@@ -1,7 +1,7 @@
 ﻿---
 title: "LONN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T21:47:26+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 525
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T12:47:26Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #헬스케어 #진단및연구 #CDMO #바이오테크
 

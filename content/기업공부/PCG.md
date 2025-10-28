@@ -1,7 +1,7 @@
 ﻿---
 title: "PCG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:36+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 677
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:36Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #캘리포니아전력회사 #규제전력회사 #전력송배전 #천연가스배급 #인프라투자 #요금기준성장 #재생에너지 #그리드현대화 #산불위험관리 #전력안정성 #규제수익모델 #레이트베이스 #캘리포니아공공사업위원회 #CPUC #전력인프라 #천연가스인프라 #청정에너지전환 #데이터센터전력 #AI전력수요 #전력망강화 #지하전력선 #배당복구 #공공사업 #전력공급독점 #전력 #천연가스 
 

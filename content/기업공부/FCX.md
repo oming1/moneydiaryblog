@@ -1,7 +1,7 @@
 ﻿---
 title: "FCX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:30+09:00
+lastmod: 2025-10-28T22:05:46+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 339
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:30Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
 </div>
 #구리채굴 #몰리브덴 #금채굴 #광산업 #원자재 #국제광산업 #그라스베르크광산 #모렌시광산 #세로베르데광산 #구리생산 #몰리브덴생산 #금생산 #광물자원 #대규모광산 #장기자산 #지리적다양성 #원자재가격 #광산운영 #소재 #광업
 

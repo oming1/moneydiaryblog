@@ -1,7 +1,7 @@
 ﻿---
 title: "OKE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:35+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 652
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:35Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #에너지 #트럼프  #천연가스액체 #NGL #미드스트림 #천연가스파이프라인 #정제제품 #원유 #가스처리 #저장 #수집 #분류 #에너지인프라 #에너지운송 #석유화학 #프로판 #부탄 #에탄 #에너지 #인프라 #파이프라인 #에너지미드스트림 #Industrials #Energy #Pipeline
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "SPNS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:37+09:00
+lastmod: 2025-10-28T22:05:48+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 821
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
 </div>
 #사피엔스인터내셔널 #SPNS #보험소프트웨어 #금융IT #디지털전환 #보험플랫폼 #클라우드솔루션 #AI통합 #엔터프라이즈소프트웨어 #보험관리시스템 #리스크관리 #컴플라이언스 #빅데이터분석 #디지털인슈어런스 #글로벌보험 #헬스케어솔루션 #금융서비스 #저코드플랫폼 #보험혁신 #클라우드마이그레이션 #데이터애널리틱스 #자동화 #보험클레임 #폴리시관리 #지속가능금융 #글로벌확장 #테크홀딩스 #디지털뱅킹 #인슈테크 #금융규제 #이스라엘 
 

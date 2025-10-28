@@ -1,7 +1,7 @@
 ﻿---
 title: "MDA Space"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:34+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 555
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:34Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #위성영상분석 #위성이미지분석 #항공우주및방위산업 #캐나다 #통신위성 #달궤도정거장용로봇팔 #지리공간기술 #위성 #인공위성 
 

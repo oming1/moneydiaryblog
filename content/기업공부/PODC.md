@@ -1,7 +1,7 @@
 ﻿---
 title: "PODC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:36+09:00
+lastmod: 2025-10-28T22:05:47+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 702
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:36Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
 </div>
 #팟캐스트 #디지털광고 #콘텐츠플랫폼 #미디어 #광고네트워크 #오디오콘텐츠 #크리에이터플랫폼 #B2B솔루션 #커뮤니케이션서비스 #스트리밍 #오디오광고 #미디어유통 #디지털엔터테인먼트 #광고기술 #콘텐츠제작 #팟캐스트호스팅 #애널리틱스 #AI기술 #웹3 #크립토
 

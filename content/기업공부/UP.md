@@ -1,7 +1,7 @@
 ﻿---
 title: "UP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:39+09:00
+lastmod: 2025-10-28T22:05:48+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 912
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:39Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
 </div>
 #윌스업 #WheelsUp #UP #프라이빗항공 #멤버십항공 #온디맨드차터 #항공기관리 #파트135 #항공운항관리 #디스패치최적화 #동적가격 #항공안전SMS #정비MRO #법인여행 #HNW고객 #스포츠원정 #의료이송 #델타제휴 #스카이마일스 #에셋라이트 #리캐피탈라이제이션 #연료헤지 #파일럿수급 #운항효율 #항공수요 #미국사설항공 #경쟁전략 #브로커리지 #항공기리스 #수익성개선 #DAL #델타항공 
 

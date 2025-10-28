@@ -1,7 +1,7 @@
 ﻿---
 title: "DHL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:29+09:00
+lastmod: 2025-10-28T22:05:46+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 276
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
+  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
 </div>
 #도이치포스트 #DPSGY #DHL #글로벌물류 #익스프레스배송 #항공화물 #해상화물 #계약물류 #이커머스솔루션 #공급망관리 #패키지배송 #라스트마일딜리버리 #디지털물류 #자동화 #탄소중립물류 #전기차플릿 #창고관리 #산업솔루션 #글로벌네트워크 #유럽물류 #아시아성장 #지속가능성 #운임시장 #유가변동 #해상운임 #항공운임 #이커머스성장 #경기민감주 #디지털전환 #공급망회복 #인프라투자 #국제무역 #독일 
 
