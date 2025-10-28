@@ -1,7 +1,7 @@
 ﻿---
 title: "BABA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T21:47:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 113
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T12:47:32Z" />
 </div>
 ## 핵심 키워드
 

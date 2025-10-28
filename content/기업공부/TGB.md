@@ -1,7 +1,7 @@
 ﻿---
 title: "TGB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:48+09:00
+lastmod: 2025-10-28T06:44:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 863
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:39Z" />
 </div>
 #타세코마인즈 #TGB #구리 #몰리브덴 #광산기업 #베이스메탈 #캐나다광산 #GibraltarMine #FlorenceCopper #ArizonaCopper #Taseko #탐사 #개발 #생산 #에너지전환 #전기차수혜 #원자재가격 #글로벌공급망 #운영효율 #ESG경영 #환경규제 #광업기술 #노천채굴 #수익성증대 #구리가격 #미국광산 #지속가능광업 #지역사회 #광물자원 #캐나다산업 #미국산업 #지정학적리스크 #광업투자 #광업성장
 

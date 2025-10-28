@@ -1,7 +1,7 @@
 ﻿---
 title: "SDGR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:37+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 776
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
 </div>
 #컴퓨터생물학 #약물발견 #분자모델링 #생명과학 #제약 #인공지능 #소프트웨어 #임상시험 #정밀의학 #구조생물학 #계산화학 #바이오테크 #신약개발 #물리학기반모델링 #협업연구 #혁신기술 #헬스케어 #생명과학도구및서비스
 

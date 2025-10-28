@@ -1,7 +1,7 @@
 ﻿---
 title: "FREY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T06:44:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 352
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:30Z" />
 </div>
 #배터리 #전기차 #에너지저장 #청정에너지 #리튬이온 #지속가능성 #노르웨이기업 #글로벌확장 #기가팩토리 #반고체배터리 #24M기술 #ESS #상업용모빌리티 #해양응용 #탄소저감 #혁신적생산방식 #전기장비 #정보기술 #리튬이온배터리
 

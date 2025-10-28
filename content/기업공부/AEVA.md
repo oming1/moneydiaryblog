@@ -1,7 +1,7 @@
 ﻿---
 title: "AEVA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T06:44:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 38
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:26Z" />
 </div>
 #에바테크놀로지스 #AEVA #라이다 #FMCW라이다 #4D라이다 #자율주행 #ADAS #실리콘포토닉스 #1550nm #코히런트검출 #속도벡터 #장거리감지 #간섭내성 #산업자동화 #로보틱스 #맵핑 #소프트웨어스택 #Perception #자동차부품 #테크하드웨어 #반도체광소자 #광학부품 #제조스케일업 #원가하향 #규제인증 #디지털트윈 #검교정 #생산수율 #생태계파트너 #LiDAR
 

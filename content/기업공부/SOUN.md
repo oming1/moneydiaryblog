@@ -1,7 +1,7 @@
 ﻿---
 title: "SOUN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:37+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 815
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
 </div>
 #음성AI #AI #레스토랑용음성주문시스템 #정보기술 #소프트웨어  #자연어처리 #음악인식 #대화형AI #자동차인포테인먼트 #음성비서 #음성명령 #음성검색 #스마트스피커 #음성커머스 #음성인터페이스 #AI음성비서 #음성인식 #음성기술 #음성상호작용 #음성제어 #음성주문 #음성결제 #음성보안 #음성생체인식 #래스토랑 #자동차 
 

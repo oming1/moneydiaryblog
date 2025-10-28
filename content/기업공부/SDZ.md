@@ -1,7 +1,7 @@
 ﻿---
 title: "SDZ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T21:47:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 778
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T12:47:26Z" />
 </div>
 #유럽 #바이오시밀러 #복제약 #헬스케어 #전문및제네릭의약품제조
 

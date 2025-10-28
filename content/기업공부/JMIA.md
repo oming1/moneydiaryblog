@@ -1,7 +1,7 @@
 ﻿---
 title: "JMIA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 468
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:32Z" />
 </div>
 #주미아 #JMIA #e커머스 #아프리카온라인쇼핑 #인터넷소매 #물류플랫폼 #디지털결제 #아프리카시장 #모바일커머스 #전자상거래 #글로벌확장 #신흥시장 #온라인마켓플레이스 #JumiaPay #JumiaLogistics #아프리카경제 #디지털전환 #소비자플랫폼 #모바일앱 #공급망관리 #지속가능성 #혁신기술 #성장잠재력 #아프리카테크 #온라인쇼핑트렌드 #물류혁신 #결제솔루션 #신흥경제 #디지털인프라 #글로벌투자
 

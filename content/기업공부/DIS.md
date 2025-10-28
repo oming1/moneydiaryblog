@@ -1,7 +1,7 @@
 ﻿---
 title: "DIS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T06:44:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 278
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
 </div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 #엔터테인먼트 #테마파크 #HULU #ESPN
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "SMTC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:37+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 804
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
 </div>
 #셈텍 #SMTC #LoRa #LoRaWAN #사물인터넷 #셀룰러모듈 #시엘라와이어리스통합 #IoT디바이스투클라우드 #산업IoT #스마트미터링 #자산추적 #에지투클라우드 #연결성서비스 #5G모듈 #LPWA #데이터센터광통신 #PAM4 #CDR리타이머 #ESD보호소자 #아날로그혼합신호 #팹리스 #TSMC #OSAT #원가절감 #재무구조개선 #리스트럭처링 #생태계파트너 #아마존사이드워크 #디지털전환 #에너지유틸리티
 

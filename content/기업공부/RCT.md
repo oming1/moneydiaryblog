@@ -1,7 +1,7 @@
 ﻿---
 title: "RCT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 732
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:36Z" />
 </div>
 #B2B커머스 #클라우드플랫폼 #FMCG #빠른소비재 #디지털결제 #오픈커머스 #공급망솔루션 #AIソリューション #소매유통 #개발도상국 #브라질 #나이지리아 #남아프리카 #아르헨티나 #영국 #RED101플랫폼 #재고관리 #유통솔루션 #디지털화 #B2B마켓플레이스 #클라우드기술 #트랜잭션기반수익 #공급망최적화 #중소기업솔루션 #금융포용
 

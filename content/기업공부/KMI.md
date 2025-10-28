@@ -1,7 +1,7 @@
 ﻿---
 title: "KMI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 490
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:32Z" />
 </div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학  #배당주 #에너지 #LNG #수송 #저장 #터미널 #유틸리티 #석유가스소비연료 #에너지 #CO2 #원유수송
 

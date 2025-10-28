@@ -1,7 +1,7 @@
 ﻿---
 title: "STX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:48+09:00
+lastmod: 2025-10-28T06:44:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 836
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:48Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:38Z" />
 </div>
 #씨게이트 #STX #하드디스크드라이브 #HDD #스토리지솔루션 #데이터센터 #클라우드스토리지 #NAS #엔터프라이즈HDD #HAMR #열지원자기기록 #SMR #쉬글드기록 #SSD #솔리드스테이트드라이브 #Lyve클라우드 #MassCapacity #NearlineHDD #비디오분석 #IoT스토리지 #데이터관리 #글로벌제조 #아시아공장 #원가절감 #공급망다변화 #반도체의존 #헬륨밀봉 #디스크밀도 #스토리지수요 #AI데이터 #클라우드캡EX #WesternDigital경쟁 #Toshiba경쟁 #스토리지산업 #데이터폭증 #지속가능스토리지 #에너지효율HDD
 

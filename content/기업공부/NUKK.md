@@ -1,7 +1,7 @@
 ﻿---
 title: "NUKK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T06:44:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 635
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:35Z" />
 </div>
 #핀테크 #방산기술 #블록체인 #드론페이로드 #디지털결제 #트레이딩플랫폼 #방산자회사 #BladeRanger #아이언돔 #Star26 #국방계약 #항공우주 #드론기술 #전술장비 #트럼프아이언돔 #AI금융 #암호화폐 #리스크관리 #기관투자자 #B2B플랫폼 #군사기술 #사이버보안 #첨단기술 #혁신기업 #방산산업
 

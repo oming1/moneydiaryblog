@@ -1,7 +1,7 @@
 ﻿---
 title: "SpaceX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:47+09:00
+lastmod: 2025-10-28T21:47:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 816
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T12:47:26Z" />
 </div>
 #항공우주및방위 #산업재 #우주 #위성 #위성통신 #위성발사 #위성제조 #통신위성 #위성인터넷 #스타링크 #저궤도위성 
 

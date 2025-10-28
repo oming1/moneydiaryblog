@@ -1,7 +1,7 @@
 ﻿---
 title: "ETOR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T06:44:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 324
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:30Z" />
 </div>
 eToro Group Ltd는 글로벌 소셜 트레이딩 및 멀티자산 투자 플랫폼으로, 2007년 이스라엘에서 설립되었습니다. 2025년 5월 나스닥 상장을 통해 52억 달러 평가액을 기록했으며, 38백만 명의 등록 사용자와 3.5백만 개의 자금 계좌를 보유한 핀테크 선두 기업입니다.
 

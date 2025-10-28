@@ -1,7 +1,7 @@
 ﻿---
 title: "FTNT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-24T22:04:46+09:00
+lastmod: 2025-10-28T06:44:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 356
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-24T13:04:46Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:30Z" />
 </div>
 #사이버보안 #방화벽 #네트워크보안 #포티게이트 #포티클라이언트 #제로트러스트 #SASE #AI보안 #네트워크인프라 #IT보안 #엔터프라이즈보안 #클라우드보안 #위협인텔리전스 #OT보안 #사이버위협 #보안패브릭 #통합보안 #보안솔루션 #IT서비스 #정보기술 #테크놀로지 #시큐리티
 
