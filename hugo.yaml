@@ -84,6 +84,9 @@ _merge:
 params:
   description: "오늘을 기록하고 내일의 투자를 준비하는 블로그, 머니다이어리(Moneydiary)"
 
+  # SNS 공유용 기본 이미지 (이 줄 추가)
+  default_og_image: "images/logo.png"
+  
   navbar:
     displayTitle: true
     displayLogo: true
