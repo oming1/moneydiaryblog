@@ -1,15 +1,14 @@
 ﻿---
 title: "ACN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:25+09:00
 type: docs
 sidebar:
   open: false
 weight: 23
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
 </div>
 #정보기술서비스 #테크 #컨설팅 #정보기술 #경영컨설팅
 

@@ -1,15 +1,14 @@
 ﻿---
 title: "DOW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 289
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #화학 #소재과학 #플라스틱 #산업용화학제품 #포장솔루션 #다각화 #원자재 #소재 #폴리에틸렌 #기능성폴리머 #폴리우레탄 #실리콘 #아크릴 
 

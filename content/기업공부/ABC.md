@@ -1,15 +1,14 @@
 ﻿---
 title: "ABC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T21:36:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 10
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
 </div>
 #제약유통 #의료기기유통 #헬스케어솔루션 #헬스케어 #의약품유통
 

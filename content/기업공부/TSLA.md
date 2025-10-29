@@ -1,15 +1,14 @@
 ﻿---
 title: "TSLA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:48+09:00
+lastmod: 2025-10-29T06:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 888
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
 </div>
 #자동차 #소비자재량주  #전기차 #태양광 #ESS #태양광패널 #자율주행 #VPP #트럼프 #임의소비재 #배터리기술 #AI #에너지저장 #기가팩토리 #수직계열화 #FSD #테슬라봇 #사이버트럭 #슈퍼차저 #오토파일럿 #EV #FSD #오토파일럿 #사이버트럭 #모델S #모델3 #모델X #모델Y #배터리클린에너지 #일론머스크 #테슬라 #임의소비재
 

@@ -1,15 +1,14 @@
 ﻿---
 title: "ELF"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 309
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #엘프뷰티 #ELF #화장품 #뷰티브랜드 #저가화장품 #크루얼티프리 #비건제품 #디지털마케팅 #소셜미디어 #밀레니얼타겟 #글로벌확장 #스킨케어 #메이크업 #지속가능성 #e커머스 #온라인판매 #혁신제품 #브랜드로열티 #아마존파트너 #타겟리테일 #뷰티산업 #디지털전환 #소비자트렌드 #클린뷰티 #지속가능포장 #글로벌무역 #성장잠재력 #밀레니얼경제 #뷰티테크 #소셜커머스 #인플루언서마케팅
 

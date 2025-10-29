@@ -1,15 +1,14 @@
 ﻿---
 title: "MSFT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 593
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #테크 #소프트웨어 #클라우드 #Xbox #게임 #Azure
 #클라우드컴퓨팅 #소프트웨어 #AI #Azure #Office365 #Windows #게임콘솔 #디지털전환 #SaaS #PaaS #IaaS #사이버보안 #생산성도구 #엔터프라이즈IT #데이터분석 #디지털워크플레이스 #엣지컴퓨팅 #MSTeams #GitHub

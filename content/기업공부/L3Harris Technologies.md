@@ -1,15 +1,14 @@
 ﻿---
 title: "L3Harris Technologies"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 500
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #산업재 #항공우주방위 #항공우주 #인공위성 #위성발사 #위성운영 #위성제조 #위성통신 #우주 #통신위성 
 

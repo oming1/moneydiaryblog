@@ -1,15 +1,14 @@
 ﻿---
 title: "ABT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:25+09:00
 type: docs
 sidebar:
   open: false
 weight: 15
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
 </div>
 #헬스케어 #의료기기 #당뇨병 #제네릭 #혈당모니터링시스템 #진단기기 
 

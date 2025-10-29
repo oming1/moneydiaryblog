@@ -1,15 +1,14 @@
 ﻿---
 title: "SBSW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 772
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #백금족금속 #PGM #팔라듐 #백금 #로듐 #금채굴 #자동차촉매 #몬타나광산 #남아공광산 #리튬 #배터리원자재 #전기차원자재 #광업 #귀금속 #Stillwater #채광업 #원자재 #화학촉매 #지속가능광업 #친환경에너지 #전방산업공급 #자동차부품 #전자제품 #수소연료전지 #광물가공
 

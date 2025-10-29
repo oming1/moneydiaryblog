@@ -1,15 +1,13 @@
 ﻿---
 title: "인도"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-28T22:05:45+09:00
+lastmod: 2025-10-29T22:04:45+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:45Z" />
+  <meta property="article:modified_time" content="2025-10-29T13:04:45Z" />
 </div>
 # 인도
 

@@ -1,15 +1,14 @@
 ﻿---
 title: "HPQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 416
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #HP #HPQ #개인용컴퓨터 #노트북 #프린터 #잉크토너 #소모품수익 #디지털솔루션 #보안솔루션 #서비스모델 #OEM #유통채널 #홈오피스 #기업IT #SupplyChain #3D프린팅 #ManagedPrint #RemoteWork #플랫폼비즈니스 #구독모델
 

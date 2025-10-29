@@ -1,15 +1,14 @@
 ﻿---
 title: "B"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 111
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #금광 #구리광 #귀금속 #채굴 #금생산 #구리생산 #네바다금광 #아프리카금광 #금가격 #원자재 #자원개발 #광산운영 #금매장량 #구리매장량 #지속가능채굴 #소재 #Materials #기본소재 #천연자원 #광업
 

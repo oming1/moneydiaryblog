@@ -1,15 +1,14 @@
 ﻿---
 title: "CHIPS Act"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-28T22:05:44+09:00
+lastmod: 2025-10-29T21:36:25+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:44Z" />
+  <meta property="article:modified_time" content="2025-10-29T12:36:25Z" />
 </div>
 #반도체 #CHIPSAct #트럼프 
 

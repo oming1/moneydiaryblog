@@ -1,15 +1,14 @@
 ﻿---
 title: "MTSR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 599
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #멧세라 #Metsera #비만치료제 #대사질환 #GLP1 #MASH #심혈관질환 #차세대비만약 #바이오의약품 #신약개발 #임상시험 #바이오테크 #비상장기업 #연구개발 #혁신치료제 #항비만약 #당뇨치료 #지방간치료 #만성질환 #생명과학 #의료기술 #글로벌제약 #파트너링 #데이터기반신약 #정밀의료 #임상개발 #파이프라인 #블록버스터약물 #고성장산업 #헬스케어투자
 

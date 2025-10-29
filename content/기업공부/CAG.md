@@ -1,15 +1,14 @@
 ﻿---
 title: "CAG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 169
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #포장식품 #가공식품 #냉동식품 #스낵 #즉석식품 #소비재 #BirdEye #DuncanHines #HealthyChoice #MarieCallenders #SlimJim #Reddi-wip #브랜드포트폴리오 #식품제조 #편의식품 #냉장식품 #스낵푸드 #소비자재량주 #수익모델다각화 #공급망관리 #원자재가격변동 #배당주 #인플레이션 #식품안전 #가치주 #식품트렌드 #영양 #지속가능성
 

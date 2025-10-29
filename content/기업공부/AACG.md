@@ -1,15 +1,14 @@
 ﻿---
 title: "AACG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:45+09:00
+lastmod: 2025-10-29T21:36:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:45Z" />
+  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
 </div>
 #중국교육 #포트폴리오훈련 #예술교육 #해외유학컨설팅 #창의교육 #국제교육 #ACG브랜드 #프리미엄교육 #아트포트폴리오 #유학준비 #중국소비자 #교육서비스 #사설교육 #영국유학 #미국유학 #유럽유학 #예술대학입학 #창의산업 #교육기술 #온라인교육 #헤페이본사 #나스닥상장 #교육IPO
 

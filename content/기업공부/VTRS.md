@@ -1,15 +1,14 @@
 ﻿---
 title: "VTRS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:48+09:00
+lastmod: 2025-10-29T06:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 945
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
 </div>
 #복제약 #헬스케어 #전문및제네릭의약품제조 #제네릭
 [비아트리스는 화이자의 특허 만료 및 제네릭 의약품 자회사였던 업존과 세계에서 두 번째로 큰 복제약 및 API 생산 기업이었던 마일란이 합병해 탄생한 기업입니다. 비아트리스의 밸류에이션이 낮은데, Legacy 와 복제약만으로는 회사의 가치가 향상되기는 어렵다는 점을 알 수 있습니다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=36&selection=339,0,420,1&color=yellow))

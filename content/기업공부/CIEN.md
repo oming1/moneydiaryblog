@@ -1,15 +1,14 @@
 ﻿---
 title: "CIEN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 197
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #광통신네트워크 #WaveLogic #코히런트광학 #5G인프라 #클라우드네트워킹 #AI데이터센터 #광전송장비 #DWDM #차세대통신 #플러거블광학 #네트워크자동화 #BluePlanet #광케이블 #통신인프라 #데이터센터연결 #광섬유네트워크 #네트워크시스템 #통신장비 #디지털인프라 #하이퍼스케일러 #네트워크솔루션 #광통신기술
 

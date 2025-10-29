@@ -1,15 +1,14 @@
 ﻿---
 title: "LDI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 507
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #론디포 #LDI #모기지대출 #주택대출 #온라인금융 #디지털모기지 #재융자 #개인대출 #헬로홈 #아이모기지 #금융테크 #핀테크 #대출플랫폼 #신용평가 #언더라이팅 #금리민감 #주택시장 #경제변동 #디지털대출 #고객경험 #모기지서비스 #대출서비스 #금융혁신 #대출자동화 #금융파트너십 #대출경제 #대출성장 #대출리스크 #대출규제 #대출안전 #대출트렌드
 

@@ -1,15 +1,14 @@
 ﻿---
 title: "MCK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 553
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #의약품유통 #의료기기 #헬스케어IT  #올리고폴리  #온콜로지 #바이오파마서비스 #디지털헬스케어 #의료정보기술 #의약품도매 #의료용품유통 #처방기술솔루션 #의료서비스 #헬스케어디지털화 #의료데이터분석 #헬스케어 #의료서비스
 

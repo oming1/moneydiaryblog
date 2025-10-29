@@ -1,15 +1,14 @@
 ﻿---
 title: "SIDU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 793
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #우주기술 #인공위성 #LizzieSat #우주산업 #우주인프라 #위성데이터 #엣지AI #초소형위성 #데이터서비스 #위성제조 #우주국방 #스페이스텍 #LunarLizzie #달탐사 #우주통신 #SpaceX #인공지능 #우주인프라서비스 #데이터분석 #실시간정보 #저궤도위성 #위성군 #우주제조 #3D프린팅 #여성CEO #우주스타트업 #NASA #지구관측 #우주데이터 #위성통신
 

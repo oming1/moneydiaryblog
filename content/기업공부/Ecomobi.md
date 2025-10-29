@@ -1,15 +1,14 @@
 ﻿---
 title: "Ecomobi"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 302
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #베트남 #마케팅플랫폼 #소셜커머스 #인플루언서마케팅 #소셜미디어 #전자상거래 #동남아시장 #브랜드연결 #데이터분석 #AI추천 #모바일앱 #디지털마케팅 #콘텐츠제작 #소비자참여 #유통네트워크 #O2O서비스 #글로벌확장 #지속가능성
 

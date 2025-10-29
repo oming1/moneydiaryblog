@@ -1,15 +1,14 @@
 ﻿---
 title: "NU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 632
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #Nubank #NU #누뱅크 #핀테크 #디지털은행 #네오뱅크 #브라질금융 #라틴아메리카 #신용카드 #예금계좌 #개인대출 #투자플랫폼 #금융포용 #언뱅크드 #언더뱅크드 #모바일뱅킹 #AI금융 #클라우드네이티브 #고객경험 #수익성개선 #성장시장 #규제환경 #시장확대 #데이터분석 #블록체인 #암호화폐서비스 #리테일금융 #금융기술
 

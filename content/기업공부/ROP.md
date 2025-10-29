@@ -1,15 +1,14 @@
 ﻿---
 title: "ROP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 758
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #클라우드컴퓨팅 #AI #하이브리드클라우드 #RedHat #왓슨 #컨설팅 #소프트웨어 #인프라 #양자컴퓨팅 #블록체인 #엣지컴퓨팅 #사이버보안 #디지털전환 #엔터프라이즈IT #오픈소스 #5G #IoT #빅데이터분석 #머신러닝 #지속가능성
 #소프트웨어 #인수합병 #수직통합소프트웨어 #애플리케이션소프트웨어 #네트워크소프트웨어 #의료소프트웨어 #교육소프트웨어 #법률소프트웨어 #정부소프트웨어 #SaaS #클라우드 #기술기반제품 #산업기술 #의료기술 #교육기술 #분석소프트웨어 #다각화기술기업 #고마진 #경상수익 #산업재 #기술

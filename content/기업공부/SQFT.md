@@ -1,15 +1,14 @@
 ﻿---
 title: "SQFT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:48+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 825
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #리츠 #REIT #부동산투자신탁 #모델하우스 #주택건설업체 #트리플넷리스 #선벨트 #상업부동산 #오피스 #산업시설 #리테일 #주거용부동산 #부동산포트폴리오 #내부관리형 #다각화리츠 #부동산임대 #부동산투자 #부동산관리 #부동산개발 #부동산매각 #부동산취득 #텍사스 #플로리다 #애리조나 #콜로라도 #서부지역 #중서부지역 #2차시장 #3차시장 #안정적시장 #고품질부동산 #NetREIT #우선주 #Series D #배당 #월배당 #9.375% #현금배당 #세일앤리스백 #홈빌더 #건설회사 #부동산투자 #소형리츠 #마이크로캡 #부동산관리 #임대율 #순영업이익 #자금조달 #부동산시장 #부동산경기
 

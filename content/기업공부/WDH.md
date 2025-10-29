@@ -1,15 +1,14 @@
 ﻿---
 title: "WDH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:48+09:00
+lastmod: 2025-10-29T06:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 958
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
 </div>
 #워터드롭 #WDH #중국보험 #온라인보험중개 #인슈어테크 #AI기술 #의료크라우드펀딩 #임상시험플랫폼 #디지털헬스케어 #보험마켓플레이스 #DeepSeek #AI고객서비스 #중국핀테크 #인공지능보험 #건강보험 #생명보험 #의료보험 #단기보험 #장기보험 #NYSE상장 #기술플랫폼 #보험브로커리지 #헬스케어서비스 #가치투자 #성장주 #중국테크
 

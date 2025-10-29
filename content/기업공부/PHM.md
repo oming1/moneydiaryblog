@@ -1,15 +1,14 @@
 ﻿---
 title: "PHM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 690
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #펄트그룹 #주택건설 #디지털설계 #모듈러공법 #모기지서비스 #타이틀서비스 #사후관리 #랜드뱅크 #수주잔고 #첫주택구매 #업사이징 #액티브어덜트 #임대커뮤니티 #친환경주택 #에너지효율 #VR투어 #커뮤니티개발 #공급망관리 #비용절감 #백로그 #커스터머경험
 

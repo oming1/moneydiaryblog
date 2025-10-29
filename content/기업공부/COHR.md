@@ -1,15 +1,14 @@
 ﻿---
 title: "COHR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 213
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #Coherent #COHR #레이저 #광학 #포토닉스 #반도체장비 #산업레이저 #의료레이저 #정밀가공 #3D프린팅 #통신레이저 #LiDAR #산업자동화 #OEM #기술혁신 #연구개발 #글로벌시장 #공급망 #LaserTechnology #Photonics #SemiconductorEquipment #자동차센서 #광학부품 #의료장비 #정밀계측
 

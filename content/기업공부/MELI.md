@@ -1,15 +1,14 @@
 ﻿---
 title: "MELI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 561
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #이커머스 #핀테크 #결제플랫폼 #신용서비스 #물류네트워크 #라틴아메리카 #메르카도파고 #온라인쇼핑몰 #디지털금융 #크레딧카드 #개인간거래 #모바일결제 #암호화폐 #디지털전환 #플랫폼비즈니스 #임의소비재 #인터넷리테일 #전자상거래 #금융서비스 #투자서비스
 

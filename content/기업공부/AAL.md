@@ -1,15 +1,14 @@
 ﻿---
 title: "AAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:45+09:00
+lastmod: 2025-10-29T21:36:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:45Z" />
+  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
 </div>
 #산업재 #항공사 #항공 #여객운송 #화물운송
 

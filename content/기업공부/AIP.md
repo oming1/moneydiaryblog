@@ -1,15 +1,14 @@
 ﻿---
 title: "AIP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:25+09:00
 type: docs
 sidebar:
   open: false
 weight: 42
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
 </div>
 #반도체IP #NetworkOnChip #NoC #SoC #SystemIP #인터커넥트 #AI반도체 #자동차반도체 #라이선스수익 #로열티 #칩렛 #멀티다이 #고성능컴퓨팅 #파워효율성 #EDA도구 #ARM파트너 #RISC-V #FlexNoC #Ncore #시스템온칩 #지적재산권 #반도체설계
 

@@ -1,15 +1,14 @@
 ﻿---
 title: "PPI-CPI 스프레드"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-28T22:05:43+09:00
+lastmod: 2025-10-29T06:50:22+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:43Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:22Z" />
 </div>
 ### 1. 기업 실적 훼손
 

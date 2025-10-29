@@ -1,15 +1,14 @@
 ﻿---
 title: "GEV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 371
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #산업재 #전력인프라 #해상풍력 #원자력발전 #가스터빈 #풍력터빈
 #재생에너지 #풍력 #가스터빈 #전력생산 #에너지전환 #탄소중립 #그리드솔루션 #HVDC #수소연료 #암모니아연소 #AI #디지털화 #전기화 #탈탄소화 #에너지효율 #스마트그리드 #마이크로그리드 #리쇼어링  #천연가스 #스타게이트 #데이터센터 

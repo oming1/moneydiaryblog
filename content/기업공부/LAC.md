@@ -1,15 +1,14 @@
 ﻿---
 title: "LAC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:47+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 501
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:47Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #리튬 #배터리소재 #전기차 #청정에너지 #지속가능성 #북미공급망 #광산개발 #소재 #산업재 #금속및광업 #리튬광산 
 

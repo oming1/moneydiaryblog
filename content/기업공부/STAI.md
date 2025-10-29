@@ -1,15 +1,14 @@
 ﻿---
 title: "STAI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:48+09:00
+lastmod: 2025-10-29T06:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 830
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:48Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
 #보안검색기술 #CTスキャニング #AI기반보안 #공항보안 #위협탐지 #고정식CT스캐너 #인공지능분석 #폭발물탐지 #자동탐지 #국토안보 #마이크로캡 #정부계약 #검색기술 #국경보안 #핵시설보안 #레이트레이스생검 #보안체크포인트 #NASDAQ상장 #무인침입탐지 #테러대응 #SENTINEL시스템 #정부시설보안 #AI알고리즘 #마이크로캡주 #신기술기업 #비접촉스캐닝
 

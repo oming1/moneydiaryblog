@@ -1,15 +1,14 @@
 ﻿---
 title: "HEI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T22:05:46+09:00
+lastmod: 2025-10-29T06:50:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 403
----
-<div style="display:none">
+---<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:46Z" />
+  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
 #하이코 #HEI #항공우주 #방산전자 #PMA대체부품 #FAA인증 #애프터마켓 #MRO #비행지원그룹 #전자기술그룹 #고수익틈새 #우주급전자부품 #RF마이크로파 #적외선시뮬레이터 #전력변환장치 #임베디드컴퓨팅 #품질추적성 #규제장벽 #원가우위 #항공사비용절감 #민항회복 #OEM증산 #LEO위성 #전자전 #공급망다변화 #ESG #수익성성장 #현금창출 #포트폴리오다각화 #MRO #대체부품 
 
