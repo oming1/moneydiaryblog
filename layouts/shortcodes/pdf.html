@@ -1,0 +1,21 @@
+{{- /*
+Shortcode to include a PDF file in a page.
+
+@param {string} 0 The path to the PDF file.
+@param {int} page (Optional) The page number to open the PDF at.
+
+@example {{< pdf "path/to/file.pdf" >}}
+@example {{< pdf "path/to/file.pdf" page="5" >}}
+*/ -}}
+
+{{- $path := .Get 0 -}}
+{{- $page := .Get "page" -}}
+{{- $url := partial "utils/file-path" (dict "page" .Page "path" $path) -}}
+
+{{- if $page -}}
+  {{- $url = print $url "#page=" $page -}}
+{{- end -}}
+
+<div class="hextra-pdf">
+  <iframe src="{{ $url | safeURL }}" width="100%" style="min-height: 32rem;" frameborder="0"></iframe>
+</div>
