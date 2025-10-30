@@ -34,7 +34,11 @@ weight: 544
     - **인테리어 디자인:** 호텔 인테리어 디자인 및 가구 공급. 주요 기업: Gensler, HOK.
     - **식음료 공급:** 호텔 내 식음료 공급. 주요 기업: Sysco Corporation (미국, [SYY](/company-analysis/syy/)), US Foods (미국, [USFD](/company-analysis/usfd/)).
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **부동산 개발:** 호텔 및 리조트 개발
     - 주요 기업: Hilton Worldwide (미국, [HLT](/company-analysis/hlt/)), Hyatt Hotels (미국, H).
@@ -44,6 +48,8 @@ weight: 544
     - 주요 기업: Marriott International (미국, [MAR](/company-analysis/mar/)), Hilton Worldwide (미국, [HLT](/company-analysis/hlt/)).
 - **마케팅 및 판매:** 호텔 예약 및 마케팅
     - 주요 기업: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/)).
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -67,7 +73,11 @@ weight: 544
 
 - **숙박:** 글로벌 시장 점유율 약 15% (2023년 기준)
 
+{{< adsense-infeed >}}
+
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **2022년:** 메리어트, 중국 시장에서의 매출 감소로 인해 연간 전망 하향 조정
 - **2023년:** 메리어트, ESG 투자 강화 및 지속 가능한 호텔 운영 확대

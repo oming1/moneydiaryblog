@@ -22,6 +22,8 @@ weight: 199
 
 Clean Harbors Inc.는 미국과 국제적으로 환경 및 산업 서비스를 제공하는 회사입니다. 주요 사업으로는 유해 및 비유해 폐기물 수거, 운송, 처리 및 재활용, 산업 유지보수 및 특수 산업 서비스, 그리고 안전-클린 지속 가능성 솔루션을 포함합니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**:
@@ -33,10 +35,14 @@ Clean Harbors Inc.는 미국과 국제적으로 환경 및 산업 서비스를 �
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)), BASF (DE, BAS))
 - **제품 제조**: 폐기물 수거 및 처리 시스템 제조 (Clean Harbors Inc.)
 - **시스템 통합**: 폐기물 관리 시스템 통합 및 운영 (Clean Harbors Inc.)
 - **서비스 제공**: 폐기물 수거, 운송, 처리 및 재활용 서비스 제공 (Clean Harbors Inc.)
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -47,8 +53,12 @@ Clean Harbors Inc.는 미국과 국제적으로 환경 및 산업 서비스를 �
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 전체 매출의 대부분을 차지
 - **캐나다**: 주요 판매국가로 포함됨
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

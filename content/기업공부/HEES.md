@@ -34,6 +34,8 @@ H&E Equipment Services, Inc.(NASDAQ: HEES)는 1961년 설립된 미국의 주요
 
 H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 광범위한 네트워크: 30개 주에 걸친 145개 지점으로 신속한 서비스 제공
 2. 다양한 장비 포트폴리오: 64,000대 이상의 장비로 고객 니즈 충족
 3. 젊은 장비군: 업계에서 가장 젊은 장비 플릿 중 하나로 높은 성능과 가동 시간 제공
@@ -59,6 +61,8 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 - 물류 및 운송: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 장비 제조: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 및 산업 장비)
 2. 장비 구매: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (대규모 장비 구매)
@@ -98,6 +102,8 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 ## 산업 내 글로벌 시장 점유율
 
 H&E Equipment Services의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 미국 장비 렌탈 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

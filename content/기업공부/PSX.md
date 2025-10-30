@@ -72,6 +72,8 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 원유 공급: 원유 생산 및 수입
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Saudi Aramco(SA, 2222.SR)
@@ -118,6 +120,8 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 영국, 독일, 오스트리아, 스위스, 폴란드, 중국, 싱가포르, 말레이시아
 
 ## 경쟁업체
@@ -161,5 +165,7 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 5. VanEck Oil Refiners ETF - CRAK
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

@@ -46,6 +46,8 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 식품 공급업: 고품질 식재료 공급 (Sysco(US, [SYY](/company-analysis/syy/)), US Foods(US, [USFD](/company-analysis/usfd/)))
     
 - 포장재 제조: 친환경 포장재 생산 (Ball Corporation(US, [BALL](/company-analysis/ball/)), Sealed Air(US, SEE))
@@ -71,19 +73,25 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 2. 크링클 컷 프라이: 특유의 모양과 식감의 감자튀김 (2023년 매출의 약 20%)
     
 3. 밀크쉐이크 및 커스터드: 다양한 플레이버의 디저트 (2023년 매출의 약 15%)
-    
+
+{{< adsense-infeed >}}
+
 4. 치킨 샌드위치: 무항생제 닭고기 사용 (2023년 매출의 약 10%)
     
 5. 핫도그: 뉴욕 스타일 핫도그 (2023년 매출의 약 5%)
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국(54.2%), 영국, 일본, 중국, 한국, 멕시코, UAE 등 전 세계 150개 이상 국가
 
 ## 경쟁업체
 
 1. In-N-Out Burger: 서부 중심의 프리미엄 버거 체인
-    
+
+{{< adsense-infeed >}}
+
 2. Five Guys(US, [FIVE](/company-analysis/five/)): 커스터마이즈 가능한 버거로 유명
     
 3. Smashburger: 고급 버거와 사이드 메뉴 제공

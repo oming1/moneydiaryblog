@@ -19,6 +19,8 @@ weight: 950
 
 산업: 상업은행
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스에 본사를 둔 지역 상업은행 지주회사입니다. 주요 사업 부문은 다음과 같습니다:
@@ -46,6 +48,8 @@ Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스�
 4. **리스크 관리**: 보수적 대출 기준 및 자본 관리로 건전성 유지
     
 5. **고객 맞춤형 서비스**: 신속한 의사결정과 고객 중심 솔루션
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -99,6 +103,8 @@ Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국(서부 및 남서부 중심)
 
 ## 경쟁업체
@@ -106,7 +112,9 @@ Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스�
 1. Western Bank(US, WBKC): 지역 상업은행
     
 2. PacWest Bancorp(US, PACW): 캘리포니아·서부 중심 지역은행
-    
+
+{{< adsense-infeed >}}
+
 3. Zions Bancorporation(US, [ZION](/company-analysis/zion/)): 서부지역 상업은행
     
 4. Comerica Inc.(US, [CMA](/company-analysis/cma/)): 남서부 및 텍사스 지역은행
@@ -132,7 +140,9 @@ Western Alliance Bancorp은 미국 중대형 상업은행 시장에서 약 1~2% 
 - The Vanguard Group (11%)
     
 - BlackRock (9%)
-    
+
+{{< adsense-infeed >}}
+
 - State Street Corporation (5%)
 
 ## 관련 ETF

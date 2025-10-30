@@ -26,7 +26,11 @@ TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
@@ -63,7 +67,11 @@ TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Gerardo Hernandez를 새로운 CFO로 임명 (2024)
 - 2024년 재무 전망 업데이트: 매출 428-432백만 달러 예상 (2024)

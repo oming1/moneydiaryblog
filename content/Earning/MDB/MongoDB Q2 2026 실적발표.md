@@ -28,8 +28,12 @@ weight: 2
 - 주식환매: 2억달러 실행(분기).
 - 순손실(GAAP): -4,704만달러(주당 -0.58달러).
 
+{{< adsense-infeed >}}
+
 ---
 ## 2. 제품별/사업부별
+
+{{< adsense-infeed >}}
 
 - 구독(Subscription) 매출: 5.724억달러(YoY +23%). 서비스(Professional Services) 매출: 1,900만달러(YoY +33%).
 - 제품 믹스: Atlas 74% 비중으로 핵심 성장 엔진화(고객 및 워크로드 확장 중심).
@@ -62,6 +66,8 @@ weight: 2
 - 추가 요인: (1) Atlas 성장률 26%→29%로 재가속, (2) 연간 매출·마진 가이던스 일제 상향, (3) 2억달러 자사주 매입 및 현금 23억달러의 재무 여력 등이 리레이팅에 기여.
 	- 해석: 단순 “AI 테마”가 아닌, 실제 고객·워크로드 확장과 수익성 레버리지(비용 효율+스케일 효과)에서 성과를 증명. 특히 AI 앱 구축 파이프라인의 핵심 데이터 계층으로서 Atlas 채택이 늘며, 사용량 기반(Consumption) 모델의 가속이 가시화.
 
+{{< adsense-infeed >}}
+
 - 리스크 밸런싱: 전사 Non-GAAP 마진은 개선됐지만 GAAP 기준 순손실 지속, 비(非)현금성 주식보상비용·총마진 소폭 하락(비용·클라우드 인프라 코스트)을 모니터링 필요.
 
 ---
@@ -77,11 +83,15 @@ weight: 2
 ---
 ## 8. 경쟁사 영향과 차별화 포인트
 
+{{< adsense-infeed >}}
+
 - Snowflake([SNOW](/company-analysis/snow/) - 클라우드 데이터 웨어하우스/애널리틱스): 분석·웨어하우스가 강점. MongoDB는 운영 DB·앱 트랜잭션/검색/벡터의 단일 계층이라는 점에서 직접 대체보다는 보완적 포지션. 다만 양사 모두 AI 워크로드를 겨냥하며 중장기 고객 예산을 경쟁적으로 유치.
 
 - Amazon(AWS, [AMZN](/company-analysis/amzn/) - 1위 클라우드, DynamoDB 등 관리형 DB): 클라우드 인프라 리더로 고객 락인 효과 큼. MongoDB는 멀티클라우드·Run Anywhere 전략으로 종속 회피 니즈를 공략.
 
 - Microsoft(Azure, [MSFT](/company-analysis/msft/) - 클라우드 2위, Cosmos DB): Azure는 AI 워크로드 확장으로 점유율을 높이는 중. Cosmos DB와의 경쟁 구도 속에서도 
+
+{{< adsense-infeed >}}
 
 - Alphabet(Google Cloud, [GOOGL](/company-analysis/googl/) - Firestore 등): GCP 생태계와의 결합력은 강점. MongoDB는 멀티클라우드·크로스클라우드 일관성으로 차별화.
 

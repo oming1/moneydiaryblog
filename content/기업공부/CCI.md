@@ -71,6 +71,8 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국
 
 ## 경쟁업체
@@ -81,7 +83,11 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 - DigitalBridge Group(US, [DBRG](/company-analysis/dbrg/)): 디지털 인프라 투자 및 운영
 - Cellnex Telecom(ES, CLNX): 유럽 최대 통신 타워 운영사
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Crown Castle은 2024년 3분기 기준으로 미국 통신 타워 시장에서 약 26.06%의 점유율을 보유하고 있습니다. 이는 American Tower Corporation(39.62%)에 이어 두 번째로 높은 수치입니다.
 

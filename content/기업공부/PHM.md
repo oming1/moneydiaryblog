@@ -20,6 +20,8 @@ weight: 690
 섹터(Sector): Consumer Discretionary – 소비자 재량  
 산업(Industry): Residential Construction – 주택 건설, [부동산](/industry-study/2산업부동산/)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -105,7 +107,11 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 
 - GIS·데이터 분석 → 시장성·인프라·규제 검토 → 토지 계약 및 인허가
 
+{{< adsense-infeed >}}
+
 2단계: **디자인 확정·모듈 제작**
+
+{{< adsense-infeed >}}
 
 - 고객과 3D HomeStudio로 설계 협의 → 공장 제작 모듈(벽체·바닥·지붕) 생산
 

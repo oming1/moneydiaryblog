@@ -24,6 +24,8 @@ weight: 299
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 기술 혁신 및 스타트업
     - **핵심 산업**: 인공지능, 클라우드 컴퓨팅, 핀테크
     - **관련 기업**: OpenAI, [SpaceX](/company-analysis/spacex/)
@@ -33,11 +35,15 @@ weight: 299
 
 **밸류체인**:
 
+{{< adsense-infeed >}}
+
 - **투자 자문 및 관리**: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group
 - **기술 혁신 투자**: OpenAI, SpaceX
 - **포트폴리오 관리**: Destiny Tech100 Inc. (미국, [DXYZ](/company-analysis/dxyz/))
 
 **주요제품**:
+
+{{< adsense-infeed >}}
 
 - **투자 포트폴리오**: 고성장 기술 주식으로 구성된 포트폴리오
 - **자산 관리 서비스**: 투자 자문 및 관리 서비스

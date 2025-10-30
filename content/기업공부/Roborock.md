@@ -20,18 +20,26 @@ weight: 753
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Roborock은 주로 로봇 청소기 및 무선 청소기를 개발, 제조 및 판매하는 회사입니다. 이 회사는 스마트 홈 청소 솔루션을 제공하며, 혁신적인 기술을 통해 효율적이고 자동화된 청소 경험을 제공합니다.
 
 #### 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **소매**: 가전제품 소매업체 (예: Best Buy (US,[BBY](/company-analysis/bby/)]), Amazon (US, [AMZN](/company-analysis/amzn/)))
     - **전자상거래**: 온라인 플랫폼 (예: JD.com (CN, [JD](/company-analysis/jd/)), Alibaba (CN, [BABA](/company-analysis/baba/)))
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **전자 부품**: 전자 부품 공급업체 (예: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/)))
     - **플라스틱 및 금속 부품**: 부품 제조업체 (예: BASF (DE, BAS), Dow Inc. (US, [DOW](/company-analysis/dow/)))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -44,6 +52,8 @@ Roborock은 주로 로봇 청소기 및 무선 청소기를 개발, 제조 및 �
 - **로봇 청소기**: S8 MaxV Ultra, Q7, S7 MaxV 시리즈
 - **무선 청소기**: H7, H6 시리즈
 - **액세서리**: 청소기 부품 및 소모품
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

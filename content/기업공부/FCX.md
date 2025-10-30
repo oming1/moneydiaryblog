@@ -102,6 +102,8 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 
 ## 제조공정
 
+{{< adsense-infeed >}}
+
 **1. 탐사 및 개발:**
 
 - 지질학적 탐사를 통한 광물 매장량 확인
@@ -118,6 +120,8 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - 부유선별법을 통한 구리, 금, 몰리브덴 분리
 
 **4. 정련:**
+
+{{< adsense-infeed >}}
 
 - 제련소에서 고온 처리를 통한 금속 추출
 - 전기분해를 통한 순도 높은 금속 생산
@@ -166,11 +170,15 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - KME Group(DE, KME Group) - 구리 및 구리 합금 제품
 - Mitsubishi Materials(JP, Mitsubishi Materials) - 금속 가공 및 유통
 
+{{< adsense-infeed >}}
+
 **최종 사용자 단계:** 제조업체 및 건설업체
 
 - Tesla(US, [TSLA](/company-analysis/tsla/)) - 전기차 배터리 및 모터용 구리
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 전자기기 내부 구리 부품
 - General Electric(US, [GE](/company-analysis/ge/)) - 발전기 및 전기 장비
+
+{{< adsense-infeed >}}
 
 ---
 

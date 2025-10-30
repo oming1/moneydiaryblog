@@ -44,10 +44,14 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 3. 기술 혁신: 자체 LLM 팀을 통한 지속적인 플랫폼 개선
     
 4. NVIDIA와의 파트너십: 최신 GPU 기술에 대한 조기 접근
-    
+
+{{< adsense-infeed >}}
+
 5. 비용 효율성: GPU 소유 및 운영 비용 우위
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -74,6 +78,8 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 - 기술 교육 프로그램: TripleTen을 통한 온라인 코딩 부트캠프
     
 - [자율 주행](/industry-study/자율-주행/) 기술: Avride를 통한 개발 및 테스트
+
+{{< adsense-infeed >}}
 
 ## 주요 고객
 

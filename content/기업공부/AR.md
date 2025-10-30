@@ -41,7 +41,11 @@ Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀�
 5. 유연한 생산 조정: 시장 상황에 따른 효율적인 생산량 조절 능력
 6. 재무 건전성: 강력한 대차대조표와 충분한 유동성
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 1. 후방산업:
     
@@ -81,6 +85,8 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. EQT Corporation(US, [EQT](/company-analysis/eqt/))
 2. Range Resources(US, RRC)
 3. Southwestern Energy(US, SWN)
@@ -90,6 +96,8 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Antero Resources는 미국 내 주요 천연가스 및 NGL 생산업체 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

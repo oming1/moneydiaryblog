@@ -46,6 +46,8 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
 ### 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 - 보험료 수익: 고객(회사·개인)이 내는 보험료
 
 - 의료 서비스 수익: Optum Health가 환자 진료·간호·원격의료 서비스 제공 시 발생
@@ -174,6 +176,8 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 ---
 ### 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 - 2024년: OptumAI Prior Authorization 전면 도입 → 승인 프로세스 50% 단축
 - 2023년: Change Healthcare 인수 통합 완료 → 클레임 처리 속도 30% 향상
 - 2022년: LHC Group 인수 → 가정 간호 서비스 20% 확대
@@ -194,6 +198,8 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
 - IHF – iShares U.S. Healthcare Providers ETF IHF
 - XHS – SPDR S&P Health Care Services ETF XHS
+
+{{< adsense-infeed >}}
 
 섹터 관련 ETF:
 

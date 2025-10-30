@@ -27,14 +27,20 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 ## 핵심 경쟁력
 
 1. 다양한 의료 분야를 아우르는 포괄적인 제품 포트폴리오
-    
+
+{{< adsense-infeed >}}
+
 2. 지속적인 연구개발 투자를 통한 혁신적인 제품 개발 (2023년 R&D 투자액 1.2억 달러)
     
 3. 글로벌 영업 및 유통 네트워크 (135개국 이상에서 사업 운영)
-    
+
+{{< adsense-infeed >}}
+
 4. 높은 수준의 품질 관리 및 규제 준수 시스템
     
 5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -80,6 +86,8 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 1. Mayo Clinic(US, Mayo Clinic): 종합 의료 서비스
     
 2. Cleveland Clinic(US, Cleveland Clinic): 심장 및 혈관 질환 전문
@@ -89,6 +97,8 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 4. Massachusetts General Hospital(US, Massachusetts General Hospital): 하버드 의대 교육병원
     
 5. Charité - Universitätsmedizin Berlin(DE, Charité): 유럽 최대 대학병원
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

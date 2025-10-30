@@ -26,11 +26,15 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 금속 사용
 - 자동차 제조: Volvo Group (SE, VOLV-B)
 - 전자제품 제조: Ericsson (SE, ERIC-B)
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 채굴 장비 공급
 - 광산 장비: Epiroc AB (SE, EPI-A)
@@ -49,6 +53,8 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Glencore (CH, [GLEN](/company-analysis/glen/)) - 다양한 금속 및 광물
 - Rio Tinto (UK/AU, [RIO](/company-analysis/rio/)) - 다양한 금속 및 광물
 - BHP Group (AU, [BHP](/company-analysis/bhp/)) - 다양한 금속 및 광물
@@ -58,5 +64,7 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 구체적인 시장 점유율 정보는 제공된 자료에 없습니다.
 
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [Boliden AB 공식 웹사이트](https://www.boliden.com/)

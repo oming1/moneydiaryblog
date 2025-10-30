@@ -20,7 +20,11 @@ weight: 943
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Vivint Solar Inc.는 주거용 태양광 에너지 시스템을 설계, 설치 및 유지보수하는 회사입니다. 주요 사업으로는 태양광 패널설치, 유지보수 서비스, 에너지 관리 소프트웨어 제공 등이 있습니다
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 
@@ -44,6 +48,8 @@ Vivint Solar Inc.는 주거용 태양광 에너지 시스템을 설계, 설치 �
 - **에너지 관리 소프트웨어**: 에너지 모니터링 및 제어 소프트웨어
 - [**유지보수 서비스**: 태양광 시스템 유지보수 서비스](https://www.investing.com/equities/vivint-solar-inc)[2](https://www.barchart.com/stocks/quotes/VSLR)
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **미국**: 전체 매출의 대부분을 차지
@@ -51,6 +57,8 @@ Vivint Solar Inc.는 주거용 태양광 에너지 시스템을 설계, 설치 �
 - [**아시아**: 일본 및 한국 등 주요 판매국가 포함](https://www.investing.com/equities/vivint-solar-inc)[1](https://www.investing.com/equities/vivint-solar-inc)
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Sunrun (US, [RUN](/company-analysis/run/))**: 주거용 태양광 시스템
 - **SunPower (US, [SPWR](/company-analysis/spwr/))**: 태양광 패널 및 시스템

@@ -22,6 +22,8 @@ weight: 990
 - **Sector**: Industrials (산업재)
 - **Industry**: Electrical Equipment & Parts (전기 장비 및 부품)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체로, 주로 서보 모터, AC 인버터 드라이브, 모션 컨트롤러, 산업용 로봇을 생산합니다. 회사는 자동차, 반도체, 전자 부품, 식품 제조, 농업, 생명 공학 등 다양한 산업 분야에 제품을 공급하고 있습니다.
@@ -41,6 +43,8 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 - **기계 부품 산업**: Yaskawa의 로봇과 모션 제어 시스템에 필요한 기계 부품을 공급합니다. 주요 기업: NSK (JP, 6471), NTN Corporation (JP, 6472).
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구개발 (R&D)**: 새로운 기술과 제품 개발. 대표 기업: Siemens (DE, [SIE](/company-analysis/sie/)), ABB (CH, ABBN).
 - **부품 생산 및 조달**: 필요한 부품을 생산하고 조달. 대표 기업: TDK (JP, 6762), Murata Manufacturing (JP, 6981).
@@ -66,6 +70,8 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 - Siemens AG (DE, [SIE](/company-analysis/sie/).DE)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 AC 인버터 드라이브, 서보 및 모션 제어, 로봇 자동화 시스템 분야에서 세계 최대 제조업체 중 하나입니다.
 

@@ -40,6 +40,8 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 - 데이터 분석 기업: Adobe(US, [ADBE](/company-analysis/adbe/))
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
+{{< adsense-infeed >}}
+
 ### 전방산업:
 
 - 소비재 기업: PepsiCo(US, [PEP](/company-analysis/pep/)), Unilever(UK, ULVR.L)
@@ -67,12 +69,16 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 
 북미(54.2%), 유럽(29%), 아시아/태평양(12.1%), 라틴아메리카(2.6%), 중동 및 아프리카(2.1%)경쟁업체
 
+{{< adsense-infeed >}}
+
 - WPP(UK, WPP.L)
 - Publicis Groupe(FR, PUB.PA)
 - Interpublic Group(US, [IPG](/company-analysis/ipg/))
 - Dentsu Group(JP, 4324.T)
 
 ## 산업 내 글로벌 시장 점유율  
+
+{{< adsense-infeed >}}
 
 2014년 기준 월스트리트 저널에 의해 세계 2위 광고 지주회사로 평가되었으나, 최근의 정확한 시장 점유율 데이터는 제공되지 않았습니다.최근 3년 내 주요 이슈
 

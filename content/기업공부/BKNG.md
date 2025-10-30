@@ -24,6 +24,8 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 여행 및 관광업
     - **핵심 산업:** 여행 및 관광업은 Booking Holdings의 플랫폼을 통해 고객에게 다양한 여행 옵션을 제공합니다.
     - **관련 기업:** Expedia (미국, [EXPE](/company-analysis/expe/)), TripAdvisor (미국, [TRIP](/company-analysis/trip/))
@@ -58,6 +60,8 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 - **네덜란드:** 주요 매출 국가
 - **일본:** 주요 매출 국가
 
+{{< adsense-infeed >}}
+
 ### 경쟁업체
 
 - **Expedia (미국, [EXPE](/company-analysis/expe/)):** 온라인 여행 예약 서비스
@@ -71,7 +75,11 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 - **Expedia:** 약 20% (2023년 기준)
 - **Airbnb:** 약 15% (2023년 기준)
 
+{{< adsense-infeed >}}
+
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **코로나19 팬데믹으로 인한 여행 수요 감소 (2020년)**
 - **여행 수요 회복 및 온라인 예약 증가 (2022년)**

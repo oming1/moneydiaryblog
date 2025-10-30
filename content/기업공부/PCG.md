@@ -96,6 +96,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 
 **전방산업 (전력/가스 소비 산업):**
 
+{{< adsense-infeed >}}
+
 - 기술기업: Google (US, [GOOGL](/company-analysis/googl/)), Meta (US, [META](/company-analysis/meta/)) - 데이터센터 전력
 - 제조업: Tesla (US, [TSLA](/company-analysis/tsla/)), Intel (US, [INTC](/company-analysis/intc/)) - 제조시설 전력
 - 상업부동산: Simon Property (US, [SPG](/company-analysis/spg/)) - 쇼핑센터/오피스 전력
@@ -168,6 +170,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 - Tesla (US, [TSLA](/company-analysis/tsla/)) - 프리몬트 제조 공장
 - Intel (US, [INTC](/company-analysis/intc/)) - 산타클라라 반도체 시설
 
+{{< adsense-infeed >}}
+
 **산업 고객:**
 
 - Chevron (US, [CVX](/company-analysis/cvx/)) - 리치몬드 정유공장
@@ -211,6 +215,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ---
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 **미국 전력 시장 점유율:**
 

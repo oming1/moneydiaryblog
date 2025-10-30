@@ -24,6 +24,8 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업 (Downstream Industry):**
     
     - **핵심 산업:** 바이오제약 제조 및 품질 관리
@@ -47,9 +49,13 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
     
     - **설명:** 바이오프로세스 솔루션 및 실험실 제품 생산
     - **대표회사:** Sartorius (독일, SRT3), Danaher (미국, [DHR](/company-analysis/dhr/))
-      
+
+{{< adsense-infeed >}}
+
 - **유통:**
-    
+
+{{< adsense-infeed >}}
+
     - **설명:** 바이오프로세스 솔루션 및 실험실 제품을 도매업체 및 소매업체에 공급
     - **대표회사:** Sartorius (독일, SRT3), Agilent Technologies (미국, [A](/company-analysis/a/))
       
@@ -65,6 +71,8 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
 - **필터 및 여과 시스템 (Filtration Systems)**
 - **실험실 장비 (Laboratory Equipment)**
 - **단일 사용 시스템 (Single-Use Systems)**
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

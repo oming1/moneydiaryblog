@@ -43,11 +43,15 @@ MGI는 유전체 시퀀싱 기기, 시약 및 관련 제품을 연구, 개발, �
 
 ### 주요제품 (Key Products)
 
+{{< adsense-infeed >}}
+
 - **DNBSEQ™ Technology**: 고효율, 고정확도의 PCR-free NGS 기술.
 - **DNBSEQ-T7**: 초고속 DNA 시퀀싱 플랫폼.
 - **DNBSEQ-G400**: 고속 DNA 시퀀싱 플랫폼.
 - **DNBSEQ-G99**: 중속 DNA 시퀀싱 플랫폼.
 - **DNBSEQ-E25**: 휴대용 DNA 시퀀싱 플랫폼.
+
+{{< adsense-infeed >}}
 
 ### 주요 판매국가 (Major Sales Countries)
 
@@ -55,10 +59,14 @@ MGI는 전 세계적으로 제품을 판매하고 있으며, 주요 판매국가
 
 ### 경쟁업체 (Competitors)
 
+{{< adsense-infeed >}}
+
 - **Illumina (US, [ILMN](/company-analysis/ilmn/))**: 유전체 시퀀싱 및 분석 플랫폼.
 - **Oxford Nanopore Technologies (GB, ONT)**: 나노포어 기반 유전체 분석 시스템.
 - **PacBio (US, [PACB](/company-analysis/pacb/))**: 고정확도 장기 시퀀싱 플랫폼.
 - **Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))**: 다양한 생명과학 연구 장비 및 솔루션.
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
 

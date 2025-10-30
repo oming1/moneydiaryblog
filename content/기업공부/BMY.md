@@ -22,6 +22,8 @@ weight: 150
 
 Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류마티스 관절염, 정신 질환 등 다양한 치료 영역에서 처방약과 생물학적 제제를 제조하는 다국적 제약회사입니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 - 전방산업:
@@ -30,7 +32,9 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
     - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), UnitedHealth Group (US, [UNH](/company-analysis/unh/))
     
 - 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 원료 의약품 제조, 연구 장비 제조
     - 관련 기업: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Lonza Group (CH, LONN.SW)
 
@@ -41,7 +45,9 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
     - 대표 회사: Pfizer (US, [PFE](/company-analysis/pfe/)) - 다양한 치료 영역의 의약품 개발
     
 - 제조: 의약품 생산
-    
+
+{{< adsense-infeed >}}
+
     - 대표 회사: Novartis (CH, [NVS](/company-analysis/nvs/)) - 다양한 치료 영역의 의약품 생산
     
 - 유통 및 판매: 의약품 유통 및 마케팅
@@ -50,12 +56,16 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - Opdivo (면역항암제, 2022년 매출의 28%)
 - Eliquis (항응고제, 2022년 매출의 24%)
 - Revlimid (다발성 골수종 치료제, 2022년 매출의 16%)
 - Pomalyst/Imnovid (다발성 골수종 치료제)
 - Orencia (류마티스 관절염 치료제)
 - 조현병 치료제
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

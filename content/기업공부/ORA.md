@@ -33,6 +33,8 @@ Ormat Technologies는 주로 지열 에너지 및 회수 에너지를 이용한 
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **자원 개발**: 지열 자원 및 산업 폐열의 개발. 대표 기업: Enel Green Power (이탈리아, EGPW), Chevron (미국, [CVX](/company-analysis/cvx/)).
 - **발전**: 지열 및 회수 에너지를 이용한 전력 생산. 대표 기업: Ormat Technologies (미국, [ORA](/company-analysis/ora/)), Calpine Corporation (미국).
 - **전력 유통**: 생산된 전력을 소비자에게 전달. 대표 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), Exelon Corporation (미국, [EXC](/company-analysis/exc/)).
@@ -44,7 +46,11 @@ Ormat Technologies는 주로 지열 에너지 및 회수 에너지를 이용한 
 - **회수 에너지 시스템**: [산업 공정에서 발생하는 폐열을 이용한 전력 생산].
 - **에너지 저장 시스템**: 재생 에너지의 저장 및 관리.
 
+{{< adsense-infeed >}}
+
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Ormat Technologies는 주로 미국, 케냐, 뉴질랜드, 필리핀 등에서 전력을 판매하고 있습니다. 주요 시장은 미국과 케냐입니다.
 
@@ -59,6 +65,8 @@ Ormat Technologies는 주로 미국, 케냐, 뉴질랜드, 필리핀 등에서 �
 Ormat Technologies는 지열 에너지 및 회수 에너지 분야에서 글로벌 시장의 주요 기업 중 하나입니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 지열 에너지 분야에서 중요한 위치를 차지하고 있습니다.
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **케냐의 Olkaria III 지열 발전소 확장** (2023년)
 - **뉴질랜드의 Wairakei 발전소 업그레이드** (2022년)

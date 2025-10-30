@@ -20,15 +20,21 @@ Industry: Copper Mining (구리 채굴)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Antofagasta는 구리와 금 채굴 회사로, 구리, 금, 몰리브덴, 은 등의 광물 자원을 탐사, 채굴, 가공, 운송 및 판매합니다. 또한 칠레 북부 안토파가스타 지역의 주요 화물 운송 서비스 제공업체이기도 합니다.
 
 ## 전방/후방산업
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 구리 및 금속 제품 사용
 - 인프라: Caterpillar (미국, [CAT](/company-analysis/cat/))
 - 자동차: Tesla (미국, [TSLA](/company-analysis/tsla/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -43,9 +49,13 @@ Antofagasta는 구리와 금 채굴 회사로, 구리, 금, 몰리브덴, 은 �
 - [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) 
 - 화물 운송 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴 아메리카, 북미, 아시아 태평양 지역에서도 사업을 운영하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

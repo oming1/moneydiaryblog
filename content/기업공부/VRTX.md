@@ -20,6 +20,8 @@ weight: 940
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
 산업: 생명공학
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테크](/industry-study/바이오테크/) 기업으로, 주로 희귀질환 및 심각한 질병에 대한 혁신적인 치료제를 개발하고 상용화하는데 주력하고 있습니다. 회사의 주요 초점은 낭포성 섬유증(CF), 통증, 신경계 질환, 암, 그리고 자가면역 질환 등입니다.주요 사업 영역:
@@ -41,7 +43,11 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 병원 및 의료 서비스: HCA Healthcare(US, [HCA](/company-analysis/hca/)), UnitedHealth Group(US, [UNH](/company-analysis/unh/))
 - 약국 체인: CVS Health(US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/))

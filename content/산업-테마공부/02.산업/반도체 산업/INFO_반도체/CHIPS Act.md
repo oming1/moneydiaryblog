@@ -38,6 +38,8 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 반도체 제조 시설 투자에 대해 투자 금액의 **25%**를 세액 공제로 제공했으나, 트럼프 행정부는 이를 **30~35%**로 확대하는 방안을 추진 중입니다.
     - 세액 공제는 2026년 말까지 착공된 프로젝트에 적용됩니다.
 
+{{< adsense-infeed >}}
+
 3. **중국 견제**
     
     - 미국 내 반도체 생산을 확대하는 동시에, 중국에 대한 기술 의존도를 줄이고 기술 패권을 확보하려는 의도가 반영되어 있습니다.
@@ -101,7 +103,9 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 아날로그 반도체 및 임베디드 프로세서 분야의 선두 기업으로, 칩스법 수혜 기업 목록에 포함되어 있습니다. 텍사스 인스트루먼트는 텍사스주 셔먼에 300mm 웨이퍼 팹을 건설하기 위해 최대 16.1억 달러의 직접 지원금을 받았습니다. 이는 자국 내 아날로그 및 임베디드 칩 생산 강화를 통해 다양한 산업 분야의 공급망 안정화에 기여할 것으로 보입니다.
 
 - **앰코 테크놀로지 (Amkor Technology, [AMKR](/company-analysis/amkr/))**
-    
+
+{{< adsense-infeed >}}
+
     - 반도체 패키징 및 테스트 서비스를 제공하는 기업으로, 칩스법의 간접적인 수혜가 기대됩니다. 미국 내 반도체 생산이 증가하면 후공정 산업의 수요도 함께 늘어날 가능성이 있습니다.
 
 - **아나로그디바이스 (Analog Devices, [ADI](/company-analysis/adi/))** 
@@ -127,6 +131,8 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **인피네라 (Infinera, [INFN](/company-analysis/infn/))**
     
     - 광통신 장비 및 반도체를 생산하는 기업으로, 칩스법 수혜 기업에 이름을 올렸습니다.
+
+{{< adsense-infeed >}}
 
 - **마컴 테크놀로지 솔루션스 홀딩스 (MACOM Technology Solutions Holdings, [MTSI](/company-analysis/mtsi/))**
     

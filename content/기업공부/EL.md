@@ -34,6 +34,8 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
     - 핵심 산업 및 역할: 화학 원료 공급, 포장재 제조
     - 관련 기업: International Flavors & Fragrances (US, IFF), Berry Global Group (US, BERY)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - 연구 및 개발: 신제품 개발 및 혁신
@@ -55,7 +57,11 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
 - 향수 제품 (2022년 매출의 12%)
 - 헤어케어 제품 (2022년 매출의 5%)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 유럽, 아시아 태평양 지역을 포함한 전 세계 시장
 
@@ -65,6 +71,8 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
 - Shiseido (JP, 4911.T) - 화장품 및 개인용품
 - Coty (US, [COTY](/company-analysis/coty/)) - 향수 및 화장품
 - LVMH (FR, MC.PA) - 럭셔리 브랜드 및 화장품
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

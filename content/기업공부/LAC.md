@@ -51,6 +51,8 @@ Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업
     - 전기차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), General Motors(US, [GM](/company-analysis/gm/))
     - 배터리 제조: Panasonic(JP, Panasonic), LG Energy Solution(KR, [LG에너지솔루션](/industry-study/lg에너지솔루션/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 탐사 및 개발: Lithium Americas (주요 사업 영역)
@@ -85,6 +87,8 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Lithium Americas는 Thacker Pass 프로젝트를 통해 세계 리튬 시장에서 중요한 위치를 차지할 것으로 예상됩니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 1. Thacker Pass 프로젝트 건설 시작 (2023년)
@@ -102,6 +106,8 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 5. Legal & General Group PLC
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. Global X Lithium & Battery Tech ETF - LIT
 2. Amplify Lithium & Battery Technology ETF - BATT

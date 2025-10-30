@@ -24,6 +24,8 @@ JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해
 
 #### 전방/후방산업 (Forward/Backward Industries)
 
+{{< adsense-infeed >}}
+
 - **전방산업 (Forward Industries)**:
     
     - **여행사 및 온라인 여행 예약 플랫폼**: JetBlue의 항공편을 예약하고 판매합니다. 주요 기업: Expedia (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
@@ -40,6 +42,8 @@ JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해
 - **여객 및 화물 운송 서비스**: 여객 및 화물 운송 서비스를 제공합니다. 주요 기업: Delta Air Lines (미국, [DAL](/company-analysis/dal/)), American Airlines (미국, [AAL](/company-analysis/aal/))
 - **고객 서비스 및 지원**: 고객 서비스 및 지원을 담당합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), Accenture (미국, [ACN](/company-analysis/acn/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품 (Key Products)
 
 - **여객 운송 서비스**: 미국 및 국제선 항공편을 통한 여객 운송 서비스
@@ -55,6 +59,8 @@ JetBlue Airways의 주요 판매국가는 미국, 카리브해, 라틴 아메리
 - **Delta Air Lines (미국, [DAL](/company-analysis/dal/))**: 여객 및 화물 운송 서비스 제공
 - **American Airlines (미국, [AAL](/company-analysis/aal/))**: 여객 및 화물 운송 서비스 제공
 - **Southwest Airlines (미국, [LUV](/company-analysis/luv/))**: 저비용 항공사로 여객 운송 서비스 제공
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈 (Recent Issues within the Last Three Years)
 

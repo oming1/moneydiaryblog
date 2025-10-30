@@ -25,7 +25,9 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 노인 의료 서비스
     - 역할: Medicare Advantage 플랜 제공
     - 주요 기업: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Humana (미국, [HUM](/company-analysis/hum/))
@@ -36,10 +38,14 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
     - 역할: 의료 서비스 플랫폼 및 분석 도구 제공
     - 주요 기업: Cerner (미국, CERN), Allscripts (미국, MDRX)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - Medicare Advantage 플랜 제공:
-    
+
+{{< adsense-infeed >}}
+
     - Alignment Healthcare는 다양한 Medicare Advantage 플랜을 직접 제공합니다.
     - 대표 기업: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Humana (미국, [HUM](/company-analysis/hum/))
     

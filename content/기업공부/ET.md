@@ -79,6 +79,8 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 4. 전력 회사
 5. 산업용 에너지 소비자
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니다.
@@ -93,6 +95,8 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Energy Transfer는 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -103,6 +107,8 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 영향 극복 및 실적 회복 (2022-2023년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 1. The Vanguard Group, Inc.: 11.62%
@@ -112,6 +118,8 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 5. Charles Schwab Investment Management, Inc.: 1.51%
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP

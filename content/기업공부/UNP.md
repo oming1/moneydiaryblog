@@ -21,6 +21,8 @@ weight: 911
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 중 하나로, 약 32,000마일의 철도 네트워크를 미국 서부 및 중서부 23개 주에 걸쳐 운영하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **벌크화물 운송**: 곡물, 석탄, 비료 등 대량 원자재 수송
@@ -60,7 +62,9 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 후방산업
 
 - **철도 차량·장비 제조**: Wabtec Corporation(US, WAB), Trinity Industries(US, TRN)
-    
+
+{{< adsense-infeed >}}
+
 - **디지털·IT 솔루션**: IBM(US, [IBM](/company-analysis/ibm/)), Cisco(US, [CSCO](/company-analysis/csco/))
     
 - **에너지**: Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -86,6 +90,8 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 - **인터모달 운송**: 컨테이너, 트레일러 등 복합화물 (매출의 약 15%)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 1. Archer Daniels Midland(US, ADM) – 곡물/식품
     
@@ -134,12 +140,16 @@ Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 �
 ## 주요주주(지분율)
 
 - The Vanguard Group (9%)
-    
+
+{{< adsense-infeed >}}
+
 - BlackRock (7%)
     
 - State Street Corporation (4%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Transportation ETF - IYT
     

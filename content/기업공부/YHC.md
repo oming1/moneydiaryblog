@@ -139,9 +139,13 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 
 **SWOL 테킬라:** 자체 개발 프리미엄 테킬라 브랜드 (캐나다, 영국, 그리스, 태국 진출)
 
+{{< adsense-infeed >}}
+
 **CWSpirits.com 플랫폼:** 온라인 주류 마켓플레이스 (다양한 브랜드 판매)
 
 **디지털 마케팅 서비스:** 주류 브랜드 전문 마케팅 서비스 (주요 수익원)
+
+{{< adsense-infeed >}}
 
 **브랜드 라이선싱:** 제3자 브랜드 라이선싱 및 독점 유통권
 
@@ -153,6 +157,8 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 
 **포장재:** 병, 라벨, 박스 등 주류 포장재
 
+{{< adsense-infeed >}}
+
 **기술 인프라:** 웹 플랫폼 운영, 서버 비용, 소프트웨어 라이선스
 
 **마케팅 비용:** 디지털 광고비, 인플루언서 협력비, 콘텐츠 제작비
@@ -162,6 +168,8 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 ## 주요 고객 
 
 **유통 파트너:**
+
+{{< adsense-infeed >}}
 
 - Of The Earth Distribution (캐나다, 아시아 진출)
 - Access Fulfillment (유럽 시장)

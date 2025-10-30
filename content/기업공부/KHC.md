@@ -34,6 +34,8 @@ Kraft Heinz Company는 식품 및 음료 제조 기업으로, 주요 사업 영�
 
 2015년 Kraft Foods와 H.J. Heinz Company의 합병으로 탄생한 Kraft Heinz는 북미에서 3위, 전 세계에서 5위 규모의 식품 및 음료 기업입니다.
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. Heinz 케첩 및 소스류
@@ -57,11 +59,15 @@ Kraft Heinz는 전 세계 40개국 이상에서 사업을 영위하고 있으며
 4. General Mills (US)
 5. Mondelez International (US)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Kraft Heinz는 2023년 기준 전 세계 식품 및 음료 기업 중 5위를 차지하고 있습니다. 2023년 연간 매출액은 약 270억 달러를 기록했습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2023년 조미료 및 소스 부문 글로벌 매출 89억 달러 달성 (2024년)
 2. 지속적인 제품 혁신 및 건강식품 라인 확대 (2022-2024년)

@@ -58,6 +58,8 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 
 ## 후방산업:
 
+{{< adsense-infeed >}}
+
 1. 원유 생산: 석유 탐사 및 생산 기업
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
@@ -85,9 +87,13 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
     
 4. 화학 제품 생산: 석유화학 제품 제조
-    
+
+{{< adsense-infeed >}}
+
     - LyondellBasell(US, [LYB](/company-analysis/lyb/)), Dow Inc.(US, [DOW](/company-analysis/dow/))
-    
+
+{{< adsense-infeed >}}
+
 5. 유통 및 마케팅: 주유소 네트워크, 직접 판매
     
     - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Shell(NL, SHEL)
@@ -135,6 +141,8 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Marathon Petroleum은 미국 정유 산업에서 약 15-20%의 시장 점유율을 보유하고 있는 것으로 추정됩니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -34,6 +34,8 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 혁신적인 항체 발견 플랫폼: AI와 단일세포 기술을 결합한 고유의 접근 방식으로 빠르고 효율적인 항체 발견 가능
 2. 다양한 파트너십: Pfizer, Merck, GSK 등 주요 제약 및 바이오테크 기업들과의 협력 관계 구축
 3. 광범위한 항체 라이브러리: 다양한 종에서 추출한 대규모 항체 데이터베이스 보유
@@ -49,6 +51,8 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 - 임상시험: IQVIA(US, [IQV](/company-analysis/iqv/)), Parexel International
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 실험실 장비: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Danaher(US, [DHR](/company-analysis/dhr/))
 - AI/ML 기술: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
@@ -91,6 +95,8 @@ AbCellera의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 - COVID-19 항체 치료제 bamlanivimab의 긴급사용승인 취소로 인한 매출 감소 (2022년)
 - 신규 AI 모델 도입으로 항체 발견 속도 2배 향상 (2024년)
 - ESG 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2023년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

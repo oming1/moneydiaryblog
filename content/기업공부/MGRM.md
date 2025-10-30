@@ -24,6 +24,8 @@ weight: 568
 
 ## 4. 영위사업 (10줄 이상 상세 서술)
 
+{{< adsense-infeed >}}
+
 Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 의료 기술 회사로, 정형외과 수술, 특히 무릎관절 치환술에 특화된 완전 자율 수술 로봇을 개발하고 있습니다. 회사의 핵심 제품인 mBôs(Monogram Bionic Orthopedic System)는 독일 산업용 로봇을 기반으로 개발된 1.3미터 로봇 암에 정밀 절삭 도구를 장착한 완전 자율 수술 시스템입니다.
 
 회사는 2023년 5월 17일 IPO를 통해 NASDAQ에 상장되었으며, 상장 시 주당 7.25달러에 240만 주를 발행하여 약 1,740만 달러를 조달했습니다. 현재 회사는 상업화 전 단계의 [바이오테크](/industry-study/바이오테크/) 기업으로, [주요 수익원은 아직 없으며 연구개발과 임상시험에 집중]하고 있습니다.
@@ -198,6 +200,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 - 매출비중: 향후 주요 수익원 (현재 개발 단계)
 - 주요 경쟁사: Zimmer Biomet([ZBH](/company-analysis/zbh/)), DePuy Synthes([JNJ](/company-analysis/jnj/))
 
+{{< adsense-infeed >}}
+
 **AI 기반 수술 계획 소프트웨어:**
 
 - 사용처: 수술 전 계획 및 내비게이션
@@ -242,6 +246,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 - Mount Sinai Health System(US, 의료기관) - 기술 개발 협력
 
 **인수 후 예상 고객 (Zimmer Biomet 네트워크):**
+
+{{< adsense-infeed >}}
 
 - Mayo Clinic(US, 의료기관) - 종합 의료 센터
 - Cleveland Clinic(US, 의료기관) - 정형외과 전문
@@ -382,6 +388,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 
 **2023년:**
 
+{{< adsense-infeed >}}
+
 - 5월 17일: NASDAQ IPO 상장 (주당 $7.25, $1,740만 조달)
 - 9월: Mount Sinai와 기술 개발 협력 체결
 - 11월: 첫 번째 cadaver 테스트 성공적 완료
@@ -457,6 +465,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 3. **경쟁 심화**: 기존 대형 의료기기 업체들의 로봇 기술 개발 가속화
 
 ### 투자 전략:
+
+{{< adsense-infeed >}}
 
 **단기 (인수 완료 시점까지):**
 

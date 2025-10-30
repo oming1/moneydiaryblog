@@ -37,6 +37,8 @@ United Airlines Holdings Inc.는 1926년 설립된 미국의 대형 항공사로
 
 1년 이내 최근 이슈로는 2025년 1분기 기록적인 매출 132억 달러 달성, 1,000대 항공기 보유 달성, 2025년 가이던스 제시, 40대 Airbus A321neo 추가 주문 등이 있습니다. 최근 1년 주가동향은 52주 최고가 $116.00에서 최저가 $37.02로 큰 변동을 보였으며, 현재 주가 $80.18로 업황 회복 기대와 함께 변동성을 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 비즈니스 모델(수익 모델)
@@ -51,6 +53,8 @@ United Airlines의 비즈니스 모델은 허브 앤 스포크(Hub-and-Spoke) �
 - 부가 서비스: 수하물, 좌석 선택, 기내 Wi-Fi, 우선 탑승
 
 **2. MileagePlus 로열티 프로그램 (매출 약 9% 비중):**
+
+{{< adsense-infeed >}}
 
 - 마일 판매: 크레딧카드 회사 및 파트너사에게 마일 판매
 - 연간 53억 달러의 마일 판매 수익 창출
@@ -134,6 +138,8 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - United Technical Operations를 통한 정비
 - 예방 정비 및 부품 관리
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 전방산업 / 후방산업
@@ -182,7 +188,11 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 **국내선 승객 운송:** 미국 내 주요 도시 간 항공 운송 서비스, 매출 비중 약 65% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
+
+{{< adsense-infeed >}}
 
 **국제선 승객 운송:** 6개 대륙 연결 국제 노선 항공 운송, 매출 비중 약 26% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
 

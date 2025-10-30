@@ -26,11 +26,15 @@ weight: 521
 
 Lumentum Holdings Inc.는 2015년 JDS Uniphase Corporation에서 분사된 미국의 광학 및 포토닉스(photonics) 솔루션 전문기업입니다. 본사는 캘리포니아주 산호세에 위치하며, 광통신 분야의 핵심 부품과 솔루션을 개발·제조하는 글로벌 선도업체입니다.
 
+{{< adsense-infeed >}}
+
 회사는 크게 두 개의 주요 사업부문으로 구성되어 있습니다. 
 
 Cloud & Networking 부문은 전체 매출의 약 79%를 차지하며, [데이터센터](/industry-study/데이터센터/), [클라우드](/industry-study/2산업클라우드/) 인프라, 텔레콤 네트워크용 광통신 제품을 공급합니다. 
 
 Industrial Tech 부문은 21%의 매출을 담당하며, 3D 센싱, 산업용 레이저, 상업용 레이저 등을 제공합니다.
+
+{{< adsense-infeed >}}
 
 주요 제품군으로는 EML(Electro-absorption Modulated Laser) 칩, VCSEL(Vertical-Cavity Surface-Emitting Laser), 고속 광트랜시버, 옵티컬 스위치 등이 있습니다. 특히 Apple의 iPhone Face ID 기술에 사용되는 VCSEL 부품의 주요 공급업체로 알려져 있습니다.
 
@@ -153,6 +157,8 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 
 **인듐(Indium):** EML 칩 제조용, 주요 공급지 중국/페루, 주요 공급업체 Korea Zinc(KR, Korea Zinc) 
 
+{{< adsense-infeed >}}
+
 **갈륨(Gallium):** VCSEL 제조용, 주요 공급지 중국/독일, 주요 공급업체 Freiberger Compound(DE, Freiberger)  
 
 **비소(Arsenic):** 화합물 반도체용, 주요 공급지 중국/칠레, 주요 공급업체 Yunnan Tin(CN, Yunnan Tin) 
@@ -206,6 +212,8 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - 2022년: 13.9% (EML 칩 기준 2위)
 - 3년간 추이: +2.9%p 증가
 
+{{< adsense-infeed >}}
+
 광통신 부품 전체 시장 기준으로는 약 8-10% 점유율을 차지하며, 특히 고속 EML 칩 분야에서는 업계 1위를 유지하고 있습니다.
 
 ---
@@ -249,6 +257,8 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - VanEck Semiconductor ETF SMH - 반도체 포함
 - SPDR S&P Semiconductor ETF XSD - 반도체 업종
 - iShares Semiconductor ETF SOXX - 반도체 집중
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

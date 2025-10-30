@@ -99,6 +99,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 
 ### 핵심 기술
 
+{{< adsense-infeed >}}
+
 - **하모닉 드라이브:** 고정밀 기어 감속기로, 로봇 팔과 협동 로봇에 최적화.
 - **서보 모터:** 고속, 고정밀 모션 컨트롤.
 - **정밀 기어박스:** 고강성, 경량 설계로 에너지 효율성 향상.
@@ -152,6 +154,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 주요 제품
+
+{{< adsense-infeed >}}
 
 - **Harmonic Drive 감속기:** 로봇 팔, 매출비중 50%(2024), 경쟁사 [Nabtesco](/company-analysis/nabtesco/), Sumitomo Heavy.
 - **서보 모터:** 모션 컨트롤, 매출비중 30%(2024), 경쟁사 [Yaskawa](/company-analysis/yaskawa/), [Fanuc](/company-analysis/fanuc/).
@@ -232,6 +236,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ### 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - ROBO - Global X Robotics & Artificial Intelligence ETF ROBO.
 - BOTZ - Global X Robotics & AI ETF BOTZ.

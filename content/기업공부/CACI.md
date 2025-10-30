@@ -38,6 +38,8 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 4. **강력한 고객 관계**: 미국 정부 및 방산 기업들과의 장기 계약 체결
 5. **재무 건전성**: 안정적인 수익원과 강력한 현금 흐름 유지
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -76,6 +78,8 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국을 중심으로 유럽 및 아시아 일부 국가에서 활동 중입니다.
 
 ## 경쟁업체
@@ -85,7 +89,11 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - Science Applications International Corporation(US, SAIC): 방산 및 IT 솔루션 제공
 - General Dynamics Corporation(US, [GD](/company-analysis/gd/)): 방산 및 정보 기술 서비스 제공
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 국방 분야에서 강세를 나타내고 있습니다.
 
@@ -98,6 +106,8 @@ CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 
 - 주요 인수합병을 통한 사업 다각화 추진 (2021년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)

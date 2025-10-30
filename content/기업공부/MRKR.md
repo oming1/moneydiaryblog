@@ -130,6 +130,8 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 - MD Anderson Cancer Center: 주요 임상시험 수행 기관
 - City of Hope: 림프종 임상시험 협력 기관
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요 제품
@@ -240,6 +242,8 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 - 9월: FDA로부터 200만 달러 보조금 수혜
 - 12월: 링컨파크와 2,500만 달러 주식 매입 계약
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요 주주 (지분율)
@@ -260,6 +264,8 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 ## 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - IBB - iShares Biotechnology ETF IBB
 - XBI - SPDR S&P Biotech ETF XBI

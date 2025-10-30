@@ -21,6 +21,8 @@ weight: 939
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Vertiv Holdings Co(NYSE: VRT)는 [데이터센터](/industry-study/데이터센터/), 통신 네트워크, 상업 및 산업 환경에 중요한 인프라와 서비스를 제공하는 미국의 다국적 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 중요 인프라 및 솔루션: AC 및 DC 전력 관리, 열 관리, 통합 모듈형 솔루션
@@ -85,11 +87,15 @@ Vertiv는 전 세계 130개 이상의 국가에서 사업을 영위하고 있으
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Schneider Electric(FR, [SU](/company-analysis/su/)) - 전력 관리 및 자동화 솔루션
 - Eaton Corporation(IE, [ETN](/company-analysis/etn/)) - 전력 관리 솔루션
 - Emerson Electric(US, [EMR](/company-analysis/emr/)) - 자동화 솔루션
 - ABB(CH, ABBN) - 전력 및 자동화 기술
 - Delta Electronics(TW, 2308) - 전력 및 열 관리 솔루션
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -103,6 +109,8 @@ Vertiv는 데이터 센터 냉각 시장에서 약 20%, UPS 시장에서 약 15%
 - 5G 및 엣지 컴퓨팅 관련 솔루션 라인업 확대 (2023년)
 - AI 및 고밀도 컴퓨팅을 위한 냉각 솔루션 개발 강화 (2024년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 - The Vanguard Group (8.17%)
@@ -110,6 +118,8 @@ Vertiv는 데이터 센터 냉각 시장에서 약 20%, UPS 시장에서 약 15%
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Technology ETF - IYW
 - Invesco S&P 500 Equal Weight Technology ETF - RYT

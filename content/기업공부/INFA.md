@@ -21,6 +21,8 @@ weight: 444
 
 산업: 소프트웨어
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우드 데이터 관리 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -28,7 +30,9 @@ Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우�
 1. 데이터 통합 및 엔지니어링
     
 2. 데이터 품질 및 거버넌스
-    
+
+{{< adsense-infeed >}}
+
 3. 마스터 데이터 관리(MDM)
     
 4. 클라우드 데이터 관리
@@ -52,6 +56,8 @@ Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우�
 5. 지속적인 혁신 및 R&D 투자
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Intelligent Data Management Cloud(IDMC): AI 기반 통합 데이터 관리 플랫폼, 매출의 약 70% (2024년 기준)
     
@@ -95,6 +101,8 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (11.66%)
     
 - BlackRock (9.17%)
@@ -110,5 +118,7 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
 - First Trust Cloud Computing ETF - SKYY
     
 - Global X Cloud Computing ETF - CLOU
-    
+
+{{< adsense-infeed >}}
+
 - WisdomTree Cloud Computing Fund - WCLD

@@ -83,6 +83,8 @@ weight: 106
 2단계: 부품 가공 및 조립  
 3단계: 최종 품질 검사 및 출하
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 전방산업 / 후방산업
@@ -100,6 +102,8 @@ weight: 106
 ---
 
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 **부품 공급 단계:**
 
@@ -137,6 +141,8 @@ weight: 106
 - General Motors(US, [GM](/company-analysis/gm/)) - 승용차 및 상용차용 부품
 - Stellantis(US, [STLA](/company-analysis/stla/)) - 다양한 차량용 부품
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
@@ -153,6 +159,8 @@ weight: 106
 - GKN(UK, GKN) - 구동계 부품, 시장점유율 10%
 - Tenneco(US, TEN) - 서스펜션 부품, 시장점유율 8%
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -167,6 +175,8 @@ weight: 106
 ---
 
 ### 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 - **매출 성장률:** 3년 CAGR 10.2%
 - **영업 이익률:** 6.5% (2023년)

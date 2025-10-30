@@ -20,7 +20,11 @@ weight: 860
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로, 주로 나트륨 냉각 고속 원자로인 Natrium 기술을 개발하고 있습니다. 안전하고 경제적이며 지속 가능한 원자력 에너지 솔루션을 제공하는 것이 목표입니다.
+
+{{< adsense-infeed >}}
 
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
@@ -43,7 +47,9 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 ## 밸류체인
 
 - 원자로 설계 및 개발:
-    
+
+{{< adsense-infeed >}}
+
     - TerraPower는 자체적으로 Natrium 기술을 개발합니다.
     - 대표 기업: NuScale Power (미국, [SMR](/industry-study/smr/)), X-energy (미국, [XE](/company-analysis/xe/))
     
@@ -63,11 +69,15 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - NuScale Power (미국, [SMR](/industry-study/smr/)) - 소형 모듈형 원자로
 - X-energy (미국, [XE](/company-analysis/xe/)) - 고온가스로
 - OKLO (미국, [OKLO](/company-analysis/oklo/)) - 마이크로 원자로
 - GE Hitachi Nuclear Energy (미국/일본, 비상장)
 - RosAtom(러시아)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -78,9 +78,13 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     - **시장점유율**: 글로벌 시장 점유율 10% (2021년 기준)
 
 1. **WestRock (미국, WRK)**
-    
+
+{{< adsense-infeed >}}
+
     - **경쟁 제품**: 산업용 종이, 포장재
     - **시장점유율**: 글로벌 시장 점유율 8% (2021년 기준)
+
+{{< adsense-infeed >}}
 
 1. **Glatfelter (미국, GLT)**
     
@@ -88,5 +92,7 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     - **시장점유율**: 글로벌 시장 점유율 5% (2021년 기준)
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **Schweitzer-Mauduit International (미국, SWM)**: 글로벌 시장 점유율 7% (2021년 기준)

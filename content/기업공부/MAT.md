@@ -22,6 +22,8 @@ weight: 547
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구/) 제조 기업입니다. 1945년 설립된 이 회사는 세계적으로 유명한 장난감 브랜드를 다수 보유하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 인형 카테고리: Barbie, American Girl 등
@@ -40,6 +42,8 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 5. 라이선싱 비즈니스: 다양한 산업 분야와의 협업을 통한 수익 다각화
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -63,9 +67,13 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 중국, 영국, 캐나다, 호주, 독일, 프랑스, 일본, 브라질, 멕시코
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Hasbro(US, [HAS](/company-analysis/has/)): 다양한 완구 및 게임 브랜드 보유
 - LEGO Group(DK): 블록 완구 시장 선도
@@ -76,6 +84,8 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 ## 산업 내 글로벌 시장 점유율
 
 Mattel은 2024년 기준 글로벌 완구 시장에서 약 15%의 점유율을 보유하고 있으며, LEGO Group과 Hasbro에 이어 3위를 차지하고 있습니다. 인형 카테고리에서는 Barbie 브랜드를 통해 약 30%의 시장 점유율로 선두를 유지하고 있습니다. 최근 3년간 전체 시장 점유율은 안정적으로 유지되고 있으나, 디지털 완구 및 교육 완구 분야에서 점진적인 성장을 보이고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

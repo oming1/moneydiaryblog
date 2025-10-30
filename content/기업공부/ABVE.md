@@ -192,6 +192,8 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **대체육 제조업체** - 식물성 고기 대체품 단백질 원료  
 
+{{< adsense-infeed >}}
+
 **글루텐 프리 제품 제조업체** - 렌틸콩 및 콩류 가루 공급  
 
 **건강식품 제조업체** - 기능성 원료 및 단백질 공급  
@@ -219,6 +221,8 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **- Borealis Foods (US, BRLS)**  
 식물성 단백질 및 대체육 원료 공급업체
+
+{{< adsense-infeed >}}
 
 **- Bridgford Foods (US, BRID)**  
 냉동 및 건조 식품 원료 제조업체
@@ -293,10 +297,14 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **주요 위험 요소:**
 
+{{< adsense-infeed >}}
+
 - 기상 변화에 따른 작물 수확량 변동성
 - 원자재 가격 변동 및 농업 비용 상승
 - Palm Global 합병에 따른 사업 모델 변화 리스크
 - 나스닥 상장 규정 준수 요구사항
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -146,7 +146,11 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 **디지털자산 서비스 단계:** 기관투자자 대상 포괄적 디지털자산 서비스
+
+{{< adsense-infeed >}}
 
 - Coinbase(US, [COIN](/company-analysis/coin/)) - 암호화폐 거래소 및 커스터디 서비스
 - Binance(US, Binance) - 글로벌 암호화폐 거래소
@@ -181,6 +185,8 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 
 **AI 데이터센터:** 고성능컴퓨팅 인프라 임대 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 CoreWeave, AWS
 
+{{< adsense-infeed >}}
+
 **투자은행 서비스:** M&A 자문 및 자본시장 서비스, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 Goldman Sachs, Morgan Stanley
 
 ---
@@ -208,6 +214,8 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 ---
 
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 - CoreWeave(US, CoreWeave) - AI 클라우드 서비스 업체, Helios 데이터센터 15년 임대 고객
 - BlackRock(US, [BLK](/company-analysis/blk/)) - 세계 최대 자산운용사, 비트코인 ETF 파트너
@@ -237,6 +245,8 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 - 아시아: 약 5% (2024년 기준) - 아시아 태평양 기관투자자
 
 최근 3년간 미국 시장 집중도가 높아지고 있으며, 특히 AI 데이터센터 사업을 통해 미국 내 매출 비중이 증가하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -55,6 +55,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 
 **임차인 유형별 수익 구조:**
 
+{{< adsense-infeed >}}
+
 - 주택건설업체: 34% (모델하우스 트리플넷 리스)
 - 상업용 임차인: 66% (다양한 업종)
 
@@ -97,6 +99,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ## 7. 핵심 기술
 
 **부동산 투자 분석 기술:**
+
+{{< adsense-infeed >}}
 
 - 2차 및 3차 시장 투자 기회 발굴 능력
 - 부동산 가치 평가 및 리스크 분석
@@ -161,6 +165,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - 건설업: 자산 개선 및 유지보수
 - 금융업: 자금 조달 및 금융 서비스
 - 법무 서비스: 부동산 거래 법무 지원
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -262,6 +268,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ---
 
 ## 14. 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 **현재 운영 지역:**
 
@@ -414,6 +422,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - SPDR S&P 600 Small Cap ETF(SLY) - 소형주 ETF
 
 **배당 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - Vanguard Dividend Appreciation ETF(VIG) - 배당 성장 ETF
 - iShares Select Dividend ETF(DVY) - 배당 ETF

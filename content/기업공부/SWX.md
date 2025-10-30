@@ -21,6 +21,8 @@ weight: 845
 
 산업: 가스 유틸리티(Gas Utilities)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로, 주로 아리조나, 네바다, 캘리포니아 지역에서 천연가스 구매, 유통 및 운송 서비스를 제공합니다. 회사는 두 개의 주요 사업 부문을 운영하고 있습니다:
@@ -76,6 +78,8 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 4. 가스 유통: Southwest Gas Holdings(US, [SWX](/company-analysis/swx/)) (가스 유틸리티 서비스)
 5. 소비자 서비스: Southwest Gas Holdings(US, [SWX](/company-analysis/swx/)) (고객 서비스)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 주거용 천연가스 공급 서비스 (매출 비중: 약 40%, 2023년 기준)
@@ -84,6 +88,8 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 4. 유틸리티 인프라 서비스 (매출 비중: 약 30%, 2023년 기준)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 1. 주거용 고객 (가정)
 2. 상업용 고객 (소매점, 사무실 등)
@@ -122,6 +128,8 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 3. Vanguard Fiduciary Trust Co. (9.280%)
 4. Corvex Management LP (6.647%)
 5. Fidelity Management & Research Co. LLC (4.483%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

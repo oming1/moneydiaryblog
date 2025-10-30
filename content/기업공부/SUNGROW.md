@@ -22,7 +22,11 @@ weight: 840
 
 Sungrow Power Supply Co., Ltd.는 태양광 인버터, 풍력 발전 변환기, 에너지 저장 시스템([ESS](/industry-study/ess/)), 신재생 에너지 차량 구동 시스템 및 수상 태양광 장비를 연구, 개발, 생산, 판매 및 서비스하는 글로벌 선도 기업입니다 주요 사업으로는 태양광 인버터, 에너지 저장 시스템, 수상 태양광 시스템, 전기차 충전 솔루션, 재생 가능 [수소](/industry-study/수소/) 생산 시스템 등이 있습니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **재활용 산업**: 재활용된 자재 공급 (예: International Paper (US, [IP](/company-analysis/ip/)))
@@ -51,6 +55,8 @@ Sungrow Power Supply Co., Ltd.는 태양광 인버터, 풍력 발전 변환기, 
 - **중국**: 본사가 위치한 주요 시장
 - **미국**: 주요 판매국가로 포함됨
 - **유럽**: 다양한 국가에서 판매
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

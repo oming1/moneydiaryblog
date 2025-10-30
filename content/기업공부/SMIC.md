@@ -22,6 +22,8 @@ weight: 803
 섹터: 정보기술  
 산업: [반도체](/industry-study/반도체/)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) 제조 서비스를 제공합니다. 350nm에서 7nm까지의 다양한 공정 기술을 보유하고 있으며, 로직, 혼합신호, RF, 고전압, 이미지센서 등 다양한 제품을 생산합니다. 
@@ -65,7 +67,9 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 후방산업:
 
 - 반도체 장비: 리소그래피, 식각 장비 (ASML(NL, [ASML](/company-analysis/asml/)), Applied Materials(US, [AMAT](/company-analysis/amat/)))
-    
+
+{{< adsense-infeed >}}
+
 - 소재: 웨이퍼, 포토레지스트 (Shin-Etsu Chemical(JP, 4063), JSR Corporation(JP, 4185))
 
 ## 밸류체인
@@ -153,5 +157,7 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 3. Invesco China Technology ETF - CQQQ
     
 4. KraneShares CICC China 5G & Semiconductor ETF - KFVG
-    
+
+{{< adsense-infeed >}}
+
 5. Global X China Semiconductor ETF - CHIS

@@ -23,12 +23,16 @@ weight: 780
 SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인버터 시스템을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업으로는 전력 최적화기, 인버터, 배터리 저장 솔루션([ESS](/industry-study/ess/)), 전기차 충전기, 스마트 에너지 관리 소프트웨어 등이 있습니다
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     - **태양광 설치**: 태양광 패널 및 시스템 설치 (예: Sunrun (US, [RUN](/company-analysis/run/)))
     - **에너지 저장**: 에너지 저장 시스템 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)))
 - **후방산업**:
     - **반도체 제조**: 태양광 인버터용 반도체 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)))
     - **배터리 제조**: 에너지 저장 배터리 공급 (예: Panasonic (JP, 6752))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -38,6 +42,8 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **서비스 제공**: 에너지 관리 소프트웨어 및 유지보수 서비스 제공 (SolarEdge Technologies)
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **전력 최적화기**: 태양광 패널의 전력 출력을 최적화
 - **인버터**: 태양광 패널의 DC 전력을 AC 전력으로 변환(태양광 인버터)
@@ -50,6 +56,8 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **유럽**: 주요 판매국가로 독일, 네덜란드, 이탈리아 등이 포함됨
 - [**아시아**: 주요 판매국가로 일본, 중국 등이 포함됨](https://finance.yahoo.com/quote/SEDG/)[4](https://stockanalysis.com/stocks/sedg/company/)
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
 
 - **Enphase Energy (US, [ENPH](/company-analysis/enph/))**: 태양광 인버터 및 에너지 관리 솔루션
@@ -57,6 +65,8 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **Huawei Technologies (CN, 비상장)**: 태양광 인버터 및 시스템
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 [SolarEdge Technologies는 글로벌 태양광 인버터 시장에서 약 6.15%의 점유율을 보유하고 있습니다 (2024년 기준)](https://finance.yahoo.com/quote/SEDG/)[5](https://csimarket.com/stocks/competitionSEG2.php?code=SEDG).
 

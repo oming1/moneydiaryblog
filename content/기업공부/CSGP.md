@@ -20,6 +20,8 @@ weight: 242
 
 CoStar Group, Inc.는 상업용 부동산, 환대, 주거 및 관련 전문 산업에 정보, 분석 및 온라인 마켓플레이스 서비스를 제공하는 회사입니다. 주요 제품으로는 CoStar Property, CoStar Sales, CoStar Market Analytics, CoStar Tenant 등이 있으며, 다양한 부동산 관련 데이터베이스와 분석 도구를 제공합니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 **전방산업:**
@@ -31,6 +33,8 @@ CoStar Group, Inc.는 상업용 부동산, 환대, 주거 및 관련 전문 산�
 
 - 데이터 센터 운영업체: Equinix (US, [EQIX](/company-analysis/eqix/)), Digital Realty (US, [DLR](/company-analysis/dlr/))
 - 반도체 제조업체: Intel (US, [INTC](/company-analysis/intc/)), NVIDIA (US, [NVDA](/company-analysis/nvda/))
+
+{{< adsense-infeed >}}
 
 ### 주요제품
 
@@ -47,16 +51,22 @@ CoStar Group, Inc.는 상업용 부동산, 환대, 주거 및 관련 전문 산�
 - 아시아 태평양
 - 라틴 아메리카
 
+{{< adsense-infeed >}}
+
 ### 경쟁업체
 
 - **Global Payments (US, GPN):** 비즈니스 서비스 (시장 점유율 10%)
 - **FLEETCOR Technologies (US, FLT):** 비즈니스 서비스 (시장 점유율 8%)
 - **Fidelity National Information Services (US, FIS):** 비즈니스 서비스 (시장 점유율 7%)
 
+{{< adsense-infeed >}}
+
 ### 산업 내 글로벌 시장 점유율
 
 CoStar Group, Inc.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **인수 합병:** Matterport, Inc.([MTTR](/company-analysis/mttr/)) 인수 (2024년)
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

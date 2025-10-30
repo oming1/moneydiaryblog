@@ -24,12 +24,16 @@ Stellantis N.V.는 [자동차](/industry-study/자동차/) 및 경상용차의 �
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 자동차 판매 및 서비스
     - **핵심 산업**: 자동차 딜러, 자동차 서비스 센터
     - **관련 기업**: AutoNation (미국, [AN](/company-analysis/an/)), Penske Automotive Group (미국, [PAG](/company-analysis/pag/))
 - **후방산업**: 자동차 부품 및 원자재 공급
     - **핵심 산업**: 자동차 부품 제조, 원자재 공급
     - **관련 기업**: Magna International (캐나다, [MGA](/company-analysis/mga/)), Bosch (독일, BOSCHLTD)
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -60,7 +64,11 @@ Stellantis N.V.는 [자동차](/industry-study/자동차/) 및 경상용차의 �
 - **주요 판매국가**: 미국, 캐나다, 멕시코, 브라질, 아르헨티나, 영국, 독일, 프랑스, 이탈리아, 스페인, 중국, 일본, 한국
 - **최근 3년간 추이**: 미국과 유럽에서의 판매가 꾸준히 증가하고 있으며, 특히 전기차 판매가 급증하고 있습니다.
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Ford Motor Company (미국, [F](/company-analysis/f/))**
     - **경쟁 제품**: Ford F-150, Ford Mustang

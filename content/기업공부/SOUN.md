@@ -25,7 +25,11 @@ SoundHound AI, Inc.(NASDAQ: SOUN)는 2005년 설립된 음성 인공지능 기�
 4. AI 기반 제품: Smart Answering, Smart Ordering, Dynamic Interaction 등 AI 기반 고객 서비스 솔루션
 5. SoundHound Chat AI: 생성형 AI가 통합된 음성 비서 기술
 
+{{< adsense-infeed >}}
+
 최근 1년 내 주요 이슈로는 White Castle, Jersey Mike's Subs 등과의 AI 주문 시스템 파트너십 체결, Allset 인수를 통한 레스토랑 주문 플랫폼 확장, 그리고 Amelia AI 인수를 통한 금융, 보험, 헬스케어 분야로의 진출 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -62,6 +66,8 @@ SoundHound AI의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - Hyundai(KR, 005380) - 차량용 음성 인터페이스
 - Mercedes-Benz(DE, MBG) - 차량용 음성 제어 시스템
 - Honda(JP, 7267) - 차량 인포테인먼트 시스템
@@ -69,6 +75,8 @@ SoundHound AI의 핵심 경쟁력은 다음과 같습니다:
 - Jersey Mike's Subs - 음성 AI 주문 솔루션
 - Chipotle(US, [CMG](/company-analysis/cmg/)) - 음성 주문 기술
 - Pandora(US, P) - 음악 검색 및 추천 기능
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -89,6 +97,8 @@ SoundHound AI의 핵심 경쟁력은 다음과 같습니다:
 SoundHound AI의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 음성 AI 및 대화형 AI 시장에서 성장하고 있는 기업으로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Amelia AI 인수로 금융, 보험, 헬스케어 분야 진출 강화 (2024년)
 - Allset 인수를 통한 레스토랑 주문 플랫폼 확장 (2024년)

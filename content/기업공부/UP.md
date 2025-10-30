@@ -50,6 +50,8 @@ Wheels Up Experience Inc.는 멤버십 기반의 프라이빗 항공 플랫폼�
     - 에셋-라이트 전환을 통해 고정자산(보유 항공기)·정비 CAPEX 부담을 줄이고, 제휴 운영자·관리 기단 비중을 높여 변동비 구조로 재편.
     - 델타 네트워크·로열티 프로그램을 통한 고객 획득(CAC) 절감 및 프리미엄 고객 교차판매.
 
+{{< adsense-infeed >}}
+
 - 주요 리스크 요소
     
     - 연료·인건비(파일럿·정비) 상승과 공급 제약에 따른 단위비용 압박.
@@ -81,6 +83,8 @@ Wheels Up Experience Inc.는 멤버십 기반의 프라이빗 항공 플랫폼�
 - 고객 유형별 수익 구조
     - HNW/UHNW 개인, 패밀리오피스
     - 법인·스포츠/엔터테인먼트 단체, 단기 프로젝트 기반 B2B
+
+{{< adsense-infeed >}}
 
 - 지역별 매출 분포
     - 미국 본토 중심, 캐나다/카리브/멕시코 노선 일부, 대서양 횡단은 파트너 연계
@@ -157,6 +161,8 @@ Wheels Up Experience Inc.는 멤버십 기반의 프라이빗 항공 플랫폼�
 
 ### 주요 제품
 
+{{< adsense-infeed >}}
+
 - 멤버십(티어형): 우선 배정, 요금 할인, 좌석 공유 접근권(연도 기준 혜택 구조). 경쟁사: NetJets(버핏, [BRK.B](/company-analysis/brkb/) 계열, 프랙셔널/카드), Flexjet(비상장), VistaJet/XO(비상장).
 
 - 온디맨드 차터/좌석 공유: 단발·반복 이용 수요 대응. 경쟁사: Vista Global(XO), flyExclusive(US, FLYX), Blade(US, BLDE, 헬리·셔틀).
@@ -193,6 +199,8 @@ Wheels Up Experience Inc.는 멤버십 기반의 프라이빗 항공 플랫폼�
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - NetJets(US, [BRK.B](/company-analysis/brkb/)) – 프랙셔널/제트카드 1위
 - Vista Global(비상장, VistaJet/XO) – 글로벌 네트워크
 - Flexjet(비상장) – 프리미엄 프랙셔널
@@ -218,6 +226,8 @@ Wheels Up Experience Inc.는 멤버십 기반의 프라이빗 항공 플랫폼�
 ---
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2023년: 델타·투자자 컨소시엄의 재자본화, 지배구조 재편 및 유동성 안정.
 - 2024년: 에셋-라이트 전환 가속(관리·브로커리지 확대), 비핵심 자산 축소·비용 구조 개선.

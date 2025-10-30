@@ -101,6 +101,8 @@ iHeartMedia의 핵심 경쟁력은 미국 내 압도적인 오디오 미디어 �
 - Magnite(US, [MGNI](/company-analysis/mgni/)) - 디지털 광고 플랫폼 협력
 - Capital One(US, [COF](/company-analysis/cof/)) - 주요 스폰서십 파트너
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요제품
@@ -205,6 +207,8 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 
 **기관 투자자**: 87.26% (2025년 기준) **내부자**: 9.98% **개인 및 기타**: 2.76%
 
+{{< adsense-infeed >}}
+
 **주요 기관 투자자**:
 
 - Global Media & Entertainment Investments Ltd: 18.14M 주 (약 14.4%)
@@ -218,6 +222,8 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 ## 관련 ETF
 
 **커뮤니케이션 서비스 관련 ETF**:
+
+{{< adsense-infeed >}}
 
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX

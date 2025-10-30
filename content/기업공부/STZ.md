@@ -20,7 +20,11 @@ weight: 837
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생산하고 마케팅하는 미국 기업입니다[
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -40,6 +44,8 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 - 생산: 맥주 양조, 와인 제조, 증류주 생산
 - 유통: 도매업자 및 소매업자를 통한 유통
 - 마케팅 및 판매: 브랜드 홍보 및 소비자 판매
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

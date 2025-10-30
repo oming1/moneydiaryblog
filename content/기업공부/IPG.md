@@ -40,6 +40,8 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 - 소비재 기업: Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
 - 스포츠 용품 제조업체: Nike(US, [NKE](/company-analysis/nke/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 전략 및 기획: Interpublic Group
@@ -50,11 +52,15 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 광고 및 마케팅 서비스
 - 미디어 계획 및 구매
 - 디지털 마케팅
 - 데이터 관리 및 분석
 - PR 및 커뮤니케이션 서비스
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

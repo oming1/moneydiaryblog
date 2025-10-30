@@ -64,6 +64,8 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 3. 외래 진료 서비스
 4. 응급 의료 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 UHS의 주요 고객은 개인 환자, 의료보험 회사, 정부 기관(Medicare, Medicaid) 등입니다.
@@ -80,11 +82,15 @@ UHS는 주로 미국 내에서 사업을 영위하고 있으며, 일부 시설�
 4. Acadia Healthcare Company(US, [ACHC](/company-analysis/achc/)) - 행동 건강 시설 운영
 5. LifePoint Health(LifePoint Health) - 지역사회 병원 운영
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, UHS는 미국 내 행동 건강 서비스 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. Oracle Health와의 통합 EHR 시스템 도입 계약 체결 (2023)
 2. COVID-19 팬데믹 대응 및 영향 관리 (2021-2023)

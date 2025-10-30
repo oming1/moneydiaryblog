@@ -20,7 +20,11 @@ weight: 427
 
 **영위사업:** Husqvarna AB는 주로 야외 전동 공구, 정원 관리 제품, 건설 장비 등을 제조하고 판매합니다. 주요 제품으로는 체인톱, 잔디 깎기 기계, 로봇 잔디 깎기, 전동 공구 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업:**
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 건설, 조경, 농업
     - **핵심 산업:** 건설 프로젝트, 조경 서비스, 농업 관리
@@ -28,6 +32,8 @@ weight: 427
 - **후방산업:** 제조업, 원자재 공급
     - **핵심 산업:** 금속 가공, 전자 부품 제조
     - **관련 기업:** ArcelorMittal (룩셈부르크, [MT](/company-analysis/mt/)), Texas Instruments (미국, [TXN](/company-analysis/txn/))
+
+{{< adsense-infeed >}}
 
 **밸류체인:**
 
@@ -38,7 +44,11 @@ weight: 427
 - **유통:** 제품 유통 및 판매
     - **대표 회사:** Home Depot (미국, [HD](/company-analysis/hd/)) - 홈 개선 소매, Lowe’s (미국, [LOW](/company-analysis/low/)) - 홈 개선 소매
 
+{{< adsense-infeed >}}
+
 **주요제품:**
+
+{{< adsense-infeed >}}
 
 - **체인톱:** 나무 절단 및 벌목
 - **잔디 깎기 기계:** 잔디 관리

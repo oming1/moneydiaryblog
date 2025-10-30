@@ -32,21 +32,31 @@ weight: 433
     - **금융 기술**: 거래 플랫폼 및 기술 솔루션 제공. 주요 기업: Nasdaq (US, NDAQ), CME Group (US, CME).
     - **데이터 제공**: 금융 데이터 및 분석 서비스 제공. 주요 기업: Bloomberg, Refinitiv.
 
+{{< adsense-infeed >}}
+
 **밸류체인**:
 
 - **거래 플랫폼 개발**: 자동화된 전자 거래 플랫폼 개발. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Charles Schwab (US, [SCHW](/company-analysis/schw/)).
   
 - **거래 실행 및 청산**: 주식, 옵션, 선물 등 거래의 실행 및 청산. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), TD Ameritrade (US, [AMTD](/company-analysis/amtd/)).
-  
+
+{{< adsense-infeed >}}
+
 - **계좌 보관 및 서비스**: 투자자 계좌 보관 및 서비스 제공. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Fidelity Investments.
 
+{{< adsense-infeed >}}
+
 **주요제품**:
+
+{{< adsense-infeed >}}
 
 - **Trader Workstation (TWS)**: 고급 거래 플랫폼.
 - **IBKR Mobile**: 모바일 거래 애플리케이션.
 - **IBKR API**: 자동화된 거래를 위한 API.
 - **IBKR Lite**: 저비용 거래 옵션.
 - 정치 당선 베팅 : 대선 선거, 상원의원 선거
+
+{{< adsense-infeed >}}
 
 **경쟁업체**:
 

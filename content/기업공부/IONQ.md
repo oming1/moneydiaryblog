@@ -29,10 +29,14 @@ IonQ는 범용 [양자컴퓨팅](/industry-study/양자컴퓨팅/) 시스템을 
 - 반도체 제조업체: 양자 컴퓨터 부품 공급
 - 광학 기기 제조업체: 레이저 및 광학 시스템 공급
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 클라우드 서비스 제공업체: AWS, Azure, GCP 등과 파트너십
 - 국방 및 항공우주 산업: 미 공군 연구소 등 고객
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -42,7 +46,11 @@ IonQ는 범용 [양자컴퓨팅](/industry-study/양자컴퓨팅/) 시스템을 
 4. 클라우드 서비스 통합: AWS, Microsoft Azure, Google Cloud
 5. 최종 사용자: 기업, 연구기관, 정부 기관
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - IonQ Aria: 범용 접근 가능한 고성능 양자 시스템
 - IonQ Forte: 최고 성능의 상용 양자 시스템
@@ -59,6 +67,8 @@ IonQ는 범용 [양자컴퓨팅](/industry-study/양자컴퓨팅/) 시스템을 
 - Google(Alphabet Inc.의 자회사)(US, [GOOGL](/company-analysis/googl/))
 - Rigetti Computing(US, [RGTI](/company-analysis/rgti/))
 - D-Wave Systems(US, [QBTS](/company-analysis/qbts/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

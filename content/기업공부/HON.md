@@ -29,7 +29,11 @@ weight: 412
     - **핵심 산업:** 전자 부품 제조, 화학 제품 공급
     - **관련 기업:** Texas Instruments (미국, [TXN](/company-analysis/txn/)), 3M Company (미국, [MMM](/company-analysis/mmm/))
 
+{{< adsense-infeed >}}
+
 **밸류체인:**
+
+{{< adsense-infeed >}}
 
 - **원자재 공급:** 전자 부품, 화학 제품
     - **대표 회사:** Texas Instruments (미국, [TXN](/company-analysis/txn/)) - 전자 부품, BASF SE (독일, BAS) - 화학 제품
@@ -38,6 +42,8 @@ weight: 412
 - **유통:** 제품 유통 및 판매
     - **대표 회사:** Grainger (미국, GWW) - 산업용 제품 유통, Fastenal (미국, FAST 1) - 산업용 및 건설 제품 유통
 
+{{< adsense-infeed >}}
+
 **주요제품:**
 
 - **항공우주 부품:** 항공기 엔진, 항공 전자 장비
@@ -45,7 +51,11 @@ weight: 412
 - **산업용 소프트웨어:** 자동화 제어 시스템
 - **보호 장비:** 개인 보호 장비, 가스 감지기
 
+{{< adsense-infeed >}}
+
 **경쟁업체:**
+
+{{< adsense-infeed >}}
 
 - **General Electric (미국, [GE](/company-analysis/ge/)):** 항공우주, 에너지, 산업 자동화
 - **Siemens AG (독일, [SIE](/company-analysis/sie/)):** 산업 자동화, 건물 관리 시스템

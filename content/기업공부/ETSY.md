@@ -51,16 +51,22 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 전방산업:
 
 - 소매업: 수제품, 빈티지 상품 판매 (Amazon(US, [AMZN](/company-analysis/amzn/)), eBay(US, [EBAY](/company-analysis/ebay/)))
-    
+
+{{< adsense-infeed >}}
+
 - 패션 산업: 의류, 액세서리 판매 (ASOS(UK, ASC), Zalando(DE, ZAL))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 결제 처리: 온라인 결제 시스템 (PayPal(US, [PYPL](/company-analysis/pypl/)), Stripe(Stripe))
     
 - 물류 및 배송: 상품 배송 서비스 (FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/)))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 판매자 유치: Etsy 마케팅 팀, 파트너십 프로그램
     
@@ -79,7 +85,9 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 1. Etsy.com 마켓플레이스: 수제품, 빈티지 상품 거래 플랫폼 (2023년 매출의 약 85%)
     
 2. 판매자 서비스: Etsy Ads, Etsy Payments, 배송 라벨 등 (2023년 매출의 약 15%)
-    
+
+{{< adsense-infeed >}}
+
 3. 기타 브랜드: Reverb, Depop, Elo7 (매출 비중 미공개)
 
 ## 주요 판매국가
@@ -117,7 +125,9 @@ Etsy는 수제품 및 빈티지 상품 온라인 마켓플레이스 분야에서
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
-    
+
+{{< adsense-infeed >}}
+
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)

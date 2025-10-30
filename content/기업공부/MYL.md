@@ -31,6 +31,8 @@ Mylan은 2020년 11월 Pfizer의 Upjohn 사업부와 합병하여 Viatris가 되
 4. OTC 제품: 일반의약품 제조 및 판매
 5. API(원료의약품): 자사 제품 및 제3자 공급용
 
+{{< adsense-infeed >}}
+
 Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의 승인된 분자 제품을 판매하고 있으며, 수직 통합된 제조 플랫폼과 대규모 API 운영을 통해 글로벌 시장에서 경쟁력을 유지하고 있습니다.
 
 ## 핵심 경쟁력
@@ -46,6 +48,8 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 
 ## 전방산업:
 
+{{< adsense-infeed >}}
+
 1. 의료 서비스: 병원, 클리닉 등에서의 의약품 사용
     
     - HCA Healthcare(US, [HCA](/company-analysis/hca/))
@@ -53,7 +57,9 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 2. 약국 체인: 의약품 소매 유통
     
     - CVS Health(US, [CVS](/company-analysis/cvs/))
-    
+
+{{< adsense-infeed >}}
+
 3. 의약품 도매: 대규모 의약품 유통
     
     - McKesson Corporation(US, [MCK](/company-analysis/mck/))
@@ -89,7 +95,9 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 4. 유통: 도매 및 소매 유통
     
     - AmerisourceBergen(US, [ABC](/company-analysis/abc/)) (의약품 도매 유통)
-    
+
+{{< adsense-infeed >}}
+
 5. 소매: 약국을 통한 최종 소비자 판매
     
     - Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/)) (글로벌 약국 체인)
@@ -126,6 +134,8 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 Viatris(Mylan 포함)는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 점유율을 보유하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. Pfizer의 Upjohn 사업부와 합병하여 Viatris 설립 (2020)
 2. COVID-19 팬데믹 대응 및 관련 의약품 생산 (2020-2022)

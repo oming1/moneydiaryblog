@@ -22,6 +22,8 @@ weight: 564
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대의 자동차 부품 제조업체 중 하나입니다. 회사는 자동차 OEM(Original Equipment Manufacturer)을 위한 광범위한 제품과 시스템을 설계, 개발, 제조합니다.주요 사업 부문:
 
 1. Body Exteriors & Structures: 차체 구조, 외장 시스템, 섀시 시스템
@@ -30,6 +32,8 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 4. Complete Vehicles: 계약 제조 및 엔지니어링 서비스
 
 2024년 기준 총 매출은 약 400억 달러였으며, 전 세계 28개국에 걸쳐 158,000명 이상의 직원을 고용하고 있습니다. 최근에는 [전기차](/industry-study/2산업자동차-산업전기차/) 및 [자율 주행](/industry-study/자율-주행/) 기술에 대한 투자를 확대하고 있으며, 지속 가능한 모빌리티 솔루션 개발에 주력하고 있습니다.최근 주요 이슈로는LG전자와의 전기차 파워트레인 합작법인 설립, 자율주행 기술 개발을 위한 Veoneer 인수 등이 있었습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -40,6 +44,8 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 5. 통합 시스템 공급 능력: 개별 부품부터 완성차 제조까지 포괄하는 종합 솔루션 제공
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -53,6 +59,8 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 배터리 제조: LG Energy Solution(KR, 373220), CATL(CN, 300750)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 6. 원자재 조달: ArcelorMittal(LU, [MT](/company-analysis/mt/)) (철강 공급)
@@ -61,6 +69,8 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 9. 시스템 통합: Magna International(CA, [MGA](/company-analysis/mga/)) (모듈 및 시스템 조립)
 10. OEM 공급: General Motors(US, [GM](/company-analysis/gm/)) (완성차 제조사에 부품 공급)
 11. 애프터마켓: AutoZone(US, [AZO](/company-analysis/azo/)) (교체용 부품 유통)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

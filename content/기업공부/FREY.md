@@ -23,6 +23,8 @@ weight: 352
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 FREYR Battery Inc는 청정 배터리 솔루션을 개발 및 생산하는 노르웨이 기반의 기업입니다. 주요 사업 영역은 고밀도, 저비용 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 설계 및 제조, 전기 모빌리티용 배터리 솔루션 개발, 고정식 에너지 저장 시스템(ESS)용 배터리 생산, 해양 및 항공 분야를 위한 배터리 솔루션 제공 등입니다. 
 
 회사는 24M Technologies의 반고체 배터리 기술을 기반으로 혁신적인 제품을 개발하고 있습니다. FREYR는 노르웨이와 미국에서 대규모 생산 시설을 구축 중이며, 지속 가능한 에너지 전환을 위한 핵심 기술 제공을 목표로 하고 있습니다. 주요 경쟁자로는 Enovix Corp, Solid Power, Tesla, LG Chem 등이 있습니다.
@@ -57,6 +59,8 @@ FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠
 4. 시스템 통합: Siemens(DE, [SIE](/company-analysis/sie/)) (에너지 저장 시스템)
 5. 최종 사용자: Tesla(US, [TSLA](/company-analysis/tsla/)) (전기차), NextEra Energy(US, [NEE](/company-analysis/nee/)) (유틸리티)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 리튬이온 배터리 셀 (전기차, 에너지 저장용)
@@ -74,6 +78,8 @@ FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠
 ## 주요 판매국가
 
 FREYR Battery의 주요 판매국가는 유럽과 북미입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

@@ -112,6 +112,8 @@ Wayfair는 메인 브랜드인 Wayfair.com 외에도 Joss & Main(중간 가격�
 
 ## 제조 공정
 
+{{< adsense-infeed >}}
+
 Wayfair는 제조업체가 아닌 온라인 마켓플레이스이므로 직접적인 제조 공정은 없습니다. 대신 다음과 같은 운영 프로세스를 통해 고객에게 제품을 공급합니다:
 
 **1단계 - 공급업체 관리**: 전 세계 공급업체 발굴, 품질 검증, 계약 체결 및 카탈로그 관리
@@ -302,6 +304,8 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 
 **2025년:**
 
+{{< adsense-infeed >}}
+
 - 2분기 실적 서프라이즈: 매출 $3.27B (+5.0% YoY), 조정 EPS $0.87로 시장 예상 크게 상회
 - 주가 급등: 실적 발표 후 주가 13% 이상 상승, 2021년 이후 최고 성장률 기록
 - AI 기술 투자 확대: 개인화 추천 시스템 및 시각적 검색 기능 강화
@@ -347,6 +351,8 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 ## 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - **XLY** - Consumer Discretionary Select Sector SPDR Fund XLY (소비자재량 섹터 대표 ETF)
 - **VCR** - Vanguard Consumer Discretionary ETF VCR (저비용 소비자재량 ETF)

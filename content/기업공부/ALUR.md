@@ -58,6 +58,8 @@ Allurion Technologies Inc.(NYSE: ALUR)는 비만 치료(비만)를 위한 체중
 
 미국, 터키, 호주, 이탈리아, 칠레, 스페인, 영국, 프랑스
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - ReShape Lifesciences(US, RSLS)
@@ -78,7 +80,11 @@ Allurion Technologies의 정확한 글로벌 시장 점유율 데이터는 제�
 - 운영비용 50% 감축 및 인력 50% 감축 계획 수립 (2024년)
 - 실제 사용자 연구에서 평균 12.2% 체중 감량 효과 입증 (2023년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Xiande Li (15.3%)
 - Kangping Chen (10.2%)

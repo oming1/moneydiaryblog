@@ -28,9 +28,13 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
     
     - **핵심 산업 및 역할**: 소매업 및 엔터테인먼트 서비스 제공
     - **관련 기업**: Macy's (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
-    
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 부동산 개발 및 관리 서비스
     - **관련 기업**: CBRE Group (US, CBRE), JLL (US, JLL)
 
@@ -59,6 +63,8 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시장에서도 활동하고 있습니다.
 
 ## 경쟁업체
@@ -69,9 +75,13 @@ Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Simon Property Group는 미국 내 쇼핑몰 및 아울렛 시장에서 가장 큰 REIT 중 하나로, 상당한 시장 점유율을 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹 영향**: 팬데믹으로 인한 쇼핑몰 방문객 감소 및 임대 수익 감소 (2020-2021).
 - **디지털 전환**: 온라인 및 디지털 쇼핑 경험 강화 (2022).

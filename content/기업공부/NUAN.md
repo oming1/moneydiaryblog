@@ -37,6 +37,8 @@ Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자�
 - 기업 고객: American Airlines(US, [AAL](/company-analysis/aal/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 자동차 제조업체: 다양한 OEM 파트너십
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 연구개발: Nuance (자체 R&D)
@@ -51,9 +53,13 @@ Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자�
 - 기업용 AI 고객 서비스 솔루션
 - 모바일 및 IoT용 가상 비서 기술
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국, 유럽, 중동, 아시아-태평양
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -61,6 +67,8 @@ Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자�
 - Google(US, [GOOGL](/company-analysis/googl/))
 - Amazon(US, [AMZN](/company-analysis/amzn/))
 - IBM(US, [IBM](/company-analysis/ibm/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

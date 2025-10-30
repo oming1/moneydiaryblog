@@ -40,6 +40,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 
 ## 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 **수익 구조 세분화:**
 
 - **마켓플레이스 사업**: 전체 매출의 약 90% 차지 (2025년 2분기 기준)
@@ -52,6 +54,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
     - 약 50만 개 등록 공급업체 중 1% 광고주 침투율
 
 **지역별 매출 분포 (2025년 2분기 기준):**
+
+{{< adsense-infeed >}}
 
 - 북미: 약 85% (미국 중심의 성숙 시장)
 - 유럽: 약 12% (빠른 성장세, 31% YoY 성장)
@@ -118,6 +122,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 - **자동차:** Ford(US, [F](/company-analysis/f/)), General Motors(US, [GM](/company-analysis/gm/)) - 자동차 부품 및 프로토타입
 - **의료기기:** Medtronic(US, [MDT](/company-analysis/mdt/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) - 의료용 정밀 부품
 
+{{< adsense-infeed >}}
+
 **후방산업 (공급업체 산업):**
 
 - **소규모 제조업체:** 전국의 CNC 가공업체, 3D 프린팅 서비스업체 등
@@ -153,6 +159,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 **AI 기반 마켓플레이스 플랫폼:** 온디맨드 제조 서비스의 핵심 플랫폼, 매출 비중 90% (2025년 2분기), 경쟁사: Protolabs PRLB의 디지털 제조 서비스
 
 **Xometry Instant Quoting Engine:** AI 기반 즉시 견적 시스템, 차별화된 핵심 기술, 경쟁사: Fictiv, Hubs의 견적 시스템
+
+{{< adsense-infeed >}}
 
 **Thomas 산업 소싱 플랫폼:** B2B 산업 마켓플레이스 및 광고 서비스, 매출 비중 10% (88.9% 총이익률), 경쟁사: Alibaba [BABA](/company-analysis/baba/)의 1688.com
 
@@ -271,6 +279,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 - 현금 보유: 2억 4,100만 달러 (안정적인 재무 구조)
 
 **2025년 가이던스 (상향 조정):**
+
+{{< adsense-infeed >}}
 
 - 마켓플레이스 매출 성장률: 23-24% (기존 22% 이상에서 상향)
 - 전체 매출 성장률: 약 20%

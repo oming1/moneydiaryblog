@@ -26,6 +26,8 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
 - **전임상 및 임상 연구 서비스** (Preclinical and Clinical Research Services)
 - **첨단 치료제 CTDMO** (Contract Testing, Development and Manufacturing Organization)
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업 (Upstream/Downstream Industries)
 
 - **전방산업:** 제약 및 바이오테크 기업 (신약 개발 및 상업화 지원)
@@ -49,6 +51,8 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
 - **첨단 치료제** (세포 및 유전자 치료제 개발 및 상업화 지원)
 - **임상 시험 서비스** (전임상부터 임상 시험까지 지원)
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가 (Major Sales Countries)
 
 - **미국:** 매출의 62% (2024년 기준)
@@ -60,6 +64,8 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
 - **Pharmaron** (CN, 300759): CRO 및 CDMO 서비스 제공
 - **Charles River Laboratories** (US, [CRL](/company-analysis/crl/)): 전임상 및 임상 연구 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율 (Global Market Share)
 

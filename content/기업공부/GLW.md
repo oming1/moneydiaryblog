@@ -144,6 +144,8 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 
 **제조 및 가공 단계:**
 
+{{< adsense-infeed >}}
+
 - Corning: 독자 기술력 기반 특수유리 제조 및 가공
 - 협력업체: 2차 가공 및 조립 서비스 제공
 
@@ -201,6 +203,8 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - Verizon(US, [VZ](/company-analysis/vz/)) - 5G 네트워크용 광통신 솔루션
 - Lumen Technologies(US, [LUMN](/company-analysis/lumn/)) - AI 데이터센터용 광섬유 공급
 - T-Mobile(US, [TMUS](/company-analysis/tmus/)) - 5G 인프라용 광케이블
+
+{{< adsense-infeed >}}
 
 **디스플레이 제조사:**
 
@@ -377,6 +381,8 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - VYM - Vanguard High Dividend Yield ETF VYM
 - SCHD - Schwab US Dividend Equity ETF SCHD
 - DVY - iShares Select Dividend ETF DVY
+
+{{< adsense-infeed >}}
 
 **대형주/성장주 ETF:**
 

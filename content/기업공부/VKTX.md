@@ -74,7 +74,9 @@ weight: 931
 	릴리 [올포글리프론](/industry-study/올포글리프론/) -12.3% (26주차)
 	노보 아미크레틴([Oral amycretin](/industry-study/oral-amycretin/)) -10.4% (12주차)
 	멧세라 MET-097i -11.3% (12주차)
-	
+
+{{< adsense-infeed >}}
+
 	[비만 경구제 치료중단 비율]
 	바이킹 VK2735 28% ▶️ 오늘 발표
 	릴리 [올포글리프론](/industry-study/올포글리프론/) 10~15%
@@ -89,6 +91,8 @@ weight: 931
 
 ---
 ### 영위사업
+
+{{< adsense-infeed >}}
 
 Viking Therapeutics, Inc.(US, [VKTX](/company-analysis/vktx/))는 2012년에 설립된 임상 단계의 생명공학 기업으로, 캘리포니아주 샌디에이고에 본사를 두고 있습니다. 회사는 미충족 의료 수요가 높은 내분비 및 대사 질환 치료를 위한 혁신적인 신약 후보 물질을 발굴하고 개발하는 데 주력하고 있습니다.
 
@@ -273,6 +277,8 @@ Viking Therapeutics의 비즈니스 모델은 임상 시험을 통해 약물 후
 ---
 
 ### 주요 고객
+
+{{< adsense-infeed >}}
 
 - **의료기관 (병원, 클리닉):** 궁극적으로 Viking의 의약품을 처방하고 관리할 주요 고객.
 - **제약 도매상:** 생산된 의약품을 유통망에 공급하는 파트너 (예: AmerisourceBergen(US, [ABC](/company-analysis/abc/)), Cardinal Health(US, CAH)).

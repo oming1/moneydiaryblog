@@ -19,6 +19,8 @@ weight: 595
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 ArcelorMittal S.A.는 전 세계적으로 통합 철강 및 광산 회사로 운영됩니다. 이 회사는 반제품 평판 제품(슬래브 포함), 완제품 평판 제품(플레이트, 열연 및 냉연 코일 및 시트, 아연 도금 코일 및 시트, 주석판, 컬러 코팅 코일 및 시트 포함), 반제품 장제품(블룸 및 빌렛 포함), 완제품 장제품(바, 와이어로드, 구조물, 레일, 시트 파일, 와이어 제품 포함), 그리고 이음매 없는 파이프 및 용접 파이프 및 튜브를 제공합니다. 또한 철광석 덩어리, 미세 입자, 농축물, 펠릿 및 소결 공급물과 같은 광산 제품과 코킹 석탄을 제공합니다
 
 ### 전방/후방산업
@@ -30,10 +32,14 @@ ArcelorMittal S.A.는 전 세계적으로 통합 철강 및 광산 회사로 운
 
 **후방산업:**
 
+{{< adsense-infeed >}}
+
 - 원료 공급업체: Vale (BR, [Vale](/company-analysis/vale/)), BHP (AU, [BHP](/company-analysis/bhp/))
 - 광산 장비 제조업체: Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301)
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **평판 제품:** 슬래브, 플레이트, 열연 및 냉연 코일 및 시트, 아연 도금 코일 및 시트, 주석판, 컬러 코팅 코일 및 시트 (매출 비중: 2023년 기준 50%)
 - **장제품:** 바, 와이어로드, 구조물, 레일, 시트 파일, 와이어 제품 (매출 비중: 2023년 기준 30%)
@@ -52,6 +58,8 @@ ArcelorMittal S.A.는 전 세계적으로 통합 철강 및 광산 회사로 운
 - **POSCO (KR, 005490):** 철강 제품 (시장 점유율 10%)
 - **Nucor Corporation (US, [NUE](/company-analysis/nue/)):** 철강 제품 (시장 점유율 8%)
 - **United States Steel Corporation (US, [X](/company-analysis/x/)):** 철강 제품 (시장 점유율 7%)
+
+{{< adsense-infeed >}}
 
 ### 산업 내 글로벌 시장 점유율
 

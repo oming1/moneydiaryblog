@@ -38,6 +38,8 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
     주요 기업: Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/))
 - 정부 기관: 보안 및 통신 시스템 구매
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 연구 개발: L3Harris (자체 R&D)
@@ -45,6 +47,8 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 3. 시스템 통합: L3Harris (핵심 경쟁력)
 4. 판매 및 유통: 직접 판매 및 정부 계약
 5. 유지보수 및 서비스: L3Harris 및 협력업체
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -56,9 +60,13 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 - 해양 시스템
 - 인공위성 발사, 제조, 운영
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국이 주요 시장이며, 76%의 매출이 미국 정부와의 계약에서 발생합니다. 그 외 100개 이상의 국가에 제품과 서비스를 제공하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

@@ -31,6 +31,8 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 
 2024년 기준 총 매출은 약 14억 달러였으며, 북미, 유럽, 아시아 등 글로벌 시장에서 운영하고 있습니다. 최근에는 지속 가능한 소재 개발과 글로벌 생산 능력 확장에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. **OEM 파트너십**: GE Renewable Energy, Vestas 등 주요 풍력 터빈 제조사와의 협력
@@ -64,7 +66,9 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 ## 밸류체인
 
 1. **소재 조달**: 복합 재료 및 기타 원자재 조달 (Hexcel Corporation 등)
-    
+
+{{< adsense-infeed >}}
+
 2. **설계 및 제조**: 맞춤형 풍력 터빈 블레이드 설계 및 생산 (TPI 자체 시설)
     
 3. **유통 및 설치**: OEM 고객에게 제품 공급 후 설치 지원
@@ -84,7 +88,9 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 2. Vestas Wind Systems(DK): 글로벌 풍력 발전 리더
     
 3. Siemens Gamesa Renewable Energy(DE): 유럽 기반 풍력 발전 기업
-    
+
+{{< adsense-infeed >}}
+
 4. Nordex(DE): 독일 기반 풍력 터빈 제조사
 
 ## 주요 판매국가

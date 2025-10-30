@@ -79,6 +79,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 
 ## 핵심 기술
 
+{{< adsense-infeed >}}
+
 **FOX 테스트 시스템:** FOX-XP(멀티 웨이퍼), FOX-NP(단일 웨이퍼), FOX-CP(컴팩트 솔루션) 등 다양한 웨이퍼 레벨 테스트 플랫폼
 
 **WaferPak 컨택터:** 고객별 맞춤형 풀 웨이퍼 프로브 카드로 최대 300mm 웨이퍼 테스트 지원
@@ -102,6 +104,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 ## 전방산업 / 후방산업
 
 **전방산업 (반도체 제조 산업):**
+
+{{< adsense-infeed >}}
 
 - 전기차: Tesla (US, [TSLA](/company-analysis/tsla/)), BYD (CN, [BYD](/company-analysis/byd/)) - SiC 파워 반도체 수요
 - AI/클라우드: NVIDIA (US, [NVDA](/company-analysis/nvda/)), AMD (US, [AMD](/company-analysis/amd/)) - AI 가속기 프로세서
@@ -217,6 +221,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 - FormFactor (US, FORM) - 프로브 카드 및 웨이퍼 테스트
 - Cascade Microtech (US, Private) - 웨이퍼 프로빙 솔루션
 - MPI Corporation (TW, Private) - 프로브 스테이션 제조업체
+
+{{< adsense-infeed >}}
 
 ---
 

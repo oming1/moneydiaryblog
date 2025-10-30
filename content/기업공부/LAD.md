@@ -28,10 +28,14 @@ Lithia Motors, Inc.는 글로벌 [자동차](/industry-study/자동차/) 소매�
     - 부품 판매
     - 수리 및 유지보수 서비스
     - 차량 금융 및 보험 상품 제공
-    
+
+{{< adsense-infeed >}}
+
 2. 금융 운영 부문
     
     - 소매 차량 구매 및 리스 고객을 위한 금융 서비스 제공
+
+{{< adsense-infeed >}}
 
 Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운영하며, 52개 브랜드를 대표합니다. 회사는 물리적 매장, 전자상거래 플랫폼, 자체 금융 솔루션을 통해 차량 소유 라이프사이클 전반에 걸친 제품과 서비스를 제공합니다.
 
@@ -43,6 +47,8 @@ Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운
 - 보험회사: 차량 보험 상품 제공 (예: Progressive Corporation (US, [PGR](/company-analysis/pgr/)))
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급 (예: Aptiv PLC (US, [APTV](/company-analysis/aptv/)))

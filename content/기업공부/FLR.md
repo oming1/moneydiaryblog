@@ -63,9 +63,15 @@ weight: 345
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Bechtel과 Fluor는 각각 미국 최대 및 2위 건설회사로, 글로벌 EPC 시장에서 주요 플레이어입니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Bechtel: 55,000명 직원, 연간 매출 176억 달러 (2020)
 - Fluor: 40,582명 직원, 연간 매출 141.6억 달러 (2022)

@@ -22,7 +22,9 @@ weight: 908
 
 - 2025년
 	- 2025-03-05 , 2022~2023년 탑라인 성장률이 각각 40%, 18%에 달하면서 실적 상승세를 보였으나, 2024년 들어 성장세가 둔화하며 주가는 2024년 초 대비 25% 하락한 상태다.
-	  
+
+{{< adsense-infeed >}}
+
 	  코로나 이후 급성장했던 미국 뷰티 소비가 정상화 국면에 돌입하고 있고, 경쟁사 세포라(Sephora )가 유통업체 Kohl’s에 입점해 1,000여개 매장을 늘리면서 프레스티지 뷰티 부문의 경쟁도 격화하고 있다.
 	  
 	  소비자들이 점차 가격에 민감해지면서 화장품 소비 또한 기존 오프라인 채널에서 아마존이나 월마트 같은 대형 유통업체로 이동하고 있다.
@@ -39,19 +41,25 @@ Ulta Beauty는 미국 내에서 [화장품](/industry-study/화장품/), 향수,
     - **관련 기업**: Sephora (LVMH, FR), Macy's (US, [M](/company-analysis/m/))
 
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 화장품 제조 및 유통
     - **관련 기업**: Estée Lauder Companies (US, [EL](/company-analysis/el/)), Procter & Gamble (US, [PG](/company-analysis/pg/))
 
 ## 밸류체인
 
 - **제품 소싱**: 다양한 브랜드의 화장품 및 뷰티 제품 확보
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: L'Oréal (FR, OR.PA) - 화장품 제조
     - **대표 회사**: Revlon (US, REV) - 화장품 제조
     
 - **소매 운영**: 오프라인 매장 및 온라인 플랫폼 운영
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Amazon (US, [AMZN](/company-analysis/amzn/)) - 온라인 소매
     - **대표 회사**: Target (US, [TGT](/company-analysis/tgt/)) - 대형 소매업체
     
@@ -72,6 +80,8 @@ Ulta Beauty는 미국 내에서 [화장품](/industry-study/화장품/), 향수,
 Ulta Beauty는 주로 미국에서 운영되며, 온라인 쇼핑을 통해 전 세계 고객에게도 제품을 제공합니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Sephora (LVMH, FR)** - 화장품 및 뷰티 제품 소매
 - **Macy's (US, [M](/company-analysis/m/))** - 백화점 및 뷰티 제품 판매

@@ -53,6 +53,8 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. Lattice Nexus FPGA 플랫폼
 2. Lattice Avant 중급 FPGA 플랫폼
 3. sensAI 솔루션 스택 (머신 러닝용)
@@ -65,9 +67,13 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. AMD (Xilinx) (US, [AMD](/company-analysis/amd/))
 2. Intel (Altera) (US, [INTC](/company-analysis/intc/))
 3. Microchip Technology (US, [MCHP](/company-analysis/mchp/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

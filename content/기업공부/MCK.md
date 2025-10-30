@@ -25,6 +25,8 @@ McKesson Corporation은 미국 최대의 의약품 유통 및 의료 정보 기�
 3. 의료-외과 솔루션: 의료 용품 유통 및 물류 서비스
 4. 국제 부문: 유럽과 캐나다에서의 의약품 유통 및 서비스
 
+{{< adsense-infeed >}}
+
 McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스케어 이해관계자들과 협력하여 의료 서비스의 효율성과 품질을 향상시키는 데 주력하고 있습니다. 회사의 주요 경쟁사로는 AmerisourceBergen(US, [ABC](/company-analysis/abc/))과 Cardinal Health(US, CAH)가 있으며, 이 세 회사가 미국 의약품 도매 시장의 90% 이상을 차지하고 있습니다.핵심 경쟁력:
 
 1. 광범위한 유통 네트워크: McKesson은 미국 전역에 30개 이상의 물류 센터를 운영하며, 이를 통해 99.98%의 주문 정확도를 유지하고 있습니다. 이러한 대규모 네트워크는 진입 장벽으로 작용하여 경쟁 우위를 제공합니다.
@@ -55,6 +57,8 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 4. 소매 약국: CVS Health(US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/)), Rite Aid(US, RAD)
 5. 병원 및 의료 시스템: HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/))
 6. 의료 정보 기술: Cerner(US, CERN), Epic SystemsEpic Systems, Allscripts Healthcare Solutions(US, MDRX)
+
+{{< adsense-infeed >}}
 
 ## 주요제품:
 
@@ -100,6 +104,8 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 McKesson은 미국 의약품 유통 시장에서 약 33%의 점유율을 보유하고 있습니다 (2023년 기준). 글로벌 시장에서는 정확한 점유율 데이터가 제한적이나, 북미 지역에서 가장 큰 의약품 유통업체로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈:
+
+{{< adsense-infeed >}}
 
 1. COVID-19 백신 유통 주도: McKesson은 미국 정부의 중앙 유통업체로 선정되어 COVID-19 백신 유통을 주도했습니다 (2020년)
 2. 캐나다 Rexall 및 Well.ca 소매 사업 매각 발표: 핵심 사업에 집중하기 위한 전략적 결정 (2024년)

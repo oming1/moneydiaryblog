@@ -20,9 +20,13 @@ weight: 516
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Li-Cycle Holdings Corp.는 북미에서 리튬이온 배터리 자원 회수 및 재활용 사업을 영위하는 회사입니다. 주요 사업으로는 리튬이온 배터리 재활용, 음극 및 양극 배터리 재료 공급, 리튬 탄산염, 코발트 황산염, 니켈 황산염, 망간 탄산염 등의 허브 제품 제공이 있습니다
 
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **전기차 제조**: 재활용된 배터리 재료 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)), Ford (US, [F](/company-analysis/f/)))
@@ -30,6 +34,8 @@ Li-Cycle Holdings Corp.는 북미에서 리튬이온 배터리 자원 회수 및
 - **후방산업**:
     - **리튬 채굴**: 배터리 원료 공급 (예: Albemarle (US, [ALB](/company-analysis/alb/)))
     - **화학 제조**: 배터리 소재 공급 (예: BASF (DE, BAS))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -44,12 +50,16 @@ Li-Cycle Holdings Corp.는 북미에서 리튬이온 배터리 자원 회수 및
 - **음극재 및 양극재 재료**: 배터리 제조에 필요한 핵심 재료
 - **금속 정제**: 니켈, 코발트, 리튬 등의 금속 정제
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **미국**: 주요 시장으로 전체 매출의 대부분을 차지
 - **유럽**: 독일, 프랑스, 영국 등 주요 판매국가 포함
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **[Redwood Materials](/company-analysis/redwood-materials/)(US, 비상장)**: 리튬이온 배터리 재활용
 - **Li-Cycle (CA, [LICY](/company-analysis/licy/))**: 리튬이온 배터리 재활용

@@ -29,14 +29,22 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
     - **핵심 산업**: 의료 서비스 및 보험 제공
     - **역할**: 최종 소비자에게 건강 관리 및 보험 솔루션 제공
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Cigna (미국, [CI](/company-analysis/ci/))
-    
+
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 의료 기기 및 제약 제조
     - **역할**: Aetna의 보험 상품에 필요한 의료 서비스 및 제품 제공
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **보험 상품 개발**:
     
@@ -72,6 +80,8 @@ Aetna는 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중
 ## 산업 내 글로벌 시장 점유율
 
 Aetna는 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -25,8 +25,12 @@ weight: 2
 - 기업 기본정보
 	- 
 
+{{< adsense-infeed >}}
+
  - 기업전망(트렌드/향후전망)
 	- 
+
+{{< adsense-infeed >}}
 
 - 비즈니스모델 / 밸류체인 / 전후방산업관계
 	- 
@@ -35,11 +39,15 @@ weight: 2
 	- [실리콘 음극재](/industry-study/실리콘-음극재/)
 		-  [TSLA](/company-analysis/tsla/)향 [4680 배터리](/industry-study/4680-배터리/)를 2023년부터 양산할 예정. 해당 배터리 중 일부 실리콘음극재 적용 계획 
 
+{{< adsense-infeed >}}
+
 - 리스크요인
 	- 
 
 - 관련기업
 	- 
+
+{{< adsense-infeed >}}
 
 - 참고자료 링크
 	-

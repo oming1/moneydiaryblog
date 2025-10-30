@@ -107,6 +107,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 
 ### 제조 공정
 
+{{< adsense-infeed >}}
+
 1단계: 원료 조달 (천연 추출물).  
 2단계: 배합 및 테스트 (과학 연구소).  
 3단계: 제조 및 포장 (GMP 시설).  
@@ -138,6 +140,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 **제조 및 조립 단계:**
 
 - Nu Skin 내부: 제품 배합.
+
+{{< adsense-infeed >}}
 
 **유통 및 판매 단계:**
 
@@ -172,6 +176,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 ---
 
 ### 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 - 중국: 40% (2023년 기준, 3년간 -5%p).
 - 한국: 15% (2023년 기준, 3년간 +2%p).
@@ -230,6 +236,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 ### 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - XLP - Consumer Staples Select Sector SPDR Fund XLP.
 - VDC - Vanguard Consumer Staples ETF VDC.

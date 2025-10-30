@@ -22,15 +22,21 @@ weight: 54
 
 Ally Financial Inc.는 디지털 금융 서비스 회사로, 다음과 같은 주요 사업 부문을 운영합니다:
 
+{{< adsense-infeed >}}
+
 - **자동차 금융**: 자동차 대출, 리스, 딜러 금융 서비스 제공
 - **보험**: 소비자 금융 보호 및 상업 보험 상품 제공
 - **모기지 금융**: 소비자 모기지 대출 포트폴리오 관리
 - **기업 금융**: 중소기업을 위한 자산 기반 대출 및 상업 부동산 금융 제공
 
+{{< adsense-infeed >}}
+
 #### 전방산업
 
 - **자동차 산업**: Ally의 자동차 금융 서비스는 자동차 제조업체 및 딜러에게 제공됩니다. 주요 기업: General Motors (US, [GM](/company-analysis/gm/)), Ford (US, [F](/company-analysis/f/)).
 - **부동산 산업**: 모기지 금융 서비스는 부동산 개발 및 관리에 사용됩니다. 주요 기업: Lennar (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/)).
+
+{{< adsense-infeed >}}
 
 #### 후방산업
 
@@ -63,12 +69,16 @@ Ally Financial Inc.는 디지털 금융 서비스 회사로, 다음과 같은 �
 
 #### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Capital One (US, [COF](/company-analysis/cof/))**: 신용 카드 및 금융 서비스 제공
 - **Discover Financial Services (US, [DFS](/company-analysis/dfs/))**: 신용 카드 및 금융 서비스 제공
 - **Synchrony Financial (US, [SYF](/company-analysis/syf/))**: 소비자 금융 및 신용 카드 서비스 제공
 - **Bank of America (US, [BAC](/company-analysis/bac/))**: 종합 금융 서비스 제공
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **신용 문제**: 높은 인플레이션과 금리 상승으로 인한 신용 문제 (2024년)
 - **자동차 금융 사업 매각**: 일부 자동차 금융 사업을 Synchrony Financial에 매각 (2023년)

@@ -31,8 +31,12 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -43,6 +47,8 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 5. 엔터테인먼트: 공연장, 나이트클럽 운영
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - [카지노](/industry-study/카지노/) 게임 운영
 - 호텔 숙박 서비스

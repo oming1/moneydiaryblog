@@ -29,9 +29,13 @@ Comstock Resources, Inc.(CRK)는 미국의 독립 석유([원유](/industry-stud
 2. 천연가스 및 석유 생산
 3. 천연가스 및 석유 개발
 
+{{< adsense-infeed >}}
+
 Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville 셰일과 Bossier 셰일 지역에서 사업을 영위하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 전략적 자산 위치: 주요 천연가스 생산 지역인 Haynesville 셰일에 집중
 2. 저비용 생산: 효율적인 운영을 통한 경쟁력 있는 생산 비용 유지
@@ -47,11 +51,15 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - LNG 수출: Cheniere Energy(US, [LNG](/industry-study/lng/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 탐사 및 생산: Comstock Resources (주요 사업 영역)
 2. 수집 및 처리: Comstock Resources (주요 사업 영역)
@@ -82,6 +90,8 @@ Comstock Resources는 주로 미국 시장에서 사업을 영위하고 있습�
 5. Chesapeake Energy(US, CHK)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Comstock Resources는 미국 내 주요 천연가스 생산업체 중 하나로 인식되고 있습니다.
 

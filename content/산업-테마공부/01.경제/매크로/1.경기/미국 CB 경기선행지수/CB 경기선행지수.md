@@ -19,10 +19,16 @@ weight: 2
 
 **의미:** 경기선행지수는 미국의 경제 활동이 앞으로 어떻게 될지 예측하는 데 사용됩니다. 지수가 상승하면 경제 성장이 예상되고, 지수가 하락하면 경기 침체가 예상됩니다.
 
+{{< adsense-infeed >}}
+
 **관련 링크:**
+
+{{< adsense-infeed >}}
 
 - 컨퍼런스보드 웹사이트: [https://www.conference-board.org/](https://www.conference-board.org/)
 - 경기선행지수 데이터: [https://www.conference-board.org/data/economic-indicators/leading-economic-index.html](https://www.conference-board.org/data/economic-indicators/leading-economic-index.html)
+
+{{< adsense-infeed >}}
 
 **이슈**
 - 코로나 이후 서비스가 강해지면서 설명력이 약해진 선행지수의 수정을 통해 경기를 다시 예측해보고자 하는 움직임이 있음

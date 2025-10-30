@@ -24,6 +24,8 @@ Industry: Pharmaceutical Retailers (제약소매업)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방약 판매, 일반 의약품 및 건강 관련 제품 판매, 헬스케어 서비스 제공 등의 사업을 영위하고 있습니다.
 
 ## 전방/후방산업
@@ -35,10 +37,14 @@ Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 제약: Johnson & Johnson (국가:US, [JNJ](/company-analysis/jnj/))
 - 의료기기: Medtronic (국가:US, [MDT](/company-analysis/mdt/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 처방약 (매출 비중: 약 75%, 2023년 기준)
 - 일반 의약품 및 건강 관련 제품

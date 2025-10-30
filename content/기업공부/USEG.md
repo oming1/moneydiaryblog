@@ -45,6 +45,8 @@ U.S. Energy Corp.(NASDAQ: USEG)는 미국 내 고품질 에너지 및 산업용 
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 정유 및 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 산업용 가스: Air Products(US, APD), Linde(IE, LIN)
 - 탄소 포집 및 저장: Occidental Petroleum(US, [OXY](/company-analysis/oxy/))
@@ -66,6 +68,8 @@ U.S. Energy Corp.(NASDAQ: USEG)는 미국 내 고품질 에너지 및 산업용 
 미국
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Diamondback Energy(US, [FANG](/company-analysis/fang/))
 - Continental Resources(US, CLR)
@@ -90,6 +94,8 @@ U.S. Energy Corp의 정확한 글로벌 시장 점유율 데이터는 제공되�
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

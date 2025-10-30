@@ -22,10 +22,14 @@ weight: 526
 
 Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소매업체로, 주로 DIY(Do It Yourself) 고객과 전문 계약자에게 다양한 제품과 서비스를 제공합니다. 제품 포트폴리오에는 주방 가전, 건축 자재, 도구 및 하드웨어, 정원 및 야외 용품 등이 포함됩니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 건설, 리모델링, 소매
     - 역할: 주택 개조 및 건축 자재 공급
     - 주요 기업: The Home Depot (미국, [HD](/company-analysis/hd/)), Menards (미국, 비상장)
@@ -35,10 +39,14 @@ Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소�
     - 역할: 제품 생산 및 공급망 관리
     - 주요 기업: Whirlpool (미국, [WHR](/company-analysis/whr/)), Stanley Black & Decker (미국, [SWK](/company-analysis/swk/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - 제품 조달 및 유통:
-    
+
+{{< adsense-infeed >}}
+
     - Lowe's는 다양한 공급업체로부터 제품을 조달하여 매장과 온라인에서 판매합니다.
     - 대표 기업: Home Depot (미국, [HD](/company-analysis/hd/)), Ace Hardware (미국, 비상장)
     

@@ -26,11 +26,17 @@ weight: 170
 Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본사를 둔 글로벌 차량 렌탈 및 모빌리티 솔루션 제공 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **차량 렌탈**: Avis, Budget, Payless 브랜드를 통해 개인 및 기업 고객에게 차량 렌탈 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 2. **자동차 공유**: Zipcar 브랜드를 통해 도시 및 대학 캠퍼스에서 자동차 공유 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 3. **트럭 렌탈**: Budget Truck Rental을 통해 소형 상업용 트럭 렌탈 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 4. **디지털 플랫폼**: AI 기반 예약 시스템 및 모바일 앱을 통한 디지털 전환
 
 2024년 기준 총 매출은 약 118억 달러였으며, 전 세계 180개국 이상에서 10,600개 이상의 지점을 운영하고 있습니다. 최근에는 전기차(EV) 플릿 확대와 디지털 예약 플랫폼 개발에 주력하고 있습니다.
@@ -89,6 +95,8 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 1. 개인 여행자 (레저 여행 목적)
     
 2. 기업 고객 (비즈니스 출장 및 물류 지원)
@@ -96,6 +104,8 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 3. 대학생 및 도시 거주자 (Zipcar 자동차 공유 이용자)
     
 4. 물류 업체 (Budget Truck Rental 이용자)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

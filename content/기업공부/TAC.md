@@ -29,7 +29,9 @@ TransAlta는 다음과 같은 사업 부문을 운영합니다:
 이 회사는 캐나다, 미국, 호주에서 수력, 풍력, 태양광, 천연가스, 석탄 등 다양한 투입 자원을 활용하여 다양한 발전 자산을 소유, 운영, 개발하고 있다.  
 
 이 회사는 지방 자치 단체, 중대형 산업체 및 유틸리티 고객에게 청정 전력을 공급한다.  
-  
+
+{{< adsense-infeed >}}
+
 사업 부문은 수력, 풍력 및 태양광, 가스, 에너지 전환, 에너지 마케팅, 기업 부문으로 나뉜다.  
 회사는 다양한 에너지 자산 포트폴리오를 보유하고 있으며 수력, 풍력, 태양광, 천연가스 및 열병합 발전으로 약 6.7기가와트(GW)의 전력을 생산한다.  
   
@@ -37,11 +39,15 @@ TransAlta는 다음과 같은 사업 부문을 운영합니다:
 
 Antrim 풍력 프로젝트, Ardenville 풍력 시설, Old Town 풍력 프로젝트, Pinnacle 프로젝트, SunHills 태양광 프로젝트, Cascade 수력 발전소, Fortescue River 가스 파이프라인 등 다양한 발전 자산을 운영한다.
 
+{{< adsense-infeed >}}
+
 1. 수력 발전
 2. 풍력 및 태양광 발전
 3. 가스 발전
 4. 에너지 전환
 5. 에너지 마케팅
+
+{{< adsense-infeed >}}
 
 회사는 캐나다, 미국, 호주에서 76개의 발전소를 운영하며, 풍력, 수력, [천연가스](/industry-study/천연가스/), 석탄 발전 시설을 보유하고 있습니다. TransAlta는 캐나다 최대의 민간 소유 재생에너지 공급업체입니다.
 
@@ -72,6 +78,8 @@ Antrim 풍력 프로젝트, Ardenville 풍력 시설, Old Town 풍력 프로젝�
 - 재생에너지 솔루션
 - 에너지 효율 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 캐나다(80%), 미국(14%), 호주(6%)
@@ -81,6 +89,8 @@ Antrim 풍력 프로젝트, Ardenville 풍력 시설, Old Town 풍력 프로젝�
 - Calpine Corporation
 - AES Corporation(US, AES)
 - NRG Energy(US, [NRG](/company-analysis/nrg/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

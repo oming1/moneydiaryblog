@@ -53,6 +53,8 @@ Impossible Foods, Inc.는 2011년에 설립된 미국의 식품 회사로, 식�
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 식물성 고기 제품 구매
 - 주요 고객: 레스토랑, 슈퍼마켓, 소비자
 
@@ -61,12 +63,16 @@ Impossible Foods, Inc.는 2011년에 설립된 미국의 식품 회사로, 식�
 - 역할: 원자재 공급
 - 농업 공급업체: 대두 및 기타 식물성 원료 공급업체
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - Impossible Burger (식물성 버거)
 - Impossible Sausage (식물성 소시지)
 - Impossible Meatballs (식물성 고기볼)
 - Impossible Chicken (식물성 치킨 제품)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

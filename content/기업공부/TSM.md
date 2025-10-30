@@ -25,7 +25,9 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 ## 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 전자 제품 제조 및 판매
     - **관련 기업**: Apple (US, [AAPL](/company-analysis/aapl/)), [Samsung](/industry-study/samsung/) (KR, 005930.KS)
     
@@ -45,11 +47,17 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
     
     - **대표 회사**: GlobalFoundries (US, [GFS](/company-analysis/gfs/)) - 반도체 제조
     - **대표 회사**: [Samsung](/industry-study/samsung/) (KR, 005930.KS) - 반도체 제조
-    
+
+{{< adsense-infeed >}}
+
 - **판매 및 유통**: 고객에게 반도체 제품 공급
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Digi-Key Electronics (US, 비상장) - 전자 부품 유통
     - **대표 회사**: Mouser Electronics (US, 비상장) - 전자 부품 유통
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -59,6 +67,8 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 ## 주요 판매국가
 
 TSMC는 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 일본, 유럽 등입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

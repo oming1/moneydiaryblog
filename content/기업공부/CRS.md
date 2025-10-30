@@ -103,9 +103,13 @@ Carpenter Technology의 핵심 경쟁력은 135년간 축적된 특수합금 기
 
 ## 제조공정
 
+{{< adsense-infeed >}}
+
 Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조공정을 운영합니다:
 
 **1. 합금 설계 및 개발:**
+
+{{< adsense-infeed >}}
 
 - 고객 요구사항 분석 → 합금 조성 설계 → 시뮬레이션 → 시제품 제작 → 테스트 → 최적화
 
@@ -171,6 +175,8 @@ Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조
 - Allegheny Technologies(US, ATI) - 특수 소재 경쟁사
 
 **최종 제품 제조 단계:** 우주항공 및 방위산업 고객
+
+{{< adsense-infeed >}}
 
 - Boeing(US, [BA](/company-analysis/ba/)) - 상용 항공기 제조업체
 - Airbus(EU, [AIR](/company-analysis/air/)) - 상용 항공기 제조업체
@@ -317,6 +323,8 @@ Carpenter Technology는 135년 역사를 가진 특수합금 분야의 글로벌
 ## 주요주주 (지분율)
 
 공개된 최신 주주 정보 (2024년 기준):
+
+{{< adsense-infeed >}}
 
 **주요 기관 투자자:**
 

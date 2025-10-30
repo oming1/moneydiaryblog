@@ -36,6 +36,8 @@ Kodiak Gas Services, Inc.(KGS)는 미국의 계약 압축 서비스 제공업체
 
 미국과 트럼프가 계획하는 LNG 수요 및 수출 증가가 거대한 내러티브를 형성. 그 과정에서 가스 압축 인프라 수요도 증가할 전망
 
+{{< adsense-infeed >}}
+
 Kodiak Gas Services는 두 개의 사업 부문을 운영합니다:
 
 1. 압축 운영(Compression Operations): 회사 소유 및 고객 소유의 압축 인프라를 운영하여 천연가스와 석유의 생산, 수집, 운송을 지원합니다.
@@ -50,6 +52,8 @@ Kodiak Gas Services는 두 개의 사업 부문을 운영합니다:
 - 압축 장비 제조업체
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 석유 및 가스 생산업체: ExxonMobil(US, [XOM](/company-analysis/xom/))
 - 미드스트림 기업: Kinder Morgan(US, [KMI](/company-analysis/kmi/))
@@ -72,12 +76,16 @@ Kodiak Gas Services는 두 개의 사업 부문을 운영합니다:
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - USA Compression Partners(US, USAC)
 - Liberty Energy(US, [LBRT](/company-analysis/lbrt/))
 
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Kodiak는 미국 내 최대 규모의 비상장 계약 압축 회사로 알려져 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

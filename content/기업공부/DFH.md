@@ -86,6 +86,8 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 - **성장 동력 및 수익성 개선 요인:**
     - 주택 수요 증가, 디지털 판매 확대, 비용 절감 기술.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 경쟁력
@@ -159,6 +161,8 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 
 ### 주된 영향을 미치는 원자재
 
+{{< adsense-infeed >}}
+
 - **목재:** 건설 골조, 공급지: 미국, 공급업체 Weyerhaeuser(US, WY).
 - **철강:** 구조물, 공급지: 미국, 공급업체 Nucor(US, [NUE](/company-analysis/nue/)).
 
@@ -182,6 +186,8 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 ---
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Lennar(US, [LEN](/company-analysis/len/)) - 주택 건설, 시장점유율 15%.
 - D.R. Horton(US, [DHI](/company-analysis/dhi/)) - 홈빌더, 시장점유율 20%.
@@ -225,6 +231,8 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 - BlackRock: 6%.
 - 기관 투자자: 50%.
 - 개인 투자자: 16%.
+
+{{< adsense-infeed >}}
 
 ---
 

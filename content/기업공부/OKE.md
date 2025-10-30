@@ -119,6 +119,8 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 - NGL 분리 및 잔여 천연가스 정제
 - 품질 관리 및 규격 준수
 
+{{< adsense-infeed >}}
+
 **3. 분류 단계:**
 
 - NGL 분류 시설에서 에탄, 프로판, 부탄 등으로 분리
@@ -139,9 +141,13 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 - 트럭 및 철도 적재 시설 운영
 - 블렌딩 및 품질 조정 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 전방산업 / 후방산업
+
+{{< adsense-infeed >}}
 
 **전방산업:**
 
@@ -230,6 +236,8 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 ---
 
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 - Valero Energy(US, [VLO](/company-analysis/vlo/)) - 정제제품 파이프라인 운송, 원유 공급
 - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)) - 정제소 운영, 원유 및 정제제품 운송
@@ -334,6 +342,8 @@ ONEOK는 미국 내 에너지 미드스트림 분야의 선도 기업으로, 특
 
 - Pierce Norton (CEO): 약 0.08% (약 50만 주)
 - Walt Hulse (CFO): 약 0.04% (약 25만 주)
+
+{{< adsense-infeed >}}
 
 ---
 

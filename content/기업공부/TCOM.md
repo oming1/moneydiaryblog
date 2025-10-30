@@ -20,16 +20,22 @@ weight: 853
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Trip.com Group([TCOM](/company-analysis/tcom/))은 중국에 본사를 둔 다국적 온라인 여행 서비스 기업입니다. 주요 사업으로는 항공권, 호텔 예약, 기차표, 렌터카, 공항 이동 서비스, 관광 티켓 등 종합적인 여행 관련 서비스를 제공합니다.
 
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 관광, 호텔, 항공
     - 역할: 여행 관련 서비스 제공
     - 주요 기업: Marriott International (미국, [MAR](/company-analysis/mar/)), Delta Air Lines (미국, [DAL](/company-analysis/dal/))
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     
     - 핵심 산업: IT 인프라, 결제 시스템
@@ -48,6 +54,8 @@ Trip.com Group([TCOM](/company-analysis/tcom/))은 중국에 본사를 둔 다�
     - 여행 상품 가격 비교 서비스를 제공합니다.
     - 대표 기업: Tripadvisor (미국, [TRIP](/company-analysis/trip/)), Kayak (Booking Holdings 소유)
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
 
 - Trip.com (글로벌 여행 예약 플랫폼)
@@ -58,6 +66,8 @@ Trip.com Group([TCOM](/company-analysis/tcom/))은 중국에 본사를 둔 다�
 ## 주요 판매 국가
 
 중국을 중심으로 전 세계 200개국 이상에서 서비스를 제공하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

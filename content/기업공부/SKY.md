@@ -32,6 +32,8 @@ Champion Homes, Inc.는 북미 최대의 공장제작 주택 생산업체중 하
 - 파크 모델 레크리에이션 차량
 - 단독 주택, 다세대 주택, 호스피탈리티 부문을 위한 모듈러 건물
 
+{{< adsense-infeed >}}
+
 Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을 보유하고 있으며, 공장제작 주택의 설치 및 설정을 위한 건설 서비스를 제공합니다. 또한 미국 전역에 72개의 소매점을 운영하는 공장 직영 소매 사업과 Star Fleet Trucking을 통한 운송 서비스도 제공하고 있습니다
 
 ## 전방/후방산업
@@ -42,7 +44,11 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 - 다세대 주택 개발업자
 - 호스피탈리티 산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 건축 자재 공급업체: Masco Corporation (US, [MAS](/company-analysis/mas/))
 - 가구 및 가전제품 제조업체: Whirlpool Corporation (US, [WHR](/company-analysis/whr/))
@@ -80,6 +86,8 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Champion Homes는 북미에서 가장 큰 모듈러 주택 건설업체 중 하나로 인식되고 있습니다
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 회사명을 Champion Homes, Inc.로 변경 (2024년)
 2. CEO 승계 계획 실행: Tim Larson이 새로운 CEO로 선임 (2024년)

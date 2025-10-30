@@ -24,7 +24,9 @@ AppLovin Corporation은 모바일 앱 개발자를 위한 소프트웨어 플랫
 이 회사는 애플리케이션 기술 플랫폼인 AppLovin을 제공한다.  
 
 소프트웨어 플랫폼과 앱의 두 부문으로 운영된다. 소프트웨어 플랫폼은 AppDiscovery, MAX, Adjust, Wurl 등 4가지 주요 솔루션으로 구성된다.  
-  
+
+{{< adsense-infeed >}}
+
 AppDiscovery는 AI 기반 광고 엔진인 AXON을 기반으로 하며, 방대한 규모와 마이크로초 수준의 속도로 경매를 통해 광고주 수요와 퍼블리셔 공급을 매칭한다.  
 
 MAX는 실시간 경쟁 경매를 통해 퍼블리셔의 광고 인벤토리 가치를 최적화하는 고급 인앱 입찰 기술을 활용하는 수익화 솔루션이다.  
@@ -47,7 +49,11 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 모바일 앱 개발: Electronic Arts (US, EA), Ubisoft (프랑스, UBI.PA)
 - 디지털 광고: Facebook (US, [META](/company-analysis/meta/)), Google (US, [GOOGL](/company-analysis/googl/))

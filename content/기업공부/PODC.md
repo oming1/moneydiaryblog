@@ -20,6 +20,8 @@ weight: 702
 ---
 ## 산업 (Industry)
 
+{{< adsense-infeed >}}
+
 **산업**: 인터넷 콘텐츠 및 정보 (Internet Content & Information)
 
 ---
@@ -35,6 +37,8 @@ PodcastOne Inc는 로스앤젤레스에 기반을 둔 선도적인 팟캐스트 
 - 광고 플랫폼 운영 (500개 이상의 대형 광고주 네트워크)
 - LaunchpadOne 호스팅 및 애널리틱스 플랫폼
 - PodcastOne Pro B2B 솔루션
+
+{{< adsense-infeed >}}
 
 **최근 실적**: 2025년 Q4 기준 연간 매출 5,210만 달러 (전년 대비 20% 증가)로 사상 최고 실적을 달성했습니다. 현재 208개의 팟캐스트 프로그램을 운영하며, 매월 10억 이상의 임프레션을 Spotify, Apple Podcasts, YouTube 등 주요 플랫폼에서 달성하고 있습니다.
 
@@ -81,6 +85,8 @@ LaunchpadOne이라는 자체 호스팅 및 애널리틱스 플랫폼을 통해 �
 - 독립 팟캐스트 크리에이터들과 계약
 - 대표 기업: 개별 크리에이터 및 소규모 제작사들
 
+{{< adsense-infeed >}}
+
 **콘텐츠 호스팅 및 배급 단계**:
 
 - Amazon(US, [AMZN](/company-analysis/amzn/)) - ART19 호스팅 서비스 제공
@@ -93,6 +99,8 @@ LaunchpadOne이라는 자체 호스팅 및 애널리틱스 플랫폼을 통해 �
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 광고 고객
 - MotorTrend - 광고 고객
 - A+E Networks - 독점 파트너십
+
+{{< adsense-infeed >}}
 
 ---
 

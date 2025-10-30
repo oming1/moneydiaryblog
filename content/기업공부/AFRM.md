@@ -115,6 +115,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 
 ### 주요 제품
 
+{{< adsense-infeed >}}
+
 - **Affirm Instalments**: [4~12개월 분할 무이자(또는 저이자) 결제]
 - **Affirm Card**: Visa 네트워크 기반 할부 카드
 - **Affirm One**: 구독형 금융·혜택 프로그램
@@ -128,6 +130,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 - Shopify([SHOP](/company-analysis/shop/))·Etsy 셀러(소상공인)
 - Walmart·Peloton·Wayfair 등 대형 리테일 파트너
 - 여행·교육 플랫폼, 레저·의료 서비스
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -183,6 +187,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 - **IPAY** – ETFMG Prime Mobile Payments ETF IPAY
 - **FINX** – Global X FinTech ETF FINX

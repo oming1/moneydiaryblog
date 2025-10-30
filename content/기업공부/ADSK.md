@@ -34,7 +34,11 @@ Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인�
 
 미국, 캐나다, 유럽, 아시아-태평양, 중동, 아프리카 지역
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Adobe(US, [ADBE](/company-analysis/adbe/))
 - Dassault Systemes(프랑스, DASTY)
@@ -44,6 +48,8 @@ Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인�
 ## 산업 내 글로벌 시장 점유율
 
 CAD 및 3D 설계 소프트웨어 시장에서 주요 선도 기업 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 주요 이슈
 

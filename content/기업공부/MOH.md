@@ -31,16 +31,24 @@ weight: 579
 
 **밸류체인**:
 
+{{< adsense-infeed >}}
+
 - **계약 및 네트워크 관리**: 의료 제공자와의 계약 체결 및 네트워크 관리. 대표 회사: Molina Healthcare 자체 네트워크.
 - **보험 상품 개발**: 다양한 보험 상품 개발. 대표 회사: Molina Healthcare 자체 개발팀.
 - **고객 서비스 및 지원**: 고객 지원 및 서비스 제공. 대표 회사: Molina Healthcare 고객 서비스 팀.
 - **청구 처리 및 관리**: 보험 청구 처리 및 관리. 대표 회사: Molina Healthcare 청구 처리 팀.
 
+{{< adsense-infeed >}}
+
 **주요제품**:
+
+{{< adsense-infeed >}}
 
 - **Medicaid 관리 의료 계획**: 저소득층을 위한 건강 보험.
 - **Medicare 관리 의료 계획**: 노인 및 장애인을 위한 건강 보험.
 - **Marketplace 보험 계획**: 주 보험 시장을 통해 제공되는 건강 보험.
+
+{{< adsense-infeed >}}
 
 **주요 판매국가**:
 
@@ -53,6 +61,8 @@ weight: 579
 - **센테네 (미국, CNC)**: 관리 의료 서비스 (Medicaid, Medicare).
 
 **산업 내 글로벌 시장 점유율**: Molina Healthcare는 미국 내 Medicaid 관리 의료 시장에서 약 4%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**:
 

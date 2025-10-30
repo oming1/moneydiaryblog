@@ -24,9 +24,13 @@ weight: 627
 
 NRG Energy, Inc.(NYSE: NRG)는 미국의 주요 통합 전력 및 홈 서비스 기업입니다. 주요 사업 부문은 발전과 소매 전기 판매입니다.
 
+{{< adsense-infeed >}}
+
 발전 부문에서는 [천연가스](/industry-study/천연가스/), [석탄](/industry-study/석탄/), 원자력, 석유, 바이오매스, [풍력](/industry-study/풍력/), [태양광](/industry-study/태양광/) 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
@@ -59,6 +63,8 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 5. 에너지 관리: NRG Energy(US, [NRG](/company-analysis/nrg/)), Schneider Electric(FR, [SU](/company-analysis/su/)) (에너지 효율 솔루션)
 6. 고객 서비스: NRG Energy(US, [NRG](/company-analysis/nrg/)) (고객 지원 및 서비스)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 소매 전기 공급: 가정 및 상업용 전기, 매출의 약 70% (2023년 기준)
@@ -89,6 +95,8 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 NRG Energy는 2023년 기준 미국 전력 유틸리티 산업에서 약 5-6%의 시장 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Vivint Smart Home 인수로 홈 서비스 사업 확대 (2023년)
 - Google Cloud 및 Renew Home과 협력하여 1GW 규모의 가상 발전소 구축 계획 발표 (2024년)

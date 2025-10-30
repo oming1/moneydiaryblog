@@ -42,7 +42,9 @@ Loar Holdings의 핵심 경쟁력은 다음과 같습니다:
     
     - 원자재 공급: Alcoa, Carpenter Technology
     - 전자부품 제조: Texas Instruments, Analog Devices
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     
     - 항공기 제조: Boeing (US, [BA](/company-analysis/ba/)), Airbus (FR, [AIR](/company-analysis/air/))
@@ -50,6 +52,8 @@ Loar Holdings의 핵심 경쟁력은 다음과 같습니다:
     - 항공사: Delta Air Lines (US, [DAL](/company-analysis/dal/)), United Airlines (US, [UAL](/company-analysis/ual/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 원자재 조달: Alcoa (알루미늄), Carpenter Technology (특수 합금)
 2. 부품 설계 및 제조: Loar Holdings (주요 사업 영역)
@@ -86,6 +90,8 @@ Loar Holdings는 글로벌 기업으로, 구체적인 국가별 매출 비중은
 5. Woodward, Inc. (US, [WWD](/company-analysis/wwd/))
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 

@@ -28,6 +28,8 @@ Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며,
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 역할: 자동차 및 부품 구매
@@ -47,7 +49,11 @@ Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며,
 - Ford Mustang (스포츠카, 매출 비중: 약 10%, 2023년 기준)
 - [전기차](/industry-study/2산업자동차-산업전기차/): Ford Mustang Mach-E, Ford F-150 Lightning (매출 비중: 증가 추세)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 같습니다:
 
@@ -69,6 +75,8 @@ Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 �
 - [Volkswagen](/company-analysis/volkswagen/) Group (DE, VOW) - 유럽의 주요 자동차 제조업체
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Ford는 2022년 기준으로 세계에서 여섯 번째로 큰 자동차 제조업체로, 미국 내에서 두 번째로 큰 자동차 제조업체입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 

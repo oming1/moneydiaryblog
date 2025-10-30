@@ -30,7 +30,11 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 3. [로봇](/industry-study/로봇/) 운영 플랫폼 및 소프트웨어 개발
 4. 도시 물류 솔루션 제공
 
+{{< adsense-infeed >}}
+
 회사는 인공지능과 로봇 기술을 활용하여 효율적이고 친환경적인 도시 내 배달 서비스를 구현하는 데 주력하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -39,6 +43,8 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 3. 친환경 운영: 전기 구동 방식으로 탄소 배출 감소
 4. 확장성 있는 비즈니스 모델: 다양한 산업 분야로의 적용 가능성
 5. 전략적 파트너십: 주요 식품 배달 플랫폼 및 소매업체와의 협력
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -60,11 +66,15 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Starship Technologies(비상장): 캠퍼스 및 도시 배달 로봇
 2. Nuro(비상장): 자율 주행 배달 차량
 3. Amazon Scout(Amazon.com Inc. 자회사, US, [AMZN](/company-analysis/amzn/)): 라스트마일 배달 로봇
 4. Kiwibot(비상장): 대학 캠퍼스 중심 배달 로봇
 5. Postmates(Uber Technologies Inc. 자회사, US, [UBER](/company-analysis/uber/)): 자율 배달 로봇 개발
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

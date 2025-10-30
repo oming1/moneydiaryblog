@@ -41,12 +41,16 @@ Paramount의 밸류체인은 콘텐츠 제작에서부터 배포 및 소비자�
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **텔레비전 방송**: CBS, MTV, Nickelodeon 등 다양한 채널 운영
 - **영화 제작 및 배급**: Paramount Pictures를 통해 영화 제작 및 배급
 - **스트리밍 서비스**: Paramount+ 및 Pluto TV 운영
 - **출판**: Simon & Schuster를 통해 출판 사업 운영
 
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Paramount의 주요 판매국가는 미국, 캐나다, 영국, 호주, 독일 등입니다. 2023년 기준으로 미국에서 60%, 국제 시장에서 40%의 매출을 기록했습니다.
 
@@ -58,6 +62,8 @@ Paramount의 주요 판매국가는 미국, 캐나다, 영국, 호주, 독일 �
 - **Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))**: 스트리밍 서비스
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Paramount는 글로벌 엔터테인먼트 시장에서 약 10%의 시장 점유율을 차지하고 있습니다. 이는 스트리밍 서비스의 성장과 함께 증가하고 있습니다.
 

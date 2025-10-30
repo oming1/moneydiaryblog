@@ -44,6 +44,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 
 5. 맞춤형 통합 서비스  
 
+{{< adsense-infeed >}}
+
     • 고객 공장·장비에 최적화된 모듈 설계, 현장 설치·펌웨어 지원 서비스를 제공합니다.
 
 이렇게 MACOM 제품은 우리가 보고 듣지 못하는 전파·빛(광) 신호를 칩으로 바꿔 통신, 센싱, 네트워크 연결을 가능하게 합니다.
@@ -51,6 +53,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 ---
 
 ### 비즈니스 모델 (수익 모델)
+
+{{< adsense-infeed >}}
 
 - 사업 부문별 매출 비중 (2024년 예상)  
     • Wireless Infrastructure(기지국용 RF): 32%  
@@ -184,6 +188,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - **방위·우주 RF 솔루션 시장:** MACOM 15% (3위)
 - **3년간 추이:** +2%p 상승 (출처: Bloomberg Intelligence)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 기업 특징 및 성장성
@@ -216,6 +222,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 ### 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - SOXX – iShares PHLX Semiconductor Sector ETF SOXX
 - XSD – SPDR S&P Semiconductor ETF XSD

@@ -41,7 +41,9 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 3. 소프트웨어 통합: SunDAT 및 Atlas 플랫폼을 통한 프로젝트 최적화
     
 4. 글로벌 확장: 다양한 지역에서의 프로젝트 경험 및 현지화 전략
-    
+
+{{< adsense-infeed >}}
+
 5. 원가 절감 노력: 지속적인 제품 개선을 통한 LCOE(균등화발전비용) 감소
 
 ## 전방/후방산업
@@ -119,8 +121,12 @@ FTC Solar의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
-    
+
+{{< adsense-infeed >}}
+
 3. State Street Corporation (4.47%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 
@@ -129,7 +135,9 @@ FTC Solar의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 2. Global X Renewable Energy Producers ETF - RNRG
     
 3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
-    
+
+{{< adsense-infeed >}}
+
 4. iShares Global Clean Energy ETF - ICLN
     
 5. SPDR S&P Kensho Clean Power ETF - CNRG

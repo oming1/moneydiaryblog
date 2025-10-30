@@ -29,12 +29,16 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
     - 핵심 산업: 병원, 약국, 의료 보험
     - 역할: 의약품 공급
     - 주요 기업: CVS Health (미국, [CVS](/company-analysis/cvs/)), UnitedHealth Group (미국, [UNH](/company-analysis/unh/))
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     
     - 핵심 산업: 생명공학 연구 장비, 원료 의약품 제조
     - 역할: 연구 장비 및 원료 공급
     - 주요 기업: Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -44,7 +48,9 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
     - 대표 기업: Gilead Sciences (미국, [GILD](/company-analysis/gild/)), Regeneron Pharmaceuticals (미국, [REGN](/company-analysis/regn/))
     
 - 의약품 생산 및 판매:
-    
+
+{{< adsense-infeed >}}
+
     - 개발된 의약품을 생산하고 시장에 공급합니다.
     - 대표 기업: Novartis (스위스, [NVS](/company-analysis/nvs/)), Eli Lilly (미국, [LLY](/company-analysis/lly/))
 
@@ -56,6 +62,8 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
 - Monjuvi (타파시타맙) - 미만성 대B세포 림프종 치료제
 
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 미국을 중심으로 유럽, 아시아 등 글로벌 시장에서 사업을 전개하고 있습니다.
 
@@ -70,6 +78,8 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
 정확한 시장 점유율 데이터는 제공되지 않았지만, Incyte는 특정 희귀 질환 및 종양학 분야에서 주요 플레이어로 자리잡고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Escient Pharmaceuticals 인수 완료 ($750 million 규모) (2024년)
 - MRGPRX4 및 MRGPRX2 관련 임상 시험 중단으로 인한 주가 하락 (2024년)

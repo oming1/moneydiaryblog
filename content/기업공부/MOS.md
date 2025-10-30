@@ -30,6 +30,8 @@ The Mosaic Company(NYSE: MOS)는 미국 플로리다주 탬파에 본사를 둔 
     
 3. **동물 사료 성분**: 가축 사료에 사용되는 성분.
 
+{{< adsense-infeed >}}
+
 Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/industry-study/4국가중국/), [인도](/industry-study/4국가인도/), 파라과이에 광산, 생산 시설, 블렌딩 및 유통 시설을 보유하고 있으며, 페루의 바요바르 인산염 광산과 사우디아라비아의 인산염 광산 및 화학 복합체 개발을 위한 합작 투자를 포함하고 있습니다. 회사는 북미, 남미, 아시아 태평양 및 중동 지역의 농업 영양소 제조업체와 산업 고객을 대상으로 서비스를 제공합니다.
 
 2023년 기준으로 Mosaic은 136.9억 달러의 매출을 기록했으며, 영업 이익은 13.38억 달러, 순이익은 11.65억 달러, 총 자산은 230.3억 달러, 총 자본은 122.9억 달러입니다. 회사는 약 14,049명의 직원을 고용하고 있습니다.
@@ -51,7 +53,9 @@ Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/
 전방산업:
 
 - 농업: 비료 사용 농업인 (John Deere(US, [DE](/company-analysis/de/)), Corteva(US, [CTVA](/company-analysis/ctva/)))
-    
+
+{{< adsense-infeed >}}
+
 - 동물 사료 산업: 동물 사료 성분 사용 (Tyson Foods(US, [TSN](/company-analysis/tsn/)), Cargill(Cargill))
 
 후방산업:
@@ -65,7 +69,9 @@ Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/
 ## 밸류체인
 
 1. **원료 채굴**: Mosaic(US, [MOS](/company-analysis/mos/)) (인산염 및 칼륨 광산 운영)
-    
+
+{{< adsense-infeed >}}
+
 2. **제품 생산**: Mosaic(US, [MOS](/company-analysis/mos/)) (인산염 및 칼륨 비료 생산)
     
 3. **연구개발**: Mosaic(US, [MOS](/company-analysis/mos/)) (농업 기술 연구)
@@ -77,6 +83,8 @@ Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/
 6. **환경 관리**: Mosaic(US, [MOS](/company-analysis/mos/)) (지속가능성 이니셔티브)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. **인산염 비료**: 농업용 비료 (2023년 매출의 약 45%)
     
@@ -131,6 +139,8 @@ Mosaic은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 - 칼륨 비료: 2023년 기준 글로벌 시장 점유율 22%
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. **2025년 3월 18일 Analyst Day 개최**: Mosaic은 2025년 3월 18일에 Analyst Day를 개최하여 사업 성과, 전망 및 전략적 우선순위를 발표할 예정입니다.
     

@@ -19,6 +19,8 @@ weight: 7
 
 섹터: 정보기술 (Information Technology)
 
+{{< adsense-infeed >}}
+
 ## 산업 (Industry)
 
 산업: 컴퓨터 하드웨어 및 소프트웨어 (Computer Hardware & Software)
@@ -117,6 +119,8 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 
 - 자동화된 조립 라인 운영
 - 엄격한 품질 기준 적용
+
+{{< adsense-infeed >}}
 
 **5. 유통 및 판매:**
 
@@ -298,6 +302,8 @@ Vision Pro를 통한 AR/VR 시장 진출도 미래 성장 동력입니다. 비�
 - 2024년: 중국 시장 iPhone 판매 부진, 현지 브랜드 경쟁 심화 (2024)
 - 2024년: EU 디지털시장법(DMA) 대응, App Store 정책 변경 (2024)
 - 2025년: Vision Pro 본격 출시, 중국 시장 회복 조짐 (2025)
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -33,6 +33,8 @@ IQVIA는 생명 과학 및 제약 산업을 위한 데이터 분석, 기술 솔�
         - Pfizer (미국, [PFE](/company-analysis/pfe/)) - 다양한 의약품 및 백신 제공
         - Merck & Co. (미국, [MRK](/company-analysis/mrk/)) - 제약 제품 제공
 
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 데이터 분석 및 기술 서비스
@@ -44,20 +46,28 @@ IQVIA는 생명 과학 및 제약 산업을 위한 데이터 분석, 기술 솔�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **임상 연구 서비스**:
     
     - IQVIA는 약물 개발 초기 단계에서 필요한 다양한 연구 서비스를 제공합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - Covance (미국, LH) - 전임상 및 임상 시험 서비스 제공
         - ICON plc (아일랜드, ICLR) - 임상 연구 서비스 제공
 
 - **데이터 분석 솔루션**:
-    
+
+{{< adsense-infeed >}}
+
     - 생명 과학 기업을 위한 데이터 분석 및 관리 솔루션을 제공합니다.
     - 대표 기업:
         
         - SAS Institute (미국, 비상장) - 데이터 분석 소프트웨어 제공
+
+{{< adsense-infeed >}}
 
 ## 주요 제품
 

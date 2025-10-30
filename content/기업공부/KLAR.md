@@ -21,9 +21,13 @@ weight: 489
 
 Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Sumatriptan)을 개발하며, 급성 알레르기 반응 치료를 위한 에피네프린/아드레날린(Epinephrine/Adrenaline)을 임상 1상에서 개발 중입니다. 또한, 장기 이식 거부 반응 예방을 위한 시롤리무스(Sirolimus)와 대마초/카나비노이드 상업화에 집중하고 있습니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 **전방산업:**
+
+{{< adsense-infeed >}}
 
 - 제약회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 - 의료기기회사: Medtronic (US, [MDT](/company-analysis/mdt/)), Boston Scientific (US, [BSX](/company-analysis/bsx/))
@@ -34,6 +38,8 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 - 연구기관: Charles River Laboratories (US, [CRL](/company-analysis/crl/)), ICON plc (IE, ICLR)
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **수마트립탄 (Sumatriptan):** 편두통 치료제 (매출 비중: 2023년 기준 60%)
 - **에피네프린/아드레날린 (Epinephrine/Adrenaline):** 급성 알레르기 반응 치료제 (매출 비중: 2023년 기준 30%)

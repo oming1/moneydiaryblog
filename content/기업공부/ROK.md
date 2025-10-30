@@ -27,6 +27,8 @@ Rockwell Automation Inc.(NYSE: ROK)는 미국 위스콘신주 밀워키에 본�
 
 사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](/images/Pasted%20image%2020250331172254.png)
 
+{{< adsense-infeed >}}
+
 지능형 장치 사업부는 록웰의 하드웨어 사업부다. 드라이브, 모션, 안전 센싱, 산업용 부품 및 주문형 제품 판매 등을 영위한다. 
 
 소프트웨어 및 컨트롤 사업부는 자동화를 위한 컨트롤, 시각화 소프트웨어, 디지털 트윈, 시뮬레이션 및 정보 소프트웨어, 네트워크 및 안전 인프라 솔루션 등을 제공한다. 
@@ -109,6 +111,8 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 독일, 일본, 중국, 캐나다, 멕시코
 
 ## 경쟁업체
@@ -116,7 +120,9 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 1. Siemens AG(DE): 글로벌 자동화 및 디지털 솔루션 제공 업체
     
 2. ABB(CH): 산업 자동화 및 로봇 기술 전문 기업
-    
+
+{{< adsense-infeed >}}
+
 3. Schneider Electric(FR): 에너지 관리 및 자동화 솔루션 제공 업체
     
 4. Honeywell International Inc.(US, [HON](/company-analysis/hon/)): 산업용 자동화 시스템 전문 기업
@@ -145,10 +151,14 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
     
 - State Street Corporation (5%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
 
 - Industrial Select Sector SPDR Fund - XLI
-    
+
+{{< adsense-infeed >}}
+
 - iShares U.S. Industrials ETF - IYJ
     
 - Vanguard Industrials ETF - VIS

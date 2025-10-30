@@ -24,6 +24,8 @@ BMW는 고급 [자동차](/industry-study/자동차/) 및 오토바이를 설계
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 역할: 자동차 및 오토바이 판매
@@ -52,7 +54,11 @@ BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 �
 - 아시아: 약 30%
 - 기타: 약 5%
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Daimler AG (DE, DAI) - Mercedes-Benz 브랜드
 - Volkswagen AG (DE, [Volkswagen](/company-analysis/volkswagen/)) - Volkswagen, Audi, Porsche 브랜드
@@ -64,7 +70,11 @@ BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 �
 
 ## 자세한 종목 정보 링크
 
+{{< adsense-infeed >}}
+
 [FINVIZ - BMW](https://www.marketscreener.com/quote/stock/BAYERISCHE-MOTOREN-WERKE-AG-436103/)
+
+{{< adsense-infeed >}}
 
 - 세부정보
 	- [실리콘 음극재](/industry-study/실리콘-음극재/)

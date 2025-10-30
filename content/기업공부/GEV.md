@@ -43,6 +43,8 @@ GE Vernova는 General Electric에서 분사한 글로벌 에너지 기업으로,
 
 GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 기술 혁신: 지속적인 R&D 투자를 통해 최첨단 에너지 기술을 개발하고 있습니다.
 2. 통합 솔루션: 발전, 송전, 배전을 아우르는 종합적인 에너지 솔루션을 제공합니다.
 3. 글로벌 네트워크: 전 세계 100개 이상의 국가에서 80,000명 이상의 직원이 근무하며 광범위한 고객 기반을 보유하고 있습니다.
@@ -52,6 +54,8 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 전력 유틸리티: Duke Energy(US, [DUK](/company-analysis/duk/)), NextEra Energy(US, [NEE](/company-analysis/nee/))
 - 재생에너지 개발: Orsted(DK, ORSTED), Iberdrola(ES, IBE)
@@ -76,6 +80,8 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 - 재생에너지 개발사
 - 산업용 에너지 소비 기업
 - 정부 및 공공기관
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

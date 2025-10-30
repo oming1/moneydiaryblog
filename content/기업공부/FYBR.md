@@ -50,13 +50,19 @@ Frontier Communications는 미국 내에서 통신 및 기술 서비스(광대�
 
 Frontier Communications의 주요 판매국가는 미국입니다. 미국 내 다양한 주 및 지역에서 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체 (Competitors)
+
+{{< adsense-infeed >}}
 
 - **Comcast (미국, [CMCSA](/company-analysis/cmcsa/))**: 광대역 및 비디오 서비스 제공
 - **AT&T (미국, [T](/company-analysis/t/))**: 광대역, 비디오 및 음성 서비스 제공
 - **Verizon Communications (미국, [VZ](/company-analysis/vz/))**: 광대역 및 통신 서비스 제공
 
 #### 최근 3년 내 주요 이슈 (Recent Issues within the Last Three Years)
+
+{{< adsense-infeed >}}
 
 - **2023년 3분기 실적 발표**: 소비자 수익 증가 및 EBITDA 성장 가속화 (2023)
 - **본사 이전**: 본사를 텍사스주 댈러스로 이전 (2023)

@@ -20,12 +20,16 @@ weight: 819
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 수집하고 분석하는 우주 기반 데이터 및 분석 회사입니다. 주로 해양, 항공, 기상 패턴 추적 등의 서비스를 제공합니다.
 
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 기상 예측, 해양 운송, 항공 교통 관리
     - 역할: 위성 데이터 및 분석 서비스 제공
     - 주요 기업: NOAA (미국 정부 기관), Maersk (덴마크, MAERSK-B)
@@ -42,7 +46,9 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
     
     - Spire Global은 자체적으로 CubeSat을 설계하고 제조합니다.
     - 대표 기업: Planet Labs (미국, [PL](/company-analysis/pl/)), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/))
-    
+
+{{< adsense-infeed >}}
+
 - 데이터 수집 및 분석:
     
     - 수집된 데이터를 AI 기반으로 분석하고 고객에게 제공합니다.
@@ -54,6 +60,8 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
 - 항공 데이터 서비스 (ADS-B 항공기 추적 등)
 - 기상 및 기후 데이터 서비스
 - 우주 서비스 (호스팅 페이로드 등)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 
@@ -70,6 +78,8 @@ Spire Global은 전 세계적으로 서비스를 제공하며, 특히 미국, �
 정확한 시장 점유율 데이터는 없으나, Spire Global은 나노위성 기반 데이터 서비스 분야에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 해양 사업부를 Kpler에 $241백만에 매각 계획 발표 (2024년)
 - LEMUR 위성 7기를 SpaceX Transporter-11 미션으로 발사 (2024년)

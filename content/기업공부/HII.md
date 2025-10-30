@@ -32,6 +32,8 @@ Huntington Ingalls Industries(HII)는 미국 최대의 군함 건조 회사이�
 
 HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업으로, 미 해군을 위한 다양한 함정 클래스를 건조해왔습니다. 최근에는 디지털 설계 및 건조 기술을 도입하고 첨단 제조 시설에 투자하는 등 혁신에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 독점적 핵추진 항공모함 건조 능력
@@ -57,6 +59,8 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 - 철강 및 금속: 함정 건조용 원자재 (Nucor(US, [NUE](/company-analysis/nue/)), U.S. Steel(US, [X](/company-analysis/x/)))
     
 - 전자 및 센서: 함정 시스템용 부품 (Raytheon Technologies(US, [RTX](/company-analysis/rtx/)), L3Harris(US, [LHX](/company-analysis/lhx/)))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -109,7 +113,9 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 2. Lockheed Martin(US, [LMT](/company-analysis/lmt/)): 항공우주 및 방위 시스템
     
 3. Northrop Grumman(US, [NOC](/company-analysis/noc/)): 항공우주 및 방위 기술
-    
+
+{{< adsense-infeed >}}
+
 4. BAE Systems(UK, BA.L): 함정 및 잠수함 건조
     
 5. Raytheon Technologies(US, [RTX](/company-analysis/rtx/)): 방위 및 항공우주 기술
@@ -141,7 +147,9 @@ HII는 미국 군함 건조 시장에서 독보적인 위치를 차지하고 있
 ## 관련 ETF
 
 1. iShares U.S. Aerospace & Defense ETF - ITA
-    
+
+{{< adsense-infeed >}}
+
 2. SPDR S&P Aerospace & Defense ETF - XAR
     
 3. Invesco Aerospace & Defense ETF - [PPA](/industry-study/ppa/)

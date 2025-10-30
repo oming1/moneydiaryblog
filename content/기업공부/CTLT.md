@@ -22,6 +22,8 @@ weight: 245
 
 Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레이어로, 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제와 제약 및 소비자  건강 부문으로 나뉩니다.
 
+{{< adsense-infeed >}}
+
 -[미국 최대의 CDMO 기업](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=32&selection=22,0,28,2&color=yellow))
 
 #### 전방/후방산업
@@ -32,6 +34,8 @@ Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레�
 - **후방산업**: 화학 및 원료 공급 산업
     - **핵심 산업**: 원료 의약품(API) 및 화학 물질 공급
     - **핵심 기업**: BASF (독일, BAS), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -48,7 +52,11 @@ Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레�
 - **Softgel Capsules**: 다양한 의약품 및 건강 보조제에 사용
 - **Biologics**: 세포 및 유전자 치료제, 백신 등
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Catalent의 주요 판매국가는 미국, 유럽, 아시아 태평양 지역입니다. 국가별 매출액 비중은 공개된 자료가 없으나, 주된 매출 국가는 미국과 유럽입니다.
 

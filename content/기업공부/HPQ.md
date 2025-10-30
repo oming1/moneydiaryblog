@@ -20,6 +20,8 @@ weight: 416
 섹터(Sector): Technology – 테크  
 산업(Industry): Computer Hardware & Printing – 컴퓨터 하드웨어 및 프린팅
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -33,6 +35,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 2. 프린터 하드웨어  
     • 가정용·사무용 소형 프린터부터 대형 산업용 프로덕션 프린터까지 다양  
     • 프린터 본체는 비교적 낮은 마진이나, 고객 유입용 관문 역할
+
+{{< adsense-infeed >}}
 
 3. 잉크·토너·소모품  
     • 잉크 카트리지, 토너, 용지 등 소모품 교체 수요로 꾸준히 매출 발생  
@@ -83,6 +87,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - 높은 브랜드 인지도 – 소비자 PC 시장 점유율 2위(글로벌 기준)
 - 충성도 높은 소모품 매출 – 전체 매출 30%가 반복 매출
 - 비용 효율화 – 폭넓은 협력사(Foxconn, Jabil)와 공장 운영으로 원가 절감
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -146,6 +152,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - 광학유리·플라스틱: Covestro, Celanese(US, [CE](/company-analysis/ce/))
 - 잉크·토너 화학물질: BASF(DE, BAS)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 고객
@@ -158,6 +166,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 ---
 
 ### 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 - 미국: 60% (2023년 기준)
 - EMEA: 25% (유럽·중동·아프리카)

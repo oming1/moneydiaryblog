@@ -24,7 +24,11 @@ Maxar Technologies Inc.는 위성 이미지, 지리 공간 데이터, 우주 기
 
 - 지구 관측 목적 실시간 고해상도 데이터 제공 및 [통신 위성](/industry-study/통신-위성/)/[관측 위성](/industry-study/관측-위성/) 제작 후 판매 서비스
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **위성 통신**: 위성을 이용한 통신 서비스 제공. 주요 기업: SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)), Intelsat (미국, [I](/company-analysis/i/)).
@@ -42,11 +46,15 @@ Maxar Technologies Inc.는 위성 이미지, 지리 공간 데이터, 우주 기
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **위성 이미지**: 고해상도 위성 이미지를 제공.
 - **지리 공간 데이터**: 다양한 산업에서 활용 가능한 지리 공간 데이터.
 - **우주 기반 솔루션**: 위성 설계, 제조, 발사 및 운영 서비스.
 
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Maxar Technologies는 주로 미국, 캐나다, 유럽 등에서 서비스를 제공하고 있습니다. 주요 시장은 미국입니다
 

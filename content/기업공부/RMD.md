@@ -24,13 +24,17 @@ ResMed는 수면 무호흡, 만성 폐쇄성 폐질환(COPD) 및 기타 호흡�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 의료기기 및 치료 솔루션의 유통 및 판매
     - **관련 기업**: Philips Healthcare (NL, [PHG](/company-analysis/phg/)), Fisher & Paykel Healthcare (NZ, [FPH.NZ](/company-analysis/fphnz/))
     
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 의료기기 부품 및 원자재 공급
     - **관련 기업**: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Medtronic (US, [MDT](/company-analysis/mdt/))
 
@@ -62,6 +66,8 @@ ResMed는 수면 무호흡, 만성 폐쇄성 폐질환(COPD) 및 기타 호흡�
 
 ResMed는 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아시아태평양 지역입니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - **Philips Healthcare (NL, [PHG](/company-analysis/phg/))** - 수면 및 호흡기 치료 기기
@@ -69,9 +75,13 @@ ResMed는 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 - **Medtronic (US, [MDT](/company-analysis/mdt/))** - 다양한 의료기기 및 치료 솔루션
 - 일라이릴리([LLY](/company-analysis/lly/)) - 2024년 12월 비만 치료제 젭바운드를 수면 무호흡증에 사용하는 허가 획득
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 ResMed는 수면 무호흡증 치료 기기 시장에서 약 30%의 점유율을 보유하고 있으며, 호흡기 치료 기기 시장에서도 중요한 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

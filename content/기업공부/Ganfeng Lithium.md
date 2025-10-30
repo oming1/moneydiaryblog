@@ -20,6 +20,8 @@ weight: 363
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Ganfeng Lithium은 리튬 제품의 연구, 개발, 생산 및 판매를 전문으로 하며, 주요 사업으로는 리튬 금속 및 화합물, 리튬 배터리, [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/) 광물 자원 개발 등이 있습니다. 또한, 배터리 재활용 서비스도 제공합니다.
 
 #### 전방/후방산업
@@ -44,6 +46,8 @@ Ganfeng Lithium은 리튬 제품의 연구, 개발, 생산 및 판매를 전문�
 - **리튬 금속**: 리튬 금속 및 합금
 - **리튬 배터리**: 전기차 및 에너지 저장 시스템용 배터리
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **중국**: 전체 매출의 약 67.33% (2023년 기준)
@@ -59,7 +63,11 @@ Ganfeng Lithium은 리튬 제품의 연구, 개발, 생산 및 판매를 전문�
 
 #### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 [Ganfeng Lithium은 글로벌 리튬 화합물 시장에서 약 24%의 점유율을 보유하고 있으며, 이는 2023년 기준으로 세계 3위입니다](https://money.usnews.com/investing/news/articles/2024-03-09/chinas-lithium-market-set-for-long-term-uptrend-says-ganfeng-lithium)[2](https://www.ganfenglithium.com/index_en).
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

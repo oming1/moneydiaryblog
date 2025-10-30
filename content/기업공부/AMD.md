@@ -41,6 +41,8 @@ weight: 60
     - Arrow Electronics (US, [ARW](/company-analysis/arw/)): 전자 부품 유통
     - Avnet (US, [AVT](/company-analysis/avt/)): 전자 부품 유통
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 
 - **Ryzen 프로세서:** 데스크탑 및 노트북용 CPU
@@ -50,11 +52,15 @@ weight: 60
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **중국:** 주요 매출 국가
 - **일본:** 주요 매출 국가
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Intel (US, [INTC](/company-analysis/intc/)):** CPU 및 반도체 제품
 - **NVIDIA (US, [NVDA](/company-analysis/nvda/)):** GPU 및 AI 가속기
@@ -67,6 +73,8 @@ weight: 60
 - **데스크탑 CPU 시장 점유율:** 23.9% (2024년 1분기 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **PC 시장 회복:** PC 시장의 회복과 클라이언트 프로세서 시장 점유율 증가 (2023-2024)
 - **데이터 센터 성장:** 데이터 센터 프로세서 사업의 성장 (2023-2024)

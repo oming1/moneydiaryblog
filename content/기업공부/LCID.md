@@ -20,6 +20,8 @@ weight: 506
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 소매업, 자동차 판매 및 서비스
     - **핵심 산업 및 역할**: 자동차 딜러, 온라인 자동차 판매 플랫폼 등. 이들은 Lucid 차량을 최종 소비자에게 판매합니다.
     - **관련 기업**: AutoNation Inc. (미국, [AN](/company-analysis/an/)), Carvana Co. (미국, [CVNA](/company-analysis/cvna/))
@@ -27,6 +29,8 @@ weight: 506
 - **후방산업**: 배터리 제조, 전자 부품 공급업체
     - **핵심 산업 및 역할**: 배터리 제조업체와 전자 부품 공급업체는 Lucid 차량의 핵심 부품을 제공합니다.
     - **관련 기업**: Panasonic Corporation (일본, 6752), [LG에너지솔루션](/industry-study/lg에너지솔루션/) (한국, 373220)
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -39,14 +43,20 @@ weight: 506
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **[전기차](/industry-study/2산업자동차-산업전기차/)**: Lucid Air (럭셔리 전기 세단)
 - **향후 출시 예정**: Lucid Gravity (전기 SUV, 2024년 말 생산 예정)
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 주요 매출 국가로, 전체 매출의 대부분을 차지
 - **유럽**: 빠르게 성장하는 시장
 - **중동**: 특히 사우디아라비아에서 높은 수요
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

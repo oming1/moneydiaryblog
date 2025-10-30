@@ -22,11 +22,17 @@ weight: 792
 
 시바니 스틸워터는 주로 백금족 금속(PGM), 금, 리튬 및 기타 금속을 생산하는 글로벌 광업 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **Platinum Group Metals (PGMs)**: [백금](/industry-study/백금/), [팔라듐](/industry-study/팔라듐/), 로듐 등
 - **Gold**: [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) 생산
 - **Battery Metals**: [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/) 등 [배터리](/industry-study/배터리/) 금속 생산
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 광물 탐사 및 채굴

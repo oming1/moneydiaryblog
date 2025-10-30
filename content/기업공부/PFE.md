@@ -29,6 +29,8 @@ Pfizer는 지속적인 R&D 투자를 통해 혁신적인 의약품 개발에 주
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴리오, 글로벌 시장 지배력에 있습니다.
 
 1. 연구개발 역량: Pfizer는 연간 수십억 달러를 R&D에 투자하여 혁신적인 의약품을 지속적으로 개발하고 있습니다. 특히 mRNA 기술을 활용한 COVID-19 백신 개발 성공은 회사의 혁신 능력을 입증했습니다.
@@ -38,6 +40,8 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 5. 전략적 제휴 및 인수: 바이오테크 기업들과의 협력과 전략적 인수를 통해 혁신적인 기술과 파이프라인을 확보하고 있습니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -59,6 +63,8 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 4. 유통: McKesson(US, [MCK](/company-analysis/mck/)), AmerisourceBergen(US, [ABC](/company-analysis/abc/)) (의약품 유통)
 5. 판매 및 마케팅: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) (글로벌 마케팅)
 6. 환자 서비스: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/)) (의료서비스 및 약국)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -101,7 +107,11 @@ Pfizer는 2024년 3분기 기준 글로벌 제약 시장에서 약 7.88%의 점�
 - 암 치료제 파이프라인 확대를 위한 Seagen 인수 계획 발표 (2023년)
 - COVID-19 경구용 치료제 Paxlovid의 긴급사용승인 획득 및 공급 확대 (2022년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Vanguard Group (8.17%)
 - BlackRock (7.38%)

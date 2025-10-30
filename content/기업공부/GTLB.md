@@ -47,6 +47,8 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 플랫폼 개발: GitLab (US, [GTLB](/company-analysis/gtlb/)) (DevSecOps 플랫폼)
 2. 클라우드 인프라: Google Cloud Platform (US, [GOOGL](/company-analysis/googl/)) (GitLab 호스팅)
 3. 보안 및 컴플라이언스: GitLab (US, [GTLB](/company-analysis/gtlb/)) (내장된 보안 기능)
@@ -74,9 +76,13 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 GitLab은 DevSecOps 플랫폼 분야에서 주요 플레이어 중 하나로 인식되고 있으며, 약 3,000만 명의 등록 사용자와 100만 명 이상의 활성 라이선스 사용자를 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2021년 10월 14일 나스닥 상장 (2021년)
 2. AI 기반 DevSecOps 기능 강화 및 GitLab Duo 출시 (2023년)

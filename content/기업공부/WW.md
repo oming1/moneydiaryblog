@@ -61,6 +61,8 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - **IT·모바일 서비스 개발**: Google(US, [GOOGL](/company-analysis/googl/)), Apple(US, [AAPL](/company-analysis/aapl/))
     
 - **데이터 분석/디지털 플랫폼**: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Salesforce(US, [CRM](/company-analysis/crm/))
@@ -70,7 +72,9 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 ## 밸류체인
 
 1. **프로그램 개발**: 식단, 운동, 행동변화 프로그램 기획 및 설계
-    
+
+{{< adsense-infeed >}}
+
 2. **디지털/모바일 서비스 개발**: 앱 및 온라인 플랫폼 구축
     
 3. **구독 및 회원 관리**: 디지털 마케팅, 신규 회원 모집, 데이터 기반 개인화
@@ -88,6 +92,8 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 - **건강식품, 레시피, 피트니스 관련 부가상품** (매출의 약 5%)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 1. 20~60대 여성(주축), 남성 회원 비중 증가 추세
     

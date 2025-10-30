@@ -60,6 +60,8 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 
 ### 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 - 사업 부문별 매출 구조(방향성)
     - 연소 제품(Combustibles): 핵심 캐시카우. 성숙 시장이지만 가격 인상과 프리미엄 브랜드 믹스로 마진 방어.
     - 비연소 제품(New Categories: Vuse, glo, Velo): 고성장 축. 기기(낮은 마진/보급) + 소모품 반복 매출(높은 마진) 구조.
@@ -121,7 +123,11 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 - 연소: 원엽담배 매입(품종·산지별 수확·건조), 블렌딩 설계, 지(페이퍼)·필터·향료 조달.
 - 비연소: 전자담배 카트리지 액상(니코틴·PG/VG·향료) 배합, 가열담배 스틱 충전, 파우치 충전용 기재 준비.
 
+{{< adsense-infeed >}}
+
 2단계: 가공·충전
+
+{{< adsense-infeed >}}
 
 - 연소: 절단·가습·블렌딩 → 지에 충전·성형 → 필터 결합 → 스틱 절단.
 - 전자담배: 카트리지 충전·밀봉, 히팅 코일/위크 조립, 기기 본체(배터리·제어보드) 조립.
@@ -152,6 +158,8 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 - 지/필터·포장: Essentra PLC(UK, ESNT.L), Mativ(US, MATV).
 - 향료·첨가: Firmenich/IFT 등 글로벌 향료사.
 - 디바이스 부품: 배터리 셀(파우치형), 전자부품(PCB), 히팅 코일·세라믹.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -231,6 +239,8 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 ---
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Philip Morris International(US, [PM](/company-analysis/pm/)) – IQOS·ZYN(스웨디시매치)로 비연소 선도.
 - Altria Group(US, [MO](/company-analysis/mo/)) – 미국 연소 1위권, NJOY 전자담배 보유.

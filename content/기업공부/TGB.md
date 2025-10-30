@@ -94,6 +94,8 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 
 ### 핵심 기술
 
+{{< adsense-infeed >}}
+
 - **ISCR (In-Situ Copper Recovery) 기술:** 지하 광체에서 직접 구리를 용해하여 추출, 환경 발자국 최소화.
 - **선광 효율성 기술:** 광물 회수율을 높이고 폐기물을 줄이는 첨단 부유 선광 기술.
 - **광산 자동화 및 디지털화:** 생산 데이터 분석을 통한 운영 최적화 및 예방 유지보수.
@@ -159,6 +161,8 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 
 ### 주요 제품
 
+{{< adsense-infeed >}}
+
 - **구리 (Copper):** 농축물 및 캐소드 형태, 매출 비중 90% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), Hudbay Minerals(US, [HBM](/industry-study/hbm/)), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **몰리브덴 (Molybdenum):** 농축물 형태, 매출 비중 10% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), SCM Minera Escondida.
 
@@ -172,6 +176,8 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **폭발물:** 채굴용.
 - **노동력:** 광산 운영 인력.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 고객
@@ -179,6 +185,8 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **글로벌 금속 제련소:** 중국, 일본, 한국, 유럽의 제련소.
 - **금속 트레이딩 회사:** Glencore, Trafigura 등.
 - **합금강 제조업체:** 몰리브덴 구매자.
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -36,6 +36,8 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
     
 5. 미국 내 제조: 테네시와 앨라배마 주에서 고품질 제품 생산
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -61,7 +63,9 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 4. 판매 및 마케팅: 직접 판매팀, 산업 컨퍼런스 참여
     
 5. 설치 및 시공: EPC 파트너사, 현장 기술 지원
-    
+
+{{< adsense-infeed >}}
+
 6. 고객 서비스: Shoals 고객 지원팀, 프로젝트 최적화 지원
 
 ## 주요제품
@@ -123,7 +127,9 @@ Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차
 2. Global X Renewable Energy Producers ETF - RNRG
     
 3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
-    
+
+{{< adsense-infeed >}}
+
 4. iShares Global Clean Energy ETF - ICLN
     
 5. SPDR S&P Kensho Clean Power ETF - CNRG

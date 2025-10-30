@@ -25,6 +25,8 @@ weight: 431
 
 ## 4. 영위사업
 
+{{< adsense-infeed >}}
+
 CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 통제된 환경 농업(Controlled Environment Agriculture, CEA) 시스템 설계 및 제조에 특화된 회사였습니다. 자회사인 Surna Cultivation Technologies를 통해 실내 농업 및 수직 농업을 위한 환경 제어 시스템을 제공했으나, 최근 사업 방향을 크게 전환했습니다.
 
 2025년 6월, CEA Industries는 캐나다의 선도적인 전자담배 유통 및 제조업체인 Fat Panda Ltd.를 인수하며 규제된 니코틴 시장으로 진출했습니다. Fat Panda는 캐나다 중부 지역에서 50% 이상의 시장 점유율을 가진 33개 소매점과 전국적인 전자상거래 플랫폼을 운영하고 있으며, 연간 약 3,850만 캐나다 달러(약 2,850만 미국 달러)의 매출과 39%의 높은 매출총이익률을 기록하는 수직 통합된 비즈니스 모델을 가지고 있습니다.
@@ -77,6 +79,8 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 - **옴니채널 리테일 기술**: 오프라인 소매점과 온라인 플랫폼을 통합한 전자담배 유통 시스템
 - **환경 제어 시스템**: 기존 사업인 Surna Cultivation Technologies의 실내 농업 환경 제어 기술
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 8. 제조 공정
@@ -125,6 +129,8 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 - YZi Labs(비상장): BNB 재무 전략 지원 및 자본 유치
 - Cantor Fitzgerald & Co.(비상장): 리드 금융 어드바이저 및 단독 배치 에이전트
 - 기관 투자자: Pantera Capital, Arche Capital, GSR 등 140개 이상의 구독자 참여
+
+{{< adsense-infeed >}}
 
 **자산 관리 단계:**
 
@@ -209,6 +215,8 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 ## 16. 산업 내 글로벌 시장 점유율
 
 **시장 점유율 추이:**
+
+{{< adsense-infeed >}}
 
 - 2025년: 암호화폐 트레저리 시장에서 신규 진입 (BNB 특화 시장에서는 선도적 위치)
 - 2025년: 캐나다 중부 지역 전자담배 시장에서 약 50% 점유율 (Fat Panda 인수를 통해)

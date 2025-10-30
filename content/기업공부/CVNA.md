@@ -20,6 +20,8 @@ weight: 249
 
 Carvana Co.(CVNA)는 미국의 선도적인 온라인 중고차 판매 플랫폼입니다. 주요 사업은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 온라인 중고차 판매: 웹사이트와 모바일 앱을 통해 중고차 구매 및 판매 서비스 제공
 2. 자동차 금융 서비스: 자체 금융 솔루션을 통한 자동차 대출 제공
 3. 차량 배송 서비스: 전국적인 물류 네트워크를 통한 홈 딜리버리 서비스
@@ -47,6 +49,8 @@ Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 1. 자동차 제조: General Motors Company(US, [GM](/company-analysis/gm/))
 2. 자동차 경매: Copart, Inc.(US, [CPRT](/company-analysis/cprt/))
 3. 자동차 물류: United Parcel Service, Inc.(US, [UPS](/company-analysis/ups/))
@@ -73,9 +77,13 @@ Carvana의 주요 고객은 온라인으로 중고차를 구매하거나 판매�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Carvana는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. CarMax, Inc.(US, [KMX](/company-analysis/kmx/)) - 중고차 소매 및 도매
 2. AutoNation, Inc.(US, [AN](/company-analysis/an/)) - 자동차 소매 및 서비스

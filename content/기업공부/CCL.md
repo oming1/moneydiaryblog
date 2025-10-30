@@ -22,6 +22,8 @@ weight: 182
 
 Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 운영합니다. 주요 브랜드로는 Carnival Cruise Line, Princess Cruises, Holland America Line 등이 있습니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 - **전방산업:** 여행 및 관광업
@@ -45,17 +47,23 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **크루즈 여행 패키지:** 다양한 목적지와 일정의 크루즈 여행 제공
 - **온보드 서비스:** 레스토랑, 엔터테인먼트, 스파 등 다양한 서비스 제공
 - **기항지 투어:** 크루즈 여행 중 기항지에서의 투어 및 활동 제공
 
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/)):** 크루즈 여행 패키지
 - **Norwegian Cruise Line Holdings (미국, [NCLH](/company-analysis/nclh/)):** 크루즈 여행 패키지

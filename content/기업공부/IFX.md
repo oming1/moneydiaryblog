@@ -20,6 +20,8 @@ Industry: [반도체](/industry-study/반도체/)(Semiconductors)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Infineon Technologies AG는 세계적인 반도체 및 시스템 솔루션 제공업체입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 자동차 반도체
@@ -32,6 +34,8 @@ Infineon은 특히 [자동차](/industry-study/자동차/) 산업에서 강세�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. AURIX™ TriCore™ 마이크로컨트롤러: 자동차 및 산업용 애플리케이션에 사용
 2. XMC™ 산업용 마이크로컨트롤러: 전력 변환, 공장 자동화 등에 활용
 3. PSoC™ 및 TRAVEO™ 마이크로컨트롤러: 자동차, 소비자, 산업용 애플리케이션 대상
@@ -42,12 +46,18 @@ Infineon은 특히 [자동차](/industry-study/자동차/) 산업에서 강세�
 
 Infineon은 전 세계적으로 사업을 영위하고 있으며, 특히 유럽, 북미, 아시아 지역에서 강세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. NXP Semiconductors ([NXPI](/company-analysis/nxpi/))
 2. STMicroelectronics ([STM](/company-analysis/stm/))
 3. Texas Instruments ([TXN](/company-analysis/txn/))
 4. Renesas Electronics (6723.T)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

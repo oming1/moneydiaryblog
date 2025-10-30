@@ -20,9 +20,15 @@ weight: 71
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 ANKI는 주로 생명공학 분야에서 신약 개발 및 상업화를 목표로 하는 기업입니다. 주요 연구 분야는 암 치료제, 면역 치료제, 그리고 희귀 질환 치료제입니다.
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업:**
     - **제약산업:** 신약 개발 및 상업화. 주요 기업: 화이자 (미국, [PFE](/company-analysis/pfe/)), 머크 (미국, [MRK](/company-analysis/mrk/)).
@@ -32,6 +38,8 @@ ANKI는 주로 생명공학 분야에서 신약 개발 및 상업화를 목표�
     - **바이오테크 연구기관:** 기초 연구 및 임상 시험 지원. 주요 기관: NIH (미국), FDA (미국).
 
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구 및 개발:**
     - **대표회사:** 암젠 (미국, [AMGN](/company-analysis/amgn/)), 길리어드 사이언스 (미국, [GILD](/company-analysis/gild/)).
@@ -45,6 +53,8 @@ ANKI는 주로 생명공학 분야에서 신약 개발 및 상업화를 목표�
 - **마케팅 및 판매:**
     - **대표회사:** 화이자 (미국, [PFE](/company-analysis/pfe/)), 노바티스 (스위스, [NOVN](/company-analysis/novn/)).
     - **설명:** 신약의 시장 출시 및 판매 전략 수립.
+
+{{< adsense-infeed >}}
 
 ### 주요제품
 

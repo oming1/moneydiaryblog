@@ -31,16 +31,22 @@ Melco Resorts & Entertainment은 아시아와 유럽에서 엔터테인먼트 �
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 부동산 개발: Melco Resorts
 2. 카지노 운영: 다양한 브랜드의 카지노
 3. 호텔 운영: Altira Macau, City of Dreams 등
 4. 식음료 서비스: 다수의 레스토랑 및 바
 5. 엔터테인먼트: 공연장, 나이트클럽 운영
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

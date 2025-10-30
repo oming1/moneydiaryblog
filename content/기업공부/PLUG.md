@@ -27,6 +27,8 @@ Industry: Electrical Equipment & Parts (전기 장비 및 부품)
 
 Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발, 제조 및 판매하는 기업입니다. 주로 물류, 자동차, 고정형 발전 등의 분야에 수소 연료전지 솔루션을 제공합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -35,6 +37,8 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 - 자동차: Renault (FR, RNO.PA)
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 수소 생산: Air Liquide (FR, AI.PA)
 - 연료전지 부품: Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/))
@@ -52,10 +56,14 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - GenDrive (물류용 연료전지 시스템, 매출의 약 60%)
 - GenFuel (수소 공급 인프라, 매출의 약 20%)
 - GenSure (백업 전원용 연료전지, 매출의 약 10%)
 - ProGen (차량용 연료전지 엔진, 매출의 약 10%)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

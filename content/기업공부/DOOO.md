@@ -23,9 +23,13 @@ BRP Inc.(DOOO)는 캐나다의 파워스포츠 차량 및 해양 제품 제조�
 - **직원 수**: 23,000명
 - **CEO**: 호세 보이조리(Jose Boisjoli)
 
+{{< adsense-infeed >}}
+
 ## 주요 사업 부문
 
 ## 파워스포츠 부문
+
+{{< adsense-infeed >}}
 
 - Can-Am 사계절용 차량
 - Ski-Doo 및 Lynx 스노모빌
@@ -46,10 +50,16 @@ BRP Inc.(DOOO)는 캐나다의 파워스포츠 차량 및 해양 제품 제조�
 - 보트
 - 엔진
 
+{{< adsense-infeed >}}
+
 ## 시장 현황
+
+{{< adsense-infeed >}}
 
 - 100개 이상 국가에 제품 판매
 - 제조 시설: 캐나다, 미국, 멕시코, 핀란드, 오스트리아
+
+{{< adsense-infeed >}}
 
 ## 최근 주요 이슈
 

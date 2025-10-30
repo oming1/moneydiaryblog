@@ -106,12 +106,16 @@ NICE Ltd는 AI 기반 디지털 비즈니스 솔루션을 위한 클라우드 �
 
 NICE는 [CCaaS](/industry-study/ccaas/)(Contact Center as a Service) 시장에서 선도적인 위치를 차지하고 있으며, 2024년 기준 약 15-20%의 시장 점유율을 보유하고 있는 것으로 추정됩니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 1. Scott Russell 신임 CEO 취임 (2025년)
     
 2. CXone Mpower AI 플랫폼 출시 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 3. 1CX 통합 커뮤니케이션 솔루션 발표 (2024년)
     
 4. 5억 달러 규모의 자사주 매입 프로그램 발표 (2024년)
@@ -125,6 +129,8 @@ NICE는 [CCaaS](/industry-study/ccaas/)(Contact Center as a Service) 시장에�
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

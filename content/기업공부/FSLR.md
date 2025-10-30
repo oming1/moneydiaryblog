@@ -60,6 +60,8 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. R&D: First Solar(US, [FSLR](/company-analysis/fslr/)) (CdTe 기술 개발)
 2. 원자재 조달: 5N Plus(CA, VNP) (텔루륨 공급)
 3. 모듈 제조: First Solar(US, [FSLR](/company-analysis/fslr/)) (CdTe 모듈 생산)
@@ -90,6 +92,8 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - JinkoSolar(CN, [JKS](/company-analysis/jks/)) - 결정질 실리콘 태양전지
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/)) - 다결정 및 단결정 실리콘 모듈
 - LONGi Green Energy Technology(CN, 601012) - 단결정 실리콘 웨이퍼 및 모듈
@@ -114,6 +118,8 @@ First Solar는 2023년 기준 전 세계 태양광 모듈 시장에서 약 3-4%�
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

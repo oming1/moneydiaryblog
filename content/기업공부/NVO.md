@@ -1,4 +1,4 @@
----
+﻿---
 title: "NVO"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-10-29T06:50:27+09:00
@@ -33,13 +33,17 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 	- **약국 체인:** CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
 
 - **후방산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **원료 공급**: 의약품 제조에 필요한 원료를 공급하는 산업입니다.
     - **주요 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 	- **원료 공급업체:** BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
 	- **제약 장비 제조업체:** Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Danaher (US, [DHR](/company-analysis/dhr/))
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구 및 개발 (R&D)**: Novo Nordisk는 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
     - **대표 회사**: Roche (스위스, [ROG](/company-analysis/rog/)), Merck (미국, [MRK](/company-analysis/mrk/))
@@ -51,6 +55,8 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
     - **대표 회사**: McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Ozempic, [오젬픽](/industry-study/오젬픽/)® ([세마글루타이드](/industry-study/세마글루타이드/))**: 제2형 당뇨병 치료제, [비만 치료제](/industry-study/비만-치료제/) (2023년 매출 비중: 30%)
 - [Oral amycretin](/industry-study/oral-amycretin/)(GLP-1/Amylin 이중 작용제; 노보노디스크)
@@ -78,10 +84,14 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 
 #### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 - **당뇨병 치료제**: 글로벌 시장 점유율 약 30% (2023년 기준)
 - **비만 치료제**: 글로벌 시장 점유율 약 20% (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Ozempic®의 글로벌 공급 부족** (2022)
 - **Wegovy®의 FDA 승인** (2021)

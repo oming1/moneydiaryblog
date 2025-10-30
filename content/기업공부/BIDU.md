@@ -20,9 +20,15 @@ weight: 131
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Baidu는 중국의 주요 인터넷 검색 엔진으로, [광고](/industry-study/2산업광고/), 클라우드 컴퓨팅, 인공지능(AI) 및 [자율 주행](/industry-study/자율-주행/) 기술, 전자상거래 등 다양한 분야에서 사업을 운영하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
+
+{{< adsense-infeed >}}
 
 - **전방 산업 (Downstream Industry)**:
     
@@ -43,7 +49,9 @@ Baidu는 중국의 주요 인터넷 검색 엔진으로, [광고](/industry-stud
     - 대표 기업: Google (미국, [GOOGL](/company-analysis/googl/)) - 경쟁 제품: 검색 엔진 및 디지털 광고
     
 - **클라우드 서비스**:
-    
+
+{{< adsense-infeed >}}
+
     - Baidu Cloud는 데이터 저장소와 AI 도구를 포함한 다양한 클라우드 서비스를 제공합니다.
     - 대표 기업: Alibaba Cloud (중국, 9988) - 경쟁 제품: 클라우드 컴퓨팅 서비스
     
@@ -63,7 +71,9 @@ Baidu는 중국의 주요 인터넷 검색 엔진으로, [광고](/industry-stud
     
     - Baidu Cloud는 기업 고객을 위한 클라우드 솔루션을 제공합니다.
     - 매출 비중: 전체 매출의 약 25% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **AI 기반 솔루션**:
     
     - 자율주행차와 관련된 Apollo 프로젝트를 포함하여 다양한 AI 솔루션을 제공합니다.

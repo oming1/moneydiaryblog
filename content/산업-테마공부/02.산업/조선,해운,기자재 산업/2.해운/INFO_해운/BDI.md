@@ -120,6 +120,8 @@ weight: 2
         
     - Kuehne + Nagel(CH - KNIN): 국제 물류 및 공급망 관리
 
+{{< adsense-infeed >}}
+
 ## 해당 산업에 주된 영향을 미치는 원자재
 
 1. 철광석
@@ -155,7 +157,9 @@ weight: 2
     - Vale(BR - [Vale](/company-analysis/vale/)): 철광석 생산
         
     - Glencore(CH - [GLEN](/company-analysis/glen/)): 다양한 광물 자원 생산 및 트레이딩
-        
+
+{{< adsense-infeed >}}
+
 2. 선박 건조  
     개념: 건화물선의 설계 및 제작  
     역할: 해운 시장의 공급 측면 결정
@@ -163,7 +167,9 @@ weight: 2
     - Hyundai Heavy Industries(KR - 009540): 대형 선박 건조
         
     - Mitsubishi Heavy Industries(JP - 7011): 다양한 선박 유형 건조
-        
+
+{{< adsense-infeed >}}
+
 3. 해운 서비스  
     개념: 건화물의 해상 운송  
     역할: BDI의 직접적인 구성 요소인 운임 결정
@@ -171,7 +177,9 @@ weight: 2
     - Star Bulk Carriers(GR - SBLK): 건화물 해상 운송
         
     - Golden Ocean Group(BM - GOGL): 건화물선 운영
-        
+
+{{< adsense-infeed >}}
+
 4. 무역 중개  
     개념: 화주와 선사 간 계약 중개  
     역할: 효율적인 해운 시장 형성에 기여
@@ -179,7 +187,9 @@ weight: 2
     - Clarksons(UK - CKN): 해운 중개 및 연구 서비스
         
     - Braemar(UK - BMS): 해운 및 에너지 중개 서비스
-        
+
+{{< adsense-infeed >}}
+
 5. 금융 서비스  
     개념: 해운 및 원자재 관련 금융 상품 제공  
     역할: 해운 산업의 자금 조달 및 리스크 관리 지원

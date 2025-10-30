@@ -27,10 +27,14 @@ Waymo는 [자율 주행](/industry-study/자율-주행/) 기술을 개발하고 
 - **전방산업**:
     - **운송 및 물류**: 물류 및 배송 서비스 제공업체 (예: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/)))
     - **모빌리티 서비스**: 차량 공유 및 택시 서비스 제공업체 (예: Uber (US, [UBER](/company-analysis/uber/)), Lyft (US, [LYFT](/company-analysis/lyft/)))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     - **자동차 제조**: 자율주행차 제조업체 (예: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/)))
     - **소프트웨어 개발**: 자율주행 소프트웨어 개발업체 (예: Nvidia (US, [NVDA](/company-analysis/nvda/)), Intel (US, [INTC](/company-analysis/intc/)))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -42,6 +46,8 @@ Waymo는 [자율 주행](/industry-study/자율-주행/) 기술을 개발하고 
 
 - **Waymo One**: 자율주행 로봇택시 서비스
 - **Waymo Via**: 자율주행 트럭 및 배송 서비스
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

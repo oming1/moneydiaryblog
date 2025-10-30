@@ -26,6 +26,8 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 
 2010년 설립된 이 회사는 인프라스트럭처 모니터링, 애플리케이션 성능 모니터링(APM), 로그 관리, 사용자 경험 모니터링, 보안 모니터링 등을 통합한 종합적인 관찰 가능성(observability) 플랫폼을 제공합니다.
 
+{{< adsense-infeed >}}
+
 주요 제품으로는 인프라스트럭처 모니터링, APM, 로그 관리, 네트워크 성능 모니터링, 보안 모니터링, 실시간 사용자 모니터링(RUM) 등이 있습니다. 이러한 제품들은 Datadog 플랫폼을 통해 통합되어 제공됩니다.최근 1년 내 주요 이슈로는 AI 기반 모니터링 및 분석 기능 강화, 클라우드 보안 포지셔닝 확대, Cloudcraft 인수를 통한 클라우드 인프라 시각화 기능 강화 등이 있습니다.
 
 ## 핵심 경쟁력
@@ -57,6 +59,8 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 - 로그 관리: 로그 수집, 분석, 저장, 매출의 약 20% (2024년 기준)
 - 보안 모니터링: 위협 탐지 및 대응, 매출의 약 10% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 - Peloton(US, [PTON](/company-analysis/pton/)): 피트니스 플랫폼
@@ -70,6 +74,8 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 미국, 유럽 주요국, 일본, 호주, 싱가포르
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Dynatrace(US, DT): APM 및 디지털 경험 모니터링
 - New Relic(US, NEWR): 소프트웨어 분석 및 APM
@@ -96,6 +102,8 @@ Datadog은 2024년 기준 APM 및 인프라스트럭처 모니터링 시장에�
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Cloud Computing ETF - CLOU
 - First Trust Cloud Computing ETF - SKYY

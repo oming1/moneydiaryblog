@@ -26,6 +26,8 @@ weight: 663
 - **Hardware Business**: 엔터프라이즈 서버, 스토리지 솔루션 등 하드웨어 제품 제공
 - **Services**: 컨설팅, 고객 지원, 교육 서비스 제공
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **후방산업 (Upstream Industry)**:
@@ -34,6 +36,8 @@ weight: 663
 - **전방산업 (Downstream Industry)**:
     - **핵심 산업**: 클라우드 서비스, 데이터 관리
     - **핵심 기업**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Google Cloud (미국, [GOOGL](/company-analysis/googl/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -59,6 +63,8 @@ weight: 663
 - [**영국, 일본, 독일, 캐나다**: 주요 매출 국가](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)[1](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Microsoft (미국, [MSFT](/company-analysis/msft/))**: 클라우드 서비스, 데이터베이스 소프트웨어
 - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/))**: 클라우드 인프라 서비스

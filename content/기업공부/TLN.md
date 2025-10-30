@@ -22,10 +22,14 @@ weight: 870
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 전력 유통업체, 산업 및 상업 고객
     - **핵심 기업**: Exelon Corporation (미국, [EXC](/company-analysis/exc/)), Duke Energy (미국, [DUK](/company-analysis/duk/))
 - **후방산업**: 연료 공급업체, 발전소 건설업체
     - **핵심 기업**: Peabody Energy (미국, BTU), Fluor Corporation (미국, [FLR](/company-analysis/flr/))
+
+{{< adsense-infeed >}}
 
 **밸류체인**:
 
@@ -39,11 +43,17 @@ weight: 870
 - **전력**: 다양한 에너지원으로 생산된 전력
 - **에너지 관련 상품**: 전력 및 에너지 관련 파생상품 거래
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**:
+
+{{< adsense-infeed >}}
 
 - 미국: Talen Energy의 주요 시장은 미국 내 전력 생산 및 거래입니다. 국가별 매출액 비중은 공개되지 않았습니다.
 
 **경쟁업체**:
+
+{{< adsense-infeed >}}
 
 - **NRG Energy (미국, [NRG](/company-analysis/nrg/))**: 전력 생산 및 에너지 거래 서비스 제공
 - **Vistra Corp (미국, [VST](/company-analysis/vst/))**: 전력 생산 및 에너지 거래 서비스 제공

@@ -59,10 +59,14 @@ Iridium Communications Inc.는 미국의 위성 통신 회사로, 전 세계적�
     
     - Iridium은 고객에게 필요한 장비와 솔루션을 제공합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - Garmin (미국, [GRMN](/company-analysis/grmn/)) - GPS 및 통신 장비 제조
 
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - **Iridium Certus®**: 고속 데이터 전송을 지원하는 다목적 플랫폼입니다.
     
@@ -71,6 +75,8 @@ Iridium Communications Inc.는 미국의 위성 통신 회사로, 전 세계적�
 - **위성 전화 및 메신저**: 개인 및 기업 고객을 위한 음성 및 데이터 통신 장치입니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 
@@ -84,6 +90,8 @@ Iridium은 전 세계적으로 서비스를 제공하며, 특히 군사, 해양 
 ## 산업 내 글로벌 시장 점유율
 
 Iridium은 글로벌 위성 통신 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

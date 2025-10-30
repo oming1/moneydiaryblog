@@ -28,6 +28,8 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 - 스포츠웨어
 - 스포츠 액세서리
 
+{{< adsense-infeed >}}
+
 ## 주요 브랜드
 
 - Foot Locker
@@ -37,6 +39,8 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 - Footaction USA
 - House of Hoops
 - Eastbay/Footlocker.com
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -55,6 +59,8 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 
 ## 최근 주요 이슈
 
+{{< adsense-infeed >}}
+
 - 2019년: GOAT(온라인 스니커즈 리셀 마켓플레이스)에 1억 달러 투자
 - 2021년: WSS(로스앤젤레스 기반 운동화 소매업체)와 Atmos(도쿄 기반 소매업체) 인수
 - 2022년: 2050년까지 탄소 중립 달성 목표 발표
@@ -65,6 +71,8 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 2017년 1월 기준으로 3,363개의 매장을 운영하고 있으며, 취급 제품의 약 70%가 Nike 제품입니다.
 
 ## 역사적 배경
+
+{{< adsense-infeed >}}
 
 - 1974년: 첫 Foot Locker 매장 오픈
 - 2001년: Venator Group에서 Foot Locker, Inc.로 사명 변경

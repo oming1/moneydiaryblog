@@ -22,9 +22,15 @@ weight: 658
 
 ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 설계, 제조, 공급하는 반도체 기업입니다. 주로 [자동차](/industry-study/자동차/) 및 산업 분야에 초점을 맞추고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 반도체 제조 장비: 반도체 생산 장비 제조업체 (예: Applied Materials(US, [AMAT](/company-analysis/amat/)))
 - 원자재 공급: 실리콘 웨이퍼, 화학물질 공급업체 (예: Entegris(US, [ENTG](/company-analysis/entg/)))
@@ -62,6 +68,8 @@ ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 �
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, ON Semiconductor는 2022년 Fortune 500 리스트에서 483위를 차지했으며, 2021년 매출 기준으로 세계 주요 반도체 기업 중 하나로 평가받고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 주요 이슈
 

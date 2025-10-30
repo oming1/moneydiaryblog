@@ -36,6 +36,8 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
         - **프리패키징 및 코패킹(Pre-packaging & Co-packing):** 고객의 요구에 맞춰 제품을 재포장하거나 번들링.
         - **크로스 도킹(Cross-docking):** 입고된 물품을 즉시 출고하여 보관 시간을 최소화하고 운송 효율 증대.
 
+{{< adsense-infeed >}}
+
     - **운송 및 유통 서비스:**
         - **프레이트 컨솔리데이션(Freight Consolidation):** 여러 고객의 소규모 화물을 모아 효율적으로 운송.
         - **퍼스트 마일/라스트 마일 운송:** 생산지에서 창고까지, 창고에서 최종 목적지까지의 온도 제어 운송.
@@ -104,6 +106,8 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
 - **전략적 입지:** 주요 생산지, 소비 시장, 항만 근처에 위치한 창고 네트워크.
 - **식품 안전 및 품질 관리:** 엄격한 위생 및 온도 제어 프로토콜 준수.
 - **통합 서비스:** 보관부터 운송, 가공 지원까지 End-to-End 솔루션 제공.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -204,6 +208,8 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
 ---
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Americold Realty Trust (US, COLD):** 상장된 콜드 스토리지 REIT, 북미 2위 규모.
 - **United States Cold Storage (USCS):** John Swire & Sons Ltd. 소유의 사모 기업, 북미 3위.

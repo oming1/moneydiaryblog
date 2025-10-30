@@ -22,6 +22,8 @@ weight: 812
 
 Southern Company는 전기 및 [천연가스](/industry-study/천연가스/) 유틸리티 서비스를 제공하는 에너지 기업입니다. 전기 생산, 송배전, 천연가스 유통, 도매 전력 판매, 통신 서비스 등을 주요 사업으로 영위하고 있습니다
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
@@ -43,7 +45,11 @@ Southern Company는 전기 및 [천연가스](/industry-study/천연가스/) 유
 - 통신 서비스 (fiber optics 및 무선 통신)
 - 분산형 에너지 솔루션
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국 (주로 남동부 지역: 알라바마, 조지아, 미시시피 주 등)
 

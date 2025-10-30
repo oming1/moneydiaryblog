@@ -22,10 +22,14 @@ weight: 686
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 레스토랑, 편의점, 병원
     - **핵심 기업**: McDonald’s (미국, [MCD](/company-analysis/mcd/)), 7-Eleven (일본, 3382)
 - **후방산업**: 농업, 식품 가공업
     - **핵심 기업**: Tyson Foods (미국, [TSN](/company-analysis/tsn/)), JBS (브라질, JBSS3)
+
+{{< adsense-infeed >}}
 
 **밸류체인**:
 
@@ -48,6 +52,8 @@ weight: 686
 
 - **Sysco Corporation (미국, [SYY](/company-analysis/syy/))**: 식품 유통 서비스 제공
 - **US Foods (미국, [USFD](/company-analysis/usfd/))**: 식품 유통 및 가공 서비스 제공
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 

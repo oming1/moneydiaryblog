@@ -24,6 +24,8 @@ Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입�
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - 담배 소매업체: Walmart (US, [WMT](/company-analysis/wmt/)), CVS Health (US, [CVS](/company-analysis/cvs/))
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
 
@@ -33,6 +35,8 @@ Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입�
 - 포장재 공급업체: Amcor (AU, [AMC](/company-analysis/amc/)), Sealed Air (US, SEE)
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - [일반 궐련](/industry-study/일반-궐련/):** Marlboro, Black & Mild (매출 비중: 2023년 기준 70%)
 	-[23년 기준 매출액의 88.9%가 궐련제품으로 구성. 단, 지역 포트폴리오가 미국 100%로 한정, 미국 일반궐련 시장 내 점유율 47% 수준 / 미국 내 궐련 수요 감소 영향으로 지속적인 가격인상 효과 반영에도 불구, 외형 정체와 관련한 사업 축소요인 존재](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=9&selection=0,1,83,2&color=yellow))
@@ -45,11 +49,15 @@ Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입�
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Philip Morris International (US, [PM](/company-analysis/pm/)):** 담배 제품 (시장 점유율 15%)
 - **British American Tobacco (GB, [BATS](/company-analysis/bats/)):** 담배 제품 (시장 점유율 10%)
 - **[Japan Tobacco](/company-analysis/japan-tobacco/) (JP, 2914):** 담배 제품 (시장 점유율 8%)
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 [Altria Group, Inc.의 글로벌 시장 점유율은 약 6% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.morningstar.com/stocks/XNYS/MO/quote)[3](https://www.morningstar.com/stocks/XNYS/MO/quote).
 

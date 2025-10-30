@@ -55,6 +55,8 @@ Phoenix Financial Ltd는 1949년 설립된 [이스라엘](/industry-study/이스
 
 **성장 동력 및 수익성 개선 요인:**
 
+{{< adsense-infeed >}}
+
 - 이스라엘 경제 성장 및 금융 서비스 수요 증가
 - 디지털 혁신을 통한 운영 효율성 개선
 - 자산관리 사업의 지속적 성장
@@ -64,6 +66,8 @@ Phoenix Financial Ltd는 1949년 설립된 [이스라엘](/industry-study/이스
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 [이스라엘 금융서비스 시장에서 70년 이상의 역사를 가진 강력한 브랜드 파워]와 고객 충성도를 보유하고 있습니다. 특히 자동차보험 분야에서 선도적 지위를 유지하며, 광범위한 유통 네트워크를 통해 시장 접근성을 확보하고 있습니다.
 
 데이터 분석과 혁신 기술을 활용한 Phoenix Smart 플랫폼은 손해보험 시장에서 차별화된 경쟁력을 제공하며, 운영 효율성과 고객 서비스 품질을 향상시키고 있습니다.
@@ -71,6 +75,8 @@ Phoenix Financial Ltd는 1949년 설립된 [이스라엘](/industry-study/이스
 1,000억 달러 이상의 자산관리 규모를 바탕으로 한 규모의 경제와 투자 전문성은 이스라엘 경제의 혁신적이고 역동적인 성장에 대한 독특한 접근 기회를 제공합니다.
 
 KSM ETF 사업을 통한 이스라엘 ETF 시장 선도와 대안투자 분야의 전문성은 자산관리 사업의 경쟁 우위를 더욱 강화하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -119,6 +125,8 @@ KSM ETF 사업을 통한 이스라엘 ETF 시장 선도와 대안투자 분야�
 - Oren Mizrach: 손해보험 전문
 
 **자산관리 단계:**
+
+{{< adsense-infeed >}}
 
 - KSM ETF: ETF 상품 운용
 - 투자팀: 포트폴리오 관리 및 투자 전략
@@ -231,6 +239,8 @@ Phoenix Financial Ltd는 이스라엘 내수 시장에 집중하고 있으며, �
 - MSCI Israel ETF: 이스라엘 대형주 ETF
 
 **섹터 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - Financial Select Sector SPDR Fund XLF
 - Vanguard Financials ETF VFH

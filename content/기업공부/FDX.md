@@ -66,6 +66,8 @@ FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음�
 
 ## 주요 자산
 
+{{< adsense-infeed >}}
+
 - 항공기: 659대
 - 차량: 41,000대
 - 글로벌 물류 네트워크 및 허브
@@ -77,10 +79,14 @@ FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음�
 - USPS (United States Postal Service) - 미국의 우편 서비스
 - [AMZN](/company-analysis/amzn/): 미국의 전자상거래 업체로 미국 물류 운송 1위
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 FedEx는 글로벌 물류 및 운송 시장에서 주요 플레이어 중 하나로, 시장 점유율은 약 20%로 추정됩니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [FedEx Corporation - Wikipedia](https://ko.wikipedia.org/wiki/%ED%8E%98%EB%8D%B1%EC%8A%A4)

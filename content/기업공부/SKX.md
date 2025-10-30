@@ -20,9 +20,15 @@ weight: 798
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Skechers U.S.A., Inc.는 남성, 여성, 어린이를 위한 라이프스타일 신발을 설계, 개발, 마케팅 및 유통하는 글로벌 기업입니다. 이 회사는 도매 및 직접 소비자 판매 부문을 통해 운영됩니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **소매**: 백화점, 가족 신발 가게, 스포츠 용품 소매업체 (예: Foot Locker (US, [FL](/company-analysis/fl/)), Dick’s Sporting Goods (US, [DKS](/company-analysis/dks/)))
@@ -40,8 +46,12 @@ Skechers U.S.A., Inc.는 남성, 여성, 어린이를 위한 라이프스타일 
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **신발**: Skechers Hands Free Slip-ins, Skechers Arch Fit, Skechers Air-Cooled Memory Foam
 - **보호 신발**: 미끄럼 방지 및 안전 발가락 캐주얼 및 부츠
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

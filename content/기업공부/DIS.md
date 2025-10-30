@@ -38,6 +38,8 @@ weight: 278
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **콘텐츠 제작 (Content Creation)**:
     - **설명**: 영화, 텔레비전 프로그램, 게임 등 다양한 콘텐츠 제작
     - **대표회사**: Walt Disney Company (미국, [DIS](/company-analysis/dis/)), Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))
@@ -47,6 +49,8 @@ weight: 278
 - **스트리밍 서비스 (Streaming Services)**:
     - **설명**: 스트리밍 플랫폼을 통한 콘텐츠 제공
     - **대표회사**: Walt Disney Company (미국, [DIS](/company-analysis/dis/)), Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -60,6 +64,8 @@ weight: 278
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Netflix (미국, [NFLX](/company-analysis/nflx/))**: 스트리밍 서비스
 - **Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))**: 콘텐츠 제작 및 스트리밍 서비스

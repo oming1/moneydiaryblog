@@ -20,6 +20,8 @@ weight: 331
 
 **영위사업** Exelon Corporation은 미국에서 전기 및 가스 유틸리티 서비스를 제공하는 기업입니다. 주요 사업 부문은 전기 유틸리티 및 인프라(EU&I)와 가스 유틸리티 및 인프라(GU&I)로 나뉩니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업**
 
 - **전방산업:** 전력 소비자, 산업 및 상업 고객
@@ -27,7 +29,9 @@ weight: 331
     - **관련 기업:**
         - 전력 소비자: NextEra Energy (미국, [NEE](/company-analysis/nee/))
         - 산업 고객: Southern Company (미국, [SO](/company-analysis/so/))
-          
+
+{{< adsense-infeed >}}
+
 - **후방산업:** 에너지 생산, 에너지 저장, 에너지 전송
     - **핵심 산업:** 에너지 생산 (발전소 운영), 에너지 저장 (배터리 및 저장 시설), 에너지 전송 (전력망 운영)
     - **관련 기업:**
@@ -62,6 +66,8 @@ weight: 331
 **산업 내 글로벌 시장 점유율**
 
 - [Exelon은 미국 전력 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준)](https://en.wikipedia.org/wiki/Exelon)[1](https://en.wikipedia.org/wiki/Exelon).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

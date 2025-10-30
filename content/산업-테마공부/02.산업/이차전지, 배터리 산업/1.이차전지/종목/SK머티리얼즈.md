@@ -25,11 +25,15 @@ weight: 3
 - 기업 기본정보
 	- 
 
+{{< adsense-infeed >}}
+
  - 기업전망(트렌드/향후전망)
 	- 
 
 - 비즈니스모델 / 밸류체인 / 전후방산업관계
 	- 
+
+{{< adsense-infeed >}}
 
 - 세부정보
 	- [실리콘 음극재](/industry-study/실리콘-음극재/)
@@ -39,8 +43,12 @@ weight: 3
 - 리스크요인
 	- 
 
+{{< adsense-infeed >}}
+
 - 관련기업
 	- 
+
+{{< adsense-infeed >}}
 
 - 참고자료 링크
 	-

@@ -20,6 +20,8 @@ weight: 372
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 GFL Environmental Inc.는 북미에서 환경 서비스를 제공하는 회사로, 주거, 상업, 산업 및 지방 자치 단체 고객에게 폐기물 수거, 운송, 처리 및 재활용 서비스를 제공합니다. 주요 사업으로는 폐기물 수거, 재활용, 자원 회수, 매립지 운영 등이 있습니다
 
 #### 전방/후방산업
@@ -31,7 +33,11 @@ GFL Environmental Inc.는 북미에서 환경 서비스를 제공하는 회사�
     - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)))
     - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, BAS))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)), BASF (DE, BAS))
 - **제품 제조**: 폐기물 수거 및 처리 시스템 제조 (GFL Environmental Inc.)
@@ -50,7 +56,11 @@ GFL Environmental Inc.는 북미에서 환경 서비스를 제공하는 회사�
 - **미국**: 전체 매출의 대부분을 차지
 - **캐나다**: 주요 판매국가로 포함됨
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Waste Management (US, [WM](/company-analysis/wm/))**: 폐기물 수거 및 재활용 서비스
 - **Republic Services (US, [RSG](/company-analysis/rsg/))**: 폐기물 수거 및 재활용 서비스

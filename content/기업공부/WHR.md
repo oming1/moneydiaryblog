@@ -20,6 +20,8 @@ Industry: 가전제품(Household Appliances)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업체입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 주요 가전제품(MDA) 북미
@@ -44,6 +46,8 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 연구개발: Whirlpool Corporation (US, [WHR](/company-analysis/whr/))
 2. 원자재 조달: 다양한 공급업체
 3. 제조: Whirlpool Corporation (US, [WHR](/company-analysis/whr/)) (70개 이상의 글로벌 제조시설)
@@ -58,7 +62,11 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 4. 식기세척기 (7.06% 매출 비중)
 5. 소형 가전제품 (KitchenAid 스탠드 믹서 등)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Whirlpool은 전 세계적으로 사업을 영위하고 있으며, 특히 북미 지역이 주요 시장입니다. 2023년 기준 북미 지역 매출이 전체의 약 66.29%를 차지했습니다.
 

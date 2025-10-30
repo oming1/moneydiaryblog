@@ -46,6 +46,8 @@ Deere & Company(NYSE: DE)는 1837년 설립된 글로벌 농업 장비, 건설 �
 - 건설: Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301)
 - 임업: Weyerhaeuser(US, WY), Stora Enso(FI, STERV)
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 철강: Nucor(US, [NUE](/company-analysis/nue/)), ArcelorMittal(LU, [MT](/company-analysis/mt/))
@@ -74,9 +76,13 @@ Deere & Company(NYSE: DE)는 1837년 설립된 글로벌 농업 장비, 건설 �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Deere & Company는 2024년 기준 글로벌 농업장비 시장에서 약 25%의 점유율을 보유하고 있으며, 특히 북미 시장에서는 40% 이상의 점유율을 차지하고 있습니다. 최근 3년간 자율주행 기술과 정밀농업 솔루션 도입으로 시장 지위를 더욱 강화하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - CES 2025에서 새로운 자율주행 농업 및 건설 장비 공개 (2025년)
 - 전기 구동 장비 라인업 확대 및 지속가능성 목표 강화 (2024년)
@@ -84,7 +90,11 @@ Deere & Company는 2024년 기준 글로벌 농업장비 시장에서 약 25%의
 - 역대 최고 매출 및 순이익 달성 (2022년)
 - 자율주행 기술 적용 확대 및 AI 기반 정밀농업 솔루션 강화 (2023-2025년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)

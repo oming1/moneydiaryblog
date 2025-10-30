@@ -1,4 +1,4 @@
----
+﻿---
 title: "AAL"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-10-28T06:44:26+09:00
@@ -39,6 +39,8 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 항공기 및 엔진 공급
 - 항공기 제조: Boeing (US, [BA](/company-analysis/ba/))
 - 엔진 제조: GE Aerospace (US, [GE](/company-analysis/ge/))
@@ -62,11 +64,17 @@ American Airlines Group은 전 세계 50개국 350개 목적지에 서비스를 
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Delta Air Lines (US, [DAL](/company-analysis/dal/)) - 글로벌 네트워크 항공사
 - Southwest Airlines (US, [LUV](/company-analysis/luv/)) - 저비용 항공사
 - United Airlines Holdings (US, [UAL](/company-analysis/ual/)) - 글로벌 네트워크 항공사
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 American Airlines Group은 승객 수, 항공기 규모, 예약된 승객-킬로미터 기준으로 세계 최대 항공사입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 

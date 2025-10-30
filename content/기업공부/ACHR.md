@@ -20,6 +20,8 @@ weight: 18
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Archer Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하는 기업입니다. 도시 항공 모빌리티([UAM](/industry-study/2산업항공우주방위-산업3모빌리티uam/)) 시장을 목표로 하고 있습니다.
 
 ## 주요제품
@@ -32,11 +34,17 @@ Archer Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하는 기�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/))
 - Lilium(US, [LILM](/company-analysis/lilm/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 주가 하락: 23.72% 하락한 $7.3에 거래 중 (2024년 11월 9일 기준)
 - 높은 거래량: 일일 거래량 113,681,677주로 평균 거래량(20,622,074주)의 5배 이상

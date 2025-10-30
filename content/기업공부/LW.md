@@ -30,6 +30,8 @@ Lamb Weston Holdings, Inc.는 냉동 감자 제품의 세계적인 생산업체 
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 식품 서비스 업체: 레스토랑 체인, 패스트푸드점
@@ -37,10 +39,14 @@ Lamb Weston Holdings, Inc.는 냉동 감자 제품의 세계적인 생산업체 
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 농업: 감자 재배 농가
 - 포장재 제조업체
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 원재료 조달: 감자 재배 농가
 2. 제조: Lamb Weston Holdings (US, [LW](/company-analysis/lw/))
@@ -48,6 +54,8 @@ Lamb Weston Holdings, Inc.는 냉동 감자 제품의 세계적인 생산업체 
 4. 최종 소비자: 레스토랑, 일반 소비자
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 냉동 감자튀김
 2. 고구마 튀김
@@ -60,6 +68,8 @@ Lamb Weston은 전 세계적으로 사업을 영위하고 있으며, 특히 미�
 
 - 미국: 66.2%
 - 미국 외 지역: 33.8%
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

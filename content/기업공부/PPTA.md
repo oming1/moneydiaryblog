@@ -27,6 +27,8 @@ weight: 707
 
 - 광산 장비 제조업 (Caterpillar Inc. (US, [CAT](/company-analysis/cat/)))  
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 귀금속 가공 및 판매 (Newmont Corporation (US, [NEM](/company-analysis/nem/)))
@@ -39,6 +41,8 @@ weight: 707
 2. 채굴 및 생산: Perpetua Resources (US, [PPTA](/company-analysis/ppta/))
 3. 정제 및 가공: 5N Plus Inc. (캐나다, VNP.TO) (안티모니 정제)
 4. 유통 및 판매: 자체 유통 및 판매 예정
+
+{{< adsense-infeed >}}
 
 주요제품:
 
@@ -55,6 +59,8 @@ weight: 707
 산업 내 글로벌 시장 점유율: 
 
 - 아직 생산 단계에 진입하지 않아 시장 점유율 없음
+
+{{< adsense-infeed >}}
 
 최근 3년 내 주요 이슈:
 

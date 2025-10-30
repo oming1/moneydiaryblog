@@ -30,6 +30,8 @@ Williams Companies(NYSE: WMB)는 미국의 주요 에너지 인프라 기업으�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 네트워크와 전략적 자산 위치에 있습니다. Transco 파이프라인은 미국 동부 해안을 따라 운영되며, 주요 인구 밀집 지역과 LNG 수출 터미널을 연결합니다. 회사의 미드스트림 자산은 주요 셰일 생산 지역에 위치해 있어 생산자들에게 필수적인 서비스를 제공합니다. Williams의 통합된 가치 사슬은 천연가스의 생산부터 최종 소비자까지 효율적인 운송을 가능케 합니다.
 
 ## 산업 구조
@@ -59,6 +61,8 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 
 ## 제품 및 고객
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 천연가스 수송 서비스 (매출의 약 65%)
@@ -73,6 +77,8 @@ Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analys
 ## 주요 판매국가
 
 미국 (매출의 100%)
+
+{{< adsense-infeed >}}
 
 ## 경쟁 현황
 
@@ -93,7 +99,11 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - 저탄소 수소 운송을 위한 파이프라인 네트워크 개발 계획 발표 (2021)
 - COVID-19 팬데믹으로 인한 일시적 수요 감소 극복 및 실적 회복 (2021)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Vanguard Group (9.8%)
 - BlackRock (8.7%)

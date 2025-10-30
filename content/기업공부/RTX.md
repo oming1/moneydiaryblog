@@ -39,7 +39,9 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
 ## 밸류체인
 
 - **제품 개발**:
-    
+
+{{< adsense-infeed >}}
+
     - Raytheon은 첨단 방산 기술과 솔루션을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 기술
     
@@ -51,7 +53,9 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
 ## 주요 제품
 
 - **F-35 Lightning II 전투기**:
-    
+
+{{< adsense-infeed >}}
+
     - 다목적 스텔스 전투기로, 미국 공군을 포함한 여러 국가에서 사용됩니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
     
@@ -74,6 +78,8 @@ Raytheon Technologies는 미국을 주요 시장으로 하며, 유럽과 아시�
 Raytheon Technologies는 글로벌 방산 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹 영향**: 군사 예산 감소로 인한 매출 감소 우려 (2020)
 - **F-35 프로그램 확장**: F-35의 국제 판매 증가로 인한 매출 성장 (2021)

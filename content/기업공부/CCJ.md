@@ -32,7 +32,11 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
     - **핵심 산업:** 우라늄 채굴업은 Cameco에 우라늄 원료를 공급합니다.
     - **관련 기업:** Kazatomprom (카자흐스탄, KAP), Uranium One (캐나다, UUU)
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **우라늄 채굴:**
     - **설명:** 우라늄 원료를 채굴
@@ -43,6 +47,8 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **연료 제조:**
     - **설명:** 정제된 우라늄을 사용하여 원자력 연료 제조
     - **대표회사:** Westinghouse Electric Company (미국, [Westinghouse Electric](/company-analysis/westinghouse-electric/)), Global Laser Enrichment (미국, GLE)
+
+{{< adsense-infeed >}}
 
 ### 주요제품
 
@@ -56,6 +62,8 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **캐나다:** 주요 매출 국가
 - **일본:** 주요 매출 국가
 
+{{< adsense-infeed >}}
+
 ### 경쟁업체
 
 - **Kazatomprom (카자흐스탄, KAP):** 우라늄 농축물
@@ -63,6 +71,8 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **Uranium One (캐나다, UUU):** 우라늄 농축물
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **Cameco Corporation:** 약 18% (2023년 기준)
 - **Kazatomprom:** 약 23% (2023년 기준)

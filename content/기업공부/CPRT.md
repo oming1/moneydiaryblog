@@ -36,19 +36,27 @@ Copart는 온라인 차량 경매 및 재마케팅 서비스를 제공하는 글
     - 역할: 차량 공급원
     - 주요 기업: Allstate (미국, ALL), Enterprise Holdings (미국, 비상장)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - 온라인 경매 플랫폼:
-    
+
+{{< adsense-infeed >}}
+
     - Copart는 자체 VB3 기술을 통해 온라인 경매를 운영합니다.
     - 대표 기업: KAR Auction Services (미국, KAR), Ritchie Bros. Auctioneers (캐나다, [RBA](/industry-study/1경제매크로3금리rba/))
-    
+
+{{< adsense-infeed >}}
+
 - 차량 보관 및 운송:
     
     - 200개 이상의 글로벌 위치에서 차량 보관 및 운송 서비스를 제공합니다.
     - 대표 기업: United Road Services (미국, 비상장), Jack Cooper Transport (미국, 비상장)
 
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - 온라인 차량 경매 서비스
 - 차량 보관 및 운송 서비스
@@ -70,6 +78,8 @@ Copart는 온라인 차량 경매 및 재마케팅 서비스를 제공하는 글
 정확한 시장 점유율 데이터는 제공되지 않았지만, Copart는 온라인 차량 경매 및 재마케팅 서비스 분야에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 글로벌 확장: 핀란드 Autovahinkokeskus (AVK) 인수 (2018년)
 - CashForCars.com 브랜드의 국제 확장: 캐나다 (2018년), 독일 (2019년), 영국 (2020년)

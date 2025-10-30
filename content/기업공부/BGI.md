@@ -32,6 +32,8 @@ BGI Group은 유전체학 및 생명공학 분야의 글로벌 리더로, 다음
 - **의료 서비스 산업**: BGI의 유전자 검사 및 분석 서비스는 병원, 클리닉 등에서 사용됩니다. 주요 기업: Illumina (US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)).
 - **제약 산업**: 제약 회사와 협력하여 유전체 연구 및 맞춤형 의약품 개발에 기여합니다. 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Merck (US, [MRK](/company-analysis/mrk/)).
 
+{{< adsense-infeed >}}
+
 #### 후방산업
 
 - **IT 및 소프트웨어 산업**: 유전체 분석에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/)).
@@ -52,6 +54,8 @@ BGI Group은 유전체학 및 생명공학 분야의 글로벌 리더로, 다음
     - CDMO 서비스: 맞춤형 의약품 개발 및 생산 지원
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **DNBseq 플랫폼**: 차세대 유전체 시퀀싱 플랫폼
 - **NIFTY 테스트**: 비침습적 산전 검사 (산전 유전자 검사)
@@ -75,9 +79,13 @@ BGI Group은 유전체학 및 생명공학 분야의 글로벌 리더로, 다음
 
 #### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 BGI Group은 글로벌 유전체학 및 생명공학 시장에서 약 15%의 시장 점유율을 차지하고 있습니다 (2023년 기준).
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **미국 수출 제한**: 미국 상무부의 수출 제한 조치로 인해 일부 제품의 수출이 제한됨 (2023년)
 - **중국 정부와의 협력 논란**: 중국 정부와의 협력으로 인해 유전자 데이터 사용에 대한 논란 발생 (2022년)

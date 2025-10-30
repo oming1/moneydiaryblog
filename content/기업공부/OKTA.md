@@ -31,9 +31,13 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 - Universal Directory
 - Access Gateway
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 북미, 아시아-태평양, 유럽
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -41,7 +45,11 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 - Ping Identity(US, PING)
 - ForgeRock(US, FORG)
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Auth0 인수 완료 (65억 달러 규모, 2021)
 - atSpoke 인수 (9000만 달러 규모, 2021)

@@ -22,6 +22,8 @@ weight: 848
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 레스토랑, 호텔, 병원, 학교
     - **핵심 기업**: McDonald’s (미국, [MCD](/company-analysis/mcd/)), Marriott International (미국, [MAR](/company-analysis/mar/))
 - **후방산업**: 농업, 식품 가공업
@@ -33,6 +35,8 @@ weight: 848
     - **대표 회사**: US Foods (미국, [USFD](/company-analysis/usfd/)), Performance Food Group (미국, [PFGC](/company-analysis/pfgc/))
 - **식품 가공**: 신선한 고기, 해산물, 과일, 채소 등을 가공하여 유통합니다.
     - **대표 회사**: Tyson Foods (미국, [TSN](/company-analysis/tsn/)), JBS (브라질, JBSS3)
+
+{{< adsense-infeed >}}
 
 **주요제품**:
 
@@ -50,5 +54,7 @@ weight: 848
 - **Performance Food Group (미국, [PFGC](/company-analysis/pfgc/))**: 식품 유통 및 가공 서비스 제공
 
 **산업 내 글로벌 시장 점유율**:
+
+{{< adsense-infeed >}}
 
 - Sysco는 글로벌 식품 유통 시장에서 중요한 위치를 차지하고 있으며, 시장 점유율은 공개되지 않았습니다. 그러나 주요 경쟁업체와 함께 시장을 선도하고 있습니다.

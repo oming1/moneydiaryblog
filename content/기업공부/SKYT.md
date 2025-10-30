@@ -101,6 +101,8 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 
 2단계: **웨이퍼 프로세스**
 
+{{< adsense-infeed >}}
+
 - 클린룸(L3)에서 포토리소그래피→식각·이온주입→CMP  
 
 3단계: **패키징·조립**
@@ -132,6 +134,8 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - **포토리소그래피 재료**: Tokyo Electron(JP, 8035.T), JSR(JP, 4185.T)
 - **화학·가스**: Air Products(US, APD), Linde(DE, LIN.DE)
 - **패키징 소재**: Henkel(DE, HEN3.DE), Dow Chemical(US, [DOW](/company-analysis/dow/))
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -221,6 +225,8 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 
 ---
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 **직접 관련 ETF:**
 

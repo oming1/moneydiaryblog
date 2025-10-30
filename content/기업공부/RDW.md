@@ -24,6 +24,8 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
 
 - [저궤도 위성](/industry-study/저궤도-위성/) 및 [정지궤도 위성](/industry-study/정지궤도-위성/)탑재 부품 제조. 위성용 태양광판, 센서, 구조물 제조
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - 전방 산업:
@@ -40,11 +42,15 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 우주 로보틱스:
     
     - Redwire는 우주 로봇 기술을 개발하고 제공합니다.
     - 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/))
-    
+
+{{< adsense-infeed >}}
+
 - 3D 프린팅 기술:
     
     - 우주에서의 3D 프린팅 기술을 개발하고 적용합니다.
@@ -56,6 +62,8 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
 - 우주용 3D 프린터
 - 위성 부품 및 서브시스템
 - 우주 센서 및 이미징 시스템
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 

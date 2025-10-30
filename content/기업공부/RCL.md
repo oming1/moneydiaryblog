@@ -123,6 +123,8 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 
 ## 13. 주요 고객
 
+{{< adsense-infeed >}}
+
 **개인 고객**: 전 세계 크루즈 여행객 (연간 약 600만 명) **여행사 채널**:
 
 - Expedia Group(US, [EXPE](/company-analysis/expe/)) - 온라인 크루즈 예약 플랫폼
@@ -149,6 +151,8 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 15. 경쟁업체
+
+{{< adsense-infeed >}}
 
 **Carnival Corporation(US, [CCL](/company-analysis/ccl/))** - 세계 최대 크루즈 기업, 시장점유율 약 40% 
 **Norwegian Cruise Line Holdings(US, [NCLH](/company-analysis/nclh/))** - 3위 크루즈 기업, 시장점유율 약 15% 
@@ -182,6 +186,8 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 18. 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 **2024년**: Icon of the Seas 취항 (세계 최대 크루즈선), Q3 실적 시장 기대치 상회 
 **2023년**: 코로나19 완전 회복, 예약률 및 수익률 급증, 신규 선박 주문 재개 

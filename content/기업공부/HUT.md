@@ -46,6 +46,8 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - AI 및 머신러닝 기업: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 블록체인 및 암호화폐: Coinbase(US, [COIN](/company-analysis/coin/)), Binance
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 반도체 제조: Intel(US, [INTC](/company-analysis/intc/)), AMD(US, [AMD](/company-analysis/amd/))
@@ -90,7 +92,11 @@ Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 - BlackRock Fund Advisors (7.38%)
 - SSgA Funds Management, Inc. (4.84%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
 - First Trust Cloud Computing ETF - SKYY

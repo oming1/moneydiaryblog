@@ -19,7 +19,11 @@ weight: 503
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 전자장비, 기기 및 부품(Electronic Equipment, Instruments & Components)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
@@ -35,6 +39,8 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 독자적인 보안 칩 기술: 자체 개발한 보안 반도체 칩 기술로 높은 수준의 보안 제공
 2. 암호화 전문성: 첨단 암호화 알고리즘 및 프로토콜 개발 능력 보유
 3. 블록체인 통합: 블록체인 기술을 활용한 혁신적인 보안 솔루션 제공
@@ -49,10 +55,14 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
     - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
     - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
     - 암호화폐 거래소: Coinbase(US, [COIN](/company-analysis/coin/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 

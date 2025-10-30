@@ -38,7 +38,11 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 - 바이오제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 계약 제조기업: Lonza (스위스, LONN.SW)
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 원자재 공급: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
 - 장비 제조: Sartorius (독일, SRT.DE)
@@ -70,11 +74,15 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 4. Merck KGaA (독일, MRK.DE)
 5. Pall Corporation (Danaher 소유)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 2024년 3분기 기준, Repligen의 시장 점유율은 0.84%로 추정됩니다
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. COVID-19 백신 및 치료제 개발 지원을 위한 제품 공급 확대 (2020-2022년)
 2. 지속적인 제품 혁신 및 신제품 출시 (2021-2023년)

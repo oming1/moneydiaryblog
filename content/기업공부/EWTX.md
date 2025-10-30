@@ -26,9 +26,13 @@ Edgewise Therapeutics는 근육 질환 치료제를 발견, 개발 및 상업화
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: Edgewise의 치료제를 사용하는 주요 기업들병원 및 의료 기관이 있습니다.
 - **후방산업**: Edgewise에 연구 및 개발 도구를 공급하는 주요 기업들
 	-  Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Bio-Rad Laboratories (US, BIO) 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -45,9 +49,13 @@ Edgewise Therapeutics는 주로 미국에서 활동하고 있으며, 글로벌 �
 - **Solid Biosciences (US, SLDB)**: 근육 디스트로피 치료제
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제, 근육 질환 치료제 포함.
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
 
 Edgewise Therapeutics는 현재 임상 단계의 회사로, 상업화된 제품이 없어 시장 점유율 데이터는 제공되지 않습니다.
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

@@ -22,7 +22,11 @@ Industry: Waste Management (폐기물관리)
 
 Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고급 [배터리](/industry-study/배터리/) 소재 생산에 전문화된 하이테크 기업입니다. 주요 사업은 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 재활용, 배터리 소재 생산, 폐차 해체 및 재활용입니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -32,9 +36,13 @@ Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 폐배터리 공급
 - 전기차 제조업체: Tesla (US, [TSLA](/company-analysis/tsla/))
 - 전자기기 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

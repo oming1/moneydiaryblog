@@ -34,6 +34,8 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
     
 5. 의료용 동위원소: 암 치료에 사용되는 동위원소 생산 기술 개발
 
+{{< adsense-infeed >}}
+
 2025년 2월 기준 시가총액은 약 9억 4천만 달러이며, 195명의 직원을 고용하고 있습니다. 최근에는 Base Resources 인수를 통해 글로벌 희토류 공급망 구축에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -43,7 +45,9 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 7. 희토류, 바나듐 등 전략 광물 생산으로 사업 다각화
     
 8. 혁신적인 광물 추출 및 정제 기술 보유
-    
+
+{{< adsense-infeed >}}
+
 9. 환경 친화적이고 지속 가능한 채굴 방식 채택
     
 10. 글로벌 희토류 공급망 구축을 위한 전략적 인수 및 프로젝트 개발
@@ -57,6 +61,8 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 - 전기차 및 배터리: 희토류, 바나듐 활용 (Tesla(US, [TSLA](/company-analysis/tsla/)), CATL(CN, 300750))
     
 - 항공우주 및 국방: 특수 합금 소재 공급 (Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -99,6 +105,8 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 ## 주요 판매국가
 
 미국을 중심으로 캐나다, 유럽, 아시아 등 글로벌 시장에 제품을 공급하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

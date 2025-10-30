@@ -55,10 +55,14 @@ weight: 2
 - **관세 불확실성**:
     - 관세 상승으로 인한 비용 증가를 벤더와 협력하여 최소화.
 
+{{< adsense-infeed >}}
+
 ---
 ## 경쟁사 판매 전략 비교
 
 ### 1. **[RH](/company-analysis/rh/) (Restoration Hardware)**
+
+{{< adsense-infeed >}}
 
 - **주요 사업 현황**: 고급 가구 및 라이프스타일 소매업체
     - 매출: $8.14억 (2026년 1분기, 전년 대비 +12%)
@@ -68,6 +72,8 @@ weight: 2
     - **Waterworks 브랜드 통합**: 고급 욕실 및 주방 제품을 RH 플랫폼에 추가
     - **인테리어 디자인 서비스 강화**: RH Interior Design Studio를 통해 고급 소비자 타겟팅
     - **레스토랑 및 카페 포함**: 매장 내 고객 경험 극대화.
+
+{{< adsense-infeed >}}
 
 ### 2. **Wayfair ([W](/company-analysis/w/))**
 

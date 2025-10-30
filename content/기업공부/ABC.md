@@ -21,6 +21,8 @@ AmerisourceBergen Corporation(ABC)은 [헬스케어](/industry-study/2산업헬
 
 AmerisourceBergen은 글로벌 헬스케어 솔루션 기업으로, 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 의약품 유통: 브랜드 및 제네릭 의약품, OTC 제품 유통
 2. 특수 의약품 유통: 희귀질환, 암 등 특수 의약품 유통
 3. 의료기기 유통 및 용품 유통
@@ -47,7 +49,9 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
     - 의료기기 제조: Medtronic (IE, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 병원: HCA Healthcare (US, [HCA](/company-analysis/hca/))
     - 약국 체인: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
     - 의료기관: UnitedHealth Group (US, [UNH](/company-analysis/unh/))
@@ -77,6 +81,8 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 
 ## 경쟁업체
@@ -88,6 +94,8 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 5. Morris & Dickson (비상장)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 주요 기업 중 하나입니다.
 
@@ -108,6 +116,8 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 5. State Street Corporation: 4.16%
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Healthcare Providers ETF IHF
 - VanEck Pharmaceutical ETF PPH

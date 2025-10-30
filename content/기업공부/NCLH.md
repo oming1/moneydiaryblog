@@ -39,6 +39,8 @@ weight: 606
 
 **주요제품**:
 
+{{< adsense-infeed >}}
+
 - **Norwegian Cruise Line**: 다양한 크루즈 여행 상품 제공.
 - **Oceania Cruises**: 고급 요리 및 목적지 중심의 크루즈 여행 상품 제공.
 - **Regent Seven Seas Cruises**: 럭셔리 크루즈 여행 상품 제공.
@@ -51,11 +53,15 @@ weight: 606
 
 **경쟁업체**:
 
+{{< adsense-infeed >}}
+
 - **로얄 캐리비안 그룹 (미국, [RCL](/company-analysis/rcl/))**: 크루즈 여행 서비스.
 - **카니발 코퍼레이션 (미국, [CCL](/company-analysis/ccl/))**: 크루즈 여행 서비스.
 - **MSC 크루즈 (스위스, 비상장)**: 크루즈 여행 서비스.
 
 **산업 내 글로벌 시장 점유율**: Norwegian Cruise Line Holdings는 글로벌 크루즈 시장에서 약 9%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**:
 

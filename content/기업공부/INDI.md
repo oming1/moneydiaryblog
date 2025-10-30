@@ -54,6 +54,8 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 설계: Indie Semiconductor(US, [INDI](/company-analysis/indi/)) (자동차 및 IoT용 SoC 설계)
 2. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)) (파운드리 서비스)
 3. 패키징 및 테스트: ASE Technology(TW, ASX) (반도체 패키징 및 테스트)
@@ -77,6 +79,8 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - Ford(US, [F](/company-analysis/f/)) - 무선 충전 솔루션
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 독일, 중국, 일본, 한국
 
@@ -102,11 +106,17 @@ Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - SPDR S&P Semiconductor ETF - XSD
 - iShares PHLX Semiconductor ETF - SOXX

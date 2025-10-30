@@ -65,7 +65,9 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     - **핵심 산업**: 전력 생산 및 공급
     - **역할**: 최종 소비자에게 전력을 제공
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - Duke Energy (미국, [DUK](/company-analysis/duk/)) - 전력 생산 및 유틸리티 서비스 제공
         - Southern Company (미국, [SO](/company-analysis/so/)) - 전력 생산 및 배급
 
@@ -74,7 +76,9 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     - **핵심 산업**: 원자력 연료 공급 및 기술 개발
     - **역할**: NuScale의 서비스에 필요한 연료 및 기술 지원 제공
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장) - 원자력 기술 및 서비스 제공
         - General Electric (미국, [GE](/company-analysis/ge/)) - 에너지 및 기술 솔루션 제공
 
@@ -103,7 +107,9 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
 - **VOYGR™ SMR**: 최대 924 MWe의 전력을 생성할 수 있는 소형 모듈식 원자로입니다.
     
     - 매출 비중: 전체 매출의 약 70% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **SMR 관련 서비스**: 라이센스, 건설 및 운영 유지보수 서비스를 제공합니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
@@ -124,7 +130,11 @@ NuScale Power는 미국을 주요 시장으로 하며, 향후 국제 시장으�
 ---
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 NuScale은 글로벌 소형 모듈식 원자로(SMR) 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ---
 ## 최근 3년 내 주요 이슈

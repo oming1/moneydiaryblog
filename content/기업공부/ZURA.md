@@ -132,6 +132,8 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 바이오 의약품 제조: 항체 생산을 위한 세포 배양 시설
 - 임상시험 서비스: CRO(Contract Research Organization)
 - 규제 컨설팅: 임상 시험 및 승인 지원 서비스
@@ -142,6 +144,8 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 ## 🔗 밸류체인
 
 **연구개발 단계:**
+
+{{< adsense-infeed >}}
 
 - 내부 R&D 팀: 항체 설계 및 최적화
 - 학술 협력: Benaroya Research Institute 등과의 연구 협력
@@ -165,6 +169,8 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 
 **- Tibulizumab (ZB-106)**  
 anti-IL-17 및 anti-BAFF 이중 길항제, 핵심 파이프라인 제품, 주요 적응증 전신경화증, 화농성한선염, 쇼그렌증후군, 류마티스관절염
+
+{{< adsense-infeed >}}
 
 **- ZB-168**  
 면역학 자산, 개발 초기 단계, 주요 적응증 자가면역 질환 (구체적 타겟 비공개)

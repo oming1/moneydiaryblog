@@ -20,6 +20,8 @@ weight: 480
 섹터: 필수 소비재
 산업: 음료제조
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 음료 제조 및 유통 기업입니다. 회사는 2018년 Keurig Green Mountain과 Dr Pepper Snapple Group의 합병으로 설립되었습니다. 주요 사업 부문은 다음과 같습니다:
@@ -28,6 +30,8 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 음료 제조 및 유통 
 2. 포장 음료: Dr Pepper, Canada Dry, Snapple 등의 브랜드 음료
 3. 농축액 및 원액: Mott's, ReaLemon 등의 브랜드 제품
 4. 라틴 아메리카 음료: Peñafiel, Clamato 등 지역 브랜드
+
+{{< adsense-infeed >}}
 
 2024년 기준 총 매출은 약 145억 달러였으며, 북미를 중심으로 글로벌 시장에서 사업을 전개하고 있습니다. 최근에는 건강 지향적 음료 개발, 지속 가능한 패키징 솔루션, 그리고 e-커머스 채널 강화에 주력하고 있습니다.
 
@@ -52,6 +56,8 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 음료 제조 및 유통 
 - 원재료 공급: Cargill, Archer Daniels Midland(US, ADM)
 - 패키징: Ball Corporation(US, [BALL](/company-analysis/ball/)), Amcor(US, AMCR)
 - 농업: Monsanto(현 Bayer AG의 일부), Syngenta(CH, SYENF)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -83,6 +89,8 @@ Keurig Dr Pepper는 2024년 기준 북미 싱글 서브 커피 시스템 시장�
 - e-커머스 채널 강화: 직접 판매 플랫폼 개선 및 온라인 유통 확대 (2024년)
 - 인공지능 기반 수요 예측 시스템 도입으로 공급망 효율성 개선 (2023년)
 - 라틴 아메리카 시장 확대를 위한 현지 브랜드 인수 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

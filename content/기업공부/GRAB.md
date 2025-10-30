@@ -20,9 +20,15 @@ weight: 388
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Grab은 동남아시아 지역에서 차량 공유,음식 배달, 디지털 결제 등 다양한 서비스를 제공하는 슈퍼앱 플랫폼을 운영합니다.
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 차량 공유 서비스 (GrabCar, GrabBike 등)
 - 음식 배달 서비스 (GrabFood)
@@ -30,9 +36,13 @@ Grab은 동남아시아 지역에서 차량 공유,음식 배달, 디지털 결�
 - 택배 서비스 (GrabExpress)
 - 금융 서비스 (대출, 보험 등)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 동남아시아 국가들 (싱가포르, 말레이시아, 인도네시아, 태국, 베트남, 필리핀 등)
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

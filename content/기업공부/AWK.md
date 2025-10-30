@@ -20,14 +20,20 @@ weight: 103
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 American Water Works는 미국 내에서 수도 및 하수도 서비스를 제공하는 회사입니다. 주거, 상업, 산업, 공공 기관 등 다양한 고객에게 물과 하수도 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 ### 전방/후방산업
 
 - **전방산업:**
     - **건설업:** 수도 및 하수도 인프라 건설 (대표 기업: Bechtel, Fluor)
     - **부동산 개발업:** 주거 및 상업용 부동산 개발 (대표 기업: Lennar (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/)))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업:**
     - **화학산업:** 물 처리 화학물질 공급 (대표 기업: Ecolab (US, ECL), Dow (US, [DOW](/company-analysis/dow/)))
     - **기계 제조업:** 수도 및 하수도 처리 장비 제조 (대표 기업: Xylem (US, XYL), Pentair (US, [PNR](/company-analysis/pnr/)))
@@ -53,6 +59,8 @@ American Water Works는 미국 내에서 수도 및 하수도 서비스를 제�
 - **American States Water (US, [AWR](/company-analysis/awr/)):** 수도 및 하수도 서비스
 - **Essential Utilities (US, [WTRG](/company-analysis/wtrg/)):** 수도 및 하수도 서비스
 - Water Resource ETF(PHO)
+
+{{< adsense-infeed >}}
 
 ### 산업 내 글로벌 시장 점유율
 

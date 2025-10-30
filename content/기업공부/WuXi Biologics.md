@@ -45,6 +45,8 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
 
 #### 주요제품 (Key Products)
 
+{{< adsense-infeed >}}
+
 - **단백질 생성** (Protein Generation)
 - **항체 생성** (Antibody Generation)
 - **세포 및 유전자 치료제** (Cell and Gene Therapies)
@@ -56,11 +58,17 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
 - **유럽:** 주요 시장 중 하나
 - **중국:** 본사 위치 및 주요 시장
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체 (Competitors)
+
+{{< adsense-infeed >}}
 
 - **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공
 - **Catalent** (US, [CTLT](/company-analysis/ctlt/)): 약물 개발 및 제조 서비스 제공
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
 

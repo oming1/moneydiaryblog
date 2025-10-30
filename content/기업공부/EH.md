@@ -45,6 +45,8 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
     
     - 배터리 제조: [CATL](/company-analysis/catl/), [BYD](/company-analysis/byd/)
@@ -66,6 +68,8 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 5. 운영 및 서비스: EHang 및 파트너사
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. EH216-S (유인 자율비행 eVTOL, 승객 운송용)
 2. EH216-L (무인 물류용 eVTOL)
@@ -94,6 +98,8 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 3. Volocopter (비상장)
 4. Archer Aviation (US, [ACHR](/company-analysis/achr/))
 5. Vertical Aerospace (US, [EVTL](/company-analysis/evtl/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

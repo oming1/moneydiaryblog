@@ -25,7 +25,9 @@ weight: 155
 #### 전방/후방산업
 
 - **전방산업:** 보험, 철도, 에너지, 제조업, 소매업
-    
+
+{{< adsense-infeed >}}
+
     - **보험:** 보험 상품을 제공하는 산업. 주요 기업: AIG (미국, [AIG](/company-analysis/aig/)), MetLife (미국, MET).
     - **철도:** 철도 운송 서비스를 제공하는 산업. 주요 기업: Union Pacific (미국, [UNP](/company-analysis/unp/)), CSX Corporation (미국, CSX).
     - **에너지:** 전력 및 가스 공급을 포함한 에너지 산업. 주요 기업: NextEra Energy (미국, [NEE](/company-analysis/nee/)), Duke Energy (미국, [DUK](/company-analysis/duk/)).
@@ -57,9 +59,13 @@ weight: 155
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **캐나다:** 철도 및 에너지 사업
 - **유럽:** 보험 및 제조업
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

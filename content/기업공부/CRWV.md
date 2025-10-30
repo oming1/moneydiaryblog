@@ -61,7 +61,9 @@ CoreWeave는 2017년 설립된 미국 뉴저지주 소재의 AI 특화 클라우
 - 2025년 3월 OpenAI와 5년간 120억 달러 규모 클라우드 계약 체결
     
 - 2025년 2월 Nvidia GB200 NVL72 슈퍼컴퓨터 최초 상용화
-    
+
+{{< adsense-infeed >}}
+
 - 2024년 12월 Cohere와 20억 달러 규모 데이터센터 구축 계약
 
 ---
@@ -71,7 +73,9 @@ CoreWeave는 2017년 설립된 미국 뉴저지주 소재의 AI 특화 클라우
 1. **Nvidia와의 전략적 제휴**: [2023년 Nvidia로부터 1억 달러 투자 유치], H100 GPU 조기 공급 확보로 경쟁사 대비 6개월 선행 기술 도입
     
 2. **수직 통합 인프라**: 자체 개발한 Kubernetes 네이티브 플랫폼으로 GPU 활용도 95% 달성(AWS 대비 40%p 우수)
-    
+
+{{< adsense-infeed >}}
+
 3. **유연한 요금 체계**: 초단위 과금제 도입으로 소규모 AI 스타트업 수요 흡수
     
 4. **보안 인증**: FedRAMP High, ISO 27001 등 14개 글로벌 인증 획득
@@ -222,7 +226,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 8. Vultr(비상장)
     
 9. OVHcloud(FR, OVH)
-    
+
+{{< adsense-infeed >}}
+
 10. Alibaba Cloud([BABA](/company-analysis/baba/))
 
 ---
@@ -250,7 +256,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 최근 3년 내 주요 이슈
 
 1. 2025년 3월 IPO로 15억 달러 조달 (2025)
-    
+
+{{< adsense-infeed >}}
+
 2. 2025년 2월 Nvidia GB200 최초 배치 (2025)
     
 3. 2024년 12월 Microsoft와 62억 달러 계약 갱신 (2024)
@@ -266,7 +274,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 2. The Vanguard Group: 7.1%
     
 3. BlackRock, Inc.: 5.8%
-    
+
+{{< adsense-infeed >}}
+
 4. Fidelity Investments: 4.3%
     
 5. CEO Michael Intrator: 2.9%

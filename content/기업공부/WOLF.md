@@ -60,6 +60,8 @@ weight: 967
 
 ### **2024년 12월**
 
+{{< adsense-infeed >}}
+
 - **연말 주가**: 2024년 총 84.7% 하락으로 마감
 - **부채 증가**: 총 부채 $6.5B, 현금 $1.3B
 - **신용등급 하향**: 파산 위험 증가
@@ -220,6 +222,8 @@ Wolfspeed의 핵심 경쟁력은 35년 이상 축적된 실리콘 카바이드(S
 
 ## 핵심기술
 
+{{< adsense-infeed >}}
+
 실리콘 카바이드(SiC) 단결정 성장 기술, SiC 웨이퍼 가공 기술, SiC 에피택시 성장 기술, SiC MOSFET 설계 기술, SiC 다이오드 제조 기술, 갈륨 나이트라이드(GaN) 기술, RF 파워 앰프 기술, 파워 모듈 패키징 기술, 고온 공정 기술
 
 ---
@@ -348,6 +352,8 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 
 ## 주요고객
 
+{{< adsense-infeed >}}
+
 - Tesla Inc.(US, [TSLA](/company-analysis/tsla/)) - 전기차 제조사, 메인 인버터용 SiC MOSFET
 - Ford Motor Company(US, [F](/company-analysis/f/)) - 미국 자동차 제조사, EV 파워트레인
 - General Motors(US, [GM](/company-analysis/gm/)) - 미국 대형 자동차 제조사, 전기차 부품
@@ -411,6 +417,8 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 ---
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 SiC 파워 반도체 시장 점유율 약 3위 (2024년 기준), 시장 점유율 약 16%
 

@@ -23,9 +23,13 @@ Targa Resources Corp.(NYSE: TRGP)는 미국의 주요 미드스트림 에너지 
 1. 수집 및 처리(Gathering and Processing): [천연가스](/industry-study/천연가스/) 수집, 압축, 처리 및 판매
 2. 물류 및 운송(Logistics and Transportation): NGL 운송, 저장, 분류, 처리 및 판매
 
+{{< adsense-infeed >}}
+
 Targa는 특히 퍼미안 베이신 지역에서 강력한 입지를 보유하고 있으며, 통합된 미드스트림 서비스를 제공합니다. 회사는 약 29,000마일의 파이프라인, 21개의 천연가스 처리 플랜트, 7개의 프랙셔네이터, LPG 수출 터미널 등을 운영하고 있습니다.최근 이슈로는 퍼미안 베이신에서의 처리 용량 확대, LPG 수출 터미널 확장, 그리고 지속적인 운영 효율성 개선 노력 등이 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 전략적 자산 위치: 퍼미안 베이신을 중심으로 한 핵심 에너지 생산 지역에 광범위한 인프라 네트워크를 보유하고 있어, 생산업체들의 수요에 효과적으로 대응할 수 있습니다.
 2. 통합 서비스 제공: 천연가스 수집부터 NGL 분류, 저장, 수출에 이르기까지 전체 밸류체인을 아우르는 서비스를 제공하여 고객에게 원스톱 솔루션을 제공합니다.
@@ -37,10 +41,14 @@ Targa는 특히 퍼미안 베이신 지역에서 강력한 입지를 보유하�
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 1. 석유화학 산업: LyondellBasell Industries N.V.(US, [LYB](/company-analysis/lyb/))
 2. 정유 산업: Valero Energy Corporation(US, [VLO](/company-analysis/vlo/))
 3. 전력 생산 산업: NextEra Energy, Inc.(US, [NEE](/company-analysis/nee/))
 4. LPG 유통 산업: AmeriGas Partners, L.P.(US, APU)
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -57,6 +65,8 @@ Targa는 특히 퍼미안 베이신 지역에서 강력한 입지를 보유하�
 4. NGL 분류: ONEOK, Inc.(US, [OKE](/company-analysis/oke/)) - 프랙셔네이션 시설 운영
 5. NGL 저장: Plains All American Pipeline, L.P.(US, PAA) - 지하 저장 시설
 6. LPG 수출: Enterprise Products Partners L.P.(US, [EPD](/company-analysis/epd/)) - 수출 터미널 운영
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

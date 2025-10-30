@@ -20,6 +20,8 @@ weight: 817
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 제공하는 회사입니다. 이 회사는 우주선 설계, 제조, 지상 및 비행 테스트, 우주 비행 운영, 비행 후 유지보수 등을 수행합니다
 
 ### 전방/후방산업
@@ -41,6 +43,8 @@ Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 �
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **VSS Unity**: 우주 관광 및 연구를 위한 서브오비탈 우주선.
 - **VSS Imagine**: 차세대 서브오비탈 우주선으로, 더 많은 승객을 수용할 수 있도록 설계됨.
 - **VSS Enterprise**: 초기 테스트 및 개발을 위한 우주선.
@@ -48,6 +52,8 @@ Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 �
 ### 주요 판매국가
 
 Virgin Galactic은 주로 미국 내에서 우주 관광 서비스를 제공하고 있으며, 주요 시장은 미국입니다
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 
@@ -58,6 +64,8 @@ Virgin Galactic은 주로 미국 내에서 우주 관광 서비스를 제공하�
 ### 산업 내 글로벌 시장 점유율
 
 Virgin Galactic은 우주 관광 시장에서 중요한 위치를 차지하고 있습니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 우주 관광 분야에서 주요 기업 중 하나입니다
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

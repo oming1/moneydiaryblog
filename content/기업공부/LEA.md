@@ -41,11 +41,15 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 자동차 제조: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/)), BMW(DE, [BMW](/company-analysis/bmw/))
 - 전기차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), Rivian(US, [RIVN](/company-analysis/rivn/))
 - 상용차 제조: Daimler Truck(DE, DTG), Volvo Group(SE, VOLV-B)
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 원자재 공급: BASF(DE, BAS), DuPont(US, [DD](/company-analysis/dd/))
 - 반도체: NXP Semiconductors(NL, [NXPI](/company-analysis/nxpi/)), Infineon Technologies(DE, [IFX](/company-analysis/ifx/))
@@ -56,7 +60,11 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 - 시트 시스템: 완전한 자동차 시트 세트 및 부품, 매출의 약 75% (2024년 기준)
 - E-Systems: 전기 배전 시스템, 전자 제어 모듈 등, 매출의 약 25% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - General Motors(US, [GM](/company-analysis/gm/)): 글로벌 자동차 제조사
 - Ford Motor Company(US, [F](/company-analysis/f/)): 미국 자동차 제조사
@@ -69,6 +77,8 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 미국, 중국, 독일, 멕시코, 캐나다, 영국, 프랑스, 스페인, 이탈리아, 폴란드
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Adient(IE, [ADNT](/company-analysis/adnt/)): 자동차 시트 및 인테리어 시스템 제조
 - Faurecia(FR, EO): 자동차 인테리어 및 배기 시스템 전문

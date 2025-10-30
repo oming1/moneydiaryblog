@@ -42,7 +42,11 @@ American Tower Corporation(NYSE: AMT)은 글로벌 통신 인프라 제공업체
 - 데이터 센터 서비스: 기업 고객들에게 데이터 센터 및 상호연결 서비스 제공, 매출의 약 15% (2024년 기준)
 - 관리 서비스: 타워 관리 및 유지보수 서비스, 매출의 약 5% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 인도, 브라질, 독일, 프랑스, 나이지리아, 멕시코, 남아프리카공화국
 
@@ -56,6 +60,8 @@ American Tower Corporation(NYSE: AMT)은 글로벌 통신 인프라 제공업체
 ## 산업 내 글로벌 시장 점유율
 
 American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에서 약 25.15%의 점유율을 보유하고 있습니다. 이는 경쟁사인 Crown Castle(16.43%)과 SBA Communications(6.36%)를 크게 앞서는 수치입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -72,6 +78,8 @@ American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에
 - State Street Corporation (4.47%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Real Estate ETF - IYR
 - Vanguard Real Estate ETF - VNQ

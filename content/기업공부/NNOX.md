@@ -22,6 +22,8 @@ weight: 621
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발하는 이스라엘 기반 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. Nanox.ARC: FDA 승인을 받은 디지털 멀티소스 3D 토모신테시스 영상 시스템
@@ -111,7 +113,9 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 22. SpinexMedical과 새로운 유통 계약 체결 (2024년)
     
 23. Corewell Health, Dandelion Health, Oxford University Hospitals 등과 Nanox.AI 솔루션 계약 연장 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 24. 2024년 3분기 매출 300만 달러 달성, 전년 동기 대비 20% 성장 (2024년)
     
 25. FDA로부터 추가 승인을 위한 노력 지속 및 EU에서 CE 마크 획득 (2023-2024년)
@@ -119,7 +123,9 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 ## 주요주주(지분율)
 
 26. The Vanguard Group (11.66%)
-    
+
+{{< adsense-infeed >}}
+
 27. BlackRock (9.17%)
     
 28. State Street Corporation (4.47%)
@@ -133,5 +139,7 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 31. SPDR S&P Health Care Equipment ETF - XHE
     
 32. Invesco S&P SmallCap Health Care ETF - PSCH
-    
+
+{{< adsense-infeed >}}
+
 33. First Trust NYSE Arca Biotechnology Index Fund - FBT

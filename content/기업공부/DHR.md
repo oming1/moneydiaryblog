@@ -34,7 +34,9 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
         - Siemens Healthineers (독일, 비상장) - 의료 기술 및 진단 솔루션 제공
 
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 생명 과학 연구 및 개발
     - **역할**: Danaher의 제품에 필요한 원자재 및 연구 지원 제공
     - **주요 기업**:
@@ -59,6 +61,8 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
         
         - Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)) - 생명 과학 연구 장비 제공
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
 
 - **진단 기기**: 다양한 질병을 진단하기 위한 기기로 사용됩니다.
@@ -68,6 +72,8 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
 - **생명 과학 장비**: 연구소에서 사용되는 분석 장비입니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 

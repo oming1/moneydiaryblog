@@ -22,6 +22,8 @@ weight: 574
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Monday.com Ltd.(NASDAQ: MNDY)는 클라우드 기반의 작업 운영 체제(Work OS) 플랫폼을 제공하는 이스라엘 기업입니다. 2012년 설립되어 2021년 6월 나스닥에 상장했습니다.주요 제품인 monday.com Work OS는 저코드/노코드 플랫폼으로, 조직이 쉽게 작업 관리 도구와 소프트웨어 애플리케이션을 구축할 수 있게 해줍니다.
 
 이 플랫폼은 프로젝트 관리, 마케팅 캠페인, 영업 파이프라인, 제품 로드맵 등 다양한 비즈니스 프로세스를 관리하는 데 사용됩니다.2024년 기준으로 225,000개 이상의 고객을 보유하고 있으며, 200개 이상의 산업 분야와 200개 국가 및 지역에서 사용되고 있습니다. 최근에는 AI 기능을 강화하고 엔터프라이즈 시장 진출을 확대하고 있습니다.
@@ -46,6 +48,8 @@ Monday.com Ltd.(NASDAQ: MNDY)는 클라우드 기반의 작업 운영 체제(Wor
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
 - 데이터 분석: Snowflake(US, [SNOW](/company-analysis/snow/)), Databricks
 - 보안 솔루션: Okta(US, [OKTA](/company-analysis/okta/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
@@ -58,9 +62,13 @@ Monday.com Ltd.(NASDAQ: MNDY)는 클라우드 기반의 작업 운영 체제(Wor
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 영국, 이스라엘, 호주, 브라질, 일본
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Atlassian(US, [TEAM](/company-analysis/team/)) - Jira, Trello
 - Asana(US, [ASAN](/company-analysis/asan/)) - 작업 관리 플랫폼
@@ -89,6 +97,8 @@ Monday.com의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 - Fiduciary Trust Company International (3.754%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Cloud Computing ETF - CLOU
 - WisdomTree Cloud Computing Fund - WCLD

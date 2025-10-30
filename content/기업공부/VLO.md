@@ -28,9 +28,13 @@ Valero Energy Corporation은 교통 연료, 석유화학 제품의 제조 및 �
     
     - 핵심 산업 및 역할: 운송, 석유화학
     - 관련 기업: 자동차 제조업체, 항공사
-      
+
+{{< adsense-infeed >}}
+
 - 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 원유 생산, 파이프라인
     - 관련 기업: 석유 생산 회사, 파이프라인 운영 회사
 ## 밸류체인
@@ -42,10 +46,14 @@ Valero Energy Corporation은 교통 연료, 석유화학 제품의 제조 및 �
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 교통 연료 (가솔린, 디젤, 제트 연료)
 - 석유화학 제품
 - 재생 디젤
 - [에탄올](/industry-study/에탄올/)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

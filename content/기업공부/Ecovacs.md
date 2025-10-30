@@ -22,6 +22,8 @@ weight: 303
 
 Ecovacs는 주로 로봇 청소기, 자동 청소 로봇, 그리고 다양한 모바일 로봇을 개발 및 판매합니다. 주요 제품 라인으로는 DEEBOT 시리즈(로봇 진공 청소기), WINBOT 시리즈(창문 청소 로봇) 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 - **후방산업:** 전자 부품 제조, 소프트웨어 개발
@@ -31,7 +33,11 @@ Ecovacs는 주로 로봇 청소기, 자동 청소 로봇, 그리고 다양한 �
     - **핵심 산업:** 전자제품 유통, 물류 서비스
     - **핵심 기업:** Amazon (미국, [AMZN](/company-analysis/amzn/)), JD.com (중국, [JD](/company-analysis/jd/))
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **부품 제조:** 센서, 모터 등 핵심 부품 제조
     - **대표 회사:** [SONY](/company-analysis/sony/) (일본, 6758), Bosch (독일, 비상장)
@@ -44,8 +50,12 @@ Ecovacs는 주로 로봇 청소기, 자동 청소 로봇, 그리고 다양한 �
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **DEEBOT 시리즈:** 로봇 진공 청소기 (주요 모델: DEEBOT N8 PRO, DEEBOT T9)
 - **WINBOT 시리즈:** 창문 청소 로봇 (주요 모델: WINBOT X)
+
+{{< adsense-infeed >}}
 
 ### 주요 판매국가
 

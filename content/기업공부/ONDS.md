@@ -43,6 +43,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - 소프트웨어 라이선싱: AI 알고리즘, 드론 관제 소프트웨어 라이선싱
 - 구독 서비스: 클라우드 기반 데이터 분석 및 모니터링 서비스
 
+{{< adsense-infeed >}}
+
 **Ondas Networks 사업부 수익 구조:**
 
 - 무선 장비 판매: 900MHz 기지국, 단말기, 네트워크 장비 판매
@@ -150,6 +152,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 
 **Kestrel 시스템:** 드론 탐지 및 카운터-UAS 솔루션, 매출비중 10% (2024년 추정), 주요 경쟁사 DroneShield, AeroVironment
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -157,6 +161,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 **[리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/):** 드론 배터리 제조용, 주요 공급지 칠레/호주, 주요 공급업체 Albemarle(US, [ALB](/company-analysis/alb/))
 
 **[희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 금속:** 센서 및 전자부품용, 주요 공급지 중국/미국, 주요 공급업체 MP Materials(US, [MP](/company-analysis/mp/))
+
+{{< adsense-infeed >}}
 
 **구리:** 통신 장비 및 안테나용, 주요 공급지 칠레/페루, 주요 공급업체 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/))
 
@@ -254,6 +260,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 
 ## 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 **구체적 성장 지표:**
 
 - 매출 성장률: 3년 CAGR 65.3% (2022-2024년 추정)
@@ -333,6 +341,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - SKYY - First Trust Cloud Computing ETF SKYY (클라우드 및 IoT)
 
 **테마 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - ROBO - ROBO Global Robotics and Automation ETF ROBO (로보틱스 및 자동화)
 - IBUY - Amplify Online Retail ETF IBUY (스마트시티 및 IoT)

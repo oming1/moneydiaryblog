@@ -25,10 +25,14 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 #### 전방/후방산업
 
 - **전방산업:**
-    
+
+{{< adsense-infeed >}}
+
     - **석유 및 가스 생산업체:** 원유 및 천연가스 생산. 예: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron Corporation (미국, [CVX](/company-analysis/cvx/)).
     - **정유 및 석유화학 업체:** 원유 정제 및 석유화학 제품 생산. 예: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP).
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업:**
     
     - **기술 및 장비 공급업체:** 시추 장비 및 기술 제공. 예: Baker Hughes (미국, [BKR](/company-analysis/bkr/)), Halliburton (미국, [HAL](/company-analysis/hal/)).
@@ -62,6 +66,8 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 - **미국:** 주요 시장으로 전체 매출의 상당 부분을 차지.
 - **중동:** 석유 및 가스 산업의 주요 지역.
 - **러시아:** 석유 및 가스 탐사 및 생산의 주요 지역.
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

@@ -42,8 +42,12 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
     
@@ -82,6 +86,8 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 3. 아시아 태평양 (2023년 매출 비중: 약 25%)
 4. 라틴 아메리카 (2023년 매출 비중: 약 10%)
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. BASF(DE, BAS) - 종합 화학제품
@@ -89,6 +95,8 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 3. DuPont(US, [DD](/company-analysis/dd/)) - 특수 화학제품
 4. Covestro(DE, 1COV) - 폴리머 소재
 5. Huntsman(US, [HUN](/company-analysis/hun/)) - 특수 화학제품
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

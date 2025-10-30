@@ -35,6 +35,8 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         - Dish Network (미국, [DISH](/company-analysis/dish/)) - 위성 TV 서비스 제공
         - Comcast (미국, [CMCSA](/company-analysis/cmcsa/)) - 케이블 TV 및 인터넷 서비스 제공
 
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 위성 제조 및 기술 개발
@@ -45,6 +47,8 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         - Lockheed Martin (미국, [LMT](/company-analysis/lmt/)) - 방산 및 우주 시스템 제공
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **위성 통신 서비스**:
     
@@ -68,12 +72,16 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
     - 매출 비중: 전체 매출의 약 40% 차지.
     
 - **위성 방송 서비스**: Dish Network를 통해 제공되는 텔레비전 방송입니다.
-    
+
+{{< adsense-infeed >}}
+
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
 
 EchoStar는 미국을 주요 시장으로 하며, 유럽 및 아시아 태평양 지역에서도 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

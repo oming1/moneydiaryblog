@@ -32,12 +32,18 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
     - 미국: First Solar [FSLR](/company-analysis/fslr/)
     - 중국: JinkoSolar
     - 한국: OCI
-    
+
+{{< adsense-infeed >}}
+
 3. 박막 태양전지
-    
+
+{{< adsense-infeed >}}
+
     - 미국: First Solar [FSLR](/company-analysis/fslr/)
     - 중국: Hanergy Thin Film Power Group
     - 한국: SDN 
+
+{{< adsense-infeed >}}
 
 ## 제조공정
 
@@ -45,7 +51,9 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
 2. 잉곳 생성: 단결정 또는 다결정 실리콘 잉곳 제조
 3. 웨이퍼 제조: 잉곳을 얇게 절단하여 웨이퍼 생산
 4. 셀 제조:
-    
+
+{{< adsense-infeed >}}
+
     - 표면 텍스처링
     - 불순물 확산을 통한 PN 접합 형성
     - 반사방지막 증착
@@ -58,5 +66,7 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
     - 프레임 조립 및 정션박스 부착
     
 6. 테스트 및 품질 관리
+
+{{< adsense-infeed >}}
 
 이러한 과정을 거쳐 태양광 모듈이 완성되며, 이를 이용해 태양광 발전 시스템을 구축합니다.

@@ -24,6 +24,8 @@ Duolingo, Inc.(DUOL)는 모바일 언어 학습 플랫폼을 운영하는 미국
 
 Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 학습 과정을 제공합니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 언어 학습 앱: 게임화된 방식으로 단기 일일 학습 제공
 2. Duolingo English Test: 온라인 영어 능력 평가 시험
 3. Duolingo ABC: 아동용 문해력 앱
@@ -49,6 +51,8 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 3. 마케팅 및 사용자 확보: Duolingo
 4. 고객 서비스: Duolingo
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - Duolingo 언어 학습 앱
@@ -57,11 +61,17 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 - Super Duolingo (프리미엄 구독)
 - Duolingo Max (AI 기반 프리미엄 구독)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 전 세계 100개 이상 국가
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Cambly Inc.
 - Khan Academy

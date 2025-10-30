@@ -22,12 +22,18 @@ weight: 257
 
 Dominion Energy는 전기 및 [천연가스](/industry-study/천연가스/) 유틸리티 서비스를 제공하는 에너지 기업입니다. 주요 사업으로는 전기 생산, 송배전, 천연가스 유통, 저장, 운송 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 
 - 에너지 생산: 발전소, 천연가스 생산업체
 - 인프라 장비: 전력 및 가스 설비 제조업체
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -53,6 +59,10 @@ Dominion Energy는 전기 및 [천연가스](/industry-study/천연가스/) 유�
 - Duke Energy(US, [DUK](/company-analysis/duk/))
 - Exelon Corporation(US, [EXC](/company-analysis/exc/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Dominion Energy는 미국 내 주요 에너지 기업 중 하나로, 2017년 기준 Fortune 500 리스트에서 238위를 차지했습니다.

@@ -38,6 +38,8 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - 마케팅: Google (미국, [GOOGL](/company-analysis/googl/))
 
+{{< adsense-infeed >}}
+
 **밸류체인**
 
 - **개발:** 여행 예약 플랫폼 개발
@@ -47,6 +49,8 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 - **지원:** 고객 지원, 기술 지원
     - **대표 회사:** Zendesk (미국, ZEN), Salesforce (미국, [CRM](/company-analysis/crm/))
 
+{{< adsense-infeed >}}
+
 **주요제품**
 
 - **Expedia:** 종합 여행 예약 플랫폼
@@ -55,6 +59,8 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 - **trivago:** 호텔 메타검색 플랫폼
 
 **주요 판매국가**
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가

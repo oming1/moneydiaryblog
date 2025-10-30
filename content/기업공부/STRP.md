@@ -24,13 +24,19 @@ Stripe는 웹사이트와 모바일 애플리케이션에 결제 처리를 통�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 결제 처리 플랫폼
 - Stripe Billing: 구독 및 청구 관리
 - Stripe Connect: 다자간 결제 플랫폼
 - Stripe Terminal: 대면 결제 솔루션
 - Stripe Atlas: 스타트업 설립 지원 도구
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 전 세계 46개국 이상에서 서비스 제공
 
@@ -40,7 +46,11 @@ Stripe는 웹사이트와 모바일 애플리케이션에 결제 처리를 통�
 - Square(US, [SQ](/company-analysis/sq/))
 - Adyen(네덜란드, ADYEN.AS)
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2023년 1조 달러 규모의 거래 처리 (2024)
 - 사용량 기반 결제 지원 도입 (2024)

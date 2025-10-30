@@ -81,7 +81,9 @@ NIH는 직접적인 수익을 창출하는 기업이 아니라 정부 예산을 
 1. 연구 자금: NIH(연방 예산), 의회(연방 자금 승인)
     
 2. 연구 인프라: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)) (실험실 장비), Illumina(US, [ILMN](/company-analysis/ilmn/)) (유전체 분석 장비)
-    
+
+{{< adsense-infeed >}}
+
 3. 기초 연구: NIH 인트라뮤럴 프로그램, 대학 연구소 (Harvard Medical School(Harvard Medical School), Stanford Medicine(Stanford Medicine))
     
 4. 중개 연구: 생명공학 회사 (Regeneron(US, [REGN](/company-analysis/regn/)) (항체 치료제 개발), BioNTech(US, [BNTX](/company-analysis/bntx/)) (mRNA 기술))
@@ -128,6 +130,8 @@ NIH의 주요 "고객"은 연구 보조금 수혜자와 연구 결과를 활용�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 NIH는 미국 정부 기관으로, 주로 미국 내 연구를 지원하지만 국제 연구 협력도 지원합니다. 미국이 주요 활동 국가이며, 연구 자금의 약 90%가 미국 내 기관에 배분됩니다.
 
 ## 경쟁업체
@@ -159,7 +163,9 @@ NIH는 세계 최대의 생물의학 연구 자금 제공 기관으로, 2024년 
 1. 장애인을 건강 불평등 인구로 지정하는 정책 변경 발표 (2025년)
     
 2. 임무 선언문 변경 검토 시작 - 장애 감소 언급 제거 고려 (2025년)
-    
+
+{{< adsense-infeed >}}
+
 3. 연방 정부 지속 결의(Continuing Resolution)에 따라 2025년 9월 30일까지 약 $486억 달러 규모의 예산 유지 (2024년)
     
 4. 암 연구를 위한 캔서 문샷(Cancer Moonshot) 이니셔티브에 $14억 달러 의무 리소스 배정 (2024년)

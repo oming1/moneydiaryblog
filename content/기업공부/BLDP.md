@@ -20,11 +20,17 @@ weight: 141
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계, 개발, 제조, 판매 및 서비스하는 기업입니다. 주로 중장비 모빌리티, 휴대용 전원, 물류 처리, 백업 전원 등의 시장에 제품을 공급합니다.
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 원자재 공급업체: 연료전지 제조에 필요한 재료 공급
 - 반도체 제조업체: 연료전지 부품 공급
@@ -41,6 +47,8 @@ Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계,
 3. 판매 및 유통: Ballard Power Systems, Weichai Power(중국)
 4. 시스템 통합: Van Hool(벨기에), New Flyer(캐나다), Solaris(폴란드) 등 차량 제조업체
 5. 최종 사용자: 운송 회사, 물류 기업, 유틸리티 기업
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -62,6 +70,8 @@ Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계,
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Ballard는 PEM 프로톤 교환막 연료전지 시장에서 주요 플레이어 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

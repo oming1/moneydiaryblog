@@ -22,6 +22,8 @@ weight: 234
 
 Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양한 서비스와 제품을 제공하는 회사로, 주로 전임상 및 임상 실험실 서비스, 유전자 치료 및 세포 치료 서비스를 전문으로 합니다. 이 회사는 약물 발견, 안전성 및 효능 테스트, 임상 지원 및 제조 분야에서 연구 개발을 지원합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -45,7 +47,9 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
 ## 밸류체인
 
 - **전임상 연구 서비스**:
-    
+
+{{< adsense-infeed >}}
+
     - Charles River는 약물 개발 초기 단계에서 필요한 다양한 연구 서비스를 제공합니다.
     - 대표 기업:
         
@@ -56,10 +60,16 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
     
     - 임상 시험을 위한 데이터 수집 및 분석 서비스를 제공합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - ICON plc (아일랜드, ICLR) - 임상 연구 서비스 제공
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - **전임상 시험 서비스**: 약물의 안전성과 효능을 평가하기 위한 연구입니다.
     

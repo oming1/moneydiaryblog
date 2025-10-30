@@ -40,20 +40,28 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 4. 전략적 파트너십: Pfizer, Biogen, Novartis 등 글로벌 제약사들과의 협력을 통해 기술의 검증과 자금 확보, 그리고 상업화 경로를 확보하고 있습니다.
 5. 다양한 임상 파이프라인: 여러 질환 영역에 걸친 임상 단계 후보 물질을 보유하고 있어, 성공 가능성을 높이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 전방산업:
 
 1. 병원 및 의료기관: 유전자 치료제 및 세포 치료제 사용
     
     - Mayo Clinic, Cleveland Clinic
-    
+
+{{< adsense-infeed >}}
+
 2. 제약 유통업체: 치료제 유통 및 공급
     
     - McKesson Corporation(US, [MCK](/company-analysis/mck/)), AmerisourceBergen(US, [ABC](/company-analysis/abc/))
     
 3. 보험회사: 치료제 보험 적용
-    
+
+{{< adsense-infeed >}}
+
     - UnitedHealth Group(US, [UNH](/company-analysis/unh/)), Anthem(US, [ANTM](/company-analysis/antm/))
 
 ## 후방산업:
@@ -131,6 +139,8 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 5. 재무 상황 개선을 위한 구조조정 및 비용 절감 계획 실행 (2022-2023)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. Wasatch Advisors LP (9.32%)
 2. Vanguard Group Inc. (4.60%)

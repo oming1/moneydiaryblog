@@ -20,12 +20,16 @@ weight: 970
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 서비스 회사로, 에너지, 화학, 자원 분야에서 프로젝트 전달 및 컨설팅 서비스를 제공합니다. 이 회사는 전력 생성, 전송, 배급, 화학 제조, 가공, 정제 및 자원 프로젝트와 관련된 다양한 프로젝트를 수행합니다. Worley는 다국적 에너지, 화학, 자원 회사 및 정부 소유 유틸리티를 포함한 다양한 고객에게 서비스를 제공합니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 에너지 생산, 화학 제조, 자원 추출
     - **관련 기업**: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/))
     
@@ -33,6 +37,8 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
     
     - **핵심 산업 및 역할**: 엔지니어링 장비 제조, 기술 솔루션 제공
     - **관련 기업**: Siemens (DE, [SIE](/company-analysis/sie/)), General Electric (US, [GE](/company-analysis/ge/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -53,6 +59,8 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
 
 ## 주요제품 및 서비스
 
+{{< adsense-infeed >}}
+
 - **엔지니어링 서비스**
 - **구매 및 공급망 관리**
 - **건설 및 제작**
@@ -63,6 +71,8 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
 Worley는 아메리카, 유럽, 중동, 아프리카, 아시아 태평양 지역 등 전 세계적으로 운영되고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Fluor Corporation (US, [FLR](/company-analysis/flr/))** - 글로벌 엔지니어링 및 건설 회사
 - **Jacobs Engineering Group (US, J)** - 기술 및 전문 서비스 제공업체

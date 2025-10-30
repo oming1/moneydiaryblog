@@ -20,6 +20,8 @@ Industry: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 위한 플랫폼을 구축하는 생명공학 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **세포 프로그래밍 플랫폼**: 세포를 설계하여 식품 원료, 치료제, 화학물질 등의 생물학적 생산을 가능하게 합니다.
@@ -41,6 +43,8 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 - **생명공학 연구 장비 제조업체**: Illumina (US, [ILMN](/company-analysis/ilmn/))
 - **유전자 합성 서비스 제공업체**: Twist Bioscience (US, [TWST](/company-analysis/twst/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. **연구개발**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
@@ -50,7 +54,9 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 2. **생산 및 상용화**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
     
     - 발효 및 대량 생산 지원.
-    
+
+{{< adsense-infeed >}}
+
 3. **응용 및 협력**: 제약회사 및 산업 파트너와 협력하여 제품 개발.
 
 ## 주요제품
@@ -64,6 +70,8 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 ## 주요 판매국가
 
 Ginkgo Bioworks는 주로 미국 시장에서 사업을 영위하며 글로벌 파트너와 협력하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

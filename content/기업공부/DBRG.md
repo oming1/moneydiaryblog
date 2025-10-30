@@ -22,6 +22,8 @@ weight: 261
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로벌 대체자산 운용사입니다. 주요 투자 분야는 [데이터센터](/industry-study/데이터센터/), 셀타워, 광섬유 네트워크, 소형 셀, 엣지 인프라 등 5개 핵심 디지털 인프라 영역입니다.2024년 9월 30일 기준으로 운용자산(AUM)은 880억 달러에 달하며, 전 세계 25개국 이상에서 사업을 전개하고 있습니다. 회사는 기관투자자들을 대상으로 다양한 투자 전략을 제공하며, 특히 AI 및 클라우드 컴퓨팅 관련 인프라에 주목하고 있습니다.최근 1년간 주요 이슈로는 Vantage Data Centers에 대한 92억 달러 규모의 지분 투자 주도, Vertical Bridge의 33억 달러 규모 타워 거래 완료, 그리고 지속적인 펀드레이징 성과 등이 있었습니다. 회사는 디지털 인프라 시장의 성장세를 바탕으로 지속적인 확장을 추진하고 있습니다.
 
 ## 핵심 경쟁력
@@ -32,6 +34,8 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 4. 운영 및 투자 역량 결합: 자산 운용과 실제 운영 경험을 결합한 차별화된 접근
 5. 기술 트렌드 대응력: AI, 5G, 엣지 컴퓨팅 등 신기술 관련 인프라에 선제적 투자
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -41,6 +45,8 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Oracle(US, [ORCL](/company-analysis/orcl/))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 네트워크 장비: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Juniper Networks(US, [JNPR](/company-analysis/jnpr/))
@@ -55,6 +61,8 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 ## 주요 판매국가
 
 미국, 영국, 독일, 프랑스, 일본, 호주, 브라질, 인도, 싱가포르
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -84,6 +92,8 @@ DigitalBridge Group은 2024년 기준 글로벌 디지털 인프라 투자 시�
 - State Street Corporation (4.47%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
 - Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - SRVR

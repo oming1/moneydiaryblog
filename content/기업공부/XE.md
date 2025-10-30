@@ -24,21 +24,29 @@ weight: 984
 
 X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온가스냉각로(High-Temperature Gas-Cooled Reactor, HTGR, VHTR) 및 TRISO 연료를 개발하는 회사입니다. 이 회사는 차세대 소형 모듈형 원자로([SMR](/industry-study/smr/))와 고온가스냉각로를 설계하고 개발합니다.
 
+{{< adsense-infeed >}}
+
 에너지로는 저농축 산화 우라늄/고순도 저농축 우라늄(LEU, HALEU), 피복입자(TRISO) 사용
 
 - 감속재 : [흑연](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속흑연/) / 냉각재 : 헬륨기체, 불화염
 
 ## **전방/후방산업**
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 전력 생산, 산업용 열 공급, 우주 탐사
     - **핵심 산업:** 전력 생산 (Duke Energy (US, [DUK](/company-analysis/duk/))), 산업용 열 공급 (Dow Inc. (US, [DOW](/company-analysis/dow/))), 우주 탐사 (SpaceX (US, 비상장))
     - **역할:** 원자로를 통한 전력 및 열 공급, 우주 탐사 미션 지원
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업:** 원자로 부품 제조, 연료 공급, 엔지니어링 서비스
     - **핵심 산업:** 원자로 부품 제조 (Curtiss-Wright (US, CW)), 연료 공급 (Cameco (CA, [CCJ](/company-analysis/ccj/))), 엔지니어링 서비스 (Bechtel (US, 비상장))
     - **역할:** 원자로 부품 및 연료 공급, 엔지니어링 및 건설 서비스 제공
 
 ## **밸류체인**
+
+{{< adsense-infeed >}}
 
 - **입력:** 원자로 설계, 연료 개발
     - **대표회사:** Curtiss-Wright (US, CW) - 원자로 부품 제조, Cameco (CA, [CCJ](/company-analysis/ccj/)) - 연료 공급
@@ -71,6 +79,8 @@ X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온�
 - **NuScale Power:** 약 8% (2023년 기준)
 
 ## **최근 3년 내 주요 이슈**
+
+{{< adsense-infeed >}}
 
 - **DOE 지원:** 미국 에너지부(DOE)로부터 4억 달러 지원 (2020)
 - **Amazon 투자:** Amazon의 소형 모듈형 원자로(SMR) 투자 (2023)

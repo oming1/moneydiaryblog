@@ -24,6 +24,8 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 
 이 회사는 할인 소매업체다. 이 회사는 소모품, 계절 상품, 가정용품 및 의류를 포함한 상품을 제공한다.  
 
+{{< adsense-infeed >}}
+
 이 회사의 상품에는 제조업체의 브랜드뿐만 아니라 브랜드보다 할인된 가격의 자체 브랜드 셀렉션도 포함된다.  
   
 소모품 카테고리에는 종이 및 청소용품, 포장 식품, 부패하기 쉬운 식품, 스낵, 건강 및 미용, 반려동물, 담배 제품이 포함된다.  
@@ -42,6 +44,8 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 역할: 소비자에게 직접 판매
@@ -53,11 +57,15 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 - 소비재 제조업체: Procter & Gamble (US, [PG](/company-analysis/pg/))
 - 식품 제조업체: General Mills (US, [GIS](/company-analysis/gis/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 소비재 (청소용품, 식료품 등, 매출 비중: 약 75%, 2023년 기준)
 - 계절 상품 (매출 비중: 약 15%, 2023년 기준)
 - 가정용품 (매출 비중: 약 10%, 2023년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -68,6 +76,8 @@ Dollar General은 주로 미국에서 운영되며, 2023년 기준으로 멕시�
 - 19,643개의 매장 (2024년 1월 기준)
 - 물류 센터 네트워크
 - 자체 브랜드 (Clover Valley, True Living 등)
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

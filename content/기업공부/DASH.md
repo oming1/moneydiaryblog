@@ -31,8 +31,12 @@ DoorDash는 온라인 음식 주문 및 배달 플랫폼을 운영하는 기업�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 소비자: 음식 및 상품 주문 및 배달 서비스 이용
 - 기업: 직원 식사 제공 서비스 이용
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -41,6 +45,8 @@ DoorDash는 온라인 음식 주문 및 배달 플랫폼을 운영하는 기업�
 3. 상인 네트워크: 음식점, 편의점, 식료품점 등
 4. 배달원(Dasher) 네트워크: 독립 계약자
 5. 고객 서비스: DoorDash (고객 지원)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -59,6 +65,8 @@ DoorDash는 온라인 음식 주문 및 배달 플랫폼을 운영하는 기업�
 - Uber Technologies(US, [UBER](/company-analysis/uber/)) (Uber Eats)
 - Just Eat Takeaway.com(네덜란드, TKWY.AS)
 - Delivery Hero(독일, DHER.DE)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

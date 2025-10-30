@@ -141,6 +141,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - **석유 및 가스 산업:** ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/)) 등으로부터 NGLs, 원유, 나프타 공급.
 - **촉매 제조업체:** BASF(DE, BASFY), W.R. Grace (US, GRA) 등.
 - **에너지 공급업체:** 전력, 천연가스.
@@ -195,6 +197,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **소비재 제조업체:** 가전제품, 가구 등.
 - **다른 화학 기업:** 중간재 구매.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
@@ -240,6 +244,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **2023년:** 화학적 재활용 기술 MoReTec의 상업화 추진 및 파트너십 확대, 지속 가능한 제품 포트폴리오 강화.
 - **2024년:** 북미 신규 에틸렌 크래커 및 폴리올레핀 공장 증설 프로젝트 진전, 저탄소 수소 생산 프로젝트 참여 검토.
 - **2025년:** 플라스틱 폐기물 문제 해결을 위한 순환 솔루션 투자 확대, 에너지 효율성 개선을 위한 공정 최적화.
+
+{{< adsense-infeed >}}
 
 ---
 

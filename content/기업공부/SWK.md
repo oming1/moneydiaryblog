@@ -22,7 +22,11 @@ weight: 842
 
 Stanley Black & Decker는 전동 및 수공구, 산업용 장비, 보안 시스템 등을 제조, 판매하는 글로벌 기업입니다.
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 전동공구 및 액세서리
 - 수공구
@@ -30,9 +34,13 @@ Stanley Black & Decker는 전동 및 수공구, 산업용 장비, 보안 시스�
 - 보안 시스템
 - 잠금장치 및 도어 하드웨어
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 전 세계적으로 사업을 영위하며, 북미, 유럽, 아시아 등이 주요 시장입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 주요 이슈
 

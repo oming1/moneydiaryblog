@@ -33,11 +33,15 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 
 ## **주요 제품**
 
+{{< adsense-infeed >}}
+
 - **네트워킹 솔루션:** 이더넷 스위치 및 라우터
 - **브로드밴드 솔루션:** 셋톱박스 및 광 네트워크 장비
 - **무선 통신 솔루션:** Wi-Fi, Bluetooth, GPS/GNSS SoC
 - **데이터 센터 솔루션:** 서버 및 스토리지 시스템용 반도체
 - **소프트웨어 솔루션:** 인프라 소프트웨어 및 보안 솔루션
+
+{{< adsense-infeed >}}
 
 ## **주요 판매 국가**
 
@@ -46,6 +50,8 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 - **유럽:** 중요한 시장으로 매출의 일부를 차지
 
 ## **경쟁 업체**
+
+{{< adsense-infeed >}}
 
 - **Intel Corporation (미국, [INTC](/company-analysis/intc/)):** 반도체 및 데이터 센터 솔루션
 - **Qualcomm (미국, [QCOM](/company-analysis/qcom/)):** 무선 통신 솔루션

@@ -92,7 +92,11 @@ _디지털 서비스 기업으로 물리적 제조 공정 없음_
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **후방산업**
+
+{{< adsense-infeed >}}
 
 - **클라우드 서비스**: AWS([AMZN](/company-analysis/amzn/)), Microsoft Azure([MSFT](/company-analysis/msft/))
     
@@ -154,7 +158,9 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 3. Visa([V](/company-analysis/v/)) - 직불카드 결제 시스템 통합
     
 4. Bocconi University(이탈리아) - 금융 교육 콘텐츠 제휴
-    
+
+{{< adsense-infeed >}}
+
 5. 개인 투자자: 미국·유럽·아시아 75개국 3,500만 명
 
 ---

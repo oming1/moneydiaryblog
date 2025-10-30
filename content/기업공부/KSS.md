@@ -25,8 +25,12 @@ Kohl’s Corporation은 미국에서 의류, 신발, 액세서리, 뷰티 및 �
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - 소매업체: Macy’s (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
+
+{{< adsense-infeed >}}
 
 **후방산업:**
 
@@ -46,6 +50,8 @@ Kohl’s Corporation은 미국에서 의류, 신발, 액세서리, 뷰티 및 �
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Macy’s (US, [M](/company-analysis/m/)):** 백화점 (시장 점유율 15%)
 - **Nordstrom (US, [JWN](/company-analysis/jwn/)):** 백화점 (시장 점유율 10%)
 - **Amazon (US, [AMZN](/company-analysis/amzn/)):** 전자상거래 (시장 점유율 30%)
@@ -54,7 +60,11 @@ Kohl’s Corporation은 미국에서 의류, 신발, 액세서리, 뷰티 및 �
 
 Kohl’s Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
 
+{{< adsense-infeed >}}
+
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)
 - **신제품 출시:** 새로운 브랜드 및 제품 라인 출시 (2022년)

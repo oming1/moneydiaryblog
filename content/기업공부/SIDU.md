@@ -137,6 +137,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 
 **데이터 서비스 단계:**
 
+{{< adsense-infeed >}}
+
 - Sidus Space(US, [SIDU](/company-analysis/sidu/)): 데이터 처리 및 분석 (Orlaith AI 플랫폼 활용)
 - 최종 사용자: 정부, 국방, 상업 고객 등
 
@@ -167,6 +169,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 ---
 
 ## 13. 주요 고객 
+
+{{< adsense-infeed >}}
 
 **고객별 상세 정보:**
 
@@ -224,6 +228,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 
 ## 17. 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 **구체적 수치 및 성장 동력:**
 
 - 매출 성장률: 2024년 대비 2025년 약 -17.4% 감소 (2024년: 약 467만 달러, 2025년 1분기: 약 139만 달러)
@@ -237,6 +243,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
     2. 지분 희석을 통한 자금 조달 의존
     3. 치열한 경쟁 환경
     4. 기술적 위험 및 발사 실패 가능성
+
+{{< adsense-infeed >}}
 
 ---
 

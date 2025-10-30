@@ -24,6 +24,8 @@ weight: 589
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술 기업으로, 디지털 헬스 및 원격 의료 솔루션을 개발하고 제공합니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **스마트 헬스케어 솔루션:**
@@ -136,6 +138,8 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 - **소프트웨어 개발사:** 헬스케어 플랫폼 및 애플리케이션 (시장점유율 15%, 다양한 헬스케어 솔루션 제공)
 - **데이터 분석 기업:** 데이터 분석 및 AI 기술 (시장점유율 10%, 헬스케어 데이터 분석 제공)
 
+{{< adsense-infeed >}}
+
 **제조 및 조립 단계:**
 
 - **MEDIROM(US, MDRO):** 헬스케어 기술 및 서비스 제공
@@ -174,7 +178,9 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
     - **주요 공급지:** 미국
     - **주요 공급업체:** **Microsoft**(US, [MSFT](/company-analysis/msft/))
 - **데이터 분석 도구:**
-    
+
+{{< adsense-infeed >}}
+
     - **설명:** 데이터 분석 및 AI 모델링에 필요한 도구
     - **주요 공급지:** 미국
     - **주요 공급업체:** **IBM**(US, [IBM](/company-analysis/ibm/))

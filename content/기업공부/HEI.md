@@ -45,6 +45,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 - 최근 주요 이슈: 민항 트래픽 회복에 따른 애프터마켓([PMA](/industry-study/pma/)) 수요 증가, 보잉/에어버스 생산 정상화에 따른 콘텐츠 증가, 우주/전자전 프로그램 견조, 소형 인수 다건.
 
+{{< adsense-infeed >}}
+
 - 최근 1년 주가 동향: 민항·방산 수요 견조와 인수 모멘텀에 연동해 상대적 강세 구간과 시장 변동성 구간이 혼재(구체 수치: 확인 필요).
 
 ---
@@ -56,6 +58,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 - 고객 유형별 수익 구조:
     - 항공사·MRO·리스사(애프터마켓 부품/수리)
     - 방산 프라임·우주·산업·의료 OEM(전자/전력/센서·모듈)
+
+{{< adsense-infeed >}}
 
 - 지역별 매출 분포: 북미 비중이 크고 유럽/아시아에 고르게 분산(정확 비중: 확인 필요).
 
@@ -92,6 +96,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ---
 
 ### 제조 공정
+
+{{< adsense-infeed >}}
 
 1단계: 요구사항·인증 범위 정의(고객·감독당국 협업)  
 2단계: 설계·해석(FEA/열/진동) 및 시제품 제작  
@@ -179,6 +185,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 - FAA PMA 항공부품 카테고리에서 선도 사업자 중 하나로 평가.
 - 방산·우주 전자 틈새시장에서도 의미 있는 존재감.  
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 기업 특징 및 성장성
@@ -207,6 +215,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ---
 
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 - 항공우주/방산: ITA – iShares U.S. Aerospace & Defense ITA, XAR – SPDR S&P Aerospace & Defense XAR, PPA – Invesco Aerospace & Defense [PPA](/industry-study/ppa/)
 - 산업재: XLI – Industrial Select Sector SPDR XLI, VIS – Vanguard Industrials VIS

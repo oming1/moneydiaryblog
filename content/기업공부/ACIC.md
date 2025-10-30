@@ -33,6 +33,8 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **보험 인수:**
     - **설명:** 상업용 주거용 재산 및 상해 보험을 인수
     - **대표회사:** American Coastal Insurance Corp (미국, [ACIC](/company-analysis/acic/)), Allstate (미국, ALL)
@@ -45,8 +47,12 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **상업용 주거용 재산 보험:** 콘도미니엄 및 주택 소유자 협회 대상
 - **상해 보험:** 재산 손실 및 상해에 대한 보상 제공
+
+{{< adsense-infeed >}}
 
 ### 주요 판매국가
 
@@ -65,6 +71,8 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 - **State Farm:** 약 8% (2023년 기준)
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **허리케인으로 인한 클레임 증가 (2021년)**
 - **재보험 비용 상승 (2022년)**

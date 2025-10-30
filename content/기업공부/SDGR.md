@@ -43,6 +43,8 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 1. 소프트웨어 플랫폼: 분자 모델링 및 시뮬레이션 도구 (매출 비중: 약 70%, 2023년 기준)
 2. 신약 후보 물질: 전임상 및 임상 단계의 다양한 파이프라인 (매출 비중: 약 30%, 2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 1. 제약 회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NOVN](/company-analysis/novn/))
@@ -56,6 +58,8 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 미국, 유럽, 일본, 중국, 한국 등 글로벌 시장
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Dassault Systèmes(FR, DSY): 3D 설계 및 생명과학 소프트웨어
 2. Certara(US, CERT): 바이오시뮬레이션 소프트웨어
@@ -78,6 +82,8 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 3. The Vanguard Group, Inc. (10.28%)
 4. Rubric Capital Management LP (5.79%)
 5. ARK Investment Management LLC (3.67%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

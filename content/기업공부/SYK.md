@@ -20,6 +20,8 @@ Stryker Corporation(SYK)는 의료 기술 분야의 글로벌 리더 기업입�
 섹터: [헬스케어](/industry-study/2산업헬스케어/)(Health Care)  
 산업: 의료 장비 및 용품(Medical Instruments & Supplies)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 제품을 제조 및 판매합니다. 주요 제품으로는 정형외과 임플란트, 수술 장비, 수술 내비게이션 시스템, 환자 처리 장비, 응급 의료 장비, 내시경 및 통신 시스템, 신경외과 장비, 신경혈관 및 척추 장치 등이 있습니다.
@@ -27,6 +29,8 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 ## 전방/후방산업
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
@@ -43,6 +47,8 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 3. 판매 및 유통: 직접 판매, 자회사, 제3자 딜러 및 유통업체
 4. 고객 서비스: Stryker
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 정형외과 임플란트: 고관절, 무릎, 외상 및 사지 수술용
@@ -57,6 +63,8 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Medtronic(US, [MDT](/company-analysis/mdt/))
 - Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))
@@ -66,6 +74,8 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

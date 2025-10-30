@@ -51,9 +51,15 @@ Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 미국 내 최대 스포츠 용품 소매업체입니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2023년 2월: Moosejaw을 Walmart로부터 인수
 - 지속가능성 이니셔티브 강화

@@ -29,6 +29,8 @@ Li Auto는 [중국](/industry-study/4국가중국/)의 신에너지 차량 시�
     - **자동차 판매업체**: Li Auto의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국)
     - **충전 인프라 제공업체**: Li Auto의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
 
+{{< adsense-infeed >}}
+
 - **후방산업 (Backward Industries)**:
     
     - **배터리 제조업체**: Li Auto의 전기차에 필요한 배터리를 제공합니다. 주요 기업: [CATL](/company-analysis/catl/) (중국), [LG화학](/industry-study/lg화학/) (한국)
@@ -41,6 +43,8 @@ Li Auto는 [중국](/industry-study/4국가중국/)의 신에너지 차량 시�
 - **판매 및 유통**: 전기차를 판매하고 유통합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), Li Auto (중국, [LI](/company-analysis/li/))
 - **서비스 및 유지보수**: 전기차의 서비스 및 유지보수를 제공합니다. 주요 기업: Li Auto (중국, [LI](/company-analysis/li/)), Tesla (미국, [TSLA](/company-analysis/tsla/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품 (Key Products)
 
 - 프리미엄 전기차 라인
@@ -51,9 +55,13 @@ Li Auto는 [중국](/industry-study/4국가중국/)의 신에너지 차량 시�
 
 #### 주요 판매국가 (Major Sales Countries)
 
+{{< adsense-infeed >}}
+
 Li Auto의 주요 판매국가는 중국입니다. 최근 몇 년 동안 유럽 시장으로도 확장하고 있으며, 독일, 노르웨이, 네덜란드 등에서 판매를 시작했습니다.
 
 #### 경쟁업체 (Competitors)
+
+{{< adsense-infeed >}}
 
 - **Tesla (미국, [TSLA](/company-analysis/tsla/))**: 전기차 및 자율 주행 기술 제공
 - **[BYD](/company-analysis/byd/) (중국)**: 전기차 및 배터리 제조

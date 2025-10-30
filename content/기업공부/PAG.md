@@ -37,11 +37,15 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 아시아 태평양 지역에 대한 깊이 있는 이해와 네트워크
     
     - 25년 이상 아시아 시장 경험
     - 각국 정부, 기업, 금융기관과의 강력한 관계
-    
+
+{{< adsense-infeed >}}
+
 2. 다양한 투자 전략과 유연한 자본 구조
     
     - 다각화된 투자 접근법
@@ -58,6 +62,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
     - 안정적인 자금 유치 능력
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -80,6 +86,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 5. 투자 회수: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Citigroup(US, [C](/company-analysis/c/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 프라이빗 에쿼티 펀드 (약 60%)
 2. 부동산 펀드 (약 30%)
@@ -126,6 +134,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 추정 주요 주주: 창업자 및 경영진, 임직원, 일부 기관투자자
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares Global Financials ETF - IXG
 2. Financial Select Sector SPDR Fund - XLF

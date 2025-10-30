@@ -25,7 +25,11 @@ weight: 616
 - **화학 및 소재 (Chemicals and Materials):** 석탄 기반 화학 제품, 석유화학 제품, 전자 재료, 반도체 및 전자 부품용 소재
 - **시스템 솔루션 (System Solutions):** 컴퓨터 시스템 엔지니어링 및 컨설팅, IT 아웃소싱
 
+{{< adsense-infeed >}}
+
 **전방/후방산업 (Upstream/Downstream Industries)**
+
+{{< adsense-infeed >}}
 
 - **전방산업 (Downstream Industries):**
     - **핵심 산업:** 자동차, 건설, 가전제품
@@ -36,6 +40,8 @@ weight: 616
     - **핵심 기업:** Rio Tinto (호주, [RIO](/company-analysis/rio/)), BHP (호주, [BHP](/company-analysis/bhp/))
 
 **밸류체인 (Value Chain)**
+
+{{< adsense-infeed >}}
 
 - **내부 물류 (Inbound Logistics):** 원자재 수급 및 운송
     - **대표 회사:** Rio Tinto (호주, [RIO](/company-analysis/rio/)), Vale (브라질, [Vale](/company-analysis/vale/))
@@ -62,6 +68,8 @@ weight: 616
 - **중국:** 아시아 주요 시장
 - **미국:** 북미 주요 시장
 - **인도:** 신흥 시장
+
+{{< adsense-infeed >}}
 
 **경쟁업체 (Competitors)**
 

@@ -38,6 +38,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 7. 유연한 자본 배분: 변동적 배당 정책을 통한 주주 가치 극대화
 8. ESG 리더십: 업계 선도적인 환경 및 지속가능성 목표 설정
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -47,6 +49,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Baker Hughes(US, [BKR](/company-analysis/bkr/)), National Oilwell Varco(US, [NOV](/company-analysis/nov/))
@@ -80,6 +84,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 미국이 주요 판매 국가이며, 일부 국제 시장에도 수출하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - EOG Resources(US, [EOG](/company-analysis/eog/)): 다양한 셰일 자산 보유 업체
 - Pioneer Natural Resources(US, PXD): 퍼미안 베이슨 중심의 셰일 생산업체

@@ -112,6 +112,8 @@ Shineco Inc.의 핵심 경쟁력은 다음과 같습니다:
 
 **전문 경영진:**
 
+{{< adsense-infeed >}}
+
 - Jennifer Zhan CEO와 같은 젊은 경영진(1989년생)이 기술 혁신에 집중
 - Fenming Liu 최고과학자를 비롯한 의료 전문가 영입
 - Qiyin Sun 수석 의료 컨설턴트의 전문적 자문 활용
@@ -437,6 +439,8 @@ Shineco Inc.의 핵심 경쟁력은 다음과 같습니다:
 - 시장점유율: 중국 POCT 시장의 약 10-12%
 - Shineco 대비 장점: POCT에 대한 전문성, 규모의 경제
 
+{{< adsense-infeed >}}
+
 **BioMerieux(FR, BIM.PA):**
 
 - 감염성 질환 진단 분야의 글로벌 리더
@@ -504,6 +508,8 @@ Shineco Inc.는 아직 글로벌 의료진단 시장에서 소규모 플레이�
 3. 전략적 인수합병 - 줄기세포 기술 등 고부가가치 분야로 사업 확장
 4. 국제 시장 진출 - FDA, CE 인증을 통한 글로벌 시장 접근성 향상
 5. 제품 다각화 - 건강식품, 고령화 관련 제품으로 포트폴리오 확대
+
+{{< adsense-infeed >}}
 
 **위험 요소:**
 
@@ -590,6 +596,8 @@ Shineco Inc.는 아직 글로벌 의료진단 시장에서 소규모 플레이�
 - iShares MSCI China ETF MCHI: 중국 기업 전반에 투자
 
 **소형주/마이크로캡 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - iShares Micro-Cap ETF IWC: 초소형 기업 포함
 - Invesco S&P SmallCap Health Care ETF PSCH: 소형 헬스케어 기업 중심

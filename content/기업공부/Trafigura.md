@@ -42,7 +42,9 @@ Trafigura는 원자재 무역 및 물류 회사로, 주로 석유 및 석유 제
     - **대표 회사**: Rosneft (RU, ROSN.ME) - 석유 생산
     
 - **물류 및 운송**: 글로벌 물류 네트워크 운영
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Maersk (DK, MAERSK-B.CO) - 해운 서비스
     - **대표 회사**: DHL Group (DE, DPW.DE) - 물류 서비스
     
@@ -63,6 +65,8 @@ Trafigura는 전 세계 150개국 이상에서 사업을 운영하며, 50개 이
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Vitol Group (NL, 비상장)** - 에너지 및 원자재 거래
 - **Glencore (CH, GLEN.L)** - 광물 및 에너지 거래
 - **Cargill (US, 비상장)** - 농산물 및 원자재 거래
@@ -72,6 +76,8 @@ Trafigura는 전 세계 150개국 이상에서 사업을 운영하며, 50개 이
 Trafigura는 세계에서 세 번째로 큰 물리적 원자재 거래 그룹으로, 석유 거래에서는 세계 2위의 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **재생에너지 투자 확대**: Nala Renewables 합작 투자를 통한 재생에너지 프로젝트 개발 (2022-2024)
 - **H2 Energy Europe 설립**: 유럽 내 대규모 그린 수소 생태계 개발 참여 (2023)

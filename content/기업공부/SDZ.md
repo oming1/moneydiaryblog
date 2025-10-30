@@ -20,10 +20,14 @@ weight: 778
 
 #### 산업섹터 (Sector, Industry)
 
+{{< adsense-infeed >}}
+
 - **Sector:** [헬스케어](/industry-study/2산업헬스케어/) (Healthcare)
 - **Industry:** 전문 및 제네릭 의약품 제조 (Drug Manufacturers - Specialty & Generic)
 
 #### 영위사업
+
+{{< adsense-infeed >}}
 
 Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀러](/industry-study/바이오시밀러/)를 개발, 제조 및 판매하는 기업입니다. 주요 치료 분야는 심혈관계, 중추 신경계, 종양학, 감염병, 통증 및 호흡기, 당뇨병, 면역학, 내분비학, 혈액학, 안과 및 골질환을 포함합니다.
 
@@ -38,6 +42,8 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
     - **핵심 산업:** 원료 의약품 제조
     - **역할:** 의약품 제조에 필요한 원료 제공
     - **관련 기업:** Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 

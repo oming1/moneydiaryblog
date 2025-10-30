@@ -82,6 +82,8 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 
 ### 제조 공정
 
+{{< adsense-infeed >}}
+
 1단계: **부지 발굴·인허가** – 현지 시장 분석 후 토지 계약 및 인허가  
 
 2단계: **디지털 설계·모듈 제작** – 3D 설계 완료 후 공장 생산 모듈 선제작  
@@ -102,6 +104,8 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - 기관 임대 리츠: Invitation Homes(US, INVH) – build-for-rent 운용
 
 후방산업 (원자재/부품 공급 산업):
+
+{{< adsense-infeed >}}
 
 - Weyerhaeuser(US, WY) – 목재 (북미 제1위, 시장점유율 15%)
 - Vulcan Materials(US, [VMC](/company-analysis/vmc/)) – 시멘트·골재 (시장점유율 12%)
@@ -205,6 +209,8 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - Wellington Management: 1.5% (4.0M주)
 - 기관 투자자 총합: 75%
 - 개인 투자자: 25%
+
+{{< adsense-infeed >}}
 
 ---
 ### 관련 ETF

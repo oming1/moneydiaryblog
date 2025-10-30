@@ -22,12 +22,16 @@ weight: 746
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 금융 서비스, 암호화폐 거래소
     - **핵심 기업**: Coinbase (미국, [COIN](/company-analysis/coin/)), Binance (몰타)
 - **후방산업**: 전력 공급업체, 데이터 센터 인프라 제공업체
     - **핵심 기업**: Schneider Electric (프랑스, [SU](/company-analysis/su/)), Vertiv (미국, [VRT](/company-analysis/vrt/))
 
 **밸류체인**:
+
+{{< adsense-infeed >}}
 
 - **비트코인 채굴**: 비트코인 채굴을 통해 디지털 자산을 생성
     - **대표 회사**: Marathon Digital Holdings (미국, [MARA](/company-analysis/mara/)), Hut 8 Mining (캐나다, [HUT](/company-analysis/hut/))
@@ -45,13 +49,19 @@ weight: 746
 
 **경쟁업체**:
 
+{{< adsense-infeed >}}
+
 - **Marathon Digital Holdings (미국, [MARA](/company-analysis/mara/))**: 비트코인 채굴 서비스 제공
 - **Hut 8 Mining (캐나다, [HUT](/company-analysis/hut/))**: 비트코인 채굴 및 데이터 센터 운영
 
 **산업 내 글로벌 시장 점유율**:
 
+{{< adsense-infeed >}}
+
 - Riot Platforms는 비트코인 채굴 시장에서 중요한 위치를 차지하고 있으며, 글로벌 시장 점유율은 공개되지 않았습니다. 그러나 주요 경쟁업체와 함께 시장을 선도하고 있습니다.
 
 **최근 3년 내 주요 이슈**:
+
+{{< adsense-infeed >}}
 
 - **비트코인 채굴 확장**: Riot Platforms는 2023년과 2024년에 걸쳐 텍사스와 켄터키의 데이터 센터 확장을 통해 채굴 용량을 크게 늘렸습니다 (2023년, 2024년)

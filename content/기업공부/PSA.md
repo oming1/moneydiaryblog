@@ -46,12 +46,16 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 - 부동산 기술: CoStar Group(US, [CSGP](/company-analysis/csgp/)), RealPage(US, RP)
 - 보안 시스템: ADT Inc.(US, ADT), Brinks Home Security
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 개인용 스토리지 유닛: 다양한 크기의 보관 공간, 매출의 약 70% (2024년 기준)
 - 비즈니스용 스토리지 솔루션: 기업 고객 대상 맞춤형 서비스, 매출의 약 20% (2024년 기준)
 - 차량 보관 서비스: RV, 보트 등 대형 차량 보관, 매출의 약 5% (2024년 기준)
 - 포장 및 이사 용품 판매: 박스, 테이프 등 관련 용품, 매출의 약 5% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -76,6 +80,8 @@ Public Storage는 2024년 기준 미국 셀프 스토리지 시장에서 약 10%
 - ezStorage 포트폴리오 18억 달러에 인수 완료 (2023년)
 - AI 기반 고객 서비스 'PS Assistant' 도입 (2023년)
 - 태양광 발전 시설 확대: 2025년까지 1,300개 부지에 설치 계획 발표 (2024년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

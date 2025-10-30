@@ -20,6 +20,8 @@ weight: 467
 섹터: 정보기술
 산업: [태양광](/industry-study/태양광/)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광/)(PV) 산업에서 선도적인 위치를 차지하고 있는 중국 기업입니다. 회사는 실리콘 웨이퍼부터 태양전지, 태양광 모듈에 이르는수직 계열화된 태양광 제품 가치 사슬을 구축하고 있습니다.
@@ -40,6 +42,8 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 태양광 발전소 개발: NextEra Energy(US, [NEE](/company-analysis/nee/)), Brookfield Renewable(CA, [BEP](/company-analysis/bep/))
 - 태양광 설치: Sunrun(US, [RUN](/company-analysis/run/)), SunPower(US, [SPWR](/company-analysis/spwr/))
 - 유틸리티: Duke Energy(US, [DUK](/company-analysis/duk/)), Enel(IT, ENEL)
@@ -59,6 +63,8 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 주요 판매국가
 
 중국, 미국, 일본, 독일, 인도, 브라질, 호주, 스페인
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

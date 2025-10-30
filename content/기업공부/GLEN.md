@@ -24,6 +24,8 @@ Glencore plc는 스위스에 본사를 둔 다국적 상품 거래 및 광업 �
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 광물 및 금속 채굴 (구리, 아연, 니켈, 석탄 등)
 - 원자재 거래 및 마케팅
 - 석유 제품 생산 및 유통
@@ -37,6 +39,8 @@ Glencore plc는 스위스에 본사를 둔 다국적 상품 거래 및 광업 �
 - 철강 제조업체: ArcelorMittal (LU, [MT](/company-analysis/mt/))
 - 전자제품 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 역할: 채굴 장비 및 서비스 제공
@@ -44,6 +48,8 @@ Glencore plc는 스위스에 본사를 둔 다국적 상품 거래 및 광업 �
 - 엔지니어링 서비스: Fluor Corporation (US, [FLR](/company-analysis/flr/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [아연](/industry-study/아연/), [니켈](/industry-study/니켈/) 등의 금속
 - [석탄](/industry-study/석탄/) 및 석유 제품
@@ -65,9 +71,13 @@ Glencore는 전 세계적으로 사업을 운영하며, 50개 이상의 국가�
 - Rio Tinto (UK, [RIO](/company-analysis/rio/)) - 다국적 광업 및 금속 회사
 - Vale (BR, [Vale](/company-analysis/vale/)) - 브라질 광업 회사
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Glencore는 2022년 7월 기준 세계 최대의 상품 거래업체로 알려져 있습니다. 특히 아연, 구리, 곡물 시장에서 높은 점유율을 보유하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 자세한 종목 정보 링크
 

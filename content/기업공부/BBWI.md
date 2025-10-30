@@ -29,7 +29,9 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
     - 핵심 산업: 소매, 개인용품
     - 역할: 소비자에게 직접 제품 판매
     - 주요 기업: Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)), Sephora (프랑스, 비상장)
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     
     - 핵심 산업: 화학, 향료 제조
@@ -44,11 +46,15 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
     - 대표 기업: Estée Lauder (미국, [EL](/company-analysis/el/)), L'Oréal (프랑스, OR)
     
 - 유통 및 판매:
-    
+
+{{< adsense-infeed >}}
+
     - 자사 매장과 온라인을 통해 제품을 판매합니다.
     - 대표 기업: Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)), Sephora (프랑스, 비상장)
 
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - 바디 케어 제품 (샤워 젤, 바디 로션, 바디 크림)
 - 향수 및 프래그런스 미스트
@@ -68,6 +74,8 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았지만, Bath & Body Works는 미국 내 최대 규모의 바디 케어 전문점 체인으로 알려져 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

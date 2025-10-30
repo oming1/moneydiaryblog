@@ -52,13 +52,19 @@ Jabil은 전자 제조 서비스 및 솔루션을 제공하는 글로벌 제조 
 
 미국을 비롯해 30개국 이상에서 100개 이상의 시설을 운영하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Flex Ltd (US, FLEX) - 전자 제조 서비스
 - Hon Hai Precision Industry Co Ltd (TW, 2317.TW) - 전자 제조 서비스
 - Sanmina Corp (US, SANM) - 통합 제조 솔루션
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 구체적인 시장 점유율 데이터는 제공되지 않았지만, Jabil은 전자 제조 서비스 업계의 선두 기업 중 하나로 평가받고 있습니다.
 

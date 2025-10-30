@@ -26,12 +26,16 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 
 - PetMed Express는 개, 고양이, 말을 위한 처방 및 비처방 약품, 건강 제품, 기타 용품을 판매합니다. 주요 제품으로는 벼룩 및 진드기 관리 제품, 뼈 및 관절 관리 제품, 비타민, 간식, 영양 보충제, 위생 용품, 심장사상충 예방약, 관절염 치료제, 피부염 치료제, 갑상선 약물, 당뇨병 약물, 진통제 등이 있습니다
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
 
 - 제약 제조업체
 - 반려동물 용품 제조업체
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -47,6 +51,8 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 처방 및 비처방 반려동물 약품
 - 벼룩 및 진드기 관리 제품
 - 뼈 및 관절 관리 제품
@@ -58,6 +64,8 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 미국
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Chewy(US, [CHWY](/company-analysis/chwy/))
 - Petco(US, [WOOF](/company-analysis/woof/))

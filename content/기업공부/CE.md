@@ -20,6 +20,8 @@ weight: 186
 섹터: 소재  
 산업: 특수화학
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품을 생산하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
@@ -82,6 +84,8 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
     
 4. 특수 폴리머: Fortron(PPS), Vectra(LCP) (2024년 매출의 약 20%)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국(25.8%), 독일(22.6%), 중국(17.8%), 싱가포르(10.5%), 벨기에(4.6%), 멕시코(3.3%), 일본(2.9%), 스위스(2%), 기타(10.5%)
@@ -125,7 +129,9 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 ## 관련 ETF
 
 1. Materials Select Sector SPDR Fund - XLB
-    
+
+{{< adsense-infeed >}}
+
 2. Vanguard Materials ETF - VAW
     
 3. iShares U.S. Basic Materials ETF - IYM

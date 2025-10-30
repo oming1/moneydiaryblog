@@ -47,7 +47,9 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
     
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
@@ -72,6 +74,8 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
 
 ## 주요고객
 
+{{< adsense-infeed >}}
+
 1. 석유 및 가스 생산 기업
 2. 정유사
 3. 석유화학 기업
@@ -84,6 +88,8 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Energy Transfer(US, [ET](/company-analysis/et/))
 3. Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
@@ -95,6 +101,8 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Kinder Morgan은 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다. 미국 천연가스 소비량의 약 40%를 수송하는 등 상당한 시장 지배력을 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 텍사스 천연가스 파이프라인 포트폴리오 인수 계약 체결 (2024년)
 2. Mississippi Crossing Project (MSX) 최종 투자 결정 (2024년)
@@ -111,6 +119,8 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 5. Merrill Lynch International: 2.864%
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP

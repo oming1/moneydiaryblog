@@ -27,7 +27,11 @@ Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하�
 - **첨단 치료제** (Advanced Therapies)
 - **품질 관리** (Quality Control)
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업 (Upstream/Downstream Industries)
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 제약 및 바이오테크 기업 (신약 개발 및 상업화 지원)
     - 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
@@ -51,6 +55,8 @@ Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하�
 - **바이러스 벡터 기반 백신** (Viral Vector-Based Vaccines)
 
 #### 주요 판매국가 (Major Sales Countries)
+
+{{< adsense-infeed >}}
 
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나

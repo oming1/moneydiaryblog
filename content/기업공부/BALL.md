@@ -94,7 +94,9 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
     - Kaiser Aluminum(US, KALU)
         
 - 광물 채굴 산업: 알루미늄의 원료인 보크사이트 채굴
-    
+
+{{< adsense-infeed >}}
+
     - Freeport-McMoRan(US, [FCX](/company-analysis/fcx/))
         
     - Rio Tinto(UK, Rio Tinto)
@@ -108,7 +110,9 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 ## 전방산업
 
 - 음료 제조 산업: 알루미늄 캔에 음료를 채우는 주요 고객
-    
+
+{{< adsense-infeed >}}
+
     - Coca-Cola(US, [KO](/company-analysis/ko/))
         
     - PepsiCo(US, [PEP](/company-analysis/pep/))
@@ -130,6 +134,8 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
     - Costco(US, [COST](/company-analysis/cost/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 원자재 공급: 알루미늄 원자재 및 코일 생산
     
@@ -262,6 +268,8 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 ## 주요 판매국가
 
 Ball Corporation은 글로벌 기업으로 북미, 유럽, 남미가 주요 시장입니다. 검색 결과에서 확인된 세그먼트별 실적을 기반으로:
+
+{{< adsense-infeed >}}
 
 1. 북미 및 중미: 매출액 중 가장 큰 비중을 차지하며, 2025년 1분기 매출은 14.6억 달러로 전년 동기 대비 4.3% 증가
     

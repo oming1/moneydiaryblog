@@ -20,6 +20,8 @@ weight: 398
 
 **영위사업:** Hayward Holdings Inc.는 주로 수영장 장비 및 관련 제품을 제조하고 판매합니다. 주요 제품으로는 펌프, 필터, 히터, 자동 청소기, 조명, 소금 염소화 시스템 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업:**
 
 - **전방산업:** 건축 및 건설 산업
@@ -29,7 +31,11 @@ weight: 398
     - **핵심 산업:** 플라스틱 제조, 금속 가공
     - **관련 기업:** Dow Inc. (미국, [DOW](/company-analysis/dow/)), BASF SE (독일, BAS)
 
+{{< adsense-infeed >}}
+
 **밸류체인:**
+
+{{< adsense-infeed >}}
 
 - **원자재 공급:** 플라스틱, 금속, 전자 부품
     - **대표 회사:** Dow Inc. (미국, [DOW](/company-analysis/dow/)) - 플라스틱, BASF SE (독일, BAS) - 화학 제품
@@ -55,6 +61,8 @@ weight: 398
 - **아시아:** 성장 중인 시장
 
 **경쟁업체:**
+
+{{< adsense-infeed >}}
 
 - **Pentair plc (미국, [PNR](/company-analysis/pnr/)):** 수영장 및 수처리 제품
 - **Fluidra S.A. (스페인, FDR):** 수영장 장비 및 솔루션

@@ -37,7 +37,9 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
 ## 핵심 경쟁력
 
 1. **테마 투자**: PAVE는 인프라 개발이라는 특정 테마에 집중하여, 투자자들이 미국의 인프라 현대화 및 확장에 참여할 수 있게 합니다.
-    
+
+{{< adsense-infeed >}}
+
 2. **다양한 섹터**: 인프라 개발은 다양한 산업에 걸쳐 있으며, PAVE는 이 모든 섹터를 포괄하여 투자자들에게 폭넓은 노출을 제공합니다.
     
 3. **정부 지원**: 미국 정부의 인프라 투자 계획(예: Infrastructure Investment and Jobs Act)으로 인해 인프라 관련 기업들이 혜택을 볼 가능성이 높습니다.
@@ -64,12 +66,18 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. **프로젝트 기획 및 컨설팅**: AECOM(US, [ACM](/company-analysis/acm/)) (프로젝트 계획 및 컨설팅)
     
 2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, J) (인프라 설계 및 엔지니어링)
-    
+
+{{< adsense-infeed >}}
+
 3. **프로젝트 관리**: Fluor Corporation(US, [FLR](/company-analysis/flr/)) (프로젝트 관리 및 건설 감독)
-    
+
+{{< adsense-infeed >}}
+
 4. **건설 및 시공**: Bechtel(US, BCT) (건설 및 시공)
     
 5. **자재 및 장비 공급**: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 장비), Vulcan Materials(US, [VMC](/company-analysis/vmc/)) (건설 자재)
@@ -147,7 +155,9 @@ PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투�
 1. **Global X US Infrastructure Development ETF - [PAVE](/company-analysis/pave/)**
     
 2. **iShares Global Infrastructure ETF - IGF**
-    
+
+{{< adsense-infeed >}}
+
 3. **SPDR S&P Global Infrastructure ETF - GII**
     
 4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - GRID**

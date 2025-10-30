@@ -33,14 +33,20 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 암호화폐 거래 및 투자
 - 개인 투자자 및 기관 투자자
+
+{{< adsense-infeed >}}
 
 후방산업:
 
 - 역할: 기술 및 인프라 지원
 - 블록체인 기술 제공업체: Chainalysis (US, 비상장)
 - 결제 처리 서비스: Stripe (US, [STRP](/company-analysis/strp/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -60,9 +66,13 @@ Gemini는 미국을 중심으로 운영되며, 최근에는 유럽(아일랜드,
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Coinbase (US, [COIN](/company-analysis/coin/)) - 미국의 주요 암호화폐 거래소
 - Binance (비상장) - 글로벌 암호화폐 거래소
 - Kraken (비상장) - 암호화폐 거래소 및 스테이킹 서비스
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

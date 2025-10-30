@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABNB"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-10-28T06:44:26+09:00
@@ -18,6 +18,7 @@ weight: 13
 - **Sector(산업섹터)**: Consumer Discretionary(임의소비재)
 - **Industry(산업)**: Hotels, Restaurants & Leisure(호텔, 식당 및 레저)
 
+{{< adsense-infeed >}}
 ## 영위 사업
 
 에어비앤비는숙박 공유 플랫폼을 운영하며, 사용자가 자신의 공간을 임대하고 여행객이 이를 예약할 수 있도록 연결하는 서비스를 제공합니다.
@@ -36,6 +37,7 @@ weight: 13
     - **역할**: 숙박 시설의 물리적 공간 제공
     - **주요 기업**: Marriott International (미국, [MAR](/company-analysis/mar/)), Hilton Worldwide (미국, [HLT](/company-analysis/hlt/))
 
+{{< adsense-infeed >}}
 ## 밸류체인
 
 - **서비스 제공**:
@@ -48,6 +50,7 @@ weight: 13
     - 고객 유치를 위한 디지털 마케팅 및 광고 활동을 포함합니다.
     - 대표 기업: TripAdvisor (미국, [TRIP](/company-analysis/trip/)) - 경쟁 제품: 여행 정보 플랫폼
 
+
 ## 주요 제품
 
 - **숙박 서비스**:
@@ -55,6 +58,7 @@ weight: 13
     - 에어비앤비 플랫폼에서 제공하는 다양한 숙소 옵션이 포함됩니다.
     - 매출 비중: 전체 매출의 약 90%를 차지합니다.
 
+{{< adsense-infeed >}}
 ## 주요 판매 국가
 
 - 미국, 유럽(특히 프랑스와 스페인), 아시아(일본과 한국) 등에서 주요 매출을 올리고 있습니다.
@@ -65,6 +69,8 @@ weight: 13
 - **Expedia** (미국, [EXPE](/company-analysis/expe/)) - 경쟁 제품: 종합 여행 예약 플랫폼
 - TripAdvisor (미국, [TRIP](/company-analysis/trip/)):** 여행 리뷰 및 예약 서비스
 - Trip.com Group([TCOM](/company-analysis/tcom/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

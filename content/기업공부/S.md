@@ -47,6 +47,8 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 - 정부 및 공공기관
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
@@ -86,11 +88,15 @@ SentinelOne의 정확한 글로벌 시장 점유율 데이터는 제공되지 �
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - First Trust NASDAQ Cybersecurity ETF - CIBR
 - iShares Cybersecurity and Tech ETF - IHAK

@@ -150,6 +150,8 @@ AT&T는 제조업체가 아닌 서비스 제공업체로서 다음과 같은 서
 - 기업 영업팀: B2B 고객 대상 맞춤형 솔루션 제공
 - 파트너 채널: 간접 판매 및 유통 네트워크
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요 제품
@@ -234,6 +236,8 @@ AT&T는 제조업체가 아닌 서비스 제공업체로서 다음과 같은 서
 - Altice USA(US, ATUS) - 동부 지역 케이블/인터넷 서비스
 - Frontier Communications(US, [FYBR](/company-analysis/fybr/)) - 지역 광섬유 서비스
 
+{{< adsense-infeed >}}
+
 **기업용 서비스 경쟁사:**
 
 - Cisco(US, [CSCO](/company-analysis/csco/)) - 네트워크 장비 및 기업용 통신 솔루션
@@ -244,6 +248,8 @@ AT&T는 제조업체가 아닌 서비스 제공업체로서 다음과 같은 서
 ---
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 **미국 무선 시장 점유율:**
 

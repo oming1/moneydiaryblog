@@ -28,6 +28,8 @@ Nucor Corporation은 북미 최대의 철강 및 철강 제품 제조업체입�
 
 Nucor는 미국, 캐나다, 멕시코에 300개 이상의 시설을 운영하고 있으며, 연간 약 3,000만 톤의 제강 능력을 보유하고 있습니다. 회사는 전기아크로를 사용하여 100% 재활용 철강을 생산하며, 북미에서 가장 큰 재활용 업체이기도 합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 전방산업
@@ -50,6 +52,8 @@ Nucor는 미국, 캐나다, 멕시코에 300개 이상의 시설을 운영하고
 4. 유통: 철강 서비스 센터, 직접 판매
 5. 최종 사용자: 건설업체, 자동차 제조업체, 기타 산업
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 판재강 (열연, 냉연, 도금강판)
@@ -69,6 +73,8 @@ Nucor는 주로 북미 시장에서 사업을 영위하고 있으며, 미국이 
 3. Steel Dynamics (US, [STLD](/company-analysis/stld/))
 4. Cleveland-Cliffs (US, [CLF](/company-analysis/clf/))
 5. Commercial Metals Company (US, CMC)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

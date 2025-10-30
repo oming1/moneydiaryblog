@@ -35,6 +35,8 @@ weight: 239
     - **핵심 산업:** 클라우드 서비스, 데이터 분석
     - **핵심 기업:** Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 
+{{< adsense-infeed >}}
+
 **밸류체인 (Value Chain)**
 
 - **내부 물류 (Inbound Logistics):** 데이터 수집 및 분석
@@ -47,6 +49,8 @@ weight: 239
     - **대표 회사:** Microsoft (미국, [MSFT](/company-analysis/msft/)), IBM (미국, [IBM](/company-analysis/ibm/))
 - **서비스 (Service):** 고객 서비스 및 지원
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Deloitte (미국, DTT)
+
+{{< adsense-infeed >}}
 
 **주요제품 (Main Products)**
 
@@ -76,5 +80,7 @@ weight: 239
 - **2021년:** 약 15% (추정)
 
 **최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)**
+
+{{< adsense-infeed >}}
 
 - **글로벌 IT 시스템 장애:** 소프트웨어 업데이트 문제로 인한 글로벌 IT 시스템 장애 (2024)

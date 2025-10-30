@@ -28,10 +28,16 @@ Intel Corporation은 컴퓨팅 및 관련 제품과 서비스를 설계, 개발,
 - **모빌아이 (Mobileye)**: [자율 주행](/industry-study/자율-주행/) 기술 및 솔루션
 - **인텔 파운드리 서비스 (Intel Foundry Services)**: 반도체 제조 서비스
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: Intel의 제품을 사용하는 주요 기업들로는 Dell Technologies (US, [DELL](/company-analysis/dell/)), HP Inc. (US, [HPQ](/company-analysis/hpq/)), Lenovo (CN, 0992) 등이 있습니다.
 - **후방산업**: Intel에 부품을 공급하는 주요 기업들로는 ASML (NL, [ASML](/company-analysis/asml/)), Applied Materials (US, [AMAT](/company-analysis/amat/)), Lam Research (US, [LRCX](/company-analysis/lrcx/)) 등이 있습니다
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -54,6 +60,8 @@ Intel은 전 세계적으로 활동하고 있으며, 주요 판매국가는 미�
 #### 산업 내 글로벌 시장 점유율
 
 Intel은 전 세계 반도체 시장에서 주요 기업 중 하나로, 특히 CPU 시장에서 높은 점유율을 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

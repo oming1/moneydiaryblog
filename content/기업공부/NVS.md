@@ -21,6 +21,8 @@ Novartis AG ADR(NVS)는 [헬스케어](/industry-study/2산업헬스케어/) �
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Novartis는 스위스에 본사를 둔 글로벌 제약회사로, 다양한 치료 영역에서 혁신적인 의약품을 개발, 생산 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 종양학 (2023년 매출 비중: 30%)
@@ -61,6 +63,8 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
 4. 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 판매: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 코센틱스 (건선, 건선성 관절염 치료제)
@@ -75,6 +79,8 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
 2. 약국 체인
 3. 의약품 도매상
 4. 정부 및 공공 의료기관
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -99,6 +105,8 @@ Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제�
 3. 모르포시스 인수 (27억 달러, 2024년)
 4. 15개 이상, 60억 달러 이상의 전략적 딜 체결 (2023년)
 5. 방사성의약품 포트폴리오 강화 (2022-2024년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

@@ -40,6 +40,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
     
     - 자동차(ADAS/자율주행) 매출 비중이 높고, 산업·로보틱스가 보완적 역할.
 
+{{< adsense-infeed >}}
+
 - 비즈니스 모델
     
     - B2B 직판 중심(완성차 OEM/티어1, 로보틱스·물류 SI), 장기 플랫폼 계약과 프로그램별 수율·단가 로드맵을 기반으로 단계적 ASP 인하를 반영. NRE(개발지원)·부품 공급·애프터서비스 수익 혼합.
@@ -70,6 +72,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ### 비즈니스 모델 (수익 모델)
 
 - 사업 부문별 매출 비중: 자동차(ADAS) > 로보틱스/산업(맵핑·AGV 등) > 서비스/NRE.
+
+{{< adsense-infeed >}}
 
 - 고객 유형별 수익 구조: 완성차 OEM·티어1 플랫폼 공급(장기 단가 계약) + 로보틱스·SI 일괄 공급 + 애프터서비스.
 
@@ -205,6 +209,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ---
 
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 - 자율주행/전장: DRIV – Global X Autonomous & Electric Vehicles DRIV, IDRV – iShares Self-Driving EV & Tech IDRV
 - 로보틱스/자동화: BOTZ – Global X Robotics & AI BOTZ, ROBO – ROBO Global Robotics & Automation ROBO

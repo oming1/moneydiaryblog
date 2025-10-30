@@ -20,17 +20,23 @@ weight: 885
 
 #### 산업섹터 및 산업
 
+{{< adsense-infeed >}}
+
 - **Sector:** 경기소비재 (Consumer Services)
 - **Industry:** 여행 및 레저 서비스 (Travel & Leisure Services)
 
 #### 영위사업
+
+{{< adsense-infeed >}}
 
 TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등에 대한 리뷰와 평가를 제공하는 플랫폼입니다. 사용자들이 직접 작성한 리뷰와 평점을 통해 여행 계획을 세우고, 호텔 예약, 관광지 정보, 음식점 추천 등을 받을 수 있습니다
 
 #### 전방/후방산업
 
 - **전방산업:**
-    
+
+{{< adsense-infeed >}}
+
     - **여행사 및 투어 운영업체:** 여행 패키지 및 투어 제공. 예: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/)).
     - **호텔 및 숙박업체:** 숙박 서비스 제공. 예: Marriott International (미국, [MAR](/company-analysis/mar/)), Hilton Worldwide (미국, [HLT](/company-analysis/hlt/)).
       
@@ -57,6 +63,8 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
     - Meta Platforms Inc. (미국, [META](/company-analysis/meta/)): 소셜 미디어 광고 플랫폼.
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **호텔 리뷰 및 예약 서비스:** 사용자 리뷰를 기반으로 한 호텔 검색 및 예약.
 - **음식점 리뷰 및 예약 서비스:** 음식점 리뷰 및 예약 기능.

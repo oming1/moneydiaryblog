@@ -24,11 +24,15 @@ weight: 2
 				- 관계 기관에선 천일염의 공급 부족은 전남 지방의 강수량 부족 때문이라고 발표
 					- D리포트"소금 품절"…가격 폭등에 품귀 현상까지  https://news.sbs.co.kr/news/endPage.do?news_id=N1007228454
 
+{{< adsense-infeed >}}
+
 - 기업 기본정보
 	- 
 
  - 기업전망(트렌드/향후전망)
 	- 
+
+{{< adsense-infeed >}}
 
 - 비즈니스모델 / 밸류체인 / 전후방산업관계
 	- 
@@ -36,8 +40,12 @@ weight: 2
 - 세부정보
 	- 
 
+{{< adsense-infeed >}}
+
 - 리스크요인
 	- 
+
+{{< adsense-infeed >}}
 
 - 참고자료 링크
 	-

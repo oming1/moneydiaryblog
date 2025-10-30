@@ -25,6 +25,8 @@ weight: 306
 
 Encompass Health Corporation은 미국의 주요 의료 서비스 제공업체로, 주로 급성기 후 재활치료 및 가정 건강관리 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 입원 재활 서비스: 뇌졸중, 신경계 장애, 척수 손상, 절단, 복합 정형외과 상태 등에 대한 치료
 2. 가정 건강 및 호스피스 서비스: 전문 간호, 물리치료, 작업치료, 언어치료 등 제공
 3. 외래 재활 서비스
@@ -48,7 +50,9 @@ Encompass Health는 미국 전역에 150개 이상의 병원과 250개 이상의
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 요양 시설: Brookdale Senior Living
     - 급성기 병원: HCA Healthcare (US, [HCA](/company-analysis/hca/))
@@ -93,6 +97,8 @@ Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니�
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Encompass Health는 미국 급성기 후 치료 시장에서 주요 기업 중 하나입니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 1. 2024년 3분기 매출 11.9% 증가, 순이익 26% 증가 (2024년)
@@ -102,6 +108,8 @@ Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니�
 5. ESG 이니셔티브 강화 및 지속가능성 목표 설정 (2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. The Vanguard Group, Inc.: 11.62%
 2. Wellington Management Group LLP: 8.69%

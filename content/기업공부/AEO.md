@@ -22,6 +22,8 @@ weight: 34
 
 American Eagle Outfitters는 청소년과 젊은 성인을 대상으로 의류, 액세서리, 개인용품을 제공하는 글로벌 전문 소매업체입니다.
 
+{{< adsense-infeed >}}
+
 글로벌 전문 소매업체다. 이 회사는 American Eagle 및 Aerie 브랜드로 의류, 액세서리 및 퍼스널 케어 제품을 제공한다.  
 
 이 회사는 American Eagle과 Aerie 두 부문으로 운영된다.  
@@ -37,7 +39,11 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 섬유 제조업체: 의류 생산을 위한 원자재 공급
 - 물류 및 유통업체: 제품 배송 및 유통 지원
@@ -56,6 +62,8 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 5. 마케팅 및 판매: American Eagle Outfitters (자체 마케팅)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - American Eagle 브랜드: 청바지, 의류, 액세서리 (매출의 약 64%)
 - Aerie 브랜드: 여성 속옷, 의류, 수영복 (매출의 약 32%)

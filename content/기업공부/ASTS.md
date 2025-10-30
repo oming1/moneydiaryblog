@@ -33,7 +33,9 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     - 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Vodafone (영국, VOD)
     
 - 후방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 위성 제조 및 발사
     - 역할: AST SpaceMobile의 서비스에 필요한 위성 및 장비 공급
     - 주요 기업: [SpaceX](/company-analysis/spacex/) (미국, 비상장), NanoAvionics (리투아니아, 비상장)
@@ -48,6 +50,8 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     
     - 전 세계적으로 모바일 기기에 직접 연결되는 위성 통신 서비스를 제공합니다.
     - 대표 기업: Iridium Communications (미국, [IRDM](/company-analysis/irdm/)), Globalstar (미국, [GSAT](/company-analysis/gsat/))
+
+{{< adsense-infeed >}}
 
 ## 주요 제품
 
@@ -67,6 +71,8 @@ AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특
 - [RKLB](/company-analysis/rklb/)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 AST SpaceMobile은 아직 상용 서비스를 시작하지 않았기 때문에 현재 시장 점유율은 없습니다.
 

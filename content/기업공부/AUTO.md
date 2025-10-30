@@ -22,6 +22,8 @@ Industry: Industrial Machinery & Equipment (산업용 기계 및 장비, [로봇
 
 AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study/로봇/) 및 소프트웨어 기술 회사입니다. 회사는큐브 저장 자동화 기술을 발명하고 지속적으로 개척하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -31,6 +33,8 @@ AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study
 - 물류: DHL (DE, DPW)
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 부품 및 기술 공급
 - 로봇 부품: ABB (CH, ABBN)
@@ -45,6 +49,8 @@ AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study
 - 로봇 및 그리드 시스템 (매출 비중 정보 없음)
 - 소프트웨어 솔루션 (매출 비중 정보 없음)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 AutoStore는 전 세계적으로 제품을 판매하고 있습니다. 주요 시장은 다음과 같습니다:
@@ -56,7 +62,11 @@ AutoStore는 전 세계적으로 제품을 판매하고 있습니다. 주요 시
 - 기타: 5.1% (2023년 기준)
 - 노르웨이: 2.1% (2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Ocado Group (UK, [OCDO](/company-analysis/ocdo/)) - 온라인 식료품 및 창고 자동화 기술
 - Körber AG (비상장) - 공급망 소프트웨어 및 자동화 솔루션

@@ -20,6 +20,8 @@ weight: 909
 섹터: 임의소비재
 산업: 전자장비및부품
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Unusual Machines, Inc.(NYSE American: UMAC)는 드론 및 무인항공기(UAV) 산업에 특화된 기업입니다. 주요 사업은 드론 부품 및 완제품 제조, 판매입니다. 
@@ -28,7 +30,11 @@ Unusual Machines, Inc.(NYSE American: UMAC)는 드론 및 무인항공기(UAV) �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 미국산 드론 부품 개발: 국가 안보 우려를 해소하고 국방부 요구사항을 충족하는 미국산 부품 생산
 2. 전략적 인수: Rotor Riot과 Fat Shark 인수를 통한 시장 입지 강화 및 기술력 확보
@@ -37,6 +43,8 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 5. 커뮤니티 기반: Rotor Riot을 통한 드론 애호가 커뮤니티 확보 및 브랜드 인지도 제고
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -56,6 +64,8 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 - FPV 고글: Fat Shark 브랜드의 저지연 비디오 고글, 매출의 약 40% (2024년 기준)
 - 소형 FPV 드론: Rotor Riot 브랜드의 아크로바틱 드론, 매출의 약 20% (2024년 기준)
 - 드론 액세서리: 부품 및 주변기기, 매출의 약 10% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

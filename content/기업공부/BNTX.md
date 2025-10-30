@@ -22,6 +22,8 @@ weight: 151
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 제약 및 바이오테크 산업
     - **핵심 산업**: 제약회사, 병원, 연구기관
     - **관련 기업**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Moderna (미국, [MRNA](/company-analysis/mrna/))
@@ -51,15 +53,23 @@ weight: 151
 
 **경쟁업체**:
 
+{{< adsense-infeed >}}
+
 - **Moderna (미국, [MRNA](/company-analysis/mrna/))**: mRNA 백신 및 치료제
 - **Pfizer (미국, [PFE](/company-analysis/pfe/))**: 다양한 백신 및 제약 제품
 - **CureVac (독일, CVAC)**: mRNA 기반 백신 및 치료제
 
 **산업 내 글로벌 시장 점유율**:
 
+{{< adsense-infeed >}}
+
 - BioNTech은 COVID-19 백신 시장에서 주요 플레이어 중 하나로, 2021년 기준 글로벌 시장 점유율 약 20%를 차지했습니다.
 
+{{< adsense-infeed >}}
+
 **최근 3년 내 주요 이슈**:
+
+{{< adsense-infeed >}}
 
 - **COVID-19 백신 개발 및 긴급 사용 승인** (2020년)
 - **미국 FDA 및 유럽 EMA의 정식 승인** (2021년)

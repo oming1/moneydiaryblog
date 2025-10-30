@@ -20,6 +20,8 @@ weight: 986
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 엑슨모빌은 원유와 천연가스의 탐사 및 생산, 정제, 화학 제품 제조, 그리고 특수 제품 제조를 포함한 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Upstream**: [원유](/industry-study/원유/) 및 [천연가스](/industry-study/천연가스/) 탐사 및 생산
@@ -28,6 +30,8 @@ weight: 986
 - **Specialty Products**: 윤활유, 기초유, 왁스, 합성물, 엘라스토머, 수지 등
 
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 원유 및 천연가스 탐사 및 생산
@@ -49,6 +53,8 @@ weight: 986
     - **대표회사**: Exxon Mobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/))
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **연료**: 휘발유, 디젤, 항공유
 - **화학 제품**: [올레핀](/industry-study/올레핀/), [폴리올레핀](/industry-study/폴리올레핀/)

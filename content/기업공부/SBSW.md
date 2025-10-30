@@ -44,6 +44,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 
 **사업 부문별 매출 비중:**
 
+{{< adsense-infeed >}}
+
 - 남아프리카 PGM 운영: 약 40-45%
 - 남아프리카 금 운영: 약 25-30%
 - 미국 PGM 운영: 약 20-25%
@@ -75,6 +77,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 ---
 
 ## 핵심 기술
+
+{{< adsense-infeed >}}
 
 **PGM 추출 및 정제 기술:** 백금족금속의 복잡한 분리 및 정제 공정에서 세계 최고 수준의 기술력을 보유하여 높은 순도의 백금, 팔라듐, 로듐을 생산합니다.
 
@@ -180,6 +184,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 
 **전자제품 제조업체:**
 
+{{< adsense-infeed >}}
+
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 전자기기용 금 및 PGM
 - Samsung Electronics(KR, [Samsung](/industry-study/samsung/)) - 반도체 및 전자부품용
 
@@ -221,6 +227,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - BHP Billiton(AU, [BHP](/company-analysis/bhp/)) - 세계 최대 다각화 광업회사
 - Rio Tinto(UK, [RIO](/company-analysis/rio/)) - 철광석 및 구리 중심 다각화 광업
 - Vale(BR, [Vale](/company-analysis/vale/)) - 철광석 세계 1위, 니켈 생산
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -289,6 +297,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - VanEck Vectors Rare Earth/Strategic Metals ETF [REMX](/company-analysis/remx/) - 희토류 및 전략금속
 
 **PGM 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - Aberdeen Standard Physical Platinum Shares ETF PPLT - 물리적 백금 보유
 - Aberdeen Standard Physical Palladium Shares ETF PALL - 물리적 팔라듐 보유

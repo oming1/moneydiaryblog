@@ -126,6 +126,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - 복합재료: 미국 내 항공우주 소재 업체들
 - 센서: 미국 내 광학 및 센서 업체들
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 밸류체인
@@ -165,6 +167,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 **[리튬이온 배터리](/industry-study/리튬이온-배터리/):** 드론 동력원, 미국/한국, 미국 내 배터리 제조업체들
 
 **탄소섬유:** 드론 기체 제작, 미국/일본, 미국 내 복합재료 업체들
+
+{{< adsense-infeed >}}
 
 **[반도체](/industry-study/반도체/)칩:** 비행제어 시스템, 미국/대만, Intel (US, [INTC](/company-analysis/intc/)), Qualcomm (US, [QCOM](/company-analysis/qcom/))
 
@@ -291,6 +295,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - 내부자 (경영진): 약 25%
 - 개인투자자: 약 30%
 
+{{< adsense-infeed >}}
+
 **주요 기관투자자:**
 
 - 일부 국방 특화 펀드들
@@ -300,6 +306,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 ---
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 **직접 관련 ETF:**
 

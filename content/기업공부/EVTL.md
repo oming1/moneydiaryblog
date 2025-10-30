@@ -35,6 +35,8 @@ Vertical Aerospace는 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 연구 개발: Vertical Aerospace (자체 R&D)
 2. 제조: Vertical Aerospace (eVTOL 항공기 제조)
 3. 판매 및 유통: Vertical Aerospace, 파트너십을 통한 글로벌 판매 네트워크 구축
@@ -56,6 +58,8 @@ Vertical Aerospace는 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 시장 점유율 데이터는 제공되지 않았으나, Vertical Aerospace는 eVTOL 시장의 주요 선두 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
@@ -64,6 +68,8 @@ Vertical Aerospace는 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산�
 - VX4의 상용 서비스 진입 목표 연기: 2026년에서 2028년으로 변경 (2024)
 - 약 1,500대의 VX4 사전 주문 확보, 총 가치 약 60억 달러 (2024)
 - 영국에서 첫 번째 전체 항공기 설계 조직 승인 획득 (2023)
+
+{{< adsense-infeed >}}
 
 공유
 

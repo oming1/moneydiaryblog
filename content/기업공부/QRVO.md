@@ -24,6 +24,8 @@ weight: 723
 
 Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 반도체 솔루션을 제공하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 고성능 아날로그 반도체(HPA): RF, 아날로그 혼합 신호 및 전력 관리 솔루션 제공
 2. 커넥티비티 및 센서 그룹(CSG): UWB, Bluetooth LE, Zigbee, Wi-Fi 등 연결성 및 센서 솔루션 제공
 3. 첨단 셀룰러 그룹(ACG): 스마트폰, 웨어러블, 노트북 등을 위한 셀룰러 RF 솔루션 제공
@@ -74,6 +76,8 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 
 Qorvo의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 RF 솔루션 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 - Anokiwave 인수 완료, RF IC 설계 역량 강화 (2024년)
@@ -90,6 +94,8 @@ Qorvo의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았�
 
 ## 관련 ETF
 
+{{< adsense-infeed >}}
+
 - VanEck Semiconductor ETF - SMH
 - iShares Semiconductor ETF - SOXX
 - SPDR S&P Semiconductor ETF - XSD
@@ -97,5 +103,7 @@ Qorvo의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았�
 - Direxion Daily Semiconductor Bull 3X Shares - SOXL
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

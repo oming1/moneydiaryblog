@@ -25,6 +25,8 @@ weight: 668
 
 Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주요 자산을 보유한 국제 에너지 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 석유 및 가스: 미국 퍼미안 베이신, DJ 베이신, 멕시코만 등에서 석유, 천연가스, [NGL](/industry-study/ngl/) 탐사 및 생산
 2. 화학: OxyChem 자회사를 통해 PVC, 염소, 가성 소다 등 기초 화학 제품 생산
 3. 미드스트림 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
@@ -45,7 +47,9 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
     
     - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
@@ -67,6 +71,8 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 3. NGL(천연가스 액체)
 4화학제품]] (PVC, 염소, 가성 소다 등)
 
+{{< adsense-infeed >}}
+
 ## 주요고객
 
 1. 정유사
@@ -75,6 +81,8 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 4. 산업용 에너지 소비자
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영위하고 있습니다.
 
@@ -97,6 +105,8 @@ OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영�
 3. 콜롬비아 육상 사업 Carlyle Group에 매각 (2020년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 부채 감축을 위한 자산 매각 프로그램 실행 (2022-2024년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

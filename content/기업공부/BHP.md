@@ -26,6 +26,8 @@ BHP는 세계 최대 규모의 다각화된 광산 및 금속 회사입니다. �
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 원자재 사용
 - 철강 제조: ArcelorMittal (NL, [MT](/company-analysis/mt/))
 - 전기차 배터리: Tesla (US, [TSLA](/company-analysis/tsla/))
@@ -62,9 +64,13 @@ BHP는 전 세계적으로 사업을 운영하고 있습니다. 주요 시장은
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 BHP는 철광석 시장에서 세계 3대 생산업체 중 하나로, 2023년 기준 글로벌 해상 철광석 거래량의 약 18%를 차지하고 있습니다. 구리 생산에서도 주요 플레이어 중 하나입니다.
 
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [FINVIZ - BHP](https://finviz.com/quote.ashx?t=BHP)
 

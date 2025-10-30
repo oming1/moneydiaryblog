@@ -20,6 +20,8 @@ Universe Pharmaceuticals Inc(UPC)는 [중국](/industry-study/4국가중국/)의
 섹터: [헬스케어](/industry-study/2산업헬스케어/)(Healthcare)  
 산업: 제약 - 특수 및 제네릭(Drug Manufacturers - Specialty & Generic)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의 제조, 마케팅, 유통 및 판매에 종사합니다. 주요 제품으로는 노인을 대상으로 한 만성 질환 치료제와 감기 및 독감 약이 있습니다. 또한 제3자 제품인 생물의약품, 의료기기, 전통 중의학 재료, 건강기능식품 등을 유통 및 판매합니다.
@@ -35,11 +37,15 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 - 원료 의약품 제조업체
 - 의료 장비 제조업체
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 제약 회사
 - 병원 및 의료기관
 - 약국 체인
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -56,6 +62,8 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 - 이사티스 루트 과립: 감기 및 독감 약
 - 치안리 피파 시럽: 감기 및 독감 약
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 중국
@@ -65,6 +73,8 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 구체적인 경쟁사 정보는 제공되지 않았습니다.
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
 

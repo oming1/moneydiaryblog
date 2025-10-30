@@ -20,6 +20,8 @@ weight: 196
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생명 및 사고 보험을 포함한 다양한 보험 상품을 제공합니다. 주요 서비스에는 상업 의료 건강 계획, 정부 건강 계획, 그리고 의료, 행동 건강, 약국 관리, 치과 및 시력 분야의 전문 제품과 서비스가 포함됩니다.
 
 ## 전방/후방 산업
@@ -37,6 +39,8 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **보험 상품 개발**:
     
@@ -65,6 +69,8 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
 Cigna는 미국을 주요 시장으로 하며, 유럽, 아시아 태평양 지역에서도 중요한 매출을 올리고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Anthem** (미국, [ANTM](/company-analysis/antm/)) - 경쟁 제품: 건강 보험

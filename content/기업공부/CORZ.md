@@ -48,6 +48,8 @@ Core Scientific, Inc.는 [비트코인](/company-analysis/비트코인/) 채굴�
 3. 채굴 및 호스팅 서비스: Core Scientific (US, [CORZ](/company-analysis/corz/))
 4. 거래 및 유통: Coinbase (US, [COIN](/company-analysis/coin/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 비트코인 자체 채굴 서비스
@@ -57,6 +59,8 @@ Core Scientific, Inc.는 [비트코인](/company-analysis/비트코인/) 채굴�
 5. AI 관련 서비스
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Core Scientific은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
@@ -70,9 +74,13 @@ Core Scientific은 주로 미국 시장에서 사업을 영위하고 있습니�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Core Scientific은 북미에서 가장 큰 비트코인 채굴 및 호스팅 솔루션 제공업체 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024년 2분기 재무 결과 발표, 총 수익 1억 4110만 달러 기록 (2024년)
 2. 고성능 컴퓨팅을 위한 382 메가와트 인프라 계약 체결 (2024년)

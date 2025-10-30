@@ -55,8 +55,12 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 항공우주 부품 제조업체: 로켓 엔진, 우주선 부품 등 공급
 - 전자부품 제조업체: 통신 및 제어 시스템용 부품 공급
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -114,13 +118,19 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 - Rocket Lab(US, [RKLB](/company-analysis/rklb/)) (소형 위성 발사 서비스)
 - Virgin Galactic(US, [SPCE](/company-analysis/spce/)) (우주 관광)
 
+{{< adsense-infeed >}}
+
 ---
 ## 산업 내 글로벌 시장 점유율
 
 SpaceX는 상업 위성 발사 시장에서 주도적인 위치를 차지하고 있으며, 2022년 기준으로 전 세계 상업 발사의 60% 이상을 차지했습니다.
 
+{{< adsense-infeed >}}
+
 ---
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Starlink 위성 인터넷 서비스의 글로벌 확장 (2020-2024)
 - 크루 드래곤을 이용한 NASA 상업 유인 우주선 프로그램 성공 (2020)

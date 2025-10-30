@@ -25,6 +25,8 @@ Opendoor Technologies Inc.는 미국에서 주거용 부동산 거래를 위한 
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - **부동산 중개업체:** Zillow (US, [Z](/company-analysis/z/)), Redfin (US, [RDFN](/company-analysis/rdfn/))
 - **부동산 개발업체:** Lennar Corporation (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/))
 
@@ -43,12 +45,16 @@ Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플�
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **주택 구매 및 판매:** 주거용 부동산 거래 (매출 비중: 2023년 기준 80%)
 - **부동산 서비스:** 타이틀 보험, 에스크로 서비스 등 (매출 비중: 2023년 기준 20%)
 
 ### 주요 판매국가
 
 - 미국 (주요 매출 국가)
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 

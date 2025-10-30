@@ -20,6 +20,8 @@ weight: 440
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐련형 전자담배](/industry-study/궐련형-전자담배/), [액상 전자담배](/industry-study/액상-전자담배/), [구강형 무연담배](/industry-study/구강형-무연담배/) 등의 제품을 제조하고 판매합니다.
 
 ### 전방산업 및 후방산업
@@ -37,9 +39,13 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
 ### 밸류체인
 
 1. **농업 (Agriculture)**:
-    
+
+{{< adsense-infeed >}}
+
     - **설명**: 담배 잎 재배 및 수확.
     - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
+
+{{< adsense-infeed >}}
 
 1. **1차 가공 (Primary Processing)**:
     
@@ -60,6 +66,8 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
     - **설명**: 담배 제품의 소매 판매.
     - **대표회사**: 7-Eleven (일본, 3382), Walmart (미국, [WMT](/company-analysis/wmt/)).
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **궐련형 담배**: Davidoff, West 등.
@@ -67,6 +75,8 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
 - **액상 전자담배**: blu 등.
 
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **주요 판매국가**: 유럽, 아프리카, 아시아 (2023년 기준)
 

@@ -22,6 +22,8 @@ Industry: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 Illumina, Inc.는 유전체 분석을 위한 통합 시스템을 개발, 제조 및 판매하는 미국의 생명공학 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 시퀀싱 및 어레이 기반 솔루션 제공
 2. 유전자 변이 및 생물학적 기능 분석을 위한 시스템 개발
 3. 시퀀싱, 유전자형 분석, 유전자 발현, 단백질체학 시장 서비스
@@ -38,9 +40,13 @@ Illumina의 주요 고객은 유전체 연구 센터, 제약 회사, 학술 기�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Illumina는 전 세계 160개 이상의 국가에 서비스를 제공하고 있습니다
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
 2. Pacific Biosciences (US, [PACB](/company-analysis/pacb/))

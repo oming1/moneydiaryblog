@@ -24,6 +24,8 @@ weight: 210
 
 Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천연가스 생산 기업입니다. 회사는 북미, 북해, 그리고 해외에서 다양한 유형의 석유 및 가스 자산을 보유하고 있으며, 통합된 운영 모델을 통해 업스트림 생산부터 중류, 하류 부문까지 사업을 영위하고 있습니다.주요 사업 영역:
 
+{{< adsense-infeed >}}
+
 1. 오일샌드 채굴 및 업그레이딩
 2. 중질유 및 경질유 생산
 3. 천연가스 생산
@@ -51,6 +53,8 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Caterpillar Inc.(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 파이프라인: TC Energy(CA, TRP), Enbridge Inc.(CA, ENB)
@@ -70,6 +74,8 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 - 경질유 및 NGLs: 재래식 생산, 매출의 약 30% (2024년 기준)
 - [천연가스](/industry-study/천연가스/): 육상 및 해상 생산, 매출의 약 20% (2024년 기준)
 - 합성 원유: 업그레이딩 생산, 매출의 약 10% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 고객
 
@@ -104,6 +110,8 @@ Canadian Natural Resources는 2024년 기준 글로벌 석유 생산량의 약 1
 - 북해 자산 일부 매각을 통한 포트폴리오 최적화 (2022년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Capital Research Global Investors (7.2%)
 - Royal Bank of Canada (5.1%)

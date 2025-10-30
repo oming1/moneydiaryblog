@@ -19,6 +19,8 @@ weight: 623
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 
 ## 영위사업
@@ -30,7 +32,11 @@ NOV Inc.(NOV)는 글로벌 에너지 산업에 장비와 기술을 제공하는 
 
 NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유체, 관리 압력 시추, 컨덕터 스트링 및 표면 케이싱용 커넥터, 완결 도구, 인공 리프트 시스템 등을 설계, 제조, 임대 및 판매합니다. 회사는 6개 대륙에 걸쳐 500개 이상의 지역에서 운영되고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 기술 혁신: 150년 이상의 역사를 통해 축적된 기술력과 지속적인 R&D 투자
 2. 글로벌 네트워크: 전 세계적인 생산 및 서비스 네트워크 보유
@@ -47,7 +53,9 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
     - 전자부품 제조: Texas Instruments(US, [TXN](/company-analysis/txn/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
 
@@ -76,6 +84,8 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
 5. 독립 석유 및 가스 생산 기업
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 NOV Inc.는 글로벌 기업으로, 주요 판매 국가는 미국, 사우디아라비아, 브라질, 노르웨이, 영국, 캐나다 등입니다.
 

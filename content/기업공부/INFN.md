@@ -46,6 +46,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
     - 컨설팅→설치→24×7 원격 모니터링→현장 교체 부품·업그레이드
     - 고객 네트워크 맞춤 공정 최적화, 설계·검증 지원
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -176,6 +178,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 
 ### 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 - 미국: 45% (2023년 기준)
 - 유럽·중동·아프리카: 30%
 - 아시아·태평양: 25%
@@ -197,6 +201,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 - **장거리 DWDM 시장:** Ciena 30%, Huawei 25%, Nokia 20%, Infinera 10%, 기타 15% (2023년, 추정)
 - **Metro ROADM 시장:** Huawei 28%, Nokia 24%, Ciena 22%, Infinera 12%, 기타 14%
 - **3년간 추이:** Infinera +2%p 증가 (Bloomberg Intelligence)
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -21,6 +21,8 @@ weight: 751
 
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Relay Therapeutics는 정밀의학 분야의 임상 단계 [바이오테크](/industry-study/바이오테크/) 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -35,6 +37,8 @@ Relay Therapeutics는 정밀의학 분야의 임상 단계 [바이오테크](/in
 
 Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기존에 접근하기 어려웠던 단백질 표적에 대한 약물 개발을 목표로 하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 혁신적인 약물 발견 플랫폼: Dynamo 플랫폼을 통해 단백질 구조와 움직임에 대한 이해를 약물 발견에 적용
@@ -44,6 +48,8 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 5. 지적 재산권: 독자적인 기술 플랫폼과 후보 물질에 대한 강력한 특허 포트폴리오
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. RLY-4008: FGFR2 억제제, 고형암 치료제 (임상 2상)
 2. RLY-2608: PI3Kα 억제제, 유방암 치료제 (임상 1/2상)
@@ -60,6 +66,8 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 미국을 중심으로 글로벌 시장 진출 계획 중
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Roche(CH, [ROG](/company-analysis/rog/)): PI3K 억제제 Itovebi 개발
 2. AstraZeneca(UK, [AZN](/company-analysis/azn/)): PI3K 억제제 Capivasertib 개발
@@ -82,6 +90,8 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 3. State Street Corporation (6.74%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. ARK Genomic Revolution ETF - ARKG
 2. SPDR S&P Biotech ETF - XBI

@@ -20,6 +20,8 @@ weight: 122
 섹터(Sector): Consumer Discretionary – 소비자 순환 
 산업(Industry): Specialty Retail – 전문 소매 (가전제품·전자제품)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -49,9 +51,13 @@ weight: 122
 
 ### 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 - **상품 매출(약 80%):** 전자제품 및 액세서리 유통 수익
 
 - **서비스 매출(약 20%):** 설치·수리·멤버십·연장 보증 수익
+
+{{< adsense-infeed >}}
 
 - **고객 유형별:**  
     • 일반 소비자(리테일)  
@@ -127,6 +133,8 @@ weight: 122
 - 대형가전: Whirlpool·LG 냉장고·세탁기
 - 게이밍: PlayStation·Xbox·Nintendo, PC 게이밍 기기
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -156,6 +164,8 @@ weight: 122
 - Target(미국, [TGT](/company-analysis/tgt/)) – 소비자 가전 중점 소매
 - Costco(미국, [COST](/company-analysis/cost/)) – 멤버십·대량 판매
 - BestBuy Canada(캐나다 내 경쟁)
+
+{{< adsense-infeed >}}
 
 ---
 

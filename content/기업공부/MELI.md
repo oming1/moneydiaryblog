@@ -63,9 +63,13 @@ MercadoLibre의 비즈니스 모델은 라틴 아메리카 디지털 생태계�
 
 **4. 지역 특화 전략:**
 
+{{< adsense-infeed >}}
+
 - [브라질](/industry-study/브라질/): 최대 시장, 전체 매출의 50% 이상
 - 멕시코: 아르헨티나를 넘어선 2위 시장
 - 아르헨티나: 본사 소재지, 높은 시장 점유율 유지
+
+{{< adsense-infeed >}}
 
 핵심 경쟁력은 지역 특화 서비스, 통합 생태계 효과, 물류 네트워크, 금융 서비스 확장성입니다.
 
@@ -131,6 +135,8 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - 개인 소비자: 온라인 쇼핑 및 디지털 결제 서비스 이용
 - 소상공인: 온라인 판매 플랫폼 및 결제 서비스 이용
 - 기업 고객: B2B 거래 플랫폼 및 기업 금융 서비스 이용
@@ -187,6 +193,8 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 **Mercado Envios:** 물류 및 배송 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 [FDX](/company-analysis/fdx/), [UPS](/company-analysis/ups/)
 
 **Mercado Credito:** 신용 및 대출 서비스, 핀테크 부문 내 포함, 관련 경쟁사 [NU](/company-analysis/nu/), [SQ](/company-analysis/sq/)
+
+{{< adsense-infeed >}}
 
 **Mercado Ads:** 광고 플랫폼 서비스, 매출 비중 약 4% (2024년 기준), 관련 경쟁사 [GOOGL](/company-analysis/googl/), [META](/company-analysis/meta/)
 

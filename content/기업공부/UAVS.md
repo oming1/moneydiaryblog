@@ -56,6 +56,8 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     
     - Esri(비상장), Hexagon(SE, HEXA-B)
 
+{{< adsense-infeed >}}
+
 ## 후방산업:
 
 1. 전자부품: 센서, 카메라, 통신 모듈
@@ -75,7 +77,9 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 1. 연구개발: 드론 및 센서 기술 개발
     
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), AeroVironment(US, [AVAV](/company-analysis/avav/))
-    
+
+{{< adsense-infeed >}}
+
 2. 부품 제조: 센서, 카메라, 프로세서 생산
     
     - Sony(JP, 6758), Teledyne FLIR(US, [TDY](/company-analysis/tdy/))
@@ -89,7 +93,9 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Pix4D(비상장)
     
 5. 유통 및 판매: 정부 계약, 상업용 판매
-    
+
+{{< adsense-infeed >}}
+
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), DJI(비상장)
     
 6. 서비스 제공: 드론 기반 데이터 수집 및 분석
@@ -121,6 +127,8 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. DJI(비상장): 소비자 및 상업용 드론
 2. Parrot(FR, PARRO): 소비자 및 전문가용 드론
 3. AeroVironment(US, [AVAV](/company-analysis/avav/)): 군사 및 상업용 드론
@@ -133,6 +141,8 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, AgEagle는 상업용 및 정부용 드론 시장에서 성장하고 있는 중소기업으로 평가받고 있습니다. 전체 드론 시장에서의 점유율은 아직 낮지만, 특수 목적 드론 및 센서 시장에서는 경쟁력을 갖추고 있는 것으로 보입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -152,6 +152,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **화학물질:** Orica(AU, ORI) (폭발물).
 - **에너지:** 지역 전력 회사, 정유사.
 
+{{< adsense-infeed >}}
+
 **제조 및 조립 단계:**
 
 - **Hudbay Minerals Inc.:** 광물 채굴, 선광, (일부) 제련.
@@ -171,6 +173,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **은 (Silver):** 불도 및 정련된 형태, 매출 비중 5% (2024 추정), 경쟁사 Pan American Silver(CA, PAAS).
 - **아연 (Zinc):** 농축물 형태, 매출 비중 15% (2024 추정), 경쟁사 Glencore(UK, GLNCY), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **몰리브덴 (Molybdenum):** 농축물 형태, 매출 비중 5% (2024 추정).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -240,6 +244,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 - **The Vanguard Group, Inc.:** 약 9%.
 - **BlackRock, Inc.:** 약 7%.

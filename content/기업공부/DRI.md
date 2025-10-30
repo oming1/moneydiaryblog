@@ -24,6 +24,8 @@ Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, �
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 농업 및 식품 가공업
     - **핵심 산업:** 농산물 생산, 식품 가공
     - **핵심 기업:** Tyson Foods (미국, [TSN](/company-analysis/tsn/)), Archer Daniels Midland (미국, ADM)
@@ -42,7 +44,11 @@ Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, �
 - **레스토랑 운영:** 최종 소비자에게 식사 제공
     - **대표 회사:** Darden Restaurants (미국, [DRI](/company-analysis/dri/)), Brinker International (미국, EAT)
 
+{{< adsense-infeed >}}
+
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Olive Garden:** 이탈리안 요리
 - **LongHorn Steakhouse:** 스테이크 및 아메리칸 요리
@@ -54,6 +60,8 @@ Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, �
 Darden Restaurants는 주로 미국 내에서 운영되며, 미국이 주요 매출 국가입니다.
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Brinker International (미국, EAT):** Chili’s Grill & Bar, Maggiano’s Little Italy
 - **Bloomin’ Brands (미국, BLMN):** Outback Steakhouse, Carrabba’s Italian Grill

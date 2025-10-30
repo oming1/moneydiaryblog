@@ -20,6 +20,8 @@ Industry: Auto Manufacturers (자동차 제조업)
 
 ## 회사 개요
 
+{{< adsense-infeed >}}
+
 General Motors Company는 1908년에 설립된 미국의 다국적 자동차 제조업체로, 본사는 미시간주 디트로이트에 위치하고 있습니다. GM은 Buick, Cadillac, Chevrolet, GMC 등 여러 브랜드의 자동차를 설계, 제조 및 판매하며, 전 세계적으로 운영되고 있습니다.
 
 ## 영위사업
@@ -42,6 +44,8 @@ General Motors Company는 1908년에 설립된 미국의 다국적 자동차 제
 - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/))
 - 금속 공급: Alcoa (US, [AA](/company-analysis/aa/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - Chevrolet Silverado (픽업 트럭)
@@ -58,6 +62,8 @@ GM은 북미, 남미, 유럽, 아시아 및 아프리카에서 운영되고 있�
 - 제조 시설: 미국 및 해외에 위치한 여러 생산 공장
 - 연구개발 센터: 전기차 및 자율주행 기술 개발을 위한 시설
 - 강력한 브랜드 포트폴리오
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

@@ -48,7 +48,11 @@ Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용
 3. 시스템 통합: 자동차 OEM 및 Tier 1 공급업체
 4. 최종 사용자: 자동차 제조업체, 자율주행 기술 기업
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. Iris LiDAR (자율주행용 고성능 장거리 센서)
 2. Sentinel™ (자율주행 및 안전 플랫폼)
@@ -79,6 +83,8 @@ Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서
 3. 2022년 12월 SPAC 합병을 통해 나스닥 상장 (2022년)
 4. 3.4억 달러 이상의 주문 잔고 확보 발표 (2023년)
 5. Northland Securities의 하향 조정으로 인한 주가 하락 (2023년)
+
+{{< adsense-infeed >}}
 
 공유
 

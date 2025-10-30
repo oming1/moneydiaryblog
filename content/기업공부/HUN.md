@@ -23,6 +23,8 @@ weight: 425
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Huntsman Corporation은 다양한 유기 화학 제품을 제조하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 폴리우레탄: MDI, 폴리올, 열가소성 폴리우레탄 제품 생산
@@ -42,6 +44,8 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
     
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -60,6 +64,8 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 3. 유통: Brenntag(DE, BNR) - 화학제품 유통
 4. 최종 소비자: Procter & Gamble(US, [PG](/company-analysis/pg/)) - 소비재 제조
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. MDI 및 폴리올 (폴리우레탄 원료)
@@ -75,6 +81,8 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 5. Unilever
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Huntsman Corporation은 글로벌 기업으로, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 

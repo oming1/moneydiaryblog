@@ -22,16 +22,24 @@ Boston Scientific Corporation(BSX)은 의료 기술 기업으로, 다양한 중�
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Boston Scientific은 전기생리학, 위장병학, 위장 수술, 여성 골반 의학, 부인과학, 중재적 심장학, 중재적 방사선학, 신경외과, 정형외과, 통증 의학, 폐질환, 비뇨기과 및 혈관 수술 분야의 제품을 제공합니다. 주요 제품으로는 심장 및 혈관 스텐트, 전기생리학 장비, 내시경 장비, 신경 조절 시스템 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 병원 및 의료기관
 - 의사 및 의료 전문가
@@ -50,6 +58,8 @@ Boston Scientific은 전기생리학, 위장병학, 위장 수술, 여성 골반
 - 내시경 장비
 - 신경 조절 시스템
 - 구조적 심장 제품 (EMBLEMTM MRI S-ICD System)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

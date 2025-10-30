@@ -22,6 +22,8 @@ weight: 590
 
 모더나는 메신저 RNA([MRNA](/company-analysis/mrna/)) 기반 치료제와 백신을 개발하고 상용화하는 생명공학 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **Infectious Diseases**: COVID-19, 인플루엔자, 호흡기 세포융합 바이러스(RSV) 백신 등
 - **Immuno-Oncology**: 암 백신 및 면역 치료제
 - **Rare Diseases**: 희귀 질환 치료제
@@ -57,18 +59,26 @@ weight: 590
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
 
 #### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **BioNTech (독일, [BNTX](/company-analysis/bntx/))**: mRNA 기반 백신 및 치료제
 - **Pfizer (미국, [PFE](/company-analysis/pfe/))**: mRNA 기반 백신 및 치료제
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 제약 및 의료 서비스
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율
 
 [모더나는 글로벌 mRNA 치료제 및 백신 시장에서 약 20%의 점유율을 차지하고 있습니다 (2024년 기준)](https://www.grandviewresearch.com/industry-analysis/mrna-therapeutics-market-report)[1](https://www.grandviewresearch.com/industry-analysis/mrna-therapeutics-market-report).
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 백신 개발 및 승인**: COVID-19 백신의 긴급 사용 승인 및 상용화 (2021-2023)

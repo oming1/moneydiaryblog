@@ -29,7 +29,9 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
     - **관련 기업:**
         - 식음료 서비스: McDonald’s (미국, [MCD](/company-analysis/mcd/))
         - 배달 서비스: DoorDash (미국, [DASH](/company-analysis/dash/))
-          
+
+{{< adsense-infeed >}}
+
 - **후방산업:** 식자재 공급, 포장재 제조
     - **핵심 산업:** 식자재 공급 (재료 공급), 포장재 제조 (포장재 제공)
     - **관련 기업:**
@@ -45,6 +47,8 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
 - **배포:** 음식 배달 서비스
     - **대표 회사:** DoorDash (미국, [DASH](/company-analysis/dash/)), Uber Eats (미국, [UBER](/company-analysis/uber/))
 
+{{< adsense-infeed >}}
+
 **주요제품**
 
 - **피자:** 다양한 토핑과 크기의 피자 (주요 매출 제품)
@@ -53,7 +57,11 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
 - **치킨 윙:** 다양한 소스와 함께 제공되는 치킨 윙
 - **디저트:** 초콜릿 라바 케이크, 시나몬 스틱 등
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가

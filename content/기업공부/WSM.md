@@ -24,6 +24,8 @@ Williams-Sonoma는 주방용품, 가구, 홈 인테리어 제품 등을 판매�
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업: 소비자 소매
 - 후방 산업: 가구 제조, 주방용품 제조
 
@@ -45,11 +47,15 @@ Williams-Sonoma는 주방용품, 가구, 홈 인테리어 제품 등을 판매�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Crate and Barrel
 - The Home Depot
 - Target
 - Bed Bath & Beyond
 - IKEA
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

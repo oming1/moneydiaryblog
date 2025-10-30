@@ -25,7 +25,9 @@ Aurora Innovation, Inc.(AUR)는 [자율 주행](/industry-study/자율-주행/) 
 이 회사는 다양한 차량 유형과 애플리케이션에 적응하고 상호 운용할 수 있는 플랫폼으로 설계된 Aurora Driver를 개발한다.  
 
 승용차부터 경상용차, 클래스 8 트럭에 이르기까지 다양한 유형의 차량 플랫폼에 Aurora Driver를 통합하여 고객의 니즈를 충족하도록 설계했다.  
-  
+
+{{< adsense-infeed >}}
+
 다양한 차량 유형과 사용 사례를 위한 공통 드라이버 플랫폼을 만든 것이다.  
 
 두 번째 핵심 시장은 승객 모빌리티에 초점을 맞추고 있으며, 우선 무인 차량 호출 구독 서비스인 Aurora Connect를 통해 차량 호출 분야를 공략한다.  
@@ -47,6 +49,8 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 
 - 자동차 부품 제조업체
 - 센서 및 반도체 제조업체
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -70,6 +74,8 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 
 미국
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Waymo(US, [GOOGL](/company-analysis/googl/))
@@ -79,6 +85,8 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

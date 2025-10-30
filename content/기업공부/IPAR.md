@@ -26,6 +26,8 @@ Interparfums Inc.는 글로벌 프레스티지 향수 및 향수 관련 제품 �
 
 Interparfums의 비즈니스 모델은 자체 제조시설을 소유하지 않고 일반 계약자로서 공급업체로부터 필요한 구성요소를 소싱하는 방식입니다. 전 세계 120개국 이상에서 선택적 유통망을 통해 제품을 판매하고 있습니다. 2024년 기준 매출은 약 14.5억 달러이며, 순이익률은 11.32%입니다.
 
+{{< adsense-infeed >}}
+
 최근 주요 비즈니스 성과로는 2025년 3월 Coach와의 파트너십을 2031년 6월까지 연장하는 계약을 체결했으며, 꾸준한 브랜드 포트폴리오 확장과 라이센스 계약을 통해 글로벌 향수 시장에서의 입지를 강화하고 있습니다.
 
 ## 핵심 경쟁력
@@ -78,6 +80,8 @@ Interparfums의 비즈니스 모델은 자체 제조시설을 소유하지 않�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 유럽 기반 프래그런스: Boucheron, Coach, Jimmy Choo, Karl Lagerfeld, Kate Spade, Lacoste, Lanvin, Moncler, Montblanc, Rochas, Van Cleef & Arpels 브랜드 향수 (2024년 매출의 약 65%)
     
 2. 미국 기반 프래그런스: Abercrombie & Fitch, Anna Sui, Donna Karan, DKNY, Ferragamo, Graff, GUESS, Hollister, MCM, Oscar de la Renta, Roberto Cavalli, Ungaro 브랜드 향수 (2024년 매출의 약 35%)
@@ -93,7 +97,9 @@ Interparfums의 주요 고객은 다음과 같은 유통업체 및 소매점입�
 3. Nordstrom(US, [JWN](/company-analysis/jwn/)): 럭셔리 백화점 체인
     
 4. Douglas(DE, DGLSY): 유럽 향수 및 화장품 소매업체
-    
+
+{{< adsense-infeed >}}
+
 5. Dufry(CH, DUFN): 글로벌 여행 소매업체
     
 6. El Corte Inglés(El Corte Inglés): 스페인 백화점 체인
@@ -155,7 +161,9 @@ Interparfums의 주요 고객은 다음과 같은 유통업체 및 소매점입�
 2. Consumer Staples Select Sector SPDR Fund - XLP
     
 3. Vanguard Consumer Staples ETF - VDC
-    
+
+{{< adsense-infeed >}}
+
 4. First Trust Consumer Staples AlphaDEX Fund - FXG
     
 5. Invesco S&P SmallCap Consumer Staples ETF - PSCC

@@ -45,7 +45,9 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 시추 장비 제조: National Oilwell Varco(US, [NOV](/company-analysis/nov/))
     - 철강 제조: U.S. Steel(US, [X](/company-analysis/x/))
     
@@ -70,6 +72,8 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 
 ## 주요고객
 
+{{< adsense-infeed >}}
+
 1. 석유 및 가스 탐사 기업
 2. 석유 메이저 기업
 3. 독립 석유 및 가스 생산 기업
@@ -79,6 +83,8 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 1. 미국 (2024년 회계연도 매출 비중: 89.5%)
 2. 아르헨티나 (2024년 회계연도 매출 비중: 4.9%)
 3. 바레인, 콜롬비아, UAE 등 기타 국가
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -99,6 +105,8 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2023-2024년)
 5. 디지털 기술 및 자동화 솔루션 개발 확대 (2022-2024년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 1. BlackRock Advisors LLC: 15.65%
@@ -106,6 +114,8 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

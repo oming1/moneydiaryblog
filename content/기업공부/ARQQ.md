@@ -20,6 +20,8 @@ weight: 86
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨어 서비스를 제공합니다. 주요 제품인 SKA-Platform은 네트워크 장치, 클라우드 기계 또는 저장된 데이터의 통신 링크를 현재와 미래의 암호화 공격으로부터 안전하게 보호합니다.
 
 ## 전방/후방 산업
@@ -59,15 +61,21 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
 
 영국을 중심으로 글로벌 시장에서 사업을 전개하고 있으며, 특히 미국 공공 부문에 진출하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Quantum Computing Inc. (미국, [QUBT](/company-analysis/qubt/)) - 양자 컴퓨팅 솔루션
 - Intellicheck (미국, IDN) - 신원 확인 기술
 - Stronghold Digital Mining (미국, SDIG) - 암호화폐 채굴 및 전력 생성
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았지만, Arqit Quantum은 양자 안전 암호화 기술 분야에서 선도적인 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -20,6 +20,8 @@ weight: 687
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Beauty**: 헤어 케어, 스킨 케어, 퍼스널 케어 제품
@@ -50,10 +52,14 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - 세제 및 가정용품: Tide, Ariel, Downy (매출의 약 33%)
 - 미용 및 그루밍: Olay, Pantene, Gillette (매출의 약 30%)
 - 유아 및 여성용품: Pampers, Always (매출의 약 25%)
 - [헬스케어](/industry-study/2산업헬스케어/): Crest, Oral-B (매출의 약 12%)
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

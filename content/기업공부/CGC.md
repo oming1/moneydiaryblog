@@ -34,6 +34,8 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Tilray(US, [TLRY](/company-analysis/tlry/))
 - Aurora Cannabis(캐나다, ACB)
 - Cronos Group(캐나다, CRON)
@@ -44,10 +46,14 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 
 ## 최근 주요 이슈
 
+{{< adsense-infeed >}}
+
 - 2022년 9월, 캐나다 내 28개 소매점을 다른 대마초 회사들에 매각하는 등 캐나다 소매 사업 매각 발표
 - 뉴욕주로부터 대마 가공 및 생산 라이선스 획득 (2019년)
 - Constellation Brands Inc.가 35% 이상의 지분을 보유 (2019년 기준)
 - 지속적인 인수합병을 통한 사업 확장 (Mettrum Health 등)
+
+{{< adsense-infeed >}}
 
 ## 재무 정보 (2024년 11월 9일 기준)
 

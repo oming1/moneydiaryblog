@@ -20,9 +20,15 @@ weight: 823
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업으로는 태양광 패널, 에너지 저장 솔루션([ESS](/industry-study/ess/)), 스마트 에너지 관리 소프트웨어 등이 있습니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **태양광 설치**: 태양광 패널 및 시스템 설치 (예: Sunrun (US, [RUN](/company-analysis/run/)))
@@ -32,6 +38,8 @@ SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을
     - **배터리 제조**: 에너지 저장 배터리 공급 (예: Panasonic (JP, 6752))
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 공급**: 반도체 및 배터리 원료 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)),  Panasonic (JP, 6752)
 - **제품 제조**: 태양광 패널 및 배터리 시스템 제조 (SunPower Corporation)

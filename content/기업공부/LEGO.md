@@ -20,7 +20,11 @@ weight: 510
 
 **영위사업:** LEGO Group는 주로 조립식 블록 장난감을 제조하고 판매합니다. 주요 제품으로는 다양한 테마의 레고 세트, 교육용 제품, 디지털 게임 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업:**
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 소매업, 교육
     - **핵심 산업:** 장난감 소매, 교육 서비스
@@ -39,6 +43,8 @@ weight: 510
     - **대표 회사:** Walmart (미국, [WMT](/company-analysis/wmt/)) - 대형 소매점, Amazon (미국, [AMZN](/company-analysis/amzn/)) - 온라인 소매
 
 **주요제품:**
+
+{{< adsense-infeed >}}
 
 - **레고 테마 세트:**
     - **레고 시티:** 도시 생활 테마

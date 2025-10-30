@@ -44,6 +44,8 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 **수익 구조 세분화:**
 
+{{< adsense-infeed >}}
+
 - **처방약 거래 수익:** 85% (제휴 약국에서 발생하는 거래 건당 수수료, 제약사 보상 프로그램 등)
     
 - **구독 서비스 수익 (GoodRx Gold 등):** 10%
@@ -52,7 +54,9 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 - **고객 유형별 수익 구조:**  
     주로 약국, 제약사, 그리고 최종 소비자인 환자로부터 수익을 창출합니다.
-    
+
+{{< adsense-infeed >}}
+
     - 약국 및 PBM (Pharmacy Benefit Manager): 약가 할인 거래 수수료
     - 제약사: 환자 지원 프로그램 연동 수수료
     - 소비자: 구독 서비스 가입비  
@@ -119,6 +123,8 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 4단계: **수익 창출 및 파트너십 관리:**
 
+{{< adsense-infeed >}}
+
 - 약국 및 PBM으로부터 거래 수수료를 받거나, 제약사 및 원격의료 파트너로부터 서비스 제공에 따른 수수료를 받습니다. 동시에 지속적인 파트너십을 관리합니다.
 
 ---
@@ -137,6 +143,8 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 - **클라우드 서비스 제공업체:** 플랫폼 운영에 필요한 서버, 스토리지, 컴퓨팅 자원을 공급합니다. (예: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/)))
 - **데이터 분석 및 AI 솔루션 제공업체:** 데이터 통합 및 분석, AI 알고리즘 개발을 위한 도구와 서비스를 제공합니다. (예: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)))
 - **정보 보안 솔루션 제공업체:** 민감한 환자 데이터를 보호하기 위한 보안 소프트웨어 및 서비스를 제공합니다. (예: CrowdStrike Holdings(US, [CRWD](/company-analysis/crwd/)))
+
+{{< adsense-infeed >}}
 
 ---
 

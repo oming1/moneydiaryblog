@@ -22,6 +22,8 @@ weight: 167
 
 씨티그룹은 글로벌 금융 서비스 기업으로, 주요 사업 영역은 투자은행, 상업은행, 자산관리, 신용카드, 보험 등입니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업:** 기업 및 개인 금융 서비스, 자산관리, 신용카드
@@ -35,7 +37,11 @@ weight: 167
     - **금융 기술:** 금융 서비스 제공을 위한 기술 개발. 주요 기업: Fiserv (미국, FISV), PayPal (미국, [PYPL](/company-analysis/pypl/)).
     - **데이터 분석:** 금융 데이터 분석 및 관리. 주요 기업: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)), Splunk (미국, [SPLK](/company-analysis/splk/)).
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **자금 조달:** 자금 조달 및 관리
     - 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
@@ -56,6 +62,8 @@ weight: 167
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **유럽:** 투자은행 및 자산관리 서비스
 - **아시아:** 신용카드 및 상업은행 서비스
@@ -68,6 +76,8 @@ weight: 167
 - **자산관리:** BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group.
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **투자은행:** 글로벌 시장 점유율 약 10% (2023년 기준)
 - **상업은행:** 미국 내 시장 점유율 약 15% (2023년 기준)

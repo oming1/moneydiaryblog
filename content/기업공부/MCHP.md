@@ -34,13 +34,19 @@ Microchip Technology Inc.는 스마트, 연결 및 보안 임베디드 제어 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 자동차 산업: 차량 전자 제어 시스템에 마이크로컨트롤러 사용
 - 산업 자동화: 제어 시스템에 아날로그 및 혼합 신호 제품 활용
 - 소비자 전자: 가전제품에 마이크로컨트롤러 및 메모리 제품 사용
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 반도체 장비 제조업: 웨이퍼 제조 장비 공급 (예: Applied Materials (US, [AMAT](/company-analysis/amat/)))
 - 원자재 공급업: 실리콘 웨이퍼 공급 (예: Shin-Etsu Chemical (일본, 4063.T))
@@ -61,6 +67,8 @@ Microchip Technology Inc.는 스마트, 연결 및 보안 임베디드 제어 �
 5. 무선 연결 모듈 (Wi-Fi, Bluetooth, LoRa)
 6. 터치 및 제스처 컨트롤 제품
 7. 실시간 클록 및 타이밍 제품
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

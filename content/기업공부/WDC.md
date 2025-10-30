@@ -20,6 +20,8 @@ weight: 957
 섹터: 정보기술
 산업: 컴퓨터하드웨어
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계, 제조, 판매하는 글로벌 선도 기업입니다. 1970년에 설립된 이 회사는 하드 디스크 드라이브(HDD), 솔리드 스테이트 드라이브(SSD), 낸드 플래시 메모리 등 다양한 제품을 통해 개인, 기업 및 데이터 센터 고객에게 서비스를 제공합니다.주요 사업 부문은 다음과 같습니다:
@@ -32,6 +34,8 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 수직 통합 모델: 설계, 제조, 유통까지 모든 과정을 통합하여 비용 효율성과 품질 제어 강화
 2. 혁신 기술: HAMR, Zoned Storage, RISC-V 등 첨단 기술 도입
 3. 글로벌 시장 점유율: HDD 시장에서 Seagate와의 듀오폴리 형성 및 낸드 시장에서 Kioxia와의 협력
@@ -41,6 +45,8 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 데이터 센터: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))

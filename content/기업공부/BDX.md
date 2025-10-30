@@ -20,7 +20,11 @@ Becton, Dickinson and Company(BDX)는 의료 기기, 기기 시스템 및 시약
 섹터: [헬스케어](/industry-study/2산업헬스케어/)(Health Care)  
 산업: 의료 기기 및 용품(Medical Instruments & Supplies)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 BD는 의료 수술 제품, 진단 기기 및 시약, 유세포 분석 및 세포 이미징 시스템을 제조 및 유통합니다. 주요 사업 부문은 BD Medical(약 50%), BD Life Sciences(27%), BD Interventional(24%)입니다. 국제 매출이 전체 사업의 43%를 차지합니다.
 
@@ -36,12 +40,16 @@ BD는 의료 수술 제품, 진단 기기 및 시약, 유세포 분석 및 세�
 - 병원 및 의료기관
 - 연구소 및 생명과학 기관
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 연구개발: BD (자체 R&D)
 2. 제조: BD 및 외주 생산
 3. 유통: 직접 판매 및 유통 파트너
 4. 고객 서비스: BD
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -56,6 +64,8 @@ BD는 의료 수술 제품, 진단 기기 및 시약, 유세포 분석 및 세�
 미국, 아시아, 캐나다, 유럽, 멕시코, 중동, 남아프리카, 남미
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Medtronic(US, [MDT](/company-analysis/mdt/))
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))

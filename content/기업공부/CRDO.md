@@ -24,7 +24,11 @@ Credo는 네트워크 케이블 사업자로 데이터 인프라 시장을 위�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 반도체 제조업체: 칩 생산에 필요한 원자재 및 장비 공급
 
@@ -50,13 +54,19 @@ Credo는 네트워크 케이블 사업자로 데이터 인프라 시장을 위�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 대만, 중국 본토, 홍콩, 국제 시장
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
 - Broadcom(US, [AVGO](/company-analysis/avgo/)): 네트워크 및 통신 반도체
 - Marvell Technology(US, [MRVL](/company-analysis/mrvl/)): 데이터 인프라 반도체
 - Analog Devices(US, [ADI](/company-analysis/adi/)): 고성능 아날로그 및 혼합 신호 IC
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

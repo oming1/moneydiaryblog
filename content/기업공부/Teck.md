@@ -27,13 +27,17 @@ weight: 857
 
 Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐나다 기반의 [비철금속](/industry-study/비철금속/)기업입니다. 주요 사업 영역은 제강용 [석탄](/industry-study/석탄/), [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [아연](/industry-study/아연/)의 채굴 및 생산이며, 에너지 부문에서도 활동하고 있습니다. 회사는 북미와 남미에서 광산을 운영하고 있으며, 전 세계 시장에 제품을 공급하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 철강 제조, 전자 제품 제조, 건설업
     - **관련 기업**: ArcelorMittal (LU, [MT](/company-analysis/mt/)), [Samsung](/industry-study/samsung/) (KR, 005930.KS)
-    
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 광산 장비 제조, 에너지 공급
@@ -47,7 +51,9 @@ Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐�
     - **대표 회사**: BHP Group (AU, [BHP](/company-analysis/bhp/)) - 다양한 광물 자원 개발
     
 - **채굴 및 생산**: 석탄, 구리, 아연 등의 채굴 및 생산
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Glencore (CH, GLEN.L) - 다양한 광물 생산
     - **대표 회사**: Freeport-McMoRan (US, [FCX](/company-analysis/fcx/)) - 구리 생산
     
@@ -71,9 +77,13 @@ Teck Resources는 전 세계적으로 제품을 판매하고 있으며, 주요 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 다양한 광물 자원 생산
 - **Rio Tinto (UK, [RIO](/company-analysis/rio/))** - 글로벌 광산 개발 및 생산
 - **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

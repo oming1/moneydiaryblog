@@ -20,6 +20,8 @@ weight: 450
 
 **영위사업**: 
 
+{{< adsense-infeed >}}
+
 Interxion은 유럽에서 캐리어 및 [클라우드](/industry-study/2산업클라우드/) 중립 코로케이션 [데이터센터](/industry-study/데이터센터/) 서비스를 제공하는 회사입니다. 1998년에 네덜란드에서 설립되었으며, 2020년 Digital Realty에 인수되었습니다
 
 **전방/후방산업**:
@@ -28,6 +30,8 @@ Interxion은 유럽에서 캐리어 및 [클라우드](/industry-study/2산업�
     - **핵심 기업**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 - **후방산업**: 데이터 센터 인프라 제공업체, 전력 공급업체
     - **핵심 기업**: Schneider Electric (프랑스, [SU](/company-analysis/su/)), Vertiv (미국, [VRT](/company-analysis/vrt/))
+
+{{< adsense-infeed >}}
 
 **밸류체인**:
 
@@ -51,6 +55,8 @@ Interxion은 유럽에서 캐리어 및 [클라우드](/industry-study/2산업�
 - **Digital Realty (미국, [DLR](/company-analysis/dlr/))**: 데이터 센터, 코로케이션 및 상호 연결 솔루션 제공
 
 **산업 내 글로벌 시장 점유율**:
+
+{{< adsense-infeed >}}
 
 - Interxion은 유럽 데이터 센터 시장에서 중요한 위치를 차지하고 있으며, 글로벌 시장 점유율은 공개되지 않았습니다. 그러나 주요 경쟁업체와 함께 시장을 선도하고 있습니다.
 

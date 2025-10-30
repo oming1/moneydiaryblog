@@ -43,6 +43,8 @@ Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 �
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 부동산 개발: China Vanke(CN, 000002), Country Garden(HK, 2007)
 - 부동산 투자: Blackstone(US, [BX](/company-analysis/bx/)), Brookfield Asset Management(US, BAM)
 
@@ -59,7 +61,11 @@ Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 중국
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

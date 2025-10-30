@@ -23,12 +23,16 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 광고주: Procter & Gamble (US, [PG](/company-analysis/pg/)), Coca-Cola (US, [KO](/company-analysis/ko/))
 - 콘텐츠 제작자: Disney (US, [DIS](/company-analysis/dis/)), Warner Bros. Discovery (US, DISCA)
 
 **후방산업:**
+
+{{< adsense-infeed >}}
 
 - 데이터 센터 운영업체: Equinix (US, [EQIX](/company-analysis/eqix/)), Digital Realty (US, [DLR](/company-analysis/dlr/))
 - 반도체 제조업체: Intel (US, [INTC](/company-analysis/intc/)), NVIDIA (US, [NVDA](/company-analysis/nvda/))
@@ -38,6 +42,8 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 - **스트리밍 서비스:** TV 시리즈, 다큐멘터리, 영화, 게임 (매출 비중: 2023년 기준 100%)
 
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - 미국 (주요 매출 국가)
 - 영국
@@ -54,6 +60,8 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 ### 산업 내 글로벌 시장 점유율
 
 Netflix, Inc.의 글로벌 시장 점유율은 약 23% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

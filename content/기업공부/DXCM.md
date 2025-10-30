@@ -27,6 +27,8 @@ weight: 298
     - **전자 부품 제조:** 센서 및 전자 부품을 제조하는 업체 (예: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/)))
     - **소재 공급:** 의료기기 제조에 필요한 원재료 공급업체 (예: 3M (US, [MMM](/company-analysis/mmm/)), Corning (US, [GLW](/company-analysis/glw/)))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **설계 및 개발:**
@@ -41,7 +43,11 @@ weight: 298
     - Cardinal Health (US, CAH): 의료기기 유통
     - McKesson (US, [MCK](/company-analysis/mck/)): 의료기기 유통
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Dexcom G6:** 연속 혈당 모니터링 시스템 (당뇨병 관리)
 - **Dexcom G7:** 차세대 연속 혈당 모니터링 시스템 (당뇨병 관리)
@@ -53,6 +59,8 @@ weight: 298
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (영국, 독일, 프랑스 등)
 - **아시아:** 주요 매출 국가 (일본, 중국, 한국 등)
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

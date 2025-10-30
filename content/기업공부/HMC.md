@@ -22,12 +22,16 @@ Industry: 자동차 제조업체(Auto Manufacturers)
 
 Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/) 기업으로, 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. [자동차](/industry-study/자동차/) 사업: 승용차, 경트럭 등 개발, 생산 및 판매
 2. 오토바이 사업: 스포츠, 비즈니스, 출퇴근용 모델 및 ATV 등 생산
 3. 금융 서비스: 소매 대출 및 리스, 딜러 도매 금융 제공
 4. 파워 프로덕트 및 기타 사업: 범용 엔진, 잔디 깎는 기계, 발전기, 수중 펌프, 선외기 등 생산
 
 2024 회계연도 기준 연결 매출은 20조 4,280억 엔이며, 자동차가 매출의 66%, 오토바이가 16%를 차지하고 있습니다. 전 세계 120개국 이상에서 제품을 판매하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -59,6 +63,8 @@ Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/)
 
 Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특히 북미, 일본, 아시아 지역이 주요 시장입니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. Toyota Motor Corp (일본, [TM](/company-analysis/tm/))
@@ -66,6 +72,8 @@ Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특
 3. Ford Motor Co (US, [F](/company-analysis/f/))
 4. Volkswagen AG (독일, VWAGY)
 5. Tesla Inc (US, [TSLA](/company-analysis/tsla/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

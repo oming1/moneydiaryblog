@@ -31,7 +31,9 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
     - **모바일:** 스마트폰 및 모바일 기기. 주요 기업: Apple (미국, [AAPL](/company-analysis/aapl/)), [Samsung](/industry-study/samsung/) (한국,005930).
     - **통신 인프라:** 네트워크 장비 및 통신 솔루션. 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Ericsson (스웨덴, ERIC).
 - **후방산업:** 반도체 제조, 연구 개발
-    
+
+{{< adsense-infeed >}}
+
     - **반도체 제조:** 반도체 칩 제조 및 공급. 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (한국,005930).
     - **연구 개발:** 신제품 개발 및 혁신. 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)).
 
@@ -49,17 +51,23 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **[마이크로컨트롤러](/industry-study/마이크로컨트롤러/):** 다양한 애플리케이션용 마이크로컨트롤러
 - **애플리케이션 프로세서:** i.MX 애플리케이션 프로세서
 - **무선 연결 솔루션:** NFC, 블루투스, Wi-Fi 솔루션
 - **아날로그 및 인터페이스 장치:** 다양한 아날로그 및 인터페이스 장치
 - **보안 컨트롤러:** 보안 기능을 갖춘 반도체 제품
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **미국:** 주요 매출 국가
 - **[중국](/industry-study/4국가중국/):** 자동차 및 산업용 반도체
 - **유럽:** 통신 인프라 및 모바일 솔루션
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

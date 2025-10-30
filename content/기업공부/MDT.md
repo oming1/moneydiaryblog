@@ -28,6 +28,8 @@ Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, �
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
 
@@ -38,6 +40,8 @@ Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, �
 - 클리닉 및 기관
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구개발: Medtronic (자체 R&D)
 2. 제조: Medtronic 및 외주 생산
@@ -57,6 +61,8 @@ Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, �
 미국, 유럽, 아시아 태평양, 중동, 아프리카
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))
 - Boston Scientific Corporation(US, [BSX](/company-analysis/bsx/))

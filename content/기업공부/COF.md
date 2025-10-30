@@ -20,11 +20,17 @@ weight: 212
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Capital One Financial Corporation은 신용카드사로 다양한 금융 제품과 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - **신용카드**: Visa 및 Mastercard 신용카드 발급
 - **은행업무**: 체크 및 저축 계좌, 대출 서비스
 - **자동차 금융**: 자동차 대출 및 리스 서비스
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 
@@ -32,6 +38,8 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
     - **소비자 금융**: Capital One의 신용카드 및 대출 서비스를 사용하는 주요 산업. 주요 기업: Discover Financial Services (미국, [DFS](/company-analysis/dfs/)), American Express (미국, [AXP](/company-analysis/axp/)).
 - **후방산업**:
     - **금융 기술**: Capital One의 금융 서비스 제공에 필요한 기술을 공급. 주요 기업: Fiserv (미국, FISV), Jack Henry & Associates (미국, JKHY).
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -51,6 +59,8 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
     - **미국**: 매출 비중 100% (2023년 기준)
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/))**: 신용카드 및 대출 서비스
 - **American Express (미국, [AXP](/company-analysis/axp/))**: 프리미엄 신용카드 및 금융 서비스

@@ -174,6 +174,8 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 **타운스퀘어 이그나이트 (디지털 광고):** 프로그래매틱 광고 및 웹사이트 광고 서비스, 매출 비중 35% (2024년 기준), 관련 경쟁사 Google, [META](/company-analysis/meta/)
 
 **타운스퀘어 인터액티브 (SaaS):** 소상공인 대상 웹사이트 제작, SEO, 디지털 마케팅 솔루션, 월 평균 300달러 구독료, 관련 경쟁사 Wix, Squarespace
@@ -293,6 +295,8 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 
 **미국 중소시장 라디오 방송:** 중소규모 시장에서 상당한 점유율 보유 (구체적 수치 비공개)
 
+{{< adsense-infeed >}}
+
 **디지털 마케팅 SMB 시장:** 소상공인 대상 통합 솔루션 시장에서 성장하는 플레이어
 
 **프로그래매틱 광고:** 지역 중심 프로그래매틱 광고 시장에서 니치 플레이어
@@ -374,6 +378,8 @@ Townsquare Media는 중소규모 시장에 특화된 "로컬 퍼스트" 전략�
 - Fidelity MSCI Communication Services Index ETF - FCOM
 
 **소형주 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - iShares Russell 2000 ETF - IWM
 - Vanguard Small-Cap ETF - VB

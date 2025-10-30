@@ -24,15 +24,21 @@ PayPal은 디지털 결제 플랫폼을 운영하며, 소비자와 상인 간의
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 전자상거래 및 결제 서비스 제공
     - **관련 기업**: Square (US, [SQ](/company-analysis/sq/)), Shopify (CA, [SHOP](/company-analysis/shop/)), eBay Inc. (미국, [EBAY](/company-analysis/ebay/))
 
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 금융 데이터 처리 및 보안 솔루션, 데이터센터 제공
     - **관련 기업**: FIS (US, FIS), Mastercard (US, [MA](/company-analysis/ma/)),  Amazon Web Services (미국, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 

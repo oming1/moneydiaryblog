@@ -22,10 +22,14 @@ weight: 230
 
 Crane Holdings는 엔지니어링된 산업 제품을 제조하는 다각화된 기업으로, 항공 우주 및 전자, 프로세스 흐름 기술, 결제 및 상업 기술, 엔지니어링 재료 등 다양한 분야에서 활동하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 항공 우주 및 방산, 화학 및 석유화학
     - **역할**: 최종 소비자에게 고품질 제품 및 솔루션 제공
     - **주요 기업**: Honeywell International (미국, [HON](/company-analysis/hon/)), Emerson Electric (미국, [EMR](/company-analysis/emr/))
@@ -74,6 +78,8 @@ Crane Holdings는 엔지니어링된 산업 제품을 제조하는 다각화된 
 
 Crane Holdings는 북미(특히 미국)에서 주요 매출을 올리고 있으며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - **Honeywell International** (미국, [HON](/company-analysis/hon/)) - 경쟁 제품: 다양한 산업용 솔루션
@@ -82,6 +88,8 @@ Crane Holdings는 북미(특히 미국)에서 주요 매출을 올리고 있으�
 ## 산업 내 글로벌 시장 점유율
 
 Crane Holdings는 글로벌 산업 기계 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

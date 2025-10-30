@@ -44,23 +44,31 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 ## 전방산업:
 
 1. 의류 제조: 스포츠웨어, 일상복 등 생산
-    
+
+{{< adsense-infeed >}}
+
     - Nike(US, [NKE](/company-analysis/nke/)), Adidas(DE, [ADS](/company-analysis/ads/))
     
 2. 자동차 내장재: 자동차 시트, 카펫 등 제조
     
     - Lear Corporation(US, [LEA](/company-analysis/lea/))
-    
+
+{{< adsense-infeed >}}
+
 3. 가정용품: 카펫, 커튼 등 생활용품 생산
     
     - Mohawk Industries(US, [MHK](/company-analysis/mhk/))
+
+{{< adsense-infeed >}}
 
 ## 후방산업:
 
 1. 석유화학: 폴리에스터, 나일론 원료 공급
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
-    
+
+{{< adsense-infeed >}}
+
 2. 플라스틱 재활용: PET 병 등 재활용 원료 공급
     
     - Waste Management(US, [WM](/company-analysis/wm/))
@@ -88,6 +96,8 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 3. 가정용품 제조업체
 4. 산업용 섬유 제조업체
 5. 의료용 섬유 제조업체
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

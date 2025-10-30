@@ -22,6 +22,8 @@ Industry: 식품 제품(Food Products)
 
 Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 비스킷 및 쿠키
 2. 초콜릿
 3. 껌 및 캔디
@@ -52,6 +54,8 @@ Mondelez International은 전 세계 150개국 이상에서 사업을 영위하�
 4. Ferrero Group (비상장) - 초콜릿, 과자류
 5. Kellogg Company (US, [K](/company-analysis/k/)) - 과자, 시리얼
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Mondelez International은 비스킷(쿠키 및 크래커) 부문에서 세계 1위, 초콜릿 부문에서 세계 2위를 차지하고 있습니다
@@ -65,5 +69,7 @@ Mondelez International은 전 세계 150개국 이상에서 사업을 영위하�
 5. 지속가능성 및 책임 있는 소싱 강화 노력 (2022-2024년)
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

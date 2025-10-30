@@ -48,16 +48,22 @@ Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Madrigal Pharmaceuticals(US, MDGL) - MASH 치료제 개발
 - 89bio(US, ETNB) - FGF21 유사체 개발
 - Inventiva(FR, IVA) - MASH 치료제 개발
 - Intercept Pharmaceuticals(US, ICPT) - MASH 치료제 개발
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
 Akero Therapeutics는 아직 제품 출시 전 단계로, 정확한 시장 점유율 데이터는 없습니다. 그러나 MASH 치료제 개발 분야에서 선도적인 위치를 차지하고 있으며, 특히 간경변 개선 효과에서 경쟁 우위를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - SYMMETRY 2b상 96주 결과 발표, 간경변 개선 효과 입증 (2025년)
 - SYNCHRONY 3상 임상시험 개시 (2024년)

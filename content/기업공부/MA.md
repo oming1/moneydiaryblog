@@ -22,6 +22,8 @@ weight: 542
 
 **전방산업**
 
+{{< adsense-infeed >}}
+
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 비자 (미국, [V](/company-analysis/v/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
 
@@ -33,7 +35,9 @@ weight: 542
 **밸류체인**
 
 1. **고객 유치 및 마케팅 (Customer Acquisition and Marketing):**
-    
+
+{{< adsense-infeed >}}
+
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
     - **WPP (영국, WPP)**: 광고 및 PR 서비스.
 2. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
@@ -70,9 +74,13 @@ weight: 542
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/)):** 신용카드 및 금융 서비스.
 - **PayPal (미국, [PYPL](/company-analysis/pypl/)):** 온라인 결제 솔루션.
 
+{{< adsense-infeed >}}
+
 **산업 내 글로벌 시장 점유율**
 
 - Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

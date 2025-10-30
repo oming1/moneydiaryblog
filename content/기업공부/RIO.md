@@ -28,7 +28,9 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
     
     - **핵심 산업 및 역할**: 금속 및 광물의 제조 및 판매
     - **관련 기업**: BHP Group (AU, [BHP](/company-analysis/bhp/)), Vale S.A. (BR, [Vale](/company-analysis/vale/))
-    
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 원자재 공급 및 장비 제조
@@ -41,11 +43,15 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
     - **대표 회사**: Barrick Gold Corporation (CA, ABX) - 금속 탐사 및 개발
     - **대표 회사**: Newmont Corporation (US, [NEM](/company-analysis/nem/)) - 금속 탐사 및 개발
 - **채굴 및 가공**: 금속 및 광물의 채굴 및 가공
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Anglo American plc (UK, [AAL](/company-analysis/aal/)) - 금속 및 광물 채굴
     - **대표 회사**: Freeport-McMoRan Inc. (US, [FCX](/company-analysis/fcx/)) - 구리 및 금 채굴
 - **유통 및 판매**: 제품의 유통 및 판매
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Glencore plc (CH, [GLEN](/company-analysis/glen/)) - 금속 및 원자재 유통
     - **대표 회사**: Trafigura Group Pte Ltd (SG, 비상장) - 원자재 유통
 
@@ -64,9 +70,13 @@ Rio Tinto는 전 세계적으로 운영되며, 주요 시장은 아시아, 유�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 금속 및 광물 채굴
 - **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
 - **Glencore plc (CH, [GLEN](/company-analysis/glen/))** - 금속 및 원자재 유통
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

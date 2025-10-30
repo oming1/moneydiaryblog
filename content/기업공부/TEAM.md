@@ -44,6 +44,8 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 소프트웨어 개발: Microsoft(US, [MSFT](/company-analysis/msft/)), Oracle(US, [ORCL](/company-analysis/orcl/))
 - IT 서비스 관리: ServiceNow(US, [NOW](/company-analysis/now/)), BMC Software
 - 엔터프라이즈 협업: Slack(US, [CRM](/company-analysis/crm/)), Microsoft Teams(US, [MSFT](/company-analysis/msft/))
@@ -84,6 +86,8 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Microsoft(US, [MSFT](/company-analysis/msft/)): Azure DevOps, GitHub
 - GitLab(US, [GTLB](/company-analysis/gtlb/)): DevOps 플랫폼
 - Asana(US, [ASAN](/company-analysis/asan/)): 프로젝트 관리 소프트웨어
@@ -101,6 +105,8 @@ Atlassian은 2024년 기준 글로벌 협업 소프트웨어 시장에서 약 15
 - 클라우드 마이그레이션 가속화: 클라우드 고객 수 50% 증가 달성 (2023년)
 - ESG 목표 강화: 2040년까지 넷제로 배출 달성 계획 발표 (2022년)
 - Point A 프로그램을 통한 신규 제품 혁신 가속화 (2022-2024년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

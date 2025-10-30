@@ -25,9 +25,13 @@ weight: 941
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Viasat, Inc.는 미국 캘리포니아주 칼스배드에 본사를 두고 있는 글로벌 통신 회사로, 고속 위성 인터넷 서비스와 보안 네트워킹 시스템을 제공합니다. Viasat는 군사 및 상업 시장을 대상으로 하며, 위성 기반의 인터넷 서비스, 모바일 및 고정 브로드밴드 서비스, 사이버 보안 솔루션 등을 제공합니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     
@@ -41,6 +45,8 @@ Viasat, Inc.는 미국 캘리포니아주 칼스배드에 본사를 두고 있�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **위성 통신 기술 개발**: 고속 데이터 전송을 위한 위성 시스템 개발
     
     - **대표 회사**: Intelsat (LU, [I](/company-analysis/i/)), Eutelsat (FR, ETL.PA)
@@ -49,7 +55,9 @@ Viasat, Inc.는 미국 캘리포니아주 칼스배드에 본사를 두고 있�
     
     - **대표 회사**: Starlink (SpaceX, US, 비상장) - 위성 인터넷 서비스
     - **대표 회사**: Iridium Communications (US, [IRDM](/company-analysis/irdm/)) - 위성 통신 서비스
-    
+
+{{< adsense-infeed >}}
+
 - **고객 지원 및 서비스**: 고객을 위한 기술 지원 및 서비스 제공
     
     - **대표 회사**: Verizon (US, [VZ](/company-analysis/vz/)) - 통신 서비스 제공
@@ -61,6 +69,8 @@ Viasat, Inc.는 미국 캘리포니아주 칼스배드에 본사를 두고 있�
 - **사이버 보안 솔루션**
 - **위성 통신 시스템**
 - **항공기 및 군사 통신 시스템**
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

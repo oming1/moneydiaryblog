@@ -24,10 +24,14 @@ Canadian Solar Inc.는 [태양광](/industry-study/태양광/) 모듈, 시스템
 
 ## 주요제품 및 서비스
 
+{{< adsense-infeed >}}
+
 - 태양광 모듈
 - 태양광 발전 시스템
 - 배터리 저장 솔루션([ESS](/industry-study/ess/))
 - 태양광 프로젝트 개발 및 EPC 서비스
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -35,12 +39,18 @@ Canadian Solar Inc.는 [태양광](/industry-study/태양광/) 모듈, 시스템
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - First Solar(US, [FSLR](/company-analysis/fslr/))
 - JinkoSolar(중국, [JKS](/company-analysis/jks/))
 - SunPower(US, [SPWR](/company-analysis/spwr/))
 - Trina Solar(중국)
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 태양광 모듈 생산 능력 확대
 - 배터리 저장 솔루션 사업 강화

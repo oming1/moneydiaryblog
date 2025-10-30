@@ -25,7 +25,9 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 항공우주 및 방산 서비스
     - **역할**: 최종 소비자에게 고급 기술 솔루션 제공
     - **주요 기업**: Honeywell International (미국, [HON](/company-analysis/hon/)), Raytheon Technologies (미국, [RTX](/company-analysis/rtx/))
@@ -54,11 +56,15 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
     
     - 항공기 엔진의 성능과 효율성을 높이는 데 사용됩니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **산업용 엔진 제어 시스템**:
     
     - 다양한 산업에서 사용되는 엔진의 성능을 관리합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 
@@ -70,6 +76,8 @@ Woodward는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 �
 - **General Electric** (미국, [GE](/company-analysis/ge/)) - 경쟁 제품: 항공기 엔진 및 관련 기술
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Woodward는 글로벌 항공우주 및 방산 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 

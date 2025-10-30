@@ -24,6 +24,8 @@ weight: 569
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ### 후방산업
 
 - 원자재 공급: 목재, 석유화학 제품 등 공급 (예: 웨어하우저 컴퍼니(US, WY), 다우(US, [DOW](/company-analysis/dow/)))
@@ -36,12 +38,16 @@ weight: 569
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 원자재 조달: 웨어하우저 컴퍼니(US, WY) (목재), 다우(US, [DOW](/company-analysis/dow/)) (화학 원료)
 2. 제품 설계 및 제조: 모호크 인더스트리즈(US, [MHK](/company-analysis/mhk/))
 3. 유통 및 판매: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/))
 4. 설치 및 시공: 플로어 앤 데코(벨기에, FND) (바닥재 전문 유통 및 설치)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 카펫 및 러그 (매출 비중 약 35%, 2022년 기준)
 - 세라믹 타일 (매출 비중 약 25%)
@@ -62,7 +68,11 @@ weight: 569
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, 모호크는 북미 바닥재 시장에서 선두 기업 중 하나로 평가받고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -30,6 +30,8 @@ Industry: Tobacco ([담배](/industry-study/담배/))
 
 Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabushiki gaisha)는 1985년에 설립된 일본의 다국적 담배 회사입니다. 본사는 도쿄에 위치하고 있으며, 일본 내 담배 시장에서 주요한 위치를 차지하고 있습니다. JT는 담배 외에도 제약 및 식품 사업에 진출하여 다각화된 포트폴리오를 보유하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 - 담배 제품의 제조 및 판매
@@ -39,6 +41,8 @@ Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabu
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 담배 제품 구매
 - 주요 고객: 개인 소비자, 소매업체, 도매업체
@@ -70,6 +74,8 @@ Japan Tobacco는 일본을 포함하여 전 세계 120개국에서 제품을 판
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Philip Morris International (US, [PM](/company-analysis/pm/))
 - British American Tobacco (UK, [BATS](/company-analysis/bats/))
 
@@ -87,5 +93,7 @@ Japan Tobacco는 세계 담배 시장에서 약 9%의 점유율을 보유하고 
 [Japan Tobacco - Wikipedia](https://en.wikipedia.org/wiki/Japan_Tobacco)
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

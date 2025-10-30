@@ -38,12 +38,18 @@ American Resources Corporation은 인프라 및 전기화 시장을 위한 친�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 광물 추출 및 가공:
     
     - 야금용 탄소 및 희토류 광물 채굴 및 가공
-    
+
+{{< adsense-infeed >}}
+
 - 재활용:
-    
+
+{{< adsense-infeed >}}
+
     - 금속 재활용 처리
 
 ## 주요 제품
@@ -55,6 +61,8 @@ American Resources Corporation은 인프라 및 전기화 시장을 위한 친�
 ## 주요 판매 국가
 
 미국을 중심으로 글로벌 시장에 공급
+
+{{< adsense-infeed >}}
 
 ## 경쟁사
 

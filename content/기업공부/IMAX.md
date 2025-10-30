@@ -20,6 +20,8 @@ weight: 439
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 IMAX Corporation은 엔터테인먼트 기술 기업으로, 주요 사업 부문은 다음과 같습니다:
 
 1. 콘텐츠 솔루션(Content Solutions):
@@ -40,6 +42,8 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 ## 전방/후방산업
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 영화 제작사: Warner Bros. (US, [WBD](/company-analysis/wbd/)), Disney (US, [DIS](/company-analysis/dis/))
 - 영화관 체인: AMC Entertainment (US, [AMC](/company-analysis/amc/)), Cinemark (US, CNK)
@@ -67,6 +71,8 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 북미, 서유럽, 아시아, 라틴아메리카를 중심으로 전 세계 80개국 이상에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
@@ -76,6 +82,8 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 3. Cinemark (US, CNK) (XD 극장 기술)
 4. AMC Theatres (US, [AMC](/company-analysis/amc/)) (Dolby Cinema 파트너십)
 5. ScreenX (CJ CGV 자회사) (멀티 프로젝션 기술)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

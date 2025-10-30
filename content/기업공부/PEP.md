@@ -20,6 +20,8 @@ weight: 681
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 및 판매하는 글로벌 기업입니다. 주요 사업 부문은 Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, Asia Pacific, Australia and New Zealand 및 China Region으로 나뉩니다.
 
 #### 전방/후방산업
@@ -32,7 +34,11 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
     - **농업**: 원료 공급업체 (예: Archer Daniels Midland (US, ADM), Bunge Limited (US, BG))
     - **포장재**: 포장재 제조업체 (예: International Paper (US, [IP](/company-analysis/ip/)), WestRock (US, WRK))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원자재 조달**: 농업 원료 및 포장재 공급업체 (예: Archer Daniels Midland (US, ADM), International Paper (US, [IP](/company-analysis/ip/)))
 - **제조 및 생산**: 음료 및 간편식품 제조업체 (예: PepsiCo 자체 생산)

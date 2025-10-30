@@ -20,6 +20,8 @@ weight: 459
 **섹터(Sector):** Technology - 테크  
 **산업(Industry):** Data Processing & Outsourced Services - 데이터 처리 및 아웃소싱 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 4. 영위사업 (10줄 이상 상세 서술)
@@ -48,7 +50,11 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 - 비트코인 네트워크: 채굴 보상을 통한 비트코인 획득 후 현금 전환
 - AI 클라우드 고객: Poolside 등 AI 스타트업 및 기업 고객
 
+{{< adsense-infeed >}}
+
 **지역별 매출 분포:**
+
+{{< adsense-infeed >}}
 
 - 북미 지역: 100% (주요 운영 기지는 텍사스, 브리티시컬럼비아)
 
@@ -116,6 +122,8 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 - 연구기관: 고성능 컴퓨팅이 필요한 연구 프로젝트
 
 **후방산업 (공급업체 및 서비스 제공업체):**
+
+{{< adsense-infeed >}}
 
 - ASIC 제조업체: Bitmain(CN, Bitmain) - Antminer 시리즈 공급
 - GPU 제조업체: NVIDIA(US, [NVDA](/company-analysis/nvda/)) - H100, H200, 블랙웰 GPU 공급
@@ -240,6 +248,8 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 - BITQ - Amplify Transformational Data Sharing ETF [BITQ](/company-analysis/bitq/)
 
 **섹터 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - BLOK - Amplify Transformational Data Sharing ETF BLOK
 - XLK - Technology Select Sector SPDR Fund XLK

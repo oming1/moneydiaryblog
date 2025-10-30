@@ -31,7 +31,11 @@ Waste Connections Inc.는 미국과 캐나다에서 환경 서비스를 제공�
     - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)))
     - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, BAS))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)), BASF (DE, BAS))
 - **제품 제조**: 폐기물 수거 및 처리 시스템 제조 (Waste Connections Inc.)
@@ -39,6 +43,8 @@ Waste Connections Inc.는 미국과 캐나다에서 환경 서비스를 제공�
 - **서비스 제공**: 폐기물 수거, 운송, 처리 및 재활용 서비스 제공 (Waste Connections Inc.)
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **폐기물 수거 서비스**: 주거, 상업, 산업 및 지방 자치 단체 고객을 위한 폐기물 수거 서비스
 - **재활용 서비스**: 종이, 유리, 금속, 플라스틱 등의 재활용 서비스

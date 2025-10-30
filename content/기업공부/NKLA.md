@@ -28,6 +28,8 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 물류 및 운송업체: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
@@ -44,6 +46,8 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - **Nikola Tre FCEV:** 수소 연료 전지 전기 트럭 (매출 비중: 2023년 기준 30%)
 - **충전 솔루션:** BEV 및 FCEV 고객을 위한 충전 솔루션(수소충전소) (매출 비중: 2023년 기준 10%)
 
+{{< adsense-infeed >}}
+
 ### 주요 판매국가
 
 - 미국 (주요 매출 국가)
@@ -56,9 +60,13 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - **General Motors (US, [GM](/company-analysis/gm/)):** 자동차 제조 (시장 점유율 15%)
 - **Ford Motor Company (US, [F](/company-analysis/f/)):** 자동차 제조 (시장 점유율 10%)
 
+{{< adsense-infeed >}}
+
 ### 산업 내 글로벌 시장 점유율
 
 Nikola Corporation의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

@@ -27,7 +27,9 @@ CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다
 
 CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](Pasted%20image%2020250626172221.png)40438.png))
 1) Direct order
-   
+
+{{< adsense-infeed >}}
+
    Direct order 방식은 [광고주와 플랫폼(퍼블리셔)이 미리 가격과 물량을 확정]한다. 광고주 중 주요 인벤토리를 보장받고 싶은 경우 이러한 계약을 체결한다. 예를 들어 슈퍼볼 메인 광고의 경우 워낙 광고 효과가 크기 때문에 광고주는 미리 플랫폼과 광고 협의를 한다. Direct order는 Ad-tech 기업의 기여도가 낮으므로 수수료 마진이 낮다.
    
 2) [PG](/company-analysis/pg/)(Programmatic Guaranteed, 프로그래매틱 보장 거래), 
@@ -37,13 +39,21 @@ CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](Pasted%20ima
 3) PMP (Private Marketplace, 비공개 마켓플레이스), 
    
    PMP는 플랫폼이 [일부 광고주만을 대상으로 경매를 제공하는 방식]이다. 광고주는 경쟁 입찰을 통해 인벤토리를 확보한다. 실시간 입찰 등 Ad-tech 역할이 늘어나므로 Ad-tech 기업은 Direct order, PG보다는 높은 수수료를 수취할 수 있다.
-   
+
+{{< adsense-infeed >}}
+
 4) Open Biddable (공개입찰, Real-Time Bidding)이다.
-   
+
+{{< adsense-infeed >}}
+
    Open Biddable은 광고주가 실시간 경매 방식으로 입찰해서 광고를 구매하는 것이다. 이 과정에서 광고주는 Ad-tech 기업을 활용하여 실시간 입찰을 한다. 이 경우 Ad-tech의 역할이 늘어나므로 높은 수수료를 얻을 수 있다. 
-   
+
+{{< adsense-infeed >}}
+
    다만 광고주 입장에서는 광고 효과에 대한 안전성이 낮은 편이다. 낮은 CPM (광고 단가)과 잔여 인벤토리가 주를 이루고 있다. 
    
    예를 들어 스포츠 경기의 후반부, 시청률이 낮은 프로그램 등의 광고다. 
+
+{{< adsense-infeed >}}
 
 Open Biddable (공개입찰)로 갈수록 CTV에서 Ad-tech 기업들의 역할이 늘어나므로 많은 수수료를 수취할 수 있고, Direct order의 경우에는 최소한의 수수료만을 수취한다.

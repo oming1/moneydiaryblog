@@ -20,6 +20,8 @@ FuelCell Energy, Inc.(FCEL)는 청정 에너지 기술 분야의 글로벌 리�
 섹터: 산업재(Industrials)  
 산업: 전기 장비(Electrical Equipment)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조, 설치, 운영 및 유지보수하는 통합 연료전지 기업입니다
@@ -33,6 +35,8 @@ FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조,
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 한국, 독일, 스페인, 영국, 캐나다
 
 ## 경쟁업체
@@ -42,6 +46,8 @@ FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조,
 - Ballard Power Systems([BLDP](/company-analysis/bldp/))
 
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 세계 최대 규모의 연료전지 발전소인 경기그린에너지와 연료전지 모듈 공급 및 서비스 계약 체결
 - Toyota와 함께 세계 최초의 Tri-gen 생산 시스템 완성 발표

@@ -39,6 +39,8 @@ CYH는 미국 15개 주에 걸쳐 70개의 병원을 운영하고 있으며, 1,0
 
 Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 광범위한 지리적 다각화: 15개 주에 걸친 병원 네트워크를 통해 리스크를 분산하고 다양한 시장에 접근할 수 있습니다.
 2. 규모의 경제: 대규모 병원 네트워크를 통해 운영 효율성과 비용 절감을 실현합니다.
 3. 지역 사회 중심 접근: 중소 도시와 농촌 지역에 특화된 서비스로 틈새 시장을 공략합니다.
@@ -49,8 +51,12 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료 IT: Cerner Corporation
@@ -87,11 +93,15 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 4. 기업 건강보험 가입자
 5. 지역 사회 주민
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Community Health Systems는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. HCA Healthcare (US, [HCA](/company-analysis/hca/))
 2. Tenet Healthcare (US, [THC](/company-analysis/thc/))

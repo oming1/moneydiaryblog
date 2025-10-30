@@ -24,6 +24,8 @@ Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 원자재 공급: 광물, 목재, 금속 등 (예: 알코아(US, [AA](/company-analysis/aa/)), 뉴코어(US, [NUE](/company-analysis/nue/)))
@@ -36,12 +38,16 @@ Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 원자재 조달: 알코아(US, [AA](/company-analysis/aa/)) (알루미늄), 뉴코어(US, [NUE](/company-analysis/nue/)) (철강)
 2. 제품 설계 및 제조: Armstrong World Industries(US, [AWI](/company-analysis/awi/))
 3. 유통 및 판매: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/))
 4. 설치 및 시공: 전문 건설업체 및 계약업자
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 천장 시스템 (타일, 패널, 서스펜션 시스템)
 - 벽면 시스템 (패널, 타일)
@@ -53,6 +59,8 @@ Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와
 - 미국 (주요 시장)
 - 캐나다
 - 라틴 아메리카
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

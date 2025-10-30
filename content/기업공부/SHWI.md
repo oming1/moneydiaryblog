@@ -24,6 +24,8 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 원자재 공급: 나일론, 폴리에스터 등 합성섬유 (예: 인비스타(Koch Industries 자회사))
@@ -63,11 +65,17 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 타켓트(프랑스, [TKTT](/company-analysis/tktt/)) (비닐 바닥재, 카펫)
 - 암스트롱 월드 인더스트리즈(US, [AWI](/company-analysis/awi/)) (천장재, 바닥재)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Shaw Industries Group은 북미 바닥재 시장에서 주요 기업 중 하나로 평가받고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 지속가능성 이니셔티브 강화 및 재활용 소재 사용 확대 (2022)
 - 디지털 혁신 및 고객 경험 개선을 위한 기술 투자 (2023)

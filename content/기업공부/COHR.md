@@ -93,6 +93,8 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 
 전방산업 (제품 사용 산업):
 
+{{< adsense-infeed >}}
+
 - 삼성전자(KR) – 반도체 웨이퍼 패터닝
 - Bosch(DE, BOSCHLTD.DE) – 자동차 부품 레이저 용접
 - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)) – 연구용 레이저 시스템
@@ -176,6 +178,8 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - **성장 동력**: 반도체·전기차용 정밀 가공 수요, 의료·과학 연구용 레이저 수요 증가
 - **위험 요소**: 반도체 사이클 변동, 공급망 리스크, 환율 변동
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 최근 3년 내 주요 이슈
@@ -183,6 +187,8 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - 2024년: Gap Fiber C Series 신제품 출시, 산업용 24kW급 레이저 시장 진출
 - 2023년: II-VI Incorporated와 합병 통합 완료 후 생산 효율 15% 개선
 - 2022년: 광학 부품 생산 시설 증설, 초단펄스 라인업 확대
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -199,6 +205,8 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 ### 관련 ETF
 
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - SOXX – iShares PHLX Semiconductor Sector ETF SOXX
 - XSD – SPDR S&P Semiconductor ETF XSD

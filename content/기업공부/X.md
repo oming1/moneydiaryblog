@@ -46,17 +46,25 @@ weight: 983
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (독일, 영국, 프랑스 등)
 - **아시아:** 주요 매출 국가 (중국, 일본, 한국 등)
 
 #### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **ArcelorMittal (LU, [MT](/company-analysis/mt/)):** 글로벌 철강 제조업체
 - **Nucor Corporation (US, [NUE](/company-analysis/nue/)):** 미국 철강 제조업체
 - **Cleveland-Cliffs Inc. (US, [CLF](/company-analysis/clf/)):** 미국 철강 제조업체
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **철강 산업 시장 점유율:** 약 5% (2024년 기준)
 

@@ -119,7 +119,11 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 
 - 정부·프라임과의 신뢰: 수십 년간 제약 조건을 맞추며 무결점 공급 → 전환 비용·리스크가 높아 대체 어렵다
 
+{{< adsense-infeed >}}
+
 - 프로그램 관리 능력: 다년·다부처 계약, 보안·규제·원가·공정을 동시에 관리하는 조직 DNA
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -240,6 +244,8 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 ### 주된 영향을 미치는 원자재
 
 - 우라늄/HALEU: 연료 원자재, 주요 공급지 북미/유럽 – Centrus Energy(US, [LEU](/company-analysis/leu/)), Cameco(CA, [CCJ](/company-analysis/ccj/))
+
+{{< adsense-infeed >}}
 
 - 지르코늄/특수합금(연료 피복·원자로 소재): 미국/일본/유럽 – Allegheny Technologies(US, ATI), Carpenter Tech(US, [CRS](/company-analysis/crs/)), JSW(JP, 5631.T)
 

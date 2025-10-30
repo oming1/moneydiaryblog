@@ -94,6 +94,8 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. REC-617: CDK7 억제제, 고형암 치료제 (임상 1상)
     
 2. REC-994: 뇌혈관기형(CCM) 치료제 (임상 2상)
@@ -120,6 +122,8 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 
 미국을 중심으로 글로벌 시장을 대상으로 하고 있으나, 현재는 대부분의 제품이 임상 단계에 있어 실제 판매는 이루어지지 않고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. Exscientia(US, [EXAI](/company-analysis/exai/)): AI 기반 신약 개발
@@ -131,6 +135,8 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 4. Schrödinger(US, [SDGR](/company-analysis/sdgr/)): 컴퓨터 지원 약물 설계
     
 5. Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)): 단백질 동역학 기반 신약 개발
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -176,6 +182,8 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 3. Roche-Genentech와의 협력 확대, 최대 120억 달러 규모의 계약 체결 (2022)
 4. NVIDIA와의 전략적 파트너십 체결, AI 인프라 강화 (2022)
 5. 코로나19 치료제 개발 프로그램 종료 (2021)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

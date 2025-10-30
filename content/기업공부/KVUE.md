@@ -28,6 +28,8 @@ weight: 499
     - **핵심 산업 및 역할**: 원재료 공급업체는 제품 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: International Paper Company (미국, [IP](/company-analysis/ip/)), WestRock Company (미국, WRK)
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **원재료 조달**: 제품 제조에 필요한 원재료 조달
@@ -38,6 +40,8 @@ weight: 499
     - **대표 회사**: United Parcel Service Inc. (미국, [UPS](/company-analysis/ups/)), FedEx Corporation (미국, [FDX](/company-analysis/fdx/))
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **스킨케어**: Neutrogena, Aveeno
 - **구강 관리**: Listerine
@@ -61,6 +65,8 @@ weight: 499
 - **Kenvue**: 글로벌 소비재 건강 관리 시장에서 약 10%의 점유율 (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **스핀오프 및 IPO**: Johnson & Johnson의 소비자 건강 부문에서 분사 및 상장 (2023년)
 - **디지털 전환**: 온라인 판매 채널 강화 (2023년)

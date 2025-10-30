@@ -20,12 +20,16 @@ weight: 424
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 상품과 관련 서비스를 제공합니다. 주요 사업 영역은 메디케어 어드밴티지 플랜, 처방약 보험, 상업용 건강보험 등입니다.
 
 ## 전방/후방산업
 
 - 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 의료 서비스 제공자, 약국
     - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
     
@@ -58,6 +62,8 @@ Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 �
 - Anthem (US, [ANTM](/company-analysis/antm/)) - 블루크로스 블루실드 보험
 - Cigna (US, [CI](/company-analysis/ci/)) - 글로벌 건강 서비스 회사
 - Aetna (CVS Health의 자회사) - 종합 건강보험
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

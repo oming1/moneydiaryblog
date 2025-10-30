@@ -62,6 +62,8 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 유럽, 중동 및 아프리카(EMEA), 미주, 아시아 태평양 지역
 
 ## 경쟁업체
@@ -76,6 +78,8 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 
 STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 점유율을 보유하고 있으며, 유럽 최대의 반도체 기업으로서의 위상을 유지하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 1. 자동차 및 산업용 반도체 수요 증가로 인한 매출 성장 (2022-2024)
@@ -86,10 +90,14 @@ STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. Bpifrance Participations S.A. (11.1%)
 2. Cassa Depositi e Prestiti S.p.A. (10.1%)
 3. BlackRock Inc. (5.8%)
 4. Vanguard Group Inc. (3.2%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 
@@ -98,6 +106,8 @@ STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 
 3. SPDR S&P Semiconductor ETF - XSD
 4. Invesco PHLX Semiconductor ETF - SOXQ
 5. Direxion Daily Semiconductor Bull 3X Shares - SOXL
+
+{{< adsense-infeed >}}
 
 공유
 

@@ -20,15 +20,21 @@ Industry: Software - Application (소프트웨어 - 애플리케이션)
 
 ## 회사 개요
 
+{{< adsense-infeed >}}
+
 Salesforce, Inc.는 고객 관계 관리(CRM) 소프트웨어의 선두주자로, [클라우드](/industry-study/2산업클라우드/) 기반의 다양한 비즈니스 솔루션을 제공합니다. 1999년에 설립된 Salesforce는 기업들이 고객과의 관계를 개선하고, 판매 및 마케팅 프로세스를 최적화할 수 있도록 돕습니다.
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 솔루션을 제공하며, 고객 데이터 관리, 마케팅 자동화, 고객 서비스, 분석 및 AI 기반의 기능을 포함한 포괄적인 플랫폼을 운영합니다.
 
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: CRM 솔루션 사용
 - 금융 서비스: JPMorgan Chase (US, [JPM](/company-analysis/jpm/))
@@ -41,6 +47,8 @@ Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 
 - 통신 서비스: Twilio (US, [TWLO](/company-analysis/twlo/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Salesforce Sales Cloud (판매 관리 및 자동화, 매출 비중: 약 30%, 2023년 기준)
 - Salesforce Service Cloud (고객 서비스 관리, 매출 비중: 약 25%, 2023년 기준)
@@ -57,6 +65,8 @@ Salesforce는 전 세계적으로 운영되며, 주요 시장은 다음과 같�
 - 기타: 약 5%
 
 ## 주요 자산
+
+{{< adsense-infeed >}}
 
 - 클라우드 인프라: Salesforce 플랫폼을 지원하는 데이터 센터 및 서버
 - 지적 재산권: 다양한 소프트웨어 및 기술에 대한 특허

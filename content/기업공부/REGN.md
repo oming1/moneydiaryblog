@@ -20,6 +20,8 @@ weight: 740
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발견, 개발, 제조 및 상업화하는 생명공학 회사입니다. 주요 제품으로는 EYLEA (습성 연령 관련 황반변성 및 당뇨병성 황반부종 치료), Dupixent (아토피 피부염 및 천식 치료), Libtayo (전이성 또는 국소 진행성 피부 편평세포암 치료), Praluent (이형 가족성 고콜레스테롤혈증 및 임상적 동맥경화성 심혈관 질환 치료) 등이 있습니다.
 
 #### 전방/후방산업
@@ -33,12 +35,16 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **연구 및 개발:** Regeneron은 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
     - **대표 회사:** Sanofi (프랑스, [SAN](/company-analysis/san/)), Bayer (독일, BAYN)
 - **제조:** 고품질의 의약품을 제조합니다.
     - **대표 회사:** Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 - **유통:** 글로벌 시장에 의약품을 유통합니다.
     - **대표 회사:** McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 

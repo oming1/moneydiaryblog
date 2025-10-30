@@ -36,6 +36,8 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
     
 6. 서비스: FlightSafety International, NetJets 등의 서비스 사업
 
+{{< adsense-infeed >}}
+
 또한 Apple, Bank of America, Coca-Cola 등 우량 기업들의 지분을 대규모로 보유하고 있습니다. 2024년 기준 시가총액은 1조 달러를 넘어섰으며, 195명의 직원을 고용하고 있습니다.
 
 ## 핵심 경쟁력
@@ -45,7 +47,9 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 2. 장기 가치 투자: 우량 기업에 장기 투자하여 안정적인 수익 창출
     
 3. 자율적 경영 구조: 자회사의 독립적 운영을 통한 효율성 극대화
-    
+
+{{< adsense-infeed >}}
+
 4. 풍부한 현금 유동성: 대규모 현금 보유로 투자 기회에 신속 대응 가능
     
 5. 보험 사업의 플로트 활용: 보험료 수입을 투자 자금으로 활용
@@ -127,7 +131,9 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 ## 주요주주(지분율)
 
 1. Warren Buffett (38.4% of Class A shares)
-    
+
+{{< adsense-infeed >}}
+
 2. The Vanguard Group (7.2%)
     
 3. BlackRock (6.5%)

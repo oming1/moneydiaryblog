@@ -153,6 +153,8 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 
 **유통 및 판매 단계:**
 
+{{< adsense-infeed >}}
+
 - Walmart(US, [WMT](/company-analysis/wmt/)): 최대 소매 유통 채널 (약 25% 매출 기여)
 - Kroger(US, [KR](/company-analysis/kr/)): 주요 식료품 체인 (약 15% 매출 기여)
 - US Foods(US, [USFD](/company-analysis/usfd/)): 식품 서비스 유통 (약 8% 매출 기여)
@@ -225,7 +227,9 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 **국가별 매출 비중 및 추이:**
 
 - 미국: 85.2% (2025년 기준, 3년간 -0.8%p)
-    
+
+{{< adsense-infeed >}}
+
 - 캐나다: 6.5% (2025년 기준, 3년간 +0.3%p)
     
 - 멕시코: 3.2% (2025년 기준, 3년간 +0.5%p)
@@ -259,7 +263,9 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - Hormel Foods(US, [HRL](/company-analysis/hrl/)) - 육가공 제품 및 냉장 식품 경쟁, 시장점유율 약 6%
     
 - B&G Foods(US, BGS) - 냉동 채소 및 보존 식품 경쟁, 시장점유율 약 3%
-    
+
+{{< adsense-infeed >}}
+
 - TreeHouse Foods(US, THS) - 자체 브랜드 식품 제조업체, 시장점유율 약 4%
 
 ---
@@ -315,7 +321,9 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - BlackRock: 9.48% (45.4M주)
     
 - State Street Corporation: 5.67% (27.2M주)
-    
+
+{{< adsense-infeed >}}
+
 - Capital World Investors: 3.21% (15.4M주)
     
 - Geode Capital Management: 2.15% (10.3M주)
@@ -333,7 +341,9 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - XLP - Consumer Staples Select Sector SPDR Fund XLP
     
 - VDC - Vanguard Consumer Staples ETF VDC
-    
+
+{{< adsense-infeed >}}
+
 - FSTA - Fidelity MSCI Consumer Staples Index ETF FSTA
 
 **섹터 관련 ETF:**

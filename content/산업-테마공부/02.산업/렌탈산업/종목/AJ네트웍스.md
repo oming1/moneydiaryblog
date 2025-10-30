@@ -26,14 +26,20 @@ weight: 2
 - 기업 기본정보
 	- 
 
+{{< adsense-infeed >}}
+
  - 기업전망(트렌드/향후전망)
 	- 
 
 - 비즈니스모델 / 밸류체인 / 전후방산업관계
 	- 
 
+{{< adsense-infeed >}}
+
 - 세부정보
 	- 
+
+{{< adsense-infeed >}}
 
 - 리스크요인
 	- 
@@ -45,5 +51,7 @@ weight: 2
 	- 
 
 - 전방산업: 
+
+{{< adsense-infeed >}}
 
 - 후방산업:

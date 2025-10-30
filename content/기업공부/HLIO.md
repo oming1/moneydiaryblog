@@ -28,6 +28,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 
 회사의 사업은 두 개의 주요 세그먼트로 구성됩니다: 1) 유압 세그먼트(Hydraulics) - 스크류인 유압 카트리지 밸브, 매니폴드, 통합 유체 파워 패키지 및 서브시스템을 설계 및 제조합니다. Sun Hydraulics, Faster, Custom Fluidpower, Taimi, Daman, Schultes 브랜드로 제품을 판매합니다. 2) 전자 세그먼트(Electronics) - 레크리에이션 및 오프하이웨이 차량, 고정식 및 발전 장비용 전자제어, 디스플레이, 계측 솔루션을 제공합니다. Balboa, NEM, Enovation Controls 등의 브랜드를 보유합니다.
 
+{{< adsense-infeed >}}
+
 2024년 2분기 기준 매출은 2억 2천만 달러로 전분기 대비 4% 성장했으며, 유압 부문이 2%, 전자 부문이 7% 성장했습니다. 조정 EBITDA 마진은 20% 수준을 회복하며 순차적으로 190bp 개선되었습니다. 순이익은 2,270만 달러, 희석 주당순이익은 $0.64(non-GAAP 기준)를 기록했습니다.
 
 주요 최종 시장으로는 건설, 농업, 에너지, 해양, 레크리에이션 차량, 건강 및 웰니스 분야가 있습니다. 회사는 전 세계에 제조 시설과 영업망을 보유하고 있으며, 특히 건강 및 웰니스 분야에서 강력한 이중 자릿수 성장을 보이고 있습니다.
@@ -95,6 +97,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 **전자제어 시스템 기술:** 레크리에이션 차량용 스파 및 풀 제어 시스템, 산업용 디스플레이 및 제어 장치에 특화된 전자 기술을 보유합니다. 터치스크린, IoT 연결성, 원격 모니터링 기능을 포함합니다.
 
 **시스템 통합 기술:** 고객의 특정 요구사항에 맞는 맞춤형 유압 및 전자 시스템을 설계하고 제조하는 엔지니어링 역량을 보유합니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -239,6 +243,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 
 **스파 및 웰니스 분야:**
 
+{{< adsense-infeed >}}
+
 - Gecko Alliance(CA) - 스파 전자제어 시스템 전문
 - Waterway Plastics(US) - 스파 부품 및 시스템
 - Pentair(US, [PNR](/company-analysis/pnr/)) - 수처리 및 풀 장비
@@ -305,6 +311,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 - 멕시코 Balboa 신규 생산 시설 가동으로 전자 부문 생산능력 확대
 - 호주 유압 유체 파워 솔루션 사업 매각 계약 체결
 - 1억 달러 규모 자사주 매입 프로그램 승인
+
+{{< adsense-infeed >}}
 
 **2023년:**
 

@@ -22,6 +22,8 @@ Industry: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분야에 사용되는 단백질과 효소를 개발합니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 제약 바이오촉매: 의약품 제조를 위한 효소 개발
 2. 산업용 효소 및 정밀 화학물질 생산
 3. 생물치료제용 효소 개발
@@ -36,6 +38,8 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 
 - 제약 산업: Merck & Co. (US, [MRK](/company-analysis/mrk/))
 - 식품 산업: Tate & Lyle (UK, TATE.L)
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 
@@ -58,6 +62,8 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Codexis는 글로벌 시장에서 사업을 영위하고 있으며, 2022년 기준 지역별 매출 비중은 다음과 같습니다:
 
 - 북미: 34.95%
@@ -65,6 +71,8 @@ Codexis는 글로벌 시장에서 사업을 영위하고 있으며, 2022년 기�
 - 아시아 태평양: 30.1%
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
 2. Amyris (US)
@@ -75,6 +83,8 @@ Codexis는 글로벌 시장에서 사업을 영위하고 있으며, 2022년 기�
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

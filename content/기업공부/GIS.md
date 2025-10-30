@@ -24,9 +24,13 @@ General Mills, Inc.는 1866년에 설립된 미국의 다국적 식품 제조업
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 포장식품 제조 및 마케팅
 - 곡물, 과일, 스낵, 냉동식품, 요거트 등 다양한 소비자 식품 제공
 - 건강 및 유기농 식품 시장에도 진출
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -51,6 +55,8 @@ General Mills, Inc.는 1866년에 설립된 미국의 다국적 식품 제조업
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 General Mills는 북미, 유럽, 아시아 태평양, 중동, 아프리카 및 라틴 아메리카에서 운영되고 있으며, 주요 시장은 미국과 캐나다입니다.
 
 ## 주요 자산
@@ -60,6 +66,8 @@ General Mills는 북미, 유럽, 아시아 태평양, 중동, 아프리카 및 �
 - 강력한 브랜드 포트폴리오
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Kraft Heinz Company (US, [KHC](/company-analysis/khc/)) - 포장식품 및 스낵 제조업체
 - Nestlé S.A. (CH, [NESN](/company-analysis/nesn/)) - 글로벌 식품 및 음료 기업

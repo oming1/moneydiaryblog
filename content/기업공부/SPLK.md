@@ -20,6 +20,8 @@ weight: 820
 
 **영위사업** Splunk Inc.는 데이터 분석 소프트웨어를 제공하는 회사로, 머신 데이터의 실시간 수집, 인덱싱, 분석을 통해 운영 인텔리전스를 제공합니다. 주요 제품으로는 Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 **전방산업**
 
 - **IT 운영 (IT Operations):** IT 인프라의 모니터링 및 관리. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 서비스나우 (미국, [NOW](/company-analysis/now/)).
@@ -51,6 +53,8 @@ weight: 820
 
 **주요제품**
 
+{{< adsense-infeed >}}
+
 - **Splunk Enterprise:** 머신 데이터 분석 플랫폼.
 - **Splunk Cloud:** 클라우드 기반 데이터 분석 서비스.
 - **Splunk IT Service Intelligence:** IT 운영 인텔리전스 솔루션.
@@ -73,6 +77,8 @@ weight: 820
 **산업 내 글로벌 시장 점유율**
 
 - Splunk는 글로벌 데이터 분석 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

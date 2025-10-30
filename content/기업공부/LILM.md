@@ -24,6 +24,8 @@ Lilium은 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산업항공우�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - Lilium Jet: 6인승 전기 수직 이착륙 항공기 (개발 중)
 
 ## 주요 판매국가
@@ -32,15 +34,21 @@ Lilium은 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산업항공우�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/))
 - Archer Aviation(US, [ACHR](/company-analysis/achr/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 시장 점유율 데이터는 제공되지 않았으나, Lilium은 eVTOL 시장의 주요 선두 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - SPAC 합병을 통한 나스닥 상장 (2021)
 - GE Aerospace와 eVTOL 안전 표준 개발을 위한 파트너십 체결 (2024)

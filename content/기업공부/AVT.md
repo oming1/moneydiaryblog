@@ -44,6 +44,8 @@ Avnet은 약 100,000개의 OEM, CM, ODM 고객을 대상으로 100개 이상의 
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 제조: Advanced Micro Devices (US, [AMD](/company-analysis/amd/)), Intel (US, [INTC](/company-analysis/intc/)) - 반도체 및 전자부품
 2. 유통: Avnet (주요 사업 영역)
 3. 솔루션 제공: Avnet (설계, 공급망 관리, 기술 솔루션)
@@ -51,16 +53,24 @@ Avnet은 약 100,000개의 OEM, CM, ODM 고객을 대상으로 100개 이상의 
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 반도체 (2024년 회계연도 매출 비중: 80.1%)
 2. 수동 부품 및 전자기계 부품(IP&E) (2024년 회계연도 매출 비중: 15.8%)
 3. 컴퓨터 제품 (2024년 회계연도 매출 비중: 1.6%)
 4. 기타 (테스트 및 측정, MRO 제품 등) (2024년 회계연도 매출 비중: 2.5%)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Avnet은 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아 태평양 지역에서 사업을 영위하고 있습니다. 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Arrow Electronics (US, [ARW](/company-analysis/arw/))
 2. Future Electronics (비상장)

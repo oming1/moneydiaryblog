@@ -1,4 +1,4 @@
----
+﻿---
 title: "Holtec International"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-10-29T06:50:26+09:00
@@ -57,6 +57,8 @@ SMR 시장이 성장함에 따라 발생할 여러 프로젝트에 연계되어 
 
 이를통해 수원이 가깝지 않은 내륙 지방은 물론 극지에서도 운용이 가능하다는 장점이 있다.
 
+{{< adsense-infeed >}}
+
 여기에 더불어 고순도 저농축 우라늄 (HALEU)이 아닌 현재 가동중인 대부분의 상업용 원자로에 들어가는 일반 농축도 5% 미만의 저농축 우라늄을 연료로 사용하는 것 또한 장점이다. 
 
 원자로에 맞는 연료 생산 자체가 하나의 마일스톤인 4세대 SMR과 달리 Framatome와 같은 기존 공급자들에게 쉽게 연료를 들여와 상업 운전을 시작할 수 있다.
@@ -81,6 +83,8 @@ Holtec은 2023년 후반까지 진행중이던 SMR-160에 사전 인허가 (Pre-
 
 원자로에 대한 라이선스를 획득하기 위해 NRC의 10 CFR Part 50 절차를 진행하고 있으며 2026년 1분기 건설허가를 신청해 2029년 운영허가를 취득할 계획이다. 10 CFR Part 50 절차는 총
 2단계로 구성된 인허가 제도이며 현재 미국에서 운영 중인 원전들에 적용되었던 인허가 절차이다. 
+
+{{< adsense-infeed >}}
 
 이 제도는 건설허가를 취득 후 완공 직전에 운영허가를 받는 방식으로 이 경우 공사 중 설계 조정이 가능해 유연성을 확보할 수 있다.
 
@@ -174,7 +178,9 @@ Holtec International은 원자력 및 에너지 산업에 특화된 설계·제�
 - **스팀터빈·핵연료 저장용기**
     
 - **원전 해체/폐로 서비스 패키지**
-    
+
+{{< adsense-infeed >}}
+
 - **에너지 저장·수력 발전 시스템**
 
 ## 주요 고객
@@ -234,5 +240,7 @@ Holtec International은 비상장사로 직접 편입되는 ETF는 없습니다.
 - VanEck Uranium+Nuclear Energy ETF - NLR
     
 - iShares Global Clean Energy ETF - ICLN
-    
+
+{{< adsense-infeed >}}
+
 - First Trust Nasdaq Clean Edge Smart Grid Infrastructure ETF - GRID

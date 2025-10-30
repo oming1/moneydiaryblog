@@ -43,6 +43,8 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 농업: Archer-Daniels-Midland(US, ADM), Bunge Limited(US, BG)
@@ -57,6 +59,8 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 - 기술 솔루션: IBM(US, [IBM](/company-analysis/ibm/)), Cisco Systems(US, [CSCO](/company-analysis/csco/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 6. 인프라 구축: Canadian National Railway(CA, [CNI](/company-analysis/cni/)) (철도 네트워크 개발 및 유지보수)
 7. 장비 조달: Wabtec Corporation(US, WAB) (기관차 및 화차 공급)
@@ -74,6 +78,8 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 - 자동차 및 금속/광물 운송: 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - Cargill: 농산물 및 식품 기업
 - ExxonMobil(US, [XOM](/company-analysis/xom/)): 석유 및 가스 기업

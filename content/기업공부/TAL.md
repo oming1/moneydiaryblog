@@ -31,7 +31,9 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 2. **개인화된 프리미엄 서비스**: 개별 학생의 요구에 맞춘 고급 튜터링 서비스.
     
 3. **학습 콘텐츠 솔루션**: 인쇄물, 스마트 북, 모바일 앱, AI 기반 학습 기기 등 다양한 학습 자료 제공.
-    
+
+{{< adsense-infeed >}}
+
 4. **온라인 교육 플랫폼**: [www.xueersi.com을](http://www.xueersi.xn--com-of0o/) 통해 온라인 학습 서비스 제공.
     
 5. **투자 관리 및 컨설팅**: 교육 관련 투자 관리 및 컨설팅 서비스.
@@ -81,7 +83,9 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 4. **유통 및 판매**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (교육 자료 및 제품 판매)
     
 5. **고객 지원**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (학생 및 학부모 지원)
-    
+
+{{< adsense-infeed >}}
+
 6. **투자 및 컨설팅**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (투자 관리 및 컨설팅 서비스)
 
 ## 주요제품
@@ -117,7 +121,9 @@ TAL의 주요 고객은 다음과 같습니다:
 3. **Stride Inc(US, LRN)**: 온라인 학습 솔루션 제공업체
     
 4. **Graham Holdings Co(US, GHC)**: 다양한 교육 및 미디어 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 5. **Adtalem Global Education Inc(US, ATGE)**: 전문 교육 및 학습 서비스 제공
 
 ## 산업 내 글로벌 시장 점유율

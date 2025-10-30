@@ -44,6 +44,8 @@ Newegg의 주요 리스크 요인으로는 온라인 소매 시장의 치열한 
 
 Newegg Commerce Inc의 수익 구조는 다음과 같이 세분화됩니다:
 
+{{< adsense-infeed >}}
+
 - **직접 제품 판매(B2C)**: Newegg.com, Newegg.ca, Newegg Global 및 모바일 앱을 통한 컴퓨터 하드웨어, 소프트웨어, 전자제품 직접 판매가 주요 수익원입니다.
     
 - **기업 대상 판매(B2B)**: NeweggBusiness.com을 통해 기업 고객에게 IT 제품 및 솔루션을 제공하며, 대량 구매 할인 및 기업 계정 관리 서비스를 제공합니다.
@@ -65,6 +67,8 @@ Newegg Commerce Inc의 수익 구조는 다음과 같이 세분화됩니다:
 ## 핵심 경쟁력
 
 Newegg Commerce Inc의 핵심 경쟁력은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. **전문화된 제품 라인업**: PC 부품 및 게이밍 하드웨어에 특화된 제품 포트폴리오를 보유하고 있어 전문 소비자들에게 강한 브랜드 인지도를 갖고 있습니다.
     
@@ -173,7 +177,9 @@ Newegg는 직접적인 제조업체가 아니라 전자상거래 리테일러이
 - **PC 주변기기**: 모니터, 키보드, 마우스, 헤드셋 등 (매출비중 약 20%, 2023년 기준), 주요 경쟁사: Amazon(US, [AMZN](/company-analysis/amzn/)), Best Buy(US,[BBY](/company-analysis/bby/)])
     
 - **소프트웨어**: 운영체제, 게임, 보안 소프트웨어 등 (매출비중 약 10%, 2023년 기준), 주요 경쟁사: Microsoft Store, Steam, Epic Games Store
-    
+
+{{< adsense-infeed >}}
+
 - **가전제품**: TV, 스마트홈 기기 등 (매출비중 약 5%, 2023년 기준), 주요 경쟁사: Amazon(US, [AMZN](/company-analysis/amzn/)), Best Buy(US,[BBY](/company-analysis/bby/)])
     
 - **물류 서비스**: 서드파티 물류(3PL) 서비스, 주문 처리, 창고 관리 등 (매출비중 약 5%, 2023년 기준), 주요 경쟁사: Amazon FBA, ShipBob

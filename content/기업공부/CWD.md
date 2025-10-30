@@ -20,6 +20,8 @@ weight: 252
 섹터(Sector): Financials - 금융  
 산업(Industry): Asset Management & Custody Banks - 자산운용/대체자산 운용, [부동산](/industry-study/2산업부동산/)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -59,6 +61,8 @@ CaliberCos Inc.(본사: 애리조나 스코츠데일)는 미국 선벨트(애리
     - 관리보수(Management Fee): AUM/잔액 기준 연 보수.
     - 성과보수(Carried Interest): 허들 초과 성과분에 대한 GP 배분.
     - 트랜잭션/개발 수수료: 취득/매각, 개발관리(Development/Construction Management) 수수료.
+
+{{< adsense-infeed >}}
 
 - 자체 투자수익
     - 코GP 지분 및 공동투자 수익, 안정화 후 매각 차익(프로젝트별 변동).
@@ -169,6 +173,8 @@ CaliberCos Inc.(본사: 애리조나 스코츠데일)는 미국 선벨트(애리
 ---
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - 비상장 대체자산/개발형 운용 시장은 분절적 구조로 정량 점유율 공표가 제한적. CWD는 ‘중소형/지역 특화’ 세그먼트 플레이어로 포지셔닝(정량 수치는 확인 필요).
 

@@ -33,6 +33,8 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 도소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Costco(US, [COST](/company-analysis/cost/))
@@ -53,9 +55,13 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 - Molson Canadian: 라거 맥주, 매출의 약 8% (2023년 기준)
 - Vizzy: 하드 셀처, 매출의 약 5% (2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 체코, 헝가리, 루마니아, 세르비아, 크로아티아, 몬테네그로, 불가리아
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

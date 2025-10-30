@@ -39,6 +39,8 @@ MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 �
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 위성 시스템 설계 및 제조:
     
     - MDA Space는 다양한 위성 시스템을 설계하고 제조합니다.
@@ -49,6 +51,8 @@ MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 �
     - Canadarm 시리즈 등 우주 로봇 기술을 개발하고 제공합니다.
     - 대표 기업: Northrop Grumman (미국, [NOC](/company-analysis/noc/)), Astrobotic Technology (미국, 비상장)
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
 
 - RADARSAT [인공위성](/industry-study/인공위성/) 시리즈 (지구 관측용)
@@ -56,11 +60,15 @@ MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 �
 - [통신 위성](/industry-study/통신-위성/) 시스템
 - 지리공간정보 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 MDA Space는 주로 캐나다와 미국 시장에서 활동하며, 유럽과 아시아 시장으로도 확장하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)) - 위성 이미징 및 지리공간 솔루션
 - Northrop Grumman (미국, [NOC](/company-analysis/noc/)) - 우주 시스템 및 로보틱스
@@ -77,5 +85,7 @@ MDA Space는 주로 캐나다와 미국 시장에서 활동하며, 유럽과 아
 - Canadarm3 개발 계약 체결 (2020년)
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

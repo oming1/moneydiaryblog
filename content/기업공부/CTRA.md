@@ -31,6 +31,8 @@ Coterra Energy Inc.는 미국의 독립 석유 및 [천연가스](/industry-stud
 
 Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점을 두고 있으며, 첨단 기술과 운영 효율성을 활용하여 다양한 지역에서 사업을 영위하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 고품질 자산 포트폴리오: 주요 생산 지역에 전략적으로 위치한 자산 보유
@@ -38,6 +40,8 @@ Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점�
 3. 재무 건전성: 안정적인 현금 흐름과 강력한 대차대조표 유지
 4. 다각화된 사업 모델: 천연가스와 석유 생산의 균형 잡힌 포트폴리오
 5. 환경 책임: 지속가능한 운영 및 환경 영향 최소화 노력
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -60,10 +64,14 @@ Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 천연가스
 2. 석유([원유](/industry-study/원유/))
 
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
@@ -74,6 +82,8 @@ Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점�
 Coterra Energy는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. EQT Corporation(US, [EQT](/company-analysis/eqt/))
 2. Antero Resources(US, [AR](/company-analysis/ar/))

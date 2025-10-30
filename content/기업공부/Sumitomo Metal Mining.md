@@ -27,10 +27,14 @@ Sumitomo Metal Mining은 광산 개발, [비철금속](/industry-study/비철금
 ## 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 전자제품 제조, 자동차 산업, 건설업
     - **관련 기업**: Toyota Motor Corporation (JP, 7203.T), Sony Group Corporation (JP, 6758.T)
-    
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 광산 장비 제조, 에너지 공급
@@ -73,6 +77,8 @@ Sumitomo Metal Mining은 일본을 본거지로 하며, 아시아, 북미, 남�
 Sumitomo Metal Mining은 니켈 생산에서 세계 상위권에 속하며, 특히 고순도 니켈 생산에서 강점을 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Côté Gold Mine 상업 생산 개시**: 캐나다에서 Côté Gold Mine의 상업 생산을 시작 (2024)
 - **PTVI 매각 거래 완료**: 인도네시아 PTVI 지분 매각 거래 완료 (2024)

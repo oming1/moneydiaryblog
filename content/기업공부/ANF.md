@@ -24,6 +24,8 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 역할: 제품 판매 및 유통
@@ -36,6 +38,8 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 - 섬유 제조: Unifi (미국, [UFI](/company-analysis/ufi/))
 - 물류: FedEx (미국, [FDX](/company-analysis/fdx/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - Abercrombie & Fitch 브랜드 의류 (매출 비중: 약 55%, 2023년 기준)
@@ -43,6 +47,8 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 - Gilly Hicks 및 기타 브랜드 (매출 비중: 약 5%, 2023년 기준)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Abercrombie & Fitch는 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아시아입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 

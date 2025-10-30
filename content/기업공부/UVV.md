@@ -24,17 +24,25 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
 
 ### 전방산업 및 후방산업
 
+{{< adsense-infeed >}}
+
 - **후방산업 (Upstream Industry)**:
     
     - **농업**: 담배 잎 재배 및 수확. 주요 기업: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
     - **원자재 공급**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급. 주요 기업: Schweitzer-Mauduit International (미국, [SWM](/company-analysis/swm/)), Glatfelter (미국, GLT).
 
 - **전방산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
     - **마케팅 및 광고**: 담배 제품의 마케팅 및 광고. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), [Japan Tobacco](/company-analysis/japan-tobacco/) International (일본, 2914).
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 1. **농업 (Agriculture)**:
     
@@ -57,7 +65,9 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
     - **대표회사**: Altria Group (미국, [MO](/company-analysis/mo/)), Imperial Brands (영국, [IMB](/company-analysis/imb/)).
 
 1. **소매 (Retail)**:
-    
+
+{{< adsense-infeed >}}
+
     - **설명**: 담배 제품의 소매 판매.
     - **대표회사**: 7-Eleven (일본, 3382), Walmart (미국, [WMT](/company-analysis/wmt/)).
 

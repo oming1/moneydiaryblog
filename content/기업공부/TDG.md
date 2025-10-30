@@ -20,6 +20,8 @@ weight: 854
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설계, 생산 및 공급하는 선도적인 기업입니다. 주로 상용, 지역, 비즈니스 및 군용 항공기에 사용되는 부품을 생산합니다.
 
 - 위성 탑재 태양광 패널/통신 안테나 구동계([액추에이터](/industry-study/액추에이터/), 커넥터, 클러치 등) 제조
@@ -33,7 +35,9 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
     - 주요 기업: Boeing (미국, [BA](/company-analysis/ba/)), Lockheed Martin (미국, [LMT](/company-analysis/lmt/))
     
 - 후방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 원자재 공급, 전자 부품 제조
     - 역할: TransDigm 제품 제조에 필요한 원자재 및 부품 공급
     - 주요 기업: Honeywell (미국, [HON](/company-analysis/hon/)), Texas Instruments (미국, [TXN](/company-analysis/txn/))
@@ -46,7 +50,9 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
     - 대표 기업: Heico Corporation (미국, [HEI](/company-analysis/hei/)), Woodward (미국, [WWD](/company-analysis/wwd/))
     
 - 항공기 애프터마켓:
-    
+
+{{< adsense-infeed >}}
+
     - TransDigm은 항공기 부품의 애프터마켓에서 강세를 보입니다.
     - 대표 기업: AAR Corp (미국, [AIR](/company-analysis/air/)), Triumph Group (미국, TGI)
 
@@ -61,6 +67,8 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
 TransDigm은 전 세계적으로 사업을 영위하며, 특히 북미, 유럽, 아시아 태평양 지역에서 강세를 보입니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Heico Corporation (미국, [HEI](/company-analysis/hei/)) - 항공우주 부품 제조
 - Woodward (미국, [WWD](/company-analysis/wwd/)) - 항공우주 및 산업용 제어 시스템

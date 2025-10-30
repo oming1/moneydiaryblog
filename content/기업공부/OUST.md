@@ -20,6 +20,8 @@ Industry: 전자장비 및 부품(Electronic Equipment & Parts)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Ouster, Inc.는 자동차, 산업, 로봇공학, 스마트 인프라 산업을 위한 고해상도 스캐닝 및 솔리드 스테이트 디지털 라이다 센서(LiDAR), Velodyne Lidar 센서, 소프트웨어 솔루션을 제공하는 기업입니다. 주요 제품은 다음과 같습니다:
 
 1. OS 제품 라인의 4가지 센서 모델:
@@ -37,6 +39,8 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 ## 전방/후방산업
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 자동차 제조업체: General Motors (US, [GM](/company-analysis/gm/)), Volvo (스웨덴, VOLV-B.ST)
 - 로봇 제조업체: iRobot (US, [IRBT](/company-analysis/irbt/))
@@ -79,6 +83,8 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 5. Aeva Technologies (US, [AEVA](/company-analysis/aeva/)) (4D 라이다)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 

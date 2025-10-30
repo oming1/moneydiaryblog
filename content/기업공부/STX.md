@@ -42,6 +42,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
     
     - **엔터프라이즈 HDD (Exos 시리즈):** 데이터 센터용 고용량 드라이브. HAMR 기술로 30TB 이상 용량 제공, 클라우드 스토리지에 최적화. 예를 들어, Exos X 시리즈는 헬륨 밀봉으로 에너지 효율을 높입니다.
 
+{{< adsense-infeed >}}
+
     - **NAS 및 데스크톱 HDD (IronWolf, BarraCuda):** 홈/소호용. SMR 기술로 비용 효과적 저장, 데이터 백업과 미디어 스트리밍에 사용.
 
     - **SSD (Nytro 시리즈):** 고속 스토리지로, 엔터프라이즈와 소비자 시장. NVMe 인터페이스로 데이터 센터 속도 요구 충족.
@@ -77,6 +79,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 - **최근 1년 주가 동향**  
     지난 1년간 주가는 상승 추세를 보였습니다. 2024년 8월 약 $60.00에서 2025년 8월 약 $75.00로 상승(+25%), 이는 데이터 수요 증가와 실적 호조에 기인합니다. 그러나 반도체 부족으로 인한 변동성 있었습니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -91,6 +95,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 - **고객 유형별 수익 구조:**
     - 클라우드 제공자: 대량 구매.
     - 소비자: PC·NAS 판매.
+
+{{< adsense-infeed >}}
 
 - **지역별 매출 분포:**
     - 아시아: 50% (2023년 기준, 3년간 +2%p).
@@ -149,6 +155,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 ### 밸류체인
 
 **부품 공급 단계:**
+
+{{< adsense-infeed >}}
 
 - MP Materials(US, [MP](/company-analysis/mp/)): 희토류 자석.
 - TSMC(TW, [TSM](/company-analysis/tsm/)): 칩셋.

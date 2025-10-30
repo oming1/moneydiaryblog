@@ -30,10 +30,14 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 ## 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 디지털 콘텐츠 소비 및 마케팅
     - **관련 기업**: Adobe Stock (US, [ADBE](/company-analysis/adbe/)), Getty Images (US, GETY)
-    
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 콘텐츠 제작 및 배급
@@ -59,6 +63,8 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - **스톡 사진** (매출의 약 60%)
 - **스톡 비디오** (매출의 약 20%)
 - **스톡 음악** (매출의 약 10%)
@@ -73,6 +79,8 @@ Shutterstock은 전 세계적으로 운영되며, 주요 시장은 미국, 유�
 - **Adobe Stock (US, [ADBE](/company-analysis/adbe/))** - 스톡 이미지 및 비디오 제공
 - **Getty Images (US, GETY)** - 스톡 이미지 및 비디오 제공
 - **Pond5 (US, 비상장)** - 스톡 비디오 및 음악 제공
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

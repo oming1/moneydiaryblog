@@ -39,6 +39,8 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 4. 배당 성장 실적: S&P 500 배당귀족으로, 28년 이상 연속 배당 증가를 기록 중입니다.
 5. 효율적인 자본 조달: 높은 신용등급을 바탕으로 유리한 조건의 자금 조달이 가능합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -61,6 +63,8 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - Walgreens(US, [WBA](/company-analysis/wba/)): 약국 체인
 - Dollar General(US, [DG](/company-analysis/dg/)): 할인점 체인
 - FedEx(US, [FDX](/company-analysis/fdx/)): 물류 서비스
@@ -79,9 +83,13 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 - VEREIT(US, VER): 다각화된 상업용 부동산 REIT
 - Essential Properties Realty Trust(US, EPRT): 서비스 중심 소매 REIT
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Realty Income은 2024년 기준 미국 상업용 부동산 REIT 시장에서 약 8%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 Spirit Realty Capital 인수 등을 통해 시장 점유율을 꾸준히 확대해왔습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

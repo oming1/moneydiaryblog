@@ -19,6 +19,8 @@ weight: 583
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Mosa Meat은 네덜란드에 본사를 둔 식품 기술 회사로, 배양육(cultured meat)([대체 단백질](/industry-study/대체-단백질/)([대체육](/industry-study/대체육/)))을 생산하는 데 주력하고 있습니다. 이 회사는 살아있는 소에서 근육 세포를 채취하여 고기를 생산하며, 이를 통해 환경에 미치는 영향을 줄이고 동물 복지를 개선하고자 합니다. Mosa Meat은 배양육을 통해 지속 가능한 식품 시스템을 구축하는 것을 목표로 하고 있습니다
 
 - 기업 기본정보
@@ -51,11 +53,15 @@ Mosa Meat은 네덜란드에 본사를 둔 식품 기술 회사로, 배양육(cu
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Impossible Foods (US, IMPF):** 식물 기반 대체육 (시장 점유율 15%)
 - **Beyond Meat (US, [BYND](/company-analysis/bynd/)):** 식물 기반 대체육 (시장 점유율 10%)
 - **Meatable (NL):** 배양육 (시장 점유율 5%)
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Mosa Meat의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 

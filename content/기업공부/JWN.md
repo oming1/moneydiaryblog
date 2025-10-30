@@ -22,6 +22,8 @@ Industry: 백화점(Department Stores)
 
 Nordstrom, Inc.는 1901년 설립된 미국의 고급 백화점 체인으로, 다음과 같은 주요 사업을 영위하고 있습니다:
 
+{{< adsense-infeed >}}
+
 1. 의류, 신발, 액세서리, 화장품 판매
 2. Nordstrom과 Nordstrom Rack 브랜드 운영
 3. 온라인 및 오프라인 멀티채널 리테일링
@@ -29,17 +31,23 @@ Nordstrom, Inc.는 1901년 설립된 미국의 고급 백화점 체인으로, �
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 여성, 남성, 아동용 의류
 2. 신발 및 액세서리
 3. 화장품 및 미용 제품
 4. 홈 인테리어 상품
 5. 자체 브랜드: Halogen, BP, Caslon, Zella, Treasure & Bond
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국 및 캐나다 전역, 28개 주에 376개 매장 운영
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Macy's (US, [M](/company-analysis/m/))
 2. Dillard's (US, [DDS](/company-analysis/dds/))

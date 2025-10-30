@@ -26,20 +26,28 @@ Analog Devices, Inc.는 고성능 아날로그, 혼합 신호, 디지털 신호 
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - [자동차](/industry-study/자동차/): Tesla (국가:US, [TSLA](/company-analysis/tsla/))
 - 통신장비: Cisco Systems (국가:US, [CSCO](/company-analysis/csco/))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 반도체 장비: Applied Materials (국가:US, [AMAT](/company-analysis/amat/))
 - 반도체 소재: Shin-Etsu Chemical (국가:JP, 4063)
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 데이터 변환기 (매출 비중: 약 30%, 2023년 기준)
 - 증폭기 및 선형 제품 (매출 비중: 약 25%, 2023년 기준)
 - 전력 관리 및 참조 제품 (매출 비중: 약 20%, 2023년 기준)
 - 센서 및 MEMS 제품 (매출 비중: 약 15%, 2023년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -50,6 +58,8 @@ Analog Devices는 전 세계적으로 제품을 판매하고 있으며, 주요 �
 - Texas Instruments (국가:US, [TXN](/company-analysis/txn/)) - 아날로그 및 임베디드 프로세싱 제품
 - Maxim Integrated Products (국가:US, [MXIM](/company-analysis/mxim/)) - 아날로그 및 혼합 신호 집적 회로
 - NXP Semiconductors (국가:NL, [NXPI](/company-analysis/nxpi/)) - 혼합 신호 및 표준 제품 반도체
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

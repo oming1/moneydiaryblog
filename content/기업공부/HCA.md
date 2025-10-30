@@ -75,7 +75,11 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 3. 정부 기관 (Medicare, Medicaid)
 4. 기업 건강보험 가입자
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 1. 미국 (주요 시장)
 2. 영국 (일부 시설 운영)
@@ -87,6 +91,8 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 3. Community Health Systems (US, [CYH](/company-analysis/cyh/))
 4. Encompass Health (US, [EHC](/company-analysis/ehc/))
 5. Acadia Healthcare (US, [ACHC](/company-analysis/achc/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -101,6 +107,8 @@ HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42
 5. ESG 이니셔티브 강화 및 지속가능성 목표 설정 (2023)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. The Vanguard Group, Inc.: 11.62%
 2. BlackRock Fund Advisors: 7.89%

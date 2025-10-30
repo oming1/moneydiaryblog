@@ -107,6 +107,8 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 - 연기금: 기관 투자자 - 리스크 관리 도구
 - 개인투자자: 방어적 투자 수요 충족
 
+{{< adsense-infeed >}}
+
 **후방산업 (서비스 공급 업체):**
 
 - 옵션 거래소: Cboe Global Markets(US, CBOE) - FLEX Options 거래
@@ -158,6 +160,8 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 **개인 투자자**: 은퇴 계획 투자자, 보수적 투자 성향 투자자
 
+{{< adsense-infeed >}}
+
 **헤지펀드**: 포트폴리오 헤지 목적 투자자
 
 ---
@@ -174,7 +178,11 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 **Innovator ETFs**: Defined Outcome ETF 시리즈 - 정의된 결과 ETF 선도업체
 
+{{< adsense-infeed >}}
+
 **First Trust**: Buffer ETF 제품군 - 다양한 버퍼 수준 제공
+
+{{< adsense-infeed >}}
 
 **Pacer ETFs**: Swan Defined Risk ETF - 리스크 관리 ETF 전문
 
@@ -189,6 +197,8 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 ## 기업 특징 및 성장성
 
 **구체적 수치:**
+
+{{< adsense-infeed >}}
 
 - 순자산: 3,333만 달러 (2025년 7월 기준)
 - 경비율: 0.74% (연간)

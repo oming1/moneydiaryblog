@@ -65,6 +65,8 @@ Delta Air Lines의 비즈니스 모델은 프리미엄 포지셔닝을 기반으
 
 **4. 기타 서비스 (매출 3% 비중):**
 
+{{< adsense-infeed >}}
+
 - 항공기 정비 서비스 (Delta TechOps)
 - 공항 라운지 서비스 (Sky Club)
 - 여행 관련 서비스 및 파트너십 수익
@@ -147,6 +149,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 
 **후방산업:**
 
+{{< adsense-infeed >}}
+
 - 항공기 제조업: 항공기 구매 및 리스 - Boeing(US, [BA](/company-analysis/ba/)), Airbus(FR, Airbus)
 - 항공 연료 공급업: 제트유 및 연료 공급 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 공항 운영업: 공항 시설 이용 - 각국 공항공사 및 민간 공항 운영사
@@ -157,6 +161,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 ## 밸류체인
 
 **항공기 제조 및 공급 단계:** 항공기 및 관련 장비 제조
+
+{{< adsense-infeed >}}
 
 - Boeing(US, [BA](/company-analysis/ba/)) - 737, 757, 767, A330neo 등 주력 기종 공급
 - Airbus(FR, Airbus) - A220, A319, A320, A330, A350 항공기 공급
@@ -223,6 +229,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 ---
 
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 - 개인 승객 (연간 2억 명 이상의 승객)
 - American Express(US, [AXP](/company-analysis/axp/)) - SkyMiles 크레딧카드 파트너십, 연간 74억 달러 수익

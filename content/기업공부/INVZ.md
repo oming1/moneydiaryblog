@@ -22,6 +22,8 @@ weight: 449
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Innoviz Technologies Ltd.(NASDAQ: INVZ)는 자동차 및 자율주행 산업을 위한 고성능 LiDAR 센서와 인식 소프트웨어를 개발하는 이스라엘 기업입니다. 주요 제품으로는 InnovizOne, InnovizTwo 등의 LiDAR 센서와 관련 인식 소프트웨어가 있습니다.
 
 회사는 BMW, Volkswagen 등 주요 자동차 제조사와 파트너십을 맺고 있으며, 최근에는 Mobileye와의 협력을 통해 자율주행 플랫폼에 LiDAR 기술을 통합하고 있습니다. 또한 NVIDIA와의 협력을 통해 AI 기반 인식 시스템을 개발하고 있습니다.최근 1년 내 주요 이슈로는 CES 2025에서 NVIDIA DRIVE AGX Orin 플랫폼과 통합된 인식 소프트웨어 시연, 주요 고객사들과 약 8,000만 달러 규모의 다년간 NRE 서비스 계약 체결 등이 있습니다.
@@ -35,6 +37,8 @@ Innoviz의 핵심 경쟁력은 독자적인 LiDAR 기술과 소프트웨어 플�
 3. AI 기반 인식 소프트웨어: 실시간 3D 매핑 및 객체 인식 기능 제공
 4. 자동차 등급 품질: IATF 16949:2016 인증 획득으로 입증된 높은 품질 표준
 5. 주요 OEM 파트너십: BMW, Volkswagen 등 글로벌 자동차 제조사와의 협력 관계
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -74,9 +78,13 @@ BMW, Volkswagen, Mobileye, NVIDIA, Continental AG
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Innoviz의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. LiDAR 시장은 빠르게 성장하고 있으며, 여러 기업들이 경쟁하고 있는 상황입니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - NVIDIA와 협력하여 CES 2025에서 AI 기반 인식 소프트웨어 시연 (2025년)
 - 주요 고객사들과 약 8,000만 달러 규모의 NRE 서비스 계약 체결 (2024년)

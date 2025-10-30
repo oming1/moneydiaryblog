@@ -69,6 +69,8 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 전력 공급: 가정, 상업, 산업용 전력, 매출의 약 70% (2023년 기준)
 - 천연가스 공급: 가정 및 상업용 천연가스, 매출의 약 20% (2023년 기준)
 - 에너지 관리 서비스: 기업 고객 대상 에너지 효율화 솔루션, 매출의 약 5% (2023년 기준)
@@ -76,10 +78,14 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - 유틸리티 기업: Duke Energy(US, [DUK](/company-analysis/duk/)), Southern Company(US, [SO](/company-analysis/so/))
 - 지방자치단체: New York City, Chicago
 - 상업/산업 고객: Walmart(US, [WMT](/company-analysis/wmt/)), Amazon(US, [AMZN](/company-analysis/amzn/))
 - 일반 가정 고객
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -107,6 +113,8 @@ Constellation Energy는 2024년 3분기 기준 미국 전력 유틸리티 산업
 - COVID-19 팬데믹 영향에 따른 사업 연속성 유지 및 회복 전략 실행 (2021년)
 - 신규 원자력 발전 기술 투자 확대 (2022년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 - The Vanguard Group (8.17%)
@@ -114,6 +122,8 @@ Constellation Energy는 2024년 3분기 기준 미국 전력 유틸리티 산업
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Utilities Select Sector SPDR Fund - XLU
 - iShares U.S. Utilities ETF - IDU

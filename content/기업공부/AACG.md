@@ -41,6 +41,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 - 연구 기반 학습 서비스: 10-15%
 - 기타 교육 서비스: 5-10%
 
+{{< adsense-infeed >}}
+
 **고객 유형별 수익 구조:**
 
 - 해외 예술대학 진학 희망 중고등학생: 85%
@@ -87,6 +89,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 
 **교육 서비스 제공 단계:** 1단계: 학생 상담 및 평가 2단계: 맞춤형 커리큘럼 설계 3단계: 포트폴리오 제작 지도 4단계: 해외 대학 지원 컨설팅
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 전방산업 / 후방산업
@@ -114,6 +118,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 **교육 서비스 제공 단계:**
 
 - ATA Creativity Global: 직접 교육 서비스 제공 및 브랜드 운영
+
+{{< adsense-infeed >}}
 
 **유통 및 마케팅 단계:**
 

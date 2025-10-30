@@ -20,9 +20,13 @@ weight: 104
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 American States Water Company는 미국 내에서 수도 및 전기 서비스를 제공하는 회사입니다. 이 회사는 Golden State Water Company와 Bear Valley Electric Service, Inc.를 통해 운영되며, 주거, 상업, 산업, 공공 기관 등 다양한 고객에게 서비스를 제공합니다.
 
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업:**
     - **건설업:** 수도 및 전기 인프라 건설 (대표 기업: Bechtel, Fluor)
@@ -33,6 +37,8 @@ American States Water Company는 미국 내에서 수도 및 전기 서비스를
     - **기계 제조업:** 수도 및 전기 처리 장비 제조 (대표 기업: Xylem (US, XYL), Pentair (US, [PNR](/company-analysis/pnr/)))
 
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원자재 공급:** 물 처리 화학물질 및 장비 공급 (대표 기업: Ecolab (US, ECL), Dow (US, [DOW](/company-analysis/dow/)))
 - **생산:** 물 처리 및 공급, 전기 공급 (대표 기업: American States Water Company (US, [AWR](/company-analysis/awr/)), California Water Service Group (US, [CWT](/company-analysis/cwt/)))

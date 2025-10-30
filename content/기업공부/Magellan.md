@@ -22,6 +22,8 @@ weight: 543
 
 Magellan은 [GPS](/company-analysis/gps/) 기술을 기반으로 한 다양한 제품을 설계하고 제조하는 미국의 GPS 기술 회사입니다. 1986년에 설립되었으며, 세계 최초의 상업용 휴대용 GPS 수신기인 Magellan NAV 1000을 1989년에 출시했습니다.
 
+{{< adsense-infeed >}}
+
 ## 주요 제품 라인
 
 - **RoadMate**: 차량용 내비게이션 시스템
@@ -29,6 +31,8 @@ Magellan은 [GPS](/company-analysis/gps/) 기술을 기반으로 한 다양한 �
 - **eXplorist**: 야외 및 등산용 GPS 장치
 - **Triton**: 야외 탐험용 GPS 장치
 - **TRX**: 오프로드 내비게이션 시스템
+
+{{< adsense-infeed >}}
 
 ## 주요 특징
 
@@ -44,7 +48,11 @@ Magellan은 [GPS](/company-analysis/gps/) 기술을 기반으로 한 다양한 �
 - 2001년: Thales Group에 인수
 - 2008년: MiTAC Digital Corporation에 인수
 
+{{< adsense-infeed >}}
+
 ## 주요 혁신
+
+{{< adsense-infeed >}}
 
 - 1989년: NAV 1000 (최초의 상업용 휴대용 GPS)
 - 1997년: 최초의 휴대용 글로벌 위성 통신기 GSC 100 출시

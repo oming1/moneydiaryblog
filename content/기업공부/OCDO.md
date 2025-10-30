@@ -37,6 +37,8 @@ Ocado Group PLC는 영국 및 국제적으로 온라인 식료품 소매업체�
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - **로봇 장비 제조업체:** ABB (CH, ABBN), KUKA (DE, KU2)
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
 
 Ocado의 밸류체인은 온라인 식료품 소매업체로서의 역할을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
@@ -65,9 +67,15 @@ Ocado의 밸류체인은 온라인 식료품 소매업체로서의 역할을 포
 - **Sainsbury’s (UK, SBRY):** 식료품 소매 (시장 점유율 15%)
 - **Amazon (US, [AMZN](/company-analysis/amzn/)):** 온라인 소매 (시장 점유율 10%)
 
+{{< adsense-infeed >}}
+
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Ocado Group PLC의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

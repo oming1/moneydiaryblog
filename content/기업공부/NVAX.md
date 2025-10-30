@@ -46,6 +46,8 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 원료 공급: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Lonza Group(CH, [LONN](/company-analysis/lonn/))
 - 제조 장비: Danaher Corporation(US, [DHR](/company-analysis/dhr/)), Sartorius AG(DE, [SRT](/company-analysis/srt/))
 - 물류 및 유통: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
@@ -91,11 +93,17 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 - Sanofi(FR, SNY) - 다양한 백신 포트폴리오
 - GlaxoSmithKline(UK, [GSK](/company-analysis/gsk/)) - 다양한 백신 포트폴리오
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Novavax의 COVID-19 백신 시장 점유율은 2024년 기준 약 5-7%로 추정됩니다. 최근 3년간 mRNA 백신의 선점으로 인해 시장 진입이 지연되었으나, 변이 대응 부스터 샷과 복합백신 개발을 통해 점유율 확대를 목표로 하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - COVID-19 백신 NVX-CoV2373의 긴급사용승인 획득 및 글로벌 공급 시작 (2022년)
 - 오미크론 변이 대응 부스터 샷 개발 및 임상시험 진행 (2023년)
@@ -104,6 +112,8 @@ Novavax의 COVID-19 백신 시장 점유율은 2024년 기준 약 5-7%로 추정
 - 재정 건전성 개선을 위한 구조조정 실시 (2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)

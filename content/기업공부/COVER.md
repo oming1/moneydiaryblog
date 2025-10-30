@@ -94,6 +94,8 @@ COVER는 실시간 스트리밍 기반 초기 수익 모델에서 출발하여, 
 
 버튜버 IP 비즈니스를 위한 인프라 확대 및 끊임없는 투자
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. **강력한 디지털 IP(홀로라이브 등)**: 높은 팬덤 충성도와 글로벌 인지도
@@ -111,12 +113,16 @@ COVER는 실시간 스트리밍 기반 초기 수익 모델에서 출발하여, 
 ## 전방산업
 
 - **스트리밍/플랫폼**: YouTube(US, [GOOGL](/company-analysis/googl/)), Twitch(US, [AMZN](/company-analysis/amzn/))
-    
+
+{{< adsense-infeed >}}
+
 - **애니메이션/게임**: Bandai Namco(JP), CAPCOM(JP), SEGA(JP)
     
 - **엔터테인먼트/이벤트**: 소니 뮤직(JP), King Records(JP)
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - **아바타/3D 콘텐츠 개발사**: Live2D(비상장), Unity(US, [U](/company-analysis/u/))
     
@@ -161,6 +167,8 @@ COVER는 실시간 스트리밍 기반 초기 수익 모델에서 출발하여, 
 5. 플랫폼 사업자(YouTube, Twitch 등)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 일본(본사, 주력 시장), 미국, 인도네시아, 대만, 유럽, 동남아 등 글로벌
 

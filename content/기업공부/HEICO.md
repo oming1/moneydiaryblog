@@ -22,6 +22,8 @@ weight: 404
 
 HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔지니어링된 제품 및 서비스를 설계, 제조, 수리하는 기업입니다. 제트엔진과 항공 부품, 그리고 국방/우주/통신/전자기기 분야의 부품을 제조하는 기업으로서 미국 국방부와 미국/해외 군사 기관들에 부품을 공급하는 기업
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
@@ -48,6 +50,8 @@ HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 항공기 부품 및 액세서리
 - 전자 시스템 및 부품
 - 우주 및 방위 제품
@@ -62,6 +66,8 @@ HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔�
 - TransDigm Group(US, [TDG](/company-analysis/tdg/)) (항공우주 부품)
 - Woodward(US, [WWD](/company-analysis/wwd/)) (항공우주 및 산업 제어 시스템)
 - Crane Holdings(US, [CR](/company-analysis/cr/)) (항공우주 전자 및 유체 시스템)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

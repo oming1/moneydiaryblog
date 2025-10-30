@@ -30,6 +30,8 @@ Acadia Healthcare Company Inc는 행동 건강 및 중독 치료 서비스를 �
 3. 외래 진료 서비스
 4. 청소년 및 아동 행동 건강 프로그램
 
+{{< adsense-infeed >}}
+
 회사는 미국 40개 주와 영국에서 약 250개의 행동 건강 시설을 운영하고 있으며, 약 11,100개의 병상을 보유하고 있습니다. Acadia는 급성 입원 정신과 병원, 특수 치료 시설, 주거 치료 센터, 외래 클리닉 등 다양한 형태의 시설을 통해 포괄적인 행동 건강 서비스를 제공합니다.주요 치료 영역으로는 우울증, 불안장애, 약물 남용, 섭식 장애, 외상 후 스트레스 장애(PTSD) 등이 있습니다. 회사는 지속적인 시설 확장과 인수를 통해 성장을 추구하고 있으며, 특히 미충족 수요가 높은 지역에서의 서비스 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -48,6 +50,8 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
     
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
@@ -55,7 +59,9 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
     - 의료 IT: Cerner Corporation CERN
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
     - 정부 기관: Medicare, Medicaid
@@ -68,6 +74,8 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 4. 의약품 공급: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 보험 청구: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
 6. 환자 후속 관리: Talkspace, BetterHelp
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

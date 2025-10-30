@@ -52,6 +52,8 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, 스포츠 및 피트�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 연구 개발: Herbalife 내부 R&D 팀, 대학 연구 협력
     
 2. 원료 조달: DSM(NL, DSM), Lonza(CH, [LONN](/company-analysis/lonn/))
@@ -73,9 +75,13 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, 스포츠 및 피트�
 2. 단백질 보충제: 근육 발달 및 회복 지원 제품 (2023년 매출의 약 20%)
     
 3. 타겟 영양 제품: 비타민, 미네랄 등 건강 보조제 (2023년 매출의 약 25%)
-    
+
+{{< adsense-infeed >}}
+
 4. 에너지 및 피트니스 제품: 운동 성과 향상 제품 (2023년 매출의 약 15%)
-    
+
+{{< adsense-infeed >}}
+
 5. 개인 관리 제품: 스킨케어 및 헤어케어 라인 (2023년 매출의 약 10%)
 
 ## 주요 판매국가
@@ -118,12 +124,16 @@ Herbalife는 글로벌 영양 보충제 시장에서 약 4.2%의 점유율을 �
     
 3. State Street Corporation (4.47%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
 
 1. iShares U.S. Consumer Goods ETF - IYK
     
 2. Invesco Dynamic Food & Beverage ETF - PBJ
-    
+
+{{< adsense-infeed >}}
+
 3. First Trust Consumer Staples AlphaDEX Fund - FXG
     
 4. VanEck Vectors Retail ETF - RTH

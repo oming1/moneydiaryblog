@@ -20,7 +20,11 @@ weight: 859
 
 섹터: 정보기술 (Information Technology)
 
+{{< adsense-infeed >}}
+
 ## 산업 (Industry)
+
+{{< adsense-infeed >}}
 
 산업: 반도체 장비 (Semiconductor Equipment)
 
@@ -118,6 +122,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 
 **5. 설치 및 서비스:**
 
+{{< adsense-infeed >}}
+
 - 고객 현장 설치 및 커미셔닝
 - 지속적인 기술 지원 및 유지보수
 
@@ -182,6 +188,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 ## 주된 영향을 미치는 원자재
 
 **반도체 칩:**
+
+{{< adsense-infeed >}}
 
 - 사용처: 테스트 장비의 핵심 제어 및 처리 부품
 - 주요 공급 지역: 대만, 한국, 미국
@@ -287,6 +295,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 3위: KUKA - 약 10-15%
 
 최근 3년간 반도체 테스트 장비 시장 점유율은 55%→52%→50%로 소폭 감소하지만 여전히 압도적 1위 유지
+
+{{< adsense-infeed >}}
 
 ---
 

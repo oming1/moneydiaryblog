@@ -22,6 +22,8 @@ weight: 61
 
 Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제공하는 생명공학 회사입니다. 주요 제품으로는 자가면역 질환, 암, 신경과학, 바이러스학, 골다공증 및 심혈관 질환 치료제가 있습니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**: 의료 서비스 제공
@@ -33,6 +35,8 @@ Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제�
     - **핵심 산업**: 의약품 원료 및 화학 물질 제조
     - **역할**: Amgen의 의약품 제조에 필요한 원료 공급
     - **관련 기업**: BASF (독일), Lonza Group (스위스)
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -55,6 +59,8 @@ Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제�
 
  - MariTide(이전 명칭 AMG 133, [비만 치료제](/industry-study/비만-치료제/)): 임상 시험 중. [이 약물은 월 1회 주사로 투여되며, 비만 쥐와 원숭이에서 체중 감소와 대사 마커 개선을 보여주었습니다](https://thehealthcaretechnologyreport.com/amgens-maritide-shows-promise-as-monthly-obesity-treatment-in-preclinical-trials/)[1](https://thehealthcaretechnologyreport.com/amgens-maritide-shows-promise-as-monthly-obesity-treatment-in-preclinical-trials/). 
  - AMG-786이라는 다른 [비만 치료제](/industry-study/비만-치료제/)를 개발 중이며, 현재 임상 1상 단계에 있습니다
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

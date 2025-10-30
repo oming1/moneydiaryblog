@@ -23,6 +23,8 @@ Marvell Technology, Inc.는 데이터 인프라 반도체 솔루션을 제공하
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 데이터 센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
@@ -33,12 +35,16 @@ Marvell Technology, Inc.는 데이터 인프라 반도체 솔루션을 제공하
 - 반도체 제조업체: Taiwan Semiconductor Manufacturing Company (TW, [TSM](/company-analysis/tsm/)), GlobalFoundries (US, [GFS](/company-analysis/gfs/))
 - 재료 공급업체: Applied Materials (US, [AMAT](/company-analysis/amat/)), Lam Research (US, [LRCX](/company-analysis/lrcx/))
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **이더넷 솔루션:** 컨트롤러, 네트워크 어댑터, 물리적 트랜시버, 스위치 (매출 비중: 2023년 기준 40%)
 - **프로세서:** 단일 또는 다중 코어 프로세서 (매출 비중: 2023년 기준 30%)
 - **전자광학 제품:** 레이저 드라이버, 트랜스임피던스 증폭기, 실리콘 포토닉스 (매출 비중: 2023년 기준 20%)
 - **스토리지 컨트롤러:** 하드 디스크 드라이브 및 솔리드 스테이트 드라이브용 (매출 비중: 2023년 기준 10%)
+
+{{< adsense-infeed >}}
 
 ### 주요 판매국가
 

@@ -28,10 +28,16 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - 보안 서비스 제공업체: ADT Inc. (US, ADT), Allied Universal
 - 공공기관: 미국 연방 정부, 지방 자치 단체
 
+{{< adsense-infeed >}}
+
 **후방산업:**
+
+{{< adsense-infeed >}}
 
 - 센서 및 부품 공급업체: Honeywell (US, [HON](/company-analysis/hon/)), Bosch
 - 소프트웨어 개발업체: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
@@ -49,6 +55,8 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 - 영국
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **ADT Inc. (US, ADT):** 보안 서비스 제공업체 (시장 점유율 15%)
 - **Allied Universal:** 보안 서비스 제공업체 (시장 점유율 10%)

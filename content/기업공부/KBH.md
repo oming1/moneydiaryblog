@@ -31,8 +31,12 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 부동산 중개업: 주택 판매 지원
 - 모기지 금융: 주택 구매자를 위한 금융 서비스
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -43,6 +47,8 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 5. 판매 및 마케팅: KB Home (자체 판매팀)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 단독 주택
 - 타운하우스

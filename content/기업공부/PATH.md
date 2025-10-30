@@ -28,6 +28,8 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 기술 리더십: RPA 시장에서 선도적 위치를 차지하며 지속적인 혁신 주도
 2. 포괄적인 자동화 플랫폼: 프로세스 마이닝부터 실행, 모니터링까지 end-to-end 솔루션 제공
 3. AI 및 머신러닝 통합: 지능형 자동화로 복잡한 업무 처리 가능
@@ -43,6 +45,8 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 - 제조업: General Electric(US, [GE](/company-analysis/ge/)), Siemens(DE, [SIE](/company-analysis/sie/))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - AI 및 머신러닝: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
@@ -70,6 +74,8 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 ## 산업 내 글로벌 시장 점유율
 
 UiPath는 2024년 기준 전 세계 RPA 시장에서 약 27.1%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 엔터프라이즈 시장에서 강세를 유지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

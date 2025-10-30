@@ -52,12 +52,18 @@ CoreCivic Inc.는 미국 내에서 교정, 구금 및 재입소 시설(교도소
         - The GEO Group (미국, [GEO](/company-analysis/geo/)) - 민간 교정 시설 운영
         - CoreCivic (미국, [CXW](/company-analysis/cxw/)) - 자체 운영 시설
 
+{{< adsense-infeed >}}
+
 - **재입소 프로그램**:
-    
+
+{{< adsense-infeed >}}
+
     - 범죄자의 재활을 위한 프로그램과 서비스를 제공합니다.
     - 대표 기업:
         
         - Management & Training Corporation (미국, 비상장) - 교육 및 훈련 프로그램 제공
+
+{{< adsense-infeed >}}
 
 ## 주요 제품
 
@@ -74,6 +80,8 @@ CoreCivic Inc.는 미국 내에서 교정, 구금 및 재입소 시설(교도소
 CoreCivic은 미국 내에서 주로 운영되며, 연방 정부와 주 정부의 계약에 따라 다양한 주에서 서비스를 제공합니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **The GEO Group (미국, [GEO](/company-analysis/geo/))**: 민간 교도소 및 구금 시설 운영.
 - **Serco Group (영국, SRP)**: 정부 계약 기반의 다양한 서비스 제공.

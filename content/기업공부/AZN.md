@@ -22,7 +22,11 @@ weight: 109
 
 AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 및 상업화하는 생명공학 회사입니다. 주요 치료 영역은 암, 심혈관, 신장 및 대사 질환, 호흡기 및 면역학, 백신 및 면역 치료, 희귀 질환입니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 의료 서비스 제공
     - **핵심 산업**: 병원, 클리닉, 약국
@@ -34,6 +38,8 @@ AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 �
     - **역할**: AstraZeneca의 의약품 제조에 필요한 원료 공급
     - **관련 기업**: BASF (독일), Lonza Group (스위스)
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 의약품 및 치료법 개발
@@ -44,6 +50,8 @@ AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 �
     - **대표 회사**: AstraZeneca (UK, [AZN](/company-analysis/azn/)), Merck & Co. (US, [MRK](/company-analysis/mrk/))
 - **판매 및 마케팅**: 의약품 판매 및 마케팅
     - **대표 회사**: AstraZeneca (UK, [AZN](/company-analysis/azn/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -62,6 +70,8 @@ AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 �
 - **GSK (UK, [GSK](/company-analysis/gsk/))**: 다양한 치료제 및 백신
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **코로나19 백신 개발**: Vaxzevria 백신 개발 및 전 세계 배포 (2021년)
 - **Alexion 인수**: 희귀 질환 치료제 포트폴리오 강화 (2021년)

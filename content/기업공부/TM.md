@@ -36,6 +36,8 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 1. 자동차 부품: Denso Corporation(JP, Denso)
@@ -85,6 +87,8 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 2023년 기준 Toyota의 글로벌 자동차 시장 점유율은 약 10.5%로, 세계 1위 자동차 제조업체의 위치를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -104,6 +108,8 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 5. Tokio Marine Holdings, Inc. (1.62%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares MSCI Japan ETF - EWJ
 2. JPMorgan BetaBuilders Japan ETF - BBJP

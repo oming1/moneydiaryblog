@@ -131,6 +131,8 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)): 분석 장비 및 시약 공급 (생명과학 분야 글로벌 리더)
 - Danaher Corporation(US, [DHR](/company-analysis/dhr/)): 제조 공정 장비 및 자동화 시스템
 
+{{< adsense-infeed >}}
+
 **유통 및 판매 단계:**
 
 - McKesson(US, [MCK](/company-analysis/mck/)): 의약품 도매 유통 (미국 최대 의약품 유통업체)
@@ -193,6 +195,8 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 
 ## 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 **미국:** 47.2% (2024년 기준, 바이오시밀러 매출의 핵심 시장)  
 **독일:** 8.5% (2024년 기준, 유럽 최대 시장)  
 **프랑스:** 6.8% (2024년 기준, 여성건강 제품 강세)  
@@ -202,6 +206,8 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 **중국:** 3.2% (2024년 기준, 성장 잠재력 시장)  
 **일본:** 2.8% (2024년 기준)  
 **기타 아시아태평양:** 6.5% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -231,12 +237,16 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 **여성건강 시장 점유율:**
 
 - 2024년: 12.5% (글로벌 3위)
 - 2023년: 11.8% (글로벌 3위)
 - 2022년: 11.2% (글로벌 4위)
 - 3년간 추이: +1.3%p 증가, Bayer, CooperSurgical에 이은 3위 유지
+
+{{< adsense-infeed >}}
 
 **장기간 작용 피임법(LARC) 시장:**
 

@@ -22,6 +22,8 @@ weight: 33
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 금융 서비스, 자산 관리
     - **핵심 기업**: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group (미국, 비상장)
 - **후방산업**: 보험 상품 공급, 재보험
@@ -33,17 +35,25 @@ weight: 33
 - **고정 지수 연금 (Fixed Index Annuities)**: 주식 시장 지수의 성과에 따라 이자율이 변동되는 연금 상품
 - **변동 연금 (Variable Annuities)**: 투자 성과에 따라 이자율이 변동되는 연금 상품
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**:
 
 - **미국**: 주요 시장으로 전체 매출의 대부분을 차지
 - **최근 3년간 추이**: 미국 내 매출 비중이 지속적으로 증가
 
+{{< adsense-infeed >}}
+
 **경쟁업체**:
+
+{{< adsense-infeed >}}
 
 - **Prudential Financial (미국, PRU)**: 생명 보험 및 연금 상품 제공
 - **MetLife (미국, MET)**: 생명 보험, 연금, 직원 복지 프로그램 제공
 - **Lincoln National Corporation (미국, LNC)**: 생명 보험 및 연금 상품 제공
 
 **산업 내 글로벌 시장 점유율**:
+
+{{< adsense-infeed >}}
 
 - **최근 3년간 추이**: AEL의 시장 점유율은 미국 내에서 약 5%로 안정적 유지

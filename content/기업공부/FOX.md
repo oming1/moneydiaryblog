@@ -22,6 +22,8 @@ weight: 350
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테인먼트 기업으로, 뉴스, 스포츠, 엔터테인먼트 콘텐츠를 제작하고 배포합니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 케이블 네트워크 프로그래밍: FOX News, FOX Business, FOX Sports 등
@@ -39,6 +41,8 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 8. 혁신적 기술 도입: 스트리밍, 데이터 분석 등 신기술 활용
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -61,6 +65,8 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국이 주요 시장이며, 일부 콘텐츠는 국제적으로 유통됩니다.
 
 ## 경쟁업체
@@ -76,6 +82,8 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 Fox Corporation의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 미국 케이블 뉴스 시장에서 FOX News는 2025년 초 기준으로 약 45%의 시청자 점유율을 보유하고 있어 업계 선두를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Tubi 스트리밍 서비스 성장 가속화: 2025년 1분기 매출 47% 증가 (2025년)
 - LIV Golf와 다년간 TV 중계권 계약 체결 (2025년)

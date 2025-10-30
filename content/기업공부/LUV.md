@@ -23,6 +23,8 @@ Southwest Airlines Co.는 저비용 항공사([LCC](/industry-study/lcc/)) 미�
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 여행사: Expedia (US, [EXPE](/company-analysis/expe/)), Booking Holdings (US, [BKNG](/company-analysis/bkng/))
@@ -33,12 +35,16 @@ Southwest Airlines Co.는 저비용 항공사([LCC](/industry-study/lcc/)) 미�
 - 항공기 제조업체: Boeing (US, [BA](/company-analysis/ba/)), Airbus (FR, [AIR](/company-analysis/air/))
 - 연료 공급업체: Chevron (US, [CVX](/company-analysis/cvx/)), ExxonMobil (US, [XOM](/company-analysis/xom/))
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **정기 항공 운송 서비스:** 미국 및 인근 국제 시장에서의 정기 항공 운송 서비스 (매출 비중: 2023년 기준 90%)
 - **부가 서비스:** EarlyBird Check-In, 업그레이드 보딩, 애완동물 및 미성년자 운송 서비스 (매출 비중: 2023년 기준 10%)
 
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - 미국 (주요 매출 국가)
 - 멕시코
@@ -56,6 +62,8 @@ Southwest Airlines Co.는 저비용 항공사([LCC](/industry-study/lcc/)) 미�
 
 Southwest Airlines Co.의 글로벌 시장 점유율은 약 11.95% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **운영 중단:** 2022년 겨울 폭풍으로 인한 대규모 항공편 취소 및 운영 중단 (2022년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

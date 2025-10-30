@@ -35,12 +35,16 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
     
 5. 분석 서비스 제공
 
+{{< adsense-infeed >}}
+
 2019년 기준 매출은 18억 4,990만 달러였으며, 북미, 남미, 유럽, 아시아 태평양 지역에 25개의 제조 시설을 운영하고 있습니다. 최근에는 환자 중심의 웨어러블 자가주사 시스템 개발과 연결 건강 기술 통합에 주력하고 있습니다.
 
 ## 핵심 경쟁력
 
 6. 글로벌 제조 네트워크: 전 세계적으로 분산된 생산 시설
-    
+
+{{< adsense-infeed >}}
+
 7. 품질 및 신뢰성: 'West Business System'을 통한 높은 품질 표준 유지
     
 8. 혁신 역량: 지속적인 제품 혁신 및 기술 개발
@@ -48,6 +52,8 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 9. 통합 솔루션 제공: 개념화부터 최종 포장까지 원스톱 서비스
     
 10. 규제 전문성: 광범위한 Drug Master Files(DMFs) 포트폴리오 보유
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -66,6 +72,8 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 - 장비 제조업체: Bosch(DE), Optima(DE)
     
 - 분석 서비스 제공업체: Eurofins Scientific(FR, ERF)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -132,7 +140,9 @@ West Pharmaceutical Services의 정확한 글로벌 시장 점유율 데이터�
 - iShares U.S. Medical Devices ETF - IHI
     
 - SPDR S&P Health Care Equipment ETF - XHE
-    
+
+{{< adsense-infeed >}}
+
 - Invesco S&P 500 Equal Weight Health Care ETF - RYH
     
 - First Trust NYSE Arca Biotechnology Index Fund - FBT

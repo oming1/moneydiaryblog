@@ -40,9 +40,13 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 4. 글로벌 파트너십: 정부 및 기업들과의 전략적 제휴를 통한 시장 확대
 5. 우수한 기술 인력: 세계적 수준의 원자력 공학 팀 보유
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 전력 공급: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 - 우주 탐사: SpaceX, Blue Origin
@@ -72,12 +76,16 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 현재 제품 개발 단계로, 구체적인 고객 정보는 제한적입니다. 잠재적 고객으로는 다음과 같은 기업들이 있습니다:
 
 - 전력 회사: Duke Energy(US, [DUK](/company-analysis/duk/)), Exelon(US, [EXC](/company-analysis/exc/))
 - 광산 기업: Rio Tinto(UK, [RIO](/company-analysis/rio/)), BHP Group(AU, [BHP](/company-analysis/bhp/))
 - 우주 탐사 기업: SpaceX, Blue Origin
 - 정부 기관: 미국 국방부, NASA
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -96,6 +104,8 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 Nano Nuclear Energy는 아직 제품 상용화 전 단계로, 정확한 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 미국 내 최초로 상장된 휴대용 원자력 마이크로원자로 기업으로 자리매김하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Ultra Safe Nuclear로부터 주요 특허 포트폴리오 인수 (2025년)
 - 르완다 원자력에너지위원회와 MOU 체결 (2024년)

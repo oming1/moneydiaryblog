@@ -39,10 +39,14 @@ weight: 409
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **호텔 및 리조트 운영**: Hilton Hotels & Resorts, Waldorf Astoria, Conrad Hotels & Resorts 등
 - **브랜드 포트폴리오**: Hilton Garden Inn, Hampton by Hilton, DoubleTree by Hilton 등
 
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지
 - **중국**: 빠르게 성장하는 시장
@@ -55,6 +59,8 @@ weight: 409
 - **InterContinental Hotels Group (영국, IHG)**: 호텔 및 리조트 운영
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **Hilton Worldwide**: 글로벌 호텔 시장에서 약 5%의 점유율 (2023년 기준)
 

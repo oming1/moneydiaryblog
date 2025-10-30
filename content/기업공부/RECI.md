@@ -22,6 +22,8 @@ weight: 736
 
 Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Manufacturing Organization)로서 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제, 고형제, 무균제 및 기타 의약품 제조로 나뉩니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**: 제약 및 바이오테크 산업
@@ -32,6 +34,8 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
     - **핵심 기업**: BASF (독일, BAS), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구개발 (R&D)**: 새로운 의약품 및 치료제 개발
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Merck (미국, [MRK](/company-analysis/mrk/))
@@ -46,6 +50,8 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
 - **Sterile Fill & Finish**: 생물학적 제제 및 소분자 의약품의 무균 충전 및 마감
 - **Oral Delivery Solutions**: 경구용 의약품의 개발 및 제조
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Catalent (미국, [CTLT](/company-analysis/ctlt/))**: 의약품 개발 및 제조 서비스
 - **Lonza Group (스위스, [LONN](/company-analysis/lonn/))**: 생물학적 제제 및 세포 치료제 제조

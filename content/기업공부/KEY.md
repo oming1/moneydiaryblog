@@ -25,7 +25,9 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 소비자 금융 및 기업 대출
     - **역할**: 최종 소비자에게 금융 서비스 제공
     - **주요 기업**:
@@ -34,7 +36,9 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
         - Bank of America (미국, [BAC](/company-analysis/bac/))
 
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 자본 시장 및 투자 서비스
     - **역할**: KeyCorp의 서비스에 필요한 자본 공급
     - **주요 기업**:
@@ -61,6 +65,8 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
     
     - 매출 비중: 전체 매출의 약 50% 차지.
@@ -83,6 +89,8 @@ KeyCorp는 미국을 주요 시장으로 하며, 특히 오하이오주를 중�
 KeyCorp는 미국 내 은행 시장에서 약 2%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **디지털 뱅킹 확장**: 디지털 플랫폼 강화와 고객 접근성 향상을 위한 노력 (2021).
 - **재무 성과 개선**: 비용 절감 및 효율성 향상으로 수익성 증가 (2022).

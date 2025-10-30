@@ -24,6 +24,8 @@ Bank of America는 다양한 금융 서비스를 제공하는 글로벌 금융 �
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:**
     - **부동산:** 모기지 대출을 통해 부동산 시장에 영향을 미칩니다. 주요 기업: Zillow (미국, [Z](/company-analysis/z/)), Redfin (미국, [RDFN](/company-analysis/rdfn/)).
     - **소비자 금융:** 신용 카드 및 개인 대출을 통해 소비자 금융 시장에 영향을 미칩니다. 주요 기업: Visa (미국, [V](/company-analysis/v/)), Mastercard (미국, [MA](/company-analysis/ma/)).
@@ -46,7 +48,11 @@ Bank of America는 다양한 금융 서비스를 제공하는 글로벌 금융 �
     - Bank of America (미국, [BAC](/company-analysis/bac/)): 모기지 대출.
     - Wells Fargo (미국, [WFC](/company-analysis/wfc/)): 모기지 대출.
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **체킹 및 세이빙 계좌:** 개인 및 기업 고객을 위한 계좌.
 - **신용 카드:** 다양한 혜택과 리워드를 제공하는 신용 카드.
@@ -66,7 +72,11 @@ Bank of America는 다양한 금융 서비스를 제공하는 글로벌 금융 �
 - **Citigroup (미국, [C](/company-analysis/c/)):** 글로벌 금융 서비스 제공.
 - **Goldman Sachs (미국, [GS](/industry-study/gs/)):** 투자 은행 및 자산 관리.
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **미국 내 은행:** 10% 이상 (2023년 기준).
 - **글로벌 자산 관리:** 5% (2023년 기준).

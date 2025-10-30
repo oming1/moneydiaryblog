@@ -28,6 +28,8 @@ weight: 758
 
 ## **영위사업**
 
+{{< adsense-infeed >}}
+
 Roper Technologies, Inc.는 1896년 설립된 다각화 기술기업으로, 수직 통합 소프트웨어 솔루션과 기술 기반 제품을 설계, 개발, 제조 및 판매하는 기업입니다. 회사는 특히 미션 크리티컬한 애플리케이션 소프트웨어, 네트워크 소프트웨어 및 기술 기반 제품을 통해 의료, 교육, 정부, 물류, 법률 등 다양한 산업에서 독점적 지위를 구축하고 있습니다.
 
 주요 사업부문은 애플리케이션 소프트웨어(Application Software), 네트워크 소프트웨어(Network Software), 기술 기반 제품(Technology Enabled Products)으로 구성되어 있습니다. 2024년 총 매출 70억 달러를 기록했으며, 애플리케이션 소프트웨어가 전체 매출의 약 55%를 차지하는 소프트웨어 중심 포트폴리오를 운영하고 있습니다.
@@ -231,6 +233,8 @@ Roper Technologies는 주로 소프트웨어 개발과 기술 기반 제품 제�
 
 ## **주요고객**
 
+{{< adsense-infeed >}}
+
 - Mayo Clinic(US, Mayo Clinic) - 미국 대형 의료기관, 의료 정보 시스템
 - Cleveland Clinic(US, Cleveland Clinic) - 미국 대형 의료기관, 의료 소프트웨어
 - Kaiser Permanente(US, Kaiser Permanente) - 통합 의료 시스템, 의료 관리 소프트웨어
@@ -348,6 +352,8 @@ Roper Technologies는 인수합병을 통한 포트폴리오 확장과 고품질
 ---
 
 ## **관련 ETF**
+
+{{< adsense-infeed >}}
 
 - Industrial Select Sector SPDR Fund - XLI
 - Vanguard Industrials ETF - VIS

@@ -110,6 +110,8 @@ ScanTech AI Systems Inc의 수익 모델은 다음과 같이 세분화됩니다:
 
 **Virtual Sentinel AI:**
 
+{{< adsense-infeed >}}
+
 - 실제 스캔과 구별 불가능한 합성 데이터를 생성하는 독자적 AI 알고리즘
 - 실제 데이터 수집 시 획득하기 어려운 시나리오를 합성하여 학습 데이터 보강
 - 합성 폭발물, 위협 물질, 마약, 가방, 소포 등을 생성하여 알고리즘 성능 향상
@@ -131,6 +133,8 @@ ScanTech AI Systems Inc의 수익 모델은 다음과 같이 세분화됩니다:
 ## 제조 공정
 
 ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 **설계 및 개발 단계:** 1단계: 시스템 요구사항 정의 및 설계 명세 작성 2단계: 하드웨어 설계 및 프로토타입 개발 3단계: 소프트웨어 및 AI 알고리즘 개발 4단계: 시스템 통합 및 초기 테스트
 
@@ -297,6 +301,8 @@ ScanTech AI Systems는 신생기업으로 글로벌 보안 검색 시장에서 �
 
 ## 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 - **2025년 7월**: TIPS 조달 계약 체결을 통해 1억 달러 규모의 정부 시설 시장 접근 가능성 확보
 - **2025년 7월**: Q1 2025 10-Q 보고서 제출, 첫 유의미한 분기 매출 $365,471 기록
 - **2025년 5월**: 3천만 달러 규모의 부채/자본 구조조정 완료하여 재무구조 강화
@@ -331,6 +337,8 @@ ScanTech AI Systems는 신생기업으로 글로벌 보안 검색 시장에서 �
 - Industrial Select Sector SPDR Fund XLI
 - Vanguard Industrials ETF VIS
 - Invesco Aerospace & Defense ETF [PPA](/industry-study/ppa/)
+
+{{< adsense-infeed >}}
 
 **마이크로캡/소형주 ETF:**
 

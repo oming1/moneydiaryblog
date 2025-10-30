@@ -87,6 +87,8 @@ Sea Limited의 핵심 경쟁력은 동남아시아 시장에 대한 깊은 이�
 
 플랫폼 간 시너지 효과가 매우 강력합니다. Garena의 Free Fire 게임 사용자들이 Shopee로 유입되고, Shopee 사용자들이 SeaMoney의 금융 서비스를 이용하는 순환 구조를 구축했습니다. 이를 통해 고객 획득 비용을 절감하고 사용자 유지율을 높이며, 각 플랫폼의 데이터를 통합하여 개인화된 서비스를 제공할 수 있습니다.
 
+{{< adsense-infeed >}}
+
 시장 지배력과 규모의 경제도 핵심 강점입니다. Shopee는 동남아시아 7개국 모두에서 이커머스 1위를 차지하고 있으며, 전체 시장 점유율이 약 50%에 달합니다. 이러한 지배적 위치는 판매자와 구매자 모두에게 네트워크 효과를 제공하며, 물류 및 결제 인프라에서 규모의 경제를 실현하고 있습니다.
 
 기술 혁신과 현지화 능력도 뛰어납니다. 각 국가별 언어, 결제 수단, 물류 시스템에 맞춘 서비스를 제공하며, 라이브 스트리밍 커머스, AI 기반 추천 시스템, 모바일 최적화 등 최신 기술을 적극 도입하고 있습니다. 특히 동남아시아 특성에 맞는 소액 결제, 현금 온 딜리버리(COD) 등 다양한 결제 옵션을 제공하고 있습니다.
@@ -172,6 +174,8 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 - Microsoft Azure(US, [MSFT](/company-analysis/msft/)) - 엔터프라이즈 클라우드 서비스
 
 **거래 및 결제 단계:** 전자상거래 및 금융 서비스
+
+{{< adsense-infeed >}}
 
 - Visa(US, [V](/company-analysis/v/)) - 신용카드 결제 처리
 - Mastercard(US, [MA](/company-analysis/ma/)) - 글로벌 결제 네트워크
@@ -366,6 +370,8 @@ Sea Limited는 동남아시아 최대의 인터넷 플랫폼 기업으로 게임
 - iShares MSCI Emerging Markets ETF - EEM
 - Vanguard Emerging Markets Stock ETF - VWO
 - SPDR Portfolio Emerging Markets ETF - SPEM
+
+{{< adsense-infeed >}}
 
 **아시아 태평양 ETF:**
 

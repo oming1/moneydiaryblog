@@ -52,9 +52,13 @@ Celsius Holdings Inc. (CELH)는 건강 및 피트니스 음료를 생산하는 �
 
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **캐나다:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 
@@ -64,9 +68,13 @@ Celsius Holdings Inc. (CELH)는 건강 및 피트니스 음료를 생산하는 �
 
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 - **Celsius Holdings Inc.:** 약 11% (2024년 기준)
 - **Monster Beverage:** 약 35% (2024년 기준)
 - **Red Bull:** 약 30% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

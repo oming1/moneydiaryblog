@@ -149,9 +149,13 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 
 ### 주요 제품
 
+{{< adsense-infeed >}}
+
 - **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
 - **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
 - **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -173,6 +177,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 - 중국: 25% (2023년 기준, 3년간 +4%p).
 - 미국: 30% (2023년 기준, 3년간 +2%p).

@@ -48,10 +48,14 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 
 이러한 경쟁력을 바탕으로 GlobalFoundries는 특화된 반도체 시장에서 강세를 보이며, 대규모 투자가 필요한 최첨단 로직 공정 경쟁에서 벗어나 안정적인 성장을 추구하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     - 반도체 소재: Tokyo Electron
     
@@ -84,11 +88,15 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 1. 미국 (2023년 매출 비중: 57.7%)
 2. 유럽/중동/아프리카 (2023년 매출 비중: 20.7%)
 3. 기타 지역 (2023년 매출 비중: 21.6%)
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Taiwan Semiconductor Manufacturing Company (TW, [TSM](/company-analysis/tsm/)) - 첨단 로직 반도체
 2. [Samsung](/industry-study/samsung/) - 첨단 로직 및 메모리 반도체

@@ -24,6 +24,8 @@ Wynn Resorts는 고급 호텔과 카지노를 개발하고 운영하는 기업�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 건설 및 인테리어 업체: 호텔 및 카지노 시설 건설
@@ -50,7 +52,11 @@ Wynn Resorts는 고급 호텔과 카지노를 개발하고 운영하는 기업�
 - 엔터테인먼트 공연
 - 회의 및 컨벤션 시설
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국(라스베가스), 중국(마카오)
 
@@ -61,11 +67,15 @@ Wynn Resorts는 고급 호텔과 카지노를 개발하고 운영하는 기업�
 - Caesars Entertainment(US, [CZR](/company-analysis/czr/))
 - Melco Resorts & Entertainment(US, [MLCO](/company-analysis/mlco/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Wynn Resorts는 고급 카지노 리조트 시장에서 주요 플레이어 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 코로나19 팬데믹으로 인한 영업 중단 및 회복 과정 (2020-2022)
 - 마카오 카지노 라이선스 갱신 (2022)

@@ -42,9 +42,13 @@ weight: 653
 
 Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [원자력 발전](/industry-study/원자력-발전/) 기술 회사입니다. 주요 제품은 Aurora라는 소형 모듈형 원자로(SMR)입니다.
 
+{{< adsense-infeed >}}
+
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
 - 감속재 : 없음 / 냉각재 : 액체금속 소듐 
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -59,6 +63,8 @@ Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
     - 관련 기업: Centrus Energy (US, [LEU](/company-analysis/leu/)), Siemens Energy (DE, ENR.DE)
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - 연구 및 개발: 차세대 핵분열 기술 개발
 - 설계 및 제조: Aurora 원자로 설계 및 제작

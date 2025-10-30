@@ -48,14 +48,22 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - 전자부품 제조: Flex(US, FLEX), Jabil(US, [JBL](/company-analysis/jbl/))
 - 소프트웨어 개발: Red Hat([IBM](/company-analysis/ibm/)), VMware([DELL](/company-analysis/dell/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 데이터센터 스위치: 7000 시리즈, 매출의 약 60% (2024년 기준)
 - 캠퍼스 네트워킹 솔루션: 720XP 시리즈, 매출의 약 15% (2024년 기준)
 - 네트워크 소프트웨어: EOS, CloudVision, 매출의 약 20% (2024년 기준)
 - 서비스 및 지원: 전문 서비스, 교육, 매출의 약 5% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 캐나다, 영국, 독일, 일본, 호주, 인도, 중국
 
@@ -80,6 +88,8 @@ Arista Networks는 2024년 기준 고속(100G 이상) 데이터센터 스위치 
 - 연간 매출 100억 달러 돌파 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.95%)
 - BlackRock (7.62%)

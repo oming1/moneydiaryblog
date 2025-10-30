@@ -101,6 +101,8 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 - 포장재 제조업체 - 용기, 라벨, 포장재 공급
 - 제3자 제조업체 - OEM 생산 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 밸류체인
@@ -136,6 +138,8 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 ## 주요 고객
 
 홍콩 현지 소비자를 주요 고객으로 하며, 구체적인 B2B 고객 정보는 공개되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -183,13 +187,19 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 
 **Wong Ying Yeung (CEO & Co-Founder)**: 지분율 데이터 없음 **Young (Co-Founder)**: 지분율 데이터 없음 **기관 투자자**: 지분율 데이터 없음 **개인 투자자**: 지분율 데이터 없음
 
+{{< adsense-infeed >}}
+
 _주주 구성에 대한 상세 정보는 공개되지 않았습니다._
+
+{{< adsense-infeed >}}
 
 ---
 
 ## 관련 ETF
 
 **직접 관련 ETF**: 해당 없음 (소형주로 ETF 편입 정보 없음)
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

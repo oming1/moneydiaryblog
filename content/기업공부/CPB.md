@@ -20,6 +20,8 @@ Industry: 식품 제품(Food Products)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Campbell's Company(이전 Campbell Soup Company)는 미국의 식품 제조 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 수프 및 통조림 식품 생산
@@ -41,9 +43,13 @@ Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Nestlé (스위스, NESN.SW)
 2. PepsiCo (US, [PEP](/company-analysis/pep/))

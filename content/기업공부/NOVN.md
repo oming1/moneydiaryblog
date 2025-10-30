@@ -22,6 +22,8 @@ weight: 624
 
 Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스케어 제품을 제공합니다. 주요 제품군에는 특허 보호를 받는 처방약, 제네릭(복제약) 의약품, [바이오시밀러](/industry-study/바이오시밀러/), 안과 제품 등이 포함됩니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**:
@@ -31,6 +33,8 @@ Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스�
 - **후방산업**:
     - **화학**: 원료 공급업체 (예: BASF (DE, BAS), Dow Inc. (US, [DOW](/company-analysis/dow/)))
     - **바이오테크**: 바이오 기술 및 연구 개발 업체 (예: Amgen (US, [AMGN](/company-analysis/amgn/)), Biogen (US, [BIIB](/company-analysis/biib/)))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -46,6 +50,8 @@ Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스�
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 주요 매출 국가 (2023년 매출 비중: 33%)
 - **유럽**: 주요 매출 국가 (2023년 매출 비중: 30%)
 - **아시아**: 주요 매출 국가 (2023년 매출 비중: 20%)
@@ -55,8 +61,12 @@ Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스�
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제 및 백신
 - **Roche (CH, [ROG](/company-analysis/rog/))**: 항암제 및 진단 제품
 - **Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))**: 다양한 헬스케어 제품
-  
+
+{{< adsense-infeed >}}
+
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Sandoz 분사**: 제네릭 의약품 사업부인 Sandoz의 분사 계획 발표 (2023)
 - **COVID-19 영향**: 팬데믹으로 인한 공급망 문제 및 임상 시험 지연 (2022)

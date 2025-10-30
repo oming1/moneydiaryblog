@@ -22,9 +22,13 @@ weight: 541
 
 Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및 기타 소비재를 판매하는 옴니채널 소매업체입니다. Macy’s, Bloomingdale’s, Bluemercury 브랜드를 통해 운영되며, 매장, 웹사이트 및 모바일 애플리케이션을 통해 제품을 판매합니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 **전방산업:**
+
+{{< adsense-infeed >}}
 
 - 소매업체: Nordstrom (US, [JWN](/company-analysis/jwn/)), Kohl’s (US, [KSS](/company-analysis/kss/))
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
@@ -35,6 +39,8 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 - 물류업체: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **의류:** 남성, 여성, 아동 의류 (매출 비중: 2023년 기준 50%)
 - **액세서리 및 화장품:** 가방, 주얼리, 화장품 등 (매출 비중: 2023년 기준 30%)
@@ -49,6 +55,8 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 - **Nordstrom (US, [JWN](/company-analysis/jwn/)):** 백화점 (시장 점유율 15%)
 - **Kohl’s (US, [KSS](/company-analysis/kss/)):** 백화점 (시장 점유율 10%)
 - **Amazon (US, [AMZN](/company-analysis/amzn/)):** 전자상거래 (시장 점유율 30%)
+
+{{< adsense-infeed >}}
 
 ### 산업 내 글로벌 시장 점유율
 

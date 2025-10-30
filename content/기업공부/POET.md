@@ -22,6 +22,8 @@ weight: 704
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     - **데이터 센터**: 데이터 저장 및 처리 솔루션 제공. 주요 기업: Amazon (US, [AMZN](/company-analysis/amzn/)), Microsoft (US, [MSFT](/company-analysis/msft/)).
     - **통신**: 네트워크 인프라 및 서비스 제공. 주요 기업: Cisco (US, [CSCO](/company-analysis/csco/)), Huawei.
@@ -37,11 +39,15 @@ weight: 704
 
 **주요제품**:
 
+{{< adsense-infeed >}}
+
 - **POET Optical Interposer™**: 전자 및 광자 장치를 단일 멀티칩 모듈로 통합하는 플랫폼.
 - **광학 엔진**: 100G, 200G, 400G, 800G 트랜시버용 광학 엔진.
 - **광원**: O-밴드 및 C-밴드 엔진.
 
 **주요 판매국가**:
+
+{{< adsense-infeed >}}
 
 - **캐나다**
 - **미국**

@@ -175,6 +175,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 
 **우주선 구성품 제조:**  
 
+{{< adsense-infeed >}}
+
 1단계: 원자재 검수 및 준비  
 2단계: 정밀 부품 가공 및 제작  
 3단계: 전자 시스템 및 회로 조립  
@@ -479,6 +481,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 2022년: Planet Labs 25%(1위), Spire Global 12%(2위), Rocket Lab 5%(3위)
 - 3년간 추이: Planet Labs 변동 없음, Spire Global +3%p, Rocket Lab +5%p
 
+{{< adsense-infeed >}}
+
 **전체 상업 우주 발사 시장:**
 
 - 2024년: SpaceX 70%(1위), ULA 10%(2위), Rocket Lab 8%(3위)
@@ -546,6 +550,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 뉴트론 로켓 발사 계약 첫 체결 발표 (2024년 11월)
 
 **2023년:**
+
+{{< adsense-infeed >}}
 
 - NASA CAPSTONE 달 궤도 미션 성공적 완료 (2023년 3월)
 - 금성 탐사 미션 (Venus Life Finder) 계약 체결 (2023년 8월)

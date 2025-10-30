@@ -28,12 +28,16 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 
 회사는 전 세계 120여 개국에 제품을 판매하고 있으며, 뉴질랜드와 멕시코에 제조 시설을 보유하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 전방산업
 
 - 병원 및 의료 시설: 호흡 치료 장비 사용
 - 수면 클리닉: 수면 무호흡증 치료 장비 활용
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 
@@ -59,6 +63,8 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 
 Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 뉴질랜드 내 매출은 전체의 1%에 불과합니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. ResMed (US, [RMD](/company-analysis/rmd/))
@@ -69,7 +75,11 @@ Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Fisher & Paykel Healthcare는 호흡 치료 및 수면 무호흡증 치료 분야에서 주요 글로벌 플레이어로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -24,6 +24,8 @@ Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 의료용 및 성인용 대마초 제품
 - CBD 오일 및 관련 제품
 - 대마 기반 음료 및 식품
@@ -33,6 +35,8 @@ Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및
 
 캐나다, 미국, 유럽, 호주, 뉴질랜드, 라틴 아메리카
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Canopy Growth(US, [CGC](/company-analysis/cgc/))
@@ -40,6 +44,8 @@ Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및
 - Cronos Group(캐나다, CRON)
 
 ## 주요 브랜드
+
+{{< adsense-infeed >}}
 
 Tilray, Aphria, Broken Coast, Symbios, B!NGO, The Batch, Dubon, Good Supply, Solei, Chowie Wowie, Canaca, RIFF, SweetWater, Breckenridge Distillery, Alpine Beer Company, Green Flash
 

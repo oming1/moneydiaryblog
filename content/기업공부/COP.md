@@ -80,6 +80,8 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 중국, 일본, 한국, 영국, 캐나다, 호주, 인도네시아, 말레이시아, 노르웨이
 
 ## 경쟁업체
@@ -89,6 +91,8 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 - Shell(UK, SHEL): 종합 에너지 회사
 - BP(UK, BP): 종합 에너지 회사
 - TotalEnergies(FR, TTE): 종합 에너지 회사
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -107,6 +111,8 @@ ConocoPhillips는 2024년 기준 글로벌 석유 및 가스 생산량 기준으
 - The Vanguard Group (8.91%)
 - BlackRock (8.20%)
 - State Street Corporation (4.55%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

@@ -20,6 +20,8 @@ weight: 465
 
 **영위사업**: Johnson Controls International은 HVAC(난방, 환기 및 공기 조화), 보안, 화재 감지, 빌딩 자동화 및 제어 솔루션을 제공하는 글로벌 리더입니다. 이 회사는 스마트 빌딩 기술을 통해 에너지 효율성을 높이고, 지속 가능한 건물 환경을 조성하는 데 중점을 두고 있습니다
 
+{{< adsense-infeed >}}
+
 **전방/후방산업**:
 
 - **전방산업**: 건설업, 부동산 개발업
@@ -34,6 +36,8 @@ weight: 465
 - **설치 및 유지보수**: 제품 설치 및 유지보수 서비스 제공
     - **대표 회사**: Carrier Global (미국, [CARR](/company-analysis/carr/)), Trane Technologies (미국, TT)
 
+{{< adsense-infeed >}}
+
 **주요제품**:
 
 - **HVAC 시스템**: 난방, 환기 및 공기 조화 시스템
@@ -43,12 +47,16 @@ weight: 465
 
 **주요 판매국가**:
 
+{{< adsense-infeed >}}
+
 - 미국: Johnson Controls의 주요 시장은 미국을 포함한 전 세계 150개 이상의 국가입니다. 국가별 매출액 비중은 공개되지 않았습니다.
 
 **경쟁업체**:
 
 - **Honeywell (미국, [HON](/company-analysis/hon/))**: HVAC, 보안, 화재 감지 시스템 제공
 - **Siemens (독일, [SIE](/company-analysis/sie/))**: 빌딩 자동화 및 제어 솔루션 제공
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 

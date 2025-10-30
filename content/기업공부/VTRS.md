@@ -21,7 +21,11 @@ weight: 945
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업입니다. 주요 사업 영역은 처방 브랜드 의약품, 제네릭 의약품, 복합 제네릭 의약품, [바이오시밀러](/industry-study/바이오시밀러/), 활성 제약 성분(API) 등을 포함합니다.
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 
@@ -45,15 +49,21 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
     - **설명:** 의약품 생산 및 품질 관리
     - **대표회사:** Viatris (미국, [VTRS](/company-analysis/vtrs/)), Teva Pharmaceutical Industries (이스라엘, [TEVA](/company-analysis/teva/))
 
+{{< adsense-infeed >}}
+
 - **유통:**
     - **설명:** 의약품을 도매업체 및 소매업체에 공급
     - **대표회사:** AmerisourceBergen (미국, [ABC](/company-analysis/abc/)), McKesson (미국, [MCK](/company-analysis/mck/))
+
+{{< adsense-infeed >}}
 
 - **판매 및 마케팅:**
     - **설명:** 의약품을 최종 소비자에게 판매
     - **대표회사:** CVS Health (미국, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (미국, [WBA](/company-analysis/wba/))
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Lyrica (신경통 치료제)**
 - **Lipitor (고지혈증 치료제)**

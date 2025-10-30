@@ -25,7 +25,9 @@ Qualcomm은 무선 통신 및 모바일 기술을 개발하고 상용화하는 �
 ## 전방/후방산업
 
 - **전방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 스마트폰 및 모바일 기기의 제조 및 판매
     - **관련 기업**: Apple (US, [AAPL](/company-analysis/aapl/)), Samsung Electronics (KR, KRX: 005930)
     
@@ -42,7 +44,9 @@ Qualcomm은 무선 통신 및 모바일 기술을 개발하고 상용화하는 �
     - **대표 회사**: MediaTek (TWSE: 2454) - 모바일 칩셋 제조업체
     
 - **제조**: 반도체 및 시스템 소프트웨어의 생산
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: [Samsung](/industry-study/samsung/) (KR, KRX: 005930) - 반도체 제조
     - **대표 회사**: GlobalFoundries (US, [GFS](/company-analysis/gfs/)) - 파운드리 서비스
     
@@ -52,6 +56,8 @@ Qualcomm은 무선 통신 및 모바일 기술을 개발하고 상용화하는 �
     - **대표 회사**: Hewlett-Packard (US, [HPQ](/company-analysis/hpq/)) - 하드웨어 및 소프트웨어 솔루션
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - **Snapdragon(스냅드래곤) 프로세서** (모바일 및 IoT 기기용, 매출의 약 70%)
 - **Qualcomm CDMA Technologies (QCT)** (통신 칩, 매출의 약 20%)

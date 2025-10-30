@@ -35,6 +35,8 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업:
     
     - 핵심 산업: 농업, 도시계획, 환경 모니터링, 국방
@@ -53,7 +55,9 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
     
     - Satellogic은 자체적으로 위성을 설계하고 제조합니다.
     - 대표 기업: Planet Labs (미국, [PL](/company-analysis/pl/)), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/))
-    
+
+{{< adsense-infeed >}}
+
 - 위성 이미지 분석 및 서비스:
     
     - 수집된 이미지를 AI 기반으로 분석하고 고객에게 제공합니다.
@@ -66,6 +70,8 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
 - 맞춤형 지리공간 분석 솔루션 (전체 매출의 약 10%)
 
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 Satellogic은 전 세계적으로 서비스를 제공하며, 특히 남미, 유럽, 아시아 지역에서 강세를 보입니다.
 

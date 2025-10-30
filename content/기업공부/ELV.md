@@ -38,6 +38,8 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - IT 서비스: Accenture (미국, [ACN](/company-analysis/acn/))
 
+{{< adsense-infeed >}}
+
 **밸류체인**
 
 - **보험 상품 개발:** 보험 상품 설계 및 개발
@@ -48,6 +50,8 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Cognizant (미국, [CTSH](/company-analysis/ctsh/))
 
 **주요제품**
+
+{{< adsense-infeed >}}
 
 - **의료 보험:** 개인 및 단체 의료 보험
 - **약국 혜택 관리:** 약국 혜택 관리 서비스
@@ -66,7 +70,11 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 
 **산업 내 글로벌 시장 점유율**
 
+{{< adsense-infeed >}}
+
 - Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

@@ -38,6 +38,8 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
         - 에너지 저장: Tesla (미국, [TSLA](/company-analysis/tsla/))
         - 에너지 전송: American Electric Power (미국, [AEP](/company-analysis/aep/))
 
+{{< adsense-infeed >}}
+
 **밸류체인**
 
 - **생산:** 전력 및 에너지 저장 제품 생산
@@ -46,6 +48,8 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
     - **대표 회사:** American Electric Power (미국, [AEP](/company-analysis/aep/)), Dominion Energy (미국, [D](/company-analysis/d/))
 - **배포:** 전력 및 에너지 배포
     - **대표 회사:** Southern Company (미국, [SO](/company-analysis/so/)), Consolidated Edison (미국, [ED](/company-analysis/ed/))
+
+{{< adsense-infeed >}}
 
 **주요제품**
 
@@ -60,11 +64,15 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
 
+{{< adsense-infeed >}}
+
 **경쟁업체**
 
 - **Tesla (미국, [TSLA](/company-analysis/tsla/)):** 에너지 저장 및 전력 공급
 - **Caterpillar (미국, [CAT](/company-analysis/cat/)):** 상업용 및 산업용 전력 공급
 - **Cummins (미국, [CMI](/company-analysis/cmi/)):** 상업용 및 산업용 전력 공급
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**
 

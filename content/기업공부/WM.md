@@ -31,6 +31,8 @@ Waste Management Inc.는 북미에서 환경 솔루션을 제공하는 회사로
     - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)))
     - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, BAS))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)), BASF (DE, BAS))
@@ -44,6 +46,8 @@ Waste Management Inc.는 북미에서 환경 솔루션을 제공하는 회사로
 - **재활용 서비스**: 종이, 유리, 금속, 플라스틱 등의 재활용 서비스
 - **자원 회수**: 매립지 가스를 이용한 재생 가능 에너지 생산([재생에너지](/industry-study/재생에너지/))
 - **특수 폐기물 처리**: 유해 폐기물 및 산업 폐기물 처리 서비스
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 
@@ -62,6 +66,8 @@ Waste Management Inc.는 북미에서 환경 솔루션을 제공하는 회사로
 Waste Management Inc.는 글로벌 폐기물 관리 시장에서 약 6.4%의 점유율을 보유하고 있습니다 (2024년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **2024년**: 매출 감소 및 시장 점유율 하락 (2024년)
 - **2023년**: 새로운 재활용 시설 개설 및 기술 투자 (2023년)

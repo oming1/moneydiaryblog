@@ -49,6 +49,8 @@ Beasley Broadcast Group은 1961년 조지 G. 비즐리가 설립한 미국의 �
 
 ## 비즈니스 모델(수익 모델)
 
+{{< adsense-infeed >}}
+
 Beasley Broadcast Group의 비즈니스 모델은 지역 중심의 라디오 방송과 디지털 플랫폼을 통한 광고 기반 수익 구조를 핵심으로 합니다.
 
 ### 1. 지역 광고 수익 모델:
@@ -139,6 +141,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 
 ### 방송 송출 단계:
 
+{{< adsense-infeed >}}
+
 라디오 타워 및 송출 시스템을 통한 방송 배급
 
 - American Tower Corporation(US, [AMT](/company-analysis/amt/)) - 타워 임대
@@ -158,6 +162,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 ## 주요제품
 
 **WXTU (필라델피아):** 컨트리 음악 방송, 92.5 FM, 필라델피아 지역 대표 컨트리 스테이션, 관련 경쟁사 지역 다른 컨트리 스테이션들
+
+{{< adsense-infeed >}}
 
 **WMMR (필라델피아):** 클래식 록 음악 방송, 93.3 FM, 필라델피아 지역 록 음악 청취자 타겟, 관련 경쟁사 지역 록 스테이션들
 
@@ -214,6 +220,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 
 **전국 광고주 (B2B):**
 
+{{< adsense-infeed >}}
+
 - 대형 소매체인들 - 전국 브랜드의 지역 마케팅
 - 통신사들 - 모바일 및 인터넷 서비스 광고
 - 금융 서비스 업체 - 은행, 보험사 광고
@@ -242,6 +250,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 ## 경쟁업체
 
 **대형 라디오 방송 그룹:**
+
+{{< adsense-infeed >}}
 
 - iHeartMedia(US, [IHRT](/company-analysis/ihrt/)) - 미국 최대 라디오 방송 그룹, 850개 이상 스테이션
 - [Audacy](/company-analysis/audacy/)(US, AUD) - 미국 2위 라디오 방송 그룹, 170개 이상 스테이션

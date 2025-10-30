@@ -78,6 +78,8 @@ SolarMax Technology Inc.은 2008년 David Hsu, Ching Liu, Simon Yuan에 의해 �
 
 **EPC 전문성:** 대규모 유틸리티 프로젝트의 엔지니어링, 조달, 건설 전 단계 관리 기술
 
+{{< adsense-infeed >}}
+
 **그리드 연계 기술:** 전력망 연계 및 안정화를 위한 전력전자 기술
 
 ---
@@ -110,6 +112,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - 인버터: Enphase Energy(US, [ENPH](/company-analysis/enph/)), SolarEdge(IL, [SEDG](/company-analysis/sedg/)) - 전력변환장치
 - 구조물: 철강 및 알루미늄 구조물 제조업체
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 밸류체인
@@ -141,6 +145,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 **상업용 태양광 프로젝트:** 상업시설 대규모 태양광, 매출의 25% (2024년), 주요 경쟁사 SunPower [SPWR](/company-analysis/spwr/)
 
 **배터리 저장 시스템:** 유틸리티 규모 BESS, 매출의 10% (2024년), 주요 경쟁사 Fluence Energy FLNC
+
+{{< adsense-infeed >}}
 
 **LED 조명 솔루션:** 에너지 효율 조명 시스템, 매출의 5% (2024년)
 
@@ -178,6 +184,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - 소매업체 - 매장 및 쇼핑센터 태양광
 
 **공공기관:**
+
+{{< adsense-infeed >}}
 
 - 캘리포니아 공립학교 - 교육시설 태양광
 - 지방정부 청사 - 공공건물 태양광
@@ -282,6 +290,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 ## 주요 주주 (지분율)
 
 **2025년 Q1 기준:**
+
+{{< adsense-infeed >}}
 
 - 내부자 지분율: 38.0% (창업자 및 경영진)
 - 기관투자자: 7.1%

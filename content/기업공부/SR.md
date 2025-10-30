@@ -33,6 +33,8 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 지역 독점: 규제된 시장에서 독점적 지위를 가지고 있어 안정적인 수익 창출이 가능합니다.
 2. 규제 환경: 정부 규제로 인해 안정적인 수익률이 보장되며, 이는 예측 가능한 현금흐름으로 이어집니다.
 3. 필수 서비스 제공: 천연가스는 필수 에너지원으로, 경기 변동에 상대적으로 덜 민감한 수요를 보입니다.
@@ -46,7 +48,9 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 1. 주거용 에너지: 가정용 난방 및 조리
     
     - 주택 건설업체: Lennar Corporation(US, [LEN](/company-analysis/len/))
-    
+
+{{< adsense-infeed >}}
+
 2. 상업용 에너지: 사무실, 상점 등의 난방 및 에너지 사용
     
     - 상업용 부동산: Simon Property Group(US, [SPG](/company-analysis/spg/))
@@ -55,10 +59,14 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
     
     - 제조업체: General Electric(US, [GE](/company-analysis/ge/))
 
+{{< adsense-infeed >}}
+
 ## 후방산업:
 
 1. 천연가스 생산: 원료 공급
-    
+
+{{< adsense-infeed >}}
+
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
     
 2. 파이프라인 인프라: 가스 운송
@@ -110,6 +118,8 @@ SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다�
 ## 주요 판매국가
 
 미국 (미주리주, 앨라배마주, 미시시피주 등)
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

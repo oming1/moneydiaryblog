@@ -25,6 +25,8 @@ weight: 321
 - **언더라이팅 서비스 (Underwriting Services):** 언더라이팅 및 정책 처리
 - **기타 서비스 (Other Services):** 고객 서비스, 행정 지원, 정보 기술 서비스
 
+{{< adsense-infeed >}}
+
 **전방/후방산업 (Upstream Industries)**
 
 - **전방산업 ( Industries):**
@@ -48,6 +50,8 @@ weight: 321
 - **서비스 (Service):** 고객 서비스 및 지원
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Deloitte (미국, 비상장)
 
+{{< adsense-infeed >}}
+
 **주요제품 (Main Products)**
 
 - **자동차 보험 (Auto Insurance):** 개인 및 상업용 차량 보험
@@ -57,12 +61,16 @@ weight: 321
 
 **경쟁업체 (Competitors)**
 
+{{< adsense-infeed >}}
+
 - **Allstate (미국, ALL):** 개인 및 상업용 보험
 - **Travelers Companies (미국, [TRV](/company-analysis/trv/)):** 상업 및 개인 보험
 - **Progressive (미국, [PGR](/company-analysis/pgr/)):** 자동차 및 주택 보험
 - **State Farm (미국, 비상장):** 개인 및 상업용 보험
 
 **최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)**
+
+{{< adsense-infeed >}}
 
 - **기후 변화:** 자연 재해로 인한 보험 청구 증가 (2023)
 - **디지털 전환:** 디지털 플랫폼 및 서비스 확장 (2022)

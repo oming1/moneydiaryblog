@@ -22,6 +22,8 @@ Industry: Packaged Foods (포장식품)
 
 Kellanova, formerly known as the Kellogg Company, is an American multinational food manufacturing company headquartered in Battle Creek, Michigan. Founded in 1906 by Will Keith Kellogg, the company is renowned for its breakfast cereals and convenience foods. In October 2023, Kellogg's was split into two independent companies: Kellanova, which focuses on convenience foods and snacks, and WK Kellogg Co, which retains the North American cereal business.
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 - 제조 및 판매의 다양한 식품 제품
@@ -31,6 +33,8 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 소비자에게 직접 판매
 - 주요 고객: 개인 소비자, 소매업체, 도매업체
@@ -71,6 +75,8 @@ Kellanova는 전 세계 아침 시리얼 시장에서 약 17%의 점유율을 �
 
 - **2023년 10월**: Kellogg Company가 북미 시리얼 사업을 분리하여 Kellanova와 WK Kellogg Co 두 개의 독립 기업으로 재편성했습니다.
 - **2023년 1분기**: Kellanova는 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 자세한 종목 정보 링크
 

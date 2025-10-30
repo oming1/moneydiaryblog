@@ -20,6 +20,8 @@ weight: 418
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 부동산, 건설
     - **핵심 산업 및 역할**: 부동산 개발 및 건설업체는 보험 가입자에게 필요한 자산을 제공합니다.
     - **관련 기업**: Lennar Corporation (미국, [LEN](/company-analysis/len/)), D.R. Horton (미국, [DHI](/company-analysis/dhi/))
@@ -29,6 +31,8 @@ weight: 418
     - **관련 기업**: Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **보험 상품 개발**: 보험 상품의 기획 및 개발
     - **대표 회사**: Allstate Corporation (미국, ALL), Progressive Corporation (미국, [PGR](/company-analysis/pgr/))
@@ -48,6 +52,8 @@ weight: 418
 - **미국**: 주요 매출 국가로, 전체 매출의 대부분을 차지
 - **플로리다**: 주요 시장 중 하나로, 주택 보험의 큰 비중을 차지
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
 
 - **Allstate Corporation (미국, ALL)**: 재산 및 상해 보험
@@ -56,7 +62,11 @@ weight: 418
 
 #### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 - **Heritage Insurance**: 미국 내 재산 및 상해 보험 시장에서 약 1%의 점유율 (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

@@ -57,11 +57,15 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
 - Hermes 2 (28MW 전기 출력)
 - KP-X (150MW 상용 원자로)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 현재 미국을 중심으로 사업을 전개하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - NuScale Power (미국, [SMR](/industry-study/smr/)) - 소형 모듈형 원자로
 - [TerraPower](/company-analysis/terrapower/) (미국, 비상장) - 진행파 원자로
@@ -70,6 +74,8 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
 ## 산업 내 글로벌 시장 점유율
 
 Kairos Power는 아직 상용 원자로를 운영하지 않아 시장 점유율은 없지만, 차세대 소형 모듈형 원자로(SMR) 시장에서 주목받는 기업 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

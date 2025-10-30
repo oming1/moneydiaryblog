@@ -165,6 +165,8 @@ Amazon은 제조업체가 아닌 플랫폼 사업자로서 다음과 같은 운�
 
 **상품 소싱 단계:** 글로벌 제조업체 및 유통업체와의 공급계약
 
+{{< adsense-infeed >}}
+
 - Procter & Gamble(US, [PG](/company-analysis/pg/)) - 생활용품 및 소비재 공급
 - Unilever(UK, UL) - 식품 및 개인용품 공급
 - Nike(US, [NKE](/company-analysis/nke/)) - 스포츠 용품 및 의류 공급
@@ -316,6 +318,8 @@ Amazon은 제조업체가 아닌 플랫폼 사업자로서 다음과 같은 운�
 - 3위: Apple - 약 4%
 - 4위: eBay - 약 3%
 
+{{< adsense-infeed >}}
+
 최근 3년간 클라우드 시장 점유율은 33% → 32% → 31%로 소폭 감소하고 있으나 여전히 압도적 1위를 유지하고 있으며, 전자상거래 시장 점유율은 안정적으로 유지되고 있습니다.
 
 ---
@@ -362,6 +366,8 @@ AI 및 생성형 AI 기술 도입을 통한 차세대 성장도 주목할 점입
 - Jeff Bezos (Executive Chairman): 9.56% (10억 1,500만 주)
 - Andrew Jassy (CEO): 0.04% (40만 주)
 - Douglas Herrington (CEO, Worldwide Amazon Stores): 0.03% (30만 주)
+
+{{< adsense-infeed >}}
 
 ---
 

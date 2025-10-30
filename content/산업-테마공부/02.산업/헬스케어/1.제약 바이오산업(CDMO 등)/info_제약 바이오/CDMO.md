@@ -45,6 +45,8 @@ CDMO (Contract Development and Manufacturing Organization)는 신약을 개발�
 
 ### 대표적인 CDMO 전문회사
 
+{{< adsense-infeed >}}
+
 1. **[WuXi Biologics](/company-analysis/wuxi-biologics/) (HK: 02269)**
     - 주요 제품: 바이오의약품 위탁생산
 2. **Catalent (NYSE: [CTLT](/company-analysis/ctlt/))**
@@ -70,11 +72,15 @@ CDMO (Contract Development and Manufacturing Organization)는 신약을 개발�
 
 ### CDMO와 유사한 개념의 항목들
 
+{{< adsense-infeed >}}
+
 1. **[CRO](/industry-study/cro/) (Contract Research Organization)**
     - **개념**: 임상시험수탁기관으로, 임상 연구, 규제 업무, 임상시험 계획, 시험기관 선정 및 개시, 시험대상자 모집 지원, 임상 모니터링, 데이터 관리 등의 임상시험 서비스를 제공합니다
 2. **[CMO](/industry-study/cmo/) (Contract Manufacturing Organization)**
     - **개념**: 의약품을 위탁 생산하는 조직으로, 제약사의 요구에 따라 의약품을 제조합니다.
         -[CMO vs. CDMO 차이](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=28&selection=279,1,284,3&color=yellow))
+
+{{< adsense-infeed >}}
 
 3. **CDO (Contract Development Organization)**
     - **개념**: 신약 개발 과정의 일부 또는 전체를 위탁받아 수행하는 조직으로, 세포주 개발, 공정 개발, 제형 개발 등의 서비스를 제공합니다

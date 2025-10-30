@@ -23,6 +23,8 @@ weight: 724
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 QuantumScape Corporation은 [전기차](/industry-study/2산업자동차-산업전기차/)(EV) 및 기타 응용 분야를 위한 차세대 고체 전해질 리튬 메탈 배터리 기술을 개발하는 기업입니다. 2010년 스탠포드 대학에서 설립되어 2020년 SPAC 합병을 통해 뉴욕 증권 거래소에 상장되었습니다.주요 사업 영역:
 
 1. 고체 전해질 리튬 메탈 배터리 개발
@@ -52,7 +54,9 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
     - AES Corporation(US, AES), Fluence Energy(US, FLNC)
     
 3. 소비자 전자기기: 스마트폰, 웨어러블 기기 등
-    
+
+{{< adsense-infeed >}}
+
     - Apple(US, [AAPL](/company-analysis/aapl/)), Samsung Electronics(KR, 005930)
 
 ## 후방산업:
@@ -66,7 +70,9 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
     - Applied Materials(US, [AMAT](/company-analysis/amat/)), Teradyne(US, [TER](/company-analysis/ter/))
     
 3. 연구 개발: 재료 과학, 화학 공학 분야의 연구 기관
-    
+
+{{< adsense-infeed >}}
+
     - 스탠포드 대학, MIT 등 주요 연구 기관
 
 ## 밸류체인
@@ -74,7 +80,9 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 1. 연구 개발: 고체 전해질 및 배터리 기술 개발
     
     - QuantumScape(US, [QS](/company-analysis/qs/)), Solid Power(US, SLDP)
-    
+
+{{< adsense-infeed >}}
+
 2. 원자재 조달: 리튬, 니켈, 코발트 등 배터리 소재
     
     - Albemarle Corporation(US, [ALB](/company-analysis/alb/)), SQM(CL, SQM)
@@ -86,7 +94,9 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 4. 배터리 팩 조립: 셀을 조립하여 배터리 팩 제작
     
     - 자동차 제조사 또는 전문 배터리 팩 제조업체
-    
+
+{{< adsense-infeed >}}
+
 5. 전기차 제조: 배터리 팩을 탑재한 전기차 생산
     
     - Volkswagen(DE, VOW3), 기타 자동차 제조사

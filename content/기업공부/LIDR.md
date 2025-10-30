@@ -34,6 +34,8 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 4. 낮은 전력 소비: 경쟁사 대비 낮은 전력 소비로 효율성을 높였습니다.
 5. 모듈식 설계: 다양한 응용 분야에 맞춤형 솔루션 제공이 가능합니다.
 
+{{< adsense-infeed >}}
+
 이러한 기술적 우위를 바탕으로 AEye는 자율주행 및 ADAS 시장에서 경쟁력을 유지하고 있습니다.
 
 ## 전방/후방산업
@@ -46,6 +48,8 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 - 산업 자동화: ABB(CH, [ABB](/company-analysis/abb/)), Siemens(DE, [SIE](/company-analysis/sie/))
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/))
 - 광학 부품: II-VI(US, IIVI), Lumentum(US, [LITE](/company-analysis/lite/))
@@ -62,6 +66,8 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 7. 스마트 시티: Cisco Systems(US, [CSCO](/company-analysis/csco/)), IBM(US, [IBM](/company-analysis/ibm/)) (도시 인프라 적용)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 4Sight M: 자동차용 LiDAR 센서, 자율주행 및 ADAS 적용
 - 4Sight A: 산업용 LiDAR 센서, 로보틱스 및 스마트 인프라 적용
@@ -102,6 +108,8 @@ AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 - NASDAQ 상장 (2021년)
 - SPAC 합병을 통한 기업공개 완료 (2021년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 - Continental AG (20%)
@@ -110,6 +118,8 @@ AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 - BlackRock (2.8%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Autonomous & Electric Vehicles ETF - DRIV
 - iShares Self-Driving EV and Tech ETF - IDRV

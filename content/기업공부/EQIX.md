@@ -37,6 +37,8 @@ weight: 319
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **부동산 개발:** 데이터 센터 부지 개발 및 건설
     - 주요 기업: Bechtel Corporation, Turner Construction.
 - **전력 및 냉각:** 데이터 센터 운영을 위한 전력 및 냉각 시스템 제공
@@ -61,12 +63,18 @@ weight: 319
 
 #### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **데이터 센터:** Digital Realty (미국, [DLR](/company-analysis/dlr/)), CoreSite Realty (미국, [COR](/company-analysis/cor/)).
 - **인터넷 교환:** Interxion (네덜란드, [INXN](/company-analysis/inxn/)), CyrusOne (미국, [CONE](/company-analysis/cone/)).
 
 #### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 - **데이터 센터:** 글로벌 시장 점유율 약 10% (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

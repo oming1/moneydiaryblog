@@ -38,11 +38,15 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
     - **역할**: 최종 소비자에게 방산 솔루션과 기술 제공
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Lockheed Martin (미국, [LMT](/company-analysis/lmt/))
 
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원자재 공급 및 전자 부품 제조
     - **역할**: L3Harris의 제품 생산에 필요한 자재 및 부품 제공
     - **주요 기업**: Northrop Grumman (미국, [NOC](/company-analysis/noc/)), Raytheon Technologies (미국, [RTX](/company-analysis/rtx/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -59,7 +63,9 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
 ## 주요 제품
 
 - **항공기 시스템**:
-    
+
+{{< adsense-infeed >}}
+
     - 군용 및 상용 항공기에 사용되는 시스템으로, 비행 안전성을 높입니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
     
@@ -71,6 +77,8 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
 ## 주요 판매 국가
 
 L3Harris는 주로 미국에서 매출을 올리며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

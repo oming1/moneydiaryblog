@@ -33,6 +33,8 @@ Atmos Energy Corporation은 미국 최대의 천연가스 전문 유통 기업�
 
 Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지속적인 인프라 투자를 통해 장기적인 성장을 추구하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 규모와 전문성: 미국 최대의 천연가스 전문 유통기업으로서의 입지
@@ -56,6 +58,8 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
     - 산업용 가스 소비: Dow Inc.(US, [DOW](/company-analysis/dow/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 천연가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 천연가스 추출
 2. 파이프라인 운송: Atmos Energy (주요 사업 영역)
@@ -82,6 +86,8 @@ Atmos Energy는 주로 미국 시장에서 사업을 영위하고 있으며, 특
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. CenterPoint Energy(US, [CNP](/company-analysis/cnp/)) - 천연가스 유통
 2. Sempra Energy(US, [SRE](/company-analysis/sre/)) - 에너지 인프라 및 유틸리티
 3. ONE Gas(US, [OGS](/company-analysis/ogs/)) - 천연가스 유통
@@ -93,6 +99,8 @@ Atmos Energy는 주로 미국 시장에서 사업을 영위하고 있으며, 특
 Atmos Energy는 미국 최대의 천연가스 전문 유통기업이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 17억 달러 규모의 주식 발행 계획 발표 (2024년)
 2. 2024 회계연도 주당순이익 12% 증가, 6.83달러 기록 (2024년)
@@ -107,6 +115,8 @@ Atmos Energy는 미국 최대의 천연가스 전문 유통기업이지만, 정�
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

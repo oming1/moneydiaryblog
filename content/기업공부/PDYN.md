@@ -30,6 +30,8 @@ Palladyne AI Corp.(NASDAQ: PDYN)는 로봇 및 무인 시스템을 위한 인공
 
 Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 엣지 컴퓨팅 기술: 로봇 시스템에서 실시간 동적 작업을 수행할 수 있는 고급 AI 기술
 2. 적응형 학습 능력: 최소한의 훈련으로 새로운 환경과 상황에 빠르게 적응하는 AI 알고리즘
 3. 저전력, 고효율: 기존 솔루션 대비 낮은 전력 요구사항과 높은 효율성
@@ -49,6 +51,8 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 센서 기술: Velodyne Lidar(US, VLDR), Luminar Technologies(US, [LAZR](/company-analysis/lazr/))
@@ -62,6 +66,8 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 ## 주요 판매국가
 
 미국, 캐나다, 이스라엘
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

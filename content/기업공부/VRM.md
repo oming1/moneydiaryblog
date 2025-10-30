@@ -75,11 +75,15 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Carvana Co.(US, [CVNA](/company-analysis/cvna/)) - 온라인 중고차 판매
 2. CarMax, Inc.(US, [KMX](/company-analysis/kmx/)) - 중고차 소매 및 도매
 3. AutoNation, Inc.(US, [AN](/company-analysis/an/)) - 자동차 소매 및 서비스
 4. Shift Technologies, Inc.(US, SFT) - 온라인 중고차 플랫폼
 5. TrueCar, Inc.(US, TRUE) - 디지털 자동차 마켓플레이스
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -102,6 +106,8 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 5. Invesco Ltd. (5.30%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. First Trust NASDAQ Transportation ETF - FTXR
 2. Invesco S&P SmallCap Consumer Discretionary ETF - PSCD

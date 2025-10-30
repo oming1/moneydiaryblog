@@ -94,7 +94,9 @@ weight: 638
 		총소유비용(TCO) 및 전력 효율성: NVIDIA는 단순히 칩 성능뿐만 아니라, 전력당 성능(performant per watt)과 비용당 성능(performant per dollars)이 최적화된 데이터센터 스케일 솔루션을 제공하는 데 중점을 둠. 전력은 자본만큼이나 중요한 요소가 되었음.
 		
 		NVLink Fusion: 경쟁사 칩도 NVIDIA의 인프라에 통합될 수 있도록 NVLink Fusion을 제공하여 플랫폼의 개방성을 확대하고 있음.
-		
+
+{{< adsense-infeed >}}
+
 		1. 재무 및 운영 전략
 		총이익률 (Gross Margin): 블랙웰 아키텍처의 데이터센터 스케일 구축이 안정화되면서, 사이클 타임 단축과 제품 믹스 개선을 통해 연말까지 총이익률을 70% 중반(mid-70%)대로 회복하는 것을 목표로 함.
 		
@@ -117,6 +119,8 @@ weight: 638
 ---
 
 ## 산업섹터
+
+{{< adsense-infeed >}}
 
 섹터: 정보기술
 
@@ -146,6 +150,8 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - 소프트웨어 개발: GPU 최적화 도구 및 라이브러리 개발 (Red Hat(US, RHT), VMware(US, [VMW](/company-analysis/vmw/)))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. R&D: NVIDIA(US, [NVDA](/company-analysis/nvda/)) (GPU 아키텍처 및 AI 알고리즘 개발)
 2. 설계: NVIDIA(US, [NVDA](/company-analysis/nvda/)), ARM(UK, [ARM](/company-analysis/arm/)) (칩 설계 및 IP 라이선싱)

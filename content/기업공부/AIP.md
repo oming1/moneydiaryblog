@@ -43,6 +43,8 @@ Arteris Inc.은 2003년 설립된 반도체 시스템 IP(지적재산권) 전문
 - [라이선스 수익]: 약 85% (IP 기술 사용권 선불 수수료)
 - 로열티 수익: 약 15% (고객 칩 출하량 기반 후불 수수료)
 
+{{< adsense-infeed >}}
+
 **주요 수익 지표:**
 
 - ACV(Annual Contract Value) plus Royalties: $6,010만 (2024 Q2, 역대 최고)
@@ -162,6 +164,8 @@ Arteris는 제조업체가 아닌 IP 설계 및 라이선싱 회사로서 다음
 
 ## 주된 영향을 미치는 원자료
 
+{{< adsense-infeed >}}
+
 IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮으나, 다음 요소들이 영향을 미칩니다:
 
 **실리콘:** 고객사 칩 제조용, 주요 공급지 중국/일본, TSMC 등 파운드리 공급망에 간접 의존
@@ -257,6 +261,8 @@ IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮�
 
 **NoC IP 시장 점유율:**
 
+{{< adsense-infeed >}}
+
 - 2024년: 40-45% (압도적 1위)
 - 2023년: 42% (1위 유지)
 - 2022년: 45% (최고점)
@@ -339,6 +345,8 @@ FINVIZ 데이터에 따르면 내부자 거래가 활발하며, 경영진의 정
 - XSD - SPDR S&P Semiconductor ETF XSD
 
 **기술주 ETF:**
+
+{{< adsense-infeed >}}
 
 - QQQ - Invesco QQQ Trust QQQ
 - VGT - Vanguard Information Technology ETF VGT

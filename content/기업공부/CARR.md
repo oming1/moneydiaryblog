@@ -45,15 +45,23 @@ Carrier Global Corporation은 난방, 환기 및 공기 조절(HVAC), 냉장, �
 - **소비자**: 최종 사용자에게 제품 제공.
     - **대표 회사**: Lennox International (US, LII), Trane Technologies (US, TT)
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 
 - **HVAC 시스템**: 에어컨, 난방 시스템, 히트 펌프, 제어 장치.
 - **냉장 솔루션**: 운송 냉장, 상업용 냉장 캐비닛, 냉동고.
 - **화재 및 보안 장비**: 화재 감지기, 화재 진압 시스템, 보안 시스템.
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Carrier는 전 세계 160개 이상의 국가에서 사업을 운영하고 있습니다. 주요 판매국가는 미국, 유럽, 아시아/태평양 지역입니다
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

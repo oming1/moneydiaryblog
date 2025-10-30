@@ -22,9 +22,13 @@ Industry: Semiconductor Equipment & Materials (반도체장비 및 소재)
 
 Applied Materials는 반도체, 디스플레이 및 기타 고급 기술 제품을 제조하는 데 필요한 장비와 소재를 제공하는 글로벌 리더입니다. 이 회사는 반도체 제조 공정에서 사용되는 다양한 장비를 설계하고 생산합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 반도체 제조: Intel Corporation (국가:US, [INTC](/company-analysis/intc/))
 - 디스플레이 제조: Samsung Display (국가:KR, 005930)
@@ -43,6 +47,8 @@ Applied Materials는 반도체, 디스플레이 및 기타 고급 기술 제품�
 ## 주요 판매국가
 
 Applied Materials는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 미국, 중국, 대만, 한국 등입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

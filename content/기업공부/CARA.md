@@ -21,6 +21,8 @@ weight: 171
 **영위 사업** 
 - Cara Therapeutics Inc.는 만성 가려움증 치료제를 개발하고 상업화하는 생명공학 회사입니다. 주요 제품으로는 만성 신장 질환(CKD) 환자의 중등도에서 중증 가려움증 치료를 위한 KORSUVA(디펠리케팔린) 주사제가 있습니다
 
+{{< adsense-infeed >}}
+
 **전방/후방 산업**
 
 - **전방 산업:** 제약회사, 병원 및 의료기관
@@ -28,16 +30,24 @@ weight: 171
 - **후방 산업:** 연구기관 및 CRO, 원료 의약품 공급업체
     - **핵심 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 
+{{< adsense-infeed >}}
+
 **주요 제품**
+
+{{< adsense-infeed >}}
 
 - **KORSUVA (디펠리케팔린) 주사제:** 만성 신장 질환(CKD) 환자의 중등도에서 중증 가려움증 치료 (2023년 기준 매출의 주요 부분)
 - **Oral difelikefalin:** 만성 가려움증 치료를 위한 경구용 약물 (임상 시험 중)
 
 **주요 판매 국가**
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 시장으로 전체 매출의 대부분을 차지
 - **일본:** Maruishi Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
 - **한국:** Chong Kun Dang Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
+
+{{< adsense-infeed >}}
 
 **경쟁 업체**
 

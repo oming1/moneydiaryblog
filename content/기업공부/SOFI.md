@@ -43,6 +43,8 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 전방산업:
 
+{{< adsense-infeed >}}
+
 1. 소비자 금융: 개인 대출, 주택 담보 대출 등 금융 상품 이용
     
     - JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
@@ -62,7 +64,9 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
     - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
 2. 데이터 분석: 고객 데이터 처리 및 분석 도구 제공
-    
+
+{{< adsense-infeed >}}
+
     - Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/))
     
 3. 사이버보안: 금융 데이터 보호 및 보안 솔루션 제공
@@ -135,11 +139,15 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. Vanguard Group Inc. (9.86%)
 2. BlackRock Inc. (7.53%)
 3. State Street Corporation (6.74%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. ARK Fintech Innovation ETF - ARKF
 2. Global X FinTech ETF - FINX

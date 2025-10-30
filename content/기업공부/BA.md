@@ -24,19 +24,29 @@ Boeing은 상업용 항공기, [항공우주 및 방위산업](/industry-study/�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 항공기 및 방산 시스템 사용
 - 항공사: Delta Air Lines (US, [DAL](/company-analysis/dal/))
 - 군사 계약자: Lockheed Martin (US, [LMT](/company-analysis/lmt/))
 
+{{< adsense-infeed >}}
+
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 부품 및 원자재 공급
 - 항공기 부품: Honeywell International (US, [HON](/company-analysis/hon/))
 - 금속 공급: Alcoa Corporation (US, [AA](/company-analysis/aa/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 737 항공기 (상업용 여객기, 매출 비중: 약 30%, 2023년 기준)
 - 787 드림라이너 (상업용 여객기, 매출 비중: 약 25%, 2023년 기준)

@@ -60,6 +60,8 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 
 ## 핵심 기술
 
+{{< adsense-infeed >}}
+
 **GNSS 저항 기술**: GPS/GNSS 신호 차단·교란 환경에서도 정상 운용 가능한 자율비행 기술  
 **EW 저항 통신**: 전자전 환경에서 45km 이상 안정적 데이터 전송 가능한 통신 시스템  
 **AI 기반 자율비행**: DS-1 미노타우르 등에 적용된 완전 자율 ISR 및 인프라 점검 기술  
@@ -111,6 +113,8 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 
 - 정부계약업체(US, 국방계약업체들): 미군 및 NATO 국가 납품 채널
 - 민간 딜러망(Global, 항공딜러들): 전 세계 600개 이상 애프터마켓 딜러
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -186,9 +190,13 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 
 **eVTOL 경쟁사**:
 
+{{< adsense-infeed >}}
+
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/)) - 승객용 eVTOL, 44억 달러 시가총액
 - Archer Aviation(US, [ACHR](/company-analysis/achr/)) - 도시항공모빌리티, 15억 달러 시가총액
 - EHang(CN, [EH](/company-analysis/eh/)) - 자율 항공기, 중국 시장 선도
+
+{{< adsense-infeed >}}
 
 ---
 

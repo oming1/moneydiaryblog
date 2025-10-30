@@ -42,6 +42,8 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 
 **수익 구조 세분화:**
 
+{{< adsense-infeed >}}
+
 - **일반화물 운송(Merchandise):** 약 60% (화학제품 17.88%, 금속/건설자재 13.83%, 자동차 9.29% 등)
 - **복합운송(Intermodal):** 약 25.39% (컨테이너 및 트레일러 운송)
 - **석탄 운송(Coal):** 약 12.36% (발전용 석탄 및 수출용 석탄)
@@ -127,7 +129,11 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - 장거리 철도 운송 서비스
 - 복합운송 서비스 (철도-트럭 연계)
 
+{{< adsense-infeed >}}
+
 **고객 서비스 단계:**
+
+{{< adsense-infeed >}}
 
 - 산업 개발 및 부지 제공 서비스
 - 물류 컨설팅 서비스
@@ -310,6 +316,8 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - iShares Global Infrastructure ETF IGF - 인프라 ETF
 
 **운송 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - iShares Transportation Average ETF IYT - 운송업 ETF
 - SPDR S&P Transportation ETF XTN - 운송업 ETF

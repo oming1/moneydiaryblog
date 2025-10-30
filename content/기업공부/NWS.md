@@ -70,6 +70,8 @@ News Corporation의 비즈니스 모델은 다면적 미디어 플랫폼을 통�
 
 ### 4. 라이선스 및 신디케이션:
 
+{{< adsense-infeed >}}
+
 - **콘텐츠 라이선스:** 뉴스 콘텐츠 및 출판물 라이선스
 - **데이터 라이선스:** 금융 및 비즈니스 데이터 라이선스
 
@@ -259,6 +261,8 @@ News Corporation의 핵심 경쟁력은 글로벌 미디어 생태계에서 구�
 
 **디지털 부동산 서비스:**
 
+{{< adsense-infeed >}}
+
 - Zillow Group(US, ZG) - 미국 부동산 정보 플랫폼
 - CoStar Group(US, [CSGP](/company-analysis/csgp/)) - 상업 부동산 정보 서비스
 - Domain Holdings(AU, Domain Holdings) - 호주 부동산 정보 서비스
@@ -311,6 +315,8 @@ News Corporation은 전통적인 미디어 기업에서 디지털 중심 다각�
 **2022년:** 하퍼콜린스 직원 파업으로 출판 일정 지연, 공급망 문제 발생 (2022)
 
 **2023년:** 다우존스 부문 디지털 전환 가속화, B2B 데이터 솔루션 확대 (2023)
+
+{{< adsense-infeed >}}
 
 **2024년:** CEO 로버트 톰슨 계약 2030년까지 연장, 경영 안정성 확보 (2024)
 

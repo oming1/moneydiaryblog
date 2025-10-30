@@ -35,6 +35,8 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 - 역할: 소비자에게 직접 판매
 - 소비자: 주로 중저소득층 고객
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 역할: 제품 공급
@@ -51,6 +53,8 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 
 ## 주요 자산
@@ -60,6 +64,8 @@ Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 �
 - 온라인 판매 플랫폼 (dollartree.com)
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Dollar General (US, [DG](/company-analysis/dg/)) - 할인 소매점 체인
 - Walmart (US, [WMT](/company-analysis/wmt/)) - 대형 할인점 체인
@@ -71,8 +77,12 @@ Dollar Tree는 미국 할인 소매점 시장에서 주요 플레이어 중 하�
 
 ## 자세한 종목 정보 링크
 
+{{< adsense-infeed >}}
+
 [Dollar Tree 공식 웹사이트](https://corporate.dollartree.com/)
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

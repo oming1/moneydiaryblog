@@ -33,6 +33,8 @@ US Foods Holding Corp.는 신선, 냉동, 건조 식품 및 비식품 제품을 
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **식품 제조**: 식품을 생산하고 가공. 대표 기업: Tyson Foods (미국, [TSN](/company-analysis/tsn/)), Conagra Brands (미국, [CAG](/company-analysis/cag/)).
 - **포장 및 물류**: 제품의 포장 및 유통. 대표 기업: UPS (미국, [UPS](/company-analysis/ups/)), FedEx (미국, [FDX](/company-analysis/fdx/)).
 - **유통 및 판매**: 식품 및 비식품 제품의 유통 및 판매. 대표 기업: US Foods Holding Corp. (미국, [USFD](/company-analysis/usfd/)), Sysco Corporation (미국, [SYY](/company-analysis/syy/)).
@@ -47,6 +49,8 @@ US Foods Holding Corp.는 신선, 냉동, 건조 식품 및 비식품 제품을 
 
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 US Foods Holding Corp.는 주로 미국 내에서 제품을 판매하고 있으며, 주요 시장은 미국 전역입니다
 
 ### 경쟁업체
@@ -56,6 +60,8 @@ US Foods Holding Corp.는 주로 미국 내에서 제품을 판매하고 있으�
 - **The Chefs’ Warehouse (미국, CHEF)**: 고급 식품 유통.
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 [US Foods Holding Corp.는 미국 내 식품 서비스 유통 업계에서 약 10%의 시장 점유율을 차지하고 있습니다](https://www.choicestock.co.kr/search/summary/USFD)[3](https://www.choicestock.co.kr/search/summary/USFD). 이는 미국에서 두 번째로 큰 식품 서비스 유통 업체입니다.
 

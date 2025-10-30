@@ -51,6 +51,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 
 **성장 동력:** 방산 시장 확대, 드론 기술 수요 증가, 정부 방산 투자 확대, 핀테크 플랫폼 고도화
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 핵심 경쟁력
@@ -70,6 +72,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 ## 핵심 기술
 
 **블록체인 거래 기술:** 기관투자자용 고급 거래 플랫폼 기술, 실시간 리스크 관리 시스템 
+
+{{< adsense-infeed >}}
 
 **드론 페이로드 시스템:** BladeRanger의 첨단 드론 탑재 장비 기술 
 
@@ -120,6 +124,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 
 **유통 및 판매 단계:**
 
+{{< adsense-infeed >}}
+
 - Nukkleus Defense Technologies(US, Nukkleus Defense): 미국 내 방산 기술 유통
 
 ---
@@ -164,6 +170,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 - Apifiny(US, APIFINY) - 멀티 거래소 암호화폐 플랫폼
 
 **방산 분야:**
+
+{{< adsense-infeed >}}
 
 - Raytheon Technologies(US, [RTX](/company-analysis/rtx/)) - 미사일 방어 시스템, 글로벌 1위
 - Lockheed Martin(US, [LMT](/company-analysis/lmt/)) - 방산 기술 통합, 아이언 돔 기술 보유

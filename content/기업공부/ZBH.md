@@ -27,7 +27,11 @@ weight: 996
 1. 원자재 공급업체: 티타늄, 폴리에틸렌 등 소재 공급 (Allegheny Technologies (US, ATI))
 2. 의료기기 부품 제조업체: 정밀 부품 생산 (Precision Castparts Corp.)
 
+{{< adsense-infeed >}}
+
 밸류체인:
+
+{{< adsense-infeed >}}
 
 1. 연구개발: 짐머바이오메트, Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)) (의료기기 부문)
 2. 제조: 짐머바이오메트, Stryker Corporation (US, [SYK](/company-analysis/syk/)) (정형외과 임플란트)
@@ -35,6 +39,8 @@ weight: 996
 4. 최종 사용: 병원, 정형외과 클리닉
 
 주요제품:
+
+{{< adsense-infeed >}}
 
 1. ROSA 로봇 수술 시스템 (정형외과 수술 보조)
 2. Persona IQ 스마트 무릎 임플란트 (무릎 관절 치환술)
@@ -52,7 +58,11 @@ weight: 996
 4. Medtronic (Ireland, [MDT](/company-analysis/mdt/)) (척추 및 정형외과 제품)
 5. NuVasive (US, NUVA) (척추 수술 솔루션)
 
+{{< adsense-infeed >}}
+
 산업 내 글로벌 시장 점유율: 정확한 최신 데이터는 제공되지 않았으나, 짐머바이오메트는 정형외과 분야에서 세계 선두 기업 중 하나로 알려져 있습니다.
+
+{{< adsense-infeed >}}
 
 최근 3년 내 주요 이슈:
 

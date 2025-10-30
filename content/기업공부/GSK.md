@@ -20,6 +20,8 @@ weight: 391
 
 **영위사업**: GSK (GlaxoSmithKline)은 주로 백신, 전문 의약품, 일반 의약품을 연구, 개발, 제조 및 판매하는 글로벌 제약 회사입니다. 주요 사업 분야는 감염병, HIV, 호흡기 질환, 종양학 등입니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업**:
 
 - **전방산업**: 의료 서비스 및 제약 산업
@@ -40,6 +42,8 @@ weight: 391
 - **유통 및 판매**: 글로벌 네트워크를 통해 제품을 유통하고 판매
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), McKesson Corporation (미국, [MCK](/company-analysis/mck/))
 
+{{< adsense-infeed >}}
+
 **주요제품**:
 
 - **Shingrix**: 대상포진 백신 (2023년 매출 비중: 약 20%)
@@ -50,11 +54,15 @@ weight: 391
 
 - 미국, 영국, 독일, 중국
 
+{{< adsense-infeed >}}
+
 **경쟁업체**:
 
 - **Pfizer (미국, [PFE](/company-analysis/pfe/))**: 다양한 백신 및 제약 제품
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 다양한 백신 및 제약 제품
 - **Sanofi (프랑스, [SAN](/company-analysis/san/))**: 백신 및 제약 제품
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 

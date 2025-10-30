@@ -33,12 +33,16 @@ Calpine Corporation은 주로 [천연가스](/industry-study/천연가스/)와 �
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **자원 채굴**: 천연가스 및 지열 자원의 채굴. 대표 기업: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/)).
 - **발전**: 천연가스 및 지열을 이용한 전력 생산. 대표 기업: Calpine Corporation (미국), NRG Energy (미국, [NRG](/company-analysis/nrg/)).
 - **전력 유통**: 생산된 전력을 소비자에게 전달. 대표 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), Exelon Corporation (미국, [EXC](/company-analysis/exc/)).
 - **소비자 서비스**: 전력 소비자에게 서비스 제공. 대표 기업: NextEra Energy (미국, [NEE](/company-analysis/nee/)), Southern Company (미국, [SO](/company-analysis/so/)).
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **전력**: 천연가스 및 지열을 이용한 전력 생산.
 - **증기**: 산업용 증기 생산.
@@ -54,5 +58,7 @@ Calpine Corporation은 주로 미국 내에서 전력을 판매하고 있으며,
 - **Exelon Corporation (미국, [EXC](/company-analysis/exc/))**: 원자력, 천연가스, 재생 에너지를 이용한 전력 생산.
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Calpine Corporation은 미국 내 천연가스 및 지열 자원을 이용한 전력 생산에서 주요한 위치를 차지하고 있습니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 미국 내 최대의 천연가스 및 지열 전력 생산업체 중 하나입니다

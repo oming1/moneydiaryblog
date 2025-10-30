@@ -31,6 +31,8 @@ weight: 571
 
 3M은 Scotch-Brite, Filtrete, Command, Post-it 등 유명 브랜드를 보유하고 있으며, 혁신적인 제품 개발로 유명합니다. 회사는 전 세계 70개국 이상에서 사업을 영위하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 다각화된 제품 포트폴리오: 다양한 산업 분야에 걸친 제품 라인업
@@ -48,7 +50,9 @@ weight: 571
     - 플라스틱 수지: LyondellBasell(US, [LYB](/company-analysis/lyb/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
     - 의료기기: Medtronic(IE, [MDT](/company-analysis/mdt/))
@@ -109,6 +113,8 @@ weight: 571
 5. Charles Schwab Investment Management, Inc.: 1.51%
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. Industrial Select Sector SPDR Fund - XLI
 2. Vanguard Industrials ETF - VIS

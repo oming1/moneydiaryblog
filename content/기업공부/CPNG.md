@@ -20,7 +20,11 @@ weight: 226
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Coupang은 한국과 대만에서 전자상거래 사업을 운영하는 IT 기업입니다. 모바일 앱과 웹사이트를 통해 다양한 제품과 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -33,10 +37,14 @@ Coupang은 한국과 대만에서 전자상거래 사업을 운영하는 IT 기�
 
 한국, 대만
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Amazon(US, [AMZN](/company-analysis/amzn/))
 - 국내 이커머스 기업들
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

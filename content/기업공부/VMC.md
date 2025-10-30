@@ -118,11 +118,17 @@ Vulcan Materials는 미국 내 건설용 골재 시장에서 선도적인 위치
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. The Vanguard Group (11.66%)
-    
+
+{{< adsense-infeed >}}
+
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

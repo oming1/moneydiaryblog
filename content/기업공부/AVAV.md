@@ -74,6 +74,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 
 **운영 효율성:**
 
+{{< adsense-infeed >}}
+
 - 높은 내부자 지분(39.09%)으로 경영진-주주 이익 일치
 - 소규모 조직(1,475명)으로 효율적 운영
 - 정부 계약 중심의 안정적 수익 구조
@@ -100,6 +102,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 **4단계:** 품질 테스트 및 검증 (정부 승인 테스트 프로그램)  
 **5단계:** 납품 및 현장 지원 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 전방산업 / 후방산업
@@ -117,6 +121,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 센서: Flir Systems (US, FLIR), Raytheon (US, [RTX](/company-analysis/rtx/))
 - 복합재료: Hexcel (US, [HXL](/company-analysis/hxl/)), Toray (JP, Toray)
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 밸류체인
@@ -131,6 +137,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 반도체 업체: Intel (US, [INTC](/company-analysis/intc/)), Nvidia (US, [NVDA](/company-analysis/nvda/))
 - 센서 업체: Honeywell (US, [HON](/company-analysis/hon/)), L3Harris (US, [LHX](/company-analysis/lhx/))
 - 배터리 업체: Saft (FR, Saft), Tadiran (IL, Tadiran)
+
+{{< adsense-infeed >}}
 
 **제조 및 조립 단계:**
 
@@ -209,6 +217,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - Textron (US, TXT) - Shadow 드론 시스템
 - Insitu (Boeing 자회사) - ScanEagle 드론
 - General Atomics - Predator/Reaper 드론
+
+{{< adsense-infeed >}}
 
 **신흥 경쟁업체:**
 

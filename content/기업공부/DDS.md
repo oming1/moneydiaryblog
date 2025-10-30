@@ -22,9 +22,13 @@ Industry: 백화점(Department Stores)
 
 Dillard's, Inc.는 미국의 대표적인 패션 의류, 화장품, 홈 퍼니싱 소매업체입니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 소매 사업: 패션 의류, 화장품, 홈 퍼니싱 판매
 2. 건설 사업: CDI Contractors를 통한 매장 건설 및 리모델링
 3. 온라인 판매: dillards.com 운영
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -34,6 +38,8 @@ Dillard's, Inc.는 미국의 대표적인 패션 의류, 화장품, 홈 퍼니�
 4. 자체 브랜드: Antonio Melani, Gianni Bini, Daniel Cremieux
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국 29개 주에 걸쳐 약 273개 매장 운영, 주로 남부, 남서부, 중서부 지역 집중
 

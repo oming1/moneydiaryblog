@@ -20,6 +20,8 @@ weight: 2
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은행 서비스, 증권 거래, 자산 관리 및 소비자 금융 서비스를 제공합니다. 고객층은 기업, 금융 기관, 정부 및 고액 자산가를 포함합니다.
 
 ## 전방/후방 산업
@@ -32,6 +34,8 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
         
         - JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - Bank of America (미국, [BAC](/company-analysis/bac/))
+
+{{< adsense-infeed >}}
 
 - **후방 산업 (Upstream Industry)**:
     
@@ -65,7 +69,9 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
 - **투자은행 서비스**: M&A 및 자본 조달을 위한 금융 자문.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **자산 관리 서비스**: 개인 및 기관 고객을 위한 포트폴리오 관리.
     
     - 매출 비중: 전체 매출의 약 30% 차지.

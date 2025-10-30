@@ -21,6 +21,8 @@ weight: 708
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
 
+{{< adsense-infeed >}}
+
 ## 산업
 
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
@@ -28,6 +30,8 @@ weight: 708
 ## 영위사업
 
 Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 희귀 말초 아밀로이드 질환을 대상으로 하는 혁신적인 치료제를 개발하는 후기 임상 단계의 바이오테크놀로지 기업입니다. 주요 사업 영역은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 알츠하이머병 치료제 개발
 2. 파킨슨병 치료제 개발
@@ -66,6 +70,8 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 3. AbbVie(US, [ABBV](/company-analysis/abbv/))
 4. Novartis(CH, [NOVN](/company-analysis/novn/))
 5. Amgen(US, [AMGN](/company-analysis/amgn/))
+
+{{< adsense-infeed >}}
 
 ## 주요 주주
 

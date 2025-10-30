@@ -27,6 +27,8 @@ weight: 251
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 원유 및 천연가스 탐사 및 생산
     - **핵심 기업**: Exxon Mobil (미국, [XOM](/company-analysis/xom/)), ConocoPhillips (미국, [COP](/company-analysis/cop/))
@@ -35,6 +37,8 @@ weight: 251
     - **핵심 기업**: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP)
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **탐사 및 생산 (Exploration & Production)**:
     - **설명**: 원유 및 천연가스의 탐사 및 생산
@@ -51,6 +55,8 @@ weight: 251
 - **연료**: 휘발유, 디젤, 항공유
 - **화학 제품**: [올레핀](/industry-study/올레핀/), [폴리올레핀](/industry-study/폴리올레핀/)
 - **특수 제품**: 윤활유, 기초유, 왁스
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

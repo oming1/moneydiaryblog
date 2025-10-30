@@ -33,6 +33,8 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 통합 플랫폼: 주택 거래의 전 과정을 아우르는 원스톱 서비스 제공
 2. 데이터 기반 기술: AI와 빅데이터를 활용한 정확한 가격 책정 및 매칭 서비스
 3. 광범위한 네트워크: 중국 전역을 아우르는 에이전트 및 파트너 네트워크
@@ -69,6 +71,8 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - 개인 구매자 및 임차인: 주택 구매 및 임대 수요자
 - 개인 판매자 및 임대인: 주택 판매 및 임대 공급자
 - 부동산 개발업체: China Evergrande Group(HK, 3333), China Vanke(CN, 000002)
@@ -80,6 +84,8 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 중국
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - 58.com(CN): 온라인 분류 광고 플랫폼
 - Fang Holdings(US, SFUN): 부동산 인터넷 포털

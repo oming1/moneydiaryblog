@@ -20,6 +20,8 @@ weight: 576
 섹터: 필수 소비재
 산업: 음료제조
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 제조 및 유통 기업입니다. 회사는 1935년 설립되었으며, 2002년 Hansen's Natural Corporation에서 현재의 이름으로 변경되었습니다. 주요 사업 부문은 다음과 같습니다:
@@ -42,9 +44,13 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), 7-Eleven
 - 편의점: Alimentation Couche-Tard(CA, ATD)
 - 식품 서비스: McDonald's(US, [MCD](/company-analysis/mcd/)), Starbucks(US, [SBUX](/company-analysis/sbux/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -72,6 +78,8 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 35%의 점유율을 보유하고 있으며, Red Bull에 이어 2위를 차지하고 있습니다. 북미 시장에서는 약 40%의 점유율로 시장을 선도하고 있습니다. 최근 3년간 글로벌 시장 점유율은 연평균 1-2%p 증가하는 추세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -83,6 +91,8 @@ Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 3
 - e-스포츠 후원 확대 및 디지털 마케팅 강화 (2022-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.91%)
 - BlackRock (7.20%)

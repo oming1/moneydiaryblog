@@ -23,11 +23,15 @@ weight: 695
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Planet Fitness는 미국 최대의 저가 헬스클럽 체인으로, "Judgement Free Zone" 컨셉으로 유명합니다. 주요 사업은 다음과 같습니다:
 
 1. 프랜차이즈 운영: 2,500개 이상의 프랜차이즈 헬스클럽 운영
 2. 기업 소유 매장: 직접 운영하는 헬스클럽 체인
 3. 장비 판매: 프랜차이즈 가맹점에 피트니스 장비 공급
+
+{{< adsense-infeed >}}
 
 Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공하여 초보자와 캐주얼 운동족을 주요 타겟으로 합니다. 회사는 지속적인 회원 증가와 신규 지점 확장을 통해 성장하고 있습니다.
 
@@ -40,6 +44,8 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 5. 기술 혁신: 모바일 앱, 가상 트레이닝 등 디지털 서비스 강화
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 기본 회원권: 월 $10, 단일 지점 이용 (매출 비중: 약 60%, 2023년 기준)
 2. Black Card 회원권: 월 $24.99, 모든 지점 이용 가능 (매출 비중: 약 30%, 2023년 기준)
@@ -74,6 +80,8 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. The Vanguard Group, Inc. (9.86%)
 2. BlackRock, Inc. (7.53%)
 3. State Street Corporation (6.74%)
@@ -81,6 +89,8 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 5. Geode Capital Management LLC (2.05%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. Global X Health & Wellness ETF - BFIT
 2. Invesco Dynamic Leisure and Entertainment ETF - PEJ

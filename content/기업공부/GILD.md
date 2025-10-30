@@ -20,6 +20,8 @@ weight: 375
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개발 및 판매합니다. 주요 제품으로는 HIV 치료제, 간염 치료제, COVID-19 치료제 등이 있습니다.
 
 ### 전방/후방산업
@@ -31,7 +33,11 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
     - **핵심 산업:** 화학 원료 생산, 제약 연구
     - **핵심 기업:** Merck & Co. (미국, [MRK](/company-analysis/mrk/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 생산:** 화학 원료 제조
     - **대표 회사:** Merck & Co. (미국, [MRK](/company-analysis/mrk/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
@@ -43,6 +49,8 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
     - **대표 회사:** Gilead Sciences (미국, [GILD](/company-analysis/gild/)), McKesson (미국, [MCK](/company-analysis/mck/))
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Biktarvy:** HIV 치료제 (2023년 매출 비중: 약 30%)
 - **Veklury (Remdesivir, 렘데시비르):** COVID-19 치료제 (2023년 매출 비중: 약 20%)
@@ -56,6 +64,8 @@ Gilead Sciences는 주로 미국, 유럽, 아시아 등에서 제품을 판매�
 - **2021년:** 미국 60%, 유럽 25%, 아시아 10%
 - **2022년:** 미국 62%, 유럽 23%, 아시아 11%
 - **2023년:** 미국 63%, 유럽 22%, 아시아 12%
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 

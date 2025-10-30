@@ -27,12 +27,16 @@ Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공�
 - **전방산업**:
     - **위성 통신**: 위성을 이용한 통신 서비스 제공. 주요 기업: SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)), Intelsat (미국, [I](/company-analysis/i/)).
     - **우주 탐사 및 연구**: 우주 탐사 및 연구를 수행하는 기관. 주요 기업: NASA (미국), ESA (유럽우주국).
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     - **로켓 엔진 제조**: 로켓 엔진을 설계하고 제조하는 산업. 주요 기업: Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)), Rocket Lab USA (미국, [RKLB](/company-analysis/rklb/)).
     - **위성 제조**: 위성을 설계하고 제조하는 산업. 주요 기업: Lockheed Martin (미국, [LMT](/company-analysis/lmt/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/)).
 
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구 및 개발**: 로켓 및 위성 기술의 연구 개발. 대표 기업: Blue Origin (미국), SpaceX (미국).
 - **제조**: 로켓 및 위성의 제조. 대표 기업: Blue Origin (미국), Boeing (미국, [BA](/company-analysis/ba/)).
@@ -47,6 +51,8 @@ Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공�
 
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Blue Origin은 주로 미국 내에서 발사 서비스를 제공하고 있으며, 주요 시장은 미국입니다
 
 ### 경쟁업체
@@ -58,6 +64,8 @@ Blue Origin은 주로 미국 내에서 발사 서비스를 제공하고 있으�
 ### 산업 내 글로벌 시장 점유율
 
 Blue Origin은 우주 발사 서비스 시장에서 중요한 위치를 차지하고 있습니다. [정확한 시장 점유율 데이터는 제공되지 않았으나, 재사용 가능한 로켓 기술 분야에서 주요 기업 중 하나입니다](https://en.wikipedia.org/wiki/Blue_Origin)[1](https://en.wikipedia.org/wiki/Blue_Origin).
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

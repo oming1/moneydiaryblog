@@ -34,6 +34,8 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
     - **역할**: ChargePoint의 충전 솔루션에 필요한 부품 공급
     - **관련 기업**: ABB (CH, [ABB](/company-analysis/abb/)), Siemens (DE, [SIE](/company-analysis/sie/)), Schneider Electric (FR, [SU](/company-analysis/su/))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 충전 기술 및 솔루션 개발
@@ -51,10 +53,14 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 - **ChargePoint Express 250**: 고속 충전기
 - **ChargePoint Cloud Subscription**: 충전 네트워크 관리 소프트웨어
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **미국**: 2023년 매출액 3억 50백만 달러
 - **유럽**: 2023년 매출액 1억 50백만 달러
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -64,6 +70,8 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 - **Siemens (DE, [SIE](/company-analysis/sie/))**: 전기차 충전 솔루션
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **공급망 문제**: 반도체 및 기타 부품의 공급 부족으로 인한 제품 가격 상승 (2021년)
 - **경쟁 심화**: Tesla 및 Blink Charging과의 경쟁 심화 (2023년)

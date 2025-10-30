@@ -59,6 +59,8 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 원재료 공급: Toray Industries(JP, Toray Industries) - 탄소섬유 소재
 2. 기술 개발: KULR Technology Group (주요 사업 영역) - 열 관리 솔루션
 3. 제품 제조: KULR Technology Group - 배터리 안전 제품
@@ -66,6 +68,8 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 5. 최종 사용자: Boeing(US, [BA](/company-analysis/ba/)) - 항공우주 산업 적용
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 리튬 이온 배터리 열 폭주 실드(TRS)
 2. 섬유 열 인터페이스 재료(FTI)
@@ -110,6 +114,8 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 ## 주요주주(지분율)
 
 구체적인 주요 주주 정보는 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

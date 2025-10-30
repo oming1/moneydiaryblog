@@ -36,6 +36,8 @@ weight: 365
     - 고성능 서버 및 인프라 관리 서비스를 제공하여 기업 고객이 안정적으로 데이터를 처리하고 저장할 수 있도록 합니다.
     - 데이터 센터의 효율성을 극대화하기 위해 최신 기술을 적용합니다.
 
+{{< adsense-infeed >}}
+
 3. **IoT 플랫폼:**
     
     - 다양한 IoT 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원합니다.
@@ -135,11 +137,15 @@ weight: 365
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버 및 데이터 센터용 반도체 공급
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 공급
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 밸류체인
 
 **부품 공급 단계:**
+
+{{< adsense-infeed >}}
 
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버용 반도체 (시장점유율 25%, 고성능 프로세서 공급)
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 (시장점유율 20%, 클라우드 인프라 구축)

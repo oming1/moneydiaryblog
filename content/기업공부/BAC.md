@@ -39,7 +39,9 @@ weight: 114
 
 - **내부 물류 (Inbound Logistics):** 금융 데이터 수집 및 분석
     - **대표 회사:** Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)), Snowflake (미국, [SNOW](/company-analysis/snow/))
-      
+
+{{< adsense-infeed >}}
+
 - **운영 (Operations):** 금융 상품 개발 및 관리
     - **대표 회사:** Goldman Sachs (미국, [GS](/industry-study/gs/)), Morgan Stanley (미국, [MS](/company-analysis/ms/))
       
@@ -48,7 +50,9 @@ weight: 114
       
 - **마케팅 및 판매 (Marketing & Sales):** 금융 상품 마케팅 및 판매
     - **대표 회사:** JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Wells Fargo (미국, [WFC](/company-analysis/wfc/))
-      
+
+{{< adsense-infeed >}}
+
 - **서비스 (Service):** 고객 서비스 및 지원
     - **대표 회사:** American Express (미국, [AXP](/company-analysis/axp/)), Discover Financial Services (미국, [DFS](/company-analysis/dfs/))
 
@@ -65,6 +69,8 @@ weight: 114
 - **영국:** 유럽 내 주요 시장
 - **캐나다:** 북미 주요 시장
 - **중국:** 아시아 주요 시장
+
+{{< adsense-infeed >}}
 
 **경쟁업체 (Competitors)**
 

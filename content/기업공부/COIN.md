@@ -113,6 +113,8 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - 콜드 스토리지 시설 운영
 - 다중 보안 체계 구축 및 관리
 
+{{< adsense-infeed >}}
+
 **4. 규제 준수 체계:**
 
 - 글로벌 규제 요구사항 준수
@@ -178,6 +180,8 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 
 **Subscription & Services:** 커스터디, 스테이킹, USDC, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 BITGO, FIREBLOCKS
 
+{{< adsense-infeed >}}
+
 **Developer Platform:** API 및 인프라 서비스, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 ALCHEMY, INFURA
 
 **Base Layer2:** 이더리움 기반 스케일링 솔루션, 매출 기여도 성장 중, 관련 경쟁사 POLYGON, ARBITRUM
@@ -229,6 +233,8 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - Citigroup(US, [C](/company-analysis/c/)) - 상업은행, 기관 투자자 서비스
 - Charles Schwab(US, [SCHW](/company-analysis/schw/)) - 증권회사, 기관 투자자 서비스
 - Interactive Brokers(US, [IBKR](/company-analysis/ibkr/)) - 온라인 브로커, 기관 투자자 서비스
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -21,6 +21,8 @@ weight: 935
 
 VMware, Inc.는 기업 및 클라우드 컴퓨팅 환경을 위한 소프트웨어 제품 및 서비스를 제공하는 미국의 다국적 기업입니다. 가상화, 클라우드 인프라, 네트워킹, 보안 등 다양한 분야에서 소프트웨어 및 솔루션을 제공하며, 기업의 IT 시스템을 현대화하고 클라우드 전환을 지원합니다.
 
+{{< adsense-infeed >}}
+
 **주요제품:**
 
 - **VMware vSphere**: 가상화 플랫폼 (서버 가상화, 데스크톱 가상화, 컨테이너 지원)
@@ -32,6 +34,8 @@ VMware, Inc.는 기업 및 클라우드 컴퓨팅 환경을 위한 소프트웨�
 
 - 미국 (공시자료 미확인)
 
+{{< adsense-infeed >}}
+
 **경쟁업체:**
 
 - **Microsoft (US: [MSFT](/company-analysis/msft/))**: Azure
@@ -40,9 +44,15 @@ VMware, Inc.는 기업 및 클라우드 컴퓨팅 환경을 위한 소프트웨�
 - **Citrix Systems (US: CTXS)**: Citrix Virtual Apps and Desktops
 - **Nutanix (US: NTNX)**: Nutanix Enterprise Cloud Platform
 
+{{< adsense-infeed >}}
+
 **자세한 종목 정보 링크:**
 
+{{< adsense-infeed >}}
+
 - **Finviz:** [https://finviz.com/quote.ashx?t=VMW](https://finviz.com/quote.ashx?t=VMW)
+
+{{< adsense-infeed >}}
 
 - 주요 이벤트  /  주가 상승 하락
 	- 2023년

@@ -37,7 +37,11 @@ weight: 537
 - **마케팅 및 판매**: 리조트 마케팅 및 판매
     - **대표 회사**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **[카지노](/industry-study/카지노/) 및 게임**: 다양한 카지노 게임 및 슬롯 머신
 - **호텔 및 리조트 운영**: The Venetian Macao, Marina Bay Sands (싱가포르), The Parisian Macao 등
@@ -49,7 +53,11 @@ weight: 537
 - **싱가포르**: Marina Bay Sands를 통해 높은 매출 발생
 - **미국**: 과거 주요 매출 국가였으나, 현재는 아시아 시장에 집중
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Wynn Resorts (미국, [WYNN](/company-analysis/wynn/))**: 카지노 및 리조트 운영
 - **MGM Resorts International (미국, [MGM](/company-analysis/mgm/))**: 카지노 및 리조트 운영
@@ -58,6 +66,8 @@ weight: 537
 #### 산업 내 글로벌 시장 점유율
 
 - **Las Vegas Sands**: 글로벌 카지노 및 게임 시장에서 약 10%의 점유율 (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

@@ -35,7 +35,11 @@ weight: 263
     - **화학 원료:** 특수 화학 제품의 원료 제공. 주요 기업: BASF (독일, BAS).
     - **연구 개발:** 신제품 개발 및 혁신. 주요 기업: 3M (미국, [MMM](/company-analysis/mmm/)), Dow (미국, [DOW](/company-analysis/dow/)).
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원자재 공급:** 특수 화학 제품의 원료 공급
     - 주요 기업: BASF (독일, BAS), Dow (미국, [DOW](/company-analysis/dow/)).
@@ -53,7 +57,11 @@ weight: 263
 - **건축 자재:** 고성능 건축 자재
 - **영양 및 생명과학:** 식품 첨가물 및 생명과학 제품
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 - **중국:** 전자 및 산업용 소재
@@ -71,6 +79,8 @@ weight: 263
 - **특수 화학:** 글로벌 시장 점유율 약 10% (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **2022년:** 듀폰, Rogers Corporation 인수
 - **2023년:** 듀폰, 지속 가능한 솔루션 개발 강화

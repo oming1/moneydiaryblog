@@ -58,10 +58,14 @@ KLA Corporation의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 웨이퍼 검사 시스템: 반도체 웨이퍼 결함 검출, 매출의 약 40% (2024년 기준)
 - 패킹 검사 시스템: IC 패키지 및 PCB 검사, 매출의 약 20% (2024년 기준)
 - 계측 장비: 웨이퍼 및 마스크 치수 측정, 매출의 약 25% (2024년 기준)
 - 데이터 분석 소프트웨어: 공정 최적화 및 수율 개선, 매출의 약 15% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -93,6 +97,8 @@ KLA Corporation은 2024년 기준 반도체 검사 및 계측 장비 시장에�
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - PRIMECAP Management Co. (3.96%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

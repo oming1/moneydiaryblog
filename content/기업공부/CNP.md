@@ -29,6 +29,8 @@ CenterPoint Energy는 전기 송배전 및 [천연가스](/industry-study/천연
 - 에너지 생산: 발전소, 천연가스 생산업체
 - 인프라 장비: 전력 및 가스 설비 제조업체 (예: 지멘스(독일, [SIE](/company-analysis/sie/)))
 
+{{< adsense-infeed >}}
+
 ### 전방산업
 
 - 주거 및 상업용 에너지 소비자
@@ -37,9 +39,13 @@ CenterPoint Energy는 전기 송배전 및 [천연가스](/industry-study/천연
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 에너지 생산: 발전소, 천연가스 생산업체
 2. 송배전 및 유통: CenterPoint Energy(US, [CNP](/company-analysis/cnp/))
 3. 소비자 서비스: CenterPoint Energy 고객 서비스 부서
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

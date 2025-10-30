@@ -20,6 +20,8 @@ weight: 312
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Emerson Electric Co.는 산업, 상업 및 소비자 시장을 위한 다양한 솔루션을 제공하는 기술 및 소프트웨어 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **최종 제어 (Final Control)**: 제어, 격리, 차단, 압력 완화 및 안전 밸브, 액추에이터 및 레귤레이터.
@@ -31,7 +33,11 @@ Emerson Electric Co.는 산업, 상업 및 소비자 시장을 위한 다양한 
 - **이산 자동화 (Discrete Automation)**: 솔레노이드 및 공압 밸브, 밸브 위치 표시기, 공압 실린더, 공기 준비 장비, 전기 선형 모션 솔루션.
 - **안전 및 생산성 (Safety & Productivity)**: 전문가 및 주택 소유자를 위한 도구, 파이프 작업 도구, 전기 도구 등.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 석유 및 가스, 전력 및 재생 에너지, 화학, 일반 산업.
     - **핵심 기업**: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/)), Siemens (DE, [SIE](/company-analysis/sie/))

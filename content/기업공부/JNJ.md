@@ -22,12 +22,16 @@ weight: 469
 
 **전방/후방산업:**
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 의료 서비스, 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 클리닉
     - **관련 기업:** CVS Health (미국, [CVS](/company-analysis/cvs/)), McKesson Corporation (미국, [MCK](/company-analysis/mck/))
 - **후방산업:** 화학, 바이오테크
     - **핵심 산업:** 원료 의약품 제조, 생명공학 연구
     - **관련 기업:** Pfizer Inc. (미국, [PFE](/company-analysis/pfe/)), Merck & Co. (미국, [MRK](/company-analysis/mrk/))
+
+{{< adsense-infeed >}}
 
 **밸류체인:**
 
@@ -51,6 +55,8 @@ weight: 469
     - **Listerine:** 구강 청결제
 
 **경쟁업체:**
+
+{{< adsense-infeed >}}
 
 - **Pfizer Inc. (미국, [PFE](/company-analysis/pfe/)):** 의약품
 - **Merck & Co. (미국, [MRK](/company-analysis/mrk/)):** 의약품

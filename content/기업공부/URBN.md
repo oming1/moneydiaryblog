@@ -34,18 +34,28 @@ Urban Outfitters, Inc.는 미국 필라델피아에 본사를 두고 있는 다�
     - **핵심 산업 및 역할**: 의류 제조 및 유통
     - **관련 기업**: Levi Strauss & Co. (US, 비상장), H&M (SE, HMB.ST)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **제품 소싱**: 다양한 브랜드 및 자체 브랜드 의류 및 액세서리 확보
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: LVMH (FR, MC.PA) - 고급 브랜드 의류 및 액세서리
     - **대표 회사**: Inditex (ES, ITX.MC) - 다양한 패션 브랜드
     
 - **소매 운영**: 오프라인 매장 및 온라인 플랫폼 운영
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: ASOS (UK, ASC.L) - 온라인 패션 소매
     - **대표 회사**: Zalando (DE, ZAL.DE) - 온라인 패션 소매
-    
+
+{{< adsense-infeed >}}
+
 - **고객 서비스**: 고객 지원 및 쇼핑 경험 개선
     
     - **대표 회사**: Nordstrom (US, [JWN](/company-analysis/jwn/)) - 고급 백화점 및 고객 서비스

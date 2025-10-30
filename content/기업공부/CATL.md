@@ -111,6 +111,8 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - **성장 동력 및 수익성 개선 요인:**
     - 전기차 시장 성장, 배터리 기술 혁신, 재생 가능 에너지 수요 증가.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 경쟁력
@@ -134,6 +136,8 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 ---
 
 ### 제조 공정
+
+{{< adsense-infeed >}}
 
 1단계: 원료 조달 (리튬, 니켈, 코발트).  
 2단계: 배터리 셀 제조 (자동화 공정).  
@@ -197,6 +201,8 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - LG Energy Solution(KR, (373220)) - 배터리 파트너십.
 - BYD(CN, (1211)) - 전기차 배터리.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
@@ -242,6 +248,8 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - 2023년: 전고체 배터리 개발 진전, 글로벌 자동차 제조사와의 파트너십 확대.
 - 2022년: 새로운 에너지 저장 시스템 출시, 아시아 시장 진출 강화.
 - 2021년: 전기차 배터리 생산 확대.
+
+{{< adsense-infeed >}}
 
 ---
 

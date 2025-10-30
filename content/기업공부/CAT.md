@@ -22,17 +22,25 @@ Industry: Farm & Heavy Construction Machinery (농업 및 중장비 기계)
 
 Caterpillar Inc.는 세계 최대의 [건설](/industry-study/건설/) 및 광산 장비 제조업체로, 엔진 및 산업용 기계의 설계, 제조 및 판매를 전문으로 합니다. 1925년에 설립되어 미국 일리노이주에 본사를 두고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Caterpillar는 건설, 광산, 농업 및 에너지 산업을 위한 다양한 중장비 및 엔진을 제공합니다. 또한, 고객에게 서비스 및 부품 공급을 통해 지속적인 지원을 제공합니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
 - 역할: 중장비 사용
 - 건설업체: Bechtel (US, BCH)
 - 광산업체: Rio Tinto (UK/AU, [RIO](/company-analysis/rio/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -55,6 +63,8 @@ Caterpillar는 전 세계적으로 제품을 판매하고 있으며, 주요 시�
 - 아시아 태평양: 약 25%
 - 유럽: 약 20%
 - 기타: 약 15%
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 

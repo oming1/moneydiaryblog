@@ -20,6 +20,8 @@ weight: 846
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Synchrony Financial은 소비자 금융 서비스를 제공하는 회사로, 주요 사업 부문은 다음과 같습니다:
 
 - **소비자 금융**: 신용카드, 상업 신용 제품, 소비자 할부 대출 제공.
@@ -35,6 +37,8 @@ Synchrony Financial은 소비자 금융 서비스를 제공하는 회사로, 주
     - **핵심 산업**: 금융 기술, 데이터 분석
     - **핵심 기업**: Fiserv (미국, FISV), Equifax (미국, EFX)
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **연구개발 (R&D)**: 금융 상품 및 서비스 개발
@@ -44,11 +48,15 @@ Synchrony Financial은 소비자 금융 서비스를 제공하는 회사로, 주
 - **유통 (Distribution)**: 금융 상품 및 서비스의 전 세계 유통
     - **대표 회사**: Synchrony Financial (미국, [SYF](/company-analysis/syf/)), Wells Fargo (미국, [WFC](/company-analysis/wfc/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 
 - **신용카드**: 개인 및 상업용 신용카드 제공
 - **프로모션 금융**: 주요 소비자 구매를 위한 프로모션 금융 제공
 - **저축 상품**: 고수익 저축 계좌, CD, 머니 마켓 계좌 등
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

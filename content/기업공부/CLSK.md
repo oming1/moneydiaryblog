@@ -32,6 +32,8 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 암호화폐 거래소
 - 블록체인 기반 서비스 제공업체
 
@@ -59,6 +61,8 @@ CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Riot Platforms (US, [RIOT](/company-analysis/riot/))
 2. Marathon Digital Holdings (US, [MARA](/company-analysis/mara/))
 3. Core Scientific (US, [CORZ](/company-analysis/corz/))
@@ -68,6 +72,8 @@ CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 CleanSpark은 미국 내 주요 비트코인 채굴 기업 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

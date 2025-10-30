@@ -31,6 +31,8 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 현재 개발 단계에 있으며, 미국을 중심으로 사업을 추진하고 있습니다. 일본에서도 ANA Holdings와 파트너십을 맺고 있습니다
 
 ## 경쟁업체
@@ -39,6 +41,8 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
 - Archer Aviation(US, [ACHR](/company-analysis/achr/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 - 2023년 11월 12일, 뉴욕시에서 첫 도심 비행 테스트 성공
@@ -46,5 +50,7 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
 - 2023년 6월, 첫 생산 버전 항공기 공개 및 FAA 비행 테스트 승인 획득
 - 2022년 5월, FAA로부터 Part 135 항공 서비스 인증 획득
 - 2024년 6월, 수소-전기 하이브리드 eVTOL 항공기로 523마일 비행 기록 달성
+
+{{< adsense-infeed >}}
 
 Joby Aviation은 2025년 상용 서비스 시작을 목표로 하고 있으며, 델타 항공과의 파트너십을 통해 공항-도심 간 항공 택시 서비스를 제공할 계획입니다

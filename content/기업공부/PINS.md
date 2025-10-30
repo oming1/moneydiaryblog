@@ -20,7 +20,11 @@ weight: 692
 섹터: 커뮤니케이션 서비스
 산업: 인터넷콘텐츠및정보
 
+{{< adsense-infeed >}}
+
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 운영하는 미국 기업입니다. 2010년 설립되어 2019년 4월 뉴욕 증권거래소에 상장되었습니다. 주요 사업은 다음과 같습니다:
 
@@ -60,12 +64,16 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 - 비즈니스 도구: Pinterest for Business, 분석 도구 등
 - 크리에이터 도구: 아이디어 핀, 스토리 핀 등
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 - 광고주: Procter & Gamble(US, [PG](/company-analysis/pg/)), L'Oréal(FR, OR)
 - 소매업체: Target(US, [TGT](/company-analysis/tgt/)), Wayfair(US, [W](/company-analysis/w/))
 - 브랜드: Nike(US, [NKE](/company-analysis/nke/)), IKEA
 - 중소기업 및 개인 크리에이터
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

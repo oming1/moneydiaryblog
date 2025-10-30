@@ -23,12 +23,18 @@ weight: 4
 		ex) 1차선 => 5/6차선이니 당연히 속도가 빨라짐
 		통신 공부할때 나오는, 4G/5G로의 진화 개념과 유사함
 
+{{< adsense-infeed >}}
+
 	- HBM 왜 중요함?
 		 - 챗GPT 등 방대한 양의 데이터를 처리하는 인공지능 or 머신러닝에서 HBM 수요가 급증
 		 - 아무리 GPU/CPU의 성능이 좋아도, 도로가 막히면 도로묵 => 고성능 도로를 깔아줘야 하는 것
 		 - 실제 [NVDA](/company-analysis/nvda/)(엔비디아)의 AI 서버 제품인 H100에는 GPU 내에 HBM이 기본 탑재됨
 
+{{< adsense-infeed >}}
+
 	-  HBM 시장점유율과 경쟁?![](/images/https://i.imgur.com/UJT5kqK.png)
+
+{{< adsense-infeed >}}
 
 		 - SK하이닉스 50%, 삼성전자 40%, 마이크론 10% (2022년 기준)
 		 - HBM도 2013년 첫 개발 이후, 계속 기술이 발전해 1세대부터 4세대까지 등장
@@ -36,10 +42,14 @@ weight: 4
 		 - 하지만, 삼성전자와 마이크론 역시 빠르게 대응 
 		=> 23년 올해 하반기 3곳 모두 HBM3 대량 양산 계획 추정 
 
+{{< adsense-infeed >}}
+
 - 관련기업
 	- [Samsung](/industry-study/samsung/)
 	- [MU](/company-analysis/mu/)(마이크론)
 	- SK하이닉스
+
+{{< adsense-infeed >}}
 
 - 참고자료 링크
 	- 2023년

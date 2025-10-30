@@ -29,6 +29,8 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 - 소프트웨어 개발업체
 - 결제 처리 서비스 제공업체
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 온라인 게임 이용자
@@ -40,6 +42,8 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 2. 플랫폼 운영: HighRoller.com, CasinoRoom.com
 3. 마케팅 및 고객 유치: High Roller Technologies
 4. 고객 서비스: High Roller Technologies
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -53,6 +57,8 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - DraftKings(US, [DKNG](/company-analysis/dkng/))
 - Flutter Entertainment(IE, FLTR.L)
 - Entain(UK, ENT.L)
@@ -62,6 +68,8 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2024년 10월 23일 뉴욕 증권 거래소 아메리칸에 상장 (2024)
 - 2024년 3분기 매출 752만 달러 달성, 전분기 대비 30% 증가 (2024)

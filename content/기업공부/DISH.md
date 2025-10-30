@@ -22,6 +22,8 @@ weight: 279
 
 Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
+{{< adsense-infeed >}}
+
 1. 위성 TV 서비스: 다양한 채널 패키지 제공
 
 - 스포츠 패키지
@@ -50,6 +52,8 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
 - 위성 통신 장비 제조업체: EchoStar(US, [SATS](/company-analysis/sats/))
 - 네트워크 장비 제조업체: Ericsson(SE, ERIC)
+
+{{< adsense-infeed >}}
 
 ## 전방산업
 
@@ -85,6 +89,8 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 ## 산업 내 글로벌 시장 점유율
 
 정확한 데이터 없음
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -29,6 +29,8 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 제품 조달: 브랜드 제품을 할인된 가격에 대량 구매
 - 유통 및 판매: 자체 매장 네트워크와 온라인 플랫폼을 통해 판매
 
@@ -43,6 +45,8 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 
 ## 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 미국 43개 주, 워싱턴 D.C., 괌에서 사업을 전개하고 있습니다.
 
 ## 경쟁업체
@@ -51,6 +55,8 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 - Burlington Stores (미국, BURL)
 - Kohl's (미국, [KSS](/company-analysis/kss/))
 - Target (미국, [TGT](/company-analysis/tgt/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

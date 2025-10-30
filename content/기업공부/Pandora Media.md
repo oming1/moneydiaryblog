@@ -19,11 +19,17 @@ weight: 672
 
 ### 1. 기업 현황
 
+{{< adsense-infeed >}}
+
 - **Pandora Media**: 2019년 SiriusXM에 주당 $10.21 (1주당 SIRI 1.44주)에 인수
 - **현재 운영**: SiriusXM의 Pandora 및 off-platform 부문으로 통합 운영
 - **사업 모델**: 음악 스트리밍 및 광고 기반 서비스
 
+{{< adsense-infeed >}}
+
 ### 2. SiriusXM 통합 현황
+
+{{< adsense-infeed >}}
 
 - **Q1 2025 Pandora 부문 매출**: $487백만 (전년동기 대비 2% 감소)
 - **팟캐스트 매출 성장**: 전년동기 대비 33% 증가

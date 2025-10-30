@@ -32,6 +32,8 @@ Celestica는 크게 두 개의 사업 부문으로 운영됩니다. 첫째, ATS(
 
 주요 리스크 요소로는 공급망 차질, 주요 고객 의존도, 원자재 가격 상승, 글로벌 무역 분쟁, 경쟁 심화 등이 있습니다. 하지만 AI 인프라에 대한 지속적인 투자 확대와 다양한 산업 부문에 걸친 포트폴리오는 회사의 장기적 성장을 뒷받침하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -185,6 +187,8 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
 
 - **석유화학 제품(플라스틱, 에폭시)**: 인쇄회로기판, 하우징, 중동/미국, DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BASFY)
 
+{{< adsense-infeed >}}
+
 - **[희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 금속**: 전자부품 제조, 중국/호주, Lynas Rare Earths(AU, LYSCF), MP Materials(US, [MP](/company-analysis/mp/))
 
 ---
@@ -232,6 +236,8 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
 ---
 
 ### 경쟁업체 (20개)
+
+{{< adsense-infeed >}}
 
 **경쟁사별 상세 정보:**
 - Flex Ltd.(US, FLEX) - 다양한 산업 분야 EMS, 시장점유율 11.2%

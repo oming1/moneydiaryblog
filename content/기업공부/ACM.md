@@ -53,8 +53,12 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 인프라 컨�
 전방산업:
 
 - 정부 및 공공 기관: 인프라 프로젝트 발주 (U.S. Department of Transportation(U.S. DOT), World Bank(World Bank))
-    
+
+{{< adsense-infeed >}}
+
 - 민간 기업: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, BAM), ExxonMobil(US, [XOM](/company-analysis/xom/)))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -87,7 +91,9 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 인프라 컨�
 2. **프로젝트 관리 서비스**: 프로젝트 계획, 예산 관리, 일정 관리 등 (2024년 매출의 약 24%)
     
 3. **환경 및 지속가능성 컨설팅**: 환경 영향 평가, 지속가능성 전략 등 (2024년 매출의 약 15%)
-    
+
+{{< adsense-infeed >}}
+
 4. **정부 서비스**: 미국 정부 및 국제 기구를 위한 컨설팅 및 프로젝트 관리 (2024년 매출의 약 26%)
     
 5. **디지털 및 기술 솔루션**: BIM, AI, IoT 등을 활용한 솔루션 (2024년 매출의 약 10%)
@@ -143,7 +149,9 @@ AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 1. **Troy Rudd가 CEO로 임명** (2020년 10월)
     
 2. **AECOM의 지속가능성 이니셔티브 강화** (2023년)
-    
+
+{{< adsense-infeed >}}
+
 3. **2024년 2분기 매출 144억 달러 기록** (2024년)
     
 4. **글로벌 웰빙 월(Global Well-Being Month) 개최** (2024년)

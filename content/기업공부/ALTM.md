@@ -29,9 +29,13 @@ Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입
     - **핵심 산업:** 전기차 제조업은 Arcadium의 리튬 화합물을 사용하여 배터리를 제조합니다.
     - **관련 기업:** Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594)
 
+{{< adsense-infeed >}}
+
 - **후방산업:** 리튬 채굴업
     - **핵심 산업:** 리튬 채굴업은 Arcadium에 리튬 원료를 공급합니다.
     - **관련 기업:** Albemarle (미국, [ALB](/company-analysis/alb/)), SQM (칠레, SQM)
+
+{{< adsense-infeed >}}
 
 ### 밸류체인
 
@@ -45,6 +49,8 @@ Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입
     - **설명:** 리튬 화합물을 사용하여 배터리 제조
     - **대표회사:** Panasonic (일본, 6752), LG Chem (한국, 051910)
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **리튬 하이드록사이드:** [전기차 배터리](/industry-study/전기차-배터리/) 제조에 사용
@@ -56,6 +62,8 @@ Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입
 - **미국:** 주요 매출 국가
 - **중국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 

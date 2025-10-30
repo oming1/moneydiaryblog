@@ -41,10 +41,16 @@ Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거�
 - 스마트 시티 솔루션 제공업체
 - 산업용 로봇 제조업체
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 반도체 제조업체
 - 광학 부품 제조업체
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -60,6 +66,8 @@ Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거�
 3. 라이다 인식 솔루션
 4. Ultra (세계에서 가장 얇은 적응형 장거리 라이다)
 5. Vista®-X120 (수상 경력의 소형 광각 근거리 라이다 센서)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

@@ -28,7 +28,11 @@ weight: 713
 
 ## 4. 영위사업
 
+{{< adsense-infeed >}}
+
 Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로서 중간시장 및 하위 중간시장 기업들에게 다양한 금융 솔루션을 제공하는 공개상장 투자회사였습니다. 2025년 7월 15일 Portman Ridge Finance Corporation (PTMN)과의 합병이 완료되어 현재는 통합된 회사로 운영되고 있습니다.
+
+{{< adsense-infeed >}}
 
 주요 사업은 선순위 대출(First Lien Loans)을 중심으로 하며, 부분적으로 후순위 대출(Second Lien Loans)과 지분 증권에도 투자했습니다. Mount Logan Management LLC가 외부 투자자문사로서 포트폴리오 관리를 담당했으며, 이는 캐나다 Mount Logan Capital Inc.의 완전 자회사입니다.
 
@@ -37,6 +41,8 @@ Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로�
 투자 대상은 주로 미국 내 안정적인 현금흐름을 가진 중간시장 기업들이며, 상대적으로 낮은 순환성과 운영 리스크를 가진 사업체를 선호했습니다. 포트폴리오는 다양한 산업에 걸쳐 분산되어 있으며, 펀더멘털 신용 분석을 통해 투자 결정을 내렸습니다.
 
 합병 이전 기준으로 2025년 1분기 순투자수익은 주당 $0.35를 기록했으며, 순자산가치는 주당 $29.66였습니다. 최근 1년간 주가는 $29-34 구간에서 거래되며 상대적으로 안정적인 모습을 보였습니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -55,6 +61,8 @@ Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로�
 - 기타: 5% 미만
 
 **성장 동력 및 수익성 개선 요인:**
+
+{{< adsense-infeed >}}
 
 - 중간시장 대출 수요 증가
 - 은행 규제 강화로 인한 직접 대출 기회 확대
@@ -223,6 +231,8 @@ BDC는 금융서비스업으로 물리적 원자료가 아닌 금융 자본이 �
 **2025년:** Portman Ridge Finance와 합병 완료 (7월 15일), BCP Investment Corporation으로 리브랜딩 예정  
 **2024년:** 포트폴리오 회사 지분 매각으로 큰 이익 실현, 3분기 실적 발표  
 **2023년:** Mount Logan Management의 안정적 운용, 배당 정책 유지
+
+{{< adsense-infeed >}}
 
 ---
 

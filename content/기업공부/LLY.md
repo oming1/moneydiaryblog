@@ -57,7 +57,9 @@ weight: 522
 
 		1. 인크레틴 포트폴리오 (비만/당뇨)
 		오르포글리프론 (Orforglipron):
-		
+
+{{< adsense-infeed >}}
+
 		하루 한 번 복용하는 경구용 비펩타이드 GLP-1 유사체.
 		
 		콜드체인이 필요 없고 대량 생산이 가능하여 전 세계적 수요 충족에 용이.
@@ -123,6 +125,8 @@ Eli Lilly의 비즈니스 모델은 혁신적인 신약 개발과 글로벌 상�
 - 자체 연구소에서 신약 발견 및 개발
 - 바이오테크 회사와의 파트너십 및 인수합병
 - 임상시험을 통한 안전성 및 효능 검증
+
+{{< adsense-infeed >}}
 
 **2. 핵심 치료 영역별 포트폴리오:**
 
@@ -236,6 +240,8 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - Recursion Pharmaceuticals(US, [RXRX](/company-analysis/rxrx/)) - AI 기반 신약 발견 플랫폼
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)) - 합성 생물학 플랫폼
 - Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)) - 단백질 동역학 기반 신약 개발
+
+{{< adsense-infeed >}}
 
 **전임상 및 임상 단계:** 안전성 및 효능 검증
 

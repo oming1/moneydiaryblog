@@ -35,6 +35,8 @@ Omron Corporation은 전 세계적으로 산업 자동화, 전자 부품, 사회
 
 **후방산업:**
 
+{{< adsense-infeed >}}
+
 - **반도체 제조업체:** TSMC (US, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (KR, 005930)
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 
@@ -42,12 +44,16 @@ Omron Corporation은 전 세계적으로 산업 자동화, 전자 부품, 사회
 
 Omron의 밸류체인은 전자 부품 설계에서부터 최종 제품의 제조 및 판매까지의 과정을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **설계:** [Omron](/company-analysis/omron/) (JP, 6645.T) - 전자 부품 및 자동화 솔루션 설계
 - **제조:** TSMC (US, [TSM](/company-analysis/tsm/)) - 반도체 제조
 - **조립 및 테스트:** ASE Technology(TW, 3711) - 반도체 조립 및 테스트
 - **판매:** [Omron](/company-analysis/omron/) (JP, 6645.T) - 최종 제품 판매
 
 ### 주요제품
+
+{{< adsense-infeed >}}
 
 - **센서:** 다양한 산업용 (매출 비중: 2023년 기준 30%)
 - **릴레이:** 전자 및 전기 시스템용 (매출 비중: 2023년 기준 25%)

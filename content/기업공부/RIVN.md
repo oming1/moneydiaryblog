@@ -22,6 +22,8 @@ Rivian은 [전기차](/industry-study/2산업자동차-산업전기차/) 및 자
 
 전방/후방산업:
 
+{{< adsense-infeed >}}
+
 - 전방산업:  
     핵심 산업 및 역할: 전기차 충전 인프라, 배터리 재활용  
     관련 기업: ChargePoint (US, [CHPT](/company-analysis/chpt/)), Li-Cycle (US, [LICY](/company-analysis/licy/))
@@ -39,17 +41,25 @@ Rivian은 [전기차](/industry-study/2산업자동차-산업전기차/) 및 자
 
 주요제품:
 
+{{< adsense-infeed >}}
+
 - R1T (전기 픽업 트럭)
 - R1S (전기 SUV)
 - Rivian EDV (전기 배달 밴)
 - 충전 네트워크 (Rivian Adventure Network)
 
+{{< adsense-infeed >}}
+
 주요 판매국가:  
 미국을 중심으로 판매 중이며, 향후 캐나다 등으로 확장 계획경쟁업체:
+
+{{< adsense-infeed >}}
 
 - Tesla (US, [TSLA](/company-analysis/tsla/)) (전기차 제조)
 - Ford (US, [F](/company-analysis/f/)) (F-150 Lightning 전기 트럭)
 - General Motors (US, [GM](/company-analysis/gm/)) (GMC Hummer EV)
+
+{{< adsense-infeed >}}
 
 산업 내 글로벌 시장 점유율:  
 신생 기업으로 아직 글로벌 시장 점유율은 미미하나, 전기 트럭 시장에서 선도적 위치를 차지하고 있습니다.

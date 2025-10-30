@@ -40,10 +40,14 @@ Group 1 Automotive, Inc.는 미국과 영국에서 [자동차](/industry-study/�
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
 - 보험회사: 차량 보험 상품 제공
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -72,11 +76,15 @@ Group 1 Automotive는 주로 미국과 영국에서 사업을 영위하고 있�
 4. CarMax (US, [KMX](/company-analysis/kmx/))
 5. Asbury Automotive Group (US, [ABG](/company-analysis/abg/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Group 1 Automotive는 2021년 기준 미국에서 4번째로 큰 자동차 소매업체로 평가되고 있습니다
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024년 7월 영국에서 4개의 Mercedes-Benz 딜러십 인수 (2024년)
 2. 2024년 8월 Inchcape Retail (IR) 자동차 사업부 인수로 영국 내 54개 딜러십 추가 (2024년)

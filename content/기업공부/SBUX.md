@@ -20,6 +20,8 @@ weight: 773
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅, 마케팅 및 판매하는 회사입니다. 주요 사업으로는 커피 및 차 음료, 로스팅된 원두 및 분쇄 커피, 싱글 서브 제품, 즉석 음료, 다양한 식품 제품(페이스트리, 아침 샌드위치, 점심 메뉴 등)을 제공합니다. 또한, 라이선스 매장 및 식료품점, 푸드 서비스 계정을 통해 상표를 라이선스합니다
 
 #### 전방/후방산업
@@ -32,6 +34,8 @@ Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅,
     - **포장재 제조**: 커피 포장재 공급 (예: International Paper (US, [IP](/company-analysis/ip/)))
 
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 공급**: 커피 원두 및 기타 원료 공급 (예: Olam International (SG, O32))
 - **제품 제조**: 커피 로스팅 및 음료 제조 (Starbucks)
@@ -53,7 +57,11 @@ Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅,
 - **일본**: 주요 판매국가로 1,733개의 매장 운영 (2023년 기준)
 - **한국**: 주요 판매국가로 1,870개의 매장 운영 (2023년 기준)
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **McDonald’s (US, [MCD](/company-analysis/mcd/))**: 패스트푸드 및 커피 판매
 - **Dunkin’ (US, DNKN)**: 커피 및 도넛 판매

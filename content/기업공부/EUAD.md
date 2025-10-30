@@ -24,7 +24,9 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 - Airbus와 BAE Systems 같은 업계 리더들을 포함
     
 - 유럽 전역의 다양한 국가에 걸친 투자 포트폴리오
-    
+
+{{< adsense-infeed >}}
+
 - 국가 안보와 글로벌 방위 시장에 중요한 전략적 산업에 대한 노출
     
 - 산업 수요, 정부 계약, 기술 혁신 등의 트렌드를 반영
@@ -44,7 +46,9 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 2. [PPA](/industry-study/ppa/) Invesco Aerospace & Defense ETF
     
     - SPADE™ Defense 지수 기반
-        
+
+{{< adsense-infeed >}}
+
     - 미국 방위, 국토안보, 항공우주 운영 관련 기업에 투자
         
     - 분기별로 재조정 및 재구성[2](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PPA)
@@ -58,9 +62,13 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 수정 동일 가중 지수 방식 사용[3](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xar.pdf)
         
 4. DFEN Direxion Daily Aerospace & Defense Bull 3X Shares
-    
+
+{{< adsense-infeed >}}
+
     - 항공우주 & 방위 산업 3배 레버리지 ETF
-        
+
+{{< adsense-infeed >}}
+
     - 높은 변동성과 위험을 동반한 단기 거래용 상품
         
     - 연간 운용보수: 0.97%[4](https://www.mutualfunds.com/etfs/dfen-direxion-dly-aerospace-def-bl-3x-shsetf/)
@@ -98,7 +106,9 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 9. XLI Industrial Select Sector SPDR Fund
     
     - 산업 섹터 전반에 투자하며, 방위산업 기업들도 포함
-        
+
+{{< adsense-infeed >}}
+
     - S&P 500 산업 섹터 기업들에 대한 광범위한 노출 제공
         
 10. VIS Vanguard Industrials ETF

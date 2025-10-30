@@ -35,6 +35,8 @@ Pacific Biosciences of California, Inc.(PACB)는 혁신적인 DNA 시퀀싱 기�
 - 감염병 및 미생물학
 - 종양학
 
+{{< adsense-infeed >}}
+
 PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기서열과 후성유전학적 상태를 감지할 수 있어 과학 연구와 임상 응용에 중요한 도구로 사용됩니다.
 
 주요 경쟁자:
@@ -88,7 +90,9 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 2. 화학 및 생화학 재료: 시약 및 소모품 제조
     
     - Agilent Technologies(US, [A](/company-analysis/a/)), Merck KGaA(DE, [MRK](/company-analysis/mrk/))
-    
+
+{{< adsense-infeed >}}
+
 3. 소프트웨어 및 데이터 분석: 생물정보학 도구 개발
     
     - Alphabet(US, [GOOGL](/company-analysis/googl/)), Microsoft(US, [MSFT](/company-analysis/msft/))
@@ -123,6 +127,8 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 4. 시퀀싱 키트 및 시약: DNA 라이브러리 준비 및 시퀀싱용
 5. 생물정보학 소프트웨어: SMRT Link (데이터 분석 및 관리용)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 1. 학술 연구 기관: Harvard University(US, Harvard), Stanford University(US, Stanford)
@@ -152,6 +158,8 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 정확한 시장 점유율 데이터는 제공되지 않았지만, PACB는 장기 읽기 DNA 시퀀싱 시장에서 주요 플레이어 중 하나로 인식되고 있습니다. 2022년 기준 전체 DNA 시퀀싱 시장에서는 Illumina가 약 80%의 점유율로 선두를 차지하고 있으며, PACB는 장기 읽기 시장에서 Oxford Nanopore Technologies와 경쟁하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. Revio 시스템 출시로 처리량 대폭 증가 (2022)
 2. Vega 시스템 발표로 중소규모 시장 공략 강화 (2023)

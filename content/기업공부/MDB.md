@@ -26,6 +26,8 @@ MongoDB, Inc.(NASDAQ: MDB)는 오픈 소스 데이터베이스 관리 시스템�
 
 2007년에 설립된 MongoDB는 문서 지향 데이터베이스 솔루션을 통해 다양한 산업의 기업들이 데이터 관리 및 애플리케이션 개발을 효율적으로 수행할 수 있도록 지원합니다.
 
+{{< adsense-infeed >}}
+
 주요 제품으로는 MongoDB Atlas라는 클라우드 기반 데이터베이스 서비스가 있으며, 이는 관리형 멀티 클라우드 데이터베이스로 고객이 손쉽게 데이터를 저장하고 운영할 수 있게 합니다. 또한, MongoDB Enterprise Advanced라는 상용 솔루션도 제공하여 기업 고객의 요구를 충족합니다.
 
 최근 1년 내 주요 이슈로는 AI 애플리케이션 프로그램(MAAP)의 확장, MongoDB 8.0 출시, Microsoft와의 협업 강화 등이 있습니다. 이러한 혁신은 고객이 데이터 기반의 결정을 내릴 수 있도록 지원합니다.
@@ -42,6 +44,8 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 
 이러한 경쟁력을 바탕으로 MongoDB는 데이터베이스 관리 시스템 시장에서 중요한 위치를 차지하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -49,6 +53,8 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 기업 IT 부서
 - DevOps 팀
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -92,6 +98,8 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 클라우드 기반 솔루션에서 두각을 나타내고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - AI 애플리케이션 프로그램(MAAP) 확장 발표 (2024년)
 - MongoDB 8.0 출시로 성능 개선 (2024년)

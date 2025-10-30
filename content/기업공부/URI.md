@@ -20,6 +20,8 @@ weight: 917
 섹터: 산업재
 산업: 무역회사및유통업체
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 United Rentals, Inc.(NYSE: URI)는 세계 최대의 장비 렌탈 회사입니다. 1997년 설립된 이 회사는 건설, 산업, 유틸리티, 지방자치단체 및 주택 소유자 등 다양한 고객층에게 장비 렌탈 서비스를 제공합니다.주요 사업 부문은 다음과 같습니다:
@@ -40,6 +42,8 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 5. 산업 전문성: 다양한 산업에 대한 깊은 이해와 맞춤형 솔루션 제공 능력
 6. 재무적 안정성: 강력한 현금 흐름과 안정적인 재무 구조
 
+{{< adsense-infeed >}}
+
 이러한 경쟁력을 바탕으로 United Rentals는 장비 렌탈 시장에서 선도적 위치를 유지하고 있습니다.
 
 ## 전방/후방산업
@@ -59,6 +63,8 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 장비 제조: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 및 산업 장비)
 2. 장비 구매: United Rentals(US, [URI](/company-analysis/uri/)) (대규모 장비 구매)
 3. 유지보수: United Rentals(US, [URI](/company-analysis/uri/)) (자체 정비 서비스)
@@ -67,6 +73,8 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 6. 중고 장비 판매: Ritchie Bros. Auctioneers(CA, [RBA](/industry-study/1경제매크로3금리rba/)) (장비 경매)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 건설 장비 렌탈: 굴삭기, 불도저 등, 매출의 약 40% (2024년 기준)
 - 항공 작업 플랫폼: 리프트, 붐 등, 매출의 약 30% (2024년 기준)

@@ -34,25 +34,35 @@ Diamondback Energy, Inc.는 텍사스주 미들랜드에 본사를 둔 탄화수
     - 핵심 산업 및 역할: 석유 및 가스 장비 및 서비스
     - 관련 기업: Schlumberger (US, [SLB](/company-analysis/slb/)), Halliburton (US, [HAL](/company-analysis/hal/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - 탐사 및 생산: 석유 및 천연가스 탐사, 시추, 생산
-    
+
+{{< adsense-infeed >}}
+
     - 대표 회사: ConocoPhillips (US, [COP](/company-analysis/cop/)) - 석유 및 천연가스 탐사 및 생산
     
 - 운송: 파이프라인을 통한 석유 및 가스 운송
-    
+
+{{< adsense-infeed >}}
+
     - 대표 회사: Kinder Morgan (US, [KMI](/company-analysis/kmi/)) - 에너지 인프라 회사
     
 - 정제 및 마케팅: 석유 제품 정제 및 판매
     
     - 대표 회사: Marathon Petroleum (US, [MPC](/company-analysis/mpc/)) - 석유 정제 및 마케팅
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - [원유](/industry-study/원유/) (2020년 기준 총 매장량의 52%)
 - 천연가스 (2020년 기준 총 매장량의 24%)
 - 천연가스 액체 (2020년 기준 총 매장량의 24%)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
