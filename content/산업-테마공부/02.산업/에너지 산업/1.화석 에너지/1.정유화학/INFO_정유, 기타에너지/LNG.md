@@ -1,20 +1,21 @@
-﻿---
+---
 title: "LNG"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-10-28T06:44:22+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:22Z" />
 </div>
 #천연가스 #LNG
 
 - 최근이슈
 	- 2025년
-		- 2025-03-20, [LNG 얼음 위의 체스판]알래스카 LNG 개발!Pasted image 20250625135500.png
+		- 2025-03-20, [LNG 얼음 위의 체스판]알래스카 LNG 개발![](Pasted%20image%2020250625135500.png)
 
 1. 다른 용어와의 차이:
 

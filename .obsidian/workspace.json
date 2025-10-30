@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66174d4e231b2b89",
+        "id": "12f1f472a6e65d25",
         "type": "tabs",
         "children": [
           {
-            "id": "ba0b940f963212f7",
+            "id": "4198e963786cd0f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/10월/2025-10-29 미국 시황 정리.md",
+                "file": "content/Daily시황정리/2025년/01월/2025-01-23 미국 시황 정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-29 미국 시황 정리"
+              "title": "2025-01-23 미국 시황 정리"
             }
           }
         ]
@@ -193,34 +193,34 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ba0b940f963212f7",
+  "active": "f9d5df884ef589ef",
   "lastOpenFiles": [
+    "content/Daily시황정리/2025년/01월/2025-01-18 미국시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/03월/2025-03-21 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/06월/2025-06-19 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-18 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-21 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-24 미국 시황 정리.md",
     "content/Daily시황정리/2025년/10월/2025-10-28 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-01 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-04 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-07 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-08 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-11 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-12 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-13 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-15 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-18 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-20 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-21 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-22 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-25 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-26 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-27 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-28 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/02월/2025-02-05 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/07월/2025-07-12 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/07월/2025-07-09 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/07월/2025-07-08 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/07월/2025-07-02 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/10월/2025-10-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-30 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-29 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/06월/2025-06-06 미국 시황 정리.md",
+    "content/산업-테마공부/02.산업/원자재 산업/★ 원자재 이슈.md",
+    "content/Daily시황정리/과거/2024/07월/2024-07-09.md",
+    "4.템플렛/0.(간소화)데일리.md",
+    "content/기업공부/Holtec International.md",
+    "content/기업공부/NVO.md",
+    "content/기업공부/PM.md",
+    "content/기업공부/OKE.md",
+    "content/기업공부/TSLA.md",
+    "content/기업공부/Vuihoc.md",
     "content/Daily시황정리/2025년/10월/2025-10-15 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/10월/2025-10-16 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/10월/2025-10-25 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-13 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-17 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-20 미국 시황 정리.md",
     "static/images/Pasted image 20251029064930.png",
     "static/images/Pasted image 20251029064906.png",
     "static/images/Pasted image 20251029064838.png",

@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 140
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
@@ -42,7 +43,7 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 - **사업 부문별 구성**
     
     - **스쿨버스 제조 (약 90% 매출):** Type C와 Type D 중심으로, 북미 교육 시장 주력.
-      !Pasted image 20250908155709.png
+      ![](Pasted%20image%2020250908155709.png)
       
     - **부품 및 서비스 (약 10% 매출):** 애프터마켓 부품 판매와 정비 지원.
 

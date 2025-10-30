@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 314
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
@@ -30,7 +31,7 @@ weight: 314
 
 ## 영위사업
 
-Enphase Energy Inc.는 2006년 설립된 세계 최대 마이크로인버터 및 홈 에너지 시스템 전문 기업으로, 태양광 마이크로인버터, 에너지 저장 시스템, 에너지 관리 소프트웨어를 통합한 스마트 에너지 솔루션을 제공합니다. 회사는 분산형 태양광 발전 시스템의 혁신을 주도하며 주거용과 상업용 시장에서 독보적인 기술력을 보유하고 있습니다.!Pasted image 20250711135308.png
+Enphase Energy Inc.는 2006년 설립된 세계 최대 마이크로인버터 및 홈 에너지 시스템 전문 기업으로, 태양광 마이크로인버터, 에너지 저장 시스템, 에너지 관리 소프트웨어를 통합한 스마트 에너지 솔루션을 제공합니다. 회사는 분산형 태양광 발전 시스템의 혁신을 주도하며 주거용과 상업용 시장에서 독보적인 기술력을 보유하고 있습니다.![](Pasted%20image%2020250711135308.png)
 
 주요 사업부문으로는 마이크로인버터(Microinverters), 에너지 저장 시스템(IQ Battery), 에너지 관리 소프트웨어(Envoy), 전기차 충전기(IQ EV Charger), 모니터링 및 분석 플랫폼으로 구성됩니다. 2024년 3분기 매출 3억 8,090만 달러를 기록했으며, 약 170만대의 마이크로인버터와 172.9MWh의 배터리를 출하했습니다.
 

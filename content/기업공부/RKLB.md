@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 748
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
@@ -17,7 +18,7 @@ weight: 748
 ## 최근이슈
 
 - 2025년
-	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표!Pasted image 20250819065216.png
+	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표![](Pasted%20image%2020250819065216.png)
 
 ---
 ## 산업 분류

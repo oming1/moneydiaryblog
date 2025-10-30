@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 522
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
@@ -18,7 +19,7 @@ weight: 522
 	- [2024-12-24](/daily-summary/2024-12-24/), FDA가 동사 비만 치료제인 젭바운드를 비만 성인의 [수면무호흡증 치료제로도 승인]했다는 소식 전해지자 주가 강세. 이번 승인은 폐쇄성 수면무호흡증을 치료하기 위한 의약품 중 최초 사례. 관련 소식에 의료기기 업체 레스메드([RMD](/company-analysis/rmd/) -2.6%) 주가는 약세 보이는 모습. 레스메드의 주요 사업은 수면 무호흡증, 만성 폐쇄성 폐질환 및 기타 호흡기 질환 치료를 위한 의료기기 사업을 영위 중
 		  
 - 2025년 
-	- 2025-08-27,'Lilly 경구용 GLP-1 치료제 오포글리프론, 3상 임상 성공으로 올해 비만 치료제 글로벌 허가 신청 예정' !Pasted image 20250826201903.png
+	- 2025-08-27,'Lilly 경구용 GLP-1 치료제 오포글리프론, 3상 임상 성공으로 올해 비만 치료제 글로벌 허가 신청 예정' ![](Pasted%20image%2020250826201903.png)
 	  
 	- 2025-09-09, Eli Lilly – Morgan Stanley 글로벌 헬스케어 컨퍼런스 (25.9.8)
 
@@ -101,7 +102,7 @@ weight: 522
 
 Eli Lilly and Company는 1876년 설립된 글로벌 제약회사로, 의료용 의약품의 발견, 개발, 제조 및 판매를 통해 전 세계 환자들의 삶의 질 향상에 기여하고 있습니다. 회사는 당뇨병, 비만, 종양학, 면역학, 신경과학 등 다양한 치료 영역에서 혁신적인 의약품을 개발하여 글로벌 제약 시장에서 선도적 지위를 확립하고 있습니다.
 
-!Pasted image 20250711150908.png
+![](Pasted%20image%2020250711150908.png)
 
 주요 사업부문은 당뇨병 치료제(인슐린, GLP-1 계열), 비만 치료제, 종양학 의약품, 면역학 치료제, 신경과학 분야로 구성되어 있습니다. 2024년 총 매출 450억 달러를 기록했으며, 특히 [티르제파타이드](/industry-study/티르제파타이드/)(Mounjaro, Zepbound) 계열 의약품이 폭발적인 성장을 보이며 매출의 상당 부분을 차지하고 있습니다.
 
@@ -261,7 +262,7 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 
 ## **주요제품**
 
-**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png)
+**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png))
 
 **Zepbound ([티르제파타이드](/industry-study/티르제파타이드/), [젭바운드](/industry-study/젭바운드/)):** 비만 치료제, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/). **GLP-1 유사 펩티드** 계열로(GLP-1/GIP 이중작용제), 체중 감량([비만 치료제](/industry-study/비만-치료제/))과 당뇨병 예방에 효과적이며 [비만 치료제](/industry-study/비만-치료제/)로 각광 받고 있음. 최근에는 **폐쇄성 수면 무호흡증(수면 무호흡)**, 환자에게도 효과가 있는 것으로 나타났습니다.
 	-[티르제파타이드는 38개의 아미노산으로 이루어진 합성 선형 펩타이드](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=35&selection=30,0,43,4&color=yellow))

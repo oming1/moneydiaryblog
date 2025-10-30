@@ -1,14 +1,15 @@
 ﻿---
 title: "4세대 SMR"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-10-28T06:44:23+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:23Z" />
 </div>
 #고온가스냉각로 #SMR #불화염냉각고온로 #소듐냉각고속로 #납냉각고속로 #용융염원자로
 

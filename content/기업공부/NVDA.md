@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 638
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
 </div>
@@ -54,7 +55,7 @@ weight: 638
 		🗣️ CEO 코멘트
 		• “Blackwell은 세계가 기다려온 AI 플랫폼으로, 추론 AI 수요 급증이 학습과 추론 성능을 대폭 끌어올리고 있습니다.” – Jensen Huang, CEO
 				
-		!Pasted image 20250828054459.png!Pasted image 20250828054509.png
+		![](Pasted%20image%2020250828054459.png)![](Pasted%20image%2020250828054509.png)
 		
 	- 2025-09-09, NVIDIA – Goldman Sachs Communicopia + Technology Conference 2025 (25.9.9)
 

@@ -1,14 +1,15 @@
 ﻿---
 title: "GME"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-28T06:44:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 382
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:31Z" />
 </div>
 #임의소비재 #전문소매 #비디오게임 #전자제품 #밈주식 
 

@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 371
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
 </div>
@@ -20,7 +21,7 @@ weight: 371
 
 ## 영위사업
 
-GE Vernova는 General Electric에서 분사한 글로벌 에너지 기업으로, 전력, [풍력](/industry-study/풍력/), [원자력 발전](/industry-study/원자력-발전/), [수력](/industry-study/수력/), 전기화 사업을 주력으로 합니다. 주요 사업 부문은 다음과 같습니다:!Pasted image 20250711141231.png
+GE Vernova는 General Electric에서 분사한 글로벌 에너지 기업으로, 전력, [풍력](/industry-study/풍력/), [원자력 발전](/industry-study/원자력-발전/), [수력](/industry-study/수력/), 전기화 사업을 주력으로 합니다. 주요 사업 부문은 다음과 같습니다:![](Pasted%20image%2020250711141231.png)
 
 1. 전력(Power): 가스터빈, 스팀터빈, 발전기 등 발전 설비 제조 및 서비스
 2. [풍력](/industry-study/풍력/)(Wind): 육상 풍력 터빈 및 해상풍력 터빈 제조, 설치, 서비스

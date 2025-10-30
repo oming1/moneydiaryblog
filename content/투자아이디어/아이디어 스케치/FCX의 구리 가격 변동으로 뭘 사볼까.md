@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
 </div>
@@ -16,11 +17,11 @@ weight: 2
 
 ### **1. 시장 상황 및 단기 구리 가격 모멘텀**
 
-!Pasted image 20250925121329.png
+![](Pasted%20image%2020250925121329.png)
 
 9월 8일 인도네시아 Grasberg 광산에서 발생한 대형 진흙사태(사망 2명, 실종 5명)로 Freeport-McMoRan(FCX)은 불가항력(force majeure)을 선언, 2025년 3분기 구리와 금 판매 가이던스를 각각 4%, 6% 하향 조정했습니다. 이 광산은 전 세계 채굴 구리의 3.2%, FCX 구리 생산의 약 30%, 금 생산의 70%를 차지합니다. 이 여파로 구리 선물은 파운드당 $4.77(4% 이상 급등), 두 달 만에 최고치를 기록했습니다. 동시에 페루 Hudbay Minerals의 콘스탄시아 광산도 시위로 가동이 중단되며 공급 충격이 심화되고 있습니다.
 
-!Pasted image 20250925121351.png
+![](Pasted%20image%2020250925121351.png)
 
 이러한 공급 차질은 이미 타이트한 글로벌 구리 재고와 맞물려 가격 민감도를 극대화하고 있습니다. 단기적으로 구리 가격은 추가 상승 압력을 받을 가능성이 높으며, 제련업계에도 부담이 가중될 전망입니다.
 

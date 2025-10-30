@@ -1,14 +1,15 @@
 ﻿---
 title: "AMC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-10-28T06:44:26+09:00
 type: docs
 sidebar:
   open: false
 weight: 59
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:26Z" />
 </div>
 #커뮤니케이션서비스 #밈주식 #엔터테인먼트 #영화 #극장 
 

@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 11
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
 </div>
@@ -43,7 +44,7 @@ weight: 11
 
 - **우주 탐사**: 인간이 접근하기 어려운 환경에서 AI 로봇을 활용한 연구.
 
-!Pasted image 20250923120545.png
+![](Pasted%20image%2020250923120545.png)
 
 ---
 

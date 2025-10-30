@@ -1,14 +1,15 @@
 ﻿---
 title: "ELLIQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-28T06:44:29+09:00
 type: docs
 sidebar:
   open: false
 weight: 310
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
 </div>
 #가정용로봇 #로봇 #서비스로봇 #가정용내구재 #소비자재량주 #가전제품 #임의소비재
 

@@ -6,7 +6,8 @@ type: docs
 sidebar:
   open: false
 weight: 3
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
   <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
 </div>
@@ -18,13 +19,13 @@ CTV는 광고 관점에서 가장 빠르게 성장하는 채널
 
 CTV는 매스마케팅과 타깃마케팅을 합친 효과를 가져올 수 있다. 매스마케팅은 다수를 대상으로 펼쳐 브랜드 인지도를 높이고, 타깃마케팅은 소수를 대상으로 집행하여 실제 브랜드 구매 성과를 높인다.
 
-CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다. OTT 요금제에서 광고 요금제 가입자 비중이 커지고 있다.!Pasted image 20250626172209.png
+CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다. OTT 요금제에서 광고 요금제 가입자 비중이 커지고 있다.![](Pasted%20image%2020250626172209.png)
 2024년 미국 기준으로 광고요금제 비중은 넷플릭스가
 5%에서 17%, 디즈니는 10%에서 30%, 아마존은 0%에서 80%로 늘어났다 (아마존은 광고요금제가 디폴트 요금제)
 
 ### CTV 광고 유형
 
-CTV의 광고 판매는 크게 4가지로 구분할 수 있다. !Pasted image 20250626172221.png40438.png)
+CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](Pasted%20image%2020250626172221.png)40438.png))
 1) Direct order
    
    Direct order 방식은 [광고주와 플랫폼(퍼블리셔)이 미리 가격과 물량을 확정]한다. 광고주 중 주요 인벤토리를 보장받고 싶은 경우 이러한 계약을 체결한다. 예를 들어 슈퍼볼 메인 광고의 경우 워낙 광고 효과가 크기 때문에 광고주는 미리 플랫폼과 광고 협의를 한다. Direct order는 Ad-tech 기업의 기여도가 낮으므로 수수료 마진이 낮다.

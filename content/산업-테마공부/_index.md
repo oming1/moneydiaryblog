@@ -1,13 +1,15 @@
 ﻿---
 title: "산업-테마공부"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-29T22:04:44+09:00
+lastmod: 2025-10-28T21:48:28+09:00
 type: docs
 sidebar:
   open: false
----<div style="display:none">
+weight: 1
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-29T13:04:44Z" />
+  <meta property="article:modified_time" content="2025-10-28T12:48:28Z" />
 </div>
 # 산업-테마공부
 
