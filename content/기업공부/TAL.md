@@ -1,7 +1,7 @@
 ﻿---
 title: "TAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 851
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 TAL Education Group ADR (NYSE: TAL)는 [중국](/industry-study/4국가중국/) 베이징에 본사를 둔 K-12 학생들을 대상으로 한 방과 후 교육 및 튜터링 서비스를 제공하는 기업입니다. 2003년에 설립된 이 회사는 다양한 학습 서비스를 제공하며, 특히 수학, 영어, 중국어, 물리, 화학, 생물 등 주요 학문 분야를 다루고 있습니다.
 

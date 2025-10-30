@@ -1,15 +1,15 @@
 ﻿---
 title: "UVE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:39+09:00
+date: 2024-10-12T00:23:07+09:00
+lastmod: 2025-10-30T22:25:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 923
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:39Z" />
+  <meta property="article:published_time" content="2024-10-11T15:23:07Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
 </div>
 #금융서비스 #보험 #재보험 
 
@@ -48,14 +48,20 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 
 {{< adsense-infeed >}}
 
+
+{{< adsense-infeed >}}
 - **주택 소유자 보험:** 주택 및 개인 재산 보호
 - **임차인 보험:** 임차인의 개인 재산 보호
 - **콘도 소유자 보험:** 콘도 소유자의 재산 보호
 
 **주요 판매국가**
 
+
+{{< adsense-infeed >}}
 - **미국:** 전체 매출의 대부분을 차지 (2023년 기준)
 
+
+{{< adsense-infeed >}}
 **경쟁업체**
 
 - **Progressive (US, [PGR](/company-analysis/pgr/)):** 주택 소유자 보험, 자동차 보험
@@ -64,6 +70,10 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 
 **산업 내 글로벌 시장 점유율**
 
+
+{{< adsense-infeed >}}
+
+{{< adsense-infeed >}}
 - **Universal Insurance Holdings:** 약 2% (2023년 기준)
 - **Progressive:** 약 10% (2023년 기준)
 - **Allstate:** 약 8% (2023년 기준)

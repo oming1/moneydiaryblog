@@ -1,15 +1,15 @@
 ﻿---
 title: "SPG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:37+09:00
+date: 2024-08-30T20:31:57+09:00
+lastmod: 2025-10-30T22:25:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 818
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
+  <meta property="article:published_time" content="2024-08-30T11:31:57Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:45Z" />
 </div>
 #리츠 #부동산 #상업용부동산 #아울렛
 
@@ -28,7 +28,11 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
     
     - **핵심 산업 및 역할**: 소매업 및 엔터테인먼트 서비스 제공
     - **관련 기업**: Macy's (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
+    
 
+{{< adsense-infeed >}}
+
+{{< adsense-in
 {{< adsense-infeed >}}
 
 - **후방산업**:
@@ -52,6 +56,8 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
     
 - **고객 서비스**: 쇼핑 경험 개선을 위한 서비스 제공
     
+
+{{< adsense-infeed >}}
     - **대표 회사**: Westfield Corporation (AU, WFD) - 쇼핑몰 고객 서비스
     - **대표 회사**: GGP Inc. (US, GGP) - 쇼핑몰 운영 및 고객 서비스
 
@@ -61,6 +67,8 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
 - **프리미엄 아울렛** (매출의 약 20%)
 - **밀레니엄 쇼핑센터** (매출의 약 10%)
 
+
+{{< adsense-infeed >}}
 ## 주요 판매국가
 
 {{< adsense-infeed >}}
@@ -73,12 +81,16 @@ Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시�
 - **Unibail-Rodamco-Westfield (FR, URW)** - 쇼핑몰 및 상업 부동산 관리
 - **Macerich (US, MAC)** - 쇼핑몰 관리
 
+
+{{< adsense-infeed >}}
 ## 산업 내 글로벌 시장 점유율
 
 {{< adsense-infeed >}}
 
 Simon Property Group는 미국 내 쇼핑몰 및 아울렛 시장에서 가장 큰 REIT 중 하나로, 상당한 시장 점유율을 보유하고 있습니다.
 
+
+{{< adsense-infeed >}}
 ## 최근 3년 내 주요 이슈
 
 {{< adsense-infeed >}}

@@ -1,7 +1,7 @@
 ﻿---
 title: "SOCAMM"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-10-30T21:33:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,9 +9,9 @@ weight: 5
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
 </div>
-SOCAMM(System On Chip with Advanced Memory Module)![](Pasted%20image%2020250625133311.png)
+SOCAMM(System On Chip with Advanced Memory Module)![](/images/Pasted%20image%2020250625133311.png)
 
 온디바이스 AI를 위한 차세대 메모리 SOCAMM
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "BWXT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 162
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #BWXT #핵심추진체계 #원자력부품 #해군원자로 #항공모함 #잠수함 #TRISO연료 #미소형원자로 #마이크로리액터 #우주원자력 #핵열추진 #방위산업 #NNSA #DOE #의료동위원소 #방사선약품 #HALEU #고농축저농도우라늄 #비파괴검사 #정밀단조 #원자력안전 #규제준수 #공급망안보 #국방예산 #장기계약 #서비스수익
 

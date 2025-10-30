@@ -1,15 +1,15 @@
 ﻿---
 title: "SO"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:37+09:00
+date: 2024-10-28T21:16:20+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
 weight: 812
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
+  <meta property="article:published_time" content="2024-10-28T12:16:20Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #유틸리티 #전기및가스유틸리티 #전기생산 #전기 #송배전 #천연가스 #에너지 
 

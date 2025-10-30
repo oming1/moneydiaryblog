@@ -1,7 +1,7 @@
 ﻿---
 title: "LUMN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 532
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #통신인프라 #광섬유네트워크 #엣지컴퓨팅 #클라우드연결 #사이버보안 #SD-WAN #하이브리드네트워킹 #UCaaS #IoT #5G #엔터프라이즈IT #디지털전환 #콘텐츠전송네트워크 #매니지드서비스 #데이터센터 #API #네트워크가상화 #양자암호화 #AI네트워킹 #지속가능성
 

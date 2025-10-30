@@ -1,15 +1,15 @@
 ﻿---
 title: "LONN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T21:47:26+09:00
+date: 2024-09-11T10:52:56+09:00
+lastmod: 2025-10-30T22:25:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 525
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T12:47:26Z" />
+  <meta property="article:published_time" content="2024-09-11T01:52:56Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:45Z" />
 </div>
 #헬스케어 #진단및연구 #CDMO #바이오테크
 
@@ -20,6 +20,8 @@ weight: 525
 
 #### 영위사업
 
+
+{{< adsense-infeed >}}
 Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), 영양 시장을 위한 다양한 제품과 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
 -[동북아시아의 확장 전에 가장 큰 설비능력을 갖던 상장 CDMO](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=34&selection=21,0,39,4&color=yellow))
 
@@ -37,6 +39,8 @@ Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), �
 - **후방산업**:
     - **화학 및 원료 공급**: Lonza의 제조에 필요한 원료를 공급. 주요 기업: BASF (독일, BAS), Dow Chemical (미국, [DOW](/company-analysis/dow/)).
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 #### 밸류체인
@@ -50,6 +54,8 @@ Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), �
 - **생물의약품**: 임상 및 상업적 제조를 위한 생물의약품 (매출 비중: 55.4%, 2023년 기준).
 - **캡슐 및 건강 성분**: 제약 및 영양 제품용 캡슐 (매출 비중: 17.3%, 2023년 기준).
 
+
+{{< adsense-infeed >}}
 #### 주요 판매국가
 
 - **주요 판매국가**: 유럽, 북미, 아시아
@@ -59,6 +65,8 @@ Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), �
 
 #### 경쟁업체
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 - **Catalent (미국, [CTLT](/company-analysis/ctlt/))**: 생물의약품 및 소분자 약물 제조
@@ -69,6 +77,8 @@ Lonza Group AG는 제약, [바이오테크](/industry-study/바이오테크/), �
 
 #### 최근 3년 내 주요 이슈
 
+
+{{< adsense-infeed >}}
 - **Vacaville 제조 시설 인수** (2024년)
 - **CEO 교체** (2024년)
 - **주요 제품의 매출 증가** (2023년)

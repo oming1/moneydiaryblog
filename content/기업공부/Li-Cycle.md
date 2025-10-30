@@ -1,15 +1,15 @@
 ﻿---
 title: "Li-Cycle"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:33+09:00
+date: 2023-06-03T09:15:46+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 517
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:33Z" />
+  <meta property="article:published_time" content="2023-06-03T00:15:46Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #폐배터리 #산업재 #폐기물관리 #리튬 #리튬이온배터리
 

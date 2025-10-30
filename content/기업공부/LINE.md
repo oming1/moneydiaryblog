@@ -1,7 +1,7 @@
 ﻿---
 title: "LINE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 520
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #라인지물류 #LineageLogistics #냉장창고 #콜드체인 #온도제어물류 #식품공급망 #제3자물류 #3PL #자동화창고 #식품안전 #글로벌물류 #재고관리 #라스트마일배송 #전자상거래물류 #수산물물류 #농산물물류 #제약물류 #블라스트프리징 #식품가공지원 #에너지효율 #지속가능성 #물류기술 #WarehouseAutomation #PrivateEquity #물류REIT #글로벌네트워크 #식품유통 #식품산업
 

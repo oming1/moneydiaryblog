@@ -1,7 +1,7 @@
 ﻿---
 title: "KEYS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 483
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #Keysight #KEYS #전자계측 #테스트장비 #측정솔루션 #5G #6G #무선통신 #자동화테스트 #반도체테스트 #자동차전자장치 #전기차 #배터리테스트 #우주항공방위 #양자컴퓨팅 #R&D #소프트웨어테스트 #서비스매출 #장비판매 #글로벌리더 #정밀측정 #엔지니어링 #산업자동화 #디지털트랜스포메이션 #AI #IoT #네트워크성능
 

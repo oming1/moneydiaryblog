@@ -1,7 +1,7 @@
 ﻿---
 title: "NVDA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 638
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #GPU #인공지능 #딥러닝 #데이터센터 #게이밍 #자율주행 #엣지컴퓨팅 #클라우드컴퓨팅 #고성능컴퓨팅 #CUDA #RTX #Tensor코어 #병렬처리 #시각컴퓨팅 #반도체 #슈퍼컴퓨터 #메타버스 #옴니버스 #GeForce #Quadro #정보기술 #로봇 
 
@@ -55,7 +55,7 @@ weight: 638
 		🗣️ CEO 코멘트
 		• “Blackwell은 세계가 기다려온 AI 플랫폼으로, 추론 AI 수요 급증이 학습과 추론 성능을 대폭 끌어올리고 있습니다.” – Jensen Huang, CEO
 				
-		![](Pasted%20image%2020250828054459.png)![](Pasted%20image%2020250828054509.png)
+		![](/images/Pasted%20image%2020250828054459.png)![](/images/Pasted%20image%2020250828054509.png)
 		
 	- 2025-09-09, NVIDIA – Goldman Sachs Communicopia + Technology Conference 2025 (25.9.9)
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "CWD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 252
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #칼리버코스 #CWD #대체투자 #부동산자산운용 #오퍼튜니티존 #선벨트부동산 #애리조나개발 #사모펀드 #프라이빗리츠 #개발형자산 #호텔리포지셔닝 #빌드투렌트 #상업용부동산 #멀티패밀리 #수익형부동산 #자산관리수수료 #성과보수 #개발이익 #자본조달 #금리리스크 #자산매각 #포트폴리오회전 #운영개선 #가치증대전략 #중소형개발 #딜소싱 #프로젝트파이낸싱 #투자자관계 #리츠시장 #부동산사이클
 

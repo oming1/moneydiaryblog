@@ -1,15 +1,15 @@
 ﻿---
 title: "CTLT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T21:47:25+09:00
+date: 2024-09-11T10:52:50+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
 weight: 245
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T12:47:25Z" />
+  <meta property="article:published_time" content="2024-09-11T01:52:50Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #헬스케어 #바이오테크 #의약품제조 #CDMO
 

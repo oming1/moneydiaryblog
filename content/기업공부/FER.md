@@ -1,7 +1,7 @@
 ﻿---
 title: "FER"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 341
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #산업재 #인프라운영 #글로벌인프라운영기업 #에너지및모빌리티인프라 #유료도로 #공항 
 

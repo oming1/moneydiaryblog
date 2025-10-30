@@ -1,7 +1,7 @@
 ﻿---
 title: "CVNA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 249
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #온라인중고차 #이커머스 #자동차유통 #디지털플랫폼 #무접촉거래 #홈딜리버리 #AI가격책정 #재고관리 #고객경험 #차량검사 #재조정 #물류네트워크 #자동차소매 #디지털전환 #자동차산업 #중고차시장 #자동차딜러 #자동차금융 #임의소비재 #온라인중고차판매플랫폼 #차량검사
 

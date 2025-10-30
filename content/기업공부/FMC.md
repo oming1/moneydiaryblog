@@ -1,15 +1,15 @@
 ﻿---
 title: "FMC"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:30+09:00
+date: 2024-09-13T17:43:52+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 348
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:30Z" />
+  <meta property="article:published_time" content="2024-09-13T08:43:52Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #농약 #기초소재 #농업 #농업화학
 

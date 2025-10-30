@@ -1,15 +1,15 @@
 ﻿---
 title: "APT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:26+09:00
+date: 2024-08-29T21:56:51+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
 weight: 81
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:26Z" />
+  <meta property="article:published_time" content="2024-08-29T12:56:51Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #금융서비스 #신용서비스
 

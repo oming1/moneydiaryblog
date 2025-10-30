@@ -1,15 +1,15 @@
 ﻿---
 title: "HMC"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:31+09:00
+date: 2024-12-24T15:10:31+09:00
+lastmod: 2025-10-30T22:25:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 410
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:31Z" />
+  <meta property="article:published_time" content="2024-12-24T06:10:31Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
 </div>
 #임의소비재 #자동차 #자동차제조업체 #자동차제조업 #일본 #오토바이 
 
@@ -29,8 +29,12 @@ Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/)
 3. 금융 서비스: 소매 대출 및 리스, 딜러 도매 금융 제공
 4. 파워 프로덕트 및 기타 사업: 범용 엔진, 잔디 깎는 기계, 발전기, 수중 펌프, 선외기 등 생산
 
+
+{{< adsense-infeed >}}
 2024 회계연도 기준 연결 매출은 20조 4,280억 엔이며, 자동차가 매출의 66%, 오토바이가 16%를 차지하고 있습니다. 전 세계 120개국 이상에서 제품을 판매하고 있습니다.
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 ## 전방/후방산업
@@ -61,12 +65,18 @@ Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/)
 
 ## 주요 판매국가
 
+
+{{< adsense-infeed >}}
 Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특히 북미, 일본, 아시아 지역이 주요 시장입니다.
 
 {{< adsense-infeed >}}
 
+
+{{< adsense-infeed >}}
 ## 경쟁업체
 
+
+{{< adsense-infeed >}}
 1. Toyota Motor Corp (일본, [TM](/company-analysis/tm/))
 2. General Motors Co (US, [GM](/company-analysis/gm/))
 3. Ford Motor Co (US, [F](/company-analysis/f/))

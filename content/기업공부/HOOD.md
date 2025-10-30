@@ -1,7 +1,7 @@
 ﻿---
 title: "HOOD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 413
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #로비후드 #핀테크 #무수료거래 #온라인브로커리지 #리테일투자 #모바일거래 #암호화폐거래 #주식거래 #투자앱 #디지털금융 #밀레니얼투자 #게임화 #부분주식 #24시간거래 #PFOF #페이먼트포오더플로우 #디지털자산 #핀테크플랫폼 #금융서비스 #정보기술 #테크놀로지 #모바일퍼스트
 

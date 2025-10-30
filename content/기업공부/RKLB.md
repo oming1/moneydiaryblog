@@ -1,7 +1,7 @@
 ﻿---
 title: "RKLB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 748
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #로켓랩 #RKLB #우주산업 #SpaceX경쟁사 #소형발사체 #중형발사체 #일렉트론로켓 #뉴트론로켓 #위성발사 #위성제조 #우주시스템 #NASA계약 #국방부계약 #우주탐사 #우주서비스 #재사용로켓 #피터벡 #탄소복합재 #전기펌프식엔진 #국가안보임무 #소형위성 #엔드투엔드 #페이로드 #JPL #궤도서비스 #상업우주 #미군우주군 #한계돌파 #Photon우주선 #머플러엔진
 
@@ -18,7 +18,7 @@ weight: 748
 ## 최근이슈
 
 - 2025년
-	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표![](Pasted%20image%2020250819065216.png)
+	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표![](/images/Pasted%20image%2020250819065216.png)
 
 ---
 ## 산업 분류

@@ -1,7 +1,7 @@
 ﻿---
 title: "STM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 834
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #마이크로컨트롤러 #MCU #반도체 #전자부품 #자동차전자 #산업용전자 #IoT #센서 #전력반도체 #아날로그IC #MEMS #임베디드시스템 #스마트홈 #스마트시티 #공장자동화 #에너지관리 #유럽반도체 #정보기술 #반도체및반도체장비 #유럽 #자동차용전용IC #아날로그반도체
 

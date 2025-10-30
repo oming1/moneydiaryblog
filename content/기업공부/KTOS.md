@@ -1,7 +1,7 @@
 ﻿---
 title: "KTOS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 497
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #산업재 #항공우주및방위산업 #위성통신용지상국관제시스템 #방산 #드론 #미사일방어시스템 #무인전투기 #무인항공기 #국방 #무인시스템 #발키리 #XQ-58A #사이버보안 #위성통신 #미사일방어 #극초음속 #전투시스템 #인공지능 #마이크로웨이브 #타겟시스템 #항공우주방산 #정부계약 #국가안보 #산업재 #UAV
 

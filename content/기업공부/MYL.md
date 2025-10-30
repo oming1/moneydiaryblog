@@ -1,7 +1,7 @@
 ﻿---
 title: "MYL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 603
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #제약 #제네릭의약품 #특수의약품 #중추신경계 #호흡기 #종양학 #여성건강 #API #OTC #글로벌제약기업 #연구개발 #제조 #유통 #의약품포트폴리오 #제네릭리더 #바이오시밀러 #복합제네릭 #수직계열화 #헬스케어 #제약
 

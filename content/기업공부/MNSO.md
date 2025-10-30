@@ -1,7 +1,7 @@
 ﻿---
 title: "MNSO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 575
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #미니소 #잡화점 #라이프스타일소매 #디자인중심제품 #생활용품 #팝토이 #글로벌확장 #중국소매시장 #IP디자인 #저가소매 #MINISO브랜드 #TOPTOY브랜드 #소비자패키지상품 #다국적네트워크 #직영점 #프랜차이즈점 #중국 
 

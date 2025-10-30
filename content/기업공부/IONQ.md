@@ -1,15 +1,15 @@
 ﻿---
 title: "IONQ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:32+09:00
+date: 2024-11-08T15:18:28+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 451
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:32Z" />
+  <meta property="article:published_time" content="2024-11-08T06:18:28Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #정보기술 #소프트웨어 #양자 #양자컴퓨팅
 

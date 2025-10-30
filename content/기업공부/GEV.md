@@ -1,7 +1,7 @@
 ﻿---
 title: "GEV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 371
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #산업재 #전력인프라 #해상풍력 #원자력발전 #가스터빈 #풍력터빈
 #재생에너지 #풍력 #가스터빈 #전력생산 #에너지전환 #탄소중립 #그리드솔루션 #HVDC #수소연료 #암모니아연소 #AI #디지털화 #전기화 #탈탄소화 #에너지효율 #스마트그리드 #마이크로그리드 #리쇼어링  #천연가스 #스타게이트 #데이터센터 
@@ -21,7 +21,7 @@ weight: 371
 
 ## 영위사업
 
-GE Vernova는 General Electric에서 분사한 글로벌 에너지 기업으로, 전력, [풍력](/industry-study/풍력/), [원자력 발전](/industry-study/원자력-발전/), [수력](/industry-study/수력/), 전기화 사업을 주력으로 합니다. 주요 사업 부문은 다음과 같습니다:![](Pasted%20image%2020250711141231.png)
+GE Vernova는 General Electric에서 분사한 글로벌 에너지 기업으로, 전력, [풍력](/industry-study/풍력/), [원자력 발전](/industry-study/원자력-발전/), [수력](/industry-study/수력/), 전기화 사업을 주력으로 합니다. 주요 사업 부문은 다음과 같습니다:![](/images/Pasted%20image%2020250711141231.png)
 
 1. 전력(Power): 가스터빈, 스팀터빈, 발전기 등 발전 설비 제조 및 서비스
 2. [풍력](/industry-study/풍력/)(Wind): 육상 풍력 터빈 및 해상풍력 터빈 제조, 설치, 서비스

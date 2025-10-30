@@ -1,15 +1,15 @@
----
+﻿---
 title: "ABNB"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:26+09:00
+date: 2024-11-11T09:36:27+09:00
+lastmod: 2025-10-30T21:24:50+09:00
 type: docs
 sidebar:
   open: false
 weight: 13
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:26Z" />
+  <meta property="article:published_time" content="2024-11-11T00:36:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:24:50Z" />
 </div>
 #숙박공유플랫폼 #임의소비재 #호텔 #레저 
 

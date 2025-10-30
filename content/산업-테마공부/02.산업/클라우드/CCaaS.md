@@ -1,7 +1,7 @@
 ﻿---
 title: "CCaaS"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-10-30T21:33:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
 </div>
 #CCaaS #클라우드컨택센터 #고객경험 #옴니채널 #AI #자동화 #음성인식 #챗봇 #CRM통합 #실시간분석 #확장성 #구독모델 #원격근무 #데이터보안 #통화라우팅 #IVR #ACD #UCaaS #마이크로서비스 #API통합
 

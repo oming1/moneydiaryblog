@@ -1,15 +1,15 @@
 ﻿---
 title: "GILD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:31+09:00
+date: 2024-09-20T11:43:55+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 375
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:31Z" />
+  <meta property="article:published_time" content="2024-09-20T02:43:55Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #헬스케어 #일반의약품제조 #제약 
 

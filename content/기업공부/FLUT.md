@@ -1,7 +1,7 @@
 ﻿---
 title: "FLUT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 346
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #온라인베팅 #스포츠베팅 #아이게이밍 #온라인카지노 #FanDuel #PaddyPower #Betfair #PokerStars #갬블링 #베팅플랫폼 #모바일게이밍 #라이브베팅 #판타지스포츠 #미국베팅시장 #영국베팅시장 #호주베팅시장 #글로벌베팅 #디지털엔터테인먼트 #베팅기술 #고객획득 #마케팅투자 #규제시장 #온라인게이밍 #베팅인프라
 

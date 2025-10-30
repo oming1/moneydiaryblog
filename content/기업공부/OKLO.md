@@ -1,7 +1,7 @@
 ﻿---
 title: "OKLO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 653
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #에너지 #원전 #우라늄 #원자력 #소형모듈형원자로 #SMR #4세대SMR #고순도저농축우라늄 #소듐 #Aurora원자로
 

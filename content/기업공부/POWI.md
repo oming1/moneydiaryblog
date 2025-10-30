@@ -1,15 +1,15 @@
 ﻿---
 title: "POWI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:36+09:00
+date: 2024-12-06T21:50:11+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
 weight: 706
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:36Z" />
+  <meta property="article:published_time" content="2024-12-06T12:50:11Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #정보기술 #반도체 #고전압전력변환 #AC-DC전원공급장치
 

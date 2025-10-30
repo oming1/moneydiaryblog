@@ -1,7 +1,7 @@
 ﻿---
 title: "CLS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 200
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #전자제조서비스 #EMS #하드웨어플랫폼솔루션 #HPS #클라우드인프라 #AI인프라 #엣지컴퓨팅 #네트워킹장비 #하이퍼스케일러 #시스템통합 #공급망솔루션 #계약제조 #서버 #스토리지 #엔터프라이즈솔루션 #항공우주 #방위산업 #의료기기 #통신장비 #5G #사물인터넷 #고부가가치제조
 

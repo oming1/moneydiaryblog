@@ -1,15 +1,15 @@
 ﻿---
 title: "AMD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:26+09:00
+date: 2024-09-04T13:33:37+09:00
+lastmod: 2025-10-30T22:25:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 60
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:26Z" />
+  <meta property="article:published_time" content="2024-09-04T04:33:37Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
 </div>
 #반도체 #테크 
 
@@ -41,15 +41,21 @@ weight: 60
     - Arrow Electronics (US, [ARW](/company-analysis/arw/)): 전자 부품 유통
     - Avnet (US, [AVT](/company-analysis/avt/)): 전자 부품 유통
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 #### 주요제품
 
+
+{{< adsense-infeed >}}
 - **Ryzen 프로세서:** 데스크탑 및 노트북용 CPU
 - **EPYC 프로세서:** 서버용 CPU
 - **Radeon 그래픽 카드:** 게이밍 및 전문가용 GPU
 - **Instinct 가속기:** [데이터센터](/industry-study/데이터센터/) 및 AI 가속기
 
+
+{{< adsense-infeed >}}
 #### 주요 판매국가
 
 {{< adsense-infeed >}}
@@ -58,6 +64,8 @@ weight: 60
 - **중국:** 주요 매출 국가
 - **일본:** 주요 매출 국가
 
+
+{{< adsense-infeed >}}
 #### 경쟁업체
 
 {{< adsense-infeed >}}
@@ -74,8 +82,17 @@ weight: 60
 
 #### 최근 3년 내 주요 이슈
 
-{{< adsense-infeed >}}
 
+{{< adsense-infeed >}}
+{{< adsense-infeed >}}
+{{< adsense-infeed >}}
+#### 주요제품
+
+
+{{< adsens
+
+
+{{< adsense-infeed >}}
 - **PC 시장 회복:** PC 시장의 회복과 클라이언트 프로세서 시장 점유율 증가 (2023-2024)
 - **데이터 센터 성장:** 데이터 센터 프로세서 사업의 성장 (2023-2024)
 - **경쟁 심화:** NVIDIA와의 경쟁 심화로 인한 시장 점유율 압박 (2023-2024)

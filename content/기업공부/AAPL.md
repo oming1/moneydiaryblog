@@ -1,7 +1,7 @@
 ﻿---
 title: "AAPL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:30+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 7
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #스마트폰 #XR #VR #AR #자동차 #반도체 #테크 #소비자전자제품 #가전제품 #정보기술 #아이폰 #맥 #아이패드 #애플워치 #서비스 #앱스토어 #아이클라우드 #태블릿 #컴퓨터 #웨어러블 #프리미엄브랜드 #디자인 #혁신 #iOS #맥OS #애플뮤직 #애플TV플러스 #정보기술 #테크놀로지
 

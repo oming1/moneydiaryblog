@@ -1,7 +1,7 @@
 ﻿---
 title: "Best Buy Marketplace"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-29T06:50:22+09:00
+lastmod: 2025-10-30T21:33:37+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 3
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:22Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:37Z" />
 </div>
 #온라인 #BestBuyMarketplace #BBY
 

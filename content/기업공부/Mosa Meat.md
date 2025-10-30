@@ -1,15 +1,15 @@
 ﻿---
 title: "Mosa Meat"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:34+09:00
+date: 2023-07-15T11:59:07+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 583
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:34Z" />
+  <meta property="article:published_time" content="2023-07-15T02:59:07Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #대체단백질 #대체육 #푸드테크 #배양육
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "RDFN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:37+09:00
+date: 2024-08-29T20:55:03+09:00
+lastmod: 2025-10-30T22:25:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 734
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:37Z" />
+  <meta property="article:published_time" content="2024-08-29T11:55:03Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:45Z" />
 </div>
 #부동산 #부동산서비스 #금융서비스 #부동산중개 #모기지
 
@@ -49,6 +49,8 @@ Redfin은 주거용 부동산 중개 서비스와 모기지 개시 서비스를 
 
 {{< adsense-infeed >}}
 
+
+{{< adsense-infeed >}}
     - **대표 회사**: Quicken Loans (US, 비상장) - 모기지 대출 서비스
     - **대표 회사**: Wells Fargo Home Mortgage (US, [WFC](/company-analysis/wfc/)) - 주택 담보 대출 서비스
     
@@ -57,6 +59,8 @@ Redfin은 주거용 부동산 중개 서비스와 모기지 개시 서비스를 
     - **대표 회사**: First American Title (US, 비상장) - 타이틀 보험 및 서비스
     - **대표 회사**: Old Republic Title (US, 비상장) - 타이틀 보험 및 서비스
 
+
+{{< adsense-infeed >}}
 ## 주요제품
 
 - **부동산 중개 서비스** (매출의 약 60%)
@@ -70,6 +74,8 @@ Redfin은 미국과 캐나다의 100개 이상의 시장에서 운영되며, 주
 
 ## 경쟁업체
 
+
+{{< adsense-infeed >}}
 - **Zillow Group (US, ZG)** - 부동산 정보 및 중개 서비스
 - **RE/MAX (US, RMAX)** - 부동산 중개 서비스
 - Keller Williams Realty (US, 비상장) - 부동산 중개 서비스

@@ -1,15 +1,15 @@
 ﻿---
 title: "INOD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:32+09:00
+date: 2024-12-17T21:14:04+09:00
+lastmod: 2025-10-30T22:25:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 446
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:32Z" />
+  <meta property="article:published_time" content="2024-12-17T12:14:04Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:43Z" />
 </div>
 #IT서비스 #정보기술 #데이터엔지니어링
 
@@ -59,6 +59,8 @@ Agility 부문은 마케팅 커뮤니케이션 및 홍보 전문가에게 전 �
 
 Innodata는 미국, 영국, 네덜란드, 캐나다를 포함한 전 세계 시장에서 사업을 영위하고 있습니다
 
+
+{{< adsense-infeed >}}
 ## 경쟁업체
 
 1. Cognizant (US, [CTSH](/company-analysis/ctsh/))
@@ -68,8 +70,14 @@ Innodata는 미국, 영국, 네덜란드, 캐나다를 포함한 전 세계 시�
 5. Maximus (US, [MMS](/company-analysis/mms/))
 ## 산업 내 글로벌 시장 점유율
 
+
+{{< adsense-infeed >}}
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
+
+{{< adsense-infeed >}}
+
+{{< adsense-infeed >}}
 ## 최근 3년 내 주요 이슈
 
 1. 2024년 3분기 매출 52.2백만 달러 기록, 전년 동기 대비 136% 증가

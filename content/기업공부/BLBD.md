@@ -1,7 +1,7 @@
 ﻿---
 title: "BLBD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 140
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #블루버드 #BLBD #스쿨버스 #스쿨버스제조 #전기버스 #대체연료버스 #TypeC버스 #TypeD버스 #학생수송 #교육교통 #버스플릿 #버스안전 #버스디자인 #버스엔지니어링 #버스부품 #버스서비스 #북미시장 #글로벌확장 #지속가능교통 #전기화추진 #배출가스규제 #학교버스전동화 #연방보조금 #교육예산 #학생안전 #버스플릿관리 #원가절감 #공급망최적화 #성장잠재력
 
@@ -43,7 +43,7 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 - **사업 부문별 구성**
     
     - **스쿨버스 제조 (약 90% 매출):** Type C와 Type D 중심으로, 북미 교육 시장 주력.
-      ![](Pasted%20image%2020250908155709.png)
+      ![](/images/Pasted%20image%2020250908155709.png)
       
     - **부품 및 서비스 (약 10% 매출):** 애프터마켓 부품 판매와 정비 지원.
 

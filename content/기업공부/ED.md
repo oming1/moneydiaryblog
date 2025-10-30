@@ -1,15 +1,15 @@
 ﻿---
 title: "ED"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:29+09:00
+date: 2024-10-28T21:22:01+09:00
+lastmod: 2025-10-30T21:33:34+09:00
 type: docs
 sidebar:
   open: false
 weight: 304
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
+  <meta property="article:published_time" content="2024-10-28T12:22:01Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
 </div>
 #전기 #유틸리티 #천연가스 #에너지 #에너지유통 #전기및가스유틸리티 #전기유통
 

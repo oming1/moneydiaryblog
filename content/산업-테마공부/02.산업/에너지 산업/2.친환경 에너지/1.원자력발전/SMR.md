@@ -1,7 +1,7 @@
 ﻿---
 title: "SMR"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-10-30T21:33:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
 </div>
 #에너지 #친환경 #원전 #재생에너지 #유틸리티 #원자력발전 #SMR #소형모듈식원자로 #가압경수로  #3_5세대SMR #LEU #저농축산화우라늄 #소형모듈형원자로 
 
@@ -17,7 +17,7 @@ weight: 2
 
 - 2025년
 	- 2025-08-29, 소형 모듈 원자로(Small Modular Reactor, SMR) VS [태양광](/industry-study/태양광/) 패널(Photovoltaic Solar Panel)
-	  ![](Pasted%20image%2020250829210840.png)
+	  ![](/images/Pasted%20image%2020250829210840.png)
 		1헥타르 미만 부지에서 1500MW 발전 가능: SMR ✅ / 태양광 ❌
 		
 		토륨, 미사용 우라늄, 플루토늄으로 자체 연료 생산 가능: SMR ✅ / 태양광 ❌

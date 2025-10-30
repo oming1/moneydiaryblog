@@ -1,7 +1,7 @@
 ﻿---
 title: "KOTRA - 중국의 희토류 수출 통제"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-28T06:44:20+09:00
+lastmod: 2025-10-30T21:33:37+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:20Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:37Z" />
 </div>
 #희토류 
 
@@ -18,7 +18,7 @@ weight: 2
 	- ### 2025-08-07, 최근 중국 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 수출 통제 동향 및 대응 전략
 	  
 		- #### 희토류 통제 동향
-		  ![](Pasted%20image%2020250820091305.png)
+		  ![](/images/Pasted%20image%2020250820091305.png)
 		  
 		  □ 2020년 '수출 통제법《中华人民共和国出口管制法》1)' 제정을 통해 수출 통제의 법적 기반을 마련하고, 이후 기술 유출 억제 및 국가 전략 자산 보호를 위한 조치를 지속 강화
 		  

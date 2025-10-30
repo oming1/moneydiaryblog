@@ -1,7 +1,7 @@
 ﻿---
 title: "CTV"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-10-30T21:33:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 3
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
 </div>
 #CTV
 
@@ -19,13 +19,13 @@ CTV는 광고 관점에서 가장 빠르게 성장하는 채널
 
 CTV는 매스마케팅과 타깃마케팅을 합친 효과를 가져올 수 있다. 매스마케팅은 다수를 대상으로 펼쳐 브랜드 인지도를 높이고, 타깃마케팅은 소수를 대상으로 집행하여 실제 브랜드 구매 성과를 높인다.
 
-CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다. OTT 요금제에서 광고 요금제 가입자 비중이 커지고 있다.![](Pasted%20image%2020250626172209.png)
+CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다. OTT 요금제에서 광고 요금제 가입자 비중이 커지고 있다.![](/images/Pasted%20image%2020250626172209.png)
 2024년 미국 기준으로 광고요금제 비중은 넷플릭스가
 5%에서 17%, 디즈니는 10%에서 30%, 아마존은 0%에서 80%로 늘어났다 (아마존은 광고요금제가 디폴트 요금제)
 
 ### CTV 광고 유형
 
-CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](Pasted%20image%2020250626172221.png)40438.png))
+CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](/images/Pasted%20image%2020250626172221.png)40438.png))
 1) Direct order
 
 {{< adsense-infeed >}}

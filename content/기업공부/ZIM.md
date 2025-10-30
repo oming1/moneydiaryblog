@@ -1,7 +1,7 @@
 ﻿---
 title: "ZIM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-10-30T21:33:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 998
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
 </div>
 #짐인테그레이티드쉬핑 #ZIM #컨테이너선박 #글로벌해운 #물류서비스 #화물운송 #해상무역 #공급망관리 #이스라엘해운 #디지털물류 #컨테이너라이너 #아시아유럽노선 #북미무역 #지속가능해운 #LNG선박 #환경규제 #화물요금 #글로벌무역 #선박운영 #포스트판데믹 #공급망위기 #디지털플랫폼 #스마트쉬핑 #연료효율 #컨테이너터미널 #해운얼라이언스 #경제변동 #지정학적리스크 #지속성장 #해운산업
 

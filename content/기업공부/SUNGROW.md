@@ -1,15 +1,15 @@
 ﻿---
 title: "SUNGROW"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:38+09:00
+date: 2024-09-12T16:27:08+09:00
+lastmod: 2025-10-30T21:33:35+09:00
 type: docs
 sidebar:
   open: false
 weight: 840
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:38Z" />
+  <meta property="article:published_time" content="2024-09-12T07:27:08Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
 </div>
 #ESS #중국 #태양광인버터 #태양광 #산업재 #전기장비및부품
 

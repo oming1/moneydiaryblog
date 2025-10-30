@@ -1,15 +1,15 @@
 ﻿---
 title: "CVS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:29+09:00
+date: 2024-10-21T18:11:25+09:00
+lastmod: 2025-10-30T22:25:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 250
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
+  <meta property="article:published_time" content="2024-10-21T09:11:25Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
 </div>
 #헬스케어 #헬스케어플랜 #약국 #의약품혜택관리중개자
 
@@ -20,6 +20,8 @@ weight: 250
 
 ### 영위사업
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공업체로, 헬스케어 혜택, 헬스 서비스, 약국 및 소비자 웰니스 부문에서 다양한 서비스를 제공합니다
@@ -28,6 +30,12 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
 
 ### 전방/후방산업
 
+
+{{< adsense-infeed >}}
+{{< adsense-infeed >}}
+
+
+{{< adsense-infeed >}}
 - **전방산업:** 헬스케어 서비스업
     - **핵심 산업:** 헬스케어 서비스업은 CVS의 헬스케어 플랜과 약국 서비스를 통해 환자에게 의료 서비스를 제공합니다.
     - **관련 기업:** UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Anthem (미국, [ANTM](/company-analysis/antm/))
@@ -55,8 +63,6 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
 
 ### 주요 판매국가
 
-- **미국:** 주요 매출 국가
-
 {{< adsense-infeed >}}
 
 ### 경쟁업체
@@ -73,8 +79,16 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
 - **UnitedHealth Group:** 약 15% (2023년 기준)
 - **Walgreens Boots Alliance:** 약 8% (2023년 기준)
 
+
+{{< adsense-infeed >}}
 ### 최근 3년 내 주요 이슈
 
+
+{{< adsense-infeed >}}- **미국:** 주요 매출 국가
+
+
+
+{{< adsense-infeed >}}
 - **코로나19 팬데믹으로 인한 헬스케어 서비스 수요 증가 (2020년)**
 - **Aetna 인수 후 통합 작업 (2021년)**
 - **디지털 헬스케어 서비스 확장 (2022년)**

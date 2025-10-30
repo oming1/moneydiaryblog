@@ -1,7 +1,7 @@
 ﻿---
 title: "CELC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 188
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #바이오테크 #임상단계 #항암제 #종양학 #표적치료제 #정밀의학 #유방암 #전립선암 #PI3K억제제 #게다톨리십 #빅데이터 #신약개발 #VIKTORIA1임상 #유방암치료 #HRHER2유방암 #폐암치료 #전이성암 #고형암치료 #약물개발 #희귀질환 #헬스케어 #생명공학 #암진단 #맞춤치료 #약물내성 #임상시험 #바이오마커 #면역항암 #유방암
 

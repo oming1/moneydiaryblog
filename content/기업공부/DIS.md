@@ -1,15 +1,15 @@
 ﻿---
 title: "DIS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:29+09:00
+date: 2024-09-13T13:40:33+09:00
+lastmod: 2025-10-30T22:25:45+09:00
 type: docs
 sidebar:
   open: false
 weight: 278
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
+  <meta property="article:published_time" content="2024-09-13T04:40:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:45Z" />
 </div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 #엔터테인먼트 #테마파크 #HULU #ESPN
 
@@ -22,6 +22,8 @@ weight: 278
 
 월트 디즈니 컴퍼니는 다양한 미디어 및 엔터테인먼트 콘텐츠를 제작, 배급 및 제공하는 글로벌 기업입(OTT)니다. 주요 사업 부문은 다음과 같습니다:
 
+
+{{< adsense-infeed >}}
 - **Media Networks**: 텔레비전 네트워크 및 케이블 채널 운영
 - **Parks, Experiences and Products**: 테마파크, 리조트, 크루즈 라인 및 관련 제품 판매
 - **Studio Entertainment**: 영화 및 텔레비전 프로그램 제작 및 배급
@@ -36,6 +38,8 @@ weight: 278
     - **핵심 산업**: 스트리밍 서비스, 광고
     - **핵심 기업**: Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/)), Hulu (미국, [DIS](/company-analysis/dis/))
 
+
+{{< adsense-infeed >}}
 #### 밸류체인
 
 {{< adsense-infeed >}}
@@ -50,6 +54,8 @@ weight: 278
     - **설명**: 스트리밍 플랫폼을 통한 콘텐츠 제공
     - **대표회사**: Walt Disney Company (미국, [DIS](/company-analysis/dis/)), Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))
 
+
+{{< adsense-infeed >}}
 {{< adsense-infeed >}}
 
 #### 주요제품
@@ -61,6 +67,8 @@ weight: 278
 
 #### 주요 판매국가
 
+
+{{< adsense-infeed >}}
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
 
 #### 경쟁업체

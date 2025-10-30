@@ -1,7 +1,7 @@
 ﻿---
 title: "CMG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-10-30T21:33:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 205
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
 </div>
 #패스트캐주얼 #멕시칸푸드 #기능성식품 #신선식재료 #주문제작방식 #지속가능식품 #디지털주문 #쉬포틀레인 #유기농채소 #항생제무첨가고기 #식품품질 #GMO없는원료 #배달서비스 #레스토랑확장 #모바일앱 #고객충성도 #식품공급망 #매장효율성 #프리미엄가격정책 #환경지속가능성 #건강식 #국제확장 #수직통합 #멕시코진출
 

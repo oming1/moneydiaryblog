@@ -1,15 +1,15 @@
 ﻿---
 title: "DLR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-28T06:44:29+09:00
+date: 2024-11-07T10:16:20+09:00
+lastmod: 2025-10-30T22:25:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 283
 ---
 <div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-27T21:44:29Z" />
+  <meta property="article:published_time" content="2024-11-07T01:16:20Z" />
+  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
 </div>
 #전문리츠 #부동산 #리츠 #데이터센터 #클라우드 
 
@@ -26,6 +26,10 @@ weight: 283
 
 **전방/후방산업**:
 
+
+{{< adsense-infeed >}}
+
+{{< adsense-infeed >}}
 - **전방산업**: 클라우드 서비스 제공업체, 네트워크 서비스 제공업체
     - **핵심 기업**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 - **후방산업**: 데이터 센터 인프라 제공업체, 전력 공급업체
@@ -38,25 +42,25 @@ weight: 283
 - **클라우드 서비스 제공**: 클라우드 서비스 제공업체와 협력하여 고성능 클라우드 액세스를 제공합니다.
     - **대표 회사**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 
-**주요제품**:
 
 {{< adsense-infeed >}}
+**주요제품**:
 
+
+{{< adsense-infeed >}}
 - **데이터 센터 서비스**: 데이터 센터 운영 및 관리, 코로케이션 서비스 제공
 - **PlatformDIGITAL®**: 글로벌 데이터 센터 플랫폼으로, 데이터 교환을 최적화하고 AI, 하이브리드 작업, 데이터 및 클라우드 워크플로우를 지원
 
+
+{{< adsense-infeed >}}
 **주요 판매국가**:
 
 - 미국: Digital Realty의 주요 시장은 미국을 포함한 전 세계 25개 이상의 국가입니다. 국가별 매출액 비중은 공개되지 않았습니다.
-
-{{< adsense-infeed >}}
 
 **경쟁업체**:
 
 - **Equinix (미국, [EQIX](/company-analysis/eqix/))**: 데이터 센터 및 상호 연결 서비스 제공
 - **CoreSite Realty (미국, [COR](/company-analysis/cor/))**: 데이터 센터 및 상호 연결 솔루션 제공
-
-{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 
