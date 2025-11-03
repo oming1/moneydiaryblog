@@ -1,7 +1,7 @@
 ﻿---
 title: "DJT"
 date: 2024-09-12T09:19:31+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 281
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-12T00:19:31Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #커뮤니케이션서비스 #인터넷콘텐츠및정보 #소셜미디어 #트럼프
 

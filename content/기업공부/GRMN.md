@@ -1,7 +1,7 @@
 ﻿---
 title: "GRMN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:24+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 390
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #gps #네비게이션 #액티비티트래커 #위치기반기술 #가전제품
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "IPG"
 date: 2024-12-09T22:06:57+09:00
-lastmod: 2025-11-03T21:14:25+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 456
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-09T13:06:57Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #광고 #커뮤니케이션서비스 
 

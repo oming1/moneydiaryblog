@@ -1,7 +1,7 @@
 ﻿---
 title: "ALHC"
 date: 2024-11-21T11:04:53+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 53
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-21T02:04:53Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #헬스케어 #관리형의료 #건강관리서비스 #원격의료
 

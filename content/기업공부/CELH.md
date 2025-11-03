@@ -1,7 +1,7 @@
 ﻿---
 title: "CELH"
 date: 2024-10-12T00:25:32+09:00
-lastmod: 2025-11-03T21:14:22+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 189
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-11T15:25:32Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #음료 #비알코올음료 #소비자방어주
 

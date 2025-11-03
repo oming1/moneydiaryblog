@@ -1,7 +1,7 @@
 ﻿---
 title: "AIG"
 date: 2024-10-09T07:05:41+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 41
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-08T22:05:41Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #보험 #금융 #생명보험 #상해보험
 

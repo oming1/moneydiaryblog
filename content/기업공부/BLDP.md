@@ -1,7 +1,7 @@
 ﻿---
 title: "BLDP"
 date: 2024-12-03T20:19:22+09:00
-lastmod: 2025-11-03T21:14:21+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 141
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-03T11:19:22Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #산업재 #전기장비 #프로톤교환막 #연료전지 #PEM #프로톤교환막연료전지
 

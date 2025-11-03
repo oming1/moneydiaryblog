@@ -1,7 +1,7 @@
 ﻿---
 title: "Blue Origin"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:21+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 145
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #산업재 #항공우주및방위산업 #우주 #위성 #인공위성 #궤도관리솔루션
 

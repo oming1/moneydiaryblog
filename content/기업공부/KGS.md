@@ -1,7 +1,7 @@
 ﻿---
 title: "KGS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:25+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 485
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #가스압축장비 #에너지 #석유및가스장비및서비스
 

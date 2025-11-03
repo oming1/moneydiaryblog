@@ -1,7 +1,7 @@
 ﻿---
 title: "FSLR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:24+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 354
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #테크 #재생에너지 #테크 #태양광모듈 #방막형태양광모듈 #카드뮴텔룰라이드 #태양광 #PV모듈 #박막태양전지 #CdTe #재생에너지 #수직계열화 #글로벌제조 #모듈재활용 #탄소발자국 #Series6Plus #Series7TR1 #EPEAT  #청정에너지
 

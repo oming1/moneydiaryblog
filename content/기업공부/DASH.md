@@ -1,7 +1,7 @@
 ﻿---
 title: "DASH"
 date: 2024-11-09T08:51:39+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 261
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-08T23:51:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #인터넷및직접마케팅소매 #임의소비재 #배달 
 

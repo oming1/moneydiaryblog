@@ -1,7 +1,7 @@
 ﻿---
 title: "EVGO"
 date: 2024-10-03T21:19:53+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 328
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-03T12:19:53Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #특수소매 #유틸리티 #전기차 #전기차충전 
 

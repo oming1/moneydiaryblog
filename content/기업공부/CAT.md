@@ -1,7 +1,7 @@
 ﻿---
 title: "CAT"
 date: 2024-08-30T20:59:25+09:00
-lastmod: 2025-11-03T21:14:22+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 176
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T11:59:25Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #산업재 #농업및중장비기계 
 

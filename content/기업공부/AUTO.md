@@ -1,7 +1,7 @@
 ﻿---
 title: "AUTO"
 date: 2023-06-28T12:17:40+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 97
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-28T03:17:40Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #로봇 #산업재 #산업용기계 
 

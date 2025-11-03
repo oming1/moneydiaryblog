@@ -1,7 +1,7 @@
 ﻿---
 title: "AVGO"
 date: 2024-09-02T12:04:27+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 99
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T03:04:27Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #반도체 #테크 #데이터센터 #소프트웨어 #정보기술
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "DAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 259
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #항공사 #항공 #여객운송 #항공운송 #승객운송 #화물운송 #SkyTeam #허브공항 #국제항공 #국내항공 #SkyMiles #항공연료 #항공기리스 #프리미엄서비스 #좌석업그레이드 #마일리지프로그램 #크레딧카드 #로열티프로그램 #운영효율성 #노선네트워크 #Amex파트너십 #산업재 #항공
 

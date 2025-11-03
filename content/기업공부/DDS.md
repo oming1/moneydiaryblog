@@ -1,7 +1,7 @@
 ﻿---
 title: "DDS"
 date: 2024-12-24T21:26:05+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 268
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-24T12:26:05Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #임의소비재 #백화점 #소매 #의류 
 

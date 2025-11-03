@@ -1,7 +1,7 @@
 ﻿---
 title: "ARQQ"
 date: 2024-11-26T15:13:19+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 86
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-26T06:13:19Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #소프트웨어 #정보기술 #정보보안 #양자 #암호화폐지갑보안솔루션 #영국 
 

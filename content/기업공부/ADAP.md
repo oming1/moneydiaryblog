@@ -1,7 +1,7 @@
 ﻿---
 title: "ADAP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:20+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 25
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #T세포치료제 #TCR-T #세포치료 #면역항암 #고형암 #TECELRA #afami-cel #lete-cel #uza-cel #희귀암 #활막육종 #맞춤형면역치료 #MAGE-A4 #바이오제약 #항암치료 #유전자조작 #정밀의학 #희귀질환 #맞춤형치료 #차세대치료제 #희귀암치료 #비전통적항암제 #US월드메즈 #영국바이오텍 #필라델피아 #옥스퍼드 #T세포면역 #항원특이적 #표적치료 #FDA승인
 

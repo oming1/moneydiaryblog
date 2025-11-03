@@ -1,7 +1,7 @@
 ﻿---
 title: "ELV"
 date: 2024-10-18T14:50:25+09:00
-lastmod: 2025-11-03T21:14:23+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 312
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-18T05:50:25Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어 #보험 #의료보험 #약국 
 
