@@ -1,7 +1,7 @@
 ﻿---
 title: "TCOM"
 date: 2024-11-20T23:21:53+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 853
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-20T14:21:53Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #임의소비재 #여행서비스 #여행 #Trip_com #Skyscanner
 

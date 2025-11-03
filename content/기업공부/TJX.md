@@ -1,7 +1,7 @@
 ﻿---
 title: "TJX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 868
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #오프프라이스리테일 #의류 #홈패션 #글로벌유통 #브랜드가치 #재고관리 #보물찾기쇼핑 #다각화 #유연한비즈니스모델 #이커머스 #임의소비재 #의류소매
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "BBWI"
 date: 2024-11-26T15:13:56+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:23+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 121
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-26T06:13:56Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
 </div>
 #임의소비재 #전문소매 #향수 #바디케어 #바디케어전문점
 

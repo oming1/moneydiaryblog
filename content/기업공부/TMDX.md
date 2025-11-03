@@ -1,7 +1,7 @@
 ﻿---
 title: "TMDX"
 date: 2024-12-06T22:05:23+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 874
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-06T13:05:23Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #장기이식 #헬스케어 #의료장비및용품
 

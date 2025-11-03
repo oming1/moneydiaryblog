@@ -1,7 +1,7 @@
 ﻿---
 title: "LLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:27+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 522
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
 </div>
 #헬스케어 #제약 #당뇨병 #암 #비만치료제 #마운자로 #젭바운드 #수면무호흡 #비만치료제 #당뇨치료제 #티르제파타이드 #인슐린 #GLP-1 #제약회사 #바이오파마 #신약개발 #임상시험 #API #원료의약품 #대사질환 #면역학 #종양학 #신경과학 #프로작 #심발타 #지프렉사 #제약산업 #헬스케어
 

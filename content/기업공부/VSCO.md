@@ -1,7 +1,7 @@
 ﻿---
 title: "VSCO"
 date: 2024-09-19T12:02:25+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 942
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T03:02:25Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
 </div>
 #소프트웨어 #테크 
 

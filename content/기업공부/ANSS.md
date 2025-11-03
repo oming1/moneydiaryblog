@@ -1,7 +1,7 @@
 ﻿---
 title: "ANSS"
 date: 2024-12-06T21:35:22+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 73
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-06T12:35:22Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #정보기술 #소프트웨어 #엔지니어링시뮬레이션소프트웨어
 

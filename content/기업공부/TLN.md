@@ -1,7 +1,7 @@
 ﻿---
 title: "TLN"
 date: 2024-11-05T14:48:52+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 870
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-05T05:48:52Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #독립전력생산및에너지거래 #유틸리티 #전력 #에너지 #천연가스 #원전 #석탄 #원자력발전 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "PFGC"
 date: 2024-11-07T12:00:03+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 686
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T03:00:03Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #필수소비재 #식품유통 
 

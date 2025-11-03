@@ -1,7 +1,7 @@
 ﻿---
 title: "RIOT"
 date: 2024-11-07T10:16:36+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 746
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T01:16:36Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #비트코인 #암호화폐 #정보기술 #데이터처리및아웃소싱서비스 #비트코인채굴 #데이터센터 
 

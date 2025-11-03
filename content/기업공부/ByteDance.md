@@ -1,7 +1,7 @@
 ﻿---
 title: "ByteDance"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:23+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 166
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
 </div>
 #소셜미디어 #동영상앱 #AI추천 #광고수익 #중국테크기업 #TikTok #Douyin #콘텐츠플랫폼 #정보기술 #중국 #TikTok 
 

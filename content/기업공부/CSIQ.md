@@ -1,7 +1,7 @@
 ﻿---
 title: "CSIQ"
 date: 2024-10-28T21:27:41+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 243
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:27:41Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #반도체및반도체장비 #정보기술 #태양광 #태양광모듈 #ESS 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "SPG"
 date: 2024-08-30T20:31:57+09:00
-lastmod: 2025-10-30T22:25:45+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 818
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T11:31:57Z" />
-  <meta property="article:modified_time" content="2025-10-30T13:25:45Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #리츠 #부동산 #상업용부동산 #아울렛
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "CRDO"
 date: 2024-12-03T21:01:46+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 232
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-03T12:01:46Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #테크 #반도체 #케이블 #네트워크케이블
 

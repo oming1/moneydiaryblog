@@ -1,7 +1,7 @@
 ﻿---
 title: "ALTS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 56
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #ALT5Sigma #ALTS #핀테크 #크립토서비스 #블록체인인프라 #디지털자산 #암호화폐결제 #CaaS #스테이블코인 #라이트닝네트워크 #WLFI #WorldLibertyFinancial #EricTrump #ZachWitkoff #토큰화 #디지털자산거래 #암호화폐커스터디 #규제준수 #AML #KYC
 

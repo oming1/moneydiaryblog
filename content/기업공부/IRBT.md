@@ -1,7 +1,7 @@
 ﻿---
 title: "IRBT"
 date: 2023-06-28T12:17:45+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 457
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-28T03:17:45Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #로봇 #소비자전자제품 #로봇공학 #청소로봇 #가전제품 
 

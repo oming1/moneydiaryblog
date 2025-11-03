@@ -1,7 +1,7 @@
 ﻿---
 title: "CF"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 190
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #비료 #기초소재 #화학 #암모니아 #요소 #질산암모늄 
 #질소비료 #암모니아 #요소 #농업 #화학비료 #천연가스 #수소 #클린에너지 #탄소포집 #농화학 #공업용암모니아 #질산 #화학제품 #농업투입재 #에너지 #소재 #제조업 #Materials #농업기반 #비료산업

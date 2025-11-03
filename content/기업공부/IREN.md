@@ -1,7 +1,7 @@
 ﻿---
 title: "IREN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 459
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #비트코인마이닝 #암호화폐채굴 #재생에너지 #지속가능채굴 #AI클라우드서비스 #데이터센터 #GPU클러스터 #NVIDIA #블록체인인프라 #해시레이트 #디지털자산 #ASIC마이너 #전력효율성 #크립토마이닝 #친환경채굴 #하이퍼스케일 #HPC #머신러닝 #풀사이드 #북미채굴 #엑사해시 #그린에너지 #암호화폐인프라 #AI인프라 #클라우드컴퓨팅 #블랙웰GPU
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "JUNS"
 date: 2024-12-11T18:23:48+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 473
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-11T09:23:48Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
 </div>
 #헬스케어 #제약 #파킨슨병 #레스베라트롤 #신경염증치료제
 

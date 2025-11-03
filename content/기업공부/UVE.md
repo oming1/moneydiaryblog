@@ -1,7 +1,7 @@
 ﻿---
 title: "UVE"
 date: 2024-10-12T00:23:07+09:00
-lastmod: 2025-10-30T22:25:44+09:00
+lastmod: 2025-10-31T06:43:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 923
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-11T15:23:07Z" />
-  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
 </div>
 #금융서비스 #보험 #재보험 
 

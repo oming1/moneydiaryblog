@@ -1,7 +1,7 @@
 ﻿---
 title: "CGC"
 date: 2024-11-09T12:38:03+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 191
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-09T03:38:03Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #제약및생명공학 #헬스케어 #대마초 
 

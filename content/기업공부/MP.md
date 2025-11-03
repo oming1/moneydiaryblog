@@ -1,7 +1,7 @@
 ﻿---
 title: "MP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 584
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #희토류 #경희토류 #NdPr #네오디뮴 #프라세오디뮴 #영구자석 #전기차모터 #풍력터빈 #로봇 #전기차  #기초소재 #원자재 #비금귀금속및광물 #희토류산화물
 

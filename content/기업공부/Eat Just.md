@@ -1,7 +1,7 @@
 ﻿---
 title: "Eat Just"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 300
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #포장식품 #소비자방어주 #대체육 #식물성달걀 #배양육 #푸드테크 #대체단백질 #녹두단백질 #지속가능성 #바이오테크 #혁신식품 #환경친화적 #동물복지 #실리콘밸리 #JustEgg #GoodMeat #푸드시스템 #친환경 #건강식품 #특수식품 #바이오테크놀로지 #Food 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "IRDM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 458
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #커뮤니케이션서비스 #위성통신 #위성 #인공위성 #LEO #저궤도위성통신 #위성전화 #통신위성 #저궤도위성 
 

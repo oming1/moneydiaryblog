@@ -1,7 +1,7 @@
 ﻿---
 title: "RGEN"
 date: 2024-12-13T21:47:21+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 742
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-13T12:47:21Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #생명과학도구및서비스 #정보기술 #바이오프로세싱
 

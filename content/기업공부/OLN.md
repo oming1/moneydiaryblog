@@ -1,7 +1,7 @@
 ﻿---
 title: "OLN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 655
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #올린코퍼레이션 #OLN #화학제품 #특수화학 #클로르알칼리 #에폭시 #탄약제조 #윈체스터 #산업화학 #글로벌공급망 #지속가능화학 #화학산업 #에너지전환 #화학원료 #산업용화학 #화학혁신 #환경규제 #화학생산 #글로벌화학 #화학기술 #화학시장 #화학수요 #화학리스크 #화학투자 #화학성장 #화학파트너십 #화학지속가능성 #화학공정 #화학안전 #화학경제
 

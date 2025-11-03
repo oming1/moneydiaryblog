@@ -1,7 +1,7 @@
 ﻿---
 title: "VLCN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 932
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
 </div>
 #전기차 #오프로드 #파워스포츠 #오토바이 #UTV #골프카트 #배터리 #전기모터사이클 #텍사스 #ATV #지형차량 #친환경모빌리티 #전동화 #레저차량 #군사용차량 #전기자전거 #혁신모빌리티 #지속가능교통 #아웃도어 #전기파워스포츠 #비트코인 #암호화폐 #디지털자산 #재무전략 #투자다변화
 

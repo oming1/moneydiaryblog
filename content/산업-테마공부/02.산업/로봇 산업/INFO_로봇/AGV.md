@@ -1,7 +1,7 @@
 ﻿---
 title: "AGV"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-30T20:57:18+09:00
+lastmod: 2025-10-31T06:43:18+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-30T11:57:18Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:18Z" />
 </div>
 #물류로봇 #로봇 #로봇산업 #서비스로봇 
 

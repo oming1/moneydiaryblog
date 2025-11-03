@@ -1,7 +1,7 @@
 ﻿---
 title: "Fanuc"
 date: 2023-06-28T12:13:12+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 336
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-28T03:13:12Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #로봇 #산업재 #자동화및제어시스템
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "RBLX"
 date: 2024-10-09T08:20:09+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 728
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-08T23:20:09Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #테크 #엔터테인먼트 #게임 
 

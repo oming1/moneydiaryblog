@@ -1,7 +1,7 @@
 ﻿---
 title: "MBLY"
 date: 2024-09-20T09:19:03+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:27+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 550
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-20T00:19:03Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
 </div>
 #임의소비재 #자동차부품 #자율주행 #ADAS #LiDAR #라이다
 

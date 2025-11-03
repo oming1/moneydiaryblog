@@ -1,7 +1,7 @@
 ﻿---
 title: "CRS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 238
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #특수합금 #우주항공 #방산 #티타늄 #니켈합금 #스테인리스강 #고온합금 #항공기엔진 #방위산업 #첨단소재 #초합금 #특수강 #합금분말 #적층제조 #3D프린팅 #의료기기 #에너지 #철강
 

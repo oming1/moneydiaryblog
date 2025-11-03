@@ -1,7 +1,7 @@
 ﻿---
 title: "NPC"
 date: 2023-06-03T09:30:25+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 626
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-03T00:30:25Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #폐배터리 #배터리수거/검사 #알루미늄 #전기차 #산업재 #알루미늄제품
 

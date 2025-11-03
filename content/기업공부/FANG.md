@@ -1,7 +1,7 @@
 ﻿---
 title: "FANG"
 date: 2024-10-02T22:26:49+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 335
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-02T13:26:49Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #에너지 #석유및가스탐사및생산 
 

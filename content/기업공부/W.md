@@ -1,7 +1,7 @@
 ﻿---
 title: "W"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 949
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
 </div>
 #웨이페어 #온라인가구 #홈퍼니싱 #이커머스 #홈굿즈 #드롭쉬핑 #가구마켓플레이스 #홈데코 #소비자재량 #디지털트랜스포메이션 #CastleGate물류 #마켓쉐어 #온라인소매 #가구유통 #홈인테리어 #AllModern #Perigold #소매기술 #공급망혁신 #고객경험 #빅데이터 #머신러닝 #AI추천시스템 #물류네트워크 #가구 
 

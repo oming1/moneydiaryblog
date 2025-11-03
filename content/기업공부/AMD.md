@@ -1,7 +1,7 @@
 ﻿---
 title: "AMD"
 date: 2024-09-04T13:33:37+09:00
-lastmod: 2025-10-30T22:25:44+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 60
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-04T04:33:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T13:25:44Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #반도체 #테크 
 

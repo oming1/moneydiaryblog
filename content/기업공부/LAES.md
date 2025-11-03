@@ -1,7 +1,7 @@
 ﻿---
 title: "LAES"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 503
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
 </div>
 #암호화폐 #블록체인 #디지털자산 #보안 #IoT #클라우드 #정보기술 #양자컴퓨터 #전자장비 #정보기술 #디지털보안 
 

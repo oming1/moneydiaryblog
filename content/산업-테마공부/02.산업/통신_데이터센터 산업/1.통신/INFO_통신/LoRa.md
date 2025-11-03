@@ -1,7 +1,7 @@
 ﻿---
 title: "LoRa"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-30T21:33:36+09:00
+lastmod: 2025-10-31T06:43:21+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:21Z" />
 </div>
 #LoRa #통신 #저전력장거리사물인터넷 #무선통신 
 

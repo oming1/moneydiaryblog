@@ -1,7 +1,7 @@
 ﻿---
 title: "BOE"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-30T10:48:21+09:00
+lastmod: 2025-10-31T06:43:17+09:00
 type: docs
 sidebar:
   open: false
@@ -9,6 +9,6 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-30T01:48:21Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:17Z" />
 </div>
 #금리 #통화정책 #영국 #BOE

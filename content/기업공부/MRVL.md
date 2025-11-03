@@ -1,7 +1,7 @@
 ﻿---
 title: "MRVL"
 date: 2023-07-12T11:47:23+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 591
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-07-12T02:47:23Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #테크 #반도체
 

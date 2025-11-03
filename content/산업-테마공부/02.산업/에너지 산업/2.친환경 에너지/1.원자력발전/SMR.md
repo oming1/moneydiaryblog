@@ -1,7 +1,7 @@
 ﻿---
 title: "SMR"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-30T21:33:36+09:00
+lastmod: 2025-10-31T06:43:18+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:36Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:18Z" />
 </div>
 #에너지 #친환경 #원전 #재생에너지 #유틸리티 #원자력발전 #SMR #소형모듈식원자로 #가압경수로  #3_5세대SMR #LEU #저농축산화우라늄 #소형모듈형원자로 
 

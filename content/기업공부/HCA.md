@@ -1,7 +1,7 @@
 ﻿---
 title: "HCA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 399
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #병원 #의료서비스 #의료시설 #헬스케어
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "NKE"
 date: 2024-09-02T12:22:37+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 618
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T03:22:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #신발 #임의소비재
 

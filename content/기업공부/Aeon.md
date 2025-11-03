@@ -1,7 +1,7 @@
 ﻿---
 title: "Aeon"
 date: 2024-09-02T17:15:55+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 35
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T08:15:55Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #소비자방어주 #소매 #전자상거래 #슈퍼마켓 #할인점 #편의점 #약국 
 

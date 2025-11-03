@@ -1,7 +1,7 @@
 ﻿---
 title: "K"
 date: 2024-08-30T21:31:46+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:26+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 476
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T12:31:46Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
 </div>
 #소비자방어주 #포장식품 #시리얼
 

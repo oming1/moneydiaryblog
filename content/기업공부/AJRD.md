@@ -1,7 +1,7 @@
 ﻿---
 title: "AJRD"
 date: 2024-11-16T13:50:12+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 47
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-16T04:50:12Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #항공우주및방위 #산업재 #로켓엔진
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "PDD"
 date: 2024-08-27T12:13:57+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 679
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-27T03:13:57Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #전자상거래 #중국 #소비재 #소매 #임의소비재
 

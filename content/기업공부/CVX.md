@@ -1,7 +1,7 @@
 ﻿---
 title: "CVX"
 date: 2024-09-13T12:56:42+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 251
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T03:56:42Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #통합오일및가스 #에너지 #원유 #천연가스 #화학 #석유화학
 

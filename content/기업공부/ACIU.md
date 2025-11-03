@@ -1,7 +1,7 @@
 ﻿---
 title: "ACIU"
 date: 2024-09-02T12:23:09+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 20
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T03:23:09Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #헬스케어 #바이오테크 #알츠하이머 #파킨슨병 #다운증후군
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "ACIC"
 date: 2024-10-12T00:23:39+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 19
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-11T15:23:39Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #금융 #보험 #재보험 #허리케인
 

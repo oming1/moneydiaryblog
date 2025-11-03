@@ -1,7 +1,7 @@
 ﻿---
 title: "INXN"
 date: 2024-11-07T10:20:42+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 450
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T01:20:42Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #전문리츠 #데이터센터 #부동산 #클라우드 #리츠 
 

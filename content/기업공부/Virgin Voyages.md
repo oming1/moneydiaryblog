@@ -1,7 +1,7 @@
 ﻿---
 title: "Virgin Voyages"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:30+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 930
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
 </div>
 #Virgin브랜드 #성인전용크루즈 #럭셔리크루즈 #리처드브랜슨 #베인캐피털 #어덜트온리 #프리미엄크루즈 #혁신적디자인 #올인클루시브 #크루즈산업 #레저여행 #카리브해크루즈 #지중해크루즈 #핀칸티에리조선 #고급여행 #라이프스타일브랜드 #여행엔터테인먼트 #부티크크루즈 #호스피탤리티 #해상여행 #럭셔리라이프스타일 #크루즈혁신
 

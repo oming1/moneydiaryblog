@@ -1,7 +1,7 @@
 ﻿---
 title: "M"
 date: 2024-08-22T10:56:19+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:27+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 541
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-22T01:56:19Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
 </div>
 #소비재 #백화점 #소매 #임의소비재
 

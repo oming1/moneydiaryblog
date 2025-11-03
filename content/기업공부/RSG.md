@@ -1,7 +1,7 @@
 ﻿---
 title: "RSG"
 date: 2024-09-12T12:19:53+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 760
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-12T03:19:53Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #산업재 #폐기물관리 #재활용
 

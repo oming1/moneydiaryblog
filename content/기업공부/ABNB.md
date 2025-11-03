@@ -1,7 +1,7 @@
 ﻿---
 title: "ABNB"
 date: 2024-11-11T09:36:27+09:00
-lastmod: 2025-10-30T21:24:50+09:00
+lastmod: 2025-10-31T06:43:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 13
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-11T00:36:27Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:24:50Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
 </div>
 #숙박공유플랫폼 #임의소비재 #호텔 #레저 
 

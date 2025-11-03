@@ -1,7 +1,7 @@
 ﻿---
 title: "PHG"
 date: 2024-12-24T12:02:45+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:28+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 689
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-24T03:02:45Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
 </div>
 #수면무호흡 #의료기기 #헬스케어기술 #소비자가전 #진단영상 #환자모니터링 #건강정보학 #개인건강 #연구개발 #혁신 #의료솔루션 #디지털헬스 #지속가능성 #헬스케어 #의료기기및장비 #초음파장비
 

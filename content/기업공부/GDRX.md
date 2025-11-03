@@ -1,7 +1,7 @@
 ﻿---
 title: "GDRX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 367
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #헬스케어테크 #처방약할인 #의약품가격비교 #원격의료 #텔레헬스 #디지털헬스 #굿알엑스 #소비자헬스 #의료비절감 #온라인약국 #제약사프로그램 #건강정보서비스 #시장침투 #성장잠재력 #사용자경험 #빅데이터 #헬스케어플랫폼 #만성질환관리 #AI헬스 #환자중심 #헬스케어혁신 #제약산업 #가상케어
 

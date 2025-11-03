@@ -1,7 +1,7 @@
 ﻿---
 title: "ASAN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:23+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 88
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
 </div>
 #프로젝트관리 #업무관리 #협업플랫폼 #SaaS #클라우드소프트웨어 #AI업무관리 #AsanaAI #워크플로우자동화 #팀협업 #생산성도구 #엔터프라이즈소프트웨어 #디지털워크플레이스 #원격근무 #애자일관리 #간트차트 #작업추적 #미국상장 #더스틴모스코비츠 #페이스북공동창업자 #B2B소프트웨어 #구독모델 #하이브리드근무 #업무자동화 #리더십도구 #성과관리 #디지털전환 #협업혁신 #클라우드컴퓨팅 #소프트웨어혁신
 

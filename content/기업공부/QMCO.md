@@ -1,7 +1,7 @@
 ﻿---
 title: "QMCO"
 date: 2024-12-07T12:46:26+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 721
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T03:46:26Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #정보기술 #컴퓨터하드웨어 #데이터저장 #데이터보호 #데이터관리
 

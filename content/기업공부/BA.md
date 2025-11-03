@@ -1,7 +1,7 @@
 ﻿---
 title: "BA"
 date: 2024-08-27T12:13:52+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:23+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 112
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-27T03:13:52Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
 </div>
 #항공 #우주 #방산 #항공기 #보안시스템 #산업재 #항공우주
 

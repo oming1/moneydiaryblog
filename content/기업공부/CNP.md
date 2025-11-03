@@ -1,7 +1,7 @@
 ﻿---
 title: "CNP"
 date: 2024-10-28T21:13:25+09:00
-lastmod: 2025-10-30T21:33:33+09:00
+lastmod: 2025-10-31T06:43:24+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 209
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:13:25Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:33Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
 </div>
 #전기 #유틸리티 #송배전 #천연가스 #에너지 #에너지유통 #전기및가스유틸리티 
 

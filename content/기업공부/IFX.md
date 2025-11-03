@@ -1,7 +1,7 @@
 ﻿---
 title: "IFX"
 date: 2024-12-25T21:44:19+09:00
-lastmod: 2025-10-30T21:33:34+09:00
+lastmod: 2025-10-31T06:43:25+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 436
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-25T12:44:19Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:34Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
 </div>
 #마이크로컨트롤러 #MCU #반도체 #정보기술 #전력관리솔루션 #자동차 #전력관리솔루션 #자동차 
 

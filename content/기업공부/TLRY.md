@@ -1,7 +1,7 @@
 ﻿---
 title: "TLRY"
 date: 2024-11-09T13:03:54+09:00
-lastmod: 2025-10-30T21:33:35+09:00
+lastmod: 2025-10-31T06:43:29+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 871
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-09T04:03:54Z" />
-  <meta property="article:modified_time" content="2025-10-30T12:33:35Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
 </div>
 #헬스케어 #제약및생명공학 #대마초 
 

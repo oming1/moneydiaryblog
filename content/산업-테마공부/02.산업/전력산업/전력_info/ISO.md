@@ -1,7 +1,7 @@
 ﻿---
 title: "ISO"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-28T22:05:45+09:00
+lastmod: 2025-10-31T06:43:20+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 4
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T13:05:45Z" />
+  <meta property="article:modified_time" content="2025-10-30T21:43:20Z" />
 </div>
 #전력 #소규모송전망 #단일지역송전망 
 
