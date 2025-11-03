@@ -1,7 +1,7 @@
 ﻿---
 title: "RKT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 750
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #로켓컴퍼니즈 #RKT #모기지대출 #온라인금융 #부동산서비스 #디지털모기지 #금융테크 #핀테크 #주택대출 #부동산플랫폼 #글로벌확장 #디지털뱅킹 #모기지혁신 #금융서비스 #온라인대출 #부동산투자 #금융디지털화 #모기지시장 #금융리스크 #경제변동 #금리영향 #부동산트렌드 #디지털금융 #금융파트너십 #모기지수요 #금융지속가능성 #핀테크성장 #금융규제 #디지털대출 #금융경제
 

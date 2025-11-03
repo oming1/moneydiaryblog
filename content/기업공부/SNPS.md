@@ -1,7 +1,7 @@
 ﻿---
 title: "SNPS"
 date: 2024-12-06T10:40:41+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 812
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-06T01:40:41Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #반도체 #정보기술 #소프트웨어 #반도체설계 #집적회로 #전자설계자동화 #실리콘
 

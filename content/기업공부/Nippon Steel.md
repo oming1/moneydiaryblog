@@ -1,7 +1,7 @@
 ﻿---
 title: "Nippon Steel"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 617
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #철강 #기초소재 
 

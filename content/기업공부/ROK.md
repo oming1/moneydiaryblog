@@ -1,7 +1,7 @@
 ﻿---
 title: "ROK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 756
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #관세 #자동화 #리쇼어링 #산업자동화 #스마트제조 #IoT #디지털전환 #PLC #SCADA #산업로봇 #모션제어 #AI기술 #클라우드컴퓨팅 #제조효율성 #지속가능성 #ESG #산업용소프트웨어 #사이버보안 #디지털트윈 #인더스트리4.0 #공장자동화 #스마트팩토리
 

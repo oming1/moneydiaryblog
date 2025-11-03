@@ -1,7 +1,7 @@
 ﻿---
 title: "Pandora Media"
 date: 2025-07-04T09:40:52+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 673
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-07-04T00:40:52Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #SiriusXM #음악스트리밍
 

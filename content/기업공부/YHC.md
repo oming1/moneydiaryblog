@@ -1,7 +1,7 @@
 ﻿---
 title: "YHC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:33+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 992
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #LQRHouse #YHC #알코올마케팅 #주류전자상거래 #디지털마케팅 #와인증류주 #CWSpirits #온라인주류판매 #주류브랜드개발 #알코올플랫폼 #SWOL테킬라 #주류유통 #비트코인마이닝 #암호화폐전략 #디지털자산 #주류산업 #이커머스 #마케팅협력 #주류마켓플레이스 #펜니스톡 #소형주 #성장주 #NASDAQ #주류브로커리지 #온라인알코올 #주류배급
 

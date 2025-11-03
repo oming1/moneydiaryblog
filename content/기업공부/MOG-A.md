@@ -1,7 +1,7 @@
 ﻿---
 title: "MOG-A"
 date: 2024-11-17T23:35:52+09:00
-lastmod: 2025-11-03T21:14:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 579
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-17T14:35:52Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #항공우주및방위산업 #우주선용추진시스템 #액추에이터 #인공위성 #항공기제어
 

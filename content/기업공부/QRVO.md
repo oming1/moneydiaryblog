@@ -1,7 +1,7 @@
 ﻿---
 title: "QRVO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 724
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 ## 핵심 키워드
 

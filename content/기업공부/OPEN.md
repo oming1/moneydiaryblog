@@ -1,7 +1,7 @@
 ﻿---
 title: "OPEN"
 date: 2024-08-29T20:54:59+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 662
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-29T11:54:59Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #부동산 #부동산서비스 
 

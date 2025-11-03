@@ -1,7 +1,7 @@
 ﻿---
 title: "SESG"
 date: 2024-11-18T14:28:34+09:00
-lastmod: 2025-11-03T21:14:30+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 783
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-18T05:28:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #위성통신 #커뮤니케이션서비스 #인공위성 #우주 #통신위성 
 

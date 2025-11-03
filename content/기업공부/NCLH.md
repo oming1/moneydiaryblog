@@ -1,7 +1,7 @@
 ﻿---
 title: "NCLH"
 date: 2024-10-12T00:12:35+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 607
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-11T15:12:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #크루즈 #레저 #환경규제 #해운 #경기소비재 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "THC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 866
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #의료서비스 #병원운영 #외래수술센터 #수익성개선 #포트폴리오최적화 #의료시설 #수익주기관리 #환자중심케어 #의료기술혁신 #데이터분석 #지역사회건강 #의료품질향상 #디지털헬스케어 #의료보험 #의료정책 #헬스케어 #병원 
 

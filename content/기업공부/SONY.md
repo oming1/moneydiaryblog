@@ -1,7 +1,7 @@
 ﻿---
 title: "SONY"
 date: 2024-11-09T12:39:12+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 815
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-09T03:39:12Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #임의소비재 #가전제품 #전자제품 #게임 #엔터테인먼트 #금융 
 

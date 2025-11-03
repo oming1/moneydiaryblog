@@ -1,7 +1,7 @@
 ﻿---
 title: "ZURA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:33+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 1003
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #바이오테크놀로지 #면역학 #자가면역질환 #이중경로항체 #티불리주맙 #ZB-106 #IL-17 #BAFF #전신경화증 #화농성한선염 #쇼그렌증후군 #류마티스관절염 #임상시험 #2상시험 #TibuSURE #TibuSHIELD #SPAC합병 #JATT #듀얼패스웨이 #자가면역치료 #염증성질환 #항체치료제 #정밀의학 #면역조절 #라스베가스
 

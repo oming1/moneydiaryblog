@@ -1,7 +1,7 @@
 ﻿---
 title: "SYY"
 date: 2024-11-07T10:14:21+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 849
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T01:14:21Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #필수소비재 #식품유통 
 

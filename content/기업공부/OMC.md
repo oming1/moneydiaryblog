@@ -1,7 +1,7 @@
 ﻿---
 title: "OMC"
 date: 2024-12-09T22:03:40+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 657
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-09T13:03:40Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #광고 #커뮤니케이션서비스 
 

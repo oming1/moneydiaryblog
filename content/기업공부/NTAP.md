@@ -1,7 +1,7 @@
 ﻿---
 title: "NTAP"
 date: 2024-12-07T12:49:15+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 630
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T03:49:15Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #데이터인프라 #클라우드 #통합데이터스토리지
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "MAS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 547
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #델타수전 #베어페인트 #한스그로헤 #홈임프루브먼트 #배스피팅 #수전 #페인트 #스파 #샤워부스 #건설자재 #리모델링 #주택건설 #인테리어 #브랜드포트폴리오 #제조업 #산업재 #건축자재 #자재유통 #홈센터 #글로벌제조
 

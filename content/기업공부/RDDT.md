@@ -1,7 +1,7 @@
 ﻿---
 title: "RDDT"
 date: 2024-12-09T21:59:55+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 734
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-09T12:59:55Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #커뮤니케이션서비스 #인터랙티브미디어및서비스
 

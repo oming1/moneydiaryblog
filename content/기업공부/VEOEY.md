@@ -1,7 +1,7 @@
 ﻿---
 title: "VEOEY"
 date: 2024-09-13T17:44:07+09:00
-lastmod: 2025-11-03T21:14:32+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 930
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T08:44:07Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #산업재 #폐기물관리
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "NFLX"
 date: 2024-08-21T17:26:56+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 613
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-21T08:26:56Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #소프트웨어 #테크 #스트리밍 #동영상 #통신 #콘텐츠 #미디어 #엔터테인먼트 #커뮤니케이션서비스 #OTT
 

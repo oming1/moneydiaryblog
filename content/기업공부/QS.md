@@ -1,7 +1,7 @@
 ﻿---
 title: "QS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 725
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #전기차배터리 #고체전해질 #리튬메탈배터리 #에너지저장 #배터리기술 #전기차 #재생에너지 #자동차부품 #에너지밀도 #빠른충전 #안전성 #폭스바겐파트너십 #임의소비재 #고체전해질리튬메탈배터리
 

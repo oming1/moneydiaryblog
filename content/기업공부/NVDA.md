@@ -1,7 +1,7 @@
 ﻿---
 title: "NVDA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 639
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #GPU #인공지능 #딥러닝 #데이터센터 #게이밍 #자율주행 #엣지컴퓨팅 #클라우드컴퓨팅 #고성능컴퓨팅 #CUDA #RTX #Tensor코어 #병렬처리 #시각컴퓨팅 #반도체 #슈퍼컴퓨터 #메타버스 #옴니버스 #GeForce #Quadro #정보기술 #로봇 
 

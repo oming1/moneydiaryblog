@@ -1,7 +1,7 @@
 ﻿---
 title: "PEP"
 date: 2024-09-13T17:42:59+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 682
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T08:42:59Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #필수소비재 #음료 
 

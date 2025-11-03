@@ -1,7 +1,7 @@
 ﻿---
 title: "PETS"
 date: 2024-12-07T12:30:22+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 684
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T03:30:22Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #반려동물약국 #헬스케어 #제약소매 #반려동물 
 

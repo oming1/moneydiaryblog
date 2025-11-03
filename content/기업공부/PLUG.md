@@ -1,7 +1,7 @@
 ﻿---
 title: "PLUG"
 date: 2023-07-14T10:40:46+09:00
-lastmod: 2025-11-03T21:14:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 698
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-07-14T01:40:46Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #수소  #재생에너지 #에너지 #충전소 #ESS #전자장비 #산업재 #전기장비및부품
 

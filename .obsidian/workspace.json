@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93f3b8bc89a21651",
+        "id": "ea088e41df229cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "70d6a99e58e8b0cd",
+            "id": "b97b70f46c8a1b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
+                "file": "content/Earning/AFRM/Affirm 2025 Q4 실적발표.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-04 미국 시황 정리"
+              "title": "Affirm 2025 Q4 실적발표"
             }
           }
         ]
@@ -193,13 +193,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "70d6a99e58e8b0cd",
+  "active": "b97b70f46c8a1b09",
   "lastOpenFiles": [
+    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
     "static/images/Pasted image 20251104064920.png",
     "4.템플렛/0.(간소화)데일리.md",
     "static/images/Pasted image 20251104064818.png",
     "static/images/Pasted image 20251104064810.png",
-    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
     "content/Earning/PLTR/Palantir Technologies (PLTR) 2025년 3분기 실적 요약.md",
     "content/Earning/PLTR/2025년 11월 3일, 팔란티어 주주 서한.md",
     "content/Earning/CIFR/CIFR 2025년 3분기 재무 하이라이트.md",
@@ -235,7 +235,6 @@
     "static/images/Pasted image 20251029064838.png",
     "백업용/코드",
     "content/산업-테마공부/02.산업/미용기기산업/Study/2023/23.1 중소형 미용기기 톺아보기.pdf",
-    "static/images/Pasted image 20251024065234.png",
     "attachments",
     "산업-테마공부/2.산업/항공,우주,방위 산업/3.모빌리티/UAM/종목/JOBY/Repoort",
     "산업-테마공부/1.경제/매크로/5.채권/☆  Report _문홍철의 Concise/2024",

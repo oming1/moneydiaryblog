@@ -1,7 +1,7 @@
 ﻿---
 title: "MGM"
 date: 2024-11-07T21:43:23+09:00
-lastmod: 2025-11-03T21:14:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 567
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T12:43:23Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 

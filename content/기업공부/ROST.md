@@ -1,7 +1,7 @@
 ﻿---
 title: "ROST"
 date: 2024-11-26T14:02:56+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 760
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-26T05:02:56Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #경기소비재 #의류소매 #의류 #신발
 

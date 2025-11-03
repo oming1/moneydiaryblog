@@ -1,7 +1,7 @@
 ﻿---
 title: "TPR"
 date: 2024-11-17T11:55:39+09:00
-lastmod: 2025-11-03T21:14:32+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 882
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-17T02:55:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #임의소비재 #럭셔리 #럭셔리패션브랜드
 

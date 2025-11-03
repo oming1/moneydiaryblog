@@ -1,7 +1,7 @@
 ﻿---
 title: "ZM"
 date: 2024-08-23T12:05:29+09:00
-lastmod: 2025-11-03T21:14:33+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 1001
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-23T03:05:29Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #소프트웨어 #테크 #화상회의 #인터넷
 

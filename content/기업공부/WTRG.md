@@ -1,7 +1,7 @@
 ﻿---
 title: "WTRG"
 date: 2024-09-20T15:32:08+09:00
-lastmod: 2025-11-03T21:14:33+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 978
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-20T06:32:08Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #인프라 #물공급 #상하수도 #수도유틸리티 #유틸리티
 

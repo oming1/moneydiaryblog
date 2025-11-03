@@ -1,7 +1,7 @@
 ﻿---
 title: "Wuxi apptec"
 date: 2024-09-11T10:53:20+09:00
-lastmod: 2025-11-03T21:14:33+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 979
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-11T01:53:20Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #바이오테크 #헬스케어 #CDMO #중국 
 

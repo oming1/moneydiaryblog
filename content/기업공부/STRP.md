@@ -1,7 +1,7 @@
 ﻿---
 title: "STRP"
 date: 2024-12-05T22:09:11+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 836
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-05T13:09:11Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #정보기술 #금융기술 #결제처리플랫폼
 

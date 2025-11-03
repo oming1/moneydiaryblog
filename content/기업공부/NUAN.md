@@ -1,7 +1,7 @@
 ﻿---
 title: "NUAN"
 date: 2024-12-06T21:57:24+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 634
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-06T12:57:24Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #AI #정보기술 #소프트웨어 #음성인식 #의료진용음성인식소프트웨어 #의료
 

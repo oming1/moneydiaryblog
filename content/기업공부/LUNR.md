@@ -1,7 +1,7 @@
 ﻿---
 title: "LUNR"
 date: 2024-09-19T12:00:02+09:00
-lastmod: 2025-11-03T21:14:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 534
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T03:00:02Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #항공우주 #우주 #항공우주및방위산업 #달탐사용탑재체
 

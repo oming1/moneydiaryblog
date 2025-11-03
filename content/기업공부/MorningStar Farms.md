@@ -1,7 +1,7 @@
 ﻿---
 title: "MorningStar Farms"
 date: 2024-08-31T21:07:23+09:00
-lastmod: 2025-11-03T21:14:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 582
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-31T12:07:23Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #포장식품 #소비자방어주 #대체육 #채식식품 #비건
 

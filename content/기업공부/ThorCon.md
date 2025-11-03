@@ -1,7 +1,7 @@
 ﻿---
 title: "ThorCon"
 date: 2024-11-19T22:17:40+09:00
-lastmod: 2025-11-03T21:14:31+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 867
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-19T13:17:40Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #에너지 #원전 #우라늄 #원자력 #소형모듈형원자로 #SMR #4세대SMR #용융염원자로 #원자력발전 #토륨 #용융염 #불화염염화염 #흑연 #해양원자력발전 
 

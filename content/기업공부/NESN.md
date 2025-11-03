@@ -1,7 +1,7 @@
 ﻿---
 title: "NESN"
 date: 2024-12-07T12:36:25+09:00
-lastmod: 2025-11-03T21:14:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 611
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T03:36:25Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #반려동물식품 #반려동물 
 

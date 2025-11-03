@@ -1,7 +1,7 @@
 ﻿---
 title: "Qorvo"
 date: 2024-10-30T21:22:27+09:00
-lastmod: 2025-11-03T21:14:29+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 723
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-30T12:22:27Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #정보기술 #반도체 #반도체및반도체장비 #무선주파수
 
