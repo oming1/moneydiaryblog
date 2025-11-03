@@ -1,15 +1,15 @@
 ﻿---
 title: "FLR"
 date: 2024-12-03T21:08:56+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 345
+weight: 346
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-03T12:08:56Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #산업재 #건설및엔지니어링 #인프라 #건설 #발전소 #EPC
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SATL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:30+09:00
 type: docs
 sidebar:
   open: false
-weight: 769
+weight: 770
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:30Z" />
 </div>
 #항공우주및방위산업 #정보기술 #위성 #위성이미지 #인공위성 #위성운영 #위성설계 #관측위성 #지구관측
 

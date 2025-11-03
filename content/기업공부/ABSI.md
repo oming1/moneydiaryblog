@@ -1,7 +1,7 @@
 ﻿---
 title: "ABSI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:22+09:00
+lastmod: 2025-11-03T21:14:20+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 14
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
 </div>
 #헬스케어 #생명공학및의료연구 #AI 
 

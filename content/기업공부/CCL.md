@@ -1,7 +1,7 @@
 ﻿---
 title: "CCL"
 date: 2024-10-16T15:24:03+09:00
-lastmod: 2025-10-31T06:43:23+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 182
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-16T06:24:03Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #크루즈 #레저 #친환경 #환경규제 #해운 #경기소비재 
 

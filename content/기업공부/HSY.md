@@ -1,15 +1,15 @@
 ﻿---
 title: "HSY"
 date: 2024-12-13T21:48:45+09:00
-lastmod: 2025-10-31T06:43:25+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 420
+weight: 421
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-13T12:48:45Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #식품 #필수소비재 #초콜릿
 

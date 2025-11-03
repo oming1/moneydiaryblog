@@ -1,15 +1,15 @@
 ﻿---
 title: "KULR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 498
+weight: 499
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #열관리 #배터리안전 #전기차 #항공우주 #5G #클라우드컴퓨팅 #AI #고성능소재 #NASA기술 #지속가능성 #전기장비 #정보기술 #ESS #비트코인 
 

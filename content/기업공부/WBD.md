@@ -1,15 +1,15 @@
 ﻿---
 title: "WBD"
 date: 2024-09-13T10:26:04+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 953
+weight: 954
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T01:26:04Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
 </div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 
 

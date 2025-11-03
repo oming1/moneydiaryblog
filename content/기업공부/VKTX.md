@@ -1,15 +1,15 @@
 ﻿---
 title: "VKTX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 931
+weight: 932
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
 </div>
 #바이오제약 #임상단계 #비만치료제 #GLP1 #NASH #비알코올성지방간염 #내분비질환 #심혈관대사질환 #신약개발 #바이오테크 #임상시험 #연구개발 #파이프라인 #블록버스터 #FDA승인 #의료혁신 #미충족의료수요 #시장잠재력 #혁신신약 #라이선싱 #파트너링 #VK2735 #VK2809 #체중감량 #간질환 #메타볼릭질환
 

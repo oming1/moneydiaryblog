@@ -1,15 +1,15 @@
 ﻿---
 title: "JOBY"
 date: 2024-12-03T21:56:11+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 471
+weight: 472
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-03T12:56:11Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #산업재 #항공우주및방위 #eVTOL #UAM
 

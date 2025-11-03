@@ -1,15 +1,15 @@
 ﻿---
 title: "YPF"
 date: 2024-12-13T21:46:51+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 992
+weight: 993
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-13T12:46:51Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
 </div>
 #통합석유및가스 #에너지 #아르헨티나
 

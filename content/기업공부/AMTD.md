@@ -1,7 +1,7 @@
 ﻿---
 title: "AMTD"
 date: 2024-10-31T21:58:24+09:00
-lastmod: 2025-10-31T06:43:22+09:00
+lastmod: 2025-11-03T21:14:20+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 66
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-31T12:58:24Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
 </div>
 #금융 #자본시장 #주식거래 
 

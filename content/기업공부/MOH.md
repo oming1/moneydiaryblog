@@ -1,15 +1,15 @@
 ﻿---
 title: "MOH"
 date: 2024-10-25T13:46:07+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 579
+weight: 580
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-25T04:46:07Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #헬스케어 #관리의료 #건강보험 #메디케이드 #메디케어 
 

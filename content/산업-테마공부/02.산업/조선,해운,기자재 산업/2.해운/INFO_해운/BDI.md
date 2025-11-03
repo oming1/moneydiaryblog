@@ -1,7 +1,7 @@
 ﻿---
 title: "BDI"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-31T06:43:21+09:00
+lastmod: 2025-11-03T21:14:19+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:19Z" />
 </div>
 #BDI #건화물운임지수 #해운 #벌크선 #원자재 #글로벌무역 #경제지표 #선박공급 #화물수요 #케이프사이즈 #파나막스 #수프라막스 #철광석 #석탄 #곡물 #해운경기 #원자재가격 #국제무역 #경제예측 #선박건조
 

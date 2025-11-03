@@ -1,7 +1,7 @@
 ﻿---
 title: "VPP"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-31T06:43:20+09:00
+lastmod: 2025-11-03T21:14:18+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 10
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:20Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:18Z" />
 </div>
 #VPP #배터리 #재생에너지 #태양광 #V2G
 

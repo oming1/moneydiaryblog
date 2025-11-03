@@ -1,15 +1,15 @@
 ﻿---
 title: "FUBO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 357
+weight: 358
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #스포츠중심스트리밍 #라이브TV #OTT #스포츠콘텐츠 #프리미엄채널 #클라우드DVR #멀티뷰 #FanView #AI기술 #광고기술 #구독모델 #콘텐츠집계 #디지털권리 #스포츠베팅 #4K스트리밍  #데이터분석 #사용자경험
 

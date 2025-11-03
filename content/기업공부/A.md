@@ -1,7 +1,7 @@
 ﻿---
 title: "A"
 date: 2024-12-17T22:05:31+09:00
-lastmod: 2025-10-31T06:43:22+09:00
+lastmod: 2025-11-03T21:14:20+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-17T13:05:31Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
 </div>
 #생명과학도구및서비스 #헬스케어 #실험실기기
 

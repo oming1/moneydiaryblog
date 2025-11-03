@@ -1,15 +1,15 @@
 ﻿---
 title: "WORX"
 date: 2024-09-19T14:36:27+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 971
+weight: 972
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T05:36:27Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
 </div>
 #로봇 #필수소비재 #가정용내구재 #로봇 #가정용로봇 #가전제품 #정원및전동공구
 

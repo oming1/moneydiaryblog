@@ -1,15 +1,15 @@
 ﻿---
 title: "MRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:27+09:00
 type: docs
 sidebar:
   open: false
-weight: 589
+weight: 590
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
 </div>
 #헬스케어 #의료기술 #스마트헬스 #디지털헬스 #원격의료 #건강관리 #AI #데이터분석 #환자맞춤형 #의료서비스 #예방의학 #의료기기 #비용효율성 #헬스케어혁신 #모바일앱 #건강모니터링 #의사결정지원 #디지털치료
 

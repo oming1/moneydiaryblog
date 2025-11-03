@@ -1,7 +1,7 @@
 ﻿---
 title: "물리 AI"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-31T06:43:18+09:00
+lastmod: 2025-11-03T21:14:17+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 11
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:18Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:17Z" />
 </div>
 #물리AI #AI #액추에이터 #로봇 #센서 #TSLA #NVDA 
 

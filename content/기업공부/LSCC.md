@@ -1,15 +1,15 @@
 ﻿---
 title: "LSCC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:27+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 529
+weight: 530
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #저전력프로그래머블로직디바이스 #정보기술 #반도체및반도체장비 #맞춤형반도체솔루션 #FPGAs #PLDs #반도체 
 

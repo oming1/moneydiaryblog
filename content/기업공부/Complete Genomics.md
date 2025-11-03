@@ -1,15 +1,15 @@
 ﻿---
 title: "Complete Genomics"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
-weight: 215
+weight: 216
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #바이오테크 #헬스케어 #CDMO #유전자시퀀싱 #유전체데이터분석 #중국 
 

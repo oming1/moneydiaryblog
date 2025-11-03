@@ -1,15 +1,15 @@
 ﻿---
 title: "PMN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 699
+weight: 700
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
 </div>
 #알츠하이머치료제 #PMN310 #아밀로이드베타올리고머 #뉴로사이언스 #바이오테크 #임상시험 #PRECISE-AD #Phase1b #단클론항체 #치매치료 #신경퇴행성질환 #뇌질환 #정밀의학 #독성올리고머 #아밀로이드베타 #치료용항체 #캐나다바이오테크 #토론토본사 #FDA승인 #IND승인 #임상개발 #뇌플라크 #타우단백질 #알츠하이머병 #치매신약 #뇌건강 #노인의학 #신경보호 #뇌손상 #기억력 #인지능력 #뇌염증 #뇌세포사멸 #혈뇌장벽 #뇌약물전달 #뇌영상진단 #바이오마커 #뇌CSF #뇌조직손상 #뇌혈관 #뇌혈류 #뇌대사 #뇌기능 #뇌구조 #뇌파 #뇌전기활동 #뇌자기공명영상 #뇌PET #뇌SPECT #뇌초음파 #뇌내시경
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "WBTN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 954
+weight: 955
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
 </div>
 #웹툰엔터테인먼트 #WBTN #웹툰플랫폼 #디지털콘텐츠 #웹소설 #온라인만화 #글로벌콘텐츠 #크리에이터경제 #모바일엔터테인먼트 #스트리밍서비스 #IP라이선싱 #디지털스토리텔링 #아시아콘텐츠 #북미시장 #유럽확장 #크리에이터지원 #모바일앱 #콘텐츠수익화 #웹툰IP #영화적응 #게임라이선스 #디지털미디어 #소셜미디어통합 #글로벌팬덤 #콘텐츠혁신 #웹툰산업 #디지털출판 #크리에이터커뮤니티 #IP비즈니스 #엔터테인먼트테크
 

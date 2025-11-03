@@ -1,15 +1,15 @@
 ﻿---
 title: "KMX"
 date: 2024-12-20T17:22:19+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 491
+weight: 492
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-20T08:22:19Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #중고차 #자동차소매 #자동차 #임의소비재 #신차 
 

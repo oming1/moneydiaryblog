@@ -1,15 +1,15 @@
 ﻿---
 title: "MorningStar Farms"
 date: 2024-08-31T21:07:23+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 581
+weight: 582
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-31T12:07:23Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #포장식품 #소비자방어주 #대체육 #채식식품 #비건
 

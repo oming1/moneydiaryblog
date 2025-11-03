@@ -1,15 +1,15 @@
 ﻿---
 title: "DRI"
 date: 2024-09-20T09:19:06+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 292
+weight: 293
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-20T00:19:06Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #레스토랑 #소비자재량주 #임의소비재
 

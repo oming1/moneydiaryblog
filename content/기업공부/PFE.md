@@ -1,15 +1,15 @@
 ﻿---
 title: "PFE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 685
+weight: 686
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
 </div>
 #제약 #바이오테크 #백신 #면역학 #종양학 #심장학 #내분비학 #신경학 #COVID19백신 #Comirnaty #Eliquis #Prevnar #Palbociclib #Vyndaqel #연구개발 #글로벌제약 #혁신의약품 #바이오의약품 #제네릭 #지적재산권 #바이오 
 

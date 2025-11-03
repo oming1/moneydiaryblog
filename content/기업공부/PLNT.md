@@ -1,15 +1,15 @@
 ﻿---
 title: "PLNT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 695
+weight: 696
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
 </div>
 #임의소비재 #호텔레스토랑레저 #피트니스프랜차이즈 #체육관체인 #저가피트니스  #디지털통합 #장비혁신 #건강과웰빙
 

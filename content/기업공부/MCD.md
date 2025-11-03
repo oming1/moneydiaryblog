@@ -1,15 +1,15 @@
 ﻿---
 title: "MCD"
 date: 2024-09-16T12:19:46+09:00
-lastmod: 2025-10-31T06:43:27+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 551
+weight: 552
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-16T03:19:46Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #임의소비재 #레스토랑 #패스트푸드 #프렌차이즈 
 

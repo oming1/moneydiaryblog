@@ -1,15 +1,15 @@
 ﻿---
 title: "FL"
 date: 2024-10-28T21:37:41+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 344
+weight: 345
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:37:41Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #임의소비재 #특수소매 #운동화 #스포츠웨어 
 

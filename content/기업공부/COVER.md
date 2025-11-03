@@ -1,15 +1,15 @@
 ﻿---
 title: "COVER"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
-weight: 223
+weight: 224
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #버튜버 #서브컬쳐 #오타쿠 #버추얼유튜버 #VTuber #홀로라이브 #엔터테인먼트 #라이브스트리밍 #디지털IP #아바타기술 #팬커뮤니티 #콘텐츠제작 #글로벌확장 #애니메이션 #게임콜라보 #이벤트 #굿즈 #라이선싱 #일본스타트업 #메타버스 #크리에이터 #SoE
 

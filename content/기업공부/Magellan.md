@@ -1,15 +1,15 @@
 ﻿---
 title: "Magellan"
 date: 2024-11-16T13:37:31+09:00
-lastmod: 2025-10-31T06:43:27+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 543
+weight: 544
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-16T04:37:31Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #gps #네비게이션 #액티비티트래커 #위치기반기술 #가전제품
 

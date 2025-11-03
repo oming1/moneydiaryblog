@@ -1,7 +1,7 @@
 ﻿---
 title: "CDXS"
 date: 2024-12-17T21:31:06+09:00
-lastmod: 2025-10-31T06:43:23+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 185
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-17T12:31:06Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #바이오테크 #헬스케어 #효소
 

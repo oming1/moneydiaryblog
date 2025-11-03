@@ -1,15 +1,15 @@
 ﻿---
 title: "MRKR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:27+09:00
 type: docs
 sidebar:
   open: false
-weight: 588
+weight: 589
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:27Z" />
 </div>
 #바이오테크놀로지 #면역항암치료 #T세포치료 #림프종치료 #급성골수성백혈병 #췌장암 #MAR-T세포 #다중항원인식 #혈액암 #고형암 #종양특이항원 #임상시험 #FDA승인 #오프더셸프치료 #CAR-T대체치료 #유전자변형없는치료 #생존인 #PRAME #NY-ESO-1 #MAGE-A4 #SSX2 #WT-1 #면역치료 #암치료혁신 #개인맞춤치료 #휴스턴바이오테크
 

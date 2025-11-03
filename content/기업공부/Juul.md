@@ -1,15 +1,15 @@
 ﻿---
 title: "Juul"
 date: 2024-09-02T12:24:13+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 474
+weight: 475
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T03:24:13Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #전자담배 #담배 #소비자서비스 
 

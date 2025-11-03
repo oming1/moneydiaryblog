@@ -1,15 +1,15 @@
 ﻿---
 title: "GXAI"
 date: 2024-12-07T11:33:53+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 394
+weight: 395
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T02:33:53Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #게임플랫폼 #NFT #커뮤니케이션서비스 #게임
 

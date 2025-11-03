@@ -1,15 +1,15 @@
 ﻿---
 title: "SOFI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 813
+weight: 814
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
 </div>
 #핀테크 #개인금융 #디지털뱅킹 #학자금대출 #주택담보대출 #투자 #신용카드 #온라인뱅킹 #금융서비스 #기술플랫폼 #갈릴레오 #대출 #모바일뱅킹 #자산관리 #로보어드바이저 #금융교육 #회원혜택 #원스톱숍 #금융테크놀로지 #금융
 

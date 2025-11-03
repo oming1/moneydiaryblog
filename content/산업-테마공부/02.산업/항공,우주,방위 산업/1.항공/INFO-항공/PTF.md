@@ -1,7 +1,7 @@
 ﻿---
 title: "PTF"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-31T06:43:21+09:00
+lastmod: 2025-11-03T21:14:19+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 6
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:19Z" />
 </div>
 #PTF #항공기제조 #화물운송 #화물전용기 #화물 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SFM"
 date: 2024-12-13T22:02:44+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:30+09:00
 type: docs
 sidebar:
   open: false
-weight: 784
+weight: 785
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:30Z" />
 </div>
 #식품소매 #필수소비재 #유기농식품
 

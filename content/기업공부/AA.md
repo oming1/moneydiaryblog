@@ -1,7 +1,7 @@
 ﻿---
 title: "AA"
 date: 2024-09-02T16:50:37+09:00
-lastmod: 2025-10-31T06:43:22+09:00
+lastmod: 2025-11-03T21:14:20+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 3
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T07:50:37Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:20Z" />
 </div>
 #알루미늄 #기초소재 #광산 #보그사이트 #원자재 
 

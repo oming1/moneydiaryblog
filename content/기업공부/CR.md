@@ -1,15 +1,15 @@
 ﻿---
 title: "CR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
-weight: 230
+weight: 231
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #산업기계 #산업재 #항공우주 #프로세스밸브 #우주 #항공우주부품 #항공 
 

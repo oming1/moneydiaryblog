@@ -1,15 +1,15 @@
 ﻿---
 title: "GPRE"
 date: 2024-09-13T17:43:39+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 386
+weight: 387
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T08:43:39Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #바이오디젤 #바이오에탄올 #바이오리액터 #기초소재 #화학
 

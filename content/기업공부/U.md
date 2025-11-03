@@ -1,15 +1,15 @@
 ﻿---
 title: "U"
 date: 2024-09-04T13:34:13+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 897
+weight: 898
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-04T04:34:13Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
 </div>
 #테크 #소프트웨어
 

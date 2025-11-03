@@ -1,15 +1,15 @@
 ﻿---
 title: "GAP"
 date: 2024-11-26T14:04:22+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 364
+weight: 365
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-26T05:04:22Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #경기소비재 #전문소매 #의류
 

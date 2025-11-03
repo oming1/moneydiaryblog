@@ -1,15 +1,15 @@
 ﻿---
 title: "Fundiin"
 date: 2025-03-04T14:04:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:24+09:00
 type: docs
 sidebar:
   open: false
-weight: 359
+weight: 360
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-03-04T05:04:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:24Z" />
 </div>
 #BNPL #핀테크 
 

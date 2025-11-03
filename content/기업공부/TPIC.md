@@ -1,15 +1,15 @@
 ﻿---
 title: "TPIC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 880
+weight: 881
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
 </div>
 #풍력터빈 #복합재료 #재생에너지 #블레이드제조 #OEM파트너십 #지속가능성 #탄소중립 #에너지전환 #풍력발전 #글로벌확장 #경량화기술 #ESG #고효율블레이드 #풍력터빈서비스 #그린에너지 #재생가능소재
 

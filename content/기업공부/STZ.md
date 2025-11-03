@@ -1,15 +1,15 @@
 ﻿---
 title: "STZ"
 date: 2024-10-04T22:02:16+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 837
+weight: 838
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-04T13:02:16Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
 </div>
 #소비자방어주 #알코올음료 #주류
 

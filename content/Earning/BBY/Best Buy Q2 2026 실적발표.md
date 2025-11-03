@@ -1,7 +1,7 @@
 ﻿---
 title: "Best Buy Q2 2026 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:34+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:34Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #BBY #미국주식 
 

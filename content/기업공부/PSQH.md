@@ -1,15 +1,15 @@
 ﻿---
 title: "PSQH"
 date: 2024-12-03T22:02:51+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:29+09:00
 type: docs
 sidebar:
   open: false
-weight: 710
+weight: 711
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-03T13:02:51Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
 </div>
 #소프트웨어 #테크 #전자상거래 #광고 
 

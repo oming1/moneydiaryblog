@@ -1,15 +1,15 @@
 ﻿---
 title: "IBKR"
 date: 2024-09-16T11:53:19+09:00
-lastmod: 2025-10-31T06:43:25+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 433
+weight: 434
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-16T02:53:19Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #도박 #선거베팅 #금융서비스 #자본시장 
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "SHWI"
 date: 2024-10-28T21:02:15+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:30+09:00
 type: docs
 sidebar:
   open: false
-weight: 791
+weight: 792
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:02:15Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:30Z" />
 </div>
 #바닥재 #가구 #소비자재량주 #타일 #카펫 #임의소비재
 

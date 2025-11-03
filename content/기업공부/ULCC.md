@@ -1,15 +1,15 @@
 ﻿---
 title: "ULCC"
 date: 2024-11-19T13:31:51+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 907
+weight: 908
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-19T04:31:51Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
 </div>
 #산업재 #항공사 #LCC #저가항공사 #레저 
 

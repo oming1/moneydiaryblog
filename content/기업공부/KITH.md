@@ -1,15 +1,15 @@
 ﻿---
 title: "KITH"
 date: 2024-10-28T21:35:26+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 486
+weight: 487
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:35:26Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #의류 #스니커즈 
 

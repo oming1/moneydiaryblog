@@ -1,15 +1,15 @@
 ﻿---
 title: "LONN"
 date: 2024-09-11T10:52:56+09:00
-lastmod: 2025-10-31T06:43:27+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 525
+weight: 526
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-11T01:52:56Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #헬스케어 #진단및연구 #CDMO #바이오테크
 

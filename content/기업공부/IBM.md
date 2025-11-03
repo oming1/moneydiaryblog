@@ -1,15 +1,15 @@
 ﻿---
 title: "IBM"
 date: 2024-10-25T13:42:20+09:00
-lastmod: 2025-10-31T06:43:25+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 434
+weight: 435
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-25T04:42:20Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #테크 #정보기술
 

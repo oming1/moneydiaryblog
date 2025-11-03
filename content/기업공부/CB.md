@@ -1,7 +1,7 @@
 ﻿---
 title: "CB"
 date: 2024-10-09T07:05:43+09:00
-lastmod: 2025-10-31T06:43:23+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 179
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-08T22:05:43Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #보험 #금융 #허리케인 
 

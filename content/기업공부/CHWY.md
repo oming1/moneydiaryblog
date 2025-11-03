@@ -1,7 +1,7 @@
 ﻿---
 title: "CHWY"
 date: 2024-08-30T09:18:00+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:22+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 195
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T00:18:00Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:22Z" />
 </div>
 #펫 #반려동물  #임의소비재  #전문소매
 

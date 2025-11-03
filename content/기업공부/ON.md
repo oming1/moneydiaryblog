@@ -1,15 +1,15 @@
 ﻿---
 title: "ON"
 date: 2024-10-28T21:27:19+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 658
+weight: 659
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:27:19Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
 </div>
 #반도체  #정보기술 #자동차 #SiC #아날로그반도체
 

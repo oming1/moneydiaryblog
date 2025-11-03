@@ -1,15 +1,15 @@
 ﻿---
 title: "JBL"
 date: 2024-09-27T18:38:36+09:00
-lastmod: 2025-10-31T06:43:25+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 463
+weight: 464
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-27T09:38:36Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #테크 #전자부품 
 

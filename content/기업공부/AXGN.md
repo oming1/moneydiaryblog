@@ -1,7 +1,7 @@
 ﻿---
 title: "AXGN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:23+09:00
+lastmod: 2025-11-03T21:14:21+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 105
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:21Z" />
 </div>
 #악소젠 #AXGN #말초신경수복 #신경이식 #탈세포화동종신경 #AvanceNerveGraft #Axoguard #신경보호관 #신경연결기 #수부외과 #성형재건외과 #신경재건 #자가이식대체 #재생의학 #의료기기 #의료소모품 #FDA규제 #BLA #임상근거 #보험수가 #병원채널 #영업네트워크 #조직공급망 #AATB #조직은행 #CookBiotech제휴 #제조스케일업 #수술건수증가 #트라우마 #수요확대
 

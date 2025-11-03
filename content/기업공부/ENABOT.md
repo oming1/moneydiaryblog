@@ -1,15 +1,15 @@
 ﻿---
 title: "ENABOT"
 date: 2024-09-19T14:37:02+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 313
+weight: 314
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T05:37:02Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #로봇 #소비자재량주 #가정용내구재 #로봇 #가정용로봇 #가전제품 #임의소비재
 

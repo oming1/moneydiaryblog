@@ -1,15 +1,15 @@
 ﻿---
 title: "SPWR"
 date: 2024-09-12T11:46:44+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 823
+weight: 824
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-12T02:46:44Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:31Z" />
 </div>
 #태양광 #테크 #태양광패널
 

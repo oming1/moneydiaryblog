@@ -1,15 +1,15 @@
 ﻿---
 title: "MHK"
 date: 2024-10-28T16:23:56+09:00
-lastmod: 2025-10-31T06:43:27+09:00
+lastmod: 2025-11-03T21:14:26+09:00
 type: docs
 sidebar:
   open: false
-weight: 569
+weight: 570
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T07:23:56Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:26Z" />
 </div>
 #바닥재 #가구 #소비자재량주 #타일 #카펫  #임의소비재
 

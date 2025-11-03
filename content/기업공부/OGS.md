@@ -1,15 +1,15 @@
 ﻿---
 title: "OGS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:28+09:00
+lastmod: 2025-11-03T21:14:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 651
+weight: 652
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:28Z" />
 </div>
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지 #천연가스유통
 

@@ -1,15 +1,15 @@
 ﻿---
 title: "RLAY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:29+09:00
 type: docs
 sidebar:
   open: false
-weight: 751
+weight: 752
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
 </div>
 #정밀의학 #항암제개발 #유전자질환치료 #계산생물학 #실험기술 #소분자치료제 #표적항암제 #임상시험 #바이오테크 #PI3K억제제 #FGFR2억제제 #SHP2억제제 #유방암치료 #담관암치료 #고형암치료 #헬스케어 #생명과학도구및서비스 #바이오테크
 

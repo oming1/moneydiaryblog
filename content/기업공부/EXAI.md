@@ -1,15 +1,15 @@
 ﻿---
 title: "EXAI"
 date: 2024-12-17T21:21:35+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 330
+weight: 331
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-17T12:21:35Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #헬스케어 #AI #바이오테크
 

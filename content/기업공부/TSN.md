@@ -1,15 +1,15 @@
 ﻿---
 title: "TSN"
 date: 2024-08-30T21:31:48+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 890
+weight: 891
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T12:31:48Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:32Z" />
 </div>
 #식품 #육류 #필수소비재 #소고기 #닭고기 #돼지고기 #필수소비재
 

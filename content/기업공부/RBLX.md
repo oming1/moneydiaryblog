@@ -1,15 +1,15 @@
 ﻿---
 title: "RBLX"
 date: 2024-10-09T08:20:09+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:29+09:00
 type: docs
 sidebar:
   open: false
-weight: 728
+weight: 729
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-08T23:20:09Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
 </div>
 #테크 #엔터테인먼트 #게임 
 

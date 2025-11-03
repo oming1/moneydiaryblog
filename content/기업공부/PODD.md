@@ -1,15 +1,15 @@
 ﻿---
 title: "PODD"
 date: 2024-08-28T14:20:14+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:29+09:00
 type: docs
 sidebar:
   open: false
-weight: 703
+weight: 704
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-28T05:20:14Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
 </div>
 #헬스케어 #의료기기 #당뇨병 
 

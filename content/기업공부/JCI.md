@@ -1,15 +1,15 @@
 ﻿---
 title: "JCI"
 date: 2024-11-07T11:39:10+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 465
+weight: 466
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T02:39:10Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #산업재 #건축제품및장비 #스마트빌딩 #HVAC #빌딩자동화 #보안 #화재감지 
 

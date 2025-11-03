@@ -1,15 +1,15 @@
 ﻿---
 title: "WRB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:30+09:00
+lastmod: 2025-11-03T21:14:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 972
+weight: 973
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:33Z" />
 </div>
 #손해보험 #상업보험 #재보험 #전문보험 #위험관리 #맞춤형보험 #중견기업전문 #보험언더라이팅 #자산운용 #보험기술혁신 #직접판매 #특수보험 #보험포트폴리오다각화
 

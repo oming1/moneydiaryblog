@@ -1,15 +1,15 @@
 ﻿---
 title: "KHC"
 date: 2024-12-19T12:00:20+09:00
-lastmod: 2025-10-31T06:43:26+09:00
+lastmod: 2025-11-03T21:14:25+09:00
 type: docs
 sidebar:
   open: false
-weight: 485
+weight: 486
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-19T03:00:20Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:25Z" />
 </div>
 #식품 #필수소비재 
 

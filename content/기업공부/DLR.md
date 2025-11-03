@@ -1,15 +1,15 @@
 ﻿---
 title: "DLR"
 date: 2024-11-07T10:16:20+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 283
+weight: 284
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-07T01:16:20Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #전문리츠 #부동산 #리츠 #데이터센터 #클라우드 
 

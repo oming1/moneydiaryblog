@@ -1,15 +1,15 @@
 ﻿---
 title: "FORTY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-31T06:43:24+09:00
+lastmod: 2025-11-03T21:14:23+09:00
 type: docs
 sidebar:
   open: false
-weight: 349
+weight: 350
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:23Z" />
 </div>
 #포뮬라시스템즈 #FORTY #IT서비스 #소프트웨어개발 #아웃소싱 #이스라엘테크 #글로벌IT #컨설팅 #클라우드솔루션 #디지털전환 #엔터프라이즈소프트웨어 #IT인프라 #사이버보안 #빅데이터 #AI통합 #금융IT #헬스케어솔루션 #자회사네트워크 #글로벌확장 #혁신기술 #비즈니스인텔리전스 #클라우드마이그레이션 #소프트웨어엔지니어링 #디지털서비스 #지속가능IT #글로벌아웃소싱 #테크홀딩스 #IT컨설턴시 #데이터관리 #엔터프라이즈모빌리티 #이스라엘 
 

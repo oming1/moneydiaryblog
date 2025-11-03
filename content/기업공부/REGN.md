@@ -1,15 +1,15 @@
 ﻿---
 title: "REGN"
 date: 2024-09-06T15:11:47+09:00
-lastmod: 2025-10-31T06:43:29+09:00
+lastmod: 2025-11-03T21:14:29+09:00
 type: docs
 sidebar:
   open: false
-weight: 740
+weight: 741
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-06T06:11:47Z" />
-  <meta property="article:modified_time" content="2025-10-30T21:43:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:14:29Z" />
 </div>
 #헬스케어 #바이오테크
 

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf6499ab9585778",
+        "id": "9a3a0b5d6102844c",
         "type": "tabs",
         "children": [
           {
-            "id": "91bb8787f6b47c03",
+            "id": "ee792c82524026c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Earning/CIFR/CIFR 2025년 3분기 재무 하이라이트.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "CIFR 2025년 3분기 재무 하이라이트"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CIFR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +193,15 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "91bb8787f6b47c03",
+  "active": "ee792c82524026c9",
   "lastOpenFiles": [
+    "content/Earning/CIFR/_index.md",
+    "content/Earning/CIFR/CIFR 2025년 3분기 재무 하이라이트.md",
+    "코드_11.03.md",
+    "content/Daily시황정리/2025년/08월/2025-08-30 미국 시황 정리.md",
+    "content/기업공부/CIFR.md",
+    "content/Earning/CIFR",
+    "content/기업공부/ABC.md",
     "코드/코드_10.24.md",
     "README.md",
     "content/Daily시황정리/2025년/11월/2025-11-01 미국 시황 정리.md",
@@ -206,12 +227,6 @@
     "content/기업공부/ACHR.md",
     "content/기업공부/ABNB.md",
     "static/images/Pasted image 20251030212422.png",
-    "content/Daily시황정리/2025년/01월/2025-01-23 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/01월/2025-01-18 미국시황 정리.md",
-    "content/Daily시황정리/2025년/01월/2025-01-11 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/03월/2025-03-21 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/06월/2025-06-19 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/09월/2025-09-18 미국 시황 정리.md",
     "static/images/Pasted image 20251029064930.png",
     "static/images/Pasted image 20251029064906.png",
     "static/images/Pasted image 20251029064838.png",
@@ -225,7 +240,6 @@
     "산업-테마공부/1.경제/매크로/5.채권/☆  Report _문홍철의 Concise/2024",
     "산업-테마공부/1.경제/매크로/2.고용/미국 노동부 JOLTs/Report/2024",
     "산업-테마공부/1.경제/매크로/3.금리/FED/FOMC/Report/2024/8월",
-    "산업-테마공부/2.산업/유통,도소매, 개인생활용품 산업/종목/롯데하이마트/2023",
-    "산업-테마공부/2.산업/유통,도소매, 개인생활용품 산업/종목/롯데하이마트/2022"
+    "산업-테마공부/2.산업/유통,도소매, 개인생활용품 산업/종목/롯데하이마트/2023"
   ]
 }
