@@ -19,7 +19,7 @@ weight: 961
 - **Industry(산업)**: Banks - Diversified(다각화된 은행, 투자은행)
 
 ## 영위 사업
-{{< adsense-infeed >}}
+
 
 Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매 은행 서비스, 자산 관리, 모기지 대출 및 투자 서비스를 제공합니다. 고객층은 개인, 기업 및 기관으로 다양합니다.
 
@@ -31,7 +31,7 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
     - **역할**: 최종 소비자에게 금융 서비스 제공
     - **주요 기업**:
 
-{{< adsense-infeed >}}
+
 
         - JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - Bank of America (미국, [BAC](/company-analysis/bac/))
@@ -46,18 +46,18 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 
 ## 밸류체인
-{{< adsense-infeed >}}
+
 
 - **소매 은행 서비스**:
     
     - 개인 및 기업 고객을 위한 예금 계좌, 대출 및 카드 상품을 제공합니다.
     - 대표 기업:
 
-{{< adsense-infeed >}}
+
 
         - Bank of America (미국, [BAC](/company-analysis/bac/)) - 소매 금융 서비스
         - Citibank (미국, [C](/company-analysis/c/)) - 글로벌 금융 서비스
-{{< adsense-infeed >}}
+
 
 - **자산 관리**:
     
@@ -68,7 +68,7 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
         - Fidelity Investments (미국, 비상장) - 종합 투자 서비스
 
 ## 주요 제품
-{{< adsense-infeed >}}
+
 
 - **모기지 대출**: 주택 구매를 위한 대출 상품으로 사용됩니다.
     
@@ -77,11 +77,11 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-{{< adsense-infeed >}}
+
 
 ## 주요 판매 국가
 
-{{< adsense-infeed >}}
+
 
 Wells Fargo는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
 
@@ -94,7 +94,7 @@ Wells Fargo는 미국을 주요 시장으로 하며, 유럽과 아시아에서�
 
 Wells Fargo는 미국 내 은행 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
 
-{{< adsense-infeed >}}
+
 Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매 은행 서비스, 자산 관리, 모기지 대출 및 투자 서비스를 제공합니다. 고객층은 개인, 기업 및 기관으로 다양합니다.
 
 ## 전방/후방 산업

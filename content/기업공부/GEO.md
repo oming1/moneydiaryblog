@@ -19,7 +19,7 @@ weight: 371
 - **Industry(산업)**: Security & Protection Services(보안 및 보호 서비스)
 
 ## 영위 사업
-{{< adsense-infeed >}}
+
 
 The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하는 회사로, 미국 및 국제적으로 교정, 재활 및 재입소 서비스를 제공합니다. 이 회사는 정부와 계약을 통해 다양한 범죄자 관리 프로그램을 운영하며, 범죄 예방 및 재활 프로그램에 중점을 두고 있습니다.
 
@@ -27,7 +27,7 @@ The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하�
 
 - **전방 산업 (Downstream Industry)**:
 
-{{< adsense-infeed >}}
+
 
     - **핵심 산업**: 교정 및 구금 서비스
     - **역할**: 최종 소비자에게 교정 및 재입소 관리 제공
@@ -42,7 +42,7 @@ The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하�
     - **역할**: GEO Group의 서비스에 필요한 법적 및 정책적 지원 제공
     - **주요 기업**:
 
-{{< adsense-infeed >}}
+
 
         - Securitas AB (스웨덴, SECUB) - 보안 서비스 제공
         - Allied Universal (미국, 비상장) - 보안 서비스 제공
@@ -58,13 +58,13 @@ The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하�
         - The GEO Group (미국, [GEO](/company-analysis/geo/)) - 자체 운영 시설
 
 - **재활 프로그램**:
-{{< adsense-infeed >}}
+
 
     - 범죄자의 재활을 위한 프로그램과 서비스를 제공합니다.
     - 대표 기업:
         
         - Management & Training Corporation (미국, 비상장) - 교육 및 훈련 프로그램 제공
-{{< adsense-infeed >}}
+
 
 ## 주요 제품
 

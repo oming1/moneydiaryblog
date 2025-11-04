@@ -11,10 +11,24 @@
             "id": "cdf13c337a99d2c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "코드/코드_11.03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "코드_11.03"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{{< adsens",
+                "query": "adsense-infee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +84,7 @@
               "title": "bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +193,24 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ba266883493ccdf8",
+  "active": "f9d5df884ef589ef",
   "lastOpenFiles": [
+    "코드/통합 코드(광고+시간등)_11.04.md",
+    "코드/코드_11.03.md",
+    "코드/광고추가 코드.md",
+    "content/Daily시황정리/2025년/05월/2025-05-03 미국 시황 정리.md",
+    "static/images/2025-10-29 미국 시황 정리.md",
+    "content/기업공부/BKNG.md",
+    "content/기업공부/ABBV.md",
+    "content/기업공부/BYD.md",
+    "content/기업공부/CARR.md",
+    "content/기업공부/GSAT.md",
+    "content/기업공부/GEO.md",
+    "content/기업공부/PL.md",
+    "content/기업공부/WFC.md",
+    "content/기업공부/OCDO.md",
+    "content/기업공부/AUTO.md",
+    "content/산업-테마공부/02.산업/로봇 산업/로봇.md",
     "content/투자아이디어/아이디어 스케치/엔비디아의 어두운 그림자, 순환 투자로 매출을 부풀리고 있다는 의혹.md",
     "content/투자아이디어/아이디어 스케치/미국 금리 하락과 모기지 금리 하락시 투자 아이디어.md",
     "content/투자아이디어/아이디어 스케치/교과서적인 매크로 상황별 투자 아이디어.md",
@@ -192,22 +221,6 @@
     "content/Daily시황정리/2025년/11월/2025-11-01 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/_index.md",
     "content/Daily시황정리/2025년/10월/2025-10-31 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/10월/2025-10-30 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/10월/2025-10-29 미국 시황 정리.md",
-    "content/Earning/ORCL/_index.md",
-    "content/Earning/PLTR/Palantir Technologies (PLTR) 2025년 3분기 실적 요약.md",
-    "코드/통합 코드(광고+시간등)_11.04.md",
-    "코드/광고추가 코드.md",
-    "코드/코드_11.03.md",
-    "content/기업공부/AEHR.md",
-    "content/기업공부/AMZN.md",
-    "content/기업공부/AMD.md",
-    "content/Daily시황정리/과거/2024/09월/2024-09-04.md",
-    "company-analysis/amd 2.md",
-    "company-analysis/amd 1.md",
-    "content/Daily시황정리/과거/2024/09월/2024-09-27.md",
-    "content/Daily시황정리/과거/2024/09월/2024-09-07.md",
-    "content/Daily시황정리/과거/2024/09월/2024-09-05.md",
     "company-analysis",
     "static/images/Pasted image 20251104064920.png",
     "static/images/Pasted image 20251104064818.png",
