@@ -1,14 +1,15 @@
 ﻿---
 title: "YHC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 991
----<div style="display:none">
+weight: 992
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #LQRHouse #YHC #알코올마케팅 #주류전자상거래 #디지털마케팅 #와인증류주 #CWSpirits #온라인주류판매 #주류브랜드개발 #알코올플랫폼 #SWOL테킬라 #주류유통 #비트코인마이닝 #암호화폐전략 #디지털자산 #주류산업 #이커머스 #마케팅협력 #주류마켓플레이스 #펜니스톡 #소형주 #성장주 #NASDAQ #주류브로커리지 #온라인알코올 #주류배급
 
@@ -80,11 +81,17 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 
 **CWSpirits.com 이커머스 플랫폼:** 알코올 전문 온라인 마켓플레이스 운영 기술
 
+{{< adsense-infeed >}}
+
 **디지털 마케팅 자동화:** SEO 최적화 및 소셜 미디어 마케팅 자동화 시스템
 
 **브랜드 개발 기술:** 제한된 배치 스피리츠 브랜드 개발 및 마케팅 노하우
 
+{{< adsense-infeed >}}
+
 **암호화폐 통합 기술:** 비트코인 결제 시스템 및 디지털 자산 관리 플랫폼
+
+{{< adsense-infeed >}}
 
 **공급망 관리:** 국제 유통 네트워크 관리 및 재고 최적화 시스템
 
@@ -137,11 +144,9 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 ## 주요 제품
 
 **SWOL 테킬라:** 자체 개발 프리미엄 테킬라 브랜드 (캐나다, 영국, 그리스, 태국 진출)
-
 **CWSpirits.com 플랫폼:** 온라인 주류 마켓플레이스 (다양한 브랜드 판매)
 
 **디지털 마케팅 서비스:** 주류 브랜드 전문 마케팅 서비스 (주요 수익원)
-
 **브랜드 라이선싱:** 제3자 브랜드 라이선싱 및 독점 유통권
 
 ---
@@ -151,7 +156,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 **알코올 원료:** 테킬라 제조를 위한 아가베, 기타 주류 원료
 
 **포장재:** 병, 라벨, 박스 등 주류 포장재
-
 **기술 인프라:** 웹 플랫폼 운영, 서버 비용, 소프트웨어 라이선스
 
 **마케팅 비용:** 디지털 광고비, 인플루언서 협력비, 콘텐츠 제작비
@@ -161,7 +165,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 ## 주요 고객 
 
 **유통 파트너:**
-
 - Of The Earth Distribution (캐나다, 아시아 진출)
 - Access Fulfillment (유럽 시장)
 - LCBO - Liquor Control Board of Ontario (캐나다 온타리오주)
@@ -283,6 +286,8 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 - 기관 투자자: 약 10%
 - 내부자: 약 60% (Robert Leshner 포함)
 - 개인 투자자: 약 30%
+
+{{< adsense-infeed >}}
 
 ---
 

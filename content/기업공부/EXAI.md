@@ -1,14 +1,15 @@
 ﻿---
 title: "EXAI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-17T21:21:35+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 330
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 331
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-17T12:21:35Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어 #AI #바이오테크
 
@@ -19,27 +20,32 @@ Exscientia는 인공지능(AI)을 활용한 정밀 의약품 개발 기업([헬�
 - 정밀 의학 플랫폼 운영
 - 종양학 중심의 내부 파이프라인 개발
 
+{{< adsense-infeed >}}
+
 ## 핵심 기술
 
 - CodeEvolver® 단백질 엔지니어링 플랫폼
 - 생성형 AI를 활용한 DesignStudio
 - AutomationStudio를 통한 자동화된 실험
-
 ## 주요 제품/서비스
+
+{{< adsense-infeed >}}
 
 1. AI 기반 약물 설계 플랫폼
 2. 정밀 의학 솔루션
 3. 종양학 중심의 신약 파이프라인
-
 ## 시장 현황
 
 - 2023년 매출: 약 2천만 달러
 - 주요 시장: 미국(71.6%), 프랑스(25.3%), 유럽(3.1%)
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. AWS와 협력하여 AI 기반 신약 개발 플랫폼 출시 (2024년)
 2. Recursion Pharmaceuticals와 합병 완료 (2024년)
 3. 2024년 2분기 실적 발표
-
 Exscientia는 AI와 자동화 기술을 결합하여 신약 개발 과정의 효율성을 높이고 비용을 절감하는 것을 목표로 하고 있습니다

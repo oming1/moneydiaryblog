@@ -1,14 +1,15 @@
 ﻿---
 title: "ONON"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-20T09:16:46+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 660
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 661
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-20T00:16:46Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #임의소비재 #스포츠웨어및스포츠상품 
 
@@ -18,6 +19,8 @@ weight: 660
 - **Industry**: 스포츠웨어 및 스포츠 용품 (Sportswear & Sports Equipment)
 
 #### 영위사업
+
+{{< adsense-infeed >}}
 
 On Holding AG는 고성능 러닝, 아웃도어, 트레이닝, 일상 활동 및 테니스를 위한 운동화, 의류 및 액세서리를 개발하고 유통하는 회사입니다. 이 회사는 독립 소매업체 및 유통업체, 온라인 및 자체 매장을 통해 제품을 제공합니다.
 
@@ -31,18 +34,19 @@ On Holding AG는 고성능 러닝, 아웃도어, 트레이닝, 일상 활동 및
     - **제조**: 원자재 공급업체 및 제조업체 (예: BASF, Dow Inc.)
     - **물류**: 물류 및 유통 서비스 제공업체 (예: DHL, FedEx)
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원자재 조달**: 원자재 공급업체 (예: BASF, Dow Inc.)
 - **제조 및 생산**: 운동화 및 의류 제조업체 (예: On 자체 생산)
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 독립 소매업체, 온라인 플랫폼)
-
 #### 주요제품
-
 - **운동화**: Cloud, Cloud X, Cloudswift, Cloudmonster 등
 - **의류**: 고성능 러닝 및 트레이닝 의류
 - **액세서리**: 스포츠 용품 및 액세서리
-
 #### 주요 판매국가
 
 - **미국**: 주요 매출 국가
@@ -50,7 +54,6 @@ On Holding AG는 고성능 러닝, 아웃도어, 트레이닝, 일상 활동 및
 - **스위스**: 주요 매출 국가
 
 #### 경쟁업체
-
 - **Nike (US, [NKE](/company-analysis/nke/))**: 다양한 스포츠웨어 및 운동화
 - **Adidas (DE, [ADS](/company-analysis/ads/))**: 다양한 스포츠웨어 및 운동화
 - **Under Armour (US, [UAA](/company-analysis/uaa/))**: 고성능 스포츠웨어 및 운동화

@@ -1,14 +1,15 @@
 ﻿---
 title: "Best Buy Q2 2026 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #BBY #미국주식 
 
@@ -25,6 +26,8 @@ weight: 2
 ---
 ## 주요 성장 품목
 
+{{< adsense-infeed >}}
+
 1. **Nintendo Switch 2**:
     - 신제품 출시로 게임 부문 매출 급증.
     - 관련 액세서리(헤드셋, 컨트롤러 등)와 함께 높은 수요를 기록.
@@ -37,6 +40,8 @@ weight: 2
 
 ---
 ## 전략적 이니셔티브
+
+{{< adsense-infeed >}}
 
 - **[Best Buy Marketplace](/industry-study/best-buy-marketplace/)**:
     - 온라인 제품 수 6배 확대.
@@ -53,12 +58,10 @@ weight: 2
     - 게임 및 컴퓨터 제품군의 비중 확대에 따른 마진 압박.
 - **관세 불확실성**:
     - 관세 상승으로 인한 비용 증가를 벤더와 협력하여 최소화.
-
 ---
 ## 경쟁사 판매 전략 비교
 
 ### 1. **[RH](/company-analysis/rh/) (Restoration Hardware)**
-
 - **주요 사업 현황**: 고급 가구 및 라이프스타일 소매업체
     - 매출: $8.14억 (2026년 1분기, 전년 대비 +12%)
     - 순이익: $804만 (전년 동기 순손실에서 흑자 전환)
@@ -67,7 +70,6 @@ weight: 2
     - **Waterworks 브랜드 통합**: 고급 욕실 및 주방 제품을 RH 플랫폼에 추가
     - **인테리어 디자인 서비스 강화**: RH Interior Design Studio를 통해 고급 소비자 타겟팅
     - **레스토랑 및 카페 포함**: 매장 내 고객 경험 극대화.
-
 ### 2. **Wayfair ([W](/company-analysis/w/))**
 
 - **주요 사업 현황**: 온라인 가구 및 홈 데코 플랫폼

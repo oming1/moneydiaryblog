@@ -1,14 +1,15 @@
 ﻿---
 title: "EH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 305
----<div style="display:none">
+weight: 306
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #자율항공기 #도심항공교통 #전기수직이착륙기 #중국기업 #항공모빌리티 #반도체 #정보기술 #UAM #항공기부품 #eVTOL
 
@@ -19,6 +20,8 @@ weight: 305
 ## 산업
 
 항공기 부품(Aerospace - Defense)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
@@ -42,8 +45,9 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 5. 파트너십: 글로벌 기업들과의 전략적 제휴를 통한 시장 확대
 6. 비용 효율성: 중국의 제조 인프라를 활용한 경쟁력 있는 생산 비용
 
-## 전방/후방산업
+{{< adsense-infeed >}}
 
+## 전방/후방산업
 1. 후방산업:
     
     - 배터리 제조: [CATL](/company-analysis/catl/), [BYD](/company-analysis/byd/)
@@ -65,7 +69,6 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 5. 운영 및 서비스: EHang 및 파트너사
 
 ## 주요제품
-
 1. EH216-S (유인 자율비행 eVTOL, 승객 운송용)
 2. EH216-L (무인 물류용 eVTOL)
 3. VT-30 (장거리 eVTOL)
@@ -93,7 +96,6 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 3. Volocopter (비상장)
 4. Archer Aviation (US, [ACHR](/company-analysis/achr/))
 5. Vertical Aerospace (US, [EVTL](/company-analysis/evtl/))
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, EHang은 중국 내 eVTOL 시장에서 선도적 위치를 차지하고 있습니다.

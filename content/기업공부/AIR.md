@@ -1,14 +1,15 @@
 ﻿---
 title: "AIR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 43
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #인공위성 #항공기제조 #항공우주및방위 #우주선 #항공기 #방산 #항공 #우주 
 
@@ -37,7 +38,6 @@ Airbus SE는 유럽의 다국적 항공기업으로, 민간 항공기, 군용기
     - **핵심 산업**: 원자재 및 부품 공급
     - **역할**: Airbus의 제품에 필요한 자재 및 부품 공급
     - **주요 기업**:
-        
         - Safran (프랑스, [SAF](/industry-study/saf/)) - 항공기 엔진 및 부품 제조
         - Rolls-Royce (영국, RR ) - 항공기 엔진 제조
 
@@ -59,16 +59,18 @@ Airbus SE는 유럽의 다국적 항공기업으로, 민간 항공기, 군용기
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **A320 패밀리**: 단일 통로 항공기로 가장 많이 판매된 모델입니다.
-    
+
+{{< adsense-infeed >}}
+
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
 - **A350 XWB**: 최신 기술이 적용된 장거리 광폭항공기입니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
-
 Airbus는 전 세계적으로 운영되며, 특히 유럽, 북미 및 아시아 태평양 지역에서 강력한 시장 점유율을 보유하고 있습니다.
 
 ## 경쟁업체

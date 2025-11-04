@@ -1,14 +1,15 @@
 ﻿---
 title: "HTFL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 421
----<div style="display:none">
+weight: 422
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #심혈관질환 #의료기술 #AI #3D모델링 #비침습적검사 #심장CT #진단솔루션 #헬스케어 #정밀의료 #환자맞춤형 #의료영상 #데이터분석 #의료혁신 #시장점유율  #의료기기 #비용효율성 #의사결정지원 #디지털헬스 #전문가시스템
 
@@ -53,7 +54,6 @@ HeartFlow, Inc.는 2010년에 설립된 [심혈관 질환 진단 및 치료를 �
 - **고객 유형별 수익 구조:**
     - 병원 및 클리닉: 80%
     - 연구 기관: 20%
-
 - **지역별 매출 분포:**
     - 북미: 70%
     - 유럽: 20%
@@ -109,6 +109,8 @@ HeartFlow, Inc.는 2010년에 설립된 [심혈관 질환 진단 및 치료를 �
 
 3단계: **결과 제공 및 의사결정 지원**
 
+{{< adsense-infeed >}}
+
 - 분석 결과를 의료진에게 제공하여 치료 결정을 지원합니다.
 
 ---
@@ -130,11 +132,12 @@ HeartFlow, Inc.는 2010년에 설립된 [심혈관 질환 진단 및 치료를 �
 ### 밸류체인
 
 **부품 공급 단계:**
-
 - **GE Healthcare(US):** 의료 영상 장비 (시장점유율 25%, 고품질 CT 장비 공급)
 - **Siemens Healthineers(DE):** 의료 영상 장비 (시장점유율 20%, 다양한 진단 장비 공급)
 
 **제조 및 조립 단계:**
+
+{{< adsense-infeed >}}
 
 - **HeartFlow(US, HF):** 심혈관 진단 솔루션 제공
 
@@ -147,7 +150,9 @@ HeartFlow, Inc.는 2010년에 설립된 [심혈관 질환 진단 및 치료를 �
 ### 주요 제품
 
 - **HeartFlow FFRct 분석:**
-    
+
+{{< adsense-infeed >}}
+
     - **설명:** 비침습적 심혈관 진단 솔루션
     - **매출비중:** 70% (2023년)
     - **주요 경쟁사:** **Cardiovascular Systems, Inc.** CSII
@@ -215,7 +220,6 @@ HeartFlow, Inc.는 2010년에 설립된 [심혈관 질환 진단 및 치료를 �
 ---
 
 ### 기업 특징 및 성장성
-
 - **매출 성장률:** 3년 CAGR 20.0%
 - **영업 이익률:** 12.0% (2023년)
 - **주요 성장 동력:** 심혈관 질환 진단 기술 수요 증가

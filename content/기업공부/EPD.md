@@ -1,14 +1,15 @@
 ﻿---
 title: "EPD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 318
----<div style="display:none">
+weight: 319
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #천연가스 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 
@@ -19,6 +20,8 @@ weight: 318
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
@@ -39,7 +42,6 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 4. 재무 건전성: 강력한 신용등급과 유동성 유지
 5. 지속적인 성장: 전략적 인수와 유기적 성장 프로젝트를 통한 확장
 6. 배당 성장: 27년 연속 배당 증가 기록
-
 ## 전방/후방산업
 
 1. 후방산업:
@@ -70,6 +72,8 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 4. 석유화학 제품
 5. 정제 제품
 
+{{< adsense-infeed >}}
+
 ## 주요고객
 
 1. 석유 및 가스 생산 기업
@@ -92,17 +96,19 @@ Enterprise Products Partners는 주로 북미 시장에서 사업을 영위하�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Enterprise Products Partners는 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. Piñon Midstream 인수 완료 (2024년)
 2. TW Products System 2단계 완료 (2024년)
 3. 1PointFive와 탄소 포집 및 저장 프로젝트 협력 (2024년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 영향 극복 및 실적 회복 (2022-2023년)
-
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. The Vanguard Group, Inc.: 11.62%
 2. BlackRock Fund Advisors: 7.89%

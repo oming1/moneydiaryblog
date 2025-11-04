@@ -1,14 +1,15 @@
 ﻿---
 title: "BBY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 122
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #베스트바이 #BestBuy #소비자가전 #가전유통 #전자제품리테일 #옴니채널 #이커머스 #매장체험 #GeekSquad #설치서비스 #수리서비스 #매치프라이스 #프라이스가드 #멤버십구독 #TotalTech #모바일셀 #컴퓨터액세서리 #홈시어터 #스마트홈 #헬스케어기기 #게이밍 #콘솔판매 #소모품교체 #리모컨지원 #케이블관리 #공식리셀러 #고객충성도 #주택시장연동 #경기민감소비
 
@@ -18,7 +19,6 @@ weight: 122
 
 섹터(Sector): Consumer Discretionary – 소비자 순환 
 산업(Industry): Specialty Retail – 전문 소매 (가전제품·전자제품)
-
 ---
 
 ### 영위사업
@@ -47,11 +47,9 @@ weight: 122
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
 - **상품 매출(약 80%):** 전자제품 및 액세서리 유통 수익
 
 - **서비스 매출(약 20%):** 설치·수리·멤버십·연장 보증 수익
-
 - **고객 유형별:**  
     • 일반 소비자(리테일)  
     • 중소기업·교육·공공기관(비즈니스 솔루션)
@@ -76,6 +74,8 @@ weight: 122
 - **TotalTech 멤버십:** 고정 반복 매출 기반과 고객 충성도 강화
 - **공식 제조사 파트너십:** Samsung, Apple, Microsoft 등과 독점 협력
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -90,12 +90,16 @@ weight: 122
 
 ### 제조 공정
 
+{{< adsense-infeed >}}
+
 직접 제조 공정 없음. 대신 전방위 공급망·제조사 파트너로부터 제품 소싱 후:
 
 1. 글로벌 벤더(아시아·미주·유럽)에서 대량 구매
 2. 미국·캐나다 물류센터로 입고
 3. DC(분배센터) → 매장·온라인 주문별 풀필먼트
 4. 화이트글러브 배송·설치(GeekSquad) 또는 고객 픽업
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -125,7 +129,6 @@ weight: 122
 - 스마트폰·웨어러블: Apple iPhone·Watch, Samsung Galaxy
 - 대형가전: Whirlpool·LG 냉장고·세탁기
 - 게이밍: PlayStation·Xbox·Nintendo, PC 게이밍 기기
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -155,7 +158,6 @@ weight: 122
 - Target(미국, [TGT](/company-analysis/tgt/)) – 소비자 가전 중점 소매
 - Costco(미국, [COST](/company-analysis/cost/)) – 멤버십·대량 판매
 - BestBuy Canada(캐나다 내 경쟁)
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -178,6 +180,8 @@ weight: 122
 - **2022년:** 팬데믹 이후 온라인 주문 급증과 매장 픽업·배송 역량 강화
 - **2023년:** TotalTech 멤버십 론칭, 프리미엄 서비스 모델 전환
 - **2024년:** 공급망 정상화 및 인플레이션 압박 완화, 매장 디지털 체험 강화
+
+{{< adsense-infeed >}}
 
 ---
 

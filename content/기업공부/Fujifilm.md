@@ -1,14 +1,15 @@
 ﻿---
 title: "Fujifilm"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-11T10:53:07+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 358
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 359
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-11T01:53:07Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #바이오테크 #헬스케어 #CDMO #일본 
 
@@ -21,17 +22,19 @@ weight: 358
 
 Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하는 [CDMO](/industry-study/cdmo/) (Contract Development and Manufacturing Organization)로, 생물학적 약물의 발견, 개발 및 제조를 지원합니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **생물학적 발견** (Biologics Discovery)
 - **개발 및 제조** (Development and Manufacturing)
 - **첨단 치료제** (Advanced Therapies)
 - **품질 관리** (Quality Control)
-
 #### 전방/후방산업 (Upstream/Downstream Industries)
-
 - **전방산업:** 제약 및 바이오테크 기업 (신약 개발 및 상업화 지원)
     - 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 - **후방산업:** 화학 물질 및 원료 공급업체 (연구 및 제조에 필요한 원료 제공)
     - 주요 기업: BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인 (Value Chain)
 
@@ -49,13 +52,16 @@ Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하�
 - **세포 및 유전자 치료제** (Cell and Gene Therapies)
 - **바이러스 벡터 기반 백신** (Viral Vector-Based Vaccines)
 
-#### 주요 판매국가 (Major Sales Countries)
+{{< adsense-infeed >}}
 
+#### 주요 판매국가 (Major Sales Countries)
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **일본:** 본사 위치 및 주요 시장
 
 #### 경쟁업체 (Competitors)
+
+{{< adsense-infeed >}}
 
 - **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공

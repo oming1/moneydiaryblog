@@ -1,14 +1,15 @@
 ﻿---
 title: "FSLR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 353
----<div style="display:none">
+weight: 354
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #테크 #재생에너지 #테크 #태양광모듈 #방막형태양광모듈 #카드뮴텔룰라이드 #태양광 #PV모듈 #박막태양전지 #CdTe #재생에너지 #수직계열화 #글로벌제조 #모듈재활용 #탄소발자국 #Series6Plus #Series7TR1 #EPEAT  #청정에너지
 
@@ -43,6 +44,8 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 5. 글로벌 입지: 전 세계적으로 다양한 시장에서 사업을 영위하며, 특히 유틸리티 규모의 프로젝트에서 강점을 보입니다.
 6. 재무 건전성: 안정적인 재무구조를 바탕으로 지속적인 성장 투자가 가능합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -57,8 +60,9 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 - 유리 제조: Corning(US, [GLW](/company-analysis/glw/)), AGC Inc.(JP, 5201)
 - 장비 제조: Applied Materials(US, [AMAT](/company-analysis/amat/)), Meyer Burger(CH, MBTN)
 
-## 밸류체인
+{{< adsense-infeed >}}
 
+## 밸류체인
 1. R&D: First Solar(US, [FSLR](/company-analysis/fslr/)) (CdTe 기술 개발)
 2. 원자재 조달: 5N Plus(CA, VNP) (텔루륨 공급)
 3. 모듈 제조: First Solar(US, [FSLR](/company-analysis/fslr/)) (CdTe 모듈 생산)
@@ -83,12 +87,13 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 - Cypress Creek Renewables - 미국 내 태양광 프로젝트
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 기업 RE100 달성을 위한 태양광 도입
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국, 인도, 유럽(독일, 프랑스 등), 일본, 호주
 
 ## 경쟁업체
-
 - JinkoSolar(CN, [JKS](/company-analysis/jks/)) - 결정질 실리콘 태양전지
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/)) - 다결정 및 단결정 실리콘 모듈
 - LONGi Green Energy Technology(CN, 601012) - 단결정 실리콘 웨이퍼 및 모듈
@@ -113,7 +118,6 @@ First Solar는 2023년 기준 전 세계 태양광 모듈 시장에서 약 3-4%�
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
 ## 관련 ETF
 
 - Invesco Solar ETF - TAN

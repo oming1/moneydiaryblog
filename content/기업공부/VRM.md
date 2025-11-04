@@ -1,14 +1,15 @@
 ﻿---
 title: "VRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 937
----<div style="display:none">
+weight: 938
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #온라인중고차 #이커머스 #자동차금융 #AI분석 #디지털플랫폼 #홈딜리버리 #무haggle가격정책 #재고관리 #데이터과학 #고객경험 #차량검사 #재조정 #물류네트워크 #자동차소매 #디지털전환 #자동차산업 #중고차시장 #자동차딜러 #자동차유통 #임의소비재 #온라인중고차판매플랫폼 #중고차 
 
@@ -73,18 +74,18 @@ Vroom의 주요 고객은 온라인으로 중고차를 구매하거나 판매하
 Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
 1. Carvana Co.(US, [CVNA](/company-analysis/cvna/)) - 온라인 중고차 판매
 2. CarMax, Inc.(US, [KMX](/company-analysis/kmx/)) - 중고차 소매 및 도매
 3. AutoNation, Inc.(US, [AN](/company-analysis/an/)) - 자동차 소매 및 서비스
 4. Shift Technologies, Inc.(US, SFT) - 온라인 중고차 플랫폼
 5. TrueCar, Inc.(US, TRUE) - 디지털 자동차 마켓플레이스
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, 2022년 1분기 기준 Vroom은 미국 중고차 시장에서 약 3%의 점유율을 보유했던 것으로 보고되었습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. eCommerce 및 중고차 딜러십 사업 중단 발표 (2024)
 2. United Auto Credit Corporation(UACC) 인수 (2022)
@@ -100,8 +101,9 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 4. T. Rowe Price Associates, Inc. (7.85%)
 5. Invesco Ltd. (5.30%)
 
-## 관련 ETF
+{{< adsense-infeed >}}
 
+## 관련 ETF
 1. First Trust NASDAQ Transportation ETF - FTXR
 2. Invesco S&P SmallCap Consumer Discretionary ETF - PSCD
 3. First Trust Consumer Discretionary AlphaDEX Fund - FXD

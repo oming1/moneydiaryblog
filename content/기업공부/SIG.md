@@ -1,14 +1,15 @@
 ﻿---
 title: "SIG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 795
----<div style="display:none">
+weight: 796
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -19,11 +20,14 @@ weight: 795
 섹터: 임의소비재
 산업: 특수소매
 
-## 영위사업
+{{< adsense-infeed >}}
 
+## 영위사업
 Signet Jewelers Limited(NYSE: SIG)는 세계 최대의 다이아몬드 주얼리 소매업체입니다. 주요 사업 부문은 북미, 국제, 기타로 나뉩니다. 북미 부문에서는 Kay, Zales, Jared, Diamonds Direct, Banter by Piercing Pagoda, Rocksbox 등의 브랜드로 미국과 캐나다에서 오프라인 매장과 온라인 판매를 운영합니다. 
 
 국제 부문에서는 영국, 아일랜드, 채널 제도에서 H. Samuel과 Ernest Jones 브랜드로 매장을 운영합니다. 기타 부문은 원석 다이아몬드 구매 및 연마 사업을 포함합니다.최근 1년 내 주요 이슈로는 디지털 전환 가속화, 지속가능성 이니셔티브 강화, 그리고 Blue Nile과 Diamonds Direct 인수를 통한 사업 확장 등이 있습니다. 특히 온라인 판매 강화와 옴니채널 전략 구축에 주력하고 있으며, 고객 경험 개선을 위한 AI 기반 기술 도입도 진행 중입니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -44,13 +48,11 @@ Signet Jewelers의 핵심 경쟁력은 다음과 같습니다:
 - 소비자 소매: Amazon(US, [AMZN](/company-analysis/amzn/)), Walmart(US, [WMT](/company-analysis/wmt/))
 - 결혼 및 이벤트 산업: David's Bridal, The Knot Worldwide
 - 럭셔리 패션: LVMH(FR, MC), Kering(FR, KER)
-
 후방산업:
 
 - 다이아몬드 채굴: De Beers Group(Anglo American), ALROSA(RU, ALRS)
 - 귀금속 제련: Heraeus Group, Metalor Technologies
 - 보석 가공: Rosy Blue, KGK Group
-
 ## 밸류체인
 
 1. 원석 조달: De Beers Group(Anglo American), ALROSA(RU, ALRS) (다이아몬드 원석)
@@ -77,6 +79,8 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Tiffany & Co.(US, TIF) - 고급 주얼리
 - Pandora(DK, PNDORA) - 패션 주얼리
 - Richemont(CH, CFR) - 럭셔리 주얼리 및 시계
@@ -85,7 +89,6 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 - Cartier(Richemont) - 고급 주얼리 및 시계
 - Swarovski(AT, Swarovski) - 크리스탈 주얼리
 - Blue Nile(US, NILE) - 온라인 다이아몬드 주얼리
-
 ## 산업 내 글로벌 시장 점유율
 
 Signet Jewelers는 2024년 기준 글로벌 주얼리 시장에서 약 7%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 온라인 판매 강화와 M&A를 통해 시장 점유율을 꾸준히 확대해 왔습니다.
@@ -99,6 +102,8 @@ Signet Jewelers는 2024년 기준 글로벌 주얼리 시장에서 약 7%의 점
 - COVID-19 팬데믹 영향에서의 회복 및 실적 개선 (2022-2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - BlackRock (15.8%)
 - The Vanguard Group (11.2%)

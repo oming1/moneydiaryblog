@@ -1,14 +1,15 @@
 ﻿---
 title: "EUAD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 326
----<div style="display:none">
+weight: 327
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #관종
 
@@ -23,14 +24,17 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 - Airbus와 BAE Systems 같은 업계 리더들을 포함
     
 - 유럽 전역의 다양한 국가에 걸친 투자 포트폴리오
-    
 - 국가 안보와 글로벌 방위 시장에 중요한 전략적 산업에 대한 노출
     
 - 산업 수요, 정부 계약, 기술 혁신 등의 트렌드를 반영
 
 2025년 2월 28일 기준 AUM(운용자산)은 59.25백만 달러입니다[2](https://www.tipranks.com/etf/euad).
 
+{{< adsense-infeed >}}
+
 ## 유사한 ETF 10개
+
+{{< adsense-infeed >}}
 
 1. ITA iShares U.S. Aerospace & Defense ETF
     
@@ -39,11 +43,12 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 다우존스 U.S. 선별 항공우주 & 방위 지수 추적
         
     - 운용자산: 약 65억 달러[1](https://www.poems.com.sg/etf-screener/CBOEBZX-ITA/)
-        
+
+{{< adsense-infeed >}}
+
 2. [PPA](/industry-study/ppa/) Invesco Aerospace & Defense ETF
     
     - SPADE™ Defense 지수 기반
-        
     - 미국 방위, 국토안보, 항공우주 운영 관련 기업에 투자
         
     - 분기별로 재조정 및 재구성[2](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PPA)
@@ -57,9 +62,7 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 수정 동일 가중 지수 방식 사용[3](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xar.pdf)
         
 4. DFEN Direxion Daily Aerospace & Defense Bull 3X Shares
-    
     - 항공우주 & 방위 산업 3배 레버리지 ETF
-        
     - 높은 변동성과 위험을 동반한 단기 거래용 상품
         
     - 연간 운용보수: 0.97%[4](https://www.mutualfunds.com/etfs/dfen-direxion-dly-aerospace-def-bl-3x-shsetf/)
@@ -97,11 +100,12 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 9. XLI Industrial Select Sector SPDR Fund
     
     - 산업 섹터 전반에 투자하며, 방위산업 기업들도 포함
-        
     - S&P 500 산업 섹터 기업들에 대한 광범위한 노출 제공
         
 10. VIS Vanguard Industrials ETF
     
     - 산업 섹터 전반에 투자하는 ETF로, 방위산업 기업들도 포함
-        
+
+{{< adsense-infeed >}}
+
     - MSCI US Investable Market Industrials 25/50 지수 추적

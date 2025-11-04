@@ -1,14 +1,15 @@
 ﻿---
 title: "HWM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 429
----<div style="display:none">
+weight: 430
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #항공우주및방산 #자본재 #우주항공 #엔진 #항공기엔진 #가스터빈 #방산 
 
@@ -21,7 +22,6 @@ weight: 429
 
 - **Sector(산업섹터)**: Capital Goods(자본재)
 - **Industry(산업)**: Aerospace and Defense([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
-
 ## 영위 사업
 
 Howmet Aerospace는 항공기 엔진 및 구조물, 산업 가스 터빈, 그리고 상업용 항공기 및 [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/) 분야에 필요한 고급 금속 부품을 설계하고 제조합니다. 이 회사는 알루미늄, 티타늄 및 니켈 기반 합금과 같은 다양한 재료를 사용하여 제품을 생산합니다.
@@ -35,15 +35,18 @@ Howmet Aerospace는 항공기 엔진 및 구조물, 산업 가스 터빈, 그리
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Lockheed Martin (미국, [LMT](/company-analysis/lmt/))
     
 - **후방 산업 (Upstream Industry)**:
-    
     - **핵심 산업**: 원자재 공급 및 금속 가공
     - **역할**: Howmet의 제품 생산에 필요한 원자재 제공
     - **주요 기업**: Alcoa Corporation (미국, [AA](/company-analysis/aa/)), Nucor Corporation (미국, [NUE](/company-analysis/nue/))
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **부품 제조**:
-    
+
+{{< adsense-infeed >}}
+
     - Howmet은 항공기 엔진 부품과 구조물 부품을 제조하여 고객에게 제공합니다.
     - 대표 기업: General Electric Aviation (미국, [GE](/company-analysis/ge/)) - 경쟁 제품: 항공기 엔진 부품
     
@@ -63,8 +66,9 @@ Howmet Aerospace는 항공기 엔진 및 구조물, 산업 가스 터빈, 그리
     
     - 산업용 가스 터빈에 사용되는 부품으로, 에너지 효율성을 높입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
-
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 Howmet Aerospace는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
 

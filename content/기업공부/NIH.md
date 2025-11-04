@@ -1,14 +1,15 @@
 ﻿---
 title: "NIH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 614
----<div style="display:none">
+weight: 615
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 National Institutes of Health(NIH)는 미국 증시에 상장되어 있지 않은 미국 정부 기관입니다.
 
@@ -57,6 +58,8 @@ NIH는 직접적인 수익을 창출하는 기업이 아니라 정부 예산을 
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 제약 산업: NIH 연구를 기반으로 한 신약 개발 (Pfizer(US, [PFE](/company-analysis/pfe/)), Merck(US, [MRK](/company-analysis/mrk/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)))
     
 - 생명공학: NIH 발견을 상업화하는 바이오텍 기업 (Amgen(US, [AMGN](/company-analysis/amgn/)), Gilead Sciences(US, [GILD](/company-analysis/gild/)), Moderna(US, [MRNA](/company-analysis/mrna/)))
@@ -80,7 +83,6 @@ NIH는 직접적인 수익을 창출하는 기업이 아니라 정부 예산을 
 1. 연구 자금: NIH(연방 예산), 의회(연방 자금 승인)
     
 2. 연구 인프라: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)) (실험실 장비), Illumina(US, [ILMN](/company-analysis/ilmn/)) (유전체 분석 장비)
-    
 3. 기초 연구: NIH 인트라뮤럴 프로그램, 대학 연구소 (Harvard Medical School(Harvard Medical School), Stanford Medicine(Stanford Medicine))
     
 4. 중개 연구: 생명공학 회사 (Regeneron(US, [REGN](/company-analysis/regn/)) (항체 치료제 개발), BioNTech(US, [BNTX](/company-analysis/bntx/)) (mRNA 기술))
@@ -126,7 +128,6 @@ NIH의 주요 "고객"은 연구 보조금 수혜자와 연구 결과를 활용�
 7. 환자 및 일반 대중: 의학 연구 결과의 최종 수혜자
 
 ## 주요 판매국가
-
 NIH는 미국 정부 기관으로, 주로 미국 내 연구를 지원하지만 국제 연구 협력도 지원합니다. 미국이 주요 활동 국가이며, 연구 자금의 약 90%가 미국 내 기관에 배분됩니다.
 
 ## 경쟁업체
@@ -136,7 +137,9 @@ NIH는 정부 기관이므로 직접적인 경쟁자는 없지만, 유사한 역
 1. Medical Research Council UK(Medical Research Council UK): 영국의 의학 연구 지원 기관
     
 2. European Research Council(European Research Council): EU의 연구 지원 기관
-    
+
+{{< adsense-infeed >}}
+
 3. Japan Science and Technology Agency(Japan Science and Technology Agency): 일본의 과학기술 연구 지원 기관
     
 4. National Natural Science Foundation of China(National Natural Science Foundation of China): 중국의 과학 연구 지원 기관
@@ -158,9 +161,10 @@ NIH는 세계 최대의 생물의학 연구 자금 제공 기관으로, 2024년 
 1. 장애인을 건강 불평등 인구로 지정하는 정책 변경 발표 (2025년)
     
 2. 임무 선언문 변경 검토 시작 - 장애 감소 언급 제거 고려 (2025년)
-    
 3. 연방 정부 지속 결의(Continuing Resolution)에 따라 2025년 9월 30일까지 약 $486억 달러 규모의 예산 유지 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 4. 암 연구를 위한 캔서 문샷(Cancer Moonshot) 이니셔티브에 $14억 달러 의무 리소스 배정 (2024년)
     
 5. 국립 암 연구소(NCI)에 $7.16억 달러 추가 할당 (2024년)

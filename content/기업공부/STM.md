@@ -1,14 +1,15 @@
 ﻿---
 title: "STM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 834
----<div style="display:none">
+weight: 835
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #마이크로컨트롤러 #MCU #반도체 #전자부품 #자동차전자 #산업용전자 #IoT #센서 #전력반도체 #아날로그IC #MEMS #임베디드시스템 #스마트홈 #스마트시티 #공장자동화 #에너지관리 #유럽반도체 #정보기술 #반도체및반도체장비 #유럽 #자동차용전용IC #아날로그반도체
 
@@ -22,7 +23,11 @@ weight: 834
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 STMicroelectronics는 유럽 최대의 [반도체](/industry-study/반도체/) 기업으로, 다양한 산업 분야에 걸쳐 광범위한 반도체 제품을 설계, 개발, 제조 및 판매합니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 아날로그 제품, MEMS 및 센서 (AM&S)
 2. 전력 및 개별 반도체 제품 (P&D)
@@ -60,10 +65,11 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 10. Tesla(US, [TSLA](/company-analysis/tsla/))
 
 ## 주요 판매국가
-
 유럽, 중동 및 아프리카(EMEA), 미주, 아시아 태평양 지역
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Infineon Technologies(DE, [IFX](/company-analysis/ifx/)): 자동차 및 산업용 반도체
 2. NXP Semiconductors(NL, [NXPI](/company-analysis/nxpi/)): 자동차 및 보안 솔루션
@@ -74,7 +80,6 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 ## 산업 내 글로벌 시장 점유율
 
 STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 점유율을 보유하고 있으며, 유럽 최대의 반도체 기업으로서의 위상을 유지하고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. 자동차 및 산업용 반도체 수요 증가로 인한 매출 성장 (2022-2024)
@@ -84,12 +89,10 @@ STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 
 5. 글로벌 반도체 공급망 재편에 따른 유럽 내 투자 확대 (2022-2024)
 
 ## 주요주주(지분율)
-
 1. Bpifrance Participations S.A. (11.1%)
 2. Cassa Depositi e Prestiti S.p.A. (10.1%)
 3. BlackRock Inc. (5.8%)
 4. Vanguard Group Inc. (3.2%)
-
 ## 관련 ETF
 
 1. iShares PHLX Semiconductor ETF - SOXX
@@ -97,7 +100,6 @@ STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 
 3. SPDR S&P Semiconductor ETF - XSD
 4. Invesco PHLX Semiconductor ETF - SOXQ
 5. Direxion Daily Semiconductor Bull 3X Shares - SOXL
-
 공유
 
 다시 쓰기

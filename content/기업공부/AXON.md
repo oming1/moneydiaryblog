@@ -1,14 +1,15 @@
 ﻿---
 title: "AXON"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 107
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #테크 #소프트웨어 #테이저건 #바디캠 #법집행
 
@@ -18,9 +19,7 @@ weight: 107
 - **Industry(산업)**: Software - Infrastructure(소프트웨어 - 인프라)
 
 ## 영위 사업
-
 Axon은 법 집행 기관을 위한 기술 솔루션을 제공하며, 공공 안전 운영 시스템을 구축하는 데 주력하고 있습니다. 이 시스템은 하드웨어 장치와 클라우드 소프트웨어 솔루션을 통합하여 현대적인 경찰 업무를 지원합니다.
-
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -30,11 +29,12 @@ Axon은 법 집행 기관을 위한 기술 솔루션을 제공하며, 공공 안
     - **주요 기업**: Motorola Solutions (미국, MSI), Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
     
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 전자기기 제조 및 소프트웨어 개발
     - **역할**: Axon의 제품에 필요한 하드웨어 및 소프트웨어 제공
     - **주요 기업**: Honeywell International (미국, [HON](/company-analysis/hon/)), Panasonic Holdings (일본, 6752)
-
 ## 밸류체인
 
 - **하드웨어 제공**:
@@ -59,11 +59,14 @@ Axon은 법 집행 기관을 위한 기술 솔루션을 제공하며, 공공 안
     - 경찰관이 착용하여 사건을 기록하는 카메라로, 증거 수집에 사용됩니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
-## 주요 판매 국가
+{{< adsense-infeed >}}
 
+## 주요 판매 국가
 Axon은 미국을 주요 판매 시장으로 하고 있으며, 캐나다, 유럽(특히 영국과 독일) 및 아시아(일본)에서도 중요한 매출을 올리고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Motorola Solutions** (미국, MSI) - 경쟁 제품: 통신 장비 및 소프트웨어 솔루션
 - **Digital Ally** (미국, DGLY) - 경쟁 제품: 바디 카메라 및 증거 관리 시스템

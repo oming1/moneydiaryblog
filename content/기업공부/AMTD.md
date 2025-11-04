@@ -1,14 +1,15 @@
 ﻿---
 title: "AMTD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-10-31T21:58:24+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 66
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-31T12:58:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #금융 #자본시장 #주식거래 
 
@@ -18,10 +19,13 @@ weight: 66
 산업: 자본 시장(Capital Markets)
 
 ## 영위사업
-
 TD Ameritrade는 개인 및 기관 투자자를 위한 온라인 중개 및 금융 서비스를 제공하는 회사입니다. 2020년 Charles Schwab Corporation에 인수되었습니다.
 
+{{< adsense-infeed >}}
+
 ## 주요제품 및 서비스
+
+{{< adsense-infeed >}}
 
 - 주식, ETF, 옵션, 뮤추얼 펀드 거래
 - 퇴직 연금 계좌 (IRA)
@@ -31,24 +35,24 @@ TD Ameritrade는 개인 및 기관 투자자를 위한 온라인 중개 및 금�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 주로 미국 시장에서 서비스를 제공하고 있습니다.
-
 ## 경쟁업체
-
 - Charles Schwab(US, [SCHW](/company-analysis/schw/))
 - Fidelity Investments
 - E*TRADE (Morgan Stanley의 자회사)
 - Robinhood Markets(US, [HOOD](/company-analysis/hood/))
 
-## 주요 특징
+{{< adsense-infeed >}}
 
+## 주요 특징
 - 주식 및 ETF 무료 거래
 - 강력한 thinkorswim 트레이딩 플랫폼 제공
 - 광범위한 투자 교육 자료 및 리서치 도구
 - 24/7 고객 서비스
 
 ## 최근 주요 이슈
-
 - 2020년 10월: Charles Schwab Corporation에 의해 인수 완료
 - 지속적인 플랫폼 개선 및 고객 서비스 향상 노력
 - 암호화폐 관련 상품 (비트코인 선물) 제공 확대

@@ -1,14 +1,15 @@
 ﻿---
 title: "UNH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 910
----<div style="display:none">
+weight: 911
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #워렌버핏 #UnitedHealth #UNH #건강보험 #의료서비스 #헬스케어 #ManagedCare #Optum #보험청구 #의료비절감 #데이터분석 #원격의료 #처방약관리 #통합플랫폼 #인구고령화 #비용관리 #디지털헬스 #AI헬스케어 #텔레헬스 #PBM #CareCoordination #RiskAdjustment #메디케어 
 
@@ -22,6 +23,8 @@ weight: 910
 ---
 
 ### 영위사업
+
+{{< adsense-infeed >}}
 
 UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
@@ -44,7 +47,6 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
 - 보험료 수익: 고객(회사·개인)이 내는 보험료
 
 - 의료 서비스 수익: Optum Health가 환자 진료·간호·원격의료 서비스 제공 시 발생
@@ -62,6 +64,8 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 - 방대한 네트워크: 1억 명 이상의 가입자, 150만 개 병·의원, 66,000개 약국과 제휴
 
 - 데이터·AI: 수십억 건의 청구 데이터를 AI로 분석 → 비싼 치료·허위 청구 탐지, 비용 예측
+
+{{< adsense-infeed >}}
 
 - 재무 안정성: 매년 수천억 달러 매출, 강력한 현금 흐름 → 연구개발·인수·신사업에 투자 여력
 
@@ -172,7 +176,6 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
 ---
 ### 최근 3년 내 주요 이슈
-
 - 2024년: OptumAI Prior Authorization 전면 도입 → 승인 프로세스 50% 단축
 - 2023년: Change Healthcare 인수 통합 완료 → 클레임 처리 속도 30% 향상
 - 2022년: LHC Group 인수 → 가정 간호 서비스 20% 확대
@@ -189,11 +192,12 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 ---
 ### 관련 ETF
 
+{{< adsense-infeed >}}
+
 직접 관련 ETF:
 
 - IHF – iShares U.S. Healthcare Providers ETF IHF
 - XHS – SPDR S&P Health Care Services ETF XHS
-
 섹터 관련 ETF:
 
 - XLV – Health Care Select Sector SPDR Fund XLV

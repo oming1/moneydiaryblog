@@ -1,14 +1,15 @@
 ﻿---
 title: "IQV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 456
----<div style="display:none">
+weight: 457
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #헬스케어 #바이오테크 #임상시험지원서비스 #데이터분석 #약물개발
 
@@ -28,10 +29,11 @@ IQVIA는 생명 과학 및 제약 산업을 위한 데이터 분석, 기술 솔�
     - **핵심 산업**: 제약 및 생명 과학 연구
     - **역할**: 최종 소비자에게 연구 결과와 의약품 제공
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - Pfizer (미국, [PFE](/company-analysis/pfe/)) - 다양한 의약품 및 백신 제공
         - Merck & Co. (미국, [MRK](/company-analysis/mrk/)) - 제약 제품 제공
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 데이터 분석 및 기술 서비스
@@ -42,33 +44,33 @@ IQVIA는 생명 과학 및 제약 산업을 위한 데이터 분석, 기술 솔�
         - Labcorp (미국, LH) - 임상 연구 및 진단 서비스 제공
 
 ## 밸류체인
-
 - **임상 연구 서비스**:
     
     - IQVIA는 약물 개발 초기 단계에서 필요한 다양한 연구 서비스를 제공합니다.
     - 대표 기업:
-        
         - Covance (미국, LH) - 전임상 및 임상 시험 서비스 제공
         - ICON plc (아일랜드, ICLR) - 임상 연구 서비스 제공
 
 - **데이터 분석 솔루션**:
-    
     - 생명 과학 기업을 위한 데이터 분석 및 관리 솔루션을 제공합니다.
     - 대표 기업:
         
         - SAS Institute (미국, 비상장) - 데이터 분석 소프트웨어 제공
-
 ## 주요 제품
 
 - **IQVIA CORE**: 맞춤형 데이터 분석 솔루션으로, 생명 과학 기업에 유용한 통찰력을 제공합니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **임상 시험 지원 서비스**: 임상 시험을 위한 계획 및 관리 서비스를 제공합니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 IQVIA는 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 지역에서도 중요한 매출을 올리고 있습니다.
 
@@ -80,6 +82,8 @@ IQVIA는 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 지
 ## 산업 내 글로벌 시장 점유율
 
 IQVIA는 글로벌 계약 연구 기관(CRO) 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

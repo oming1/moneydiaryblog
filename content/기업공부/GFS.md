@@ -1,14 +1,15 @@
 ﻿---
 title: "GFS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 373
----<div style="display:none">
+weight: 374
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #반도체 #파운드리 #첨단공정 #자동차 #IoT #데이터센터 #정보기술 #반도체마스크 
 
@@ -46,16 +47,16 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 6. 지속가능성 focus: 에너지 효율, 탄소 배출 감소 등 ESG 경영 강화
 
 이러한 경쟁력을 바탕으로 GlobalFoundries는 특화된 반도체 시장에서 강세를 보이며, 대규모 투자가 필요한 최첨단 로직 공정 경쟁에서 벗어나 안정적인 성장을 추구하고 있습니다.
-
 ## 전방/후방산업
 
 1. 후방산업:
-    
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     - 반도체 소재: Tokyo Electron
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 자동차: General Motors (US, [GM](/company-analysis/gm/)), Ford (US, [F](/company-analysis/f/))
     - 스마트폰: Apple (US, [AAPL](/company-analysis/aapl/)), [Samsung](/industry-study/samsung/) 
     - 데이터센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
@@ -82,13 +83,13 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 5. Broadcom (US, [AVGO](/company-analysis/avgo/))
 
 ## 주요 판매국가
-
 1. 미국 (2023년 매출 비중: 57.7%)
 2. 유럽/중동/아프리카 (2023년 매출 비중: 20.7%)
 3. 기타 지역 (2023년 매출 비중: 21.6%)
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 1. Taiwan Semiconductor Manufacturing Company (TW, [TSM](/company-analysis/tsm/)) - 첨단 로직 반도체
 2. [Samsung](/industry-study/samsung/) - 첨단 로직 및 메모리 반도체
 3. United Microelectronics Corporation (TW, UMC) - 특수 공정 반도체

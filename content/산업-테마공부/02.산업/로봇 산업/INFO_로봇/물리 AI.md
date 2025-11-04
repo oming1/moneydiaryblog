@@ -1,14 +1,15 @@
 ﻿---
 title: "물리 AI"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 11
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #물리AI #AI #액추에이터 #로봇 #센서 #TSLA #NVDA 
 
@@ -27,10 +28,11 @@ weight: 11
 | **활용 분야**  | 텍스트 분석, 이미지 처리 | [자율 주행](/industry-study/자율-주행/), 로봇공학, 스마트 제조 |
 | **예측 정확도** | 데이터 의존성 높음     | 물리 법칙 반영으로 신뢰성 증가           |
 
+{{< adsense-infeed >}}
+
 ---
 
 ## **관련 산업과 주요 활용 사례**
-
 ### **1. 주요 산업**
 
 물리 AI는 다양한 산업에서 활용되고 있으며, 특히 **로봇공학, 자율주행, 제조업, 의료** 분야에서 두각을 나타냅니다.
@@ -43,8 +45,7 @@ weight: 11
 
 - **우주 탐사**: 인간이 접근하기 어려운 환경에서 AI 로봇을 활용한 연구.
 
-!Pasted image 20250923120545.png
-
+![](/images/Pasted%20image%2020250923120545.png)
 ---
 
 ### **2. 주요 기업**
@@ -57,6 +58,8 @@ weight: 11
     - **옴니버스와 코스모스 플랫폼**: 물리 AI 구현을 위한 핵심 기술로 CES 2025에서 발표.
 	- **코스모스-추론1 모델**: 물리적 상식 추론과 체화 추론을 통해 자율주행 및 로봇 기술 강화.
 
+{{< adsense-infeed >}}
+
 2. **테슬라(Tesla, [TSLA](/company-analysis/tsla/))**
     
     - **주요 사업**: 자율주행 AI 시스템, 전기차 및 에너지 솔루션.
@@ -67,14 +70,14 @@ weight: 11
     
     - **주요 사업**: AI 기반 반도체 설계, 스마트 제조 기술.
     - **특징**: 생산 공정 최적화 및 불량률 감소.
-
 4. **현대자동차(005380.KQ)**
-    
+
+{{< adsense-infeed >}}
+
     - **주요 사업**: 자율주행 기술, 스마트 팩토리.
     - **특징**: 전기차 배터리 효율 최적화.
 
 #### **비상장사**
-
 1. **덱스테리티(Dexterity)**
     
     - **주요 사업**: 물류 로봇 및 물리 AI 기술 개발.

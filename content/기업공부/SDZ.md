@@ -1,14 +1,15 @@
 ﻿---
 title: "SDZ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 778
----<div style="display:none">
+weight: 779
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #유럽 #바이오시밀러 #복제약 #헬스케어 #전문및제네릭의약품제조
 
@@ -18,12 +19,10 @@ weight: 778
 [산도즈의 매출 중 바이오시밀러가 차지하는 비율은 2023FY에 23%였다. 현재는 8개의 바이오시밀러를 판매하고 있다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=38&selection=430,0,464,0&color=yellow))
 
 #### 산업섹터 (Sector, Industry)
-
 - **Sector:** [헬스케어](/industry-study/2산업헬스케어/) (Healthcare)
 - **Industry:** 전문 및 제네릭 의약품 제조 (Drug Manufacturers - Specialty & Generic)
 
 #### 영위사업
-
 Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀러](/industry-study/바이오시밀러/)를 개발, 제조 및 판매하는 기업입니다. 주요 치료 분야는 심혈관계, 중추 신경계, 종양학, 감염병, 통증 및 호흡기, 당뇨병, 면역학, 내분비학, 혈액학, 안과 및 골질환을 포함합니다.
 
 #### 전방/후방산업
@@ -37,7 +36,6 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
     - **핵심 산업:** 원료 의약품 제조
     - **역할:** 의약품 제조에 필요한 원료 제공
     - **관련 기업:** Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
-
 #### 밸류체인
 
 - **연구 및 개발 (R&D):**
@@ -63,6 +61,8 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 - **Lisdexamfetamine (ADHD 치료제)**
 - **Denosumab 바이오시밀러 (골다공증 치료제)**
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **미국:** 주요 매출 국가
@@ -71,6 +71,8 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 - **영국:** 주요 매출 국가
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Teva Pharmaceutical Industries (이스라엘, [TEVA](/company-analysis/teva/))**
     - **경쟁 제품:** Copaxone (다발성 경화증 치료제)

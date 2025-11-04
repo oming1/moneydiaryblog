@@ -1,14 +1,15 @@
 ﻿---
 title: "METC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 563
----<div style="display:none">
+weight: 564
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 2. 핵심 키워드
 
@@ -17,7 +18,6 @@ weight: 563
 ---
 
 ## 3. 산업 분류
-
 **섹터(Sector):** Basic Materials - 기초 소재
 **산업(Industry):** Metallurgical Coal Mining - 메탈루지컬 코킹 탄광업
 
@@ -154,7 +154,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - Orica(AU, ORI): 광산 폭파재 공급 (시장점유율 25%, 기술 선도)
 
 **채굴 및 생산 단계:**
-
 - Ramaco Resources(US, [METC](/company-analysis/metc/)): 메탈루지컬 코킹 생산 (미국 상위 5위)
 
 **가공 및 유통 단계:**
@@ -212,7 +211,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - 주요 공급업체: U.S. Steel(US, [X](/company-analysis/x/)), Nucor(US, [NUE](/company-analysis/nue/))
 
 **전력:**
-
 - 사용처: 선별장비, 운송시설 가동
 - 주요 공급지: 웨스트 버지니아, 버지니아
 - 주요 공급업체: American Electric Power(US, [AEP](/company-analysis/aep/)), Dominion Energy(US, [D](/company-analysis/d/))
@@ -229,7 +227,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - Cleveland-Cliffs(US, [CLF](/company-analysis/clf/)) - 철강 제조
 
 **코크 플랜트:**
-
 - SunCoke Energy(US, SXC) - 코크 생산
 - Koppers(US, KOP) - 코크 및 화학제품
 
@@ -283,7 +280,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 ## 15. 경쟁업체 
 
 **미국 메탈루지컬 코킹 생산업체:**
-
 - Alpha Metallurgical Resources(US, [AMR](/industry-study/amr/)) - 미국 메탈루지컬 코킹 1위, 시장점유율 35%
 - Warrior Met Coal(US, HCC) - 미국 메탈루지컬 코킹 2위, 시장점유율 25%
 - Arch Resources(US, ARCH) - 미국 석탄 대기업, 시장점유율 15%
@@ -422,11 +418,15 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - Vanguard Small-Cap Value ETF(VBR) - 소형 가치주 ETF
 - iShares Russell 2000 Value ETF(IWN) - 러셀 2000 가치주 ETF
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 💡 투자 포인트 및 전망
 
 ### 긍정적 요인:
+
+{{< adsense-infeed >}}
 
 1. **희토류 개발 잠재력**: Brook Mine 프로젝트를 통한 신성장 동력 확보
 2. **강력한 재무구조**: 사상 최대 유동성과 낮은 부채비율

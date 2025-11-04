@@ -1,14 +1,15 @@
 ﻿---
 title: "SaaS"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #SaaS #클라우드컴퓨팅 #구독경제 #소프트웨어배포 #CRM #ERP #협업툴 #데이터분석 #AI통합 #API #마이크로서비스 #다중테넌시 #자동확장 #보안 #데이터호스팅 #유지보수 #고객성공 #PLG #SLG #클라우드인프라
 
@@ -46,7 +47,9 @@ SaaS(Software as a Service)는 클라우드 기반 소프트웨어 구독 모델
 1. **CRM**: 고객 관계 관리 (예: Salesforce)
     
 2. **ERP**: 전사적 자원 관리 (예: SAP)
-    
+
+{{< adsense-infeed >}}
+
 3. **협업 툴**: 문서 공유 및 커뮤니케이션 (예: Slack)
     
 4. **데이터 분석**: 비즈니스 인사이트 도출 (예: Tableau)
@@ -58,7 +61,9 @@ SaaS(Software as a Service)는 클라우드 기반 소프트웨어 구독 모델
 2. **확장성**: 사용량에 따라 유연하게 서비스 확장/축소
     
 3. **접근성**: 언제 어디서나 웹/모바일로 접근 가능
-    
+
+{{< adsense-infeed >}}
+
 4. **자동화**: 반복 작업을 AI/ML로 최적화
 
 **공정별 세부분류**:
@@ -94,7 +99,6 @@ SaaS(Software as a Service)는 클라우드 기반 소프트웨어 구독 모델
 ## 관련 산업
 
 1. **클라우드 컴퓨팅**
-    
     - Amazon Web Services(US - [AMZN](/company-analysis/amzn/)): 클라우드 인프라 서비스
         
     - Microsoft Azure(US - [MSFT](/company-analysis/msft/)): 클라우드 플랫폼
@@ -116,7 +120,6 @@ SaaS(Software as a Service)는 클라우드 기반 소프트웨어 구독 모델
 1. **사이버 보안**
     
     - Palo Alto Networks(US - [PANW](/company-analysis/panw/)): 클라우드 보안 솔루션
-        
     - CrowdStrike(US - [CRWD](/company-analysis/crwd/)): 엔드포인트 보안
         
 2. **데이터 분석**
@@ -136,7 +139,6 @@ SaaS(Software as a Service)는 클라우드 기반 소프트웨어 구독 모델
 SaaS는 소프트웨어 서비스이므로 전통적 원자재는 없으나, **클라우드 인프라 구축에 필요한 하드웨어**가 간접적 영향을 미칩니다:
 
 1. **서버 및 [반도체](/industry-study/반도체/)**
-    
     - Intel(US - [INTC](/company-analysis/intc/)): [데이터센터](/industry-study/데이터센터/)용 CPU
         
     - NVIDIA(US - [NVDA](/company-analysis/nvda/)): GPU 및 AI 가속기
@@ -206,7 +208,6 @@ SaaS는 제조 공정이 없으며, **소프트웨어 개발 라이프사이클
     - 개념: 고객 이탈 방지 및 업셀링
         
     - 역할: 장기 수익성 확보
-        
     - 기업: Gainsight(US - Gainsight), HubSpot(US - HUBS)
 
 ## 경쟁사
@@ -216,7 +217,6 @@ SaaS는 제조 공정이 없으며, **소프트웨어 개발 라이프사이클
 2. Microsoft(US - [MSFT](/company-analysis/msft/)): Azure, Office 365
     
 3. Adobe(US - [ADBE](/company-analysis/adbe/)): Creative Cloud, Marketing Cloud
-    
 4. ServiceNow(US - [NOW](/company-analysis/now/)): IT 서비스 관리
     
 5. Workday(US - [WDAY](/company-analysis/wday/)): HRM 및 재무 관리

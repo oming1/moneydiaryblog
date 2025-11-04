@@ -1,14 +1,15 @@
 ﻿---
 title: "EQIX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 319
----<div style="display:none">
+weight: 320
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #부동산 #특수부동산투자신탁 #데이터센터 #리츠 #클라우드 #보안 
 
@@ -21,10 +22,14 @@ weight: 319
 
 에퀴닉스는 글로벌 데이터 센터 운영 기업으로, [데이터센터](/industry-study/데이터센터/) 및 인터넷 교환 서비스를 제공하여 기업들이 디지털 인프라를 구축하고 관리할 수 있도록 지원합니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업:** 클라우드 서비스, 통신, 금융 서비스
-    
+
+{{< adsense-infeed >}}
+
     - **클라우드 서비스:** 클라우드 컴퓨팅 및 스토리지 제공. 주요 기업: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/)).
     - **통신:** 네트워크 및 인터넷 서비스 제공. 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Verizon (미국, [VZ](/company-analysis/vz/)).
     - **금융 서비스:** 금융 데이터 관리 및 거래. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
@@ -35,7 +40,6 @@ weight: 319
     - **냉각 시스템:** 데이터 센터 냉각 솔루션 제공. 주요 기업: Johnson Controls (미국, [JCI](/company-analysis/jci/)), Schneider Electric (프랑스, [SU](/company-analysis/su/)).
 
 #### 밸류체인
-
 - **부동산 개발:** 데이터 센터 부지 개발 및 건설
     - 주요 기업: Bechtel Corporation, Turner Construction.
 - **전력 및 냉각:** 데이터 센터 운영을 위한 전력 및 냉각 시스템 제공
@@ -59,14 +63,13 @@ weight: 319
 - **아시아:** 클라우드 연결 및 데이터 센터 서비스
 
 #### 경쟁업체
-
 - **데이터 센터:** Digital Realty (미국, [DLR](/company-analysis/dlr/)), CoreSite Realty (미국, [COR](/company-analysis/cor/)).
 - **인터넷 교환:** Interxion (네덜란드, [INXN](/company-analysis/inxn/)), CyrusOne (미국, [CONE](/company-analysis/cone/)).
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
-
 - **데이터 센터:** 글로벌 시장 점유율 약 10% (2023년 기준)
-
 #### 최근 3년 내 주요 이슈
 
 - **2022년:** 에퀴닉스, 지속 가능한 데이터 센터 운영을 위한 재생 에너지 투자 확대

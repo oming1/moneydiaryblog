@@ -1,14 +1,15 @@
 ﻿---
 title: "PSA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 709
----<div style="display:none">
+weight: 710
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 ## 핵심 키워드
 
@@ -44,17 +45,17 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 - 건설 및 개발: Bechtel Corporation, Turner Construction Company
 - 부동산 기술: CoStar Group(US, [CSGP](/company-analysis/csgp/)), RealPage(US, RP)
 - 보안 시스템: ADT Inc.(US, ADT), Brinks Home Security
-
 ## 주요제품
 
 - 개인용 스토리지 유닛: 다양한 크기의 보관 공간, 매출의 약 70% (2024년 기준)
 - 비즈니스용 스토리지 솔루션: 기업 고객 대상 맞춤형 서비스, 매출의 약 20% (2024년 기준)
 - 차량 보관 서비스: RV, 보트 등 대형 차량 보관, 매출의 약 5% (2024년 기준)
 - 포장 및 이사 용품 판매: 박스, 테이프 등 관련 용품, 매출의 약 5% (2024년 기준)
-
 ## 주요 판매국가
 
 미국, 유럽 (Shurgard Self Storage SA를 통해)
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -75,7 +76,6 @@ Public Storage는 2024년 기준 미국 셀프 스토리지 시장에서 약 10%
 - ezStorage 포트폴리오 18억 달러에 인수 완료 (2023년)
 - AI 기반 고객 서비스 'PS Assistant' 도입 (2023년)
 - 태양광 발전 시설 확대: 2025년까지 1,300개 부지에 설치 계획 발표 (2024년)
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (11.66%)
@@ -83,7 +83,11 @@ Public Storage는 2024년 기준 미국 셀프 스토리지 시장에서 약 10%
 - State Street Corporation (4.47%)
 - Cohen & Steers Capital Management (3.26%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Vanguard Real Estate ETF - VNQ
 - iShares U.S. Real Estate ETF - IYR

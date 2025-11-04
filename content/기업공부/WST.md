@@ -1,14 +1,15 @@
 ﻿---
 title: "WST"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 976
----<div style="display:none">
+weight: 977
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -33,13 +34,13 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 4. 계약 제조 서비스 제공
     
 5. 분석 서비스 제공
-
 2019년 기준 매출은 18억 4,990만 달러였으며, 북미, 남미, 유럽, 아시아 태평양 지역에 25개의 제조 시설을 운영하고 있습니다. 최근에는 환자 중심의 웨어러블 자가주사 시스템 개발과 연결 건강 기술 통합에 주력하고 있습니다.
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 6. 글로벌 제조 네트워크: 전 세계적으로 분산된 생산 시설
-    
 7. 품질 및 신뢰성: 'West Business System'을 통한 높은 품질 표준 유지
     
 8. 혁신 역량: 지속적인 제품 혁신 및 기술 개발
@@ -47,10 +48,11 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 9. 통합 솔루션 제공: 개념화부터 최종 포장까지 원스톱 서비스
     
 10. 규제 전문성: 광범위한 Drug Master Files(DMFs) 포트폴리오 보유
-
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 제약회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
     
@@ -65,7 +67,6 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 - 장비 제조업체: Bosch(DE), Optima(DE)
     
 - 분석 서비스 제공업체: Eurofins Scientific(FR, ERF)
-
 ## 주요제품
 
 - 주사제 포장 시스템용 고무 마개 및 씰: 약물 안정성 보장, 매출의 약 40% (2024년 기준)
@@ -102,6 +103,8 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
     
 - Schott AG(DE): 유리 및 폴리머 기반 의약품 포장
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 West Pharmaceutical Services의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 주사제 포장 및 전달 시스템 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
@@ -115,7 +118,9 @@ West Pharmaceutical Services의 정확한 글로벌 시장 점유율 데이터�
 - 아시아 태평양 지역 생산 능력 확대를 위한 투자 (2024년)
     
 - 지속가능성 목표 강화: 2030년까지 탄소 배출량 30% 감축 계획 발표 (2023년)
-    
+
+{{< adsense-infeed >}}
+
 - 바이오의약품 포장용 Daikyo Crystal Zenith® 폴리머 기술 적용 확대 (2024년)
 
 ## 주요주주(지분율)
@@ -131,7 +136,6 @@ West Pharmaceutical Services의 정확한 글로벌 시장 점유율 데이터�
 - iShares U.S. Medical Devices ETF - IHI
     
 - SPDR S&P Health Care Equipment ETF - XHE
-    
 - Invesco S&P 500 Equal Weight Health Care ETF - RYH
     
 - First Trust NYSE Arca Biotechnology Index Fund - FBT

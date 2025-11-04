@@ -1,14 +1,15 @@
 ﻿---
 title: "MPC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 585
----<div style="display:none">
+weight: 586
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #정유 #석유제품 #미드스트림 #주유소네트워크 #에너지물류 #연료유통 #천연가스처리 #석유화학 #재생연료 #지속가능에너지 #물류네트워크 #소매유통 #에너지 #석유가스정제마케팅
 
@@ -56,7 +57,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     - Casey's General Stores(US, CASY), Murphy USA(US, MUSA)
 
 ## 후방산업:
-
 1. 원유 생산: 석유 탐사 및 생산 기업
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
@@ -64,7 +64,9 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 2. 파이프라인 및 저장: 원유 및 석유제품 운송, 저장 인프라
     
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
-    
+
+{{< adsense-infeed >}}
+
 3. 정유 설비 제조: 정유소 장비 및 기술 공급업체
     
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
@@ -84,9 +86,7 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
     
 4. 화학 제품 생산: 석유화학 제품 제조
-    
     - LyondellBasell(US, [LYB](/company-analysis/lyb/)), Dow Inc.(US, [DOW](/company-analysis/dow/))
-    
 5. 유통 및 마케팅: 주유소 네트워크, 직접 판매
     
     - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Shell(NL, SHEL)
@@ -131,10 +131,11 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 8. PBF Energy(US, PBF): 미국 독립 정유회사
 9. HollyFrontier(US, HFC): 미국 중소형 정유회사
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Marathon Petroleum은 미국 정유 산업에서 약 15-20%의 시장 점유율을 보유하고 있는 것으로 추정됩니다 (2023년 기준).
-
 ## 최근 3년 내 주요 이슈
 
 1. Speedway 편의점 사업부 매각 완료 (2021)
@@ -150,6 +151,8 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 3. State Street Corporation (6.74%)
 4. Wellington Management Group LLP (4.91%)
 5. JPMorgan Chase & Co. (3.91%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

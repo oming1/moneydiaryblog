@@ -1,14 +1,15 @@
 ﻿---
 title: "LYB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 539
----<div style="display:none">
+weight: 540
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #라이온델바젤 #LYB #기초화학 #플라스틱 #폴리올레핀 #올레핀 #에틸렌 #프로필렌 #폴리에틸렌 #폴리프로필렌 #범용플라스틱 #화학리사이클 #순환경제 #원유정제 #옥탄첨가제 #아시아시장 #유럽화학 #미국화학 #에너지전환 #지속가능성 #원자재가격 #경기민감주 #공급망다변화 #화학산업 #정제마진 #폴리머기술 #플라스틱재활용 #글로벌화학 #첨단고분자 #자동차부품 #포장재 #건설자재 #태양광패널 #수처리 #의료기기
 
@@ -18,6 +19,8 @@ weight: 539
 
 **섹터(Sector):** Materials - 재료  
 **산업(Industry):** Chemicals - 화학 (특히 Commodity Chemicals - 범용 화학)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -55,7 +58,9 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 - **주된 원자재 및 공급망**  
     주요 원자재는 천연가스액(NGLs, 특히 에탄), 나프타, 원유 등이며, 공급처는 미국, 중동 등 주요 산유국 및 가스 생산국입니다. 공급망은 원자재 수입, 자체 생산 시설에서의 가공, 글로벌 유통망을 통한 판매로 구성됩니다.
-    
+
+{{< adsense-infeed >}}
+
 - **최근 주요 이슈**
     
     - 2024년: 화학적 재활용 플라스틱 생산 능력 확대 및 파트너십 강화.
@@ -139,7 +144,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **의료 및 헬스케어:** 특수 플라스틱 (의료 기기).
 
 **후방산업 (원자재/부품 공급 산업):**
-
 - **석유 및 가스 산업:** ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/)) 등으로부터 NGLs, 원유, 나프타 공급.
 - **촉매 제조업체:** BASF(DE, BASFY), W.R. Grace (US, GRA) 등.
 - **에너지 공급업체:** 전력, 천연가스.
@@ -171,6 +175,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 - **[폴리프로필렌](/industry-study/폴리프로필렌/) (Polypropylene - PP):** homopolymer, copolymer, random copolymer, 매출 비중 25% (2024 추정), 경쟁사 Braskem (BR, BAK), Formosa Plastics (TW).
 
+{{< adsense-infeed >}}
+
 - **[프로필렌 옥사이드](/industry-study/프로필렌-옥사이드/) (Propylene Oxide - PO):** 매출 비중 10% (2024 추정), 경쟁사 Dow Inc.(US, [DOW](/company-analysis/dow/)), BASF(DE, BASFY).
 
 - **첨단 고분자 솔루션:** 자동차, 의료용 특수 플라스틱, 매출 비중 15% (2024 추정), 경쟁사 DuPont(US, [DD](/company-analysis/dd/)), Covestro (DE, 1COV.DE).
@@ -193,7 +199,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **건설 및 인프라 기업:** 파이프, 단열재 등 건설 자재 제조업체.
 - **소비재 제조업체:** 가전제품, 가구 등.
 - **다른 화학 기업:** 중간재 구매.
-
 ---
 
 ### 주요 판매 국가
@@ -206,6 +211,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 ---
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Dow Inc. (US, [DOW](/company-analysis/dow/)):** 글로벌 화학 대기업, 에틸렌, 폴리에틸렌, 특수 화학.
 - **ExxonMobil Chemical (US, [XOM](/company-analysis/xom/)):** 글로벌 석유화학 대기업, 올레핀, 폴리올레핀.
@@ -239,7 +246,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **2023년:** 화학적 재활용 기술 MoReTec의 상업화 추진 및 파트너십 확대, 지속 가능한 제품 포트폴리오 강화.
 - **2024년:** 북미 신규 에틸렌 크래커 및 폴리올레핀 공장 증설 프로젝트 진전, 저탄소 수소 생산 프로젝트 참여 검토.
 - **2025년:** 플라스틱 폐기물 문제 해결을 위한 순환 솔루션 투자 확대, 에너지 효율성 개선을 위한 공정 최적화.
-
 ---
 
 ### 주요 주주 (지분율)

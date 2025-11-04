@@ -1,14 +1,15 @@
 ﻿---
 title: "CZR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-07T21:43:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 256
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 257
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-07T12:43:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 
@@ -20,7 +21,6 @@ weight: 256
 ## 영위사업
 
 Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 및 운영하는 게임 및 호스피탈리티 서비스 제공업체입니다.
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -32,6 +32,8 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -48,11 +50,11 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 - 레스토랑 및 바
 - 엔터테인먼트 공연
 - 회의 및 컨벤션 시설
-
 ## 주요 판매국가
 
-미국 (오하이오, 루이지애나, 인디애나, 네바다, 미시시피, 플로리다, 미주리, 콜로라도, 메릴랜드 등)
+{{< adsense-infeed >}}
 
+미국 (오하이오, 루이지애나, 인디애나, 네바다, 미시시피, 플로리다, 미주리, 콜로라도, 메릴랜드 등)
 ## 경쟁업체
 
 - MGM Resorts International(US, [MGM](/company-analysis/mgm/))
@@ -63,6 +65,8 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 ## 산업 내 글로벌 시장 점유율
 
 Caesars Entertainment는 미국 최대의 게임 회사 중 하나로, 정확한 시장 점유율은 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

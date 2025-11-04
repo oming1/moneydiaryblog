@@ -1,14 +1,15 @@
 ﻿---
 title: "MNSO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 575
----<div style="display:none">
+weight: 576
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #미니소 #잡화점 #라이프스타일소매 #디자인중심제품 #생활용품 #팝토이 #글로벌확장 #중국소매시장 #IP디자인 #저가소매 #MINISO브랜드 #TOPTOY브랜드 #소비자패키지상품 #다국적네트워크 #직영점 #프랜차이즈점 #중국 
 
@@ -21,9 +22,7 @@ weight: 575
 ## 영위사업
 
 MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/) 광저우에 본사를 둔 글로벌 라이프스타일 소매 기업입니다. 2020년 설립 및 상장된 이 회사는 디자인 중심의 생활용품과 팝 토이 제품을 개발, 소매, 도매하는 데 주력하고 있습니다. 주요 사업 부문은 다음과 같습니다:
-
 1. **MINISO 브랜드**: 생활용품, 소형 전자기기, 텍스타일, 액세서리, 뷰티 도구, 장난감, 화장품, 개인 위생 용품, 간식, 향수 및 문구류 판매
-    
 2. **TOP TOY 브랜드**: 블라인드 박스, 피규어, 조립 키트 등 팝 토이 제품 판매
     
 3. **글로벌 네트워크**: 4,200개 이상의 매장 운영 (중국 내 약 2,500개, 해외 약 1,680개)
@@ -37,7 +36,6 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 2. **글로벌 네트워크**: 80개 이상의 국가 및 지역에서 매장 운영
     
 3. **IP 디자인 역량**: 독창적이고 트렌디한 제품 디자인
-    
 4. **효율적인 비즈니스 모델**: 직영점과 프랜차이즈 모델을 통한 운영 비용 절감
     
 5. **저가 소매 전략**: 가성비 높은 제품으로 소비자 접근성 강화
@@ -101,7 +99,9 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 1. Muji(JP): 일본 기반 라이프스타일 소매 브랜드
     
 2. Daiso(JP): 저가 생활용품 체인점
-    
+
+{{< adsense-infeed >}}
+
 3. Funko(US, FNKO): 팝 컬처 피규어 전문 기업
     
 4. Uniqlo(JP): 의류 중심 라이프스타일 브랜드 (간접 경쟁)
@@ -114,15 +114,18 @@ MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 �
 
 ## 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 1. TOP TOY 브랜드 출시로 팝 토이 시장 진출 (2023년)
     
 2. 미국 내 매장 수 확대 계획 발표 (2024년)
-    
 3. 지속 가능한 패키징 도입 및 ESG 목표 강화 (2023년)
     
 4. 온라인 플랫폼 통합 및 디지털 전환 가속화 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (11%)
     
@@ -131,6 +134,8 @@ MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 �
 - State Street Corporation (5%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares MSCI China ETF - MCHI
     

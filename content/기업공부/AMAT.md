@@ -1,14 +1,15 @@
 ﻿---
 title: "AMAT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-08-21T17:56:18+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 58
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-21T08:56:18Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #반도체 #장비 #중국 #테크 #반도체장비
 
@@ -19,16 +20,18 @@ Industry: Semiconductor Equipment & Materials (반도체장비 및 소재)
 
 ## 영위사업
 
-Applied Materials는 반도체, 디스플레이 및 기타 고급 기술 제품을 제조하는 데 필요한 장비와 소재를 제공하는 글로벌 리더입니다. 이 회사는 반도체 제조 공정에서 사용되는 다양한 장비를 설계하고 생산합니다.
+{{< adsense-infeed >}}
 
+Applied Materials는 반도체, 디스플레이 및 기타 고급 기술 제품을 제조하는 데 필요한 장비와 소재를 제공하는 글로벌 리더입니다. 이 회사는 반도체 제조 공정에서 사용되는 다양한 장비를 설계하고 생산합니다.
 ## 전방/후방산업
 
 전방산업:
-
 - 반도체 제조: Intel Corporation (국가:US, [INTC](/company-analysis/intc/))
 - 디스플레이 제조: Samsung Display (국가:KR, 005930)
 
 후방산업:
+
+{{< adsense-infeed >}}
 
 - 소재 공급: Shin-Etsu Chemical (국가:JP, 4063)
 - 장비 제조: KLA Corporation (국가:US, [KLAC](/company-analysis/klac/))
@@ -42,7 +45,6 @@ Applied Materials는 반도체, 디스플레이 및 기타 고급 기술 제품�
 ## 주요 판매국가
 
 Applied Materials는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 미국, 중국, 대만, 한국 등입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
 ## 경쟁업체
 
 - Lam Research Corporation (국가:US, [LRCX](/company-analysis/lrcx/)) - 반도체 제조 장비
@@ -52,6 +54,8 @@ Applied Materials는 전 세계적으로 제품을 판매하고 있으며, 주�
 ## 산업 내 글로벌 시장 점유율
 
 2023년 기준 Applied Materials는 반도체 장비 시장에서 약 18%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간의 정확한 추이는 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 자세한 종목 정보 링크
 

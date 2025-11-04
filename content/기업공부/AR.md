@@ -1,14 +1,15 @@
 ﻿---
 title: "AR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 83
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #천연가스 #석유 #탐사생산 #마르셀러스셰일 #유티카셰일 #LNG #NGL #에너지 #석유가스소비연료 #에너지 #미드스트림 #LNG수출터미널 
 
@@ -19,6 +20,8 @@ weight: 83
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
@@ -39,9 +42,7 @@ Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀�
 4. 통합 사업 모델: 상류 및 미드스트림 사업의 수직 계열화
 5. 유연한 생산 조정: 시장 상황에 따른 효율적인 생산량 조절 능력
 6. 재무 건전성: 강력한 대차대조표와 충분한 유동성
-
 ## 전방/후방산업
-
 1. 후방산업:
     
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
@@ -79,7 +80,6 @@ Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀�
 Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며, LNG 수출을 통해 간접적으로 글로벌 시장에 진출하고 있습니다.
 
 ## 경쟁업체
-
 1. EQT Corporation(US, [EQT](/company-analysis/eqt/))
 2. Range Resources(US, RRC)
 3. Southwestern Energy(US, SWN)
@@ -89,7 +89,6 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Antero Resources는 미국 내 주요 천연가스 및 NGL 생산업체 중 하나로 인식되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. 2024년 자본 지출 감소 및 효율성 향상 (2024년)
@@ -107,6 +106,8 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 5. Paul Rady: 5.415%
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. SPDR S&P Oil & Gas Exploration & Production ETF - XOP
 2. iShares U.S. Oil & Gas Exploration & Production ETF - IEO

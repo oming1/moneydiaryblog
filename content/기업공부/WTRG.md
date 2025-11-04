@@ -1,14 +1,15 @@
 ﻿---
 title: "WTRG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-20T15:32:08+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 977
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 978
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-20T06:32:08Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #인프라 #물공급 #상하수도 #수도유틸리티 #유틸리티
 
@@ -23,6 +24,8 @@ Essential Utilities는 미국 내에서 수도, 하수도, [천연가스](/indus
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:**
     - **건설업:** 수도 및 하수도 인프라 건설 (대표 기업: Bechtel, Fluor)
     - **부동산 개발업:** 주거 및 상업용 부동산 개발 (대표 기업: Lennar (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/)))
@@ -30,23 +33,21 @@ Essential Utilities는 미국 내에서 수도, 하수도, [천연가스](/indus
 - **후방산업:**
     - **화학산업:** 물 처리 화학물질 공급 (대표 기업: Ecolab (US, ECL), Dow (US, [DOW](/company-analysis/dow/)))
     - **기계 제조업:** 수도 및 하수도 처리 장비 제조 (대표 기업: Xylem (US, XYL), Pentair (US, [PNR](/company-analysis/pnr/)))
-
 ### 밸류체인
 
 - **원자재 공급:** 물 처리 화학물질 및 장비 공급 (대표 기업: Ecolab (US, ECL), Dow (US, [DOW](/company-analysis/dow/)))
 - **생산:** 물 처리 및 공급, 하수도 처리 (대표 기업: Essential Utilities (US, [WTRG](/company-analysis/wtrg/)), American Water Works (US, [AWK](/company-analysis/awk/)))
 - **유통:** 수도 및 하수도 서비스 제공 (대표 기업: Essential Utilities (US, [WTRG](/company-analysis/wtrg/)), California Water Service Group (US, [CWT](/company-analysis/cwt/)))
-
 ### 주요제품
 
 - **수도 서비스:** 주거, 상업, 산업용 물 공급
 - **하수도 서비스:** 하수도 처리 및 관리
 - **천연가스 서비스:** 주거 및 상업용 천연가스 공급
 
+{{< adsense-infeed >}}
+
 ### 주요 판매국가
-
 - **미국:** 미국 내 10개 주에서 약 550만 명의 고객에게 서비스 제공
-
 ### 경쟁업체
 
 - **American Water Works (US, [AWK](/company-analysis/awk/)):** 수도 및 하수도 서비스

@@ -1,14 +1,15 @@
 ﻿---
 title: "Ulta Beauty Q2 2025 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
 
@@ -31,18 +32,15 @@ weight: 2
 ### **2. 제품별·사업부별 매출**
 
 #### **소매(매장 + 디지털)**
-
 - 모든 채널에서 매출 성장 기여, 동일점포 매출 +6.7% 성장 견인
 
 #### **카테고리별**
 
 - **향수(Fragrance)**: 두 자릿수 성장
 - **메이크업, 스킨케어, 헤어, 네일**: 전 범주에서 플러스 성장
-
 #### **멤버십**
 
 - 총 회원 수 45.8 M명, 전년 대비 +4% 증가
-
 #### **국제사업**
 
 - **Space NK 인수**: 영국 시장 진출 준비 완료
@@ -66,8 +64,9 @@ weight: 2
 
 ### **4. CEO·CFO 코멘트**
 
-#### **Kecia L. Steelman (CEO & President)**
+{{< adsense-infeed >}}
 
+#### **Kecia L. Steelman (CEO & President)**
 - “‘Ulta Beauty Unleashed’ 전략이 주효하여 모든 채널과 카테고리에서 견조한 성장과 시장점유율 확대를 확인했습니다.”
 - “영국 Space NK 인수는 검증된 사업 모델로 UK 시장에 진출하는 전략적 기회입니다. 멕시코·중동에도 신규 매장을 개설하며 글로벌 확장을 가속화할 것입니다.”
 - “Target 파트너십은 2026년 8월에 종료하기로 상호 합의했습니다.”
@@ -85,7 +84,6 @@ weight: 2
 - **재고 수준**: $2.4 B로 안정적 관리
 - **CAPEX 투자**: 매장 개설·디지털 강화에 $77 M 집행
 - **자사주 매입**: 245,000주 소각 완료
-
 ---
 
 ### **6. 이번 실적발표의 의미**
@@ -97,6 +95,8 @@ weight: 2
 #### **글로벌 다변화**
 
 - Space NK 인수로 UK 시장 진출, 멕시코·중동 런칭으로 매출 기반 확장
+
+{{< adsense-infeed >}}
 
 #### **수익성 관리**
 

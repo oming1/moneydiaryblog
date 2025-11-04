@@ -1,14 +1,15 @@
 ﻿---
 title: "CATL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 177
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #CATL #컨템포러리암페렉스 #전기차배터리 #리튬이온배터리 #배터리제조 #에너지저장 #전기차 #지속가능에너지 #전기차시장 #배터리기술 #리튬 #전고체배터리 #배터리재활용 #전기차충전 #글로벌리더 #자동차산업 #에너지전환 #스마트그리드 #전기차생태계 #전기차혁신 #배터리공급망 #전기차배터리시장 #전기차충전소 #배터리기술혁신 #전기차배터리생산 #지속가능한미래 #전기차산업 #리튬배터리 #전기차배터리공급
 
@@ -58,7 +59,9 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
     - **기타:** 전력 도구 및 전자기기용 배터리, 맞춤형 배터리 솔루션 제공.
 
 - **사업 부문별 구성**
-    
+
+{{< adsense-infeed >}}
+
     - **전기차 배터리 (약 70% 매출):** 글로벌 자동차 제조사에 공급.
     - **에너지 저장 시스템 (약 20% 매출):** 재생 가능 에너지 프로젝트와 연계.
     - **기타 (약 10% 매출):** 전자기기 및 전력 도구용 배터리.
@@ -109,7 +112,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 
 - **성장 동력 및 수익성 개선 요인:**
     - 전기차 시장 성장, 배터리 기술 혁신, 재생 가능 에너지 수요 증가.
-
 ---
 
 ### 핵심 경쟁력
@@ -133,11 +135,12 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 ---
 
 ### 제조 공정
-
 1단계: 원료 조달 (리튬, 니켈, 코발트).  
 2단계: 배터리 셀 제조 (자동화 공정).  
 3단계: 조립 및 테스트 (품질 검사).  
 4단계: 배송 및 유통 (글로벌 물류 네트워크).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -195,7 +198,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - Volkswagen(DE, VWAGY) - 전기차 배터리.
 - LG Energy Solution(KR, (373220)) - 배터리 파트너십.
 - BYD(CN, (1211)) - 전기차 배터리.
-
 ---
 
 ### 주요 판매 국가
@@ -225,6 +227,8 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
     - 2021년: 25% (1위).
     - 3년간 추이: +5%p 증가.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 기업 특징 및 성장성
@@ -241,7 +245,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - 2023년: 전고체 배터리 개발 진전, 글로벌 자동차 제조사와의 파트너십 확대.
 - 2022년: 새로운 에너지 저장 시스템 출시, 아시아 시장 진출 강화.
 - 2021년: 전기차 배터리 생산 확대.
-
 ---
 
 ### 주요 주주 (지분율)

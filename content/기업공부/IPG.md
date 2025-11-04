@@ -1,14 +1,15 @@
 ﻿---
 title: "IPG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-09T22:06:57+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 455
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 456
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-09T13:06:57Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #광고 #커뮤니케이션서비스 
 
@@ -19,9 +20,13 @@ Interpublic Group of Companies, Inc.(IPG)는 글로벌 광고 및 마케팅 서�
 섹터: 커뮤니케이션 서비스(Communication Services)  
 산업: [광고](/industry-study/2산업광고/)(Advertising)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
+
+{{< adsense-infeed >}}
 
 1. 미디어, 데이터 및 참여 솔루션(MD&E): IPG Mediabrands, Acxiom, Kinesso 등을 포함하며 글로벌 미디어 및 커뮤니케이션 서비스, 디지털 서비스, 광고 기술, 전자상거래 서비스 등을 제공합니다.
 2. 통합 광고 및 창의성 주도 솔루션(IA&C): McCann Worldgroup, IPG Health, MullenLowe Group, FCB 등을 포함하며 광고, 기업 및 브랜드 아이덴티티 서비스, 전략 컨설팅 등을 제공합니다.
@@ -34,11 +39,12 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 - 데이터 분석 기업: Adobe(US, [ADBE](/company-analysis/adbe/))
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 소비재 기업: Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
 - 스포츠 용품 제조업체: Nike(US, [NKE](/company-analysis/nke/))
-
 ## 밸류체인
 
 1. 전략 및 기획: Interpublic Group
@@ -48,13 +54,11 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 5. PR 및 커뮤니케이션: Weber Shandwick, Golin
 
 ## 주요제품
-
 - 광고 및 마케팅 서비스
 - 미디어 계획 및 구매
 - 디지털 마케팅
 - 데이터 관리 및 분석
 - PR 및 커뮤니케이션 서비스
-
 ## 주요 판매국가
 
 미국(64.6%), 영국(

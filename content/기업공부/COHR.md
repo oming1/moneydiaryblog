@@ -1,14 +1,15 @@
 ﻿---
 title: "COHR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 213
----<div style="display:none">
+weight: 214
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #Coherent #COHR #레이저 #광학 #포토닉스 #반도체장비 #산업레이저 #의료레이저 #정밀가공 #3D프린팅 #통신레이저 #LiDAR #산업자동화 #OEM #기술혁신 #연구개발 #글로벌시장 #공급망 #LaserTechnology #Photonics #SemiconductorEquipment #자동차센서 #광학부품 #의료장비 #정밀계측
 
@@ -91,7 +92,6 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 ### 전방산업 / 후방산업
 
 전방산업 (제품 사용 산업):
-
 - 삼성전자(KR) – 반도체 웨이퍼 패터닝
 - Bosch(DE, BOSCHLTD.DE) – 자동차 부품 레이저 용접
 - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)) – 연구용 레이저 시스템
@@ -119,6 +119,8 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - **Gap Fiber C Series**: 펄스 파이버 레이저 (매출비중 35%, 경쟁사 IPGP)
 - **FemtoLas Series**: 초단펄스 레이저 (매출비중 15%, 경쟁사 [LITE](/company-analysis/lite/))
 - **Excimer 6600 Series**: UV 레이저 (매출비중 10%, 경쟁사 MDRX)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -174,7 +176,6 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - **영업 이익률**: 18% (2023)
 - **성장 동력**: 반도체·전기차용 정밀 가공 수요, 의료·과학 연구용 레이저 수요 증가
 - **위험 요소**: 반도체 사이클 변동, 공급망 리스크, 환율 변동
-
 ---
 
 ### 최근 3년 내 주요 이슈
@@ -182,10 +183,11 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - 2024년: Gap Fiber C Series 신제품 출시, 산업용 24kW급 레이저 시장 진출
 - 2023년: II-VI Incorporated와 합병 통합 완료 후 생산 효율 15% 개선
 - 2022년: 광학 부품 생산 시설 증설, 초단펄스 라인업 확대
-
 ---
 
 ### 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 - Vanguard Group: 8.0% (10.5M주)
 - BlackRock, Inc.: 7.5% (9.8M주)
@@ -198,7 +200,6 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
 - SOXX – iShares PHLX Semiconductor Sector ETF SOXX
 - XSD – SPDR S&P Semiconductor ETF XSD
 - FPH – Invesco PHLX Semiconductor ETF FPH

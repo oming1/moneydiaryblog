@@ -1,14 +1,15 @@
 ﻿---
 title: "CLSK"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-17T21:26:43+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 201
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 202
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-17T12:26:43Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #비트코인 #금융 #자본시장 #비트코인채굴
 
@@ -30,7 +31,6 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 ## 전방/후방산업
 
 ## 전방산업
-
 - 암호화폐 거래소
 - 블록체인 기반 서비스 제공업체
 
@@ -39,12 +39,16 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 - 반도체 제조업체: NVIDIA (US, [NVDA](/company-analysis/nvda/))
 - 전력 공급업체
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 하드웨어 제조: NVIDIA (US, [NVDA](/company-analysis/nvda/)), AMD (US, [AMD](/company-analysis/amd/))
 2. 인프라 구축: CleanSpark (US, [CLSK](/company-analysis/clsk/))
 3. 비트코인 채굴: CleanSpark (US, [CLSK](/company-analysis/clsk/))
 4. 거래 및 유통: Coinbase (US, [COIN](/company-analysis/coin/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -54,10 +58,11 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
 1. Riot Platforms (US, [RIOT](/company-analysis/riot/))
 2. Marathon Digital Holdings (US, [MARA](/company-analysis/mara/))
 3. Core Scientific (US, [CORZ](/company-analysis/corz/))
@@ -67,8 +72,9 @@ CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 CleanSpark은 미국 내 주요 비트코인 채굴 기업 중 하나로 인식되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024 회계연도 기록적인 실적 달성, 매출 3억 7900만 달러 기록 (2024년)
 2. GRIID Infrastructure Inc. 인수 완료, 채굴 용량 확대 (2024년)

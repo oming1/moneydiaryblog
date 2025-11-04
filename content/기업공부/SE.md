@@ -1,14 +1,15 @@
 ﻿---
 title: "SE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 779
----<div style="display:none">
+weight: 780
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #동남아시아 #이커머스 #게임 #핀테크 #쇼피 #가레나 #씨머니 #프리파이어 #모바일게임 #온라인쇼핑 #디지털금융 #라틴아메리카 #브라질 #싱가포르 #플랫폼 #생태계 #GMV #라이브스트리밍 #배틀로얄 #전자지갑 #임의소비재 #정보기술
 
@@ -85,7 +86,6 @@ Sea Limited의 비즈니스 모델은 세 개의 상호 연결된 플랫폼을 �
 Sea Limited의 핵심 경쟁력은 동남아시아 시장에 대한 깊은 이해와 통합 생태계 구축 능력입니다. 회사는 2009년부터 동남아시아 시장에서 활동하며 각 국가별 소비자 행동, 문화적 특성, 규제 환경을 깊이 이해하고 있습니다. 특히 모바일 퍼스트 전략을 통해 스마트폰 보급률이 높은 동남아시아 특성에 최적화된 서비스를 제공하고 있습니다.
 
 플랫폼 간 시너지 효과가 매우 강력합니다. Garena의 Free Fire 게임 사용자들이 Shopee로 유입되고, Shopee 사용자들이 SeaMoney의 금융 서비스를 이용하는 순환 구조를 구축했습니다. 이를 통해 고객 획득 비용을 절감하고 사용자 유지율을 높이며, 각 플랫폼의 데이터를 통합하여 개인화된 서비스를 제공할 수 있습니다.
-
 시장 지배력과 규모의 경제도 핵심 강점입니다. Shopee는 동남아시아 7개국 모두에서 이커머스 1위를 차지하고 있으며, 전체 시장 점유율이 약 50%에 달합니다. 이러한 지배적 위치는 판매자와 구매자 모두에게 네트워크 효과를 제공하며, 물류 및 결제 인프라에서 규모의 경제를 실현하고 있습니다.
 
 기술 혁신과 현지화 능력도 뛰어납니다. 각 국가별 언어, 결제 수단, 물류 시스템에 맞춘 서비스를 제공하며, 라이브 스트리밍 커머스, AI 기반 추천 시스템, 모바일 최적화 등 최신 기술을 적극 도입하고 있습니다. 특히 동남아시아 특성에 맞는 소액 결제, 현금 온 딜리버리(COD) 등 다양한 결제 옵션을 제공하고 있습니다.
@@ -105,6 +105,8 @@ Sea Limited의 핵심 경쟁력은 동남아시아 시장에 대한 깊은 이�
 Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는 없습니다.
 
 **1. 소프트웨어 개발:**
+
+{{< adsense-infeed >}}
 
 - 모바일 게임 개발 (Unity Engine)
 - 이커머스 플랫폼 개발 및 운영
@@ -171,7 +173,6 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 - Microsoft Azure(US, [MSFT](/company-analysis/msft/)) - 엔터프라이즈 클라우드 서비스
 
 **거래 및 결제 단계:** 전자상거래 및 금융 서비스
-
 - Visa(US, [V](/company-analysis/v/)) - 신용카드 결제 처리
 - Mastercard(US, [MA](/company-analysis/ma/)) - 글로벌 결제 네트워크
 - 현지 은행들 - 각국 금융 서비스 파트너
@@ -195,6 +196,8 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 **SeaMoney:** 디지털 금융 서비스, 매출 비중 약 14% (2024년 기준), 관련 경쟁사 [PYPL](/company-analysis/pypl/), [SQ](/company-analysis/sq/)
 
 **ShopeePay:** 전자지갑 및 결제 서비스, SeaMoney 핵심 서비스, 관련 경쟁사 ADYEY, [PYPL](/company-analysis/pypl/)
+
+{{< adsense-infeed >}}
 
 **Shopee Live:** 라이브 스트리밍 커머스, 전체 주문량의 15% 기여, 관련 경쟁사 [BABA](/company-analysis/baba/), [PDD](/company-analysis/pdd/)
 
@@ -290,6 +293,8 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 - Unity Software(US, [U](/company-analysis/u/)) - 게임 개발 플랫폼
 - Netflix(US, [NFLX](/company-analysis/nflx/)) - 엔터테인먼트 콘텐츠 경쟁
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -365,7 +370,6 @@ Sea Limited는 동남아시아 최대의 인터넷 플랫폼 기업으로 게임
 - iShares MSCI Emerging Markets ETF - EEM
 - Vanguard Emerging Markets Stock ETF - VWO
 - SPDR Portfolio Emerging Markets ETF - SPEM
-
 **아시아 태평양 ETF:**
 
 - iShares MSCI Asia

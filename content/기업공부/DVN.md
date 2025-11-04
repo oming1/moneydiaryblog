@@ -1,14 +1,15 @@
 ﻿---
 title: "DVN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 297
----<div style="display:none">
+weight: 298
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -36,7 +37,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 6. 재무 건전성: 낮은 부채비율과 강력한 현금 흐름 창출 능력
 7. 유연한 자본 배분: 변동적 배당 정책을 통한 주주 가치 극대화
 8. ESG 리더십: 업계 선도적인 환경 및 지속가능성 목표 설정
-
 ## 전방/후방산업
 
 전방산업:
@@ -46,7 +46,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 
 후방산업:
-
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Baker Hughes(US, [BKR](/company-analysis/bkr/)), National Oilwell Varco(US, [NOV](/company-analysis/nov/))
 - 파이프라인: Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
@@ -59,6 +58,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 12. 운송: Energy Transfer(US, [ET](/company-analysis/et/)) (파이프라인 운영)
 13. 정제: Phillips 66(US, [PSX](/company-analysis/psx/)) (석유 정제)
 14. 유통: Murphy USA(US, MUSA) (주유소 네트워크)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -79,7 +80,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 미국이 주요 판매 국가이며, 일부 국제 시장에도 수출하고 있습니다.
 
 ## 경쟁업체
-
 - EOG Resources(US, [EOG](/company-analysis/eog/)): 다양한 셰일 자산 보유 업체
 - Pioneer Natural Resources(US, PXD): 퍼미안 베이슨 중심의 셰일 생산업체
 - Diamondback Energy(US, [FANG](/company-analysis/fang/)): 퍼미안 베이슨 전문 생산업체
@@ -89,6 +89,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 ## 산업 내 글로벌 시장 점유율
 
 Devon Energy는 2024년 기준 미국 내 독립 석유·가스 생산업체 중 생산량 기준으로 약 3%의 시장 점유율을 보유하고 있습니다. 글로벌 시장에서는 약 0.7%의 점유율을 차지하고 있으며, 최근 3년간 미국 내 시장 점유율은 안정적으로 유지되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

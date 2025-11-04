@@ -1,14 +1,15 @@
 ﻿---
 title: "NNE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 620
----<div style="display:none">
+weight: 621
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -29,6 +30,8 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 4. 우주 원자력 응용: LOKI MMR 시스템 등 우주용 원자력 기술 개발
 5. 원자력 산업 컨설팅 서비스
 
+{{< adsense-infeed >}}
+
 최근 주요 이슈로는 Ultra Safe Nuclear로부터 주요 특허 포트폴리오를 인수하여 지적 재산권을 강화했습니다. 또한 르완다, 토고 등과 MOU를 체결하고 미국 정부 및 기관들과 협력을 확대하고 있습니다.
 
 ## 핵심 경쟁력
@@ -38,11 +41,9 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 3. 강력한 특허 포트폴리오: 최근 인수한 특허들로 기술적 우위 확보
 4. 글로벌 파트너십: 정부 및 기업들과의 전략적 제휴를 통한 시장 확대
 5. 우수한 기술 인력: 세계적 수준의 원자력 공학 팀 보유
-
 ## 전방/후방산업
 
 전방산업:
-
 - 전력 공급: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 - 우주 탐사: SpaceX, Blue Origin
 - 원격 지역 에너지 공급: 광산 회사, 군사 기지
@@ -70,19 +71,21 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 - LOKI MMR: 우주 응용을 위한 휴대용 원자로, 개발 중
 
 ## 주요 고객
-
 현재 제품 개발 단계로, 구체적인 고객 정보는 제한적입니다. 잠재적 고객으로는 다음과 같은 기업들이 있습니다:
 
 - 전력 회사: Duke Energy(US, [DUK](/company-analysis/duk/)), Exelon(US, [EXC](/company-analysis/exc/))
 - 광산 기업: Rio Tinto(UK, [RIO](/company-analysis/rio/)), BHP Group(AU, [BHP](/company-analysis/bhp/))
 - 우주 탐사 기업: SpaceX, Blue Origin
 - 정부 기관: 미국 국방부, NASA
-
 ## 주요 판매국가
 
 미국을 중심으로 르완다, 토고 등 아프리카 국가들과 협력 확대 중
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - NuScale Power(US, [SMR](/industry-study/smr/)): 소형 모듈형 원자로
 - X-energy(US, [XE](/company-analysis/xe/)): 고온가스냉각로
@@ -95,7 +98,6 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 Nano Nuclear Energy는 아직 제품 상용화 전 단계로, 정확한 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 미국 내 최초로 상장된 휴대용 원자력 마이크로원자로 기업으로 자리매김하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - Ultra Safe Nuclear로부터 주요 특허 포트폴리오 인수 (2025년)
 - 르완다 원자력에너지위원회와 MOU 체결 (2024년)
 - 토고 정부와 원자로 개발 및 배치를 위한 MOU 체결 (2024년)
@@ -103,6 +105,8 @@ Nano Nuclear Energy는 아직 제품 상용화 전 단계로, 정확한 시장 �
 - 테네시주 오크리지에 원자력 기술 본부 설립 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Clarfeld Financial Advisors LLC (2.21%)
 - BlackRock Fund Advisors (0.64%)

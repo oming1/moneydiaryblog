@@ -1,14 +1,15 @@
 ﻿---
 title: "Keyence"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2023-06-28T12:17:48+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 482
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 483
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-06-28T03:17:48Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #로봇 #검사장비 #산업자동화
 
@@ -23,6 +24,8 @@ Keyence Corporation은 1974년에 설립된 일본의 산업자동화 및 검사
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 산업 자동화 및 검사 장비 개발 및 제조
 - 센서, 코드 리더, 마이크로스코프, 머신 비전 시스템, 측정 시스템, 레이저 마커, 정전기 제거장치 등 제공
 - 기술 영업 및 고객 지원 서비스
@@ -34,11 +37,12 @@ Keyence Corporation은 1974년에 설립된 일본의 산업자동화 및 검사
 - 역할: 자동화 및 검사 장비 사용
 - 반도체, 전자부품, 포장, 자동차, 가전제품, 공작기계 및 자동화 장비 산업
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 역할: 부품 및 원자재 공급
 - 전자부품 제조업체, 광학 부품 공급업체
-
 ## 주요제품
 
 - 광전 센서, 근접 센서
@@ -65,10 +69,13 @@ Keyence는 전 세계 110개국에서 350,000개 고객사를 보유하고 있�
 - Cognex Corporation (US, [CGNX](/company-analysis/cgnx/))
 - Mitsubishi Electric Corporation (JP, 6503)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
-Keyence는 산업 자동화 및 검사 장비 시장에서 선도적인 위치를 차지하고 있으며, 특히 센서 및 머신 비전 시스템 분야에서 강세를 보이고 있습니다.
+{{< adsense-infeed >}}
 
+Keyence는 산업 자동화 및 검사 장비 시장에서 선도적인 위치를 차지하고 있으며, 특히 센서 및 머신 비전 시스템 분야에서 강세를 보이고 있습니다.
 ## 최근 뉴스 및 재무 성과
 
 - **2024년 1월**: CL-3000 시리즈 공초점 변위 센서에 새로운 제품 추가
@@ -78,7 +85,6 @@ Keyence는 산업 자동화 및 검사 장비 시장에서 선도적인 위치�
 ## 자세한 종목 정보 링크
 
 [Keyence Corporation - Official Website](https://www.keyence.com/)
-
 - 기업 기본정보
 	- 자동화 기기 시장의 대표 기업으로 각종 센서와 측정기 제품에 강점
 	- 로봇에 활용되는 각종 센서와 머신 비전 라인업을 보유([로봇 부품](/industry-study/로봇-부품/))

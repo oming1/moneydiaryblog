@@ -1,14 +1,15 @@
 ﻿---
 title: "SAN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-06T15:11:43+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 768
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 769
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-06T06:11:43Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #헬스케어 #일반의약품제조
 
@@ -18,17 +19,16 @@ weight: 768
 - **Industry:** 일반 의약품 제조 (Drug Manufacturers - General)
 
 #### 영위사업
-
 Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 제품을 연구, 개발, 제조 및 상업화하는 글로벌 헬스케어 회사입니다. 주요 사업 부문은 전문의약품, 백신, 소비자 건강 제품입니다.
-
 #### 전방/후방산업
-
 - **전방산업:** 의료 서비스 및 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 보험사
     - **핵심 기업:** CVS Health (미국, [CVS](/company-analysis/cvs/)), UnitedHealth Group (미국, [UNH](/company-analysis/unh/))
 - **후방산업:** 생명공학 연구 및 원료 공급
     - **핵심 산업:** 연구소, 원료 공급업체
     - **핵심 기업:** Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)), Merck KGaA (독일, [MRK](/company-analysis/mrk/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -39,12 +39,15 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
 - **유통:** 글로벌 시장에 의약품을 유통합니다.
     - **대표 회사:** McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
 
-#### 주요제품
+{{< adsense-infeed >}}
 
+#### 주요제품
 - **Dupixent:** 아토피 피부염 및 천식 치료제 (2023년 매출 비중: 20%)
 - **Lantus:** 당뇨병 치료제 (2023년 매출 비중: 15%)
 - **Aubagio:** 다발성 경화증 치료제 (2023년 매출 비중: 10%)
 - **Praluent:** 고콜레스테롤혈증치료제 (2023년 매출 비중: 5%)
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 
@@ -60,6 +63,8 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)):** 다양한 치료제 및 의료기기
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 백신 개발 실패 (2021)**
 - **Dupixent의 새로운 적응증 승인 (2022)**

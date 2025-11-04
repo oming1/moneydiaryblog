@@ -1,14 +1,15 @@
 ﻿---
 title: "PPI-CPI 스프레드"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T06:50:22+09:00
+lastmod: 2025-11-03T21:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:27Z" />
 </div>
 ### 1. 기업 실적 훼손
 
@@ -18,6 +19,10 @@ weight: 2
 
 - **PPI와 CPI 동반 상승**: 생산 비용과 소비자 가격이 함께 오르는 경우, [기업은 비용 증가를 소비자에게 전가]할 수 있어 실적을 유지할 가능성이 높습니다. 이는 안정적인 인플레이션 환경에서 발생합니다
 
+{{< adsense-infeed >}}
+
 ### 3. 기업 실적 상승
+
+{{< adsense-infeed >}}
 
 - **PPI 정체, CPI 상승**: 생산 비용이 안정적이거나 하락하는 반면 소비자 가격이 오르는 경우, [기업의 마진이 증가하여 실적이 개선]될 수 있습니다. 이는 기업이 가격 결정력을 가질 때 발생할 수 있습니다

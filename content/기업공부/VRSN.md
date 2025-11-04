@@ -1,14 +1,15 @@
 ﻿---
 title: "VRSN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 938
----<div style="display:none">
+weight: 939
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -46,7 +47,9 @@ VeriSign의 수익 모델은 매우 안정적입니다. 도메인 등록 및 갱
 - 인터넷 거버넌스: 인터넷 정책 및 표준 수립 (ICANN(ICANN), NTIA(NTIA))
     
 - 네트워크 인프라: 인터넷 연결성 제공 (Cisco(US, [CSCO](/company-analysis/csco/)), Akamai(US, [AKAM](/company-analysis/akam/)))
-    
+
+{{< adsense-infeed >}}
+
 - 데이터센터: 서버 및 인프라 호스팅 (Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/)))
 
 ## 밸류체인
@@ -82,7 +85,6 @@ VeriSign의 주요 고객은 도메인 등록기관(레지스트라)들로, 이�
 2. Namecheap(Namecheap): 주요 도메인 등록 서비스
     
 3. Tucows(CA, TC): 도메인 등록 및 통신 서비스
-    
 4. Network Solutions(Network Solutions): 기업용 도메인 등록 서비스
     
 5. Alibaba Cloud(CN, [BABA](/company-analysis/baba/)): 중국 시장 도메인 등록 서비스
@@ -106,9 +108,7 @@ VeriSign은 .com 및 .net 도메인에서 독점적 지위를 가지고 있지�
 5. Nominet(Nominet): 영국 .uk 도메인 관리
 
 ## 산업 내 글로벌 시장 점유율
-
 VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약 50%의 점유율을 보유하고 있습니다(2024년 기준). 전체 도메인 시장에서는 약 45%의 점유율을 차지하고 있으며, 이는 지난 3년간 큰 변화 없이 안정적으로 유지되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. ICANN과 .com 레지스트리 계약 갱신으로 2030년 11월까지 독점 운영권 확보 (2024년)
@@ -118,7 +118,6 @@ VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약
 3. 2024년 9월부터 .com 도메인 가격 $0.67 인상 결정 (2024년)
     
 4. 중국 시장에서의 수요 약화로 전체 도메인 기반 0.6% 감소 (2023년)
-    
 5. 워렌 버핏의 버크셔 해서웨이가 1,320만주(약 27억 달러) 보유, 대규모 지분 확대 (2023-2025년)
 
 ## 주요주주(지분율)
@@ -126,7 +125,9 @@ VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약
 1. Berkshire Hathaway (13.8%)
     
 2. Vanguard Group (11.7%)
-    
+
+{{< adsense-infeed >}}
+
 3. BlackRock (9.2%)
     
 4. State Street Corporation (4.5%)

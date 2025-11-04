@@ -1,14 +1,15 @@
 ﻿---
 title: "WDAY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-11-29T09:42:16+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 956
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 957
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-29T00:42:16Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #정보기술 #소프트웨어 #재무관리 #인적자원관리
 
@@ -18,11 +19,8 @@ weight: 956
 - Industry: Software - Application(소프트웨어 - 애플리케이션)
 
 ## 영위 사업
-
 Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, 학생 정보 시스템 소프트웨어를 제공하는 기업입니다. 주요 제품으로는 글로벌 인력 및 채용 관리, 재무 관리, 직원 셀프 서비스 등이 있습니다.
-
 ## 전방/후방 산업
-
 - 전방 산업:
     
     - 핵심 산업: 기업 IT, 인사 관리
@@ -30,10 +28,11 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
     - 주요 기업: 대기업, 교육 기관, 정부 기관
     
 - 후방 산업:
-    
     - 핵심 산업: 클라우드 인프라, 데이터 센터
     - 역할: 기술 인프라 제공
     - 주요 기업: Amazon Web Services, Microsoft Azure
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -47,7 +46,11 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
     - 기업 고객에게 클라우드 기반 HR 및 재무 관리 서비스를 제공합니다.
     - 대표 기업: Salesforce (미국, [CRM](/company-analysis/crm/)), ServiceNow (미국, [NOW](/company-analysis/now/))
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - 재무 관리 애플리케이션
 - 인적 자원 관리 애플리케이션
@@ -57,7 +60,6 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
 ## 주요 판매 국가
 
 미국을 중심으로 전 세계적으로 사업을 전개하고 있습니다.
-
 ## 경쟁업체
 
 - SAP SuccessFactors (독일, SAP)
@@ -70,6 +72,8 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
 Workday는 HR 및 재무 관리 소프트웨어 시장에서 주요 플레이어 중 하나로, Fortune 500 기업의 60% 이상이 Workday를 사용하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - VNDLY 인수로 외부 인력 관리 역량 강화 ($510 million, 2021년)
 - Carl Eschenbach가 새로운 단독 CEO로 취임 (2024년 3월)

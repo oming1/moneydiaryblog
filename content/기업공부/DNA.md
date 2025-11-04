@@ -1,14 +1,15 @@
 ﻿---
 title: "DNA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 285
----<div style="display:none">
+weight: 286
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어 #바이오테크 #바이오보안 #세포프로그래밍플랫폼 #효소
 
@@ -18,7 +19,6 @@ Sector: [헬스케어](/industry-study/2산업헬스케어/)
 Industry: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 ## 영위사업
-
 Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 위한 플랫폼을 구축하는 생명공학 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **세포 프로그래밍 플랫폼**: 세포를 설계하여 식품 원료, 치료제, 화학물질 등의 생물학적 생산을 가능하게 합니다.
@@ -35,11 +35,12 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 - **제약 및 바이오테크 기업**: Merck (US, [MRK](/company-analysis/mrk/)), Bayer (독일, BAYN.DE)
 - **식품 및 소비재 산업**: Ajinomoto (일본), Cargill (미국)
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - **생명공학 연구 장비 제조업체**: Illumina (US, [ILMN](/company-analysis/ilmn/))
 - **유전자 합성 서비스 제공업체**: Twist Bioscience (US, [TWST](/company-analysis/twst/))
-
 ## 밸류체인
 
 1. **연구개발**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
@@ -49,7 +50,6 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 2. **생산 및 상용화**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
     
     - 발효 및 대량 생산 지원.
-    
 3. **응용 및 협력**: 제약회사 및 산업 파트너와 협력하여 제품 개발.
 
 ## 주요제품
@@ -60,10 +60,11 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 4. **백신 개발 지원**
 5. **바이오보안 서비스**
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Ginkgo Bioworks는 주로 미국 시장에서 사업을 영위하며 글로벌 파트너와 협력하고 있습니다.
-
 ## 경쟁업체
 
 1. Recursion Pharmaceuticals (US, [RXRX](/company-analysis/rxrx/))

@@ -1,14 +1,15 @@
 ﻿---
 title: "EOG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 316
----<div style="display:none">
+weight: 317
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,7 +21,6 @@ weight: 316
 산업: 석유가스탐사및생산
 
 ## 영위사업
-
 EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가스 탐사·생산 기업입니다. 회사는 주로 미국 내 주요 셰일 분지에서 비전통 자원의 개발에 주력하고 있습니다.주요 사업 영역:
 
 1. 석유 및 천연가스 탐사
@@ -30,7 +30,6 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 2024년 기준, EOG는 미국 내 주요 셰일 지역인 퍼미안 분지, 이글 포드, 바켄 등에서 활발한 생산 활동을 펼치고 있으며, 일일 생산량은 약 90만 배럴의 석유 환산량(BOE)에 달합니다.최근에는 디지털 기술을 활용한 생산 효율성 향상과 함께 탄소 배출 감축을 위한 노력을 강화하고 있습니다. 또한, 신규 유전 탐사와 기존 자산의 최적화를 통해 지속적인 성장을 추구하고 있습니다.
 
 ## 핵심 경쟁력
-
 4. 저비용 생산자: 효율적인 운영과 첨단 기술 활용으로 업계 최저 수준의 생산 비용 유지
 5. 프리미엄 자산 포트폴리오: 고품질 셰일 자산에 집중된 포트폴리오 구축
 6. 기술 혁신: 독자적인 시추 및 완결 기술을 통한 생산성 향상
@@ -52,7 +51,6 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 - 파이프라인: Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
 
 ## 밸류체인
-
 9. 탐사: EOG Resources(US, [EOG](/company-analysis/eog/)) (석유 및 가스 탐사)
 10. 시추: Helmerich & Payne(US, [HP](/company-analysis/hp/)) (육상 시추 서비스)
 11. 생산: EOG Resources(US, [EOG](/company-analysis/eog/)) (원유 및 천연가스 생산)
@@ -60,11 +58,15 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 13. 정제: Phillips 66(US, [PSX](/company-analysis/psx/)) (석유 정제)
 14. 유통: Murphy USA(US, MUSA) (주유소 네트워크)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - [원유](/industry-study/원유/): 주요 셰일 분지에서 생산, 매출의 약 70% (2024년 기준)
 - [천연가스](/industry-study/천연가스/): 셰일 가스 생산, 매출의 약 20% (2024년 기준)
 - 천연가스 액([NGL](/industry-study/ngl/)): 습성 가스전에서 생산, 매출의 약 10% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 고객
 
@@ -73,7 +75,6 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 - 전력 회사: NextEra Energy(US, [NEE](/company-analysis/nee/)), Dominion Energy(US, [D](/company-analysis/d/))
 - 트레이딩 회사: Vitol, Trafigura
 - 파이프라인 운영사: Energy Transfer(US, [ET](/company-analysis/et/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
-
 ## 주요 판매국가
 
 미국이 주요 판매 국가이며, 일부 국제 시장에도 수출하고 있습니다.
@@ -90,7 +91,11 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 
 EOG Resources는 2024년 기준 미국 내 독립 석유·가스 생산업체 중 생산량 기준으로 약 5%의 시장 점유율을 보유하고 있습니다. 글로벌 시장에서는 약 1%의 점유율을 차지하고 있으며, 최근 3년간 미국 내 시장 점유율은 꾸준히 증가하는 추세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 퍼미안 베이슨 내 신규 고생산성 구역 발견 및 개발 착수 (2024년)
 - 탄소 포집 및 저장(CCS) 기술 투자 확대 발표 (2023년)
@@ -99,7 +104,6 @@ EOG Resources는 2024년 기준 미국 내 독립 석유·가스 생산업체 �
 - 신규 수출 터미널 지분 인수로 LNG 수출 역량 강화 (2022년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (9.12%)
 - BlackRock (7.65%)
 - State Street Corporation (4.33%)

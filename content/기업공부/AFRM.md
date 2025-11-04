@@ -1,14 +1,15 @@
 ﻿---
 title: "AFRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 39
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #AFRM #BNPL #BuyNowPayLater #이커머스금융 #스마트할부 #무이자결제 #머천트수수료 #이자수익 #API핀테크 #파이낸셜서비스 #신용기반분할결제 #젊은소비자 #가맹점네트워크 #Shopify통합 #후방리스크 #신용평가엔진 #데이터드리븐언더라이팅 #리볼빙크레딧 #앱기반금융 #소상공인지원 #소비자보호 #리턴관리 #ShopPay #AffirmCard #AffirmOne
 
@@ -48,6 +49,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 
 ### 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 1. **Merchant Solutions (약 65% 매출)**
     - 가맹점 수수료: 거래액의 4–6% 청구
     - 결제 인프라·데이터 서비스 수익
@@ -74,6 +77,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 
 ### 핵심 기술
 
+{{< adsense-infeed >}}
+
 - **신용평가 엔진**: 실시간 데이터 피처 엔지니어링, 벡터 AI 모델
 - **분산아키텍처**: AWS 기반 글로벌 결제 처리·리스크 모니터링
 - **API·SDK**: 결제·리포트·반품 연계
@@ -89,6 +94,8 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 전방산업 / 후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 
 	- 전자상거래·리테일·여행·교육·헬스케어 등 POS 지불 솔루션 수요
@@ -113,7 +120,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 주요 제품
-
 - **Affirm Instalments**: [4~12개월 분할 무이자(또는 저이자) 결제]
 - **Affirm Card**: Visa 네트워크 기반 할부 카드
 - **Affirm One**: 구독형 금융·혜택 프로그램
@@ -127,7 +133,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 - Shopify([SHOP](/company-analysis/shop/))·Etsy 셀러(소상공인)
 - Walmart·Peloton·Wayfair 등 대형 리테일 파트너
 - 여행·교육 플랫폼, 레저·의료 서비스
-
 ---
 
 ### 주요 판매 국가
@@ -182,7 +187,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 관련 ETF
-
 - **IPAY** – ETFMG Prime Mobile Payments ETF IPAY
 - **FINX** – Global X FinTech ETF FINX
 - **KWEB** – KraneShares CSI China Internet ETF KWEB (글로벌 BNPL 노출 가능)

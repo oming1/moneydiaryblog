@@ -1,14 +1,15 @@
 ﻿---
 title: "ERIE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-24T10:20:16+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 321
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 322
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-24T01:20:16Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #금융서비스 #보험 
 
@@ -23,8 +24,9 @@ weight: 321
 - **판매 관련 서비스 (Sales Related Services):** 대리인 보상, 판매 및 광고 지원
 - **언더라이팅 서비스 (Underwriting Services):** 언더라이팅 및 정책 처리
 - **기타 서비스 (Other Services):** 고객 서비스, 행정 지원, 정보 기술 서비스
-
 **전방/후방산업 (Upstream Industries)**
+
+{{< adsense-infeed >}}
 
 - **전방산업 ( Industries):**
     - **핵심 산업:** 자동차, 주택, 상업 부동산
@@ -33,6 +35,8 @@ weight: 321
 - **후방산업 (Downstream  Industries):**
     - **핵심 산업:** 재보험, 금융 기술 (Fintech)
     - **핵심 기업:** Swiss Re (스위스, SREN), Munich Re (독일, MUV2)
+
+{{< adsense-infeed >}}
 
 **밸류체인 (Value Chain)**
 
@@ -46,8 +50,9 @@ weight: 321
     - **대표 회사:** MetLife (미국, MET), Prudential Financial (미국, PRU)
 - **서비스 (Service):** 고객 서비스 및 지원
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Deloitte (미국, 비상장)
-
 **주요제품 (Main Products)**
+
+{{< adsense-infeed >}}
 
 - **자동차 보험 (Auto Insurance):** 개인 및 상업용 차량 보험
 - **주택 보험 (Home Insurance):** 주택 소유자 및 임차인 보험
@@ -55,13 +60,11 @@ weight: 321
 - **생명 보험 (Life Insurance):** 개인 및 그룹 생명 보험
 
 **경쟁업체 (Competitors)**
-
 - **Allstate (미국, ALL):** 개인 및 상업용 보험
 - **Travelers Companies (미국, [TRV](/company-analysis/trv/)):** 상업 및 개인 보험
 - **Progressive (미국, [PGR](/company-analysis/pgr/)):** 자동차 및 주택 보험
 - **State Farm (미국, 비상장):** 개인 및 상업용 보험
 
 **최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)**
-
 - **기후 변화:** 자연 재해로 인한 보험 청구 증가 (2023)
 - **디지털 전환:** 디지털 플랫폼 및 서비스 확장 (2022)

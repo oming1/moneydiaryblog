@@ -1,14 +1,15 @@
 ﻿---
 title: "CEG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 187
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #유틸리티  #전력기기 #전력관리 #전기 
 #재생가능유틸리티
@@ -33,6 +34,8 @@ Constellation Energy Corporation(NASDAQ: CEG)은 미국 최대의 탄소중립 �
 주요 고객으로는 유틸리티 기업, 지방자치단체, 협동조합, 상업/산업 부문, 공공 부문 및 일반 가정이 있습니다.최근 1년 내 주요 이슈로는 24/7 탄소중립 에너지 매칭 제품 출시 계획, 기후 변화 대응을 위한 야심찬 목표 설정, 그리고 지속 가능성 원칙에 대한 깊은 헌신 등이 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 
@@ -67,19 +70,16 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 7. 고객 서비스: Constellation Energy(US, [CEG](/company-analysis/ceg/)) (고객 지원 및 서비스)
 
 ## 주요제품
-
 - 전력 공급: 가정, 상업, 산업용 전력, 매출의 약 70% (2023년 기준)
 - 천연가스 공급: 가정 및 상업용 천연가스, 매출의 약 20% (2023년 기준)
 - 에너지 관리 서비스: 기업 고객 대상 에너지 효율화 솔루션, 매출의 약 5% (2023년 기준)
 - [재생에너지](/industry-study/재생에너지/) 솔루션: 태양광 설치, 청정에너지 인증서 등, 매출의 약 5% (2023년 기준)
 
 ## 주요 고객
-
 - 유틸리티 기업: Duke Energy(US, [DUK](/company-analysis/duk/)), Southern Company(US, [SO](/company-analysis/so/))
 - 지방자치단체: New York City, Chicago
 - 상업/산업 고객: Walmart(US, [WMT](/company-analysis/wmt/)), Amazon(US, [AMZN](/company-analysis/amzn/))
 - 일반 가정 고객
-
 ## 주요 판매국가
 
 미국
@@ -98,6 +98,8 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 
 Constellation Energy는 2024년 3분기 기준 미국 전력 유틸리티 산업에서 약 7.05%의 시장 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 - 24/7 탄소중립 에너지 매칭 제품 출시 계획 발표 (2024년)
@@ -105,7 +107,6 @@ Constellation Energy는 2024년 3분기 기준 미국 전력 유틸리티 산업
 - 지속 가능성 원칙에 대한 깊은 헌신 강조 (2022년)
 - COVID-19 팬데믹 영향에 따른 사업 연속성 유지 및 회복 전략 실행 (2021년)
 - 신규 원자력 발전 기술 투자 확대 (2022년)
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (8.17%)
@@ -113,7 +114,6 @@ Constellation Energy는 2024년 3분기 기준 미국 전력 유틸리티 산업
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
-
 - Utilities Select Sector SPDR Fund - XLU
 - iShares U.S. Utilities ETF - IDU
 - Vanguard Utilities ETF - VPU

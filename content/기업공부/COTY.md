@@ -1,14 +1,15 @@
 ﻿---
 title: "COTY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 222
----<div style="display:none">
+weight: 223
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -39,12 +40,13 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 리테일: 뷰티 제품 유통 및 판매 (Sephora(Sephora), Ulta Beauty(US, [ULTA](/company-analysis/ulta/)))
     
 - 온라인 쇼핑: e-커머스 플랫폼을 통한 판매 (Amazon(US, [AMZN](/company-analysis/amzn/)), Alibaba(US, [BABA](/company-analysis/baba/)))
-    
 - 소셜 미디어: 제품 홍보 및 인플루언서 마케팅 (Meta Platforms(US, [META](/company-analysis/meta/)), TikTok(TikTok))
 
 후방산업:
@@ -56,13 +58,13 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 - 계약 제조: 제품 생산 위탁 (Knowlton Development Corporation(KDC), Fareva(Fareva))
 
 ## 밸류체인
-
 1. 연구개발: Coty(US, [COTY](/company-analysis/coty/)) (원료 연구, 포뮬러 개발)
     
 2. 원료 조달: BASF(DE, BAS) (화학 원료), International Flavors & Fragrances(US, IFF) (향료)
-    
+
+{{< adsense-infeed >}}
+
 3. 제품 제조: Coty(US, [COTY](/company-analysis/coty/)) (자체 생산), Fareva(Fareva) (계약 제조)
-    
 4. 브랜드 관리: Coty(US, [COTY](/company-analysis/coty/)) (브랜드 포트폴리오 관리)
     
 5. 마케팅 및 광고: 디지털 마케팅 에이전시, 인플루언서 네트워크
@@ -78,7 +80,6 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 2. 색조 화장품: 커버걸, 맥스 팩터, 리멜 등의 메이크업 제품 (2024년 매출의 약 28%)
     
 3. 스킨케어: 카일리 스킨, 필로소피 브랜드 제품 (2024년 매출의 약 5%)
-    
 4. 바디케어: 다양한 바디케어 제품 라인 (2024년 매출의 약 8%)
     
 5. 소비자 뷰티: 커버걸 클린 프레시 유미 글로스, 리멜 쓰릴 시커 마스카라 등 신제품 (2024년 2분기 매출 6억 5백만 달러, 전체 매출의 35% 차지)
@@ -96,7 +97,6 @@ Coty의 주요 고객은 개인 소비자와 소매업체가 주를 이루지만
 4. 전문 뷰티 체인: Sephora, Ulta 등을 통한 프레스티지 및 매스 브랜드 유통
     
 5. 면세점: 프레스티지 향수 라인 유통
-
 ## 주요 판매국가
 
 유럽(44%), 미주(42%), 아시아-태평양(14%) (2024년 기준)
@@ -134,12 +134,16 @@ Coty의 주요 고객은 개인 소비자와 소매업체가 주를 이루지만
 1. Agnaten SE (51.82%)
     
 2. BlackRock Advisors LLC (4.562%)
-    
+
+{{< adsense-infeed >}}
+
 3. Vanguard Fiduciary Trust Co. (4.081%)
     
 4. BNP Paribas Arbitrage SA (3.992%)
     
 5. Sue Nabi (CEO) (3.655%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

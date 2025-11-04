@@ -1,14 +1,15 @@
 ﻿---
 title: "KMX"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-20T17:22:19+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 491
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 492
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-20T08:22:19Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #중고차 #자동차소매 #자동차 #임의소비재 #신차 
 
@@ -28,6 +29,8 @@ CarMax 판매 운영 부문은 중고 차량을 판매하고, 고객 및 기타 
 
 CarMax, Inc.는 미국 최대의 중고차 소매업체로, 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 중고차 판매
 2. 신차 판매 (일부 매장)
 3. 차량 금융 서비스 (CarMax Auto Finance)
@@ -35,9 +38,7 @@ CarMax, Inc.는 미국 최대의 중고차 소매업체로, 주요 사업 영역
 5. 차량 보증 서비스 (MaxCare)
 
 CarMax는 온라인과 오프라인을 통합한 옴니채널 플랫폼을 운영하여 고객에게 편리하고 투명한 차량 구매 경험을 제공합니다.
-
 ## 주요제품
-
 1. 중고차
 2. 신차 (일부 매장)
 3. 차량 금융 상품
@@ -45,7 +46,6 @@ CarMax는 온라인과 오프라인을 통합한 옴니채널 플랫폼을 운�
 5. 차량 검사 및 정비 서비스
 
 ## 주요 판매국가
-
 CarMax는 주로 미국 시장에서 사업을 영위하고 있으며, 전국에 걸쳐 매장을 운영하고 있습니다.
 
 ## 경쟁업체
@@ -59,8 +59,9 @@ CarMax는 주로 미국 시장에서 사업을 영위하고 있으며, 전국에
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 CarMax는 미국 중고차 소매 시장에서 선도적인 위치를 차지하고 있습니다.
-
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024년 2분기 소매 중고차 판매량 5.1% 증가, 동일 매장 판매 4.3% 증가 (2024년)
 2. 옴니채널 플랫폼 강화를 통한 온라인 및 오프라인 통합 구매 경험 제공 (2022-2024년)

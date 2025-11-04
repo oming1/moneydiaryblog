@@ -1,14 +1,15 @@
 ﻿---
 title: "UMAC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 909
----<div style="display:none">
+weight: 910
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,7 +19,6 @@ weight: 909
 
 섹터: 임의소비재
 산업: 전자장비및부품
-
 ## 영위사업
 
 Unusual Machines, Inc.(NYSE American: UMAC)는 드론 및 무인항공기(UAV) 산업에 특화된 기업입니다. 주요 사업은 드론 부품 및 완제품 제조, 판매입니다. 
@@ -26,9 +26,7 @@ Unusual Machines, Inc.(NYSE American: UMAC)는 드론 및 무인항공기(UAV) �
 회사는 Fat Shark와 Rotor Riot 두 브랜드를 보유하고 있습니다.Fat Shark는 FPV(first-person view) 초저지연 비디오 고글 분야의 선두 기업이며, Rotor Riot은 소형 아크로바틱 FPV 드론 및 장비를 전문 e커머스 플랫폼을 통해 판매합니다.Unusual Machines는 미국산 드론 부품 개발에 주력하고 있으며, 최근 첫 미국산 제품인 Brave F7 Flight Controller를 출시했습니다. 이 제품은 미 국방부의 Blue UAS Framework 승인을 받았습니다.최근 1년간 주요 이슈로는 Brad Mello를 제조 부문 부사장으로 영입, Donald Trump Jr.의 자문위원회 합류, 그리고 Brave F7 Flight Controller의 Blue UAS Framework 승인 획득 등이 있습니다.
 
 ## 핵심 경쟁력
-
 Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
-
 1. 미국산 드론 부품 개발: 국가 안보 우려를 해소하고 국방부 요구사항을 충족하는 미국산 부품 생산
 2. 전략적 인수: Rotor Riot과 Fat Shark 인수를 통한 시장 입지 강화 및 기술력 확보
 3. 정부 승인: Brave F7 Flight Controller의 Blue UAS Framework 등재로 국방 분야 진출 기반 마련
@@ -36,8 +34,9 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 5. 커뮤니티 기반: Rotor Riot을 통한 드론 애호가 커뮤니티 확보 및 브랜드 인지도 제고
 
 ## 전방/후방산업
-
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 국방산업: Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Northrop Grumman(US, [NOC](/company-analysis/noc/))
 - 상업용 드론: DJI(CN, DJI), Parrot(FR, PARRO)
@@ -55,8 +54,9 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 - FPV 고글: Fat Shark 브랜드의 저지연 비디오 고글, 매출의 약 40% (2024년 기준)
 - 소형 FPV 드론: Rotor Riot 브랜드의 아크로바틱 드론, 매출의 약 20% (2024년 기준)
 - 드론 액세서리: 부품 및 주변기기, 매출의 약 10% (2024년 기준)
-
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 캐나다
 

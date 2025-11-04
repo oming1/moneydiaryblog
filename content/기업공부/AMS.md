@@ -1,14 +1,15 @@
 ﻿---
 title: "AMS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 64
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -21,6 +22,8 @@ weight: 64
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력을 가진 의료 장비 리스 및 서비스 기업으로, 병원과 의료 센터에 방사선 수술 및 방사선 치료 장비에 대한 혁신적인 금융 솔루션을 제공합니다. 회사는  
 자회사인 GK Financing, LLC(81% 소유)를 통해 감마나이프 장비 소유권 분야에서 세계적인 선두 기업으로 자리매김하고 있습니다.
 
@@ -31,7 +34,6 @@ American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력�
 2. 세기조절 방사선 치료(IMRT) 시스템
     
 3. 양성자 빔 방사선 치료(PBRT) 시스템
-    
 4. 첨단 디지털 선형가속기
 
 최근에는 로드아일랜드 방사선 치료 암 센터 3곳의 인수를 진행 중이며, 에콰도르 국제 암 센터의 장비 업그레이드를 완료했고, 2025년 2분기에는 멕시코 푸에블라에 새로운 센터를 개설할 예정입니다. 또한 10개 감마나이프 고객 사이트 중 4곳과 계약을 연장했습니다.
@@ -77,7 +79,6 @@ American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력�
 6. 유지보수 및 지원: American Shared Hospital Services(US, [AMS](/company-analysis/ams/)) (장비 유지보수 및 기술 지원)
 
 ## 주요제품
-
 1. 감마나이프 방사선 수술 장비: 뇌종양, 혈관 기형, 삼차신경통 치료용 (2023년 매출의 약 55%)
     
 2. 양성자 빔 방사선 치료(PBRT) 시스템: 암 치료용, 플로리다 올랜도에 단일 룸 센터 운영 (2023년 매출의 약 30%)
@@ -87,8 +88,9 @@ American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력�
 4. 첨단 디지털 선형가속기: 다양한 암 치료용 (2023년 매출의 약 5%)
 
 ## 주요 고객
-
 American Shared Hospital Services의 주요 고객은 대부분 병원 및 의료 센터이지만, 검색 결과에서 구체적인 고객명이 제시되지 않았습니다. 일반적으로 다음과 같은 유형의 고객을 대상으로 합니다:
+
+{{< adsense-infeed >}}
 
 1. 지역 병원 및 의료 센터
     
@@ -121,13 +123,11 @@ American Shared Hospital Services의 주요 고객은 대부분 병원 및 의�
 ## 최근 3년 내 주요 이슈
 
 1. 로드아일랜드 방사선 치료 암 센터 3곳 인수 진행 (2024년)
-    
 2. 에콰도르 국제 암 센터 장비 업그레이드 완료 (2024년)
     
 3. 멕시코 푸에블라에 새로운 센터 개설 예정 (2025년 2분기)
     
 4. 감마나이프 고객 사이트 4곳과 계약 연장 (2024년)
-    
 5. 2023년 4분기 매출 13.1% 증가, 총 수익 $5,698,000 기록 (2024년)
 
 ## 주요주주(지분율)
@@ -143,7 +143,9 @@ American Shared Hospital Services의 주요 고객은 대부분 병원 및 의�
 4. John Ruffle (6.398%)
     
 5. Bridgeway Capital Management LLC (4.1%)
-    
+
+{{< adsense-infeed >}}
+
 6. Dimensional Fund Advisors LP (3.243%)
     
 7. Vanguard Group, Inc. (2.823%)

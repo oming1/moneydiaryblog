@@ -1,14 +1,15 @@
 ﻿---
 title: "RECI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-11T10:53:09+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 736
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 737
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-11T01:53:09Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #헬스케어 #의약품제조 #바이오테크 #CDMO
 
@@ -20,8 +21,9 @@ weight: 736
 #### 영위사업
 
 Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Manufacturing Organization)로서 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제, 고형제, 무균제 및 기타 의약품 제조로 나뉩니다.
-
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 제약 및 바이오테크 산업
     - **핵심 산업**: 의약품 개발 및 제조
@@ -30,8 +32,9 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
     - **핵심 산업**: 원료 의약품(API) 및 화학 물질 공급
     - **핵심 기업**: BASF (독일, BAS), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
 
-#### 밸류체인
+{{< adsense-infeed >}}
 
+#### 밸류체인
 - **연구개발 (R&D)**: 새로운 의약품 및 치료제 개발
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Merck (미국, [MRK](/company-analysis/mrk/))
 - **제조 (Manufacturing)**: 의약품 및 생물학적 제제의 대량 생산
@@ -41,11 +44,12 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **ATMPs**: 세포 및 유전자 치료제, 바이럴 벡터, 마이크로바이옴 등
 - **Sterile Fill & Finish**: 생물학적 제제 및 소분자 의약품의 무균 충전 및 마감
 - **Oral Delivery Solutions**: 경구용 의약품의 개발 및 제조
 #### 경쟁업체
-
 - **Catalent (미국, [CTLT](/company-analysis/ctlt/))**: 의약품 개발 및 제조 서비스
 - **Lonza Group (스위스, [LONN](/company-analysis/lonn/))**: 생물학적 제제 및 세포 치료제 제조
 - **Patheon (미국, PTHN)**: 의약품 개발 및 제조 서비스

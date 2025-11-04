@@ -1,14 +1,15 @@
 ﻿---
 title: "Hunan Gold"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-19T16:24:36+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 426
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 427
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-19T07:24:36Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #안티모니 #희토류 #원자재 #금 #텅스텐 #광산 #금속및광업 #기초소재 
 
@@ -17,7 +18,6 @@ weight: 426
 산업섹터: 기초 소재(Basic Materials), 금속 및 광업(Metals & Mining)
 
 ## 영위 사업
-
 Hunan Gold Corporation(002155 CH)은 중국의 주요 금 생산 기업 중 하나로, 
 
 [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/), [안티모니](/industry-study/안티모니/), 텅스텐 등 주요 유색금속 개발/제련/가공/생산하는 종합 광산 기업이다. 중국 10대 황금 광산기업 중 하나이며, [안티모니 기준 중국 1위 글로벌 2위 기업]이다. 
@@ -37,15 +37,15 @@ Hunan Gold Corporation(002155 CH)은 중국의 주요 금 생산 기업 중 하�
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - 금 제품 (연간 생산능력 30톤)
 - 정제 안티모니 (연간 생산능력 20,000톤)
 - 안티모니 산화물 (연간 생산능력 20,000톤)
 - 암모늄 파라텅스테이트 (연간 생산능력 5,000톤)
 
 ## 주요 판매 국가
-
 중국 국내 시장, 동남아시아, 유럽, 미국 시장
-
 ## 경쟁업체
 
 - United States Antimony ([UAMY](/company-analysis/uamy/) US)
@@ -57,7 +57,8 @@ Hunan Gold Corporation(002155 CH)은 중국의 주요 금 생산 기업 중 하�
 
 중국 내 10대 금 채굴 기업 중 하나이며, 안티모니 광산 개발에서 두 번째로 큰 기업입니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - 2024년 3분기 실적 전망: 최대 140% 이익 증가 예상 (2024년)
 - 2023년 상반기 실적: 이익 57% 증가, 매출 17% 증가 (2023년)

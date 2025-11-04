@@ -1,14 +1,15 @@
 ﻿---
 title: "LNG추진선"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:29+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
 </div>
 #이산화탄소 #LNG추진선 #LNG
 
@@ -19,6 +20,8 @@ weight: 5
 		3. 그린택소노미가 강화되면서 [탄소포집기술](/industry-study/탄소포집기술/)이 고도화되면, LNG추진선에서 배출되는 탄소를 다시 모을 수 있게 됨
 		4. LNG추진선이 배출하는 탄소를 포집해서 운항할 수 있다면, 암모니아추진선 등 다른 신재생으로 갈 필요 없이 LNG추진선에 탄소포집장치를 설치하는 쪽으로 방향이 바뀔 수 있는 것
 
+{{< adsense-infeed >}}
+
 - 메르의 설명
 	- 배들은 기름 중 제일 하급인 벙커C유를 연료로 씀
 	- 유전에서 뽑은 원유를 끓이면 휘발유 등 돈되는 기름은 먼저 뽑히게 되고, 마지막에는 불순물들로 끈적하고 무거운 기름이 남게되는데 이를 중유라고 함
@@ -28,6 +31,8 @@ weight: 5
 	- 배들이 공기를 나쁘게 하다보니 유엔 산하 국제해사기구에서 유황 배출기준을 기존의 1/7로 줄이라고 강화함
 	-  유황 배출을 줄이는 가장 쉬운 방법은 벙커C유에서 저유황유로기름을 바꾸는 것임
 	-  하지만 이 경우 운항 원가가 엄청 올라가게 되므로 기름을 바꾸지 않고 매연을 줄이는 다른 방식인 스크러버라는 매연 저감장치를 설치하게됨
+
+{{< adsense-infeed >}}
 
 - 관련기업
 	- [삼성중공업](/industry-study/삼성중공업/)

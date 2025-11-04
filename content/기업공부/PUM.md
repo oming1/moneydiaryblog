@@ -1,14 +1,15 @@
 ﻿---
 title: "PUM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-28T21:42:14+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 716
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 717
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:42:14Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #의류 
 
@@ -19,8 +20,9 @@ weight: 716
 
 ## 영위사업
 
-Puma는 스포츠화, 스포츠웨어, 운동화, 액세서리, 의류 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
+{{< adsense-infeed >}}
 
+Puma는 스포츠화, 스포츠웨어, 운동화, 액세서리, 의류 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
 ## 주요제품 및 서비스
 
 - 스포츠화
@@ -28,10 +30,10 @@ Puma는 스포츠화, 스포츠웨어, 운동화, 액세서리, 의류 등 스�
 - 스포츠 액세서리 (가방, 모자 등)
 - 스포츠 장비
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
-
 전 세계적으로 사업을 영위하며, 80여 개국에 제품을 수출하고 있습니다.
-
 ## 경쟁업체
 
 - Adidas(독일, [ADS](/company-analysis/ads/))
@@ -39,7 +41,6 @@ Puma는 스포츠화, 스포츠웨어, 운동화, 액세서리, 의류 등 스�
 - Under Armour(US, [UAA](/company-analysis/uaa/))
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율은 제공되지 않았으나, Puma는 세계 주요 스포츠용품 브랜드 중 하나로 평가받고 있습니다.
 
 ## 최근 주요 이슈
@@ -49,7 +50,6 @@ Puma는 스포츠화, 스포츠웨어, 운동화, 액세서리, 의류 등 스�
 - 골프, 모터 스포츠, 축구 등 스포츠 카테고리에 더 초점
 
 ## 재무 정보 (2019년 기준)
-
 - 매출액: 50억 유로
 - 영업이익: 4억 4,000만 유로
 - 순이익: 2억 2,600만 유로

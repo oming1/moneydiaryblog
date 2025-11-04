@@ -1,14 +1,15 @@
 ﻿---
 title: "NIO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 615
----<div style="display:none">
+weight: 616
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #자동차 #전기차 #중국 #산업재 
    
@@ -20,19 +21,15 @@ weight: 615
 #### 영위사업 (Business Operations)
 
 NIO는 스마트 전기차를 설계, 개발, 제조 및 판매하는 [중국](/industry-study/4국가중국/)의 선도적인 [전기차](/industry-study/2산업자동차-산업전기차/) 제조업체입니다. 주요 사업으로는 전기차, 전기 파워트레인, 배터리 및 관련 서비스 제공이 포함됩니다. 또한, [자율 주행](/industry-study/자율-주행/) 기술과 디지털 기술 혁신에도 주력하고 있습니다.
-
 #### 전방/후방산업 (Forward/Backward Industries)
-
 - **전방산업 (Forward Industries)**:
     - **자동차 판매업체**: NIO의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594.SZ)
     - **충전 인프라 제공업체**: NIO의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
-
 - **후방산업 (Backward Industries)**:
     - **배터리 제조업체**: NIO의 전기차에 필요한 배터리를 제공합니다. 주요 기업: [CATL](/company-analysis/catl/) (중국,300750.SZ), [LG화학](/industry-study/lg화학/) (한국, 051910.KS)
     - **반도체 제조업체**: NIO의 전기차에 필요한 반도체를 제공합니다. 주요 기업: NVIDIA (미국, [NVDA](/company-analysis/nvda/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/))
 
 #### 밸류체인 (Value Chain)
-
 - **연구 및 개발**: 전기차 및 관련 기술을 연구하고 개발합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594.SZ)
 - **제조**: 전기차 및 부품을 제조합니다. 주요 기업: NIO (중국, [NIO](/company-analysis/nio/)), Geely (중국,0175.HK)
 - **판매 및 유통**: 전기차를 판매하고 유통합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), NIO (중국, [NIO](/company-analysis/nio/))
@@ -40,16 +37,19 @@ NIO는 스마트 전기차를 설계, 개발, 제조 및 판매하는 [중국](/
 
 #### 주요제품 (Key Products)
 
+{{< adsense-infeed >}}
+
 - **ES8**: 프리미엄 전기 SUV
 - **ES6**: 중형 전기 SUV
 - **EC6**: 쿠페형 전기 SUV
 - **ET7**: 프리미엄 전기 세단
 - **ET5**: 중형 전기 세단
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가 (Major Sales Countries)
 
 NIO의 주요 판매국가는 중국입니다. 최근 몇 년 동안 유럽 시장으로도 확장하고 있으며, 독일, 노르웨이, 네덜란드 등에서 판매를 시작했습니다.
-
 #### 경쟁업체 (Competitors)
 
 - **Tesla (미국, [TSLA](/company-analysis/tsla/))**: 전기차 및 자율 주행 기술 제공

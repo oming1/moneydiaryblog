@@ -1,14 +1,15 @@
 ﻿---
 title: "CART"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 175
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -25,6 +26,8 @@ Instacart(NASDAQ: CART)는 북미 최대의 온라인 식료품 배달 및 픽�
 
 주요 서비스로는 Instacart 마켓플레이스(소비자용 앱/웹사이트), 엔터프라이즈 플랫폼(소매업체용 기술), Instacart 광고(브랜드 광고 플랫폼) 등이 있습니다. 최근에는 Uber와의 제휴를 통해 레스토랑 배달 서비스도 시작했습니다.2024년 주요 이슈로는 광고 사업 확대, 인공지능 기술 도입 강화, 그리고 비식료품 카테고리로의 확장 등이 있었습니다. Instacart는 지속적인 혁신을 통해 변화하는 소비자 니즈에 대응하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 Instacart의 핵심 경쟁력은 다음과 같습니다:
@@ -34,8 +37,9 @@ Instacart의 핵심 경쟁력은 다음과 같습니다:
 3. 대규모 배달 네트워크: 60만 명 이상의 쇼퍼(배달원)를 통한 신속한 배달 서비스
 4. 데이터 인사이트: 소비자 행동 데이터를 활용한 맞춤형 마케팅 및 상품 추천
 5. 광고 플랫폼: CPG 브랜드를 위한 효과적인 디지털 광고 솔루션 제공
-
 이러한 경쟁력을 바탕으로 Instacart는 빠르게 변화하는 식료품 전자상거래 시장에서 선도적 위치를 유지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -44,11 +48,9 @@ Instacart의 핵심 경쟁력은 다음과 같습니다:
 - Instacart 광고: CPG 브랜드 대상 광고 플랫폼, 매출의 약 15% (2024년 기준)
 
 ## 주요 판매국가
-
 미국, 캐나다
 
 ## 경쟁업체
-
 - Amazon Fresh(US, [AMZN](/company-analysis/amzn/)) - 온라인 식료품 배달
 - Walmart Grocery(US, [WMT](/company-analysis/wmt/)) - 온라인 식료품 주문/픽업
 - DoorDash(US, [DASH](/company-analysis/dash/)) - 음식 배달 플랫폼
@@ -58,7 +60,6 @@ Instacart의 핵심 경쟁력은 다음과 같습니다:
 ## 산업 내 글로벌 시장 점유율
 
 Instacart는 2024년 기준 미국 온라인 식료품 배달 시장에서 약 21.6%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으나, Amazon과 Walmart의 공격적인 확장으로 인해 약간의 하락 추세를 보이고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - Uber와의 제휴를 통한 레스토랑 배달 서비스 시작 (2024년)
@@ -66,7 +67,6 @@ Instacart는 2024년 기준 미국 온라인 식료품 배달 시장에서 약 2
 - 비식료품 카테고리 확대: 가정용품, 화장품 등 (2023년)
 - IPO 성공적 완료 및 NASDAQ 상장 (2023년 9월)
 - 광고 사업 확대: 오프플랫폼 광고 파트너십 체결 (2022년)
-
 ## 주요주주(지분율)
 
 - Sequoia Capital (10.91%)

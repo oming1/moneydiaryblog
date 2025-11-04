@@ -1,14 +1,15 @@
 ﻿---
 title: "NCLH"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-12T00:12:35+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 606
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 607
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-11T15:12:35Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #크루즈 #레저 #환경규제 #해운 #경기소비재 
 
@@ -37,10 +38,11 @@ weight: 606
 - **고객 서비스 및 지원**: 고객 지원 및 서비스 제공. 대표 회사: Norwegian Cruise Line Holdings 고객 서비스 팀.
 
 **주요제품**:
-
 - **Norwegian Cruise Line**: 다양한 크루즈 여행 상품 제공.
 - **Oceania Cruises**: 고급 요리 및 목적지 중심의 크루즈 여행 상품 제공.
 - **Regent Seven Seas Cruises**: 럭셔리 크루즈 여행 상품 제공.
+
+{{< adsense-infeed >}}
 
 **주요 판매국가**:
 
@@ -49,14 +51,14 @@ weight: 606
 - 아시아: 일본, 중국 등 주요 국가.
 
 **경쟁업체**:
-
 - **로얄 캐리비안 그룹 (미국, [RCL](/company-analysis/rcl/))**: 크루즈 여행 서비스.
 - **카니발 코퍼레이션 (미국, [CCL](/company-analysis/ccl/))**: 크루즈 여행 서비스.
 - **MSC 크루즈 (스위스, 비상장)**: 크루즈 여행 서비스.
 
 **산업 내 글로벌 시장 점유율**: Norwegian Cruise Line Holdings는 글로벌 크루즈 시장에서 약 9%의 점유율을 차지하고 있습니다 (2023년 기준).
-
 **최근 3년 내 주요 이슈**:
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹 영향**: 크루즈 산업 전반에 걸쳐 큰 타격을 입었으며, 운영 중단 및 재개 과정에서 많은 도전 과제를 겪었습니다 (2020-2021).
 - **환경 지속 가능성 프로그램**: Sail & Sustain 프로그램을 통해 환경 보호 및 지속 가능성 강화 (2022).

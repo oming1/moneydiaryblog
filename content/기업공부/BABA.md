@@ -1,14 +1,15 @@
 ﻿---
 title: "BABA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 113
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -51,6 +52,8 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
     
 5. 혁신 중심 문화: DAMO Academy 등을 통한 지속적인 R&D 투자
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -66,15 +69,18 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 - 물류: 제품 배송 및 유통 (FedEx(US, [FDX](/company-analysis/fdx/)), SF Express(CN, 002352))
 
 ## 밸류체인
-
 1. 제품 소싱: 글로벌 공급업체 네트워크
     
 2. 플랫폼 운영: Alibaba 자체 개발 팀
     
 3. 결제 처리: Alipay (Ant Group)
-    
+
+{{< adsense-infeed >}}
+
 4. 물류 및 배송: Cainiao Network
-    
+
+{{< adsense-infeed >}}
+
 5. 클라우드 인프라: Alibaba Cloud
     
 6. 마케팅 및 광고: Alimama
@@ -90,7 +96,6 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. Cainiao: 스마트 물류 네트워크 (2024년 매출의 약 5%)
     
 4. 디지털 미디어 및 엔터테인먼트: Youku 등 (2024년 매출의 약 5%)
-    
 5. 혁신 이니셔티브 및 기타: DAMO Academy 등 (2024년 매출의 약 5%)
 
 ## 주요 판매국가
@@ -114,9 +119,7 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 Alibaba는 2024년 기준 글로벌 전자상거래 시장에서 약 28%의 점유율을 보유하고 있으며, 중국 클라우드 컴퓨팅 시장에서는 약 38%의 점유율을 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 52.4억 달러 규모의 클라우드 컴퓨팅 및 AI 인프라 투자 계획 발표 (2025년)
-    
 2. 멕시코 첫 데이터 센터 오픈으로 북미 시장 확대 (2025년)
     
 3. AI 모델 Qwen 2.5-Max 출시로 AI 기술 경쟁력 강화 (2025년)

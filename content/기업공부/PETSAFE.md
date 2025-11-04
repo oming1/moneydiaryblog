@@ -1,14 +1,15 @@
 ﻿---
 title: "PETSAFE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-19T14:36:36+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 684
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 685
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-19T05:36:36Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #로봇 #가정용내구재 #로봇 #가정용로봇 #가전제품 #반려동물 #반려동물로봇 #필수소비재 #반려동물용품
 
@@ -20,9 +21,7 @@ weight: 684
 #### 영위사업
 
 PetSafe는 반려동물의 안전, 훈련, 건강 및 생활을 위한 다양한 제품을 개발, 제조 및 유통하는 회사입니다. 주요 제품군에는 자동 청소 고양이 화장실, 무선 및 지하 울타리, 반려동물 문, 급수기 및 급식기, 훈련 도구 등이 포함됩니다.
-
 #### 전방/후방산업
-
 - **전방산업**:
     - **반려동물 소유자**: 반려동물 소유자 및 애호가 (예: 개인 반려동물 소유자, 반려동물 가게)
     - **반려동물 서비스**: 반려동물 돌봄 및 훈련 서비스 제공업체 (예: Petco (US, [WOOF](/company-analysis/woof/)), PetSmart)
@@ -31,14 +30,17 @@ PetSafe는 반려동물의 안전, 훈련, 건강 및 생활을 위한 다양한
     - **전자 부품**: 전자 부품 공급업체 (예: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/)))
     - **플라스틱 및 금속 부품**: 부품 제조업체 (예: BASF (DE, BAS), Dow Inc. (US, [DOW](/company-analysis/dow/)))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **원자재 조달**: 전자 부품 및 플라스틱/금속 부품 공급업체 (예: Texas Instruments (US, [TXN](/company-analysis/txn/)), BASF (DE, BAS))
 - **제조 및 생산**: 반려동물 용품 제조업체 (예: PetSafe 자체 생산)
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 직접 판매, 대리점, 온라인 플랫폼)
 
-#### 주요제품
+{{< adsense-infeed >}}
 
+#### 주요제품
 - **ScoopFree® 자동 청소 고양이 화장실**: 자동으로 청소되는 고양이 화장실
 - **무선 및 지하 울타리**: 반려동물의 안전한 공간을 위한 울타리 시스템
 - **반려동물 문**: 반려동물이 자유롭게 출입할 수 있는 문

@@ -1,14 +1,15 @@
 ﻿---
 title: "VLO"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-10-04T22:01:36+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 933
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 934
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-04T13:01:36Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #에너지 #원유 #정유 #석유및가스정제및마케팅 #에탄올 #디젤 
 
@@ -19,17 +20,19 @@ weight: 933
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Valero Energy Corporation은 교통 연료, 석유화학 제품의 제조 및 마케팅에 주력하는 미국 기반의 연료 생산 회사입니다[
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - 전방산업:
     
     - 핵심 산업 및 역할: 운송, 석유화학
     - 관련 기업: 자동차 제조업체, 항공사
-      
 - 후방산업:
-    
     - 핵심 산업 및 역할: 원유 생산, 파이프라인
     - 관련 기업: 석유 생산 회사, 파이프라인 운영 회사
 ## 밸류체인
@@ -39,16 +42,18 @@ Valero Energy Corporation은 교통 연료, 석유화학 제품의 제조 및 �
 - 에탄올 생산: 12개의 에탄올 공장 운영, 연간 약 16억 갤런 생산 능력[
 - 유통 및 마케팅: 도매 시장을 통한 제품 판매
 
-## 주요제품
+{{< adsense-infeed >}}
 
+## 주요제품
 - 교통 연료 (가솔린, 디젤, 제트 연료)
 - 석유화학 제품
 - 재생 디젤
 - [에탄올](/industry-study/에탄올/)
-
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 아일랜드, 유럽, 라틴 아메리카[
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

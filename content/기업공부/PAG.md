@@ -1,14 +1,15 @@
 ﻿---
 title: "PAG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 670
----<div style="display:none">
+weight: 671
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #프라이빗에쿼티 #대체투자 #자산운용 #글로벌투자 #아시아태평양 #사모펀드 #벤처캐피탈 #부동산투자 #인수합병 #기업구조조정 #금융
 
@@ -34,18 +35,20 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 - 부동산 개발 및 운용
 - 특수 상황 투자
 
-## 핵심 경쟁력
+{{< adsense-infeed >}}
 
+## 핵심 경쟁력
 1. 아시아 태평양 지역에 대한 깊이 있는 이해와 네트워크
     
     - 25년 이상 아시아 시장 경험
     - 각국 정부, 기업, 금융기관과의 강력한 관계
-    
 2. 다양한 투자 전략과 유연한 자본 구조
     
     - 다각화된 투자 접근법
     - 신속한 투자 기회 대응 능력
-    
+
+{{< adsense-infeed >}}
+
 3. 경험 많은 투자 전문가 팀
     
     - 글로벌 금융기관 출신 전문가
@@ -57,7 +60,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
     - 안정적인 자금 유치 능력
 
 ## 전방/후방산업
-
 ## 전방산업
 
 1. 기업 인수 및 구조조정
@@ -79,7 +81,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 5. 투자 회수: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Citigroup(US, [C](/company-analysis/c/))
 
 ## 주요제품
-
 1. 프라이빗 에쿼티 펀드 (약 60%)
 2. 부동산 펀드 (약 30%)
 3. 절대수익형 전략 펀드 (약 10%)
@@ -106,6 +107,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 6. Hillhouse Capital(CN, Hillhouse Capital)
 7. EQT(SE, [EQT](/company-analysis/eqt/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 - 아시아 태평양 지역 주요 대체투자 운용사 중 하나
@@ -125,7 +128,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 추정 주요 주주: 창업자 및 경영진, 임직원, 일부 기관투자자
 
 ## 관련 ETF
-
 1. iShares Global Financials ETF - IXG
 2. Financial Select Sector SPDR Fund - XLF
 3. Vanguard Financials ETF - VFH

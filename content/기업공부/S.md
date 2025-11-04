@@ -1,14 +1,15 @@
 ﻿---
 title: "S"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 766
----<div style="display:none">
+weight: 767
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -35,7 +36,11 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 4. 광범위한 보호 범위: 엔드포인트, 클라우드, IoT 등 다양한 환경 보호
 5. 데이터 분석 역량: Singularity Data Lake를 통한 고급 보안 분석 및 인사이트 제공
 
+{{< adsense-infeed >}}
+
 이러한 경쟁력을 바탕으로 SentinelOne은 빠르게 성장하는 사이버보안 시장에서 차별화된 위치를 확보하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -45,7 +50,6 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
 - 정부 및 공공기관
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
-
 후방산업:
 
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
@@ -84,13 +88,11 @@ SentinelOne의 정확한 글로벌 시장 점유율 데이터는 제공되지 �
 - 비GAAP 영업 이익률 개선, -5% 기록 (2024년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
-
 - First Trust NASDAQ Cybersecurity ETF - CIBR
 - iShares Cybersecurity and Tech ETF - IHAK
 - Global X Cybersecurity ETF - BUG

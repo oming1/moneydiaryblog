@@ -1,14 +1,15 @@
 ﻿---
 title: "SPNS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 821
----<div style="display:none">
+weight: 822
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #사피엔스인터내셔널 #SPNS #보험소프트웨어 #금융IT #디지털전환 #보험플랫폼 #클라우드솔루션 #AI통합 #엔터프라이즈소프트웨어 #보험관리시스템 #리스크관리 #컴플라이언스 #빅데이터분석 #디지털인슈어런스 #글로벌보험 #헬스케어솔루션 #금융서비스 #저코드플랫폼 #보험혁신 #클라우드마이그레이션 #데이터애널리틱스 #자동화 #보험클레임 #폴리시관리 #지속가능금융 #글로벌확장 #테크홀딩스 #디지털뱅킹 #인슈테크 #금융규제 #이스라엘 
 
@@ -54,7 +55,9 @@ Sapiens International Corporation N.V.은 1982년에 [이스라엘](/industry-st
 
 - **주된 원자재 및 공급망**  
     Sapiens는 소프트웨어 중심 회사로 직접 원자재를 사용하지 않으나, 클라우드 운영에 서버와 소프트웨어 라이선스를 조달합니다. 공급망은 글로벌 클라우드 제공자(예: AWS, Azure)와 파트너로 구성되며, 다각화를 통해 안정성을 유지합니다.
-    
+
+{{< adsense-infeed >}}
+
 - **최근 주요 이슈**
     
     - 2024년: AI 기반 청구 자동화 솔루션 출시, 북미 보험사 대형 계약 수주.
@@ -145,7 +148,6 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 - Sapiens 내부: 소프트웨어 개발.
 
 **유통 및 판매 단계:**
-
 - 직접 영업: 보험사 계약.
 - 파트너: 글로벌 채널.
 
@@ -160,6 +162,8 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 ---
 
 ### 주된 영향을 미치는 원자재
+
+{{< adsense-infeed >}}
 
 - **클라우드 리소스:** 서버 운영, 공급지: 미국, 공급업체 Microsoft(US, [MSFT](/company-analysis/msft/)).
 - **소프트웨어 라이선스:** 개발 도구, 공급지: 글로벌, 공급업체 Oracle(US, [ORCL](/company-analysis/orcl/)).
@@ -183,6 +187,8 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 - 이스라엘: 10% (2023년 기준, 3년간 -1%p).
 - 기타 유럽: 15% (2023년 기준, 3년간 +1%p).
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 경쟁업체
@@ -192,7 +198,6 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 - Duck Creek(US, 비상장) - 클라우드 보험, 시장점유율 8%.
 - Majesco(US, 비상장) - 인슈테크, 시장점유율 6%.
 - Ebix(US, EBIX) - 보험 플랫폼, 시장점유율 5%.
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -206,6 +211,8 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 ---
 
 ### 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 - 매출 성장률: 3년 CAGR 12% (2021-2023).
 - 영업 이익률: 15% (2023년).
@@ -233,7 +240,6 @@ Sapiens는 소프트웨어 회사로 직접 제조 공정이 없습니다. 대�
 ---
 
 ### 관련 ETF
-
 **직접 관련 ETF:**
 
 - IGV - iShares Expanded Tech-Software ETF IGV.

@@ -1,14 +1,15 @@
 ﻿---
 title: "UHS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 906
----<div style="display:none">
+weight: 907
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #의료서비스 #병원운영 #행동건강 #급성치료 #의료시설 #의료보험 #환자중심케어 #의료품질 #규모의경제 #지역사회의료 #의료기술 #의료인력 #의료인프라 #의료경영 #의료네트워크 #의료접근성 #의료혁신 #의료데이터 #의료시설 #헬스케어 #병원 
 
@@ -18,6 +19,8 @@ weight: 906
 ## 영위사업
 
 Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 제공 기업입니다. 1979년 설립되어 현재 뉴욕 증권거래소(NYSE)에 상장되어 있습니다. UHS는 주로 두 가지 핵심 사업 부문을 운영하고 있습니다:
+
+{{< adsense-infeed >}}
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스, 응급 치료, 수술, 진단 등을 제공합니다.
 2. 행동 건강 관리 서비스: 정신 건강 및 중독 치료 서비스를 제공합니다.
@@ -46,6 +49,8 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 2. 의료 장비: Siemens Healthineers(DE, SHL)
 3. 의료 소모품: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 의료 시설 개발: UHS, HCA Healthcare(US, [HCA](/company-analysis/hca/))
@@ -56,13 +61,14 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 6. 환자 치료: UHS
 7. 보험 청구 및 수익 관리: UHS, Optum(US, [UNH](/company-analysis/unh/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스, 수술, 응급 치료 (매출 비중: 약 55%, 2023년 기준)
 2. 행동 건강 관리 서비스: 정신 건강 및 중독 치료 (매출 비중: 약 45%, 2023년 기준)
 3. 외래 진료 서비스
 4. 응급 의료 서비스
-
 ## 주요 고객
 
 UHS의 주요 고객은 개인 환자, 의료보험 회사, 정부 기관(Medicare, Medicaid) 등입니다.
@@ -78,18 +84,18 @@ UHS는 주로 미국 내에서 사업을 영위하고 있으며, 일부 시설�
 3. Community Health Systems(US, [CYH](/company-analysis/cyh/)) - 지역 병원 네트워크 운영
 4. Acadia Healthcare Company(US, [ACHC](/company-analysis/achc/)) - 행동 건강 시설 운영
 5. LifePoint Health(LifePoint Health) - 지역사회 병원 운영
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, UHS는 미국 내 행동 건강 서비스 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. Oracle Health와의 통합 EHR 시스템 도입 계약 체결 (2023)
 2. COVID-19 팬데믹 대응 및 영향 관리 (2021-2023)
 3. 디지털 헬스케어 및 원격 의료 서비스 확대 (2022-2024)
 4. 행동 건강 서비스 수요 증가에 따른 시설 확장 (2022-2024)
 5. ESG 이니셔티브 강화 및 지속가능성 보고서 발행 (2023)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

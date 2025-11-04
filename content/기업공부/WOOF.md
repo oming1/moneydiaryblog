@@ -1,14 +1,15 @@
 ﻿---
 title: "WOOF"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 968
----<div style="display:none">
+weight: 969
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #반려동물 #반려동물건강및웰니스 #임의소비재 #전문소매 #반려동물건강보험
 #반려동물용품
@@ -31,14 +32,14 @@ Petco는 반려동물 용품, 식품, 서비스를 제공하는 종합 반려동
 수의학 치료, 미용, 훈련을 포함한 반려동물 건강 서비스 제품군을 제공한다.  
   
 미국, 멕시코, 푸에르토리코 전역에 1,500개 이상의 반려동물 케어 센터를 운영하며 상품, 반려동물 용품, 미용, 훈련, 현장 동물병원 및 이동식 동물병원 네트워크를 제공하고 있다.  
-
 반려동물 케어 센터를 통해 반려동물 건강 및 웰니스 생태계를 제공하며, petco.com과 Petco 앱에서 디지털 액세스를 제공한다.
-
 Petco Health and Wellness Company, Inc.(WOOF)는 반려동물 건강 및 웰니스 제품과 서비스를 제공하는 미국 기업입니다.
 
 ## 전방/후방산업
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 반려동물 용품 제조업체
 - 반려동물 식품 제조업체
@@ -49,6 +50,8 @@ Petco Health and Wellness Company, Inc.(WOOF)는 반려동물 건강 및 웰니�
 - 수의사 및 동물병원
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 제품 개발: WholeHearted, Reddy, Well & Good 등 자체 브랜드 개발
 2. 유통: 1,500개 이상의 매장 및 온라인 플랫폼 운영
@@ -78,7 +81,6 @@ Petco Health and Wellness Company, Inc.(WOOF)는 반려동물 건강 및 웰니�
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - 2024년 3월 Mike Mohan을 임시 CEO로 임명 (2024)
 - 2025년 회계연도 말까지 1억 5천만 달러의 비용 절감 목표 설정 (2024)
 - 500개 이상의 제품이 포함된 새로운 휴일 컬렉션 'Merry Makings' 출시 (2024)

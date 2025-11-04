@@ -1,14 +1,15 @@
 ﻿---
 title: "NTAP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-07T12:49:15+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 629
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 630
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-07T03:49:15Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #데이터인프라 #클라우드 #통합데이터스토리지
 
@@ -19,21 +20,25 @@ NetApp, Inc.(NTAP)는 데이터 인프라 솔루션을 제공하는 미국 기�
 섹터: 정보기술(Information Technology)  
 산업: 컴퓨터 하드웨어(Computer Hardware)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라우드](/industry-study/2산업클라우드/) 운영(CloudOps) 솔루션을 제공합니다. 주요 제품으로는 올플래시 어레이, 하이브리드 클라우드 스토리지 시스템, 소프트웨어 정의 오브젝트 스토리지 플랫폼 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
-
 - 반도체 제조업체
-
 ## 전방산업
 
 - 데이터 센터
 - 클라우드 서비스 제공업체
 - 엔터프라이즈 고객
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -41,7 +46,6 @@ NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라�
 2. 제조: NetApp
 3. 판매 및 유통: 직접 판매, 파트너십
 4. 서비스: 전문 서비스, 컨설팅, 운영 지원
-
 ## 주요제품
 
 - ONTAP 운영 체제
@@ -50,6 +54,8 @@ NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라�
 - FAS Series (하이브리드 플래시)
 - StorageGRID (오브젝트 스토리지)
 - FlexPod (컨버지드 인프라)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

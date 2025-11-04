@@ -1,14 +1,15 @@
 ﻿---
 title: "NKLA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 619
----<div style="display:none">
+weight: 620
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #자동차 #수소 #전기차 #수소충전소 #자동차제조 #전기트럭 #산업재 
 
@@ -19,14 +20,19 @@ weight: 619
 
 **산업섹터 (Sector):** 산업재 (Industrials)  
 
+{{< adsense-infeed >}}
+
 **산업 (Industry):** 농업 및 중장비 기계 (Farm & Heavy Construction Machinery)
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션을 개발하는 기술 혁신 및 통합 회사입니다. 이 회사는 배터리 전기 차량([전기차](/industry-study/2산업자동차-산업전기차/), BEV) 및 수소 연료 전지 전기 차량(수소차, FCEV)을 상용 트럭 부문에 상업화하고 있습니다. 또한 [수소](/industry-study/수소/) 연료 충전소 네트워크를 개발하고 BEV 및 FCEV 고객을 위한 충전 솔루션을 제공합니다
 
-### 전방/후방산업
+{{< adsense-infeed >}}
 
+### 전방/후방산업
 **전방산업:**
 
 - 물류 및 운송업체: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
@@ -42,7 +48,6 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - **Nikola Tre BEV:** 배터리 전기 트럭 (매출 비중: 2023년 기준 60%)
 - **Nikola Tre FCEV:** 수소 연료 전지 전기 트럭 (매출 비중: 2023년 기준 30%)
 - **충전 솔루션:** BEV 및 FCEV 고객을 위한 충전 솔루션(수소충전소) (매출 비중: 2023년 기준 10%)
-
 ### 주요 판매국가
 
 - 미국 (주요 매출 국가)
@@ -54,11 +59,9 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - **Tesla (US, [TSLA](/company-analysis/tsla/)):** 전기차 제조 (시장 점유율 20%)
 - **General Motors (US, [GM](/company-analysis/gm/)):** 자동차 제조 (시장 점유율 15%)
 - **Ford Motor Company (US, [F](/company-analysis/f/)):** 자동차 제조 (시장 점유율 10%)
-
 ### 산업 내 글로벌 시장 점유율
 
 Nikola Corporation의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
-
 ### 최근 3년 내 주요 이슈
 
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

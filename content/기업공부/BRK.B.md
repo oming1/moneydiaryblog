@@ -1,14 +1,15 @@
 ﻿---
 title: "BRK.B"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 155
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #금융 #다각화된금융서비스 #보험 #철도 #에너지 #제조업 #소매업 
 
@@ -19,12 +20,13 @@ weight: 155
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 버크셔 해서웨이는 다양한 산업에 걸쳐 자회사를 보유하고 있으며, 주요 사업 영역은 보험, 철도, 에너지, 제조업, 소매업 등입니다.
 
 #### 전방/후방산업
 
 - **전방산업:** 보험, 철도, 에너지, 제조업, 소매업
-    
     - **보험:** 보험 상품을 제공하는 산업. 주요 기업: AIG (미국, [AIG](/company-analysis/aig/)), MetLife (미국, MET).
     - **철도:** 철도 운송 서비스를 제공하는 산업. 주요 기업: Union Pacific (미국, [UNP](/company-analysis/unp/)), CSX Corporation (미국, CSX).
     - **에너지:** 전력 및 가스 공급을 포함한 에너지 산업. 주요 기업: NextEra Energy (미국, [NEE](/company-analysis/nee/)), Duke Energy (미국, [DUK](/company-analysis/duk/)).
@@ -34,6 +36,8 @@ weight: 155
     
     - **금융 서비스:** 금융 상품 및 서비스를 제공하는 산업. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
     - **투자 관리:** 자산 관리 및 투자 서비스를 제공하는 산업. 주요 기업: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group.
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -46,7 +50,11 @@ weight: 155
 - **서비스 제공:** 금융 서비스 및 투자 관리
     - 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **보험 상품:** 다양한 보험 상품 제공 (자동차, 주택, 생명보험 등)
 - **철도 운송 서비스:** BNSF Railway를 통한 철도 운송 서비스
@@ -55,11 +63,9 @@ weight: 155
 - **소매 제품:** 가전제품, 의류, 식료품 등
 
 #### 주요 판매국가
-
 - **미국:** 주요 매출 국가
 - **캐나다:** 철도 및 에너지 사업
 - **유럽:** 보험 및 제조업
-
 #### 경쟁업체
 
 - **보험:** AIG (미국, [AIG](/company-analysis/aig/)), MetLife (미국, MET).

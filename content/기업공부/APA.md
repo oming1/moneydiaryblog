@@ -1,14 +1,15 @@
 ﻿---
 title: "APA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 77
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #석유가스 #탐사생산 #에너지 #천연가스 #원유 #미드스트림 #배당주 #에너지
 
@@ -19,7 +20,6 @@ weight: 77
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
 ## 영위사업
 
 APA Corporation은 독립 에너지 기업으로, [천연가스](/industry-study/천연가스/), [원유](/industry-study/원유/), 천연가스 액체의 탐사, 개발, 생산을 주요 사업으로 영위하고 있습니다. 주요 사업 영역은 다음과 같습니다:
@@ -47,12 +47,16 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 정유: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 탐사: APA Corporation (주요 사업 영역)
 2. 시추: Helmerich & Payne(US, [HP](/company-analysis/hp/)) - 육상 시추 서비스
@@ -62,11 +66,9 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 6. 유통: Phillips 66(US, [PSX](/company-analysis/psx/)) - 주유소 운영
 
 ## 주요제품
-
 1. 원유 (2023년 매출 비중: 81.2%)
 2. 천연가스 (2023년 매출 비중: 11.9%)
 3. 천연가스 액체 (2023년 매출 비중: 6.9%)
-
 ## 주요고객
 
 1. 정유 회사
@@ -75,12 +77,13 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 4. 천연가스 유통 업체
 5. 산업용 에너지 소비자
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 1. 이집트 (2023년 매출 비중: 41%)
 2. 미국 (2023년 매출 비중: 4.9%)
 3. 북해 지역 (2023년 매출 비중: 18.1%)
-
 ## 경쟁업체
 
 1. Occidental Petroleum(US, [OXY](/company-analysis/oxy/)) - 석유 및 가스 탐사 생산

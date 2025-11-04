@@ -1,14 +1,15 @@
 ﻿---
 title: "CSCO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 241
----<div style="display:none">
+weight: 242
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #네트워킹하드웨어및소프트웨어 #정보기술 #보안 #사이버보안 #데이터센터 #라우터 
 #네트워킹 #라우터 #스위치 #보안 #사이버보안 #클라우드 #AI인프라 #데이터센터 #엔터프라이즈 #통신장비 #소프트웨어 #구독서비스 #디지털전환 #SD-WAN #무선네트워크 #정보기술 #기업솔루션 #네트워크보안 #협업솔루션 #관찰솔루션
@@ -22,6 +23,8 @@ weight: 241
 ## 산업 (Industry)
 
 산업: 통신장비 (Communications Equipment)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -58,7 +61,6 @@ Cisco의 비즈니스 모델은 네트워킹 인프라를 기반으로 한 통�
 - Splunk 인수로 보안 분석 역량 강화
 
 **3. 협업 솔루션 (매출 8% 비중):**
-
 - WebEx: 화상회의 및 협업 플랫폼
 - 통신 솔루션: IP 전화, 콜센터 솔루션
 - 클라우드 콜링: UCaaS(Unified Communications as a Service)
@@ -98,7 +100,6 @@ Cisco의 핵심 경쟁력은 네트워킹 분야의 압도적인 시장 지배�
 글로벌 서비스 및 지원 체계도 핵심 경쟁력입니다. 전 세계 200여 개국에서 24/7 기술 지원을 제공하며, 90만 명 이상의 Cisco 인증 전문가 네트워크를 보유하고 있습니다. 이는 기업 고객들이 미션 크리티컬한 네트워크 운영에서 Cisco를 선택하는 주요 이유입니다.
 
 Splunk 인수를 통한 데이터 분석 역량 강화도 중요한 경쟁 우위입니다. 280억 달러 규모의 Splunk 인수로 보안 정보 및 이벤트 관리(SIEM), 로그 분석, 머신러닝 기반 위협 탐지 능력을 대폭 강화했습니다. 이를 통해 네트워크 보안 통합 솔루션 제공 능력이 크게 향상되었습니다.
-
 구독 모델 전환 성공도 핵심 경쟁력입니다. 전체 매출의 56%가 구독형 수익으로, 안정적이고 예측 가능한 수익 구조를 구축했습니다. 이는 경기 변동에 상대적으로 덜 민감한 비즈니스 모델을 구현했음을 의미합니다.
 
 ---
@@ -125,6 +126,8 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 
 **3. 공급망 관리:**
 
+{{< adsense-infeed >}}
+
 - 핵심 반도체 및 부품 사전 확보
 - 다변화된 공급망을 통한 리스크 관리
 
@@ -143,7 +146,6 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 ## 전방산업 / 후방산업
 
 **전방산업:**
-
 - 엔터프라이즈 고객: 대기업 네트워크 인프라 구축 - Microsoft(US, [MSFT](/company-analysis/msft/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 통신사업자: 네트워크 인프라 및 5G 장비 - Verizon(US, [VZ](/company-analysis/vz/)), AT&T(US, [T](/company-analysis/t/))
 - 정부 및 공공기관: 네트워크 보안 및 인프라 - 미국 정부, 각국 정부기관
@@ -191,6 +193,8 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 
 **네트워킹 장비:** 라우터, 스위치, 무선장비, 매출 비중 약 54% (2024년 기준), 관련 경쟁사 [ANET](/company-analysis/anet/), [JNPR](/company-analysis/jnpr/)
 
+{{< adsense-infeed >}}
+
 **보안 솔루션:** 방화벽, 네트워크 보안, SASE, 매출 비중 약 13% (2024년 기준), 관련 경쟁사 [PANW](/company-analysis/panw/), [FTNT](/company-analysis/ftnt/)
 
 **서비스:** 기술 지원, 유지보수, 컨설팅, 매출 비중 약 27% (2024년 기준), 관련 경쟁사 [IBM](/company-analysis/ibm/), [ACN](/company-analysis/acn/)
@@ -220,7 +224,6 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 - 사용처: 고속 네트워킹 및 데이터 전송
 - 주요 공급 지역: 미국, 중국, 일본
 - 주요 공급 업체: Lumentum [LITE](/company-analysis/lite/), Coherent [COHR](/company-analysis/cohr/), Sumitomo Sumitomo Electric
-
 **전자 부품:**
 
 - 사용처: 회로 기판, 커넥터, 전원 공급 장치
@@ -273,7 +276,6 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 - 아시아태평양/일본/중국: 약 14% (77억 달러, 2024년 기준)
 
 최근 3년간 미국 시장 비중은 안정적으로 유지되고 있으며, 아시아태평양 지역에서는 중국 시장 제재로 인한 영향이 있었지만 인도 및 동남아시아 시장 확대로 상쇄되고 있습니다.
-
 ---
 
 ## 경쟁업체

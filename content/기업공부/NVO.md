@@ -1,14 +1,15 @@
 ﻿---
 title: "NVO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 639
----<div style="display:none">
+weight: 640
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #헬스케어 #제약 #당뇨병 #비만치료제 #혈우병
 #성장호르몬결핍증치료제 #인슐린 #바이오테크 #위고비 #삭센다 
@@ -19,6 +20,8 @@ weight: 639
 - **Industry**: [바이오테크](/industry-study/바이오테크/) (Biotechnology)
 
 #### 영위사업
+
+{{< adsense-infeed >}}
 
 Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제조 및 유통하는 글로벌 헬스케어 기업입니다. 주요 사업 부문은 당뇨병 및 [비만 치료제](/industry-study/비만-치료제/)와 희귀질환 치료제(인슐린, 성장 호르몬, 혈우병 치료제)로 나뉩니다.
 [노보노디스크는 주요 파이프라인 중 여전히 비만과 당뇨를 우선순위로 두고 개발하고 있다. 제품 차별화를 위한 제형 변경 시도는 지속될 전망이다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=48&selection=188,1,227,1&color=yellow))
@@ -31,15 +34,15 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 	- **의료 서비스 제공업체:** UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
 	- **약국 체인:** CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
 
+{{< adsense-infeed >}}
+
 - **후방산업 (Upstream Industry)**:
-    
     - **원료 공급**: 의약품 제조에 필요한 원료를 공급하는 산업입니다.
     - **주요 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 	- **원료 공급업체:** BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
 	- **제약 장비 제조업체:** Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Danaher (US, [DHR](/company-analysis/dhr/))
 
 #### 밸류체인
-
 - **연구 및 개발 (R&D)**: Novo Nordisk는 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
     - **대표 회사**: Roche (스위스, [ROG](/company-analysis/rog/)), Merck (미국, [MRK](/company-analysis/mrk/))
 - **제조**: 의약품을 대량 생산하는 단계입니다.
@@ -50,7 +53,6 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
     - **대표 회사**: McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
 
 #### 주요제품
-
 - **Ozempic, [오젬픽](/industry-study/오젬픽/)® ([세마글루타이드](/industry-study/세마글루타이드/))**: 제2형 당뇨병 치료제, [비만 치료제](/industry-study/비만-치료제/) (2023년 매출 비중: 30%)
 - [Oral amycretin](/industry-study/oral-amycretin/)(GLP-1/Amylin 이중 작용제; 노보노디스크)
 - **[리벨서스](/industry-study/리벨서스/)(Rybelsus®) ([세마글루타이드](/industry-study/세마글루타이드/))**: [경구용 비만 치료제](/industry-study/경구용-비만-치료제/) (2023년 매출 비중: 20%)
@@ -75,13 +77,13 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 - **Sanofi (프랑스, [SAN](/company-analysis/san/))**: Lantus® (인슐린 치료제)
 - **AstraZeneca (영국, [AZN](/company-analysis/azn/))**: Farxiga® (당뇨병 치료제)
 
-#### 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+#### 산업 내 글로벌 시장 점유율
 - **당뇨병 치료제**: 글로벌 시장 점유율 약 30% (2023년 기준)
 - **비만 치료제**: 글로벌 시장 점유율 약 20% (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
-
 - **Ozempic®의 글로벌 공급 부족** (2022)
 - **Wegovy®의 FDA 승인** (2021)
 - **세마글루타이드의 심혈관 질환 예방 효과 입증** (2023)

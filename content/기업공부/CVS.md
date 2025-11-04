@@ -1,14 +1,15 @@
 ﻿---
 title: "CVS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-21T18:11:25+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 250
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 251
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-21T09:11:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #헬스케어 #헬스케어플랜 #약국 #의약품혜택관리중개자
 
@@ -20,7 +21,6 @@ weight: 250
 ### 영위사업
 
 CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공업체로, 헬스케어 혜택, 헬스 서비스, 약국 및 소비자 웰니스 부문에서 다양한 서비스를 제공합니다
-
 ### 전방/후방산업
 
 - **전방산업:** 헬스케어 서비스업
@@ -32,6 +32,8 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **헬스케어 플랜:**
     - **설명:** 다양한 헬스케어 보험 상품 제공
     - **대표회사:** CVS Health Corporation (미국, [CVS](/company-analysis/cvs/)), UnitedHealth Group (미국, [UNH](/company-analysis/unh/))
@@ -42,6 +44,8 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
     - **설명:** 클리닉 및 헬스케어 서비스 제공
     - **대표회사:** CVS Health Corporation (미국, [CVS](/company-analysis/cvs/)), Cigna (미국, [CI](/company-analysis/ci/))
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **헬스케어 플랜:** 전통적, 자발적, 소비자 지향적 건강 보험 상품
@@ -49,23 +53,23 @@ CVS Health Corporation (CVS)는 미국의 주요 헬스케어 서비스 제공�
 - **헬스 서비스:** 클리닉, 약국 상담, 기타 부가 서비스
 
 ### 주요 판매국가
-
-- **미국:** 주요 매출 국가
-
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **UnitedHealth Group (미국, [UNH](/company-analysis/unh/)):** 헬스케어 플랜, 헬스 서비스
 - **Walgreens Boots Alliance (미국, [WBA](/company-analysis/wba/)):** 약국 서비스
 - **Cigna (미국, [CI](/company-analysis/ci/)):** 헬스케어 플랜, 헬스 서비스
-
 ### 산업 내 글로벌 시장 점유율
 
 - **CVS Health Corporation:** 약 10% (2023년 기준)
 - **UnitedHealth Group:** 약 15% (2023년 기준)
 - **Walgreens Boots Alliance:** 약 8% (2023년 기준)
-
 ### 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
+- **미국:** 주요 매출 국가
 - **코로나19 팬데믹으로 인한 헬스케어 서비스 수요 증가 (2020년)**
 - **Aetna 인수 후 통합 작업 (2021년)**
 - **디지털 헬스케어 서비스 확장 (2022년)**

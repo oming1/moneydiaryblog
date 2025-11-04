@@ -1,14 +1,15 @@
 ﻿---
 title: "KVUE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-22T10:40:37+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 499
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 500
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-22T01:40:37Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #소비자방어주 #소비재 #건강관리 #헬스케어 
 
@@ -22,12 +23,15 @@ weight: 499
 - **전방산업**: 소매업, 헬스케어 서비스
     - **핵심 산업 및 역할**: 소매업체와 헬스케어 서비스 제공업체는 Kenvue 제품을 최종 소비자에게 제공합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), CVS Health Corporation (미국, [CVS](/company-analysis/cvs/))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 제품 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: International Paper Company (미국, [IP](/company-analysis/ip/)), WestRock Company (미국, WRK)
-
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원재료 조달**: 제품 제조에 필요한 원재료 조달
     - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, INGR)
@@ -37,11 +41,12 @@ weight: 499
     - **대표 회사**: United Parcel Service Inc. (미국, [UPS](/company-analysis/ups/)), FedEx Corporation (미국, [FDX](/company-analysis/fdx/))
 
 #### 주요제품
-
 - **스킨케어**: Neutrogena, Aveeno
 - **구강 관리**: Listerine
 - **의약품**: Tylenol (진통제), Benadryl (항히스타민제)
 - **기타**: Band-Aid (상처 치료), Johnson’s Baby (유아용 제품)
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 
@@ -60,7 +65,6 @@ weight: 499
 - **Kenvue**: 글로벌 소비재 건강 관리 시장에서 약 10%의 점유율 (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
-
 - **스핀오프 및 IPO**: Johnson & Johnson의 소비자 건강 부문에서 분사 및 상장 (2023년)
 - **디지털 전환**: 온라인 판매 채널 강화 (2023년)
 - **지속 가능성 강화**: 친환경 포장재 사용 확대 (2024년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "SGHC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 786
----<div style="display:none">
+weight: 787
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #임의소비재 #카지노및게임 #유럽 #온라인스포츠베팅 #카지노
 
@@ -18,18 +19,14 @@ weight: 786
 산업(Industry): 카지노 및 게임(Casinos & Gaming)
 
 ## 영위사업
-
 SGHC Ltd(Super Group)는 온라인 스포츠 베팅 및 게임 사업을 영위하는 글로벌 디지털 게임 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. Betway: 프리미엄 온라인 스포츠북 브랜드로, 스포츠 베팅과 카지노 엔터테인먼트를 제공합니다. 유럽, 아메리카, 아프리카 전역에서 라이선스를 보유하고 있으며, 전 세계적으로 약 60개의 팀 및 리그와 브랜드 파트너십을 맺고 있습니다.
 2. Spin: 다중 브랜드 온라인 카지노 서비스로, 약 16개의 카지노 브랜드로 구성된 포트폴리오를 보유하고 있습니다. 다양한 카지노 제품을 제공하며 고성장 시장에서 리더십을 확립하고 있습니다.
-
 이 회사는 유럽에서 스포츠 베팅업과 [카지노](/industry-study/카지노/) 엔터테인먼 트를 영위. EPL 경기장 광고판에 자주 출현하는 betway와 spin가 슈퍼그룹의 브랜드. 카지노 브랜드는 16개가량 보유. 최근 미국에서 소비 가 경험 소비 중심으로 재편되는 현실 속에서 레 저나 엔터, 베팅 관련주는 섹터 액션이 전개되 는 중. 실적 반전 드라마틱하다는 점에도 주목
 
 회사는 혁신적인 기술 플랫폼을 바탕으로 고객들에게 다양한 베팅 옵션과 게임 경험을 제공하며, 전 세계적으로 확장을 추진하고 있습니다.
-
 ## 전방/후방산업
-
 ## 전방산업
 
 - 온라인 게임 및 베팅 소비자
@@ -37,11 +34,15 @@ SGHC Ltd(Super Group)는 온라인 스포츠 베팅 및 게임 사업을 영위�
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 소프트웨어 개발: 게임 및 베팅 플랫폼 제공업체
 - 결제 시스템: Visa (US, [V](/company-analysis/v/)), Mastercard (US, [MA](/company-analysis/ma/))
 - 데이터 분석: IBM (US, [IBM](/company-analysis/ibm/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 소프트웨어 개발: SGHC Ltd (US, [SGHC](/company-analysis/sghc/)) (자체 플랫폼 개발)
 2. 라이선스 취득: 각국 규제 기관
@@ -61,7 +62,11 @@ SGHC Ltd(Super Group)는 온라인 스포츠 베팅 및 게임 사업을 영위�
 
 SGHC Ltd는 전 세계적으로 사업을 영위하고 있으며, 특히 유럽, 아메리카, 아프리카 지역에서 강세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Flutter Entertainment (아일랜드, FLTR.L) (PokerStars, Betfair)
 2. Entain (영국, ENT.L) (Ladbrokes, Coral)

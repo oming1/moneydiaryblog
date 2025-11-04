@@ -1,14 +1,15 @@
 ﻿---
 title: "PPI"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T06:50:23+09:00
+lastmod: 2025-11-03T21:50:27+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:27Z" />
 </div>
 #물가 #생산자물가
 
@@ -24,13 +25,13 @@ PPI는 국내 생산자가 받는 판매가격의 평균 변화를 측정합니�
 - **중요성**: 향후 소비자물가 상승 압력을 예측하는 선행지표
 
 ## **PPI 시나리오별 시장 영향**
-
 #### **🔴 시나리오 1: PPI 급상승**
-
 - **선행성**: CPI 상승 압력 예고 → 선제적 시장 반응
 - **원자재 섹터**: 에너지, 원자료 관련 주식 상승
 - **소비재 기업**: 마진 압박 우려로 주가 하락 압력
 - **인플레이션 기대**: 상승 → 실질금리 하락 가능
+
+{{< adsense-infeed >}}
 
 [Reuters 분석](https://www.reuters.com/markets/rates-bonds/yields-dip-after-producer-prices-report-focus-turns-cpi-2024-08-13/)에 의하면, "7월 PPI 연간 상승률이 2.2%로 6월 2.7%에서 둔화되면서 수익률이 하락했다"고 보도했습니다.
 
@@ -44,6 +45,8 @@ PPI는 국내 생산자가 받는 판매가격의 평균 변화를 측정합니�
 
 #### **🔥 고인플레이션 시나리오 (CPI↑ + PPI↑)**
 
+{{< adsense-infeed >}}
+
 - **10년국채 수익률**: 4.5-5.0% 상승 가능
 - **주식시장**: 대폭 조정, 특히 고PER 성장주
 - **섹터 로테이션**: 금융주, 에너지주 강세 / 기술주 약세
@@ -54,7 +57,6 @@ PPI는 국내 생산자가 받는 판매가격의 평균 변화를 측정합니�
 - **금리 환경**: 금리인하 사이클 진입 기대
 - **주식시장**: 전반적 랠리, 특히 듀레이션이 긴 성장주
 - **달러 약세**: 신흥국 자산 유입 증가
-
 - 주요 이벤트 일지
 	- 2023년
 		- [2023-07-14](/daily-summary/2023-07-14/)

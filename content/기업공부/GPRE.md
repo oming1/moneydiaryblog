@@ -1,14 +1,15 @@
 ﻿---
 title: "GPRE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-13T17:43:39+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 386
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 387
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-13T08:43:39Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #바이오디젤 #바이오에탄올 #바이오리액터 #기초소재 #화학
 
@@ -21,7 +22,11 @@ weight: 386
 
 Green Plains Inc.는 주로 저탄소 연료, 고단백 사료, 재생 가능한 옥수수 오일 등을 생산합니다. 주요 사업 부문으로는 [에탄올](/industry-study/에탄올/) 생산, 농업 비즈니스 및 에너지 서비스, 파트너십 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 농업, 에너지
     - **핵심 산업:** 작물 재배, 에너지 생산
@@ -32,6 +37,8 @@ Green Plains Inc.는 주로 저탄소 연료, 고단백 사료, 재생 가능한
 
 ### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **원료 생산:** 옥수수 및 기타 농산물 재배
     - **대표 회사:** Archer Daniels Midland (미국, ADM), Cargill (미국, 비상장)
 - **제품 개발:** 바이오 연료 및 고단백 사료 연구 및 개발
@@ -40,9 +47,7 @@ Green Plains Inc.는 주로 저탄소 연료, 고단백 사료, 재생 가능한
     - **대표 회사:** Green Plains Inc. (미국, [GPRE](/company-analysis/gpre/)), Valero Energy (미국, [VLO](/company-analysis/vlo/))
 - **유통 및 판매:** 제품 유통 및 판매
     - **대표 회사:** Green Plains Inc. (미국, [GPRE](/company-analysis/gpre/)), Bunge Limited (미국, BG)
-
 ### 주요제품
-
 - **에탄올:** 저탄소 연료(바이오에탄올) (2023년 매출 비중: 약 50%)
 - **고단백 사료:** 동물 및 수산 사료 (2023년 매출 비중: 약 30%)
 - **재생 가능한 옥수수 오일:** 바이오 연료(바이오디젤) 및 식품 첨가제 (2023년 매출 비중: 약 20%)
@@ -50,12 +55,13 @@ Green Plains Inc.는 주로 저탄소 연료, 고단백 사료, 재생 가능한
 ### 주요 판매국가
 
 Green Plains Inc.는 주로 미국, 브라질, 유럽 등에서 제품을 판매하고 있으며, 주요 매출 국가는 미국입니다. 최근 3년간의 매출 추이는 다음과 같습니다:
-
 - **2021년:** 미국 60%, 브라질 20%, 유럽 15%
 - **2022년:** 미국 62%, 브라질 18%, 유럽 15%
 - **2023년:** 미국 63%, 브라질 17%, 유럽 15%
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Valero Energy (미국, [VLO](/company-analysis/vlo/)):** 다양한 에너지 제품
 - **POET (미국, 비상장):** 바이오 연료 및 관련 제품

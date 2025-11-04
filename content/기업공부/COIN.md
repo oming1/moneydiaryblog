@@ -1,14 +1,15 @@
 ﻿---
 title: "COIN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 214
----<div style="display:none">
+weight: 215
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #암호화폐 #비트코인 #이더리움 #디지털자산 #블록체인 #거래소 #커스터디 #스테이블코인 #USDC #스테이킹 #DeFi #NFT #웹3 #핀테크 #디지털지갑 #Layer2 #Base #기관투자자 #개인투자자 #규제 #라이선스 #금융 #핀테크
 
@@ -111,7 +112,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 
 - 콜드 스토리지 시설 운영
 - 다중 보안 체계 구축 및 관리
-
 **4. 규제 준수 체계:**
 
 - 글로벌 규제 요구사항 준수
@@ -176,7 +176,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 **Institutional Services:** 기관 투자자 서비스, 매출 비중 약 40% (2024년 기준), 관련 경쟁사 BAKKT, GALAXY
 
 **Subscription & Services:** 커스터디, 스테이킹, USDC, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 BITGO, FIREBLOCKS
-
 **Developer Platform:** API 및 인프라 서비스, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 ALCHEMY, INFURA
 
 **Base Layer2:** 이더리움 기반 스케일링 솔루션, 매출 기여도 성장 중, 관련 경쟁사 POLYGON, ARBITRUM
@@ -184,6 +183,8 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 ---
 
 ## 주된 영향을 미치는 원자재
+
+{{< adsense-infeed >}}
 
 **클라우드 컴퓨팅 서비스:**
 
@@ -228,7 +229,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - Citigroup(US, [C](/company-analysis/c/)) - 상업은행, 기관 투자자 서비스
 - Charles Schwab(US, [SCHW](/company-analysis/schw/)) - 증권회사, 기관 투자자 서비스
 - Interactive Brokers(US, [IBKR](/company-analysis/ibkr/)) - 온라인 브로커, 기관 투자자 서비스
-
 ---
 
 ## 주요 판매국가
@@ -272,6 +272,8 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - 2위: Kraken - 약 20%
 - 3위: Gemini - 약 10%
 - 4위: 기타 - 약 10%
+
+{{< adsense-infeed >}}
 
 글로벌 암호화폐 거래소 시장 점유율 약 2위 (2024년 기준), 시장 점유율 약 7.8% (2024년 기준)
 

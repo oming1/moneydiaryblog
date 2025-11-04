@@ -1,14 +1,15 @@
 ﻿---
 title: "TDY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 855
----<div style="display:none">
+weight: 856
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공우주및방산 #산업재 #항공우주부품 #우주 #방산 #항공 #항공우주 #센서 #관측위성 #이미지센서 #고해상도광학카메라
 
@@ -17,11 +18,11 @@ weight: 855
 
 매출구성 
 매출 구성은 크게 항공 프레임, 동력 및 제어, 비 항공체 등으로 나눠 져 있으며, FY 2023 기준 매출 비중은 각각 47%, 50.4%, 2.7%이다. 항 공 프레임 사업부는 주로 비동력 항공기에 사용되는 시스템 및 구성 요소를 개발, 생산, 판매하는데, 래치 및 잠금장치, 로드, 커넥터, 고급 조종석 디스플레이 등 다양한 제품들이 있다. 동력 및 제어 사업부는 항공기의 동력을 주로 제공하거나 제어하는 시스템 및 구성 요소를 고객사에게 제공한다. 액추에이터, 제화 및 점화 시스템, 엔진 기술, 특수 펌프 및 밸브, 전원 조절 장치, 특수 AC/DC 전기 모터 및 발전기 등 이 있다.[비항공 부문은 안전 벨트, 에어백, 우주 장치를 위한 제어 장치 등이 있다. 항공프레임 사업부와 동력 및 제어 사업부의 제품은 애 프터마켓 채널에서 주로 판매된다.](content/산업-테마공부/02.산업/항공,우주,방위%20산업/2.우주/Study/2024/★%201.29_구조적%20변화에%20주목할%20미국%20우주%20항공%20및%20방산.pdf#page=48&selection=299,0,679,1&color=yellow))
-
 ## 산업 섹터
-
 - **Sector(산업섹터)**: Industrials(산업재)
 - **Industry(산업)**: Aerospace & Defense([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
+
+{{< adsense-infeed >}}
 
 ## 영위 사업
 
@@ -32,11 +33,9 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
     - **핵심 산업**: 방산 및 항공우주 서비스
     - **역할**: 최종 소비자에게 고급 기술 솔루션 제공
     - **주요 기업**: Lockheed Martin (미국, [LMT](/company-analysis/lmt/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/))
-    
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원자재 공급 및 전자 부품 제조
@@ -46,7 +45,9 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
 ## 밸류체인
 
 - **제품 개발**:
-    
+
+{{< adsense-infeed >}}
+
     - Teledyne은 첨단 센서 및 데이터 수집 시스템을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 기술
     
@@ -67,6 +68,8 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
     - 항공우주 및 방산 분야에서 사용되는 데이터 수집 장비입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 Teledyne Technologies는 주로 미국에서 매출을 올리며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
@@ -77,6 +80,8 @@ Teledyne Technologies는 주로 미국에서 매출을 올리며, 유럽과 아�
 - **Northrop Grumman** (미국, [NOC](/company-analysis/noc/)) - 경쟁 제품: 방산 기술 및 시스템
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Teledyne Technologies는 글로벌 방산 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 

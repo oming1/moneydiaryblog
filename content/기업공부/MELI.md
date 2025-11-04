@@ -1,14 +1,15 @@
 ﻿---
 title: "MELI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 561
----<div style="display:none">
+weight: 562
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #이커머스 #핀테크 #결제플랫폼 #신용서비스 #물류네트워크 #라틴아메리카 #메르카도파고 #온라인쇼핑몰 #디지털금융 #크레딧카드 #개인간거래 #모바일결제 #암호화폐 #디지털전환 #플랫폼비즈니스 #임의소비재 #인터넷리테일 #전자상거래 #금융서비스 #투자서비스
 
@@ -60,12 +61,12 @@ MercadoLibre의 비즈니스 모델은 라틴 아메리카 디지털 생태계�
 - 결제 데이터를 활용한 신용 평가 및 대출 서비스 제공
 - 물류 네트워크를 통한 경쟁 우위 확보
 
-**4. 지역 특화 전략:**
+{{< adsense-infeed >}}
 
+**4. 지역 특화 전략:**
 - [브라질](/industry-study/브라질/): 최대 시장, 전체 매출의 50% 이상
 - 멕시코: 아르헨티나를 넘어선 2위 시장
 - 아르헨티나: 본사 소재지, 높은 시장 점유율 유지
-
 핵심 경쟁력은 지역 특화 서비스, 통합 생태계 효과, 물류 네트워크, 금융 서비스 확장성입니다.
 
 ---
@@ -92,6 +93,8 @@ AI 기술 도입과 데이터 활용 능력도 주목할 점입니다. 대출 �
 
 ## 제조공정
 
+{{< adsense-infeed >}}
+
 MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조공정이 아닌 서비스 제공 프로세스를 운영합니다.
 
 **1. 플랫폼 개발 및 운영:**
@@ -101,6 +104,8 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 - 데이터 센터 운영
 
 **2. 물류 네트워크 운영:**
+
+{{< adsense-infeed >}}
 
 - 풀필먼트 센터 운영
 - 배송 네트워크 관리
@@ -129,7 +134,6 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 ## 전방산업 / 후방산업
 
 **전방산업:**
-
 - 개인 소비자: 온라인 쇼핑 및 디지털 결제 서비스 이용
 - 소상공인: 온라인 판매 플랫폼 및 결제 서비스 이용
 - 기업 고객: B2B 거래 플랫폼 및 기업 금융 서비스 이용
@@ -186,7 +190,6 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 **Mercado Envios:** 물류 및 배송 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 [FDX](/company-analysis/fdx/), [UPS](/company-analysis/ups/)
 
 **Mercado Credito:** 신용 및 대출 서비스, 핀테크 부문 내 포함, 관련 경쟁사 [NU](/company-analysis/nu/), [SQ](/company-analysis/sq/)
-
 **Mercado Ads:** 광고 플랫폼 서비스, 매출 비중 약 4% (2024년 기준), 관련 경쟁사 [GOOGL](/company-analysis/googl/), [META](/company-analysis/meta/)
 
 ---
@@ -319,6 +322,8 @@ AI 기술 도입을 통한 차세대 성장 동력도 주목할 점입니다. �
 기관 투자자: 81.78% 내부자: 7.32% 개인 투자자: 10.90%
 
 **주요 기관 투자자:**
+
+{{< adsense-infeed >}}
 
 - Morgan Stanley: 3.35% (약 170만 주)
 - Capital International Investors: 3.46% (약 175만 주)

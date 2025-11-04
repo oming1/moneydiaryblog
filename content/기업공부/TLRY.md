@@ -1,14 +1,15 @@
 ﻿---
 title: "TLRY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-09T13:03:54+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 871
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 872
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-09T04:03:54Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #헬스케어 #제약및생명공학 #대마초 
 
@@ -22,7 +23,6 @@ weight: 871
 Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및 유통에 종사하는 기업입니다.
 
 ## 주요제품
-
 - 의료용 및 성인용 대마초 제품
 - CBD 오일 및 관련 제품
 - 대마 기반 음료 및 식품
@@ -30,16 +30,18 @@ Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및
 
 ## 주요 판매국가
 
-캐나다, 미국, 유럽, 호주, 뉴질랜드, 라틴 아메리카
+{{< adsense-infeed >}}
 
+캐나다, 미국, 유럽, 호주, 뉴질랜드, 라틴 아메리카
 ## 경쟁업체
 
 - Canopy Growth(US, [CGC](/company-analysis/cgc/))
 - Aurora Cannabis(캐나다, ACB)
 - Cronos Group(캐나다, CRON)
 
-## 주요 브랜드
+{{< adsense-infeed >}}
 
+## 주요 브랜드
 Tilray, Aphria, Broken Coast, Symbios, B!NGO, The Batch, Dubon, Good Supply, Solei, Chowie Wowie, Canaca, RIFF, SweetWater, Breckenridge Distillery, Alpine Beer Company, Green Flash
 
 ## 최근 주요 이슈
@@ -54,5 +56,7 @@ Tilray, Aphria, Broken Coast, Symbios, B!NGO, The Batch, Dubon, Good Supply, Sol
 - 시가총액: 약 16억 달러
 - 52주 최고가: $2.97
 - 52주 최저가: $1.45
+
+{{< adsense-infeed >}}
 
 Tilray는 글로벌 대마초 시장의 선두 기업 중 하나로, 의료용 및 성인용 대마초 제품뿐만 아니라 음료 알코올 사업으로도 확장하고 있습니다.

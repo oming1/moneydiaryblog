@@ -1,14 +1,15 @@
 ﻿---
 title: "KBH"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-30T20:54:18+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 479
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 480
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-30T11:54:18Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #주택건설 #부동산 #임의소비재 
 
@@ -21,7 +22,11 @@ weight: 479
 
 KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부동산/))로, 주로 단독 주택과 타운하우스를 건설하고 판매합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 
@@ -29,10 +34,8 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 - 가전제품 제조업체: 주택에 설치될 가전제품 공급
 
 ## 전방산업
-
 - 부동산 중개업: 주택 판매 지원
 - 모기지 금융: 주택 구매자를 위한 금융 서비스
-
 ## 밸류체인
 
 1. 토지 확보: KB Home (토지 매입 및 개발)
@@ -42,10 +45,11 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 5. 판매 및 마케팅: KB Home (자체 판매팀)
 
 ## 주요제품
-
 - 단독 주택
 - 타운하우스
 - 주택 맞춤 설계 서비스
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

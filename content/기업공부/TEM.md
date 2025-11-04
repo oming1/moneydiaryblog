@@ -1,14 +1,15 @@
 ﻿---
 title: "TEM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 858
----<div style="display:none">
+weight: 859
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #테크 #컴퓨터소프트웨어 #헬스케어 
 
@@ -49,10 +50,14 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 - 제약 회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 연구 기관: 대학, 연구소
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 데이터 센터 및 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
 - 반도체 제조: NVIDIA (US, [NVDA](/company-analysis/nvda/)), Intel (US, [INTC](/company-analysis/intc/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -63,7 +68,6 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 5. 연구 및 개발: 제약 회사, 연구 기관
 
 ## 주요제품
-
 1. 차세대 시퀀싱(NGS) 진단 서비스
 2. Tempus xT (종양 프로파일링 검사)
 3. Tempus xF (액체 생검 검사)
@@ -72,8 +76,9 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 
 ## 주요 판매국가
 
-Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
+{{< adsense-infeed >}}
 
+Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 
 1. Illumina (US, [ILMN](/company-analysis/ilmn/)) (유전체 시퀀싱 기술)
@@ -85,8 +90,9 @@ Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
-
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 뉴욕증권거래소(NYSE) 상장 완료 (2024년)
 2. Ambry Genetics 인수 계약 체결 (2024년)

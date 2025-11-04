@@ -1,14 +1,15 @@
 ﻿---
 title: "XPO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 988
----<div style="display:none">
+weight: 989
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #소량화물 #화물운송 #산업재 #트럭운송
 
@@ -38,10 +39,11 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 
 주요 서비스로는 트럭 중개, 인터모달 서비스, 라스트마일 물류, 특송 운송, 화물 포워딩 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
-
 - 트럭 제조업체
 - 물류 장비 제조업체
 
@@ -56,7 +58,6 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 2. 운송 서비스 제공: XPO
 3. 물류 솔루션 개발: XPO
 4. 고객 서비스: XPO
-
 ## 주요제품
 
 - LTL 서비스
@@ -65,12 +66,13 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 - 라스트마일 배송
 - 특송 운송
 - 화물 포워딩
-
 ## 주요 판매국가
 
 미국, 캐나다, 멕시코, 프랑스, 영국, 기타 유럽 국가
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Coyote Logistics
 - Lineage
@@ -81,6 +83,8 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, XPO는 북미 지역에서 주요 LTL 서비스 제공업체 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

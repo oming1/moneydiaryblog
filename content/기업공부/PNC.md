@@ -1,14 +1,15 @@
 ﻿---
 title: "PNC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 700
----<div style="display:none">
+weight: 701
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #다각화된은행 #금융 #대출 #카드 
 
@@ -52,12 +53,13 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
         - Citibank (미국, [C](/company-analysis/c/)) - 글로벌 금융 서비스
 
 - **상업 은행 서비스**:
-    
+
+{{< adsense-infeed >}}
+
     - 중소기업을 위한 대출 및 금융 솔루션을 제공합니다.
     - 대표 기업:
         
         - U.S. Bancorp (미국, [USB](/company-analysis/usb/)) - 상업 및 소매 금융 서비스 제공
-
 ## 주요 제품
 
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
@@ -67,7 +69,6 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
 - **상업 대출**: 중소기업을 위한 대출 상품으로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
-
 ## 주요 판매 국가
 
 PNC는 미국을 주요 시장으로 하며, 특히 중서부 지역에서 강력한 입지를 가지고 있습니다.
@@ -77,10 +78,11 @@ PNC는 미국을 주요 시장으로 하며, 특히 중서부 지역에서 강�
 - **JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))**: 종합 금융 서비스 제공.
 - **Bank of America (미국, [BAC](/company-analysis/bac/))**: 다양한 금융 상품과 서비스를 제공.
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 PNC는 미국 내 은행 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - **디지털 뱅킹 확장**: 디지털 플랫폼 강화와 고객 접근성 향상을 위한 노력 (2021).
@@ -88,5 +90,7 @@ PNC는 미국 내 은행 시장에서 약 5%의 점유율을 차지하고 있으
 - **커뮤니티 개발 금융 투자**: 지역 사회 개발을 위한 자금 지원 확대 (2023).
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

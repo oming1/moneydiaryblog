@@ -1,14 +1,15 @@
 ﻿---
 title: "FYBR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 362
----<div style="display:none">
+weight: 363
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #통신서비스 #커뮤니케이션서비스 #광대역통신 #스트리밍 #인터넷서비스
 
@@ -23,6 +24,8 @@ Frontier Communications는 미국 내에서 통신 및 기술 서비스(광대�
 
 #### 전방/후방산업 
 
+{{< adsense-infeed >}}
+
 - **전방산업 (Forward Industries)**:
     
     - **인터넷 서비스 제공업체**: 인터넷 서비스 제공업체(ISP)는 Frontier의 광대역 및 데이터 서비스를 활용합니다. 주요 기업: Comcast (미국, [CMCSA](/company-analysis/cmcsa/)), AT&T (미국, [T](/company-analysis/t/))
@@ -34,6 +37,8 @@ Frontier Communications는 미국 내에서 통신 및 기술 서비스(광대�
     - **통신 인프라 서비스**: 통신 인프라 구축 및 유지보수를 담당합니다. 주요 기업: Crown Castle (미국, [CCI](/company-analysis/cci/)), American Tower (미국, [AMT](/company-analysis/amt/))
 
 #### 밸류체인 (Value Chain)
+
+{{< adsense-infeed >}}
 
 - **네트워크 인프라 구축**: 네트워크 장비 및 인프라 구축을 담당합니다. 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
 - **서비스 제공**: 광대역, 비디오, 음성 및 기타 부가가치 서비스를 제공합니다. 주요 기업: Comcast (미국, [CMCSA](/company-analysis/cmcsa/)), AT&T (미국, [T](/company-analysis/t/))
@@ -48,15 +53,12 @@ Frontier Communications는 미국 내에서 통신 및 기술 서비스(광대�
 #### 주요 판매국가 (Major Sales Countries)
 
 Frontier Communications의 주요 판매국가는 미국입니다. 미국 내 다양한 주 및 지역에서 서비스를 제공합니다.
-
 #### 경쟁업체 (Competitors)
-
 - **Comcast (미국, [CMCSA](/company-analysis/cmcsa/))**: 광대역 및 비디오 서비스 제공
 - **AT&T (미국, [T](/company-analysis/t/))**: 광대역, 비디오 및 음성 서비스 제공
 - **Verizon Communications (미국, [VZ](/company-analysis/vz/))**: 광대역 및 통신 서비스 제공
 
 #### 최근 3년 내 주요 이슈 (Recent Issues within the Last Three Years)
-
 - **2023년 3분기 실적 발표**: 소비자 수익 증가 및 EBITDA 성장 가속화 (2023)
 - **본사 이전**: 본사를 텍사스주 댈러스로 이전 (2023)
 - **Verizon 인수 협상**: Verizon과의 인수 협상 진행 (2024)

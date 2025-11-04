@@ -1,14 +1,15 @@
 ﻿---
 title: "KO"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-23T21:05:42+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 492
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 493
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-23T12:05:42Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #소비자방어주 #음료 #콜라 
 
@@ -19,6 +20,8 @@ weight: 492
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 소매업, 레스토랑 및 외식업
     - **핵심 산업 및 역할**: 소매업체와 레스토랑은 Coca-Cola 제품을 최종 소비자에게 판매합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), McDonald’s Corporation (미국, [MCD](/company-analysis/mcd/))
@@ -26,24 +29,22 @@ weight: 492
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 음료 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: Archer Daniels Midland Company (미국, ADM), Ball Corporation (미국, [BALL](/company-analysis/ball/))
-
 #### 밸류체인
-
 - **원재료 조달**: 음료 제조에 필요한 원재료 조달
     - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, INGR)
 - **제조 및 생산**: 음료 제조 및 생산
     - **대표 회사**: PepsiCo Inc. (미국, [PEP](/company-analysis/pep/)), Keurig Dr Pepper Inc. (미국, [KDP](/company-analysis/kdp/))
 - **유통 및 물류**: 제품 유통 및 물류
     - **대표 회사**: United Parcel Service Inc. (미국, [UPS](/company-analysis/ups/)), FedEx Corporation (미국, [FDX](/company-analysis/fdx/))
-
 #### 주요제품
 
 - **탄산음료**: Coca-Cola, Diet Coke, Coca-Cola Zero Sugar
 - **주스 및 유제품 음료**: Minute Maid, Simply Orange
 - **스포츠 음료**: Powerade
 - **물**: Dasani, Smartwater
-
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지
 - **멕시코**: 큰 시장 중 하나로, 높은 매출 비중
@@ -54,12 +55,15 @@ weight: 492
 - **PepsiCo Inc. (미국, [PEP](/company-analysis/pep/))**: 탄산음료, 스낵
 - **Keurig Dr Pepper Inc. (미국, [KDP](/company-analysis/kdp/))**: 탄산음료, 커피
 - **Nestlé S.A. (스위스, [NESN](/company-analysis/nesn/))**: 물, 유제품 음료
-
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **Coca-Cola**: 글로벌 청량음료 시장에서 약 45%의 점유율 (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹**: 외식업 감소로 인한 매출 하락 (2020년)
 - **지속 가능성 강화**: 재활용 가능한 포장재 사용 확대 (2021년)

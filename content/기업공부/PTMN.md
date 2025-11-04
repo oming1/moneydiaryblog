@@ -1,14 +1,15 @@
 ﻿---
 title: "PTMN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 713
----<div style="display:none">
+weight: 714
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #비즈니스개발회사 #BDC #중간시장대출 #사모신용 #배당투자 #고수익채권 #Mount로간매니지먼트 #BC파트너스 #Portman리지합병 #PTMN통합 #LOGN #중소기업금융 #선순위대출 #후순위대출 #금융중개 #대출포트폴리오 #신용투자 #사모대출 #미들마켓 #레버리지대출 #직접대출 #포트폴리오투자 #배당수익률 #규제투자회사 #RIC #투자수익 #부채금융
 
@@ -26,9 +27,7 @@ weight: 713
 ---
 
 ## 4. 영위사업
-
 Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로서 중간시장 및 하위 중간시장 기업들에게 다양한 금융 솔루션을 제공하는 공개상장 투자회사였습니다. 2025년 7월 15일 Portman Ridge Finance Corporation (PTMN)과의 합병이 완료되어 현재는 통합된 회사로 운영되고 있습니다.
-
 주요 사업은 선순위 대출(First Lien Loans)을 중심으로 하며, 부분적으로 후순위 대출(Second Lien Loans)과 지분 증권에도 투자했습니다. Mount Logan Management LLC가 외부 투자자문사로서 포트폴리오 관리를 담당했으며, 이는 캐나다 Mount Logan Capital Inc.의 완전 자회사입니다.
 
 비즈니스 모델은 [중소기업에 대한 직접 대출을 통해 이자 수익을 창출하고, 이를 주주들에게 배당으로 분배하는 구조]입니다. [BDC 규정에 따라 과세 소득의 최소 90%를 배당으로 지급해야 하는 RIC(Regulated Investment Company) 지위를 유지]했습니다.
@@ -36,7 +35,6 @@ Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로�
 투자 대상은 주로 미국 내 안정적인 현금흐름을 가진 중간시장 기업들이며, 상대적으로 낮은 순환성과 운영 리스크를 가진 사업체를 선호했습니다. 포트폴리오는 다양한 산업에 걸쳐 분산되어 있으며, 펀더멘털 신용 분석을 통해 투자 결정을 내렸습니다.
 
 합병 이전 기준으로 2025년 1분기 순투자수익은 주당 $0.35를 기록했으며, 순자산가치는 주당 $29.66였습니다. 최근 1년간 주가는 $29-34 구간에서 거래되며 상대적으로 안정적인 모습을 보였습니다.
-
 ---
 
 ## 5. 비즈니스 모델 (수익 모델)
@@ -54,7 +52,6 @@ Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로�
 - 기타: 5% 미만
 
 **성장 동력 및 수익성 개선 요인:**
-
 - 중간시장 대출 수요 증가
 - 은행 규제 강화로 인한 직접 대출 기회 확대
 - 포트폴리오 규모 확대를 통한 운영 효율성 개선
@@ -66,6 +63,8 @@ Logan Ridge Finance Corporation (LOGN)은 Business Development Company (BDC)로�
 Logan Ridge Finance의 핵심 경쟁력은 중간시장 기업에 대한 전문적인 신용 분석 능력과 직접 대출 경험에 있었습니다. Mount Logan Management의 투자 전문성을 통해 상대적으로 안정적인 포트폴리오를 구축했으며, 다양한 산업에 걸친 분산 투자로 리스크를 관리했습니다.
 
 특히 선순위 대출에 집중함으로써 원금 보호를 우선시하는 보수적 투자 전략을 구사했습니다. 또한 BDC 구조의 세제 혜택을 활용하여 투자자들에게 안정적인 배당 수익을 제공할 수 있었습니다.
+
+{{< adsense-infeed >}}
 
 합병을 통해 Portman Ridge와 결합하면서 BC Partners의 광범위한 네트워크와 자원을 활용할 수 있게 되어 경쟁력이 더욱 강화될 것으로 예상됩니다.
 
@@ -119,6 +118,8 @@ BDC는 제조업이 아닌 금융서비스업으로 제조 공정이 해당되�
 - Mount Logan Management(US, Mount Logan): 투자자문 및 포트폴리오 관리
 
 **수익 창출 단계:**
+
+{{< adsense-infeed >}}
 
 - 포트폴리오 기업들로부터 이자 및 수수료 수취
 
@@ -202,6 +203,8 @@ BDC는 금융서비스업으로 물리적 원자료가 아닌 금융 자본이 �
 
 ## 17. 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 **주요 재무 지표:**
 
 - 2025년 1분기 순투자수익: 주당 $0.35
@@ -222,7 +225,6 @@ BDC는 금융서비스업으로 물리적 원자료가 아닌 금융 자본이 �
 **2025년:** Portman Ridge Finance와 합병 완료 (7월 15일), BCP Investment Corporation으로 리브랜딩 예정  
 **2024년:** 포트폴리오 회사 지분 매각으로 큰 이익 실현, 3분기 실적 발표  
 **2023년:** Mount Logan Management의 안정적 운용, 배당 정책 유지
-
 ---
 
 ## 19. 주요 주주 (지분율)

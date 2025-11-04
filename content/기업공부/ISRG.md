@@ -1,14 +1,15 @@
 ﻿---
 title: "ISRG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 461
----<div style="display:none">
+weight: 462
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #로봇 #헬스케어 #의료기기 #로봇수술 #다빈치수술시스템 #의료로봇
 
@@ -25,7 +26,6 @@ weight: 461
 			📌 관세 영향 관련 주의사항
 			• FY25 마진 가이던스는 현재 관세로 인한 1.7% 매출 영향 반영
 			• 추가 관세 부과 시 재무 실적에 추가적인 부정적 영향 가능성 언급
-			
 			📍 부문별 실적
 			• 기구 및 액세서리 매출: $13.7억 (예상 $13.4억) 🟢; ▲18% YoY
 			• 시스템 매출: $5.23억; ▲25% YoY
@@ -38,7 +38,9 @@ weight: 461
 			• 누적 설치 기반: 10,189대 (▲15% YoY)
 			• 운영현금흐름: (금액 미공개, 현금 2.69억 증가)
 			• 현금 및 투자자산 잔액: $91억
-			
+
+{{< adsense-infeed >}}
+
 			🔮 FY25 가이던스
 			• 전 세계 수술 건수 성장률: 15%~17%
 			• 비-GAAP 기준 총이익률: 65%~66.5% (FY24 69.1% 대비 하락 예상)
@@ -74,7 +76,6 @@ Intuitive Surgical, Inc.는 1995년에 설립된 미국의 생명공학 회사�
 
 - 역할: 로봇 수술 시스템 사용
 - 병원 및 의료 센터
-
 후방산업:
 
 - 역할: 부품 및 기술 공급
@@ -96,6 +97,8 @@ Intuitive Surgical, Inc.는 1995년에 설립된 미국의 생명공학 회사�
 - 아시아: 1,050대
 - 기타 지역: 342대
 
+{{< adsense-infeed >}}
+
 ## 주요 자산
 
 - 6,730대의 다빈치 수술 시스템 설치 기반 (2021년 말 기준)
@@ -109,15 +112,12 @@ Intuitive Surgical, Inc.는 1995년에 설립된 미국의 생명공학 회사�
 - Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)) - 의료기기 및 제약 회사
 
 ## 산업 내 글로벌 시장 점유율
-
 Intuitive Surgical은 로봇 보조 수술 시장에서 선도적인 위치를 차지하고 있으며, 시장 점유율은 약 80%로 추정됩니다.
 
 ## 최근 재무 성과 (2022년 기준)
-
 - 매출액: 62억 2,220만 달러
 - 영업이익: 15억 7,710만 달러
 - 순이익: 13억 2,230만 달러
-
 ## 자세한 종목 정보 링크
 
 [Intuitive Surgical - Wikipedia](https://en.wikipedia.org/wiki/Intuitive_Surgical)

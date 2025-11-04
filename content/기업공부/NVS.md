@@ -1,14 +1,15 @@
 ﻿---
 title: "NVS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 641
----<div style="display:none">
+weight: 642
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 답변
 
@@ -19,7 +20,6 @@ weight: 641
 Novartis AG ADR(NVS)는 [헬스케어](/industry-study/2산업헬스케어/) 섹터, 제약(Drug Manufacturers - Major) 산업에 속합니다.
 
 ## 영위사업
-
 Novartis는 스위스에 본사를 둔 글로벌 제약회사로, 다양한 치료 영역에서 혁신적인 의약품을 개발, 생산 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 종양학 (2023년 매출 비중: 30%)
@@ -31,6 +31,8 @@ Novartis는 스위스에 본사를 둔 글로벌 제약회사로, 다양한 치�
 Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 대한 치료제를 개발하고 있으며, 최근에는 제네릭 및 바이오시밀러 사업부인 산도즈를 스핀오프(2023년 10월)했습니다. 특히 방사성의약품 분야에서 루타테라와 플루비시온 등을 보유하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 혁신적인 R&D 역량: 다양한 치료 영역에서 혁신 신약 개발
 2. 글로벌 사업 네트워크: 전 세계적인 영업 및 마케팅 인프라
@@ -59,7 +61,6 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
 3. 제조: Novartis (자체 생산시설), Lonza Group (CH, [LONN](/company-analysis/lonn/))
 4. 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 판매: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
-
 ## 주요제품
 
 1. 코센틱스 (건선, 건선성 관절염 치료제)
@@ -74,8 +75,9 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
 2. 약국 체인
 3. 의약품 도매상
 4. 정부 및 공공 의료기관
-
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제공되지 않았습니다. 주요 시장으로는 미국, 유럽, 일본, 중국 등이 있습니다.
 
@@ -98,7 +100,6 @@ Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제�
 3. 모르포시스 인수 (27억 달러, 2024년)
 4. 15개 이상, 60억 달러 이상의 전략적 딜 체결 (2023년)
 5. 방사성의약품 포트폴리오 강화 (2022-2024년)
-
 ## 주요주주(지분율)
 
 1. Novartis Foundation: 3.5%

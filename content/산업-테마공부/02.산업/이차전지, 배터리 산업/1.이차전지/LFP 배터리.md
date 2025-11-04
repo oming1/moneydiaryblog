@@ -1,14 +1,15 @@
 ﻿---
 title: "LFP 배터리"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-11-03T21:50:29+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
 </div>
 #배터리 #LFP배터리
 
@@ -24,9 +25,13 @@ weight: 2
 					- LFP 배터리 사용량은 늘고 있으나 원재료인 [인산염](/industry-study/인산염/) 공급의 증가 속도는 더디다. 파살라쿠아 CEO는 "북미 인산염이 고갈되고 있다"며 "더는 정제 인산(PPA)을 만들 수 없다"고 지적했다.
 					- 인산염은 95%가 중금속이 함유된 퇴적암에서 발견된다. 퇴적암에서 추출한 인산염은 약 10%만 PPA로 전환할 수 있는 것으로 알려졌다. 생산은 까다로운데 수요는 광범위하다. PPA 생산량의 90%는 비료와 사료, 세제, 제약 등 다방면에서 활용되고 있다. 10%만이 배터리에 쓰인다.
 
+{{< adsense-infeed >}}
+
 1. 기본정보
 	- LFP배터리(리튬 인산철 배터리)
 	- 1GWh의 리튬 인산철 배터리를 생산하려면, 2,500톤 정도의 리튬 인산철 양극재가 필요하고, 1톤의 리튬 인산철 양극재를 생산하기 위해서는 4.3톤의 [인광석](/industry-study/인광석/)이 필요함
+
+{{< adsense-infeed >}}
 
 2. 세부정보
 	- LFP배터리 재활용은 리튬만 추출 가능해 경제성 낮음

@@ -1,14 +1,15 @@
 ﻿---
 title: "RKLB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 748
----<div style="display:none">
+weight: 749
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #로켓랩 #RKLB #우주산업 #SpaceX경쟁사 #소형발사체 #중형발사체 #일렉트론로켓 #뉴트론로켓 #위성발사 #위성제조 #우주시스템 #NASA계약 #국방부계약 #우주탐사 #우주서비스 #재사용로켓 #피터벡 #탄소복합재 #전기펌프식엔진 #국가안보임무 #소형위성 #엔드투엔드 #페이로드 #JPL #궤도서비스 #상업우주 #미군우주군 #한계돌파 #Photon우주선 #머플러엔진
 
@@ -17,7 +18,7 @@ weight: 748
 ## 최근이슈
 
 - 2025년
-	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표!Pasted image 20250819065216.png
+	- ROCKET LAB CORP - 이번 주말 다음 일렉트론 미션 발표![](/images/Pasted%20image%2020250819065216.png)
 
 ---
 ## 산업 분류
@@ -173,7 +174,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 7단계: 최종 검사 및 발사체 탑재 준비
 
 **우주선 구성품 제조:**  
-
 1단계: 원자재 검수 및 준비  
 2단계: 정밀 부품 가공 및 제작  
 3단계: 전자 시스템 및 회로 조립  
@@ -193,6 +193,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 ---
 
 ## 전방산업 / 후방산업
+
+{{< adsense-infeed >}}
 
 **전방산업 (제품 사용 산업):**
 
@@ -385,6 +387,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 
 ## 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 **미국:** 65.0% (2024년 기준, 3년간 +8.0%p)  
 주요 고객: NASA, 국방부, 상업 위성 기업들. 정부 계약 및 국가 안보 임무 증가로 비중 확대.
 
@@ -477,7 +481,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 2023년: Planet Labs 25%(1위), Spire Global 15%(2위), Rocket Lab 8%(3위)
 - 2022년: Planet Labs 25%(1위), Spire Global 12%(2위), Rocket Lab 5%(3위)
 - 3년간 추이: Planet Labs 변동 없음, Spire Global +3%p, Rocket Lab +5%p
-
 **전체 상업 우주 발사 시장:**
 
 - 2024년: SpaceX 70%(1위), ULA 10%(2위), Rocket Lab 8%(3위)
@@ -545,7 +548,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 뉴트론 로켓 발사 계약 첫 체결 발표 (2024년 11월)
 
 **2023년:**
-
 - NASA CAPSTONE 달 궤도 미션 성공적 완료 (2023년 3월)
 - 금성 탐사 미션 (Venus Life Finder) 계약 체결 (2023년 8월)
 - 첫 번째 Photon 위성을 활용한 Varda Space 우주 제조 미션 발사 (2023년 12월)

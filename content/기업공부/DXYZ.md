@@ -1,14 +1,15 @@
 ﻿---
 title: "DXYZ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-19T14:13:13+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 299
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 300
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-19T05:13:13Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #금융 #자산관리 #ETN #SpaceX
 
@@ -19,10 +20,11 @@ weight: 299
 
 **영위사업**: Destiny Tech100 Inc.는 주로 기술 혁신에 투자하는 자산 관리 회사입니다. 이 회사는 주로 고성장 기술 주식으로 구성된 포트폴리오를 관리하며, 투자자들이 일반적으로 접근하기 어려운 벤처 기업에 투자할 수 있는 기회를 제공합니다.
 
+{{< adsense-infeed >}}
+
 - 전체 자산 중 35%가 SPACE X 주식
 
 **전방/후방산업**:
-
 - **전방산업**: 기술 혁신 및 스타트업
     - **핵심 산업**: 인공지능, 클라우드 컴퓨팅, 핀테크
     - **관련 기업**: OpenAI, [SpaceX](/company-analysis/spacex/)
@@ -31,12 +33,12 @@ weight: 299
     - **관련 기업**: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group
 
 **밸류체인**:
-
 - **투자 자문 및 관리**: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group
 - **기술 혁신 투자**: OpenAI, SpaceX
 - **포트폴리오 관리**: Destiny Tech100 Inc. (미국, [DXYZ](/company-analysis/dxyz/))
 
-**주요제품**:
+{{< adsense-infeed >}}
 
+**주요제품**:
 - **투자 포트폴리오**: 고성장 기술 주식으로 구성된 포트폴리오
 - **자산 관리 서비스**: 투자 자문 및 관리 서비스

@@ -1,14 +1,15 @@
 ﻿---
 title: "CI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 196
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #보험 #헬스케어 #관리형헬스케어 #건강보험 #메디케어 #메디케이드 #의약품혜택관리중개자 #약국 
 
@@ -18,7 +19,6 @@ weight: 196
 - **Industry(산업)**: Managed Health Care(관리형 헬스케어)
 
 ## 영위 사업
-
 Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생명 및 사고 보험을 포함한 다양한 보험 상품을 제공합니다. 주요 서비스에는 상업 의료 건강 계획, 정부 건강 계획, 그리고 의료, 행동 건강, 약국 관리, 치과 및 시력 분야의 전문 제품과 서비스가 포함됩니다.
 
 ## 전방/후방 산업
@@ -36,14 +36,15 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 
 ## 밸류체인
-
 - **보험 상품 개발**:
     
     - Cigna는 다양한 건강 보험 상품을 개발하여 고객에게 제공합니다.
     - 대표 기업: Aetna (미국, [AET](/company-analysis/aet/)) - 경쟁 제품: 건강 보험
     
 - **서비스 제공**:
-    
+
+{{< adsense-infeed >}}
+
     - 고객에게 의료 서비스와 관련된 다양한 솔루션을 제공합니다.
     - 대표 기업: Humana (미국, [HUM](/company-analysis/hum/)) - 경쟁 제품: 관리형 헬스케어 서비스
 
@@ -55,7 +56,9 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - 매출 비중: 전체 매출의 약 50% 차지.
     
 - **정부 건강 계획**:
-    
+
+{{< adsense-infeed >}}
+
     - Medicare(메디케어) 및 Medicaid(메디케이드)와 같은 정부 주도의 건강 보험 프로그램입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
@@ -64,7 +67,6 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
 Cigna는 미국을 주요 시장으로 하며, 유럽, 아시아 태평양 지역에서도 중요한 매출을 올리고 있습니다.
 
 ## 경쟁업체
-
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Anthem** (미국, [ANTM](/company-analysis/antm/)) - 경쟁 제품: 건강 보험
 
@@ -72,7 +74,11 @@ Cigna는 미국을 주요 시장으로 하며, 유럽, 아시아 태평양 지�
 
 Cigna는 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Express Scripts 인수**: Cigna가 Express Scripts를 인수하여 약국 관리 사업을 강화한 사건 (2018)
 - **Medicare Advantage 사업 매각 발표**: Medicare Advantage 사업 부문을 Health Care Service Corporation에 매각하기로 결정한 사건 (2024)

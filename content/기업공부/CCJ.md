@@ -1,14 +1,15 @@
 ﻿---
 title: "CCJ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-18T17:15:07+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 181
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-18T08:15:07Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #우라늄 #에너지 #원자력연료 #원전 #광산 #우라늄광산
 #우라늄농축물 #우라늄옥사이드 
@@ -22,7 +23,11 @@ weight: 181
 
 Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나로, 주로 우라늄 연료를 생산하여 원자력 발전소에 공급합니다. 이 회사는 고품질 우라늄 광산을 소유하고 있으며, 저비용 운영을 통해 경쟁력을 유지하고 있습니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 원자력 발전업
     - **핵심 산업:** 원자력 발전업은 Cameco의 우라늄 연료를 사용하여 전기를 생산합니다.
@@ -30,9 +35,7 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **후방산업:** 우라늄 채굴업
     - **핵심 산업:** 우라늄 채굴업은 Cameco에 우라늄 원료를 공급합니다.
     - **관련 기업:** Kazatomprom (카자흐스탄, KAP), Uranium One (캐나다, UUU)
-
 ### 밸류체인
-
 - **우라늄 채굴:**
     - **설명:** 우라늄 원료를 채굴
     - **대표회사:** Kazatomprom (카자흐스탄, KAP), Uranium One (캐나다, UUU)
@@ -42,7 +45,6 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **연료 제조:**
     - **설명:** 정제된 우라늄을 사용하여 원자력 연료 제조
     - **대표회사:** Westinghouse Electric Company (미국, [Westinghouse Electric](/company-analysis/westinghouse-electric/)), Global Laser Enrichment (미국, GLE)
-
 ### 주요제품
 
 - **우라늄 농축물:** 원자력 발전소에서 사용되는 연료
@@ -54,18 +56,20 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
 - **미국:** 주요 매출 국가
 - **캐나다:** 주요 매출 국가
 - **일본:** 주요 매출 국가
-
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Kazatomprom (카자흐스탄, KAP):** 우라늄 농축물
 - **Orano (프랑스, ORANO):** 우라늄 농축물, 핵연료 서비스
 - **Uranium One (캐나다, UUU):** 우라늄 농축물
 
 ### 산업 내 글로벌 시장 점유율
-
 - **Cameco Corporation:** 약 18% (2023년 기준)
 - **Kazatomprom:** 약 23% (2023년 기준)
 - **Orano:** 약 10% (2023년 기준)
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

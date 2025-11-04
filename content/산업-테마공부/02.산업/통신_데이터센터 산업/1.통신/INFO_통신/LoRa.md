@@ -1,14 +1,15 @@
 ﻿---
 title: "LoRa"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #LoRa #통신 #저전력장거리사물인터넷 #무선통신 
 
@@ -17,7 +18,6 @@ weight: 2
 LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기기의 작은 데이터를 멀리까지 무선으로 보내는 통신 기술]입니다. 
 
 마치 우체통에 넣는 엽서처럼 작고 간단한 메시지를 아주 멀리, 자주가 아니라 ‘가끔’ 보내는 데 특화된 우편 서비스”입니다. 대용량 택배(영상/음성)는 못 보내지만, 전기·수도 미터값, 온도/진동 같은 상태 알림은 배터리를 아끼며 수년간 꾸준히 보냅니다.
-
 이러한 LoRa는 평지나 도심 장애물 너머까지 원격 계측·원격제어(telemetry)에 잘 쓰이며, 시계(視界) 밖 거리에서도 신뢰성 있게 센서 데이터를 전송할 수 있다는 점이 강점입니다.
 
 - LoRa = 반도체/무선 물리계층(칩·전파 방식)
@@ -58,7 +58,6 @@ LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기�
 - 스마트시티: 주차·가로등·폐기물 수거함 센서
 
 - 스마트농업/축산: 토양·관개·온습도·가축 위치/상태 모니터링
-
 - 물류/자산추적: 팔레트·컨테이너 위치·상태
 
 - 산업 설비: 펌프·밸브·배관 원격상태 모니터링, 광역 안전센서  
@@ -68,14 +67,15 @@ LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기�
 ## 강점과 한계
 
 - 강점
-    
     - 장거리·저전력: 배터리 수년, 수km급 커버리지(환경 따라 상이)
     - 실내/장애물 환경에 비교적 강함
     - 비면허 대역으로 통신비 저렴, 사설망/공용망 모두 가능
     - 생태계(칩·게이트웨이·모듈·클라우드)가 넓고 기성품 다양
 
 - 한계
-    
+
+{{< adsense-infeed >}}
+
     - 낮은 데이터율: 수~수백 바이트 레벨 텔레메트리용. 영상·음성·펌웨어 대용량 전송엔 부적합
     - 지연(latency)·규제: 지역별 송신 의무 휴지(duty cycle) 등으로 실시간 제어엔 제약
     - 혼잡/용량 설계 필요: 단말 밀집 환경에서는 게이트웨이 수, 채널 계획, ADR 최적화가 중요
@@ -117,7 +117,9 @@ LoRa는 Semtech([SMTC](/company-analysis/smtc/))가 개발한 비면허 대역 �
 - Reyax(REYAX) - 손쉬운 통합을 위한 LoRa 무선 모듈·안테나 솔루션 공급.
     
 - HopeRF(HopeRF) - 저가·저전력 LoRa RF 모듈 라인업으로 대량 IoT 단말 적용 지원.
-    
+
+{{< adsense-infeed >}}
+
 - AcSiP(AcSiP) - MCU·LoRa 일체형 SiP 모듈로 소형화·저전력 제품 설계 지원.
     
 - Ebyte(Ebyte) - 다양한 주파수·폼팩터의 LoRa 모듈 및 장거리 무선 통신 솔루션 공급.
@@ -129,7 +131,9 @@ LoRa는 Semtech([SMTC](/company-analysis/smtc/))가 개발한 비면허 대역 �
 - Senet(Senet) - 북미 LoRaWAN 공용/사설망 운영사, 유틸리티·자산추적 등 대규모 배치 지원.
     
 - MachineQ([CMCSA](/company-analysis/cmcsa/)) - Comcast 산하 LoRaWAN 네트워크·디바이스 관리 플랫폼 제공, 엔터프라이즈 IoT 서비스 전개.
-    
+
+{{< adsense-infeed >}}
+
 - LORIOT(LORIOT) - 글로벌 LoRaWAN 네트워크 서버/매니지드 서비스 제공, 다중 리전 사설망 구축 지원.
     
 - ChirpStack(ChirpStack) - 오픈소스 LoRaWAN 네트워크 서버 스택 제공, 기업·통신사 맞춤 사설망 구축에 활용.

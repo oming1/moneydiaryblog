@@ -1,14 +1,15 @@
 ﻿---
 title: "PCG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 677
----<div style="display:none">
+weight: 678
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #캘리포니아전력회사 #규제전력회사 #전력송배전 #천연가스배급 #인프라투자 #요금기준성장 #재생에너지 #그리드현대화 #산불위험관리 #전력안정성 #규제수익모델 #레이트베이스 #캘리포니아공공사업위원회 #CPUC #전력인프라 #천연가스인프라 #청정에너지전환 #데이터센터전력 #AI전력수요 #전력망강화 #지하전력선 #배당복구 #공공사업 #전력공급독점 #전력 #천연가스 
 
@@ -94,7 +95,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ## 전방산업 / 후방산업
 
 **전방산업 (전력/가스 소비 산업):**
-
 - 기술기업: Google (US, [GOOGL](/company-analysis/googl/)), Meta (US, [META](/company-analysis/meta/)) - 데이터센터 전력
 - 제조업: Tesla (US, [TSLA](/company-analysis/tsla/)), Intel (US, [INTC](/company-analysis/intc/)) - 제조시설 전력
 - 상업부동산: Simon Property (US, [SPG](/company-analysis/spg/)) - 쇼핑센터/오피스 전력
@@ -146,6 +146,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 
 **전력설비 원자재:** [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [알루미늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속알루미늄/), 강철 등 송배전 인프라용, 주요 공급지 글로벌, 주요 공급업체 Southern Copper (US, [SCCO](/company-analysis/scco/))
 
+{{< adsense-infeed >}}
+
 **건설자재:** 콘크리트, 목재, 복합소재 등 인프라 건설용, 주요 공급지 캘리포니아/오레곤, 주요 공급업체 Vulcan Materials (US, [VMC](/company-analysis/vmc/))
 
 ---
@@ -166,7 +168,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 - Salesforce (US, [CRM](/company-analysis/crm/)) - 샌프란시스코 타워 및 캠퍼스
 - Tesla (US, [TSLA](/company-analysis/tsla/)) - 프리몬트 제조 공장
 - Intel (US, [INTC](/company-analysis/intc/)) - 산타클라라 반도체 시설
-
 **산업 고객:**
 
 - Chevron (US, [CVX](/company-analysis/cvx/)) - 리치몬드 정유공장
@@ -203,6 +204,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 
 **천연가스 경쟁사:**
 
+{{< adsense-infeed >}}
+
 - SoCalGas/Sempra Energy (US, [SRE](/company-analysis/sre/)) - 남부 캘리포니아 가스공급
 - Kinder Morgan (US, [KMI](/company-analysis/kmi/)) - 주간 파이프라인 운영
 - Enbridge (CA, ENB) - 천연가스 송전
@@ -210,7 +213,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
 **미국 전력 시장 점유율:**
 
 - 2023년: 6.8% (매출 기준 4위)
@@ -221,6 +223,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **캘리포니아 전력 시장 점유율:**
 
 - 2023년: 45% (1위, 북부/중부 독점)
+
+{{< adsense-infeed >}}
 
 ---
 

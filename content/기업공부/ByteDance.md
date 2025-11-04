@@ -1,14 +1,15 @@
 ﻿---
 title: "ByteDance"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 166
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #소셜미디어 #동영상앱 #AI추천 #광고수익 #중국테크기업 #TikTok #Douyin #콘텐츠플랫폼 #정보기술 #중국 #TikTok 
 
@@ -39,8 +40,9 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 3. 다양한 콘텐츠 플랫폼: 동영상, 뉴스, 게임 등 다양한 형태의 콘텐츠 제공
 4. 빠른 제품 개발 및 출시: 내부 공유 서비스 플랫폼(SSP)을 통한 효율적인 개발 프로세스
 5. 데이터 기반 의사결정: 사용자 데이터를 활용한 제품 개선 및 전략 수립
-
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 1. 후방산업:
     
@@ -76,7 +78,6 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 ## 주요 판매국가
 
 ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, 인도네시아, 브라질 등입니다.
-
 ## 경쟁업체
 
 1. Meta Platforms(US, [META](/company-analysis/meta/)) - Facebook, Instagram
@@ -87,7 +88,6 @@ ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, �
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, ByteDance는 소셜 미디어 및 디지털 콘텐츠 시장에서 주요 플레이어로 자리잡고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. 2023년 매출 1,200억 달러 달성, 전년 대비 50% 성장 (2024년)
@@ -97,6 +97,8 @@ ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, �
 5. TikTok Shop 글로벌 확장 (2023-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. 글로벌 투자자: 60%
 2. 직원: 20%

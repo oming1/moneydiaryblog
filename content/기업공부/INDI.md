@@ -1,14 +1,15 @@
 ﻿---
 title: "INDI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 443
----<div style="display:none">
+weight: 444
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -28,6 +29,8 @@ Indie Semiconductor, Inc.(NASDAQ: INDI)는 자동차 및 IoT 애플리케이션�
 
 Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 맞춤형 SoC 설계 능력: 고객 요구사항에 맞는 고성능, 저전력 SoC 솔루션 제공
 2. 자동차 전자 전문성: ADAS, 인포테인먼트, 전기화 등 자동차 산업의 핵심 트렌드에 부합하는 제품 라인업
 3. 다양한 기술 포트폴리오: RF, 아날로그, 혼합 신호, 전력 관리 등 다양한 기술 보유
@@ -39,6 +42,8 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), General Motors(US, [GM](/company-analysis/gm/))
 - 자동차 부품: Bosch(DE, Bosch), Continental(DE, CON)
@@ -52,7 +57,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - 패키징 및 테스트: ASE Technology(TW, ASX), Amkor Technology(US, [AMKR](/company-analysis/amkr/))
 
 ## 밸류체인
-
 1. 설계: Indie Semiconductor(US, [INDI](/company-analysis/indi/)) (자동차 및 IoT용 SoC 설계)
 2. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)) (파운드리 서비스)
 3. 패키징 및 테스트: ASE Technology(TW, ASX) (반도체 패키징 및 테스트)
@@ -75,8 +79,9 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - Volkswagen(DE, VOW3) - 배터리 관리 시스템
 - Ford(US, [F](/company-analysis/f/)) - 무선 충전 솔루션
 
-## 주요 판매국가
+{{< adsense-infeed >}}
 
+## 주요 판매국가
 미국, 독일, 중국, 일본, 한국
 
 ## 경쟁업체
@@ -86,6 +91,8 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - STMicroelectronics(CH, [STM](/company-analysis/stm/)) - 자동차 및 산업용 반도체
 - Texas Instruments(US, [TXN](/company-analysis/txn/)) - 아날로그 및 임베디드 프로세서
 - ON Semiconductor(US, [ON](/company-analysis/on/)) - 전력 및 센서 솔루션
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -100,13 +107,10 @@ Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정
 - 주요 유럽 자동차 OEM으로부터 1억 달러 규모의 ADAS 플랫폼 계약 수주 (2022년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
 ## 관련 ETF
-
 - SPDR S&P Semiconductor ETF - XSD
 - iShares PHLX Semiconductor ETF - SOXX
 - VanEck Vectors Semiconductor ETF - SMH

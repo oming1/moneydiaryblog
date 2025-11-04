@@ -1,14 +1,15 @@
 ﻿---
 title: "AVGO"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-02T12:04:27+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 99
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-02T03:04:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #반도체 #테크 #데이터센터 #소프트웨어 #정보기술
 
@@ -30,22 +31,23 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 - **후방 산업:** 반도체 제조, 전자 부품 공급
     - **핵심 기업**: Taiwan Semiconductor Manufacturing Company (미국, [TSM](/company-analysis/tsm/)), Intel Corporation (미국, [INTC](/company-analysis/intc/))
 
-## **주요 제품**
+{{< adsense-infeed >}}
 
+## **주요 제품**
 - **네트워킹 솔루션:** 이더넷 스위치 및 라우터
 - **브로드밴드 솔루션:** 셋톱박스 및 광 네트워크 장비
 - **무선 통신 솔루션:** Wi-Fi, Bluetooth, GPS/GNSS SoC
 - **데이터 센터 솔루션:** 서버 및 스토리지 시스템용 반도체
 - **소프트웨어 솔루션:** 인프라 소프트웨어 및 보안 솔루션
-
 ## **주요 판매 국가**
 
 - **미국:** 주요 시장으로 전체 매출의 상당 부분을 차지
 - **중국:** 주요 매출 국가 중 하나
 - **유럽:** 중요한 시장으로 매출의 일부를 차지
 
-## **경쟁 업체**
+{{< adsense-infeed >}}
 
+## **경쟁 업체**
 - **Intel Corporation (미국, [INTC](/company-analysis/intc/)):** 반도체 및 데이터 센터 솔루션
 - **Qualcomm (미국, [QCOM](/company-analysis/qcom/)):** 무선 통신 솔루션
 - **NVIDIA Corporation (미국, [NVDA](/company-analysis/nvda/)):** 그래픽 및 데이터 센터 솔루션

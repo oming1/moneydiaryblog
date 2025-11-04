@@ -1,14 +1,15 @@
 ﻿---
 title: "UPST"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 915
----<div style="display:none">
+weight: 916
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #금융서비스 #신용서비 #대출 #대출플랫폼 #금리 #학자금대출 
 
@@ -26,18 +27,19 @@ weight: 915
 - **주택 금융 (Home Finance):** 주택 자산 대출 및 리파이낸스 서비스를 제공합니다. 주요 기업: 로켓 모기지 (미국, [RKT](/company-analysis/rkt/)), 웰스 파고 (미국, [WFC](/company-analysis/wfc/)).
 
 **후방산업**
-
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
-
 **밸류체인**
-
 1. **데이터 수집 및 저장 (Data Collection and Storage):**
-    
+
+{{< adsense-infeed >}}
+
     - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)):** 클라우드 스토리지 서비스.
     - **Microsoft Azure (미국, [MSFT](/company-analysis/msft/)):** 클라우드 인프라 제공.
 2. **데이터 분석 및 인텔리전스 (Data Analytics and Intelligence):**
-    
+
+{{< adsense-infeed >}}
+
     - **Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)):** 데이터 분석 플랫폼.
     - **Snowflake (미국, [SNOW](/company-analysis/snow/)):** 데이터 웨어하우징 서비스.
 3. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
@@ -45,7 +47,6 @@ weight: 915
     - **Equifax (미국, EFX):** 신용 평가 서비스.
     - **Experian (영국, [EXPN](/company-analysis/expn/))**: 신용 정보 및 분석.
 4. **결제 처리 (Payment Processing):**
-    
     - **Visa (미국, [V](/company-analysis/v/))**: 결제 네트워크.
     - **Mastercard (미국, [MA](/company-analysis/ma/))**: 결제 처리 서비스.
 
@@ -58,10 +59,13 @@ weight: 915
 
 **주요 판매국가**
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가.
 
-**경쟁업체**
+{{< adsense-infeed >}}
 
+**경쟁업체**
 - **LendingClub (미국, LC):** 개인 대출 및 금융 서비스.
 - **SoFi (미국, [SOFI](/company-analysis/sofi/)):** 개인 대출, 주택 대출, 투자 서비스.
 - **Affirm (미국, [AFRM](/company-analysis/afrm/)):** 할부 결제 및 대출 서비스.

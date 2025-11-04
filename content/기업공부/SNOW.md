@@ -1,14 +1,15 @@
 ﻿---
 title: "SNOW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 810
----<div style="display:none">
+weight: 811
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #소프트웨어 #테크 #클라우드 #데이터플랫폼
 
@@ -20,11 +21,9 @@ weight: 810
 ## 영위사업
 
 Snowflake는 [클라우드](/industry-study/2산업클라우드/) 기반 데이터 플랫폼을 제공하여 기업들이 데이터 저장, 처리 및 분석을 효율적으로 수행할 수 있도록 지원합니다. 이 플랫폼은 다양한 소스에서 데이터를 통합하고, 실시간으로 분석할 수 있는 기능을 제공합니다.
-
 ## 전방/후방산업
 
 - **전방산업**:
-    
     - **핵심 산업 및 역할**: 데이터 분석 및 비즈니스 인텔리전스
     - **관련 기업**: Tableau (US, [CRM](/company-analysis/crm/)), Microsoft Power BI (US, [MSFT](/company-analysis/msft/))
     
@@ -35,22 +34,21 @@ Snowflake는 [클라우드](/industry-study/2산업클라우드/) 기반 데이�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **데이터 저장 및 관리**: Snowflake의 데이터 웨어하우스 솔루션
-    
     - **대표 회사**: Amazon Redshift (US, [AMZN](/company-analysis/amzn/)) - 데이터 웨어하우스 서비스
     - **대표 회사**: Google BigQuery (US, [GOOGL](/company-analysis/googl/)) - 데이터 분석 서비스
 - **데이터 분석**: 데이터 분석 및 비즈니스 인사이트 제공
     
     - **대표 회사**: IBM Cognos Analytics (US, [IBM](/company-analysis/ibm/)) - 비즈니스 인텔리전스
     - **대표 회사**: Qlik (US, 비상장) - 데이터 분석 플랫폼
-
 - **클라우드 서비스**: 클라우드 인프라 및 서비스 제공
     
     - **대표 회사**: Microsoft Azure (US, [MSFT](/company-analysis/msft/)) - 클라우드 서비스
     - **대표 회사**: Oracle Cloud (US, [ORCL](/company-analysis/orcl/)) - 클라우드 서비스
 
 ## 주요제품
-
 - **Snowflake Data Cloud** (클라우드 기반 데이터 플랫폼, 매출의 약 90%)
 - **Snowflake Marketplace** (데이터 공유 및 거래 플랫폼, 매출의 약 10%)
 
@@ -63,6 +61,8 @@ Snowflake는 전 세계적으로 운영되며, 주요 시장은 북미, 유럽, 
 - **Databricks (US, 비상장)** - 데이터 분석 및 AI 플랫폼
 - **Amazon Redshift (US, [AMZN](/company-analysis/amzn/))** - 클라우드 데이터 웨어하우스
 - **Google BigQuery (US, [GOOGL](/company-analysis/googl/))** - 클라우드 데이터 분석 서비스
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,14 +1,15 @@
 ﻿---
 title: "SpaceX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 816
----<div style="display:none">
+weight: 817
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공우주및방위 #산업재 #우주 #위성 #위성통신 #위성발사 #위성제조 #통신위성 #위성인터넷 #스타링크 #저궤도위성 
 
@@ -53,10 +54,8 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 ## 전방/후방산업
 
 ## 후방산업
-
 - 항공우주 부품 제조업체: 로켓 엔진, 우주선 부품 등 공급
 - 전자부품 제조업체: 통신 및 제어 시스템용 부품 공급
-
 ## 전방산업
 
 - 정부 우주 기관: NASA 등 우주 임무 계약
@@ -90,6 +89,8 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 
 ■ Falcon 9의 1단/2단 추진체는 알루미늄-리튬 합금, 연결부와 착륙다리는 탄소 복합재료와 알루미늄 허니컴 코어로 제작
 
+{{< adsense-infeed >}}
+
 ■ Falcon 9의 건조 중량 31톤 중 [알루미늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속알루미늄/)과 [니켈](/industry-study/니켈/)이 차지하는 중량은 각각 21톤, 1톤으로 [알루미늄 비중(약 67%)이 압도적]
 
 ■ Starship 발사 횟수는 지난 2년간 6회에 불과하나, 일론 머스크는 미래에는 2년마다 1,000~1,200대 Starship을 발사할 계획
@@ -99,6 +100,8 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 ■ Starship의 건조 중량 320톤에서 알루미늄과 니켈이 차지하는 중량은 각각 2톤, 47톤 수준으로 [니켈 비중이 압도적]
 
 ■ Falcon 9 발사 횟수 증가에 따라 벤더사들의 공급액이 비례하게 성장했으며, Starship 공급액 역시 Exponential한 성장 전망
+
+{{< adsense-infeed >}}
 
 ---
 ## 주요 판매국가
@@ -112,15 +115,12 @@ SpaceX는 우주 운송 서비스, 우주선 제조, 통신 위성 네트워크 
 - [Blue Origin](/company-analysis/blue-origin/) (우주 관광 및 로켓 개발)
 - Rocket Lab(US, [RKLB](/company-analysis/rklb/)) (소형 위성 발사 서비스)
 - Virgin Galactic(US, [SPCE](/company-analysis/spce/)) (우주 관광)
-
 ---
 ## 산업 내 글로벌 시장 점유율
 
 SpaceX는 상업 위성 발사 시장에서 주도적인 위치를 차지하고 있으며, 2022년 기준으로 전 세계 상업 발사의 60% 이상을 차지했습니다.
-
 ---
 ## 최근 3년 내 주요 이슈
-
 - Starlink 위성 인터넷 서비스의 글로벌 확장 (2020-2024)
 - 크루 드래곤을 이용한 NASA 상업 유인 우주선 프로그램 성공 (2020)
 - Starship 개발 및 시험 발사 진행 (2021-2024)

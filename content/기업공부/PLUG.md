@@ -1,14 +1,15 @@
 ﻿---
 title: "PLUG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2023-07-14T10:40:46+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 697
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 698
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-07-14T01:40:46Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #수소  #재생에너지 #에너지 #충전소 #ESS #전자장비 #산업재 #전기장비및부품
 
@@ -25,20 +26,22 @@ Industry: Electrical Equipment & Parts (전기 장비 및 부품)
 ## 영위사업
 
 Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발, 제조 및 판매하는 기업입니다. 주로 물류, 자동차, 고정형 발전 등의 분야에 수소 연료전지 솔루션을 제공합니다.
-
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 물류: Amazon (US, [AMZN](/company-analysis/amzn/)), Walmart (US, [WMT](/company-analysis/wmt/))
 - 자동차: Renault (FR, RNO.PA)
 
 후방산업:
-
 - 수소 생산: Air Liquide (FR, AI.PA)
 - 연료전지 부품: Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원재료 공급**: 수소, 금속
     - **대표 회사**: Air Products and Chemicals Inc. (미국, APD), Linde PLC (영국, LIN)
@@ -50,15 +53,17 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
     - **대표 회사**: Amazon.com Inc. (미국, [AMZN](/company-analysis/amzn/)), Walmart Inc. (미국, [WMT](/company-analysis/wmt/))
 
 ## 주요제품
-
 - GenDrive (물류용 연료전지 시스템, 매출의 약 60%)
 - GenFuel (수소 공급 인프라, 매출의 약 20%)
 - GenSure (백업 전원용 연료전지, 매출의 약 10%)
 - ProGen (차량용 연료전지 엔진, 매출의 약 10%)
-
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 주로 미국 시장에 집중되어 있으며, 유럽과 아시아 시장 진출을 확대 중입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

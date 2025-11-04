@@ -1,14 +1,15 @@
 ﻿---
 title: "WCN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-12T12:19:55+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 955
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 956
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-12T03:19:55Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #산업재 #폐기물관리 #재활용
 
@@ -21,6 +22,8 @@ weight: 955
 
 Waste Connections Inc.는 미국과 캐나다에서 환경 서비스를 제공하는 회사로, 주거, 상업, 산업 및 지방 자치 단체 고객에게 폐기물 수거, 운송, 처리 및 재활용 서비스를 제공합니다. 주요 사업으로는 폐기물 수거, 재활용, 자원 회수, 매립지 운영 등이 있습니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**:
@@ -29,20 +32,19 @@ Waste Connections Inc.는 미국과 캐나다에서 환경 서비스를 제공�
 - **후방산업**:
     - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)))
     - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, BAS))
-
 #### 밸류체인
-
 - **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [CAT](/company-analysis/cat/)), BASF (DE, BAS))
 - **제품 제조**: 폐기물 수거 및 처리 시스템 제조 (Waste Connections Inc.)
 - **시스템 통합**: 폐기물 관리 시스템 통합 및 운영 (Waste Connections Inc.)
 - **서비스 제공**: 폐기물 수거, 운송, 처리 및 재활용 서비스 제공 (Waste Connections Inc.)
 
 #### 주요제품
-
 - **폐기물 수거 서비스**: 주거, 상업, 산업 및 지방 자치 단체 고객을 위한 폐기물 수거 서비스
 - **재활용 서비스**: 종이, 유리, 금속, 플라스틱 등의 재활용 서비스
 - **자원 회수**: 매립지 가스를 이용한 재생 가능 에너지 생산
 - **특수 폐기물 처리**: 유해 폐기물 및 산업 폐기물 처리 서비스
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 

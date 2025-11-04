@@ -1,14 +1,15 @@
 ﻿---
 title: "GS"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #은행 #금융 #투자은행및중개 #투자은행 
 
@@ -18,7 +19,6 @@ weight: 2
 - **Industry(산업)**: Investment Banking & Brokerage(투자은행 및 중개)
 
 ## 영위 사업
-
 Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은행 서비스, 증권 거래, 자산 관리 및 소비자 금융 서비스를 제공합니다. 고객층은 기업, 금융 기관, 정부 및 고액 자산가를 포함합니다.
 
 ## 전방/후방 산업
@@ -31,13 +31,14 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
         
         - JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - Bank of America (미국, [BAC](/company-analysis/bac/))
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 금융 시장 및 자본 시장
     - **역할**: Goldman Sachs의 서비스에 필요한 자본 공급
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - BlackRock (미국, [BLK](/company-analysis/blk/))
         - Vanguard Group (미국, 비상장)
 
@@ -64,10 +65,11 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
 - **투자은행 서비스**: M&A 및 자본 조달을 위한 금융 자문.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
 - **자산 관리 서비스**: 개인 및 기관 고객을 위한 포트폴리오 관리.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
+
+{{< adsense-infeed >}}
 
 ## 주요 판매 국가
 
@@ -81,6 +83,8 @@ Goldman Sachs는 미국을 주요 시장으로 하며, 유럽과 아시아에서
 ## 산업 내 글로벌 시장 점유율
 
 Goldman Sachs는 글로벌 투자은행 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간의 추세는 안정적인 성장세를 보이고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

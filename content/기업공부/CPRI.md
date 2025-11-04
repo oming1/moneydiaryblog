@@ -1,14 +1,15 @@
 ﻿---
 title: "CPRI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-06T21:23:45+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 227
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 228
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-06T12:23:45Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #임의소비재 #의류 #사치품 
 
@@ -19,10 +20,10 @@ weight: 227
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 럭셔리 의류, 신발, 액세서리, 향수 등의 디자인, 마케팅, 유통 및 소매
-
 ## 전방/후방산업
-
 ## 후방산업
 
 - 섬유 제조업체: 의류 생산을 위한 원자재 공급
@@ -32,15 +33,15 @@ weight: 227
 
 - 소매업체: 백화점, 전문점 등
 - 소비자: 최종 제품 구매자
-
 ## 밸류체인
 
 1. 디자인 및 제품 개발: Capri Holdings (자체 디자인)
 2. 제조: 외주 생산업체
 3. 유통: 자사 매장, 온라인 채널, 라이선스 파트너
 4. 마케팅 및 판매: Capri Holdings (자체 마케팅)
-
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Versace: 럭셔리 의류, 액세서리, 신발
 - Jimmy Choo: 럭셔리 신발, 핸드백, 소가죽 제품
@@ -49,7 +50,6 @@ weight: 227
 ## 주요 판매국가
 
 미국, 유럽, 중동, 아프리카(EMEA), 아시아
-
 ## 경쟁업체
 
 - Kering SA(FR, KER.PA): Gucci, Saint Laurent 등 럭셔리 브랜드

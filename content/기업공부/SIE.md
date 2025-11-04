@@ -1,14 +1,15 @@
 ﻿---
 title: "SIE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-10T10:24:06+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 794
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 795
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-10T01:24:06Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #산업재 #특수산업기계 #변압기 #전력기기
 
@@ -21,18 +22,21 @@ weight: 794
 
 Siemens Energy는 전 세계적으로 에너지 기술을 제공하는 회사로, 가스 및 증기 터빈, 발전기, 열 펌프, 고전압 직류 송전 시스템, [변압기](/industry-study/변압기/), 전력 변환 시스템, 디지털 그리드 솔루션 등을 제공합니다. 또한, 전력 생성, 전력 전송 및 저장 솔루션을 포함한 다양한 에너지 관련 제품과 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업:** 전력 유통 및 에너지 서비스
     - **핵심 산업:** 전력 유통사, 에너지 서비스 제공업체
     - **핵심 기업:** Duke Energy (미국, [DUK](/company-analysis/duk/)), NextEra Energy (미국, [NEE](/company-analysis/nee/))
 
+{{< adsense-infeed >}}
+
 - **후방산업:** 전자 부품 및 원자재 공급
     - **핵심 산업:** 전자 부품 제조사, 원자재 공급업체
     - **핵심 기업:** ABB (스위스, ABBN), Schneider Electric (프랑스, [SU](/company-analysis/su/))
 
 #### 밸류체인
-
 - **연구 및 개발:** Siemens Energy는 혁신적인 에너지 솔루션을 개발합니다.
     - **대표 회사:** General Electric (미국, [GE](/company-analysis/ge/)), Hitachi Energy (일본, 6501)
 - **제조:** 고품질의 에너지 장비를 제조합니다.
@@ -40,19 +44,18 @@ Siemens Energy는 전 세계적으로 에너지 기술을 제공하는 회사로
 - **유통:** 글로벌 시장에 에너지 제품을 유통합니다.
     - **대표 회사:** Siemens AG (독일, [SIE](/company-analysis/sie/)), Honeywell (미국, [HON](/company-analysis/hon/))
 
-#### 주요제품
+{{< adsense-infeed >}}
 
+#### 주요제품
 - **가스 터빈:** 고효율 가스 터빈 (2023년 매출 비중: 30%)
 - **변압기:** 전력 변압기 (2023년 매출 비중: 20%)
 - **HVDC 시스템:** 고전압 직류 송전 시스템 (2023년 매출 비중: 15%)
-
 #### 주요 판매국가
 
 - **독일:** 2023년 매출 비중: 8.2%
 - **유럽/CIS/중동/아프리카:** 2023년 매출 비중: 39.3%
 - **미국:** 2023년 매출 비중: 18.5%
 - **아시아 및 호주:** 2023년 매출 비중: 15.6%
-
 #### 경쟁업체
 
 - **Hitachi Energy (일본, 6501):** 에너지 및 유틸리티 솔루션

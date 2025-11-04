@@ -1,14 +1,15 @@
 ﻿---
 title: "SEDG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 780
----<div style="display:none">
+weight: 781
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #태양광 #테크 #태양광인버터 #전기차충전기 
 
@@ -19,25 +20,28 @@ weight: 780
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인버터 시스템을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업으로는 전력 최적화기, 인버터, 배터리 저장 솔루션([ESS](/industry-study/ess/)), 전기차 충전기, 스마트 에너지 관리 소프트웨어 등이 있습니다
 #### 전방/후방산업
-
 - **전방산업**:
     - **태양광 설치**: 태양광 패널 및 시스템 설치 (예: Sunrun (US, [RUN](/company-analysis/run/)))
     - **에너지 저장**: 에너지 저장 시스템 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)))
 - **후방산업**:
     - **반도체 제조**: 태양광 인버터용 반도체 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)))
     - **배터리 제조**: 에너지 저장 배터리 공급 (예: Panasonic (JP, 6752))
-
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **원료 공급**: 반도체 및 배터리 원료 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)), Panasonic (JP, 6752)
 - **제품 제조**: 전력 최적화기, 인버터 및 배터리 시스템 제조 (SolarEdge Technologies)
 - **시스템 통합**: 태양광 시스템 통합 및 설치 (Sunrun (US, [RUN](/company-analysis/run/)), Tesla (US, [TSLA](/company-analysis/tsla/)))
 - **서비스 제공**: 에너지 관리 소프트웨어 및 유지보수 서비스 제공 (SolarEdge Technologies)
 
-#### 주요제품
+{{< adsense-infeed >}}
 
+#### 주요제품
 - **전력 최적화기**: 태양광 패널의 전력 출력을 최적화
 - **인버터**: 태양광 패널의 DC 전력을 AC 전력으로 변환(태양광 인버터)
 - **배터리 저장 솔루션**: 가정용 및 상업용 에너지 저장 솔루션([ESS](/industry-study/ess/))
@@ -48,7 +52,6 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **미국**: 전체 매출의 약 50% (2023년 기준)
 - **유럽**: 주요 판매국가로 독일, 네덜란드, 이탈리아 등이 포함됨
 - [**아시아**: 주요 판매국가로 일본, 중국 등이 포함됨](https://finance.yahoo.com/quote/SEDG/)[4](https://stockanalysis.com/stocks/sedg/company/)
-
 #### 경쟁업체
 
 - **Enphase Energy (US, [ENPH](/company-analysis/enph/))**: 태양광 인버터 및 에너지 관리 솔루션
@@ -56,10 +59,11 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **Huawei Technologies (CN, 비상장)**: 태양광 인버터 및 시스템
 
 #### 산업 내 글로벌 시장 점유율
-
 [SolarEdge Technologies는 글로벌 태양광 인버터 시장에서 약 6.15%의 점유율을 보유하고 있습니다 (2024년 기준)](https://finance.yahoo.com/quote/SEDG/)[5](https://csimarket.com/stocks/competitionSEG2.php?code=SEDG).
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **2024년**: 매출 감소 및 시장 점유율 하락 (2024년)
 - **2023년**: Net Energy Metering 3.0 도입으로 인한 캘리포니아 시장 변화 (2023년)

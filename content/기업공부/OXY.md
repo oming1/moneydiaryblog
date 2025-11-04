@@ -1,14 +1,15 @@
 ﻿---
 title: "OXY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 668
----<div style="display:none">
+weight: 669
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #석유가스 #탐사생산 #화학 #미드스트림 #저탄소기술 #EOR #탄소포집 #퍼미안베이신 #에너지
 
@@ -20,10 +21,11 @@ weight: 668
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주요 자산을 보유한 국제 에너지 기업입니다. 주요 사업 부문은 다음과 같습니다:
-
 1. 석유 및 가스: 미국 퍼미안 베이신, DJ 베이신, 멕시코만 등에서 석유, 천연가스, [NGL](/industry-study/ngl/) 탐사 및 생산
 2. 화학: OxyChem 자회사를 통해 PVC, 염소, 가성 소다 등 기초 화학 제품 생산
 3. 미드스트림 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
@@ -44,14 +46,17 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
     
     - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
-    
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 탐사 및 생산: Occidental Petroleum (주요 사업 영역)
 2. 수집 및 처리: Occidental Petroleum (주요 사업 영역)
@@ -65,7 +70,6 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 2. [천연가스](/industry-study/천연가스/)
 3. NGL(천연가스 액체)
 4화학제품]] (PVC, 염소, 가성 소다 등)
-
 ## 주요고객
 
 1. 정유사
@@ -74,7 +78,6 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 4. 산업용 에너지 소비자
 
 ## 주요 판매국가
-
 OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
@@ -96,7 +99,6 @@ OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영�
 3. 콜롬비아 육상 사업 Carlyle Group에 매각 (2020년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 부채 감축을 위한 자산 매각 프로그램 실행 (2022-2024년)
-
 ## 주요주주(지분율)
 
 1. Berkshire Hathaway: 27.2%

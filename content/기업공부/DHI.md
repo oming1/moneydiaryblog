@@ -1,14 +1,15 @@
 ﻿---
 title: "DHI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-30T17:33:51+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 275
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 276
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-30T08:33:51Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #임의소비재 #건축건설 #부동산
 
@@ -20,16 +21,15 @@ weight: 275
 ## 영위사업
 
 DR Horton은 미국 최대의 건축 건설 회사([부동산](/industry-study/2산업부동산/)), 단독 주택, 타운하우스, 콘도미니엄 등 다양한 유형의 신용을 건설하고 판매합니다.
-
 ## 주요제품 및 서비스
-
 - 사업구조
 - 건물
 - 콘도미니엄
 - 주택금융서비스
 - 주택보험서비스
-
 ## 주요 브랜드
+
+{{< adsense-infeed >}}
 
 - 호튼 박사
 - 익스프레스 홈
@@ -38,9 +38,12 @@ DR Horton은 미국 최대의 건축 건설 회사([부동산](/industry-study/2
 
 ## 주요 판매 국가
 
-미국 (29개 주에서 사업 영위)
+{{< adsense-infeed >}}
 
+미국 (29개 주에서 사업 영위)
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Lennar Corporation(미국, [LEN](/company-analysis/len/))
 - 풀테그룹(미국, [PHM](/company-analysis/phm/))

@@ -1,14 +1,15 @@
 ﻿---
 title: "Hudbay Minerals"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 423
----<div style="display:none">
+weight: 424
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #허드베이광산 #HBM #구리 #금 #은 #아연 #광산기업 #베이스메탈 #귀금속 #탐사 #개발 #생산 #페루광산 #캐나다광산 #미국광산 #Constancia #Lalor #CopperWorld #지속가능광업 #에너지전환 #전기차수혜 #원자재가격 #글로벌공급망 #운영효율 #탐사잠재력 #ESG경영 #지역사회 #환경규제 #광업기술 #지하채굴 #노천채굴 #선광 #제련 #공급망다변화 #광물자원 #미국산업 #캐나다산업 #페루산업 #산업구조 #광업경제 #광업투자 #광업성장
 
@@ -72,6 +73,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
     - 글로벌 금속 제련소: 농축된 광물 판매.
     - 금속 트레이더: 스팟 및 장기 계약 판매.
 
+{{< adsense-infeed >}}
+
 - **지역별 매출 분포 (2024년 추정):**
     - 아시아 (주로 중국): 40% (구리 및 아연 수요).
     - 유럽: 30% (금, 은, 구리).
@@ -107,7 +110,9 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 채굴 및 가공 프로세스
- 
+
+{{< adsense-infeed >}}
+
 1단계: **탐사:** 지질 조사, 시추를 통한 광물 자원 확인 및 매장량 평가.  
 
 2단계: **개발:** 광산 설계, 인허가 취득, 인프라(도로, 전력, 수자원) 구축, 채굴 장비 도입.  
@@ -150,7 +155,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **중장비:** Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, (6301)).
 - **화학물질:** Orica(AU, ORI) (폭발물).
 - **에너지:** 지역 전력 회사, 정유사.
-
 **제조 및 조립 단계:**
 
 - **Hudbay Minerals Inc.:** 광물 채굴, 선광, (일부) 제련.
@@ -170,7 +174,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **은 (Silver):** 불도 및 정련된 형태, 매출 비중 5% (2024 추정), 경쟁사 Pan American Silver(CA, PAAS).
 - **아연 (Zinc):** 농축물 형태, 매출 비중 15% (2024 추정), 경쟁사 Glencore(UK, GLNCY), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **몰리브덴 (Molybdenum):** 농축물 형태, 매출 비중 5% (2024 추정).
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -239,7 +242,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 주주 (지분율)
-
 - **The Vanguard Group, Inc.:** 약 9%.
 - **BlackRock, Inc.:** 약 7%.
 - **VanEck Associates Corporation:** 약 5%.
@@ -251,10 +253,14 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 
 **직접 관련 ETF:**
 
+{{< adsense-infeed >}}
+
 - **COPX** - Global X Copper Miners ETF COPX (주요 구리 광산 기업 집중).
 - **PICK** - iShares MSCI Global Metals & Mining Producers ETF PICK (광범위한 금속 및 광산 생산 기업).
 
 **섹터 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - **XLB** - Materials Select Sector SPDR Fund XLB (재료 섹터 전반).
 - **VAW** - Vanguard Materials ETF VAW (재료 섹터 전반).

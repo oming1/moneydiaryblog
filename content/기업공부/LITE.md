@@ -1,14 +1,15 @@
 ﻿---
 title: "LITE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 521
----<div style="display:none">
+weight: 522
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #루멘텀홀딩스 #LITE #광학통신 #포토닉스 #데이터센터 #클라우드네트워킹 #인공지능 #AI인프라 #EML칩 #인듐인광 #레이저다이오드 #광트랜시버 #5G통신 #산업레이저 #3D센싱 #FaceID #VCSEL #옵티컬스위칭 #하이퍼스케일 #실리콘포토닉스 #고속광통신 #800G #200G #멀티테라비트 #네트워크장비 #텔레콤 #반도체레이저 #광부품 #광섬유통신
 
@@ -24,13 +25,11 @@ weight: 521
 ## 영위사업
 
 Lumentum Holdings Inc.는 2015년 JDS Uniphase Corporation에서 분사된 미국의 광학 및 포토닉스(photonics) 솔루션 전문기업입니다. 본사는 캘리포니아주 산호세에 위치하며, 광통신 분야의 핵심 부품과 솔루션을 개발·제조하는 글로벌 선도업체입니다.
-
 회사는 크게 두 개의 주요 사업부문으로 구성되어 있습니다. 
 
 Cloud & Networking 부문은 전체 매출의 약 79%를 차지하며, [데이터센터](/industry-study/데이터센터/), [클라우드](/industry-study/2산업클라우드/) 인프라, 텔레콤 네트워크용 광통신 제품을 공급합니다. 
 
 Industrial Tech 부문은 21%의 매출을 담당하며, 3D 센싱, 산업용 레이저, 상업용 레이저 등을 제공합니다.
-
 주요 제품군으로는 EML(Electro-absorption Modulated Laser) 칩, VCSEL(Vertical-Cavity Surface-Emitting Laser), 고속 광트랜시버, 옵티컬 스위치 등이 있습니다. 특히 Apple의 iPhone Face ID 기술에 사용되는 VCSEL 부품의 주요 공급업체로 알려져 있습니다.
 
 AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 수요가 급증하면서, 회사의 200G/400G/800G 급 고속 광트랜시버와 EML 칩에 대한 수요가 크게 증가하고 있습니다. 회사는 2025년 말까지 분기별 매출 5억 달러 달성을 목표로 하고 있습니다.
@@ -127,6 +126,8 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 
 - Lumentum Holdings(US, [LITE](/company-analysis/lite/)): 자체 제조 및 조립
 
+{{< adsense-infeed >}}
+
 **유통 및 판매 단계:**
 
 - Arrow Electronics(US, [ARW](/company-analysis/arw/)): 전자부품 유통
@@ -146,12 +147,13 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 
 **옵티컬 스위치:** AI 데이터센터용 (개발 단계), 매출비중 미미, 경쟁사 ADTN
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주된 영향을 미치는 원자재
 
 **인듐(Indium):** EML 칩 제조용, 주요 공급지 중국/페루, 주요 공급업체 Korea Zinc(KR, Korea Zinc) 
-
 **갈륨(Gallium):** VCSEL 제조용, 주요 공급지 중국/독일, 주요 공급업체 Freiberger Compound(DE, Freiberger)  
 
 **비소(Arsenic):** 화합물 반도체용, 주요 공급지 중국/칠레, 주요 공급업체 Yunnan Tin(CN, Yunnan Tin) 
@@ -194,6 +196,8 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - Source Photonics(CN, Source Photonics) - 광통신 모듈, 시장점유율 5.9%
 - Oclaro(현재 Lumentum에 합병) - 광통신 부품
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -204,12 +208,13 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - 2023년: 15.2% (EML 칩 기준 1위)
 - 2022년: 13.9% (EML 칩 기준 2위)
 - 3년간 추이: +2.9%p 증가
-
 광통신 부품 전체 시장 기준으로는 약 8-10% 점유율을 차지하며, 특히 고속 EML 칩 분야에서는 업계 1위를 유지하고 있습니다.
 
 ---
 
 ## 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 **구체적 수치 및 성장 동력:**
 
@@ -248,7 +253,6 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - VanEck Semiconductor ETF SMH - 반도체 포함
 - SPDR S&P Semiconductor ETF XSD - 반도체 업종
 - iShares Semiconductor ETF SOXX - 반도체 집중
-
 **섹터 관련 ETF:**
 
 - Technology Select Sector SPDR Fund XLK - 기술주 포함

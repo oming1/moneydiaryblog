@@ -1,14 +1,15 @@
 ﻿---
 title: "UAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 899
----<div style="display:none">
+weight: 900
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공운송 #승객운송 #화물운송  #허브공항 #국제항공 #국내항공 #MileagePlus #항공연료 #항공기 #프리미엄서비스  #마일리지프로그램 #신용카드 #로열티프로그램 #운영효율성 #노선네트워크 #글로벌항공사 #산업재 #항공 #여객운송 
 
@@ -35,7 +36,6 @@ United Airlines Holdings Inc.는 1926년 설립된 미국의 대형 항공사로
 리스크 요소로는 연료비 변동성, 경기 민감도, 노동 비용 상승, 규제 리스크, 기후 및 운항 차질이 있습니다. 주된 원자재는 항공 연료(제트유), 항공기, 항공기 부품입니다.
 
 1년 이내 최근 이슈로는 2025년 1분기 기록적인 매출 132억 달러 달성, 1,000대 항공기 보유 달성, 2025년 가이던스 제시, 40대 Airbus A321neo 추가 주문 등이 있습니다. 최근 1년 주가동향은 52주 최고가 $116.00에서 최저가 $37.02로 큰 변동을 보였으며, 현재 주가 $80.18로 업황 회복 기대와 함께 변동성을 보이고 있습니다.
-
 ---
 
 ## 비즈니스 모델(수익 모델)
@@ -50,7 +50,6 @@ United Airlines의 비즈니스 모델은 허브 앤 스포크(Hub-and-Spoke) �
 - 부가 서비스: 수하물, 좌석 선택, 기내 Wi-Fi, 우선 탑승
 
 **2. MileagePlus 로열티 프로그램 (매출 약 9% 비중):**
-
 - 마일 판매: 크레딧카드 회사 및 파트너사에게 마일 판매
 - 연간 53억 달러의 마일 판매 수익 창출
 - 18억 달러의 EBITDA 기록, 전체 EBITDA의 25% 이상
@@ -132,7 +131,6 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 
 - United Technical Operations를 통한 정비
 - 예방 정비 및 부품 관리
-
 ---
 
 ## 전방산업 / 후방산업
@@ -177,12 +175,12 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - Swissport International - 지상 조업 및 화물 처리 서비스
 - SATS Ltd.(SG, [SATS](/company-analysis/sats/)) - 기내식 및 공항 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요제품
-
 **국내선 승객 운송:** 미국 내 주요 도시 간 항공 운송 서비스, 매출 비중 약 65% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
-
 **국제선 승객 운송:** 6개 대륙 연결 국제 노선 항공 운송, 매출 비중 약 26% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
 
 **MileagePlus 로열티 프로그램:** 마일리지 적립 및 신용카드 서비스, 매출 비중 약 9% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
@@ -208,6 +206,8 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 주요 공급 업체: Boeing [BA](/company-analysis/ba/), Airbus Airbus
 
 **항공기 부품:**
+
+{{< adsense-infeed >}}
 
 - 사용처: 항공기 정비 및 교체 부품
 - 주요 공급 지역: 미국, 유럽, 아시아
@@ -306,6 +306,8 @@ United Airlines는 세계 최대 규모의 글로벌 항공사로서 광범위�
 글로벌 네트워크 확장은 회사의 핵심 강점입니다. 가용 좌석 마일(ASM) 기준 세계 최대 항공사이며, 7개 주요 허브를 통해 효율적인 허브 앤 스포크 시스템을 운영하고 있습니다. 특히 태평양 횡단 노선에서 강력한 시장 지위를 확보하여 아시아태평양 지역과의 연결에서 경쟁우위를 보유하고 있습니다.
 
 플릿 현대화 및 확장이 미래 성장의 핵심 동력입니다. 2025년 1월 1,000번째 항공기를 도입하며 업계 최대 규모의 플릿을 운영하고 있습니다. Boeing 787 Dreamliner, Airbus A321neo 등 연료 효율적인 신형 항공기 도입을 통해 운영 비용 절감과 승객 경험 개선을 동시에 추진하고 있습니다.
+
+{{< adsense-infeed >}}
 
 MileagePlus 로열티 프로그램은 단순한 마일리지 프로그램을 넘어 금융 서비스 플랫폼으로 진화하고 있습니다. Chase 신용카드와의 파트너십을 통해 고마진 수익을 창출하며, 프로그램 가치는 220억 달러로 평가받고 있습니다. 이는 항공 운송 외의 안정적인 수익원으로 기능하고 있습니다.
 

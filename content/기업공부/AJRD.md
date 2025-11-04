@@ -1,14 +1,15 @@
 ﻿---
 title: "AJRD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-11-16T13:50:12+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 47
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-16T04:50:12Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #항공우주및방위 #산업재 #로켓엔진
 
@@ -38,12 +39,15 @@ Rocketdyne는 미국의 로켓 엔진 설계 및 생산 회사로, NASA의 주�
 ## 밸류체인
 
 - 로켓 엔진 설계 및 제조:
-    
+
+{{< adsense-infeed >}}
+
     - Rocketdyne는 다양한 로켓 엔진을 설계하고 생산합니다.
     - 대표 기업: Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)), [Blue Origin](/company-analysis/blue-origin/) (미국, 비상장)
-    
 - 우주 발사체 시스템:
-    
+
+{{< adsense-infeed >}}
+
     - Rocketdyne의 엔진은 다양한 우주 발사체에 사용됩니다.
     - 대표 기업: United Launch Alliance (미국, 비상장), [SpaceX](/company-analysis/spacex/) (미국, 비상장)
 
@@ -53,12 +57,13 @@ Rocketdyne는 미국의 로켓 엔진 설계 및 생산 회사로, NASA의 주�
 - J-2 엔진 (Saturn V 로켓 상단용)
 - RS-25 엔진 (우주왕복선 및 Space Launch System용, 현재 주력 제품)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 Rocketdyne의 주요 고객은 미국 정부와 NASA입니다.
 
 ## 경쟁업체
-
 - Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)) - 로켓 엔진 및 추진 시스템
 - [Blue Origin](/company-analysis/blue-origin/) (미국, 비상장) - 재사용 가능한 로켓 엔진
 - [SpaceX](/company-analysis/spacex/) (미국, 비상장) - 로켓 엔진 및 우주 발사체
@@ -68,7 +73,6 @@ Rocketdyne의 주요 고객은 미국 정부와 NASA입니다.
 정확한 시장 점유율 데이터는 없으나, Rocketdyne는 미국 로켓 엔진 시장에서 주요 공급업체 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
-
 - L3Harris Technologies에 의해 인수 완료 (2023년)
 - RS-25 엔진의 Space Launch System 프로그램 지원 지속 (2022년)
 - Lockheed Martin의 인수 시도 무산 (2021년)

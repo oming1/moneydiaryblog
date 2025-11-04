@@ -1,14 +1,15 @@
 ﻿---
 title: "CPN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 225
----<div style="display:none">
+weight: 226
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #유틸리티 #독립전력생산업체 #전력생산 #천연가스 #지열 #발전소 #전력 #산업용증기 
 
@@ -21,7 +22,11 @@ weight: 225
 
 Calpine Corporation은 주로 [천연가스](/industry-study/천연가스/)와 지열 자원을 이용한 전력 생산을 주요 사업으로 하고 있습니다. 이 회사는 북미 전역에 걸쳐 77개의 발전소를 운영하고 있으며, 전력, 증기, 재생 에너지 크레딧 및 부가 서비스를 판매합니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **전력 유통 및 판매**: 전력을 소비자에게 공급하는 산업. 주요 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), Exelon Corporation (미국, [EXC](/company-analysis/exc/)).
@@ -31,14 +36,12 @@ Calpine Corporation은 주로 [천연가스](/industry-study/천연가스/)와 �
     - **지열 자원 개발**: 지열 에너지를 개발하는 산업. 주요 기업: Ormat Technologies (미국, [ORA](/company-analysis/ora/)), Enel Green Power (이탈리아, EGPW).
 
 ### 밸류체인
-
 - **자원 채굴**: 천연가스 및 지열 자원의 채굴. 대표 기업: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/)).
 - **발전**: 천연가스 및 지열을 이용한 전력 생산. 대표 기업: Calpine Corporation (미국), NRG Energy (미국, [NRG](/company-analysis/nrg/)).
 - **전력 유통**: 생산된 전력을 소비자에게 전달. 대표 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), Exelon Corporation (미국, [EXC](/company-analysis/exc/)).
 - **소비자 서비스**: 전력 소비자에게 서비스 제공. 대표 기업: NextEra Energy (미국, [NEE](/company-analysis/nee/)), Southern Company (미국, [SO](/company-analysis/so/)).
 
 ### 주요제품
-
 - **전력**: 천연가스 및 지열을 이용한 전력 생산.
 - **증기**: 산업용 증기 생산.
 - **재생 에너지 크레딧**: 재생 에너지 사용을 증명하는 크레딧.
@@ -53,5 +56,4 @@ Calpine Corporation은 주로 미국 내에서 전력을 판매하고 있으며,
 - **Exelon Corporation (미국, [EXC](/company-analysis/exc/))**: 원자력, 천연가스, 재생 에너지를 이용한 전력 생산.
 
 ### 산업 내 글로벌 시장 점유율
-
 Calpine Corporation은 미국 내 천연가스 및 지열 자원을 이용한 전력 생산에서 주요한 위치를 차지하고 있습니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 미국 내 최대의 천연가스 및 지열 전력 생산업체 중 하나입니다

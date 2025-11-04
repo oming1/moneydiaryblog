@@ -1,14 +1,15 @@
 ﻿---
 title: "MoMo"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2025-03-04T14:04:32+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 580
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 581
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2025-03-04T05:04:32Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #BNPL #핀테크 
 

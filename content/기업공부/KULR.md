@@ -1,14 +1,15 @@
 ﻿---
 title: "KULR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 498
----<div style="display:none">
+weight: 499
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #열관리 #배터리안전 #전기차 #항공우주 #5G #클라우드컴퓨팅 #AI #고성능소재 #NASA기술 #지속가능성 #전기장비 #정보기술 #ESS #비트코인 
 
@@ -57,7 +58,6 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
     - 클라우드 컴퓨팅: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
 ## 밸류체인
-
 1. 원재료 공급: Toray Industries(JP, Toray Industries) - 탄소섬유 소재
 2. 기술 개발: KULR Technology Group (주요 사업 영역) - 열 관리 솔루션
 3. 제품 제조: KULR Technology Group - 배터리 안전 제품
@@ -65,7 +65,6 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 5. 최종 사용자: Boeing(US, [BA](/company-analysis/ba/)) - 항공우주 산업 적용
 
 ## 주요제품
-
 1. 리튬 이온 배터리 열 폭주 실드(TRS)
 2. 섬유 열 인터페이스 재료(FTI)
 3. 상 변화 재료(PCM) 방열판
@@ -87,6 +86,8 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Honeywell International(US, [HON](/company-analysis/hon/)) - 열 관리 시스템
 2. Gentherm(US, THRM) - 열전 기술
 3. Laird Thermal Systems(US, Laird Thermal Systems) - 열 관리 솔루션
@@ -95,7 +96,11 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 KULR는 열 관리 기술 분야에서 빠르게 성장하는 기업으로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -106,10 +111,11 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 5. 전기차 및 에너지 저장 시장 진출 확대 (2022-2024년)
 6. [비트코인](/company-analysis/비트코인/) 매수 천명
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 구체적인 주요 주주 정보는 제공되지 않았습니다.
-
 ## 관련 ETF
 
 1. ETFMG Breakwave Sea Decarbonization Tech ETF - BSEA

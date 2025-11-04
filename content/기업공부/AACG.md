@@ -1,14 +1,15 @@
 ﻿---
 title: "AACG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:30+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #중국교육 #포트폴리오훈련 #예술교육 #해외유학컨설팅 #창의교육 #국제교육 #ACG브랜드 #프리미엄교육 #아트포트폴리오 #유학준비 #중국소비자 #교육서비스 #사설교육 #영국유학 #미국유학 #유럽유학 #예술대학입학 #창의산업 #교육기술 #온라인교육 #헤페이본사 #나스닥상장 #교육IPO
 
@@ -39,7 +40,6 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 - 해외 유학 컨설팅 서비스: 15-20%
 - 연구 기반 학습 서비스: 10-15%
 - 기타 교육 서비스: 5-10%
-
 **고객 유형별 수익 구조:**
 
 - 해외 예술대학 진학 희망 중고등학생: 85%
@@ -85,7 +85,6 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 교육 서비스업으로 전통적인 제조 공정은 해당 없음
 
 **교육 서비스 제공 단계:** 1단계: 학생 상담 및 평가 2단계: 맞춤형 커리큘럼 설계 3단계: 포트폴리오 제작 지도 4단계: 해외 대학 지원 컨설팅
-
 ---
 
 ## 전방산업 / 후방산업
@@ -113,7 +112,6 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 **교육 서비스 제공 단계:**
 
 - ATA Creativity Global: 직접 교육 서비스 제공 및 브랜드 운영
-
 **유통 및 마케팅 단계:**
 
 - 자체 마케팅팀: 중국 내 브랜드 홍보 및 학생 모집
@@ -136,6 +134,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 - 인적 자원: 전문 교육 인력, 중국 주요 도시, 자체 채용 및 교육
 - 교육 공간: 교육센터 임대료, 중국 주요 도시, 부동산 임대업체
 - 교육 기술: IT 인프라, 글로벌, 소프트웨어 공급업체
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -192,6 +192,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 ---
 
 ## 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 **구체적 수치 및 성장 동력:**
 

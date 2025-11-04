@@ -1,14 +1,15 @@
 ﻿---
 title: "INTC"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-02T12:13:48+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 447
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 448
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-02T03:13:48Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #반도체 #테크 #데이터센터 #파운드리 #AI #모빌아이 #자율주행
 
@@ -26,22 +27,25 @@ Intel Corporation은 컴퓨팅 및 관련 제품과 서비스를 설계, 개발,
 - **네트워크 및 에지 (Network and Edge)**: 네트워크 장비, 엣지 컴퓨팅 솔루션 등
 - **모빌아이 (Mobileye)**: [자율 주행](/industry-study/자율-주행/) 기술 및 솔루션
 - **인텔 파운드리 서비스 (Intel Foundry Services)**: 반도체 제조 서비스
-
 #### 전방/후방산업
-
 - **전방산업**: Intel의 제품을 사용하는 주요 기업들로는 Dell Technologies (US, [DELL](/company-analysis/dell/)), HP Inc. (US, [HPQ](/company-analysis/hpq/)), Lenovo (CN, 0992) 등이 있습니다.
 - **후방산업**: Intel에 부품을 공급하는 주요 기업들로는 ASML (NL, [ASML](/company-analysis/asml/)), Applied Materials (US, [AMAT](/company-analysis/amat/)), Lam Research (US, [LRCX](/company-analysis/lrcx/)) 등이 있습니다
-
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **중앙 처리 장치 (CPU)**: Intel Core, Xeon
 - **그래픽 처리 장치 (GPU)**: Intel Arc
 - **메모리 및 스토리지**: Optane 메모리, SSD
 - **네트워크 및 연결**: Ethernet 컨트롤러, Wi-Fi 솔루션
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 Intel은 전 세계적으로 활동하고 있으며, 주요 판매국가는 미국, 중국, 독일, 일본, 한국 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -53,7 +57,6 @@ Intel은 전 세계적으로 활동하고 있으며, 주요 판매국가는 미�
 #### 산업 내 글로벌 시장 점유율
 
 Intel은 전 세계 반도체 시장에서 주요 기업 중 하나로, 특히 CPU 시장에서 높은 점유율을 차지하고 있습니다.
-
 #### 최근 3년 내 주요 이슈
 
 1. **공급망 문제**: COVID-19 팬데믹으로 인한 반도체 공급망 문제 (2021).

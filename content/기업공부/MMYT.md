@@ -1,14 +1,15 @@
 ﻿---
 title: "MMYT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-13T22:02:44+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 573
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 574
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #여행 #임의소비재 #호텔레스토랑및레저 #인도 #온라인여행서비스
 
@@ -31,7 +32,6 @@ MakeMyTrip은 다음과 같은 주요 사업을 영위하고 있습니다:
 주요 브랜드로는 MakeMyTrip.com, Goibibo.com, Redbus.in 등이 있으며, 웹사이트와 모바일 플랫폼을 통해 서비스를 제공하고 있습니다
 
 ## 전방/후방산업
-
 ## 전방산업
 
 - 항공사: Air India (인도), IndiGo (인도, INDIGOGO.NS)
@@ -58,8 +58,9 @@ MakeMyTrip은 다음과 같은 주요 사업을 영위하고 있습니다:
 4. 버스 티켓 예약
 5. 기차 티켓 예약
 
-## 주요 판매국가
+{{< adsense-infeed >}}
 
+## 주요 판매국가
 인도를 중심으로 미국, 싱가포르, 콜롬비아, 인도네시아, 태국, 페루, UAE, 모리셔스, 홍콩, 말레이시아 등에서 사업을 영위하고 있습니다
 
 ## 경쟁업체
@@ -70,10 +71,11 @@ MakeMyTrip은 다음과 같은 주요 사업을 영위하고 있습니다:
 4. Ixigo (인도)
 5. EaseMyTrip (인도, EASEMYTRIP.NS)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 MakeMyTrip은 인도 온라인 여행 시장에서 선도적인 위치를 차지하고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. COVID-19 팬데믹으로 인한 여행 산업 타격 및 회복 대응 (2020-2022년)

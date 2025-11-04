@@ -1,14 +1,15 @@
 ﻿---
 title: "CHIPS Act"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-10-29T21:36:25+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #반도체 #CHIPSAct #트럼프 
 
@@ -36,7 +37,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     
     - 반도체 제조 시설 투자에 대해 투자 금액의 **25%**를 세액 공제로 제공했으나, 트럼프 행정부는 이를 **30~35%**로 확대하는 방안을 추진 중입니다.
     - 세액 공제는 2026년 말까지 착공된 프로젝트에 적용됩니다.
-
 3. **중국 견제**
     
     - 미국 내 반도체 생산을 확대하는 동시에, 중국에 대한 기술 의존도를 줄이고 기술 패권을 확보하려는 의도가 반영되어 있습니다.
@@ -100,7 +100,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 아날로그 반도체 및 임베디드 프로세서 분야의 선두 기업으로, 칩스법 수혜 기업 목록에 포함되어 있습니다. 텍사스 인스트루먼트는 텍사스주 셔먼에 300mm 웨이퍼 팹을 건설하기 위해 최대 16.1억 달러의 직접 지원금을 받았습니다. 이는 자국 내 아날로그 및 임베디드 칩 생산 강화를 통해 다양한 산업 분야의 공급망 안정화에 기여할 것으로 보입니다.
 
 - **앰코 테크놀로지 (Amkor Technology, [AMKR](/company-analysis/amkr/))**
-    
     - 반도체 패키징 및 테스트 서비스를 제공하는 기업으로, 칩스법의 간접적인 수혜가 기대됩니다. 미국 내 반도체 생산이 증가하면 후공정 산업의 수요도 함께 늘어날 가능성이 있습니다.
 
 - **아나로그디바이스 (Analog Devices, [ADI](/company-analysis/adi/))** 
@@ -119,6 +118,8 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     
     - 반도체 제조에 필요한 핵심 소재 및 공정 솔루션을 제공하는 기업으로, 칩스법의 직접 수혜 기업입니다. 콜로라도주에 제조 센터를 건설하기 위해 7,700만 달러의 지원금을 받았습니다. 이는 반도체 제조의 필수적인 소재 공급망 강화에 기여합니다.
 
+{{< adsense-infeed >}}
+
 - **HP (HP Inc., [HPQ](/company-analysis/hpq/))**
     
     - 개인용 컴퓨터, 프린터 등을 생산하는 기업으로, 반도체 수요의 주요 축을 담당하며 칩스법의 간접적인 수혜가 예상됩니다.
@@ -126,7 +127,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **인피네라 (Infinera, [INFN](/company-analysis/infn/))**
     
     - 광통신 장비 및 반도체를 생산하는 기업으로, 칩스법 수혜 기업에 이름을 올렸습니다.
-
 - **마컴 테크놀로지 솔루션스 홀딩스 (MACOM Technology Solutions Holdings, [MTSI](/company-analysis/mtsi/))**
     
     - 아날로그 반도체 솔루션을 제공하는 기업으로, GaAs, GaN 팹 업그레이드에 7천만 달러의 지원을 받았습니다.
@@ -150,6 +150,8 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **울프스피드 (Wolfspeed, [WOLF](/company-analysis/wolf/))**
     
     - 실리콘 카바이드(SiC) 및 질화갈륨(GaN) 반도체를 제조하는 기업으로, 칩스법 수혜 기업 목록에 있습니다.
+
+{{< adsense-infeed >}}
 
 - **앱솔릭스 (Absolics)**
     

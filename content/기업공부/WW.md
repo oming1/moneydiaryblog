@@ -1,14 +1,15 @@
 ﻿---
 title: "WW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 980
----<div style="display:none">
+weight: 981
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -41,7 +42,9 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 1. **통합 라이프스타일 플랫폼**: 체중감량, 영양, 운동, 심리상담 등을 통합 제공
     
 2. **강력한 글로벌 브랜드 파워**: 오랜 업력과 신뢰도 높은 브랜드 인지도
-    
+
+{{< adsense-infeed >}}
+
 3. **개인 맞춤형 솔루션**: AI 및 데이터 기반의 맞춤형 식단/운동/행동 변화 제안
     
 4. **커뮤니티 기반 지원**: 유저 커뮤니티와 동기부여 시스템
@@ -58,8 +61,9 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
     
 - **식품/음료**: Nestlé(CH, [NESN](/company-analysis/nesn/)), Unilever(UK, ULVR)
 
-## 후방산업
+{{< adsense-infeed >}}
 
+## 후방산업
 - **IT·모바일 서비스 개발**: Google(US, [GOOGL](/company-analysis/googl/)), Apple(US, [AAPL](/company-analysis/aapl/))
     
 - **데이터 분석/디지털 플랫폼**: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Salesforce(US, [CRM](/company-analysis/crm/))
@@ -69,7 +73,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 ## 밸류체인
 
 1. **프로그램 개발**: 식단, 운동, 행동변화 프로그램 기획 및 설계
-    
 2. **디지털/모바일 서비스 개발**: 앱 및 온라인 플랫폼 구축
     
 3. **구독 및 회원 관리**: 디지털 마케팅, 신규 회원 모집, 데이터 기반 개인화
@@ -87,7 +90,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 - **건강식품, 레시피, 피트니스 관련 부가상품** (매출의 약 5%)
 
 ## 주요 고객
-
 1. 20~60대 여성(주축), 남성 회원 비중 증가 추세
     
 2. 만성질환, 라이프스타일 개선 필요 고객
@@ -119,7 +121,9 @@ WW International은 2024년 기준 글로벌 다이어트 구독 및 건강관�
 ## 최근 3년 내 주요 이슈
 
 1. AI 기반 개인화 플랫폼 및 코칭 추천 시스템 도입 (2023년)
-    
+
+{{< adsense-infeed >}}
+
 2. 행태 변화 및 심리상담 프로그램 확대 (2022~2024년)
     
 3. 유럽·호주 등 글로벌 시장 디지털 서비스 론칭 (2022~2023년)

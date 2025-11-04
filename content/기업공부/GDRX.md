@@ -1,14 +1,15 @@
 ﻿---
 title: "GDRX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 367
----<div style="display:none">
+weight: 368
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어테크 #처방약할인 #의약품가격비교 #원격의료 #텔레헬스 #디지털헬스 #굿알엑스 #소비자헬스 #의료비절감 #온라인약국 #제약사프로그램 #건강정보서비스 #시장침투 #성장잠재력 #사용자경험 #빅데이터 #헬스케어플랫폼 #만성질환관리 #AI헬스 #환자중심 #헬스케어혁신 #제약산업 #가상케어
 
@@ -41,8 +42,9 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 ### 비즈니스 모델 (수익 모델)
 
-**수익 구조 세분화:**
+{{< adsense-infeed >}}
 
+**수익 구조 세분화:**
 - **처방약 거래 수익:** 85% (제휴 약국에서 발생하는 거래 건당 수수료, 제약사 보상 프로그램 등)
     
 - **구독 서비스 수익 (GoodRx Gold 등):** 10%
@@ -51,7 +53,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 - **고객 유형별 수익 구조:**  
     주로 약국, 제약사, 그리고 최종 소비자인 환자로부터 수익을 창출합니다.
-    
     - 약국 및 PBM (Pharmacy Benefit Manager): 약가 할인 거래 수수료
     - 제약사: 환자 지원 프로그램 연동 수수료
     - 소비자: 구독 서비스 가입비  
@@ -94,6 +95,8 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 - **실시간 약국 가격 데이터 통합 및 분석 기술:**  
     미국 내 수만 개 약국의 처방약 가격 정보를 실시간으로 수집, 통합, 분석하여 사용자에게 가장 저렴한 옵션을 제시하는 핵심 기술입니다.
 
+{{< adsense-infeed >}}
+
 - **AI 기반 개인 맞춤형 할인 추천 알고리즘:**  
     사용자의 과거 구매 이력, 위치, 처방전 정보 등을 기반으로 AI가 최적의 할인 쿠폰 및 약국을 추천하여 사용자 경험을 최적화합니다.
 
@@ -117,7 +120,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 - 웹사이트나 모바일 앱을 통해 사용자에게 약가 비교 결과와 할인 쿠폰을 제공하고, 약국 방문 시 쿠폰을 사용하여 할인을 받을 수 있도록 연결합니다. (GoodRx Care의 경우 온라인 진료 및 처방전 발급)  
 
 4단계: **수익 창출 및 파트너십 관리:**
-
 - 약국 및 PBM으로부터 거래 수수료를 받거나, 제약사 및 원격의료 파트너로부터 서비스 제공에 따른 수수료를 받습니다. 동시에 지속적인 파트너십을 관리합니다.
 
 ---
@@ -136,7 +138,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 - **클라우드 서비스 제공업체:** 플랫폼 운영에 필요한 서버, 스토리지, 컴퓨팅 자원을 공급합니다. (예: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/)))
 - **데이터 분석 및 AI 솔루션 제공업체:** 데이터 통합 및 분석, AI 알고리즘 개발을 위한 도구와 서비스를 제공합니다. (예: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)))
 - **정보 보안 솔루션 제공업체:** 민감한 환자 데이터를 보호하기 위한 보안 소프트웨어 및 서비스를 제공합니다. (예: CrowdStrike Holdings(US, [CRWD](/company-analysis/crwd/)))
-
 ---
 
 ### 밸류체인
@@ -194,6 +195,8 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 ---
 
 ### 주요 고객 (파트너십 및 사용자 기반)
+
+{{< adsense-infeed >}}
 
 - **CVS Pharmacy (US, [CVS](/company-analysis/cvs/)):** 대형 약국 체인 파트너.
 - **Walgreens (US, [WBA](/company-analysis/wba/)):** 대형 약국 체인 파트너.

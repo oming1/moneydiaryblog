@@ -1,14 +1,15 @@
 ﻿---
 title: "TILE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-28T21:02:07+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 867
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 868
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:02:07Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #바닥재 #가구  #타일 #카펫 #산업재 #건축제품 #타일
 
@@ -20,7 +21,6 @@ weight: 867
 ## 영위사업
 
 Interface Inc.는 상업용 카펫 타일 및 탄력성 있는 바닥재의 설계, 생산, 판매를 전문으로 하는 글로벌 기업입니다.
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -29,15 +29,17 @@ Interface Inc.는 상업용 카펫 타일 및 탄력성 있는 바닥재의 설�
 - 화학 원료: 접착제, 코팅제 등 (예: 다우(US, [DOW](/company-analysis/dow/)))
 
 ## 전방산업
-
 - 상업용 건설: 오피스, 호텔, 교육 시설 등 (예: 존스 랭 라살(US, JLL))
 - 인테리어 디자인: 상업 공간 설계 회사들
-
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 상업용 카펫 타일
 - 탄력성 있는 바닥재(LVT 등)
 - 고무 바닥재
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

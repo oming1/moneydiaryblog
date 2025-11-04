@@ -1,14 +1,15 @@
 ﻿---
 title: "RIO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 745
----<div style="display:none">
+weight: 746
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #비철금속 #리튬 #비철금속 #원자재 #알루미늄 #리사이클링 #수소 #광산 #기초자재 #금속및광업
 
@@ -23,11 +24,12 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 금속 및 광물의 제조 및 판매
     - **관련 기업**: BHP Group (AU, [BHP](/company-analysis/bhp/)), Vale S.A. (BR, [Vale](/company-analysis/vale/))
-    
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 원자재 공급 및 장비 제조
@@ -40,11 +42,9 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
     - **대표 회사**: Barrick Gold Corporation (CA, ABX) - 금속 탐사 및 개발
     - **대표 회사**: Newmont Corporation (US, [NEM](/company-analysis/nem/)) - 금속 탐사 및 개발
 - **채굴 및 가공**: 금속 및 광물의 채굴 및 가공
-    
     - **대표 회사**: Anglo American plc (UK, [AAL](/company-analysis/aal/)) - 금속 및 광물 채굴
     - **대표 회사**: Freeport-McMoRan Inc. (US, [FCX](/company-analysis/fcx/)) - 구리 및 금 채굴
 - **유통 및 판매**: 제품의 유통 및 판매
-    
     - **대표 회사**: Glencore plc (CH, [GLEN](/company-analysis/glen/)) - 금속 및 원자재 유통
     - **대표 회사**: Trafigura Group Pte Ltd (SG, 비상장) - 원자재 유통
 
@@ -61,12 +61,12 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
 
 Rio Tinto는 전 세계적으로 운영되며, 주요 시장은 아시아, 유럽, 북미 및 남미입니다. 특히 중국은 철광석의 주요 수출 시장입니다.
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 - **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 금속 및 광물 채굴
 - **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
 - **Glencore plc (CH, [GLEN](/company-analysis/glen/))** - 금속 및 원자재 유통
-
 ## 산업 내 글로벌 시장 점유율
 
 Rio Tinto는 글로벌 철광석 시장에서 약 13%의 점유율을 보유하고 있으며, 알루미늄 및 구리 시장에서도 중요한 위치를 차지하고 있습니다.

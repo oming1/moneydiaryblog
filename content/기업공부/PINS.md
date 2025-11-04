@@ -1,14 +1,15 @@
 ﻿---
 title: "PINS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 692
----<div style="display:none">
+weight: 693
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,9 +19,7 @@ weight: 692
 
 섹터: 커뮤니케이션 서비스
 산업: 인터넷콘텐츠및정보
-
 ## 영위사업
-
 Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 운영하는 미국 기업입니다. 2010년 설립되어 2019년 4월 뉴욕 증권거래소에 상장되었습니다. 주요 사업은 다음과 같습니다:
 
 1. 소셜 미디어 플랫폼: 사용자들이 이미지와 비디오를 발견, 저장, 공유할 수 있는 서비스 제공
@@ -40,6 +39,8 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 디지털 광고: 광고주들, 마케팅 에이전시
@@ -58,14 +59,12 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 - 광고 솔루션: 핀 광고, 쇼핑 광고 등
 - 비즈니스 도구: Pinterest for Business, 분석 도구 등
 - 크리에이터 도구: 아이디어 핀, 스토리 핀 등
-
 ## 주요 고객
 
 - 광고주: Procter & Gamble(US, [PG](/company-analysis/pg/)), L'Oréal(FR, OR)
 - 소매업체: Target(US, [TGT](/company-analysis/tgt/)), Wayfair(US, [W](/company-analysis/w/))
 - 브랜드: Nike(US, [NKE](/company-analysis/nke/)), IKEA
 - 중소기업 및 개인 크리에이터
-
 ## 주요 판매국가
 
 미국, 영국, 독일, 프랑스, 캐나다, 호주, 일본, 브라질, 멕시코, 스페인
@@ -81,6 +80,8 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 ## 산업 내 글로벌 시장 점유율
 
 Pinterest는 2024년 기준 글로벌 소셜 미디어 광고 시장에서 약 2.5%의 점유율을 보유하고 있는 것으로 추정됩니다. 미국 시장에서는 약 4%의 점유율을 차지하고 있습니다. 최근 3년간 시장 점유율은 소폭 상승하는 추세를 보이고 있으며, 특히 e커머스 연계 광고 부문에서 성장세가 두드러집니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

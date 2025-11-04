@@ -1,14 +1,15 @@
 ﻿---
 title: "FCX의 구리 가격 변동으로 뭘 사볼까"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #FCX #구리 #인도네시아 #SCCO 
 
@@ -16,14 +17,13 @@ weight: 2
 
 ### **1. 시장 상황 및 단기 구리 가격 모멘텀**
 
-!Pasted image 20250925121329.png
+![](/images/Pasted%20image%2020250925121329.png)
 
 9월 8일 인도네시아 Grasberg 광산에서 발생한 대형 진흙사태(사망 2명, 실종 5명)로 Freeport-McMoRan(FCX)은 불가항력(force majeure)을 선언, 2025년 3분기 구리와 금 판매 가이던스를 각각 4%, 6% 하향 조정했습니다. 이 광산은 전 세계 채굴 구리의 3.2%, FCX 구리 생산의 약 30%, 금 생산의 70%를 차지합니다. 이 여파로 구리 선물은 파운드당 $4.77(4% 이상 급등), 두 달 만에 최고치를 기록했습니다. 동시에 페루 Hudbay Minerals의 콘스탄시아 광산도 시위로 가동이 중단되며 공급 충격이 심화되고 있습니다.
 
-!Pasted image 20250925121351.png
+![](/images/Pasted%20image%2020250925121351.png)
 
 이러한 공급 차질은 이미 타이트한 글로벌 구리 재고와 맞물려 가격 민감도를 극대화하고 있습니다. 단기적으로 구리 가격은 추가 상승 압력을 받을 가능성이 높으며, 제련업계에도 부담이 가중될 전망입니다.
-
 ---
 ### **2. 주요 구리 기업 비교**
 
@@ -41,15 +41,17 @@ weight: 2
 
 #### **A. 생산 비중 및 글로벌 영향력**
 
+{{< adsense-infeed >}}
+
 - **[FCX](/company-analysis/fcx/) (Freeport-McMoRan)**
-    
     - Grasberg(인도네시아): FCX 구리 생산의 30%, 금 생산의 70%, 글로벌 구리의 3.2% 차지.
     - 북미(미국), 남미(페루, 칠레) 등 다각화된 포트폴리오.
     - 최근 사고로 2026년 생산 전망도 35% 하향 가능성 경고.
     - 단일 자산(Grasberg) 의존도가 높아, 공급 충격 시 주가 변동성 확대.
-
 - **[SCCO](/company-analysis/scco/) (Southern Copper)**
-    
+
+{{< adsense-infeed >}}
+
     - 멕시코(Buenavista, La Caridad), 페루(Toquepala, Cuajone) 등 남미 중심.
     - 단일 광산 의존도는 FCX보다 낮고, 생산지 분산도가 높음.
     - 최근 페루 지역 시위 등 정치적 리스크는 있으나, 대형 사고로 인한 대규모 생산 차질은 드물었음.
@@ -61,6 +63,8 @@ weight: 2
 	    - 전기차 및 재생에너지 수요 증가에 따른 수혜 가능.
 	- **리스크**:
 	    - 광산 수명 연장 필요 및 환경 규제 강화.
+
+{{< adsense-infeed >}}
 
 - **[Hudbay Minerals](/company-analysis/hudbay-minerals/)(HBM)**
 
@@ -88,7 +92,6 @@ weight: 2
     - 세계 최대급 구리·금 복합 광산(Grasberg) 보유.
     - 북미, 남미, 아시아 등 글로벌 생산 네트워크.
     - 금, 몰리브덴 등 부산물로 수익 다각화.
-
 - **리스크**
     - 단일 대형 광산(Grasberg) 의존도 높음 → 공급 충격 시 실적·주가 급변.
     - 인도네시아 등 신흥국 규제·정치 리스크.
@@ -113,7 +116,6 @@ weight: 2
 ### **3. 투자 전략 및 대안적 관점**
 
 #### **A. 단기 구리 가격 모멘텀**
-
 - FCX의 Grasberg 공급 차질은 단기적으로 구리 가격을 강하게 지지.
 - 글로벌 재고가 극도로 낮은 상황에서 추가 공급 충격(페루 Hudbay 등)까지 겹치면 가격 급등 가능성.
 - 단기 트레이딩 관점에서는 구리 선물, 구리 ETF, 구리 생산업체(특히 미국 내 생산 비중 높은 기업)에 모멘텀.

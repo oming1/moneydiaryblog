@@ -1,14 +1,15 @@
 ﻿---
 title: "SHAK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 788
----<div style="display:none">
+weight: 789
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -44,7 +45,6 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 - 배달 서비스: 음식 배달 플랫폼 (Uber Eats(US, [UBER](/company-analysis/uber/)), DoorDash(US, [DASH](/company-analysis/dash/)))
 
 후방산업:
-
 - 식품 공급업: 고품질 식재료 공급 (Sysco(US, [SYY](/company-analysis/syy/)), US Foods(US, [USFD](/company-analysis/usfd/)))
     
 - 포장재 제조: 친환경 포장재 생산 (Ball Corporation(US, [BALL](/company-analysis/ball/)), Sealed Air(US, SEE))
@@ -52,7 +52,9 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 ## 밸류체인
 
 1. 원재료 조달: 고품질 식재료 공급업체 선정 및 관리
-    
+
+{{< adsense-infeed >}}
+
 2. 제품 개발: 내부 R&D 팀, 셰프 협업을 통한 메뉴 혁신
     
 3. 생산 및 조리: 각 매장에서 주문 즉시 조리
@@ -63,26 +65,27 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
     
 6. 물류 및 유통: 효율적인 공급망 관리 시스템
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. ShackBurger: 시그니처 앵거스 비프 버거 (2023년 매출의 약 40%)
-    
+
+{{< adsense-infeed >}}
+
 2. 크링클 컷 프라이: 특유의 모양과 식감의 감자튀김 (2023년 매출의 약 20%)
     
 3. 밀크쉐이크 및 커스터드: 다양한 플레이버의 디저트 (2023년 매출의 약 15%)
-    
 4. 치킨 샌드위치: 무항생제 닭고기 사용 (2023년 매출의 약 10%)
     
 5. 핫도그: 뉴욕 스타일 핫도그 (2023년 매출의 약 5%)
 
 ## 주요 판매국가
-
 미국(54.2%), 영국, 일본, 중국, 한국, 멕시코, UAE 등 전 세계 150개 이상 국가
 
 ## 경쟁업체
 
 1. In-N-Out Burger: 서부 중심의 프리미엄 버거 체인
-    
 2. Five Guys(US, [FIVE](/company-analysis/five/)): 커스터마이즈 가능한 버거로 유명
     
 3. Smashburger: 고급 버거와 사이드 메뉴 제공
@@ -114,6 +117,8 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

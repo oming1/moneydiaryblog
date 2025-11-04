@@ -1,14 +1,15 @@
 ﻿---
 title: "ATVI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 94
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #게임 #커뮤니케이션서비스
 
@@ -19,11 +20,16 @@ Industry: Electronic Gaming & Multimedia (전자 게임 및 멀티미디어)
 
 ## 영위사업
 
-Activision Blizzard는 비디오 게임 개발 및 퍼블리싱 회사로, 콘솔, PC, 모바일 플랫폼용 인터랙티브 엔터테인먼트 콘텐츠를 제작합니다.
+{{< adsense-infeed >}}
 
+Activision Blizzard는 비디오 게임 개발 및 퍼블리싱 회사로, 콘솔, PC, 모바일 플랫폼용 인터랙티브 엔터테인먼트 콘텐츠를 제작합니다.
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 게임 유통 및 플랫폼 제공
 - 게임 콘솔: Sony (JP, 6758)
@@ -41,19 +47,18 @@ Activision Blizzard는 비디오 게임 개발 및 퍼블리싱 회사로, 콘�
 - World of Warcraft (MMORPG, 매출 비중: 약 20%, 2022년 기준)
 - Candy Crush Saga (모바일 게임, 매출 비중: 약 15%, 2022년 기준)
 - Overwatch (팀 기반 FPS, 매출 비중: 약 10%, 2022년 기준)
-
 ## 주요 판매국가
 
 Activision Blizzard는 전 세계적으로 게임을 판매하고 있습니다. 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
 ## 경쟁업체
 
 - Electronic Arts (US, EA) - 스포츠 및 액션 게임
 - Take-Two Interactive (US, TTWO) - 오픈월드 액션 게임
 - Ubisoft Entertainment (FR, UBI) - 어쌔신 크리드 시리즈 등 액션 게임
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 Activision Blizzard의 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다. 그러나 2022년 기준으로 전 세계 게임 시장에서 주요 플레이어 중 하나로 간주되고 있습니다.
 
 - 주요 이벤트  /  주가 상승 하락

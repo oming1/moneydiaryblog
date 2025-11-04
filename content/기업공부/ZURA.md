@@ -1,14 +1,15 @@
 ﻿---
 title: "ZURA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 1002
----<div style="display:none">
+weight: 1003
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #바이오테크놀로지 #면역학 #자가면역질환 #이중경로항체 #티불리주맙 #ZB-106 #IL-17 #BAFF #전신경화증 #화농성한선염 #쇼그렌증후군 #류마티스관절염 #임상시험 #2상시험 #TibuSURE #TibuSHIELD #SPAC합병 #JATT #듀얼패스웨이 #자가면역치료 #염증성질환 #항체치료제 #정밀의학 #면역조절 #라스베가스
 
@@ -24,6 +25,8 @@ weight: 1002
 ## 🏢 영위사업 (10줄 이상 상세 서술)
 
 Zura Bio Limited는 네바다주 헨더슨에 본사를 둔 임상 단계의 [멀티애셋 면역학 전문 바이오테크놀로지 기업]입니다. 2023년 3월 21일 JATT Acquisition Corp.과의 SPAC 합병을 통해 나스닥에 상장되었으며, 자가면역 및 염증성 질환 치료를 위한 혁신적인 이중경로 항체 치료제 개발에 특화되어 있습니다.
+
+{{< adsense-infeed >}}
 
 회사의 핵심 자산은 tibulizumab (ZB-106)으로, 세계 최초의 anti-IL-17 및 anti-BAFF 이중 길항제입니다. 이 치료제는 Taltz® (ixekizumab)와 tabalumab의 융합으로 엔지니어링되어 면역 시스템 불균형의 핵심 메커니즘을 동시에 타겟팅합니다. 현재 전신경화증(SSc), 화농성한선염(HS), 쇼그렌증후군, 류마티스관절염 등 여러 적응증에서 임상 개발이 진행 중입니다.
 
@@ -130,7 +133,6 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 - 면역학 치료: 쇼그렌증후군 등 면역 관련 질환
 
 **후방산업 (원자재/부품 공급 산업):**
-
 - 바이오 의약품 제조: 항체 생산을 위한 세포 배양 시설
 - 임상시험 서비스: CRO(Contract Research Organization)
 - 규제 컨설팅: 임상 시험 및 승인 지원 서비스
@@ -141,7 +143,6 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 ## 🔗 밸류체인
 
 **연구개발 단계:**
-
 - 내부 R&D 팀: 항체 설계 및 최적화
 - 학술 협력: Benaroya Research Institute 등과의 연구 협력
 - 과학자문위원회: 임상 전략 및 개발 방향 자문
@@ -164,7 +165,6 @@ Russell 2000 및 Russell 3000 지수에 편입되어 있으며, 애널리스트�
 
 **- Tibulizumab (ZB-106)**  
 anti-IL-17 및 anti-BAFF 이중 길항제, 핵심 파이프라인 제품, 주요 적응증 전신경화증, 화농성한선염, 쇼그렌증후군, 류마티스관절염
-
 **- ZB-168**  
 면역학 자산, 개발 초기 단계, 주요 적응증 자가면역 질환 (구체적 타겟 비공개)
 
@@ -365,6 +365,8 @@ JAK 억제제 및 면역학 치료제 개발
 - 가중평균 발행 주식 (2024년): 7,507만 주
 
 _주: 구체적 지분율 정보는 최신 SEC 서류 확인 필요_
+
+{{< adsense-infeed >}}
 
 ---
 

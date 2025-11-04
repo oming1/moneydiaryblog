@@ -1,14 +1,15 @@
 ﻿---
 title: "MDLZ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-20T21:06:48+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 557
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 558
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-20T12:06:48Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #식품제품 #필수소비재 #과자 #스낵 #초콜릿 #비스킷
 
@@ -20,7 +21,6 @@ Industry: 식품 제품(Food Products)
 ## 영위사업
 
 Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요 사업 영역은 다음과 같습니다:
-
 1. 비스킷 및 쿠키
 2. 초콜릿
 3. 껌 및 캔디
@@ -31,6 +31,8 @@ Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요
 회사는 Oreo, Cadbury, Milka, Toblerone 등의 글로벌 브랜드와 지역별 유명 브랜드를 보유하고 있으며, 전 세계 150개국 이상에서 제품을 판매하고 있습니다.
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. Oreo, Chips Ahoy!, Ritz (비스킷 및 크래커)
 2. Cadbury Dairy Milk, Milka, Toblerone (초콜릿)
@@ -43,6 +45,8 @@ Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요
 
 Mondelez International은 전 세계 150개국 이상에서 사업을 영위하고 있으며, 특히 북미, 유럽, 라틴 아메리카, 아시아, 중동 및 아프리카 지역에서 강세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. Nestlé SA (스위스) - 초콜릿, 과자류
@@ -50,10 +54,11 @@ Mondelez International은 전 세계 150개국 이상에서 사업을 영위하�
 3. Mars, Incorporated (비상장) - 초콜릿, 껌
 4. Ferrero Group (비상장) - 초콜릿, 과자류
 5. Kellogg Company (US, [K](/company-analysis/k/)) - 과자, 시리얼
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Mondelez International은 비스킷(쿠키 및 크래커) 부문에서 세계 1위, 초콜릿 부문에서 세계 2위를 차지하고 있습니다
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -63,6 +68,7 @@ Mondelez International은 전 세계 150개국 이상에서 사업을 영위하�
 4. 건강한 스낵 시장 진출 확대 (Clif Bar, Grenade 등 인수) (2022-2023년)
 5. 지속가능성 및 책임 있는 소싱 강화 노력 (2022-2024년)
 
-공유
+{{< adsense-infeed >}}
 
+공유
 다시 쓰기

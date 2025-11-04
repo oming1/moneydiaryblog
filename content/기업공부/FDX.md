@@ -1,14 +1,15 @@
 ﻿---
 title: "FDX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 340
----<div style="display:none">
+weight: 341
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #산업재 #택배 #물류 #통합화물및물류 #항공운송 #3PL
 
@@ -21,6 +22,8 @@ weight: 340
 
 Sector: Industrials (산업재)  
 Industry: Integrated Freight & Logistics (통합화물및물류)
+
+{{< adsense-infeed >}}
 
 ## 회사 개요
 
@@ -49,6 +52,8 @@ FedEx Corporation은 1971년에 설립된 미국의 글로벌 운송 및 물류 
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - FedEx Express (속달 우편 및 항공 화물 서비스)
 - FedEx Ground (육상 화물 서비스)
 - FedEx Freight (화물 운송 서비스)
@@ -58,13 +63,14 @@ FedEx Corporation은 1971년에 설립된 미국의 글로벌 운송 및 물류 
 
 FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - 미국: 약 60%
 - 유럽: 약 20%
 - 아시아 태평양: 약 15%
 - 기타: 약 5%
 
 ## 주요 자산
-
 - 항공기: 659대
 - 차량: 41,000대
 - 글로벌 물류 네트워크 및 허브
@@ -75,11 +81,11 @@ FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음�
 - DHL (Deutsche Post DHL Group) (DE, DPW) - 국제 물류 및 배송 서비스
 - USPS (United States Postal Service) - 미국의 우편 서비스
 - [AMZN](/company-analysis/amzn/): 미국의 전자상거래 업체로 미국 물류 운송 1위
-
 ## 산업 내 글로벌 시장 점유율
 
 FedEx는 글로벌 물류 및 운송 시장에서 주요 플레이어 중 하나로, 시장 점유율은 약 20%로 추정됩니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
-## 자세한 종목 정보 링크
+{{< adsense-infeed >}}
 
+## 자세한 종목 정보 링크
 [FedEx Corporation - Wikipedia](https://ko.wikipedia.org/wiki/%ED%8E%98%EB%8D%B1%EC%8A%A4)

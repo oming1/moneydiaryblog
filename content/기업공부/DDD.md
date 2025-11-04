@@ -1,14 +1,15 @@
 ﻿---
 title: "DDD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 265
----<div style="display:none">
+weight: 266
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,7 +21,6 @@ weight: 265
 산업: 3D프린팅
 
 ## 영위사업
-
 3D Systems Corporation(NYSE: DDD)은 3D 프린팅 및 적층 제조 솔루션을 제공하는 글로벌 기업입니다. 1986년 설립된 이 회사는 3D 프린팅 기술의 선구자로, 산업용 및 전문가용 3D 프린터, 프린팅 재료, 소프트웨어 솔루션을 개발 및 제공합니다.주요 사업 부문은 다음과 같습니다:
 
 1. 하드웨어: 산업용 및 전문가용 3D 프린터 제조
@@ -31,7 +31,6 @@ weight: 265
 2024년 기준 총 매출은 약 5억 5천만 달러였으며, 의료, 항공우주, 자동차, 방위 산업 등 다양한 분야에 솔루션을 제공하고 있습니다. 최근에는 의료 및 치과 분야에서의 맞춤형 솔루션 개발과 금속 3D 프린팅 기술 향상에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 기술 혁신: 30년 이상의 3D 프린팅 기술 개발 경험과 지속적인 R&D 투자
 2. 다양한 제품 포트폴리오: 플라스틱, 금속, 세라믹 등 다양한 소재와 프린팅 기술 보유
 3. 산업별 전문성: 의료, 항공우주, 자동차 등 주요 산업에 대한 깊이 있는 이해와 솔루션 제공
@@ -48,6 +47,8 @@ weight: 265
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 소재 공급: BASF(DE, BAS), Evonik Industries(DE, EVK)
 - 레이저 시스템: IPG Photonics(US, IPGP), Coherent(US, [COHR](/company-analysis/cohr/))
 - 소프트웨어: Autodesk(US, [ADSK](/company-analysis/adsk/)), Dassault Systèmes(FR, DSY)
@@ -61,10 +62,11 @@ weight: 265
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 독일, 영국, 프랑스, 일본, 중국, 한국, 이탈리아, 캐나다, 호주
 
 ## 경쟁업체
-
 - Stratasys(US, SSYS): 산업용 및 데스크톱 3D 프린터
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)): Multi Jet Fusion 3D 프린팅 기술
 - EOS GmbH(DE): 산업용 금속 및 폴리머 3D 프린팅 시스템
@@ -82,6 +84,8 @@ weight: 265
 - 치과용 3D 프린팅 솔루션 포트폴리오 확대 (2022년)
 - 항공우주 분야 인증 획득으로 부품 생산 확대 (2023년)
 - 지속가능성 이니셔티브 발표: 2030년까지 탄소 배출량 50% 감축 목표 설정 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

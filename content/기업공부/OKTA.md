@@ -1,14 +1,15 @@
 ﻿---
 title: "OKTA"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-05T21:59:54+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 654
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 655
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-05T12:59:54Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #정보기술 #소프트웨어 #인증서비스
  
@@ -19,9 +20,15 @@ weight: 654
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하고 보안할 수 있도록 돕는 클라우드 소프트웨어를 제공합니다. 또한 개발자들이 애플리케이션, 웹사이트, 웹 서비스 및 기기에 ID 제어 기능을 구축할 수 있도록 지원합니다.
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 싱글 사인온(SSO) 서비스
 - 다요소 인증(MFA)
@@ -29,19 +36,15 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 - 사용자 ID 수명주기 관리
 - Universal Directory
 - Access Gateway
-
 ## 주요 판매국가
 
 북미, 아시아-태평양, 유럽
-
 ## 경쟁업체
 
 - Microsoft(US, [MSFT](/company-analysis/msft/))
 - Ping Identity(US, PING)
 - ForgeRock(US, FORG)
-
 ## 최근 주요 이슈
-
 - Auth0 인수 완료 (65억 달러 규모, 2021)
 - atSpoke 인수 (9000만 달러 규모, 2021)
 - Spera 인수 (약 1억-1억 3000만 달러 규모, 2023)

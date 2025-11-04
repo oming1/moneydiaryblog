@@ -1,14 +1,15 @@
 ﻿---
 title: "Holtec International"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 411
----<div style="display:none">
+weight: 412
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #원전 #원자력발전 #원자력 #SMR #소형모듈원자로 #사용후핵연료 #원전해체 #에너지저장 #스팀터빈 #방사성폐기물 #클린에너지 #탈탄소 #ESG #플랜트설계 #설치서비스 #수출확대 #미국제조업
 
@@ -55,7 +56,6 @@ SMR 시장이 성장함에 따라 발생할 여러 프로젝트에 연계되어 
 설치를 위한 입지로부터 상대적으로 자유롭다는 점이다. 사고가 났을 때 펌프가 아닌 중력을 이용해 냉각수를 자연 순환시키는 구조를 갖고 있어 다량의 냉각수가 필요하지 않다. 
 
 이를통해 수원이 가깝지 않은 내륙 지방은 물론 극지에서도 운용이 가능하다는 장점이 있다.
-
 여기에 더불어 고순도 저농축 우라늄 (HALEU)이 아닌 현재 가동중인 대부분의 상업용 원자로에 들어가는 일반 농축도 5% 미만의 저농축 우라늄을 연료로 사용하는 것 또한 장점이다. 
 
 원자로에 맞는 연료 생산 자체가 하나의 마일스톤인 4세대 SMR과 달리 Framatome와 같은 기존 공급자들에게 쉽게 연료를 들여와 상업 운전을 시작할 수 있다.
@@ -63,6 +63,8 @@ SMR 시장이 성장함에 따라 발생할 여러 프로젝트에 연계되어 
 검증된 기술과 인프라를 베이스로 개발되는 노형인 만큼 실제 SMR 배치와 운영에서 시행착오가 적을 가능성이 높다.
 
 ## 주요 프로젝트 및 인허가 현황
+
+{{< adsense-infeed >}}
 
 Holtec은 자사의 SMR-300 실증 및 Palisades 원자력 발전소 재가동을 위한 Palisades restart 프로젝트를 진행하고 있다.![](/images/Pasted%20image%2020250321161032.png)
 Palisades 원자력 발전소는 1971년부터 800MWe급 원자로를 운영하며 미시간주 전체 전력 수요의 5%를 생산해왔다. 하지만 설비 노후화로 인해 2022년 5월 원전 폐쇄가 결정되었다. 
@@ -80,7 +82,6 @@ Holtec은 2023년 후반까지 진행중이던 SMR-160에 사전 인허가 (Pre-
 
 원자로에 대한 라이선스를 획득하기 위해 NRC의 10 CFR Part 50 절차를 진행하고 있으며 2026년 1분기 건설허가를 신청해 2029년 운영허가를 취득할 계획이다. 10 CFR Part 50 절차는 총
 2단계로 구성된 인허가 제도이며 현재 미국에서 운영 중인 원전들에 적용되었던 인허가 절차이다. 
-
 이 제도는 건설허가를 취득 후 완공 직전에 운영허가를 받는 방식으로 이 경우 공사 중 설계 조정이 가능해 유연성을 확보할 수 있다.
 
 ## SMR 플레이어로서 Holtec의 강점
@@ -167,13 +168,14 @@ Holtec International은 원자력 및 에너지 산업에 특화된 설계·제�
 ## 주요제품
 
 - **HI-STORM**: 사용후핵연료 건식저장 시스템(글로벌 표준)
-    
+
+{{< adsense-infeed >}}
+
 - **SMR-160**: 차세대 소형모듈원자로
     
 - **스팀터빈·핵연료 저장용기**
     
 - **원전 해체/폐로 서비스 패키지**
-    
 - **에너지 저장·수력 발전 시스템**
 
 ## 주요 고객
@@ -193,7 +195,9 @@ Holtec International은 원자력 및 에너지 산업에 특화된 설계·제�
 ## 경쟁업체
 
 1. Westinghouse(US): 원자력 기자재/해체서비스
-    
+
+{{< adsense-infeed >}}
+
 2. Framatome(FR): 원자력 밸류체인 전반
     
 3. Orano(FR): 핵연료/후처리/해체
@@ -223,6 +227,8 @@ Holtec은 사용후핵연료 저장장치·원전해체 시장에서 Global Top 
 
 - 민간기업(비상장)으로 공개된 대주주 정보 없음
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
 
 Holtec International은 비상장사로 직접 편입되는 ETF는 없습니다.  
@@ -233,5 +239,4 @@ Holtec International은 비상장사로 직접 편입되는 ETF는 없습니다.
 - VanEck Uranium+Nuclear Energy ETF - NLR
     
 - iShares Global Clean Energy ETF - ICLN
-    
 - First Trust Nasdaq Clean Edge Smart Grid Infrastructure ETF - GRID

@@ -1,14 +1,15 @@
 ﻿---
 title: "MongoDB Q2 2026 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
  #MDB #Atlas
@@ -26,15 +27,15 @@ weight: 2
 - 순현금흐름·현금: 영업CF 7,210만달러, FCF 6,990만달러, 현금·현금성·단기투자·제한성 현금 합계 23억달러.
 - 주식환매: 2억달러 실행(분기).
 - 순손실(GAAP): -4,704만달러(주당 -0.58달러).
-
 ---
 ## 2. 제품별/사업부별
-
 - 구독(Subscription) 매출: 5.724억달러(YoY +23%). 서비스(Professional Services) 매출: 1,900만달러(YoY +33%).
 - 제품 믹스: Atlas 74% 비중으로 핵심 성장 엔진화(고객 및 워크로드 확장 중심).
 
 ---
 ## 3. 가이던스
+
+{{< adsense-infeed >}}
 
 - 3Q FY26: 매출 5.87억~5.92억달러, Non-GAAP EPS 0.76~0.79달러.
 - FY26: 매출 23.4~23.6억달러(직전 대비 +7,000만달러 상향), Non-GAAP EPS 3.64~3.73달러, Non-GAAP 영업이익 3.21~3.31억달러.
@@ -56,15 +57,18 @@ weight: 2
 ---
 ## 6. 시장 반응(주가/심리)과 이번 실적의 의미
 
+{{< adsense-infeed >}}
+
 - 주가 반응: [실적/가이던스 상회 발표 직후 주가 +37% 급등](애프터+장중), 톱·바텀라인 서프라이즈와 가이던스 상향이 투자심리 개선 촉매로 작용.
 
 - 추가 요인: (1) Atlas 성장률 26%→29%로 재가속, (2) 연간 매출·마진 가이던스 일제 상향, (3) 2억달러 자사주 매입 및 현금 23억달러의 재무 여력 등이 리레이팅에 기여.
 	- 해석: 단순 “AI 테마”가 아닌, 실제 고객·워크로드 확장과 수익성 레버리지(비용 효율+스케일 효과)에서 성과를 증명. 특히 AI 앱 구축 파이프라인의 핵심 데이터 계층으로서 Atlas 채택이 늘며, 사용량 기반(Consumption) 모델의 가속이 가시화.
-
 - 리스크 밸런싱: 전사 Non-GAAP 마진은 개선됐지만 GAAP 기준 순손실 지속, 비(非)현금성 주식보상비용·총마진 소폭 하락(비용·클라우드 인프라 코스트)을 모니터링 필요.
 
 ---
 ## 7. 기술·제품 경쟁력(특히 AI 인프라에서의 위치)
+
+{{< adsense-infeed >}}
 
 - 통합형 데이터·검색 스택: Atlas에 네이티브로 벡터 검색과 텍스트 검색을 통합(하이브리드 검색). 벡터 유사도+메타데이터 필터+어그리게이션 파이프라인 등 복합쿼리를 하나의 운영 DB에서 구현 가능해, 별도 벡터DB/검색엔진과의 동기화 복잡도를 낮춤.
 
@@ -75,13 +79,11 @@ weight: 2
 
 ---
 ## 8. 경쟁사 영향과 차별화 포인트
-
 - Snowflake([SNOW](/company-analysis/snow/) - 클라우드 데이터 웨어하우스/애널리틱스): 분석·웨어하우스가 강점. MongoDB는 운영 DB·앱 트랜잭션/검색/벡터의 단일 계층이라는 점에서 직접 대체보다는 보완적 포지션. 다만 양사 모두 AI 워크로드를 겨냥하며 중장기 고객 예산을 경쟁적으로 유치.
 
 - Amazon(AWS, [AMZN](/company-analysis/amzn/) - 1위 클라우드, DynamoDB 등 관리형 DB): 클라우드 인프라 리더로 고객 락인 효과 큼. MongoDB는 멀티클라우드·Run Anywhere 전략으로 종속 회피 니즈를 공략.
 
 - Microsoft(Azure, [MSFT](/company-analysis/msft/) - 클라우드 2위, Cosmos DB): Azure는 AI 워크로드 확장으로 점유율을 높이는 중. Cosmos DB와의 경쟁 구도 속에서도 
-
 - Alphabet(Google Cloud, [GOOGL](/company-analysis/googl/) - Firestore 등): GCP 생태계와의 결합력은 강점. MongoDB는 멀티클라우드·크로스클라우드 일관성으로 차별화.
 
 - Oracle([ORCL](/company-analysis/orcl/) - 엔터프라이즈 DB·자율 데이터웨어하우스): 전통 강자이자 클라우드 전환 속도 가속. 하지만 MongoDB는 비정형·유연 스키마·앱 속도/민첩성·AI 하이브리드 검색 측면에서 다른 장점을 제시.  

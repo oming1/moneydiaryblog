@@ -1,14 +1,15 @@
 ﻿---
 title: "BBGI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 119
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 미국 상장 여부
 
@@ -47,7 +48,6 @@ Beasley Broadcast Group은 1961년 조지 G. 비즐리가 설립한 미국의 �
 ---
 
 ## 비즈니스 모델(수익 모델)
-
 Beasley Broadcast Group의 비즈니스 모델은 지역 중심의 라디오 방송과 디지털 플랫폼을 통한 광고 기반 수익 구조를 핵심으로 합니다.
 
 ### 1. 지역 광고 수익 모델:
@@ -67,6 +67,8 @@ Beasley Broadcast Group의 비즈니스 모델은 지역 중심의 라디오 방
 - **디지털 스트리밍:** 온라인 라디오 스트리밍 광고 (전체 매출의 19.4%)
 - **웹사이트 광고:** 방송국 웹사이트를 통한 디스플레이 및 비디오 광고
 - **소셜 미디어 마케팅:** 디지털 마케팅 솔루션 제공
+
+{{< adsense-infeed >}}
 
 ### 4. 카테고리별 특화 광고:
 
@@ -117,6 +119,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 - **정치 조직** (후보자, 정당, PAC)
 - **청취자 및 소비자**
 
+{{< adsense-infeed >}}
+
 ### 후방산업:
 
 - **방송 장비 제조업체:** Broadcast Electronics, Harris Corporation
@@ -137,7 +141,6 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 - 뉴스 콘텐츠: Associated Press, Reuters
 
 ### 방송 송출 단계:
-
 라디오 타워 및 송출 시스템을 통한 방송 배급
 
 - American Tower Corporation(US, [AMT](/company-analysis/amt/)) - 타워 임대
@@ -157,7 +160,6 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 ## 주요제품
 
 **WXTU (필라델피아):** 컨트리 음악 방송, 92.5 FM, 필라델피아 지역 대표 컨트리 스테이션, 관련 경쟁사 지역 다른 컨트리 스테이션들
-
 **WMMR (필라델피아):** 클래식 록 음악 방송, 93.3 FM, 필라델피아 지역 록 음악 청취자 타겟, 관련 경쟁사 지역 록 스테이션들
 
 **WPGC (워싱턴 DC):** 어반/힙합 음악 방송, 95.5 FM, 아프리카계 미국인 커뮤니티 타겟, 
@@ -175,6 +177,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 ## 주된 영향을 미치는 원자재
 
 ### 방송 장비:
+
+{{< adsense-infeed >}}
 
 - **사용처:** 라디오 송출 및 스튜디오 운영
 - **주요 공급 지역:** 미국, 독일
@@ -212,7 +216,6 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 - 지역 레스토랑 체인 - 음식점 및 배달 서비스 광고
 
 **전국 광고주 (B2B):**
-
 - 대형 소매체인들 - 전국 브랜드의 지역 마케팅
 - 통신사들 - 모바일 및 인터넷 서비스 광고
 - 금융 서비스 업체 - 은행, 보험사 광고
@@ -241,7 +244,6 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 ## 경쟁업체
 
 **대형 라디오 방송 그룹:**
-
 - iHeartMedia(US, [IHRT](/company-analysis/ihrt/)) - 미국 최대 라디오 방송 그룹, 850개 이상 스테이션
 - [Audacy](/company-analysis/audacy/)(US, AUD) - 미국 2위 라디오 방송 그룹, 170개 이상 스테이션
 - Cumulus Media(US, [CMLS](/company-analysis/cmls/)) - 전국 400개 이상 스테이션 운영
@@ -278,6 +280,8 @@ Beasley Broadcast Group의 핵심 경쟁력은 주요 대도시권 시장에서�
 **지역별 시장 점유율:** 주요 운영 시장에서 상당한 점유율 보유하나 구체적인 수치는 비공개
 
 **디지털 오디오:** 전통적인 라디오 대비 디지털 스트리밍 시장에서는 제한적인 점유율
+
+{{< adsense-infeed >}}
 
 최근 3년간 전통적인 라디오 시장은 축소되고 있으나, 지역 시장에서의 강력한 입지를 바탕으로 상대적으로 안정적인 위치를 유지하고 있습니다.
 

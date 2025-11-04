@@ -1,14 +1,15 @@
 ﻿---
 title: "WMT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 966
----<div style="display:none">
+weight: 967
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #소비자방어주  #할인점 #블랙프라이데이
 
@@ -35,7 +36,6 @@ weight: 966
 				- 거시경제 및 지정학적 불확실성으로 소비 둔화 우려가 있음
 				- 매크로 불확실성에도 견고한 사업모델을 유지하며 매출 상승 모멘텀이 지속됨을 강조
 				- VIZIO (스마트 TV 플랫폼 기반 광고 및 데이터 사업 운영) 인수는 2026년부터 실적에 기여할 것으로 기대함, 월마트 커넥트와 통합하여 광고 유통 역량을 강화할 전략
-
 ## 산업섹터
 
 - **Sector**: Consumer Defensive (소비자 방어주)
@@ -46,6 +46,8 @@ weight: 966
 Walmart는 세계 최대의 소매업체로, 할인점, 슈퍼센터, 회원제 창고형 매장 등 다양한 형태의 매장을 운영합니다. 식료품, 의류, 전자제품, 가정용품 등 광범위한 제품을 판매하며, 온라인 쇼핑 플랫폼도 운영하고 있습니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 소비자 소매
 - **후방산업**: 제조업, 농업, 물류
@@ -63,9 +65,7 @@ Walmart는 세계 최대의 소매업체로, 할인점, 슈퍼센터, 회원제 
 - 건강 및 웰빙 제품 (매출의 약 12%)
 
 ## 주요 판매국가
-
 미국을 중심으로 24개국에서 운영 중이며, 주요 시장으로는 미국, 멕시코, 캐나다, 영국 등이 있습니다.
-
 ## 경쟁업체
 
 - Amazon (US, [AMZN](/company-analysis/amzn/))
@@ -73,6 +73,8 @@ Walmart는 세계 최대의 소매업체로, 할인점, 슈퍼센터, 회원제 
 - Costco (US, [COST](/company-analysis/cost/))
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Walmart는 매출 기준 세계 최대의 소매업체로, 특히 미국 내 식료품 소매 시장에서 약 25%의 점유율을 보유하고 있습니다[](https://en.wikipedia.org/wiki/Walmart).
 

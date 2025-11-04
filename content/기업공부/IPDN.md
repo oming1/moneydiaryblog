@@ -1,14 +1,15 @@
 ﻿---
 title: "IPDN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 454
----<div style="display:none">
+weight: 455
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #인피니트그룹 #IPDN #사이버보안 #MDR #보안관제 #취약점관리 #위협탐지 #사이버옵스 #노드웨어 #Nodeware #CyberOps #중소기업보안 #IT보안 #클라우드보안 #보안솔루션 #사이버복원력 #정보보호 #컴플라이언스 #SOC서비스 #매니지드보안 #보안컨설팅 #인시던트대응 #디지털전환 #원격근무보안 #자동화보안 #글로벌보안 #보안산업 #데이터보호 #SaaS보안 #IT아웃소싱 #보안취약점 #OTCQB상장 #정보보안컨설팅
 
@@ -26,13 +27,14 @@ weight: 454
 Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/industry-study/사이버-보안/) 전문 기업으로, 주로 중소기업(SMB) 및 중견 기업을 대상으로 한 포괄적인 보안 솔루션과 서비스를 제공합니다. 초기에는 IT 컨설팅 및 인프라 서비스에 집중했으나, 최근 몇 년간 보안 서비스와 [SaaS](/industry-study/saas/) 기반 솔루션으로 사업 모델을 전환했습니다. 회사는 보안 취약점 관리부터 24시간 위협 탐지 및 대응(MDR)까지, 기업의 디지털 자산을 보호하는 데 필요한 핵심 역량을 제공합니다.
 
 - **주요 제품 및 서비스**
-    
+
+{{< adsense-infeed >}}
+
     - **Nodeware (SaaS):** 클라우드 기반의 지속적인 취약점 관리 플랫폼. 실시간으로 네트워크 자산의 취약점을 스캔하고 우선순위를 지정하여, 기업이 잠재적인 위협에 선제적으로 대응할 수 있도록 돕습니다. 자동화된 보고서와 알림 기능을 제공하며, SMB 기업이 쉽게 사용할 수 있도록 설계되었습니다.
 
     - **CyberOps (MDR/SOC as a Service):** 24시간 365일 보안 관제 센터(SOC) 서비스를 제공하며, 위협 탐지 및 대응(MDR)을 통해 고객사의 보안을 관리합니다. 전문 보안 분석가들이 최신 위협 인텔리전스를 활용하여 사이버 공격을 모니터링하고, 이상 징후 발생 시 즉각적으로 대응하여 고객사의 보안 운영 부담을 줄여줍니다.
 
     - **Incident Response (IR):** 사이버 침해 사고 발생 시 신속하게 대응하여 피해를 최소화하고, 재발 방지를 위한 복구 계획 및 컨설팅을 제공합니다.
-
     - **보안 컨설팅:** 기업의 보안 정책 수립, 규제 준수(예: HIPAA, PCI DSS) 자문, 보안 아키텍처 설계 등 맞춤형 보안 전략을 지원합니다.
 
 - **사업 부문별 구성**
@@ -93,7 +95,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 ---
 
 ### 핵심 경쟁력
-
 - **SMB/Mid-Market 전문성:** 대형 보안 업체들이 소홀히 할 수 있는 중소기업 시장에 특화된 솔루션 및 서비스 제공.
 - **통합 보안 포트폴리오:** 취약점 관리부터 MDR, 인시던트 대응까지 원스톱 솔루션 제공.
 - **클라우드 기반 SaaS 모델:** Nodeware는 배포 및 관리가 용이하며, 고객의 IT 인프라 부담 경감.
@@ -133,6 +134,8 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 클라우드 서비스 제공업체: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/)).
 - 보안 하드웨어/소프트웨어 벤더: 방화벽, Endpoint Protection 등 (IGI 솔루션과 통합될 수 있음).
 - 위협 인텔리전스 공급업체: CrowdStrike (US, [CRWD](/company-analysis/crwd/)) 등.
@@ -169,7 +172,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 ---
 
 ### 주된 영향을 미치는 원자재
-
 - **클라우드 컴퓨팅 리소스:** 서버, 스토리지, 네트워크 트래픽 비용 (AWS, Azure).
 - **보안 인텔리전스 데이터:** 위협 인텔리전스 구독료.
 - **인력 자원:** 숙련된 사이버보안 전문가의 인건비.
@@ -201,6 +203,8 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 - **IBM (US, [IBM](/company-analysis/ibm/)):** X-Force 등 보안 서비스 및 솔루션.
 - **Mandiant (Google, US, [GOOGL](/company-analysis/googl/) 자회사):** 인시던트 대응 및 위협 인텔리전스.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -222,6 +226,8 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 
 ### 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 - **2023년:** Nodeware 플랫폼 기능 고도화, 채널 파트너십 강화.
 - **2022년:** CyberOps (MDR) 서비스 확장 및 고객 기반 확대.
 - **2021년:** 기업 구조조정 및 보안 전문 기업으로의 전환 가속화.
@@ -231,7 +237,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 ### 주요 주주 (지분율)
 
 OTCQB 상장사로 주요 주주 정보는 공개된 자료에서 정확한 최신 지분율을 찾기 어려울 수 있습니다. 일반적으로 창업자/경영진 및 소규모 기관/개인 투자자들이 주요 지분을 보유합니다. (최신 10-K/10-Q 확인 필요)
-
 ---
 
 ### 관련 ETF

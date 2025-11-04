@@ -1,14 +1,15 @@
 ﻿---
 title: "SOFI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 813
----<div style="display:none">
+weight: 814
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #핀테크 #개인금융 #디지털뱅킹 #학자금대출 #주택담보대출 #투자 #신용카드 #온라인뱅킹 #금융서비스 #기술플랫폼 #갈릴레오 #대출 #모바일뱅킹 #자산관리 #로보어드바이저 #금융교육 #회원혜택 #원스톱숍 #금융테크놀로지 #금융
 
@@ -41,7 +42,6 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 ## 전방/후방산업
 
 ## 전방산업:
-
 1. 소비자 금융: 개인 대출, 주택 담보 대출 등 금융 상품 이용
     
     - JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
@@ -56,12 +56,13 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 후방산업:
 
+{{< adsense-infeed >}}
+
 1. 클라우드 컴퓨팅: 금융 서비스 플랫폼 운영을 위한 인프라 제공
     
     - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
 2. 데이터 분석: 고객 데이터 처리 및 분석 도구 제공
-    
     - Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/))
     
 3. 사이버보안: 금융 데이터 보호 및 보안 솔루션 제공
@@ -77,7 +78,9 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 2. 자금 조달: 대출 상품을 위한 자금 확보
     
     - SoFi Technologies(US, [SOFI](/company-analysis/sofi/)), LendingClub(US, LC)
-    
+
+{{< adsense-infeed >}}
+
 3. 리스크 관리: 신용평가 및 리스크 분석
     
     - Equifax(US, EFX), TransUnion(US, TRU)
@@ -110,6 +113,8 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 미국을 중심으로 서비스 제공
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. Robinhood Markets(US, [HOOD](/company-analysis/hood/)): 주식 거래 및 투자 플랫폼
@@ -133,13 +138,11 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 5. 국립 은행 인가 취득 (2022)
 
 ## 주요주주(지분율)
-
 1. Vanguard Group Inc. (9.86%)
 2. BlackRock Inc. (7.53%)
 3. State Street Corporation (6.74%)
 
 ## 관련 ETF
-
 1. ARK Fintech Innovation ETF - ARKF
 2. Global X FinTech ETF - FINX
 3. ETFMG Prime Mobile Payments ETF - IPAY

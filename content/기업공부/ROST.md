@@ -1,14 +1,15 @@
 ﻿---
 title: "ROST"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-26T14:02:56+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 759
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 760
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-26T05:02:56Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #경기소비재 #의류소매 #의류 #신발
 
@@ -23,11 +24,14 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업: 소비자 소매
 - 후방 산업: 의류 제조, 가정용품 제조
 
-## 밸류체인
+{{< adsense-infeed >}}
 
+## 밸류체인
 - 제품 조달: 브랜드 제품을 할인된 가격에 대량 구매
 - 유통 및 판매: 자체 매장 네트워크와 온라인 플랫폼을 통해 판매
 
@@ -41,7 +45,6 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 - 화장품
 
 ## 주요 판매 국가
-
 미국 43개 주, 워싱턴 D.C., 괌에서 사업을 전개하고 있습니다.
 
 ## 경쟁업체
@@ -50,7 +53,6 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 - Burlington Stores (미국, BURL)
 - Kohl's (미국, [KSS](/company-analysis/kss/))
 - Target (미국, [TGT](/company-analysis/tgt/))
-
 ## 산업 내 글로벌 시장 점유율
 
 Ross Stores는 미국 내 최대 오프프라이스 소매업체 중 하나로, 2024년 2분기 기준 Apparel Retail 산업 내에서 약 18.9%의 시장 점유율을 보유하고 있습니다

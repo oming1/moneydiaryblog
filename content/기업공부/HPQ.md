@@ -1,14 +1,15 @@
 ﻿---
 title: "HPQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 416
----<div style="display:none">
+weight: 417
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #HP #HPQ #개인용컴퓨터 #노트북 #프린터 #잉크토너 #소모품수익 #디지털솔루션 #보안솔루션 #서비스모델 #OEM #유통채널 #홈오피스 #기업IT #SupplyChain #3D프린팅 #ManagedPrint #RemoteWork #플랫폼비즈니스 #구독모델
 
@@ -18,7 +19,6 @@ weight: 416
 
 섹터(Sector): Technology – 테크  
 산업(Industry): Computer Hardware & Printing – 컴퓨터 하드웨어 및 프린팅
-
 ---
 
 ### 영위사업
@@ -32,7 +32,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 2. 프린터 하드웨어  
     • 가정용·사무용 소형 프린터부터 대형 산업용 프로덕션 프린터까지 다양  
     • 프린터 본체는 비교적 낮은 마진이나, 고객 유입용 관문 역할
-
 3. 잉크·토너·소모품  
     • 잉크 카트리지, 토너, 용지 등 소모품 교체 수요로 꾸준히 매출 발생  
     • 전체 매출의 약 30% 차지, 이익률이 높아 ‘캐시카우(현금창출원)’
@@ -62,7 +61,9 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
     • 중소·중견 기업: 25%  
     • 대기업·공공기관: 30%  
     • 리셀러·유통업체: 10%
-    
+
+{{< adsense-infeed >}}
+
 - 지역별 매출 분포  
     • 미국: 60%  
     • EMEA(유럽·중동·아프리카): 25%  
@@ -82,7 +83,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - 높은 브랜드 인지도 – 소비자 PC 시장 점유율 2위(글로벌 기준)
 - 충성도 높은 소모품 매출 – 전체 매출 30%가 반복 매출
 - 비용 효율화 – 폭넓은 협력사(Foxconn, Jabil)와 공장 운영으로 원가 절감
-
 ---
 
 ### 핵심 기술
@@ -144,7 +144,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - 메모리 칩: Samsung, SK Hynix
 - 광학유리·플라스틱: Covestro, Celanese(US, [CE](/company-analysis/ce/))
 - 잉크·토너 화학물질: BASF(DE, BAS)
-
 ---
 
 ### 주요 고객
@@ -157,7 +156,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 ---
 
 ### 주요 판매 국가
-
 - 미국: 60% (2023년 기준)
 - EMEA: 25% (유럽·중동·아프리카)
 - 아시아·태평양: 15%
@@ -178,6 +176,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 
 - PC 시장(2024 Q1 기준): HP 22% (2위), Lenovo 25%, Dell 19% (출처: IDC)
 - 프린터 시장(2023 기준): HP 28% (1위), Canon 24%, Epson 18% (출처: Gartner)
+
+{{< adsense-infeed >}}
 
 ---
 

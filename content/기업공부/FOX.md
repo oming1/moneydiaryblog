@@ -1,14 +1,15 @@
 ﻿---
 title: "FOX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 350
----<div style="display:none">
+weight: 351
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -19,8 +20,9 @@ weight: 350
 섹터: 커뮤니케이션 서비스
 산업: 미디어엔터테인먼트
 
-## 영위사업
+{{< adsense-infeed >}}
 
+## 영위사업
 Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테인먼트 기업으로, 뉴스, 스포츠, 엔터테인먼트 콘텐츠를 제작하고 배포합니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 케이블 네트워크 프로그래밍: FOX News, FOX Business, FOX Sports 등
@@ -38,7 +40,6 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 8. 혁신적 기술 도입: 스트리밍, 데이터 분석 등 신기술 활용
 
 ## 전방/후방산업
-
 전방산업:
 
 - 광고주: Procter & Gamble(US, [PG](/company-analysis/pg/)), General Motors(US, [GM](/company-analysis/gm/))
@@ -53,13 +54,14 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - FOX News: 24시간 뉴스 채널, 매출의 약 40% (2025년 1분기 기준)
 - FOX Sports: 스포츠 중계 및 관련 콘텐츠, 매출의 약 30% (2025년 1분기 기준)
 - FOX 방송 네트워크: 지상파 TV 프로그래밍, 매출의 약 20% (2025년 1분기 기준)
 - Tubi: 무료 광고 지원 스트리밍 서비스, 매출의 약 10% (2025년 1분기 기준)
 
 ## 주요 판매국가
-
 미국이 주요 시장이며, 일부 콘텐츠는 국제적으로 유통됩니다.
 
 ## 경쟁업체
@@ -70,17 +72,20 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 - Warner Bros. Discovery(US, [WBD](/company-analysis/wbd/)): CNN, TNT 등 보유
 - Nexstar Media Group(US, NXST): 지역 TV 방송국 네트워크 운영
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Fox Corporation의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 미국 케이블 뉴스 시장에서 FOX News는 2025년 초 기준으로 약 45%의 시청자 점유율을 보유하고 있어 업계 선두를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - Tubi 스트리밍 서비스 성장 가속화: 2025년 1분기 매출 47% 증가 (2025년)
 - LIV Golf와 다년간 TV 중계권 계약 체결 (2025년)
 - 2024년 미국 대선 관련 정치 광고 수익 약 1억 2천만 달러 기록 (2024년)
 - FOX Bet 스포츠 베팅 서비스 확대 및 The Stars Group과의 파트너십 강화 (2023년)
 - ESG 이니셔티브 강화: 2030년까지 탄소 중립 목표 설정 (2023년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

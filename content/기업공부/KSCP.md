@@ -1,14 +1,15 @@
 ﻿---
 title: "KSCP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2023-06-28T12:17:43+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 494
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 495
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-06-28T03:17:43Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #로봇 #산업재 #보안 #자율보안로봇 #ASR #보안로봇
 
@@ -26,14 +27,13 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 ### 전방/후방산업
 
 **전방산업:**
-
 - 보안 서비스 제공업체: ADT Inc. (US, ADT), Allied Universal
 - 공공기관: 미국 연방 정부, 지방 자치 단체
-
 **후방산업:**
-
 - 센서 및 부품 공급업체: Honeywell (US, [HON](/company-analysis/hon/)), Bosch
 - 소프트웨어 개발업체: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
+
+{{< adsense-infeed >}}
 
 ### 주요제품
 
@@ -47,8 +47,9 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 - 캐나다
 - 영국
 
-### 경쟁업체
+{{< adsense-infeed >}}
 
+### 경쟁업체
 - **ADT Inc. (US, ADT):** 보안 서비스 제공업체 (시장 점유율 15%)
 - **Allied Universal:** 보안 서비스 제공업체 (시장 점유율 10%)
 - **Bosch:** 보안 시스템 및 센서 공급업체 (시장 점유율 5%)
@@ -58,6 +59,8 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 Knightscope, Inc.의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **신제품 출시:** K7 다목적 ASR 출시 (2022년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "PACB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 669
----<div style="display:none">
+weight: 670
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #유전체학 #DNA시퀀싱 #생명과학 #바이오테크놀로지 #장기읽기시퀀싱 #HiFi기술 #Revio시스템 #Vega시퀀서 #유전자분석 #정밀의학 #농업유전학 #미생물학 #종양학 #희귀질환연구 #생물정보학 #헬스케어 #생명공학 #유전체연구 #분자진단 #헬스케어 #생명과학도구및서비스
 
@@ -33,7 +34,6 @@ Pacific Biosciences of California, Inc.(PACB)는 혁신적인 DNA 시퀀싱 기�
 - 식물 및 동물 과학
 - 감염병 및 미생물학
 - 종양학
-
 PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기서열과 후성유전학적 상태를 감지할 수 있어 과학 연구와 임상 응용에 중요한 도구로 사용됩니다.
 
 주요 경쟁자:
@@ -71,9 +71,13 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
     - Pfizer(US, [PFE](/company-analysis/pfe/)), Roche(CH, [ROG](/company-analysis/rog/))
     
 2. 농업 및 식품: 작물 개량, 가축 육종
-    
+
+{{< adsense-infeed >}}
+
     - Bayer(DE, BAYN), Corteva(US, [CTVA](/company-analysis/ctva/))
-    
+
+{{< adsense-infeed >}}
+
 3. 환경 및 생태학: 생물다양성 연구, 환경 모니터링
     
     - Illumina(US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
@@ -87,7 +91,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 2. 화학 및 생화학 재료: 시약 및 소모품 제조
     
     - Agilent Technologies(US, [A](/company-analysis/a/)), Merck KGaA(DE, [MRK](/company-analysis/mrk/))
-    
 3. 소프트웨어 및 데이터 분석: 생물정보학 도구 개발
     
     - Alphabet(US, [GOOGL](/company-analysis/googl/)), Microsoft(US, [MSFT](/company-analysis/msft/))
@@ -103,7 +106,9 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
     - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Oxford Nanopore Technologies(GB, ONT)
     
 3. 소모품 및 시약 공급: 시퀀싱 키트 및 시약 제조
-    
+
+{{< adsense-infeed >}}
+
     - Agilent Technologies(US, [A](/company-analysis/a/)), Bio-Rad Laboratories(US, BIO)
     
 4. 데이터 분석 및 저장: 생물정보학 소프트웨어 및 클라우드 서비스
@@ -121,7 +126,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 3. SMRT Cell: 시퀀싱용 소모품
 4. 시퀀싱 키트 및 시약: DNA 라이브러리 준비 및 시퀀싱용
 5. 생물정보학 소프트웨어: SMRT Link (데이터 분석 및 관리용)
-
 ## 주요 고객
 
 1. 학술 연구 기관: Harvard University(US, Harvard), Stanford University(US, Stanford)
@@ -151,7 +155,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 정확한 시장 점유율 데이터는 제공되지 않았지만, PACB는 장기 읽기 DNA 시퀀싱 시장에서 주요 플레이어 중 하나로 인식되고 있습니다. 2022년 기준 전체 DNA 시퀀싱 시장에서는 Illumina가 약 80%의 점유율로 선두를 차지하고 있으며, PACB는 장기 읽기 시장에서 Oxford Nanopore Technologies와 경쟁하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. Revio 시스템 출시로 처리량 대폭 증가 (2022)
 2. Vega 시스템 발표로 중소규모 시장 공략 강화 (2023)
 3. SPRQ 화학 기술 도입으로 시퀀싱 효율성 향상 (2024)

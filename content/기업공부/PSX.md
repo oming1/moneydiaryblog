@@ -1,14 +1,15 @@
 ﻿---
 title: "PSX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 712
----<div style="display:none">
+weight: 713
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #석유정제 #석유화학 #미드스트림 #정유 #에너지물류 #연료유통 #천연가스처리 #윤활유 #석유제품 #정유소 #주유소네트워크 #파이프라인 #에너지인프라 #재생연료  #에너지 #석유가스정제마케팅
 
@@ -23,6 +24,8 @@ weight: 712
 ## 영위사업
 
 Phillips 66(PSX)는 미국의 대표적인 통합 에너지 기업으로, 미드스트림, 화학, 정유, 마케팅 및 특수제품 부문에서 사업을 영위하고 있습니다.
+
+{{< adsense-infeed >}}
 
 1. 미드스트림: 원유 및 정제 석유제품의 운송, 저장, 처리 서비스와 [천연가스](/industry-study/천연가스/) 및 [NGL](/industry-study/ngl/)(Natural Gas Liquids) 관련 서비스를 제공합니다.
 2. 화학: Chevron Phillips Chemical Company LLC와의 합작 투자를 통해 전 세계적으로 [석유화학](/industry-study/석유화학/) 제품과 플라스틱을 제조 및 판매합니다.
@@ -58,7 +61,9 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 ## 후방산업:
 
 1. 원유 생산: 석유 탐사 및 생산 기업
-    
+
+{{< adsense-infeed >}}
+
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 파이프라인 및 저장: 원유 및 석유제품 운송, 저장 인프라
@@ -70,7 +75,6 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
 
 ## 밸류체인
-
 1. 원유 공급: 원유 생산 및 수입
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Saudi Aramco(SA, 2222.SR)
@@ -116,7 +120,6 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 8. 농업 관련 기업
 
 ## 주요 판매국가
-
 미국, 영국, 독일, 오스트리아, 스위스, 폴란드, 중국, 싱가포르, 말레이시아
 
 ## 경쟁업체
@@ -160,5 +163,4 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 5. VanEck Oil Refiners ETF - CRAK
 
 공유
-
 다시 쓰기

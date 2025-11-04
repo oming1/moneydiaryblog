@@ -1,14 +1,15 @@
 ﻿---
 title: "SNPS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-06T10:40:41+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 811
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 812
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-06T01:40:41Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #반도체 #정보기술 #소프트웨어 #반도체설계 #집적회로 #전자설계자동화 #실리콘
 
@@ -23,15 +24,19 @@ weight: 811
 
 이 회사는 엔지니어가 집적 회로(IC), 칩 또는 실리콘을 설계하고 테스트하는 데 사용하는 전자 설계 자동화(EDA) 소프트웨어를 공급하는 데 종사한다.  
 
+{{< adsense-infeed >}}
+
 칩 설계 개발 생산성을 높이기 위한 클라우드 기반 디지털 설계 흐름을 비롯해 칩과 칩에서 실행되는 소프트웨어를 통합하는 전자 시스템을 검증하는 데 사용되는 소프트웨어와 하드웨어를 제공한다.  
-  
 또한 기술 서비스 및 지원도 제공한다. 3개의 부문으로 구성된다. 설계 자동화 부문에는 고급 실리콘 설계, 검증 제품 및 서비스, 시스템 통합 제품 및 서비스, 디지털, 맞춤형 및 FPGA IC 설계 소프트웨어, 검증 소프트웨어 및 하드웨어 제품, 제조 소프트웨어 제품 및 기타가 포함된다.  
+
+{{< adsense-infeed >}}
 
 디자인 IP 부문에는 디자인 IP 제품이 포함된다. 소프트웨어 무결성 부문에는 보안 취약성 및 품질 결함에 대한 소프트웨어 코드를 테스트하는 솔루션과 전문 및 관리 서비스가 포함된다.
 
 ## 전방/후방산업
-
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 컴퓨터 하드웨어 제조업체: 고성능 컴퓨팅 시스템 공급
 - 클라우드 서비스 제공업체: AWS(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -58,18 +63,18 @@ weight: 811
 ## 주요 판매국가
 
 미국, 중국, 한국, 대만, 유럽
-
 ## 경쟁업체
 
 - Cadence Design Systems(US, [CDNS](/company-analysis/cdns/))
 - Siemens EDA(DE, SIE.DE)
 - Ansys(US, [ANSS](/company-analysis/anss/))
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Synopsys는 EDA 시장의 선두 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Sassine Ghazi가 새로운 CEO로 취임 (2024)
 - Ansys를 350억 달러에 인수 계획 발표 (2024)

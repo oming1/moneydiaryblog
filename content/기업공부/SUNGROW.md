@@ -1,14 +1,15 @@
 ﻿---
 title: "SUNGROW"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-12T16:27:08+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 840
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 841
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-12T07:27:08Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #ESS #중국 #태양광인버터 #태양광 #산업재 #전기장비및부품
 
@@ -20,9 +21,7 @@ weight: 840
 #### 영위사업
 
 Sungrow Power Supply Co., Ltd.는 태양광 인버터, 풍력 발전 변환기, 에너지 저장 시스템([ESS](/industry-study/ess/)), 신재생 에너지 차량 구동 시스템 및 수상 태양광 장비를 연구, 개발, 생산, 판매 및 서비스하는 글로벌 선도 기업입니다 주요 사업으로는 태양광 인버터, 에너지 저장 시스템, 수상 태양광 시스템, 전기차 충전 솔루션, 재생 가능 [수소](/industry-study/수소/) 생산 시스템 등이 있습니다
-
 #### 전방/후방산업
-
 - **전방산업**:
     - **재활용 산업**: 재활용된 자재 공급 (예: International Paper (US, [IP](/company-analysis/ip/)))
     - **에너지 생산**: 매립지 가스를 이용한 재생 가능 에너지 생산 (예: NextEra Energy (US, [NEE](/company-analysis/nee/)))
@@ -39,18 +38,23 @@ Sungrow Power Supply Co., Ltd.는 태양광 인버터, 풍력 발전 변환기, 
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **태양광 인버터**: 2kW부터 8.8MW까지 다양한 용량의 태양광 인버터 제공
 - **에너지 저장 시스템**: PowerTitan 및 PowerStack과 같은 수냉식 에너지 저장 시스템
 - **수상 태양광 시스템**: 다양한 애플리케이션 시나리오를 위한 수상 태양광 시스템
 - **전기차 충전 솔루션**: 180kW 통합 DC 급속 충전기 등
 - **재생 가능 수소 생산 시스템**
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **중국**: 본사가 위치한 주요 시장
 - **미국**: 주요 판매국가로 포함됨
 - **유럽**: 다양한 국가에서 판매
-
 #### 경쟁업체
 
 - **First Solar (US, [FSLR](/company-analysis/fslr/))**: 태양광 패널 및 에너지 솔루션 제공

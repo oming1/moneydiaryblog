@@ -1,14 +1,15 @@
 ﻿---
 title: "ZBH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 996
----<div style="display:none">
+weight: 997
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #헬스케어 #의료기기 #로봇수술 #ROSA
 
@@ -25,16 +26,15 @@ weight: 996
 
 1. 원자재 공급업체: 티타늄, 폴리에틸렌 등 소재 공급 (Allegheny Technologies (US, ATI))
 2. 의료기기 부품 제조업체: 정밀 부품 생산 (Precision Castparts Corp.)
-
 밸류체인:
-
 1. 연구개발: 짐머바이오메트, Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)) (의료기기 부문)
 2. 제조: 짐머바이오메트, Stryker Corporation (US, [SYK](/company-analysis/syk/)) (정형외과 임플란트)
 3. 유통: McKesson Corporation (US, [MCK](/company-analysis/mck/)) (의료기기 유통), Cardinal Health (US, CAH) (의료용품 유통)
 4. 최종 사용: 병원, 정형외과 클리닉
 
-주요제품:
+{{< adsense-infeed >}}
 
+주요제품:
 1. ROSA 로봇 수술 시스템 (정형외과 수술 보조)
 2. Persona IQ 스마트 무릎 임플란트 (무릎 관절 치환술)
 3. ZBEdge 디지털 및 로봇 기술 플랫폼 (수술 계획 및 실행)
@@ -43,6 +43,8 @@ weight: 996
 
 주요 판매국가: 미국, 유럽 국가들, 일본, 중국을 포함한 100개 이상의 국가
 
+{{< adsense-infeed >}}
+
 경쟁업체:
 
 1. Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)) (DePuy Synthes 부문, 정형외과 제품)
@@ -50,9 +52,7 @@ weight: 996
 3. Smith & Nephew (UK, [SNN](/company-analysis/snn/)) (정형외과, 스포츠 의학)
 4. Medtronic (Ireland, [MDT](/company-analysis/mdt/)) (척추 및 정형외과 제품)
 5. NuVasive (US, NUVA) (척추 수술 솔루션)
-
 산업 내 글로벌 시장 점유율: 정확한 최신 데이터는 제공되지 않았으나, 짐머바이오메트는 정형외과 분야에서 세계 선두 기업 중 하나로 알려져 있습니다.
-
 최근 3년 내 주요 이슈:
 
 1. FDA 경고장 해제: 워소 노스 캠퍼스 시설에 대한 FDA 경고장이 공식적으로 해제됨 (2023)

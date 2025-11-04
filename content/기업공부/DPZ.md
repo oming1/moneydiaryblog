@@ -1,14 +1,15 @@
 ﻿---
 title: "DPZ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-12T00:25:44+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 291
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 292
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-11T15:25:44Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #피자 #레스토랑 #임의소비재 
 
@@ -21,6 +22,8 @@ weight: 291
 
 Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는 글로벌 프랜차이즈입니다. 주요 제품으로는 피자, 오븐 구이 샌드위치, 파스타, 치킨 윙, 디저트 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 **전방/후방산업**
 
 - **전방산업:** 식음료 서비스, 배달 서비스
@@ -28,12 +31,13 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
     - **관련 기업:**
         - 식음료 서비스: McDonald’s (미국, [MCD](/company-analysis/mcd/))
         - 배달 서비스: DoorDash (미국, [DASH](/company-analysis/dash/))
-          
 - **후방산업:** 식자재 공급, 포장재 제조
     - **핵심 산업:** 식자재 공급 (재료 공급), 포장재 제조 (포장재 제공)
     - **관련 기업:**
         - 식자재 공급: Sysco Corporation (미국, [SYY](/company-analysis/syy/))
         - 포장재 제조: International Paper (미국, [IP](/company-analysis/ip/))
+
+{{< adsense-infeed >}}
 
 **밸류체인**
 
@@ -43,7 +47,6 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
     - **대표 회사:** Domino’s Pizza 자체 제조
 - **배포:** 음식 배달 서비스
     - **대표 회사:** DoorDash (미국, [DASH](/company-analysis/dash/)), Uber Eats (미국, [UBER](/company-analysis/uber/))
-
 **주요제품**
 
 - **피자:** 다양한 토핑과 크기의 피자 (주요 매출 제품)
@@ -51,9 +54,7 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
 - **파스타:** 다양한 소스와 재료로 만든 파스타
 - **치킨 윙:** 다양한 소스와 함께 제공되는 치킨 윙
 - **디저트:** 초콜릿 라바 케이크, 시나몬 스틱 등
-
 **주요 판매국가**
-
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 - **인도:** 주요 매출 국가

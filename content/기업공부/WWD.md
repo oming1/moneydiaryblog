@@ -1,14 +1,15 @@
 ﻿---
 title: "WWD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 981
----<div style="display:none">
+weight: 982
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #산업재 #항공우주 #우주 #항공 #항공우주및방산 #항공기엔진 #산업용엔진 #산업용터빈 #항공기엔진제어시스템
 
@@ -24,7 +25,6 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
     - **핵심 산업**: 항공우주 및 방산 서비스
     - **역할**: 최종 소비자에게 고급 기술 솔루션 제공
     - **주요 기업**: Honeywell International (미국, [HON](/company-analysis/hon/)), Raytheon Technologies (미국, [RTX](/company-analysis/rtx/))
@@ -38,7 +38,9 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
 ## 밸류체인
 
 - **제품 개발**:
-    
+
+{{< adsense-infeed >}}
+
     - Woodward는 항공기 및 산업용 엔진 제어 시스템을 개발합니다.
     - 대표 기업: Rockwell Automation (미국, [ROK](/company-analysis/rok/)) - 경쟁 제품: 자동화 솔루션
     
@@ -47,18 +49,18 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
     - 다양한 엔진 및 제어 시스템을 제조합니다.
     - 대표 기업: Parker Hannifin (미국, PH) - 경쟁 제품: 유체 제어 장비
 
+{{< adsense-infeed >}}
+
 ## 주요 제품
 
 - **항공기 엔진 제어 시스템**:
     
     - 항공기 엔진의 성능과 효율성을 높이는 데 사용됩니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
 - **산업용 엔진 제어 시스템**:
     
     - 다양한 산업에서 사용되는 엔진의 성능을 관리합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
-
 ## 주요 판매 국가
 
 Woodward는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
@@ -69,7 +71,6 @@ Woodward는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 �
 - **General Electric** (미국, [GE](/company-analysis/ge/)) - 경쟁 제품: 항공기 엔진 및 관련 기술
 
 ## 산업 내 글로벌 시장 점유율
-
 Woodward는 글로벌 항공우주 및 방산 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈

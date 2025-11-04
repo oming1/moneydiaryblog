@@ -1,14 +1,15 @@
 ﻿---
 title: "TMO"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-11T10:52:53+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 876
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 877
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-11T01:52:53Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #진단및연구 #헬스케어 #바이오파마 #CDMO
 
@@ -20,12 +21,10 @@ weight: 876
 #### 영위사업 (Business Operations)
 
 Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단 및 실험실 제품과 바이오파마 서비스를 제공하는 글로벌 기업입니다. 주요 사업 영역은 다음과 같습니다:
-
 - **생명과학 솔루션** (Life Sciences Solutions)
 - **분석 기기** (Analytical Instruments)
 - **특수 진단** (Specialty Diagnostics)
 - **실험실 제품 및 바이오파마 서비스** (Laboratory Products and Biopharma Services)
-
 #### 전방/후방산업 (Upstream/Downstream Industries)
 
 - **전방산업:** 제약 및 바이오테크 기업 (신약 개발 및 상업화 지원)
@@ -41,27 +40,28 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
     - 대표 기업: ICON plc (IE, ICLR), PPD (US, PPD)
 3. **제조 (Manufacturing)**
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
-
 #### 주요제품 (Key Products)
 
 - **생명과학 솔루션**: 생물학 및 의학 연구, 약물 및 백신 생산, 감염 및 질병 진단을 위한 시약, 기기 및 소모품
 - **분석 기기**: 제약, 바이오테크, 학계, 정부 및 환경 연구를 위한 기기, 소모품, 소프트웨어 및 서비스
 - **특수 진단**: 면역 진단 시약 키트, 단백질 검출 분석, 기기 등
 - **실험실 제품 및 바이오파마 서비스**: 실험실 제품, 연구 및 안전 시장 채널, 제약 서비스 및 임상 연구
-
 #### 주요 판매국가 (Major Sales Countries)
+
+{{< adsense-infeed >}}
 
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **아시아:** 특히 중국과 일본에서 강력한 시장 입지
 
 #### 경쟁업체 (Competitors)
-
 - **Agilent Technologies** (US, [A](/company-analysis/a/)): 생명과학 및 분석 기기
 - **Mettler-Toledo International** (US, MTD): 정밀 기기 및 분석 기기
 - **Illumina** (US, [ILMN](/company-analysis/ilmn/)): 유전자 분석 및 시퀀싱 기기
 
 #### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
+
+{{< adsense-infeed >}}
 
 - **FDA 승인**: SeCore HLA Typing Kit의 510(k) 승인 (2024)
 - **매출 감소**: 2024년 상반기 매출 1.4% 감소 (2024)

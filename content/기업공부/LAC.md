@@ -1,14 +1,15 @@
 ﻿---
 title: "LAC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 501
----<div style="display:none">
+weight: 502
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #리튬 #배터리소재 #전기차 #청정에너지 #지속가능성 #북미공급망 #광산개발 #소재 #산업재 #금속및광업 #리튬광산 
 
@@ -49,7 +50,6 @@ Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업
     
     - 전기차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), General Motors(US, [GM](/company-analysis/gm/))
     - 배터리 제조: Panasonic(JP, Panasonic), LG Energy Solution(KR, [LG에너지솔루션](/industry-study/lg에너지솔루션/))
-
 ## 밸류체인
 
 1. 탐사 및 개발: Lithium Americas (주요 사업 영역)
@@ -69,6 +69,8 @@ Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업
 2. 주요 배터리 제조업체
 3. 전기차 제조업체
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
@@ -82,8 +84,9 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 
 ## 산업 내 글로벌 시장 점유율
 
-정확한 시장 점유율 데이터는 제공되지 않았으나, Lithium Americas는 Thacker Pass 프로젝트를 통해 세계 리튬 시장에서 중요한 위치를 차지할 것으로 예상됩니다.
+{{< adsense-infeed >}}
 
+정확한 시장 점유율 데이터는 제공되지 않았으나, Lithium Americas는 Thacker Pass 프로젝트를 통해 세계 리튬 시장에서 중요한 위치를 차지할 것으로 예상됩니다.
 ## 최근 3년 내 주요 이슈
 
 1. Thacker Pass 프로젝트 건설 시작 (2023년)
@@ -100,8 +103,9 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 4. Invesco Ltd.
 5. Legal & General Group PLC
 
-## 관련 ETF
+{{< adsense-infeed >}}
 
+## 관련 ETF
 1. Global X Lithium & Battery Tech ETF - LIT
 2. Amplify Lithium & Battery Technology ETF - BATT
 3. VanEck Vectors Rare Earth/Strategic Metals ETF - [REMX](/company-analysis/remx/)

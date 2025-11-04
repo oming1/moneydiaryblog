@@ -1,14 +1,15 @@
 ﻿---
 title: "CB"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-09T07:05:43+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 179
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-08T22:05:43Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #보험 #금융 #허리케인 
 
@@ -19,9 +20,13 @@ weight: 179
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 생명 보험, 건강 보험, 재보험 등을 제공합니다
 
 ### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 금융 서비스업
     - **핵심 산업:** 금융 서비스업은 Chubb의 보험 상품을 사용하여 다양한 금융 솔루션을 제공합니다.
@@ -29,7 +34,6 @@ Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 
 - **후방산업:** 재보험업
     - **핵심 산업:** 재보험업은 Chubb에 재보험 상품을 제공하여 리스크를 분산시킵니다.
     - **관련 기업:** Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
-
 ### 밸류체인
 
 - **보험 인수:**
@@ -41,7 +45,6 @@ Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 
 - **클레임 관리:**
     - **설명:** 보험 클레임을 처리 및 관리
     - **대표회사:** Sedgwick (미국, SEDGWICK), Gallagher Bassett (미국, GB)
-
 ### 주요제품
 
 - **재산 및 상해 보험:** 상업용 및 개인용 재산 보호
@@ -57,9 +60,13 @@ Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **AIG (미국, [AIG](/company-analysis/aig/)):** 재산 및 상해 보험, 생명 보험
 - **Allianz (독일, ALV):** 재산 및 상해 보험, 생명 보험
 - **AXA (프랑스, CS):** 재산 및 상해 보험, 생명 보험
+
+{{< adsense-infeed >}}
 
 ### 산업 내 글로벌 시장 점유율
 
@@ -68,7 +75,6 @@ Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 
 - **Allianz:** 약 6% (2023년 기준)
 
 ### 최근 3년 내 주요 이슈
-
 - **코로나19 팬데믹으로 인한 보험 클레임 증가 (2020년)**
 - **기후 변화로 인한 자연재해 클레임 증가 (2021년)**
 - **디지털 전환 가속화 및 사이버 보험 수요 증가 (2022년)**

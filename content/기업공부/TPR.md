@@ -1,14 +1,15 @@
 ﻿---
 title: "TPR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-11-17T11:55:39+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 881
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 882
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-17T02:55:39Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #임의소비재 #럭셔리 #럭셔리패션브랜드
 
@@ -24,11 +25,12 @@ Tapestry는 글로벌 럭셔리 패션 브랜드 기업으로, Coach, Kate Spade
 ## 전방/후방 산업
 
 - 전방 산업:
-    
     - 핵심 산업: 소매 및 유통
     - 역할: 최종 소비자에게 럭셔리 패션 제품 제공
     - 주요 기업: Nordstrom (미국, [JWN](/company-analysis/jwn/)), Macy's (미국, [M](/company-analysis/m/))
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     
     - 핵심 산업: 원자재 공급 및 제조
@@ -37,8 +39,9 @@ Tapestry는 글로벌 럭셔리 패션 브랜드 기업으로, Coach, Kate Spade
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 제품 디자인 및 개발:
-    
     - Tapestry는 각 브랜드별로 독특한 디자인을 개발합니다.
     - 대표 기업: LVMH (프랑스, MC), Kering (프랑스, KER)
     
@@ -49,10 +52,11 @@ Tapestry는 글로벌 럭셔리 패션 브랜드 기업으로, Coach, Kate Spade
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - Coach 브랜드 제품 (핸드백, 지갑 등, 전체 매출의 약 70%)
 - Kate Spade New York 브랜드 제품 (핸드백, 액세서리 등, 전체 매출의 약 20%)
 - Stuart Weitzman 브랜드 제품 (신발, 전체 매출의 약 10%)
-
 ## 주요 판매 국가
 
 Tapestry는 전 세계적으로 제품을 판매하며, 특히 북미, 아시아, 유럽 지역에서 강세를 보입니다.

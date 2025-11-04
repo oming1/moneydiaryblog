@@ -1,14 +1,15 @@
 ﻿---
 title: "SMIC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 803
----<div style="display:none">
+weight: 804
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,9 +19,10 @@ weight: 803
 
 ## 산업섹터
 
+{{< adsense-infeed >}}
+
 섹터: 정보기술  
 산업: [반도체](/industry-study/반도체/)
-
 ## 영위사업
 
 SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) 제조 서비스를 제공합니다. 350nm에서 7nm까지의 다양한 공정 기술을 보유하고 있으며, 로직, 혼합신호, RF, 고전압, 이미지센서 등 다양한 제품을 생산합니다. 
@@ -64,7 +66,6 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 후방산업:
 
 - 반도체 장비: 리소그래피, 식각 장비 (ASML(NL, [ASML](/company-analysis/asml/)), Applied Materials(US, [AMAT](/company-analysis/amat/)))
-    
 - 소재: 웨이퍼, 포토레지스트 (Shin-Etsu Chemical(JP, 4063), JSR Corporation(JP, 4185))
 
 ## 밸류체인
@@ -105,6 +106,8 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 중국(75.7%), 아시아 태평양(19.5%), 유럽(4.6%), 북미(0.2%) (2024년 기준)
 
 ## 경쟁업체
@@ -124,6 +127,8 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 2024년 기준 글로벌 파운드리 시장에서 약 6.8%의 점유율을 보유하고 있으며, 최근 3년간 꾸준히 상승 중입니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 7nm 공정 기술 개발 성공 발표 (2022년)
     
@@ -152,5 +157,4 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 3. Invesco China Technology ETF - CQQQ
     
 4. KraneShares CICC China 5G & Semiconductor ETF - KFVG
-    
 5. Global X China Semiconductor ETF - CHIS

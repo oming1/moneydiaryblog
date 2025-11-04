@@ -1,14 +1,15 @@
 ﻿---
 title: "TFX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 862
----<div style="display:none">
+weight: 863
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -26,15 +27,12 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 ## 핵심 경쟁력
 
 1. 다양한 의료 분야를 아우르는 포괄적인 제품 포트폴리오
-    
 2. 지속적인 연구개발 투자를 통한 혁신적인 제품 개발 (2023년 R&D 투자액 1.2억 달러)
     
 3. 글로벌 영업 및 유통 네트워크 (135개국 이상에서 사업 운영)
-    
 4. 높은 수준의 품질 관리 및 규제 준수 시스템
     
 5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
-
 ## 전방/후방산업
 
 전방산업:
@@ -78,7 +76,6 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 5. Weck 수술 용품: 결찰 및 접근 장치 (2023년 매출의 약 10%)
 
 ## 주요 고객
-
 1. Mayo Clinic(US, Mayo Clinic): 종합 의료 서비스
     
 2. Cleveland Clinic(US, Cleveland Clinic): 심장 및 혈관 질환 전문
@@ -88,7 +85,6 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 4. Massachusetts General Hospital(US, Massachusetts General Hospital): 하버드 의대 교육병원
     
 5. Charité - Universitätsmedizin Berlin(DE, Charité): 유럽 최대 대학병원
-
 ## 주요 판매국가
 
 미국(55%), 유럽(25%), 아시아 태평양(15%), 기타(5%) (2023년 기준)
@@ -98,7 +94,9 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 1. Medtronic(US, [MDT](/company-analysis/mdt/)): 다양한 의료기기 제조
     
 2. Becton Dickinson(US, [BDX](/company-analysis/bdx/)): 의료기기 및 실험실 장비
-    
+
+{{< adsense-infeed >}}
+
 3. Smiths Medical(US, SMIN): 의료기기 및 장비
     
 4. B. Braun(DE, B. Braun): 의료 및 제약 제품
@@ -128,6 +126,8 @@ Teleflex는 여러 의료기기 분야에서 주요 플레이어 중 하나로, 
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

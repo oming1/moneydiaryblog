@@ -1,14 +1,15 @@
 ﻿---
 title: "EXPE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 332
----<div style="display:none">
+weight: 333
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #여행서비스 #임의소비재 #여행 #레저 
 
@@ -36,7 +37,6 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
         - IT 서비스: IBM (미국, [IBM](/company-analysis/ibm/))
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - 마케팅: Google (미국, [GOOGL](/company-analysis/googl/))
-
 **밸류체인**
 
 - **개발:** 여행 예약 플랫폼 개발
@@ -45,7 +45,6 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
     - **대표 회사:** Booking Holdings (미국, [BKNG](/company-analysis/bkng/)), TripAdvisor (미국, [TRIP](/company-analysis/trip/))
 - **지원:** 고객 지원, 기술 지원
     - **대표 회사:** Zendesk (미국, ZEN), Salesforce (미국, [CRM](/company-analysis/crm/))
-
 **주요제품**
 
 - **Expedia:** 종합 여행 예약 플랫폼
@@ -53,13 +52,16 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 - **Vrbo:** 대체 숙박 예약 플랫폼
 - **trivago:** 호텔 메타검색 플랫폼
 
-**주요 판매국가**
+{{< adsense-infeed >}}
 
+**주요 판매국가**
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
 
 **경쟁업체**
+
+{{< adsense-infeed >}}
 
 - **Booking Holdings (미국, [BKNG](/company-analysis/bkng/)):** 종합 여행 예약 서비스
 - **TripAdvisor (미국, [TRIP](/company-analysis/trip/)):** 여행 리뷰 및 예약 서비스
@@ -69,6 +71,8 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 **산업 내 글로벌 시장 점유율**
 
 - Expedia Group은 글로벌 온라인 여행 예약 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

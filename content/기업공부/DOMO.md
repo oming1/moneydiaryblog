@@ -1,14 +1,15 @@
 ﻿---
 title: "DOMO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 287
----<div style="display:none">
+weight: 288
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #도모 #DOMO #비즈니스인텔리전스 #데이터분석 #클라우드BI #대시보드 #임베디드애널리틱스 #데이터시각화 #데이터통합 #ETL #데이터웨어하우스 #데이터앱 #자사앱마켓플레이스 #실시간데이터 #셀프서비스BI #데이터거버넌스 #임원대시보드 #모바일분석 #워크플로우자동화 #AI분석 #ML예측 #API통합 #SaaS #구독모델 #유타실리콘슬로프스
 
@@ -23,6 +24,8 @@ weight: 287
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우드/) 기반 비즈니스 인텔리전스(BI)·데이터 애널리틱스 플랫폼 기업으로, 다양한 [SaaS](/industry-study/saas/)·온프렘 소스에서 데이터를 수집·정제·시각화해 경영 의사결정을 지원합니다. 창업자 조쉬 제임스(Omniture 공동창업자)는 “임원용 대시보드와 현업의 셀프서비스 분석”에 초점을 맞춘 ‘모바일 퍼스트’ BI를 지향해 왔습니다.
 
 - 주요 제품 및 서비스
@@ -33,6 +36,8 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
     - Analyzer/대시보드: 카드 기반 시각화, 경영지표(OKR/KPI) 모니터링, 경보 알림.
 
     - Domo Apps/도메인 앱: 특정 업무(영업, 마케팅, 공급망 등)를 위한 데이터 앱 템플릿과 맞춤형 앱 개발.
+
+{{< adsense-infeed >}}
 
     - Embedded Analytics(Domo Everywhere): 파트너·고객 포털에 분석 뷰를 임베드, 외부 수익화 모델 지원.
 
@@ -64,7 +69,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - 고객 유형별 수익: 엔터프라이즈(다년 계약·좌석/용량기반) > 미드마켓.
 
 - 지역별 매출 분포: 북미 비중 높고 EMEA・APAC 확대(정확 수치 확인 필요).
-
 - 성장 동력/수익성
     - 임베디드 분석(Domo Everywhere) 및 데이터 앱을 통한 신규 매출원.
     - AI/자동화 기능 고도화로 업셀/크로스셀.
@@ -98,7 +102,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 ---
 
 ### 제조 공정
-
 소프트웨어 개발·운영 프로세스  
 1단계: 요구사항 분석/제품 로드맵 도출  
 2단계: 데이터 커넥터/엔진/UX 기능 개발(애자일 스프린트)  
@@ -127,7 +130,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - 부품 공급 단계: 클라우드 인프라(AWS/Azure), DB/스토리지, 보안 솔루션
 - 개발/운영 단계: Domo 코어 플랫폼 개발·SRE 운영
 - 유통/판매 단계: 직접 영업(엔터프라이즈), 채널/리셀러, SI 파트너 공동제안
-
 ---
 
 ### 주요 제품
@@ -135,6 +137,8 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - Domo Platform(코어 BI/시각화/협업) – 사용처: 전사 KPI/운영 대시보드, 매출비중: 비공개(확인 필요), 경쟁사 [MSFT](/company-analysis/msft/)(Power BI), [CRM](/company-analysis/crm/)(Tableau), [GOOGL](/company-analysis/googl/)(Looker)
 
 - Domo Everywhere(임베디드 분석) – 사용처: 고객/파트너 포털 임베딩, 경쟁사 [MSFT](/company-analysis/msft/)(Embedded)
+
+{{< adsense-infeed >}}
 
 - Magic ETL/Workflows – 사용처: 데이터 정제·업무 자동화, 경쟁사 AYX(Alteryx), [SNOW](/company-analysis/snow/)(파이프라인 파트너)
 
@@ -153,6 +157,8 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 ### 주요 고객
 
 정보 없음(공식 케이스 공개 범위 외 비공개). 산업별로 리테일/제조/금융/미디어/헬스케어 등 엔터프라이즈 고객 기반.
+
+{{< adsense-infeed >}}
 
 ---
 

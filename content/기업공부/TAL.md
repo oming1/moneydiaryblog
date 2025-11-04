@@ -1,14 +1,15 @@
 ﻿---
 title: "TAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 851
----<div style="display:none">
+weight: 852
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 TAL Education Group ADR (NYSE: TAL)는 [중국](/industry-study/4국가중국/) 베이징에 본사를 둔 K-12 학생들을 대상으로 한 방과 후 교육 및 튜터링 서비스를 제공하는 기업입니다. 2003년에 설립된 이 회사는 다양한 학습 서비스를 제공하며, 특히 수학, 영어, 중국어, 물리, 화학, 생물 등 주요 학문 분야를 다루고 있습니다.
 
@@ -30,7 +31,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 2. **개인화된 프리미엄 서비스**: 개별 학생의 요구에 맞춘 고급 튜터링 서비스.
     
 3. **학습 콘텐츠 솔루션**: 인쇄물, 스마트 북, 모바일 앱, AI 기반 학습 기기 등 다양한 학습 자료 제공.
-    
 4. **온라인 교육 플랫폼**: [www.xueersi.com을](http://www.xueersi.xn--com-of0o/) 통해 온라인 학습 서비스 제공.
     
 5. **투자 관리 및 컨설팅**: 교육 관련 투자 관리 및 컨설팅 서비스.
@@ -44,7 +44,9 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 ## 핵심 경쟁력
 
 1. **다양한 학습 서비스**: TAL은 다양한 학습 서비스를 통해 학생들의 다양한 요구를 충족시킵니다.
-    
+
+{{< adsense-infeed >}}
+
 2. **AI 및 기술 활용**: AI 기반 학습 기기와 모바일 앱을 통해 학습 경험을 혁신합니다.
     
 3. **글로벌 확장**: 중국을 넘어 글로벌 시장으로의 확장을 추진하고 있습니다.
@@ -80,7 +82,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 4. **유통 및 판매**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (교육 자료 및 제품 판매)
     
 5. **고객 지원**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (학생 및 학부모 지원)
-    
 6. **투자 및 컨설팅**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (투자 관리 및 컨설팅 서비스)
 
 ## 주요제품
@@ -116,12 +117,13 @@ TAL의 주요 고객은 다음과 같습니다:
 3. **Stride Inc(US, LRN)**: 온라인 학습 솔루션 제공업체
     
 4. **Graham Holdings Co(US, GHC)**: 다양한 교육 및 미디어 서비스 제공
-    
 5. **Adtalem Global Education Inc(US, ATGE)**: 전문 교육 및 학습 서비스 제공
 
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, TAL은 중국 교육 시장에서 주요 플레이어 중 하나로 자리잡고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

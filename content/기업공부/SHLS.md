@@ -1,14 +1,15 @@
 ﻿---
 title: "SHLS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 789
----<div style="display:none">
+weight: 790
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -25,6 +26,8 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 혁신적인 플러그앤플레이 EBOS 시스템: 설치 비용 절감 및 신뢰성 향상
     
 2. 특허 기술: 47개의 글로벌 특허 보유 (발행 및 출원 중)
@@ -34,7 +37,6 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 4. 품질 관리: 엄격한 공장 품질 기준으로 현장 설치 오류 최소화
     
 5. 미국 내 제조: 테네시와 앨라배마 주에서 고품질 제품 생산
-
 ## 전방/후방산업
 
 전방산업:
@@ -60,7 +62,6 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 4. 판매 및 마케팅: 직접 판매팀, 산업 컨퍼런스 참여
     
 5. 설치 및 시공: EPC 파트너사, 현장 기술 지원
-    
 6. 고객 서비스: Shoals 고객 지원팀, 프로젝트 최적화 지원
 
 ## 주요제품
@@ -68,7 +69,9 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 1. Big Lead Assembly (BLA): 통합 EBOS 솔루션 (2024년 매출의 약 40%)
     
 2. 케이블 관리 시스템: 태양광 패널 연결 솔루션 (2024년 매출의 약 25%)
-    
+
+{{< adsense-infeed >}}
+
 3. 컴바이너 및 재결합기: 전력 집중 및 분배 (2024년 매출의 약 20%)
     
 4. 모니터링 시스템: 실시간 성능 추적 (2024년 매출의 약 10%)
@@ -93,9 +96,13 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차지하고 있으며, 2024년 기준 글로벌 태양광 EBOS 시장에서 약 22.5%의 점유율을 보유하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 8,000만 달러 규모의 테네시 제조시설 확장 계획 발표 (2025년)
     
@@ -122,7 +129,6 @@ Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차
 2. Global X Renewable Energy Producers ETF - RNRG
     
 3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
-    
 4. iShares Global Clean Energy ETF - ICLN
     
 5. SPDR S&P Kensho Clean Power ETF - CNRG

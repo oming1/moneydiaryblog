@@ -1,14 +1,15 @@
 ﻿---
 title: "RLAY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 751
----<div style="display:none">
+weight: 752
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #정밀의학 #항암제개발 #유전자질환치료 #계산생물학 #실험기술 #소분자치료제 #표적항암제 #임상시험 #바이오테크 #PI3K억제제 #FGFR2억제제 #SHP2억제제 #유방암치료 #담관암치료 #고형암치료 #헬스케어 #생명과학도구및서비스 #바이오테크
 
@@ -19,7 +20,6 @@ weight: 751
 ## 산업
 
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
-
 ## 영위사업
 
 Relay Therapeutics는 정밀의학 분야의 임상 단계 [바이오테크](/industry-study/바이오테크/) 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -32,8 +32,9 @@ Relay Therapeutics는 정밀의학 분야의 임상 단계 [바이오테크](/in
     - RLY-2608: PI3Kα 억제제, 유방암 치료제
     - Migoprotafib (GDC-1971): SHP2 억제제, 고형암 치료제
 
-Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기존에 접근하기 어려웠던 단백질 표적에 대한 약물 개발을 목표로 하고 있습니다.
+{{< adsense-infeed >}}
 
+Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기존에 접근하기 어려웠던 단백질 표적에 대한 약물 개발을 목표로 하고 있습니다.
 ## 핵심 경쟁력
 
 1. 혁신적인 약물 발견 플랫폼: Dynamo 플랫폼을 통해 단백질 구조와 움직임에 대한 이해를 약물 발견에 적용
@@ -43,7 +44,6 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 5. 지적 재산권: 독자적인 기술 플랫폼과 후보 물질에 대한 강력한 특허 포트폴리오
 
 ## 주요제품
-
 1. RLY-4008: FGFR2 억제제, 고형암 치료제 (임상 2상)
 2. RLY-2608: PI3Kα 억제제, 유방암 치료제 (임상 1/2상)
 3. Migoprotafib (GDC-1971): SHP2 억제제, 고형암 치료제 (임상 1상)
@@ -59,7 +59,6 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 미국을 중심으로 글로벌 시장 진출 계획 중
 
 ## 경쟁업체
-
 1. Roche(CH, [ROG](/company-analysis/rog/)): PI3K 억제제 Itovebi 개발
 2. AstraZeneca(UK, [AZN](/company-analysis/azn/)): PI3K 억제제 Capivasertib 개발
 3. Novartis(CH, [NOVN](/company-analysis/novn/)): PI3K 억제제 Piqray 개발
@@ -76,12 +75,13 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. Vanguard Group Inc. (9.86%)
 2. BlackRock Inc. (7.53%)
 3. State Street Corporation (6.74%)
 
 ## 관련 ETF
-
 1. ARK Genomic Revolution ETF - ARKG
 2. SPDR S&P Biotech ETF - XBI
 3. iShares Biotechnology ETF - IBB

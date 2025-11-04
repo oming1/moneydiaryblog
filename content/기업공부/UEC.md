@@ -1,14 +1,15 @@
 ﻿---
 title: "UEC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 904
----<div style="display:none">
+weight: 905
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## **핵심 키워드**
 
@@ -55,6 +56,8 @@ Uranium Energy Corp(UEC)는 **미국 텍사스주**에 본사를 둔 우라늄 
     
 - 우라늄 정제소 (Orano 프랑스, Orano)  
 
+{{< adsense-infeed >}}
+
 **후방산업**:
     
 - 광산 장비 (Caterpillar [CAT](/company-analysis/cat/), Komatsu 6301)
@@ -63,14 +66,17 @@ Uranium Energy Corp(UEC)는 **미국 텍사스주**에 본사를 둔 우라늄 
 
 ## **밸류체인**
 
+{{< adsense-infeed >}}
+
 11. **탐사**: 자체 지질학자 팀 + 위성 데이터 활용.
-    
 12. **채굴**: ISR 기술 기반 친환경 추출.
     
 13. **정제**: 호바스 시설에서 U3O8 농축.
     
 14. **유통**: 물리적 우라늄 판매 + 장기 공급 계약.
-    
+
+{{< adsense-infeed >}}
+
 15. **재활용**: 사용후 핵연료 재처리 연구 진행 중.
 
 ## **주요제품**
@@ -96,7 +102,6 @@ Uranium Energy Corp(UEC)는 **미국 텍사스주**에 본사를 둔 우라늄 
 4. **Cameco Corp(CA, [CCJ](/company-analysis/ccj/))**: 세계 최대 우라늄 생산사 (시장점유율 18%).
     
 5. **NexGen Energy(CA, NXE)**: 캐나다 아서 프로젝트 개발 중.
-    
 6. **Denison Mines(CA, DNN)**: 캐나다 매닉토건 광산 운영.
     
 7. **enCore Energy(US, EU)**: 미국 내 ISR 기술 경쟁사[3](https://finviz.com/quote.ashx?t=EU).
@@ -139,8 +144,9 @@ UEC는 글로벌 우라늄 시장의 약 **2%** 점유 (2024년 기준)[2](htt
 
 ## **투자 포인트**
 
+{{< adsense-infeed >}}
+
 - **장점**: 미국의 원자력 재부각 + 친환경 에너지 수요 증가.
     
 - **리스크**: 우라늄 가격 변동성(현재 파운드당 $65 → 최고점 $140 대비 저평가).
-    
 - **전망**: 2030년까지 글로벌 우라늄 수요 30% 증가 예상(IAEA).

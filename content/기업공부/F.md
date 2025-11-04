@@ -1,14 +1,15 @@
 ﻿---
 title: "F"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-08-22T14:41:43+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 334
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 335
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-22T05:41:43Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #자동차 #자동차제조업체 #소비재 #전기차 #소비자재량주 #임의소비재
 
@@ -26,8 +27,9 @@ Ford Motor Company는 1903년에 설립된 미국의 다국적 자동차 제조�
 Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며, 전기차 및 하이브리드 차량의 개발에도 집중하고 있습니다. 또한, 금융 서비스와 자동차 부품의 판매도 포함됩니다.
 
 ## 전방/후방산업
-
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 자동차 및 부품 구매
 - 자동차 소매업체: AutoNation (US, [AN](/company-analysis/an/))
@@ -45,9 +47,7 @@ Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며,
 - Ford Explorer (SUV, 매출 비중: 약 15%, 2023년 기준)
 - Ford Mustang (스포츠카, 매출 비중: 약 10%, 2023년 기준)
 - [전기차](/industry-study/2산업자동차-산업전기차/): Ford Mustang Mach-E, Ford F-150 Lightning (매출 비중: 증가 추세)
-
 ## 주요 판매국가
-
 Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 같습니다:
 
 - 미국: 약 60%
@@ -56,6 +56,8 @@ Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 �
 - 기타: 약 10%
 
 ## 주요 자산
+
+{{< adsense-infeed >}}
 
 - 제조 시설: 미국, 캐나다, 멕시코, 유럽 및 아시아에 위치한 여러 생산 공장
 - 연구개발 센터: 전기차 및 자율주행 기술 개발을 위한 시설
@@ -68,7 +70,6 @@ Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 �
 - [Volkswagen](/company-analysis/volkswagen/) Group (DE, VOW) - 유럽의 주요 자동차 제조업체
 
 ## 산업 내 글로벌 시장 점유율
-
 Ford는 2022년 기준으로 세계에서 여섯 번째로 큰 자동차 제조업체로, 미국 내에서 두 번째로 큰 자동차 제조업체입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크

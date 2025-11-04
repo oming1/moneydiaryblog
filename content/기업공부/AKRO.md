@@ -1,14 +1,15 @@
 ﻿---
 title: "AKRO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 49
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,6 +21,8 @@ weight: 49
 산업: 생명공학
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 개발하는 임상 단계 생명공학 기업입니다. 회사의 주력 제품인 efruxifermin(EFX)은 대사기능장애 연관 지방간염(MASH, 구 NASH) 치료를 위한 FGF21 유사체입니다.EFX는 현재 세 가지 진행 중인 3상 임상시험에서 평가되고 있습니다:
 
@@ -37,6 +40,8 @@ Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 �
 4. 편리한 투약: 주 1회 투여로 환자 편의성 높음
 5. 잠재적 시장 규모: MASH는 현재 승인된 치료제가 없는 대규모 미충족 의료 수요 영역
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - [Efruxifermin](/industry-study/efruxifermin/) (EFX): MASH 치료를 위한 FGF21 유사체, 3상 임상 진행 중
@@ -46,18 +51,19 @@ Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 �
 현재 제품 판매 단계는 아니며, 미국 FDA 승인을 1차 목표로 임상 진행 중
 
 ## 경쟁업체
-
 - Madrigal Pharmaceuticals(US, MDGL) - MASH 치료제 개발
 - 89bio(US, ETNB) - FGF21 유사체 개발
 - Inventiva(FR, IVA) - MASH 치료제 개발
 - Intercept Pharmaceuticals(US, ICPT) - MASH 치료제 개발
-
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Akero Therapeutics는 아직 제품 출시 전 단계로, 정확한 시장 점유율 데이터는 없습니다. 그러나 MASH 치료제 개발 분야에서 선도적인 위치를 차지하고 있으며, 특히 간경변 개선 효과에서 경쟁 우위를 보이고 있습니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - SYMMETRY 2b상 96주 결과 발표, 간경변 개선 효과 입증 (2025년)
 - SYNCHRONY 3상 임상시험 개시 (2024년)
 - EFX의 MASH 환자 대상 2b상 HARMONY 연구 긍정적 결과 발표 (2023년)

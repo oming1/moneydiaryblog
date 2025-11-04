@@ -1,14 +1,15 @@
 ﻿---
 title: "HIMS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-08-28T14:18:12+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 406
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 407
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-28T05:18:12Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #소비재 #개인용품 #탈모 #헬스케어 #여드름 #건강관리 #발기부전 #의료 #원격의료
 
@@ -23,11 +24,12 @@ Hims & Hers Health, Inc.는 2017년에 설립된 미국의 원격의료 회사�
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 원격 의료 플랫폼 운영
 - 소비자와 면허가 있는 의료 전문가 연결
 - 다양한 건강 문제에 대한 치료 제공 (성 건강, 탈모, 피부과, 정신 건강 등)
 - Hims & Hers 모바일 애플리케이션을 통한 교육 프로그램 및 커뮤니티 지원 제공
-
 ## 전방/후방산업
 
 전방산업:
@@ -37,11 +39,12 @@ Hims & Hers Health, Inc.는 2017년에 설립된 미국의 원격의료 회사�
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 원자재 및 제약 제품 공급
 - 제약 제조업체: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 
 ## 주요제품
-
 - 처방약 (예: 발기부전 치료제, 탈모 치료제)
 - 비처방약 (예: 비타민, 스킨케어 제품)
 - 정신 건강 서비스 (예: 익명 그룹 치료)
@@ -51,7 +54,6 @@ Hims & Hers Health, Inc.는 2017년에 설립된 미국의 원격의료 회사�
 Hims & Hers는 주로 미국에서 운영되며, 최근에는 유럽 시장으로도 확장하고 있습니다.
 
 ## 주요 자산
-
 - 1,046명의 직원
 - 강력한 온라인 플랫폼 및 모바일 애플리케이션
 - 다양한 건강 및 웰니스 제품 포트폴리오

@@ -1,14 +1,15 @@
 ﻿---
 title: "SGMO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 787
----<div style="display:none">
+weight: 788
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #유전자치료 #유전체편집 #희귀질환 #혈우병 #파브리병 #세포치료 #임상시험 #바이오테크 #제약협력 #유전자전달 #ZFN기술 #CAR-T세포치료 #정밀의학 #유전자조절 #희귀질환치료제 #생명과학도구및서비스 #헬스케어
 
@@ -31,6 +32,8 @@ Sangamo Therapeutics, Inc.는 유전체 편집및 유전자 조절 기술을 이
 
 Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계를 맺고 있으며, 다양한 임상 단계의 파이프라인을 보유하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 독자적인 ZFN 기술: Sangamo의 핵심 기술인 Zinc Finger Nuclease는 정확하고 효율적인 유전자 편집을 가능하게 합니다. 이 기술은 다른 유전자 편집 도구에 비해 특이성이 높고 오프타겟 효과가 낮다는 장점이 있습니다.
@@ -38,21 +41,19 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 3. 강력한 지적재산권: ZFN 기술 및 그 응용에 대한 광범위한 특허 포트폴리오를 보유하고 있어, 기술적 우위를 유지하고 있습니다.
 4. 전략적 파트너십: Pfizer, Biogen, Novartis 등 글로벌 제약사들과의 협력을 통해 기술의 검증과 자금 확보, 그리고 상업화 경로를 확보하고 있습니다.
 5. 다양한 임상 파이프라인: 여러 질환 영역에 걸친 임상 단계 후보 물질을 보유하고 있어, 성공 가능성을 높이고 있습니다.
-
 ## 전방/후방산업
-
 ## 전방산업:
 
 1. 병원 및 의료기관: 유전자 치료제 및 세포 치료제 사용
-    
+
+{{< adsense-infeed >}}
+
     - Mayo Clinic, Cleveland Clinic
-    
 2. 제약 유통업체: 치료제 유통 및 공급
     
     - McKesson Corporation(US, [MCK](/company-analysis/mck/)), AmerisourceBergen(US, [ABC](/company-analysis/abc/))
     
 3. 보험회사: 치료제 보험 적용
-    
     - UnitedHealth Group(US, [UNH](/company-analysis/unh/)), Anthem(US, [ANTM](/company-analysis/antm/))
 
 ## 후방산업:
@@ -80,7 +81,9 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     - IQVIA Holdings(US, [IQV](/company-analysis/iqv/)), Parexel International(비상장)
     
 3. 제조 및 생산: GMP 기준 치료제 생산
-    
+
+{{< adsense-infeed >}}
+
     - Lonza Group(CH, [LONN](/company-analysis/lonn/)), Catalent(US, [CTLT](/company-analysis/ctlt/))
     
 4. 규제 승인: FDA, EMA 등 규제기관 승인 획득
@@ -130,7 +133,6 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 5. 재무 상황 개선을 위한 구조조정 및 비용 절감 계획 실행 (2022-2023)
 
 ## 주요주주(지분율)
-
 1. Wasatch Advisors LP (9.32%)
 2. Vanguard Group Inc. (4.60%)
 3. Renaissance Technologies LLC (2.33%)

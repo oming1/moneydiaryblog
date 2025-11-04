@@ -1,14 +1,15 @@
 ﻿---
 title: "ASTS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-17T12:02:55+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 91
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-17T03:02:55Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #커뮤니케이션서비스 #위성통신 #인공위성 #통신위성 #우주 #방산 #저궤도위성
 
@@ -18,6 +19,8 @@ weight: 91
 - Industry: Satellite Communication(위성 통신)
 
 ## 영위 사업
+
+{{< adsense-infeed >}}
 
 AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작동하는 세계 최초의 우주 기반 셀룰러 광대역 네트워크를 구축하고 있습니다.
 
@@ -32,7 +35,6 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     - 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Vodafone (영국, VOD)
     
 - 후방 산업:
-    
     - 핵심 산업: 위성 제조 및 발사
     - 역할: AST SpaceMobile의 서비스에 필요한 위성 및 장비 공급
     - 주요 기업: [SpaceX](/company-analysis/spacex/) (미국, 비상장), NanoAvionics (리투아니아, 비상장)
@@ -47,7 +49,6 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     
     - 전 세계적으로 모바일 기기에 직접 연결되는 위성 통신 서비스를 제공합니다.
     - 대표 기업: Iridium Communications (미국, [IRDM](/company-analysis/irdm/)), Globalstar (미국, [GSAT](/company-analysis/gsat/))
-
 ## 주요 제품
 
 - SpaceMobile 위성 통신 네트워크 (개발 중)
@@ -60,13 +61,16 @@ AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Starlink (SpaceX의 자회사, 비상장) - 위성 인터넷 서비스
 - OneWeb (영국, 비상장) - 위성 통신 네트워크
 - Iridium Communications (미국, [IRDM](/company-analysis/irdm/)) - 위성 전화 및 데이터 서비스
 - [RKLB](/company-analysis/rklb/)
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 AST SpaceMobile은 아직 상용 서비스를 시작하지 않았기 때문에 현재 시장 점유율은 없습니다.
 
 ## 최근 3년 내 주요 이슈

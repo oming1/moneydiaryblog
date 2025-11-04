@@ -1,14 +1,15 @@
 ﻿---
 title: "ZBRA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 997
----<div style="display:none">
+weight: 998
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -47,7 +48,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 3. **글로벌 파트너·고객 네트워크**: 세계 100여국, 다수 대형 고객사 확보
     
 4. **디지털 전환 지원**: 공급망 자동화, 물류/창고 스마트화 선도
-    
 5. **R&D 투자**: AI, IoT, 머신비전 등 신기술 지속적 도입
 
 ## 전방/후방산업
@@ -71,7 +71,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 - **SW/클라우드**: Microsoft(US, [MSFT](/company-analysis/msft/)), Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
 ## 밸류체인
-
 1. **설계/개발**: RFID, 스캐너, 모바일 단말 HW/SW 연구개발
     
 2. **생산**: 글로벌 생산 시설 통한 제품 제조/조립
@@ -91,7 +90,9 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 - **RFID/실시간 위치추적 솔루션** (매출의 약 20%)
     
 - **AI 비전·로보틱스·SW** (매출의 약 10%)
-    
+
+{{< adsense-infeed >}}
+
 - **서비스/기타** (매출의 약 5%)
 
 ## 주요 고객
@@ -101,12 +102,13 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 2. 제조/현장산업체 (Caterpillar, GE 등)
     
 3. 대형 헬스케어 시스템 (Mayo Clinic, HCA Healthcare)
-    
 4. 공항/창고 등 운송·자산관리 기업
     
 5. 글로벌 IT·클라우드 기업(간접적 공급)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 영국, 독일, 프랑스, 일본, 중국, 호주, 캐나다, 멕시코
 
@@ -149,7 +151,9 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
 ## 관련 ETF
 
 - Technology Select Sector SPDR Fund - XLK
-    
+
+{{< adsense-infeed >}}
+
 - iShares U.S. Technology ETF - IYW
     
 - Global X Internet of Things ETF - SNSR

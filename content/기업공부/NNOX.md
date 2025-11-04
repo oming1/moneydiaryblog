@@ -1,14 +1,15 @@
 ﻿---
 title: "NNOX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 621
----<div style="display:none">
+weight: 622
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,7 +21,6 @@ weight: 621
 산업: #의료기기
 
 ## 영위사업
-
 Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발하는 이스라엘 기반 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. Nanox.ARC: FDA 승인을 받은 디지털 멀티소스 3D 토모신테시스 영상 시스템
@@ -55,6 +55,8 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 반도체 산업: X선 센서 및 처리 칩 제조 (TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/)))
     
 - 소프트웨어 개발: AI 및 클라우드 기술 (NVIDIA(US, [NVDA](/company-analysis/nvda/)), Microsoft(US, [MSFT](/company-analysis/msft/)))
@@ -66,7 +68,9 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 7. 부품 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/)) (반도체 칩)
     
 8. 시스템 조립: Foxconn(TW, Foxconn) (계약 제조)
-    
+
+{{< adsense-infeed >}}
+
 9. 소프트웨어 개발: Nano-X Imaging Ltd, 외부 AI 파트너
     
 10. 유통 및 마케팅: Nano-X Imaging Ltd, 지역 파트너
@@ -99,6 +103,8 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
     
 20. Canon Medical Systems(JP, 7751): 의료 영상 장비 및 솔루션
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 글로벌 시장 점유율은 미미한 수준입니다. 그러나 냉음극 X선 기술과 AI 기반 솔루션을 통해 빠르게 성장하고 있으며, 특히 비용 효율적인 의료 영상 시장에서 잠재력을 인정받고 있습니다.
@@ -110,7 +116,6 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 22. SpinexMedical과 새로운 유통 계약 체결 (2024년)
     
 23. Corewell Health, Dandelion Health, Oxford University Hospitals 등과 Nanox.AI 솔루션 계약 연장 (2024년)
-    
 24. 2024년 3분기 매출 300만 달러 달성, 전년 동기 대비 20% 성장 (2024년)
     
 25. FDA로부터 추가 승인을 위한 노력 지속 및 EU에서 CE 마크 획득 (2023-2024년)
@@ -118,7 +123,6 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 ## 주요주주(지분율)
 
 26. The Vanguard Group (11.66%)
-    
 27. BlackRock (9.17%)
     
 28. State Street Corporation (4.47%)
@@ -132,5 +136,4 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 31. SPDR S&P Health Care Equipment ETF - XHE
     
 32. Invesco S&P SmallCap Health Care ETF - PSCH
-    
 33. First Trust NYSE Arca Biotechnology Index Fund - FBT

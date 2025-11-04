@@ -1,14 +1,15 @@
 ﻿---
 title: "DG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 274
----<div style="display:none">
+weight: 275
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #소비자방어주 #할인점 #소비재 #소매 #블랙프라이데이 
 
@@ -22,7 +23,6 @@ Industry: Discount Stores (할인점)
 Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체인입니다. 주로 농촌 및 교외 지역에서 운영되며, 식료품, 청소용품, 건강 및 미용 제품, 가정용품 등 다양한 상품을 저렴한 가격에 판매합니다.
 
 이 회사는 할인 소매업체다. 이 회사는 소모품, 계절 상품, 가정용품 및 의류를 포함한 상품을 제공한다.  
-
 이 회사의 상품에는 제조업체의 브랜드뿐만 아니라 브랜드보다 할인된 가격의 자체 브랜드 셀렉션도 포함된다.  
   
 소모품 카테고리에는 종이 및 청소용품, 포장 식품, 부패하기 쉬운 식품, 스낵, 건강 및 미용, 반려동물, 담배 제품이 포함된다.  
@@ -40,7 +40,6 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 - 자체 브랜드 제품 개발 및 판매
 
 ## 전방/후방산업
-
 전방산업:
 
 - 역할: 소비자에게 직접 판매
@@ -51,24 +50,25 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 - 역할: 제품 공급
 - 소비재 제조업체: Procter & Gamble (US, [PG](/company-analysis/pg/))
 - 식품 제조업체: General Mills (US, [GIS](/company-analysis/gis/))
-
 ## 주요제품
 
 - 소비재 (청소용품, 식료품 등, 매출 비중: 약 75%, 2023년 기준)
 - 계절 상품 (매출 비중: 약 15%, 2023년 기준)
 - 가정용품 (매출 비중: 약 10%, 2023년 기준)
-
 ## 주요 판매국가
 
 Dollar General은 주로 미국에서 운영되며, 2023년 기준으로 멕시코에도 진출했습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 
 - 19,643개의 매장 (2024년 1월 기준)
 - 물류 센터 네트워크
 - 자체 브랜드 (Clover Valley, True Living 등)
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Dollar Tree (US, [DLTR](/company-analysis/dltr/)) - 할인 소매점 체인
 - Family Dollar (Dollar Tree의 자회사) - 할인 소매점 체인

@@ -1,14 +1,15 @@
 ﻿---
 title: "ENTG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 315
----<div style="display:none">
+weight: 316
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #Entegris #ENTG #반도체장비 #포토닉스 #미세오염제어 #초고순도화학 #웨이퍼운반 #CMP슬러리 #패키징소재 #공정솔루션 #미세필터 #정밀재료 #공급망관리 #OEM #글로벌네트워크 #청정실기술 #산업자동화 #스마트팩토리 #메가파운드리
 
@@ -54,11 +55,12 @@ Entegris, Inc.(US)는 **반도체 칩을 만드는 공정 전반에서 ‘보이
     • 웨이퍼 운반·패키징 장비: 10%  
     • 서비스·부품: 5%
 
+{{< adsense-infeed >}}
+
 - 고객 유형별 수익 구조:  
     • 파운드리·IDM(Integrated Device Manufacturer): 70%  
     • 장비 제조사(OEM) 및 연구기관: 20%  
     • 기타(디스플레이·LED 등): 10%
-
 - 지역별 매출 분포 (2023년):  
     • 아시아·태평양: 57%  
     • 북미: 26%  
@@ -98,7 +100,6 @@ Entegris, Inc.(US)는 **반도체 칩을 만드는 공정 전반에서 ‘보이
 - 초고순도 폴리머·세라믹 분말, 반도체급 화학 시약 등 입고 시 100% 분석  
 
 2단계: **제품 합성·가공**
-
 - 멤브레인 코팅, 화학 합성, 슬러리 배칭(batch) 공정  
 
 3단계: **모듈 조립**
@@ -202,6 +203,8 @@ Entegris, Inc.(US)는 **반도체 칩을 만드는 공정 전반에서 ‘보이
 
 ### 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 - **2024년:** 아태지역 2개 신규 서비스 센터 개소, 필터 교체 서비스 매출 +25%
 - **2023년:** CMC Materials 인수 통합 완료(2022년 인수), CMP 슬러리 사업 매출 40% 성장
 - **2022년:** 고순도 전구체 공장 확장, 파운드리 고객 대상 장기 공급 계약 체결
@@ -209,7 +212,6 @@ Entegris, Inc.(US)는 **반도체 칩을 만드는 공정 전반에서 ‘보이
 ---
 
 ### 주요 주주 (지분율)
-
 - Vanguard Group: 10.5% (22.1M주)
 - BlackRock, Inc.: 9.4% (19.8M주)
 - State Street Corp.: 4.3% (9.1M주)

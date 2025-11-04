@@ -1,14 +1,15 @@
 ﻿---
 title: "Omron"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 657
----<div style="display:none">
+weight: 658
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #로봇 #제어기기 #협동로봇 #AMR #로봇부품 #테크 #전자부품 #자동화시스템
 
@@ -29,25 +30,24 @@ Omron Corporation은 전 세계적으로 산업 자동화, 전자 부품, 사회
 
 **전방산업:**
 
+{{< adsense-infeed >}}
+
 - **자동차 제조업체:** Toyota (JP, 7203), Honda (JP, 7267)
 - **전자 제조업체:** [SONY](/company-analysis/sony/) (JP, 6758), Panasonic (JP, 6752)
 
 **후방산업:**
-
 - **반도체 제조업체:** TSMC (US, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (KR, 005930)
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 
 ### 밸류체인
 
 Omron의 밸류체인은 전자 부품 설계에서부터 최종 제품의 제조 및 판매까지의 과정을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
-
 - **설계:** [Omron](/company-analysis/omron/) (JP, 6645.T) - 전자 부품 및 자동화 솔루션 설계
 - **제조:** TSMC (US, [TSM](/company-analysis/tsm/)) - 반도체 제조
 - **조립 및 테스트:** ASE Technology(TW, 3711) - 반도체 조립 및 테스트
 - **판매:** [Omron](/company-analysis/omron/) (JP, 6645.T) - 최종 제품 판매
 
 ### 주요제품
-
 - **센서:** 다양한 산업용 (매출 비중: 2023년 기준 30%)
 - **릴레이:** 전자 및 전기 시스템용 (매출 비중: 2023년 기준 25%)
 - **로봇:** 산업 자동화용 (매출 비중: 2023년 기준 20%)
@@ -67,6 +67,8 @@ Omron의 밸류체인은 전자 부품 설계에서부터 최종 제품의 제�
 - **[Keyence](/company-analysis/keyence/) (JP, 6861):** 산업 자동화 및 검사 장비 (시장 점유율 15%)
 - **Rockwell Automation (US, [ROK](/company-analysis/rok/)):** 디지털 전환 및 산업 자동화 솔루션 (시장 점유율 10%)
 - **Siemens (DE, [SIE](/company-analysis/sie/)):** 전기화, 자동화 및 디지털화 솔루션 (시장 점유율 12%)
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 

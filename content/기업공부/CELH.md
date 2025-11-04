@@ -1,14 +1,15 @@
 ﻿---
 title: "CELH"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-12T00:25:32+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 189
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-11T15:25:32Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #음료 #비알코올음료 #소비자방어주
 
@@ -44,30 +45,34 @@ Celsius Holdings Inc. (CELH)는 건강 및 피트니스 음료를 생산하는 �
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **CELSIUS Originals:** 다양한 맛의 탄산 및 비탄산 기능성 에너지 음료
 - **CELSIUS Heat:** 고강도 운동을 위한 고카페인 음료
 - **CELSIUS BCAA+ Energy:** 운동 후 회복을 위한 아미노산 음료
 - **CELSIUS On-the-Go:** 휴대용 파우더 형태의 기능성 음료
 
-### 주요 판매국가
+{{< adsense-infeed >}}
 
+### 주요 판매국가
 - **미국:** 주요 매출 국가
 - **캐나다:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
-
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Monster Beverage (미국, [MNST](/company-analysis/mnst/)):** 기능성 에너지 음료
 - **Red Bull (오스트리아, REDBULL):** 기능성 에너지 음료
 - **PepsiCo (미국, [PEP](/company-analysis/pep/)):** 기능성 음료
 
 ### 산업 내 글로벌 시장 점유율
-
 - **Celsius Holdings Inc.:** 약 11% (2024년 기준)
 - **Monster Beverage:** 약 35% (2024년 기준)
 - **Red Bull:** 약 30% (2024년 기준)
-
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **에너지 음료 시장의 경쟁 심화 (2022년)**
 - **글로벌 확장 및 새로운 시장 진출 (2023년)**

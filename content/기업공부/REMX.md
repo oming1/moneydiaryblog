@@ -1,14 +1,15 @@
 ﻿---
 title: "REMX"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-03T21:16:26+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 741
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 742
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-03T12:16:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #희토류 #지정학 
 
@@ -18,7 +19,11 @@ VanEck Rare Earth/Strategic Metals ETF(REMX)는 희토류와 전략적 금속 �
 
 REMX는 MVIS Global Rare Earth/Strategic Metals 지수의 성과를 추적하는 것을 목표로 합니다. 이 지수는 지정학 위험에 대비해 희토류와 전략적 금속의 생산, 정제, 재활용에 관여하는 글로벌 기업들의 성과를 반영합니다
 
+{{< adsense-infeed >}}
+
 ## 주요 투자 포인트
+
+{{< adsense-infeed >}}
 
 1. **순수 플레이 접근**: 총 수익의 50% 이상을 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/)/전략적 금속 산업에서 창출하는 기업들에 투자합니다
 2. **글로벌 노출**: 중국 A주를 포함한 전 세계 기업들에 투자합니다

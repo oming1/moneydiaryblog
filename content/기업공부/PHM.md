@@ -1,14 +1,15 @@
 ﻿---
 title: "PHM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 690
----<div style="display:none">
+weight: 691
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #펄트그룹 #주택건설 #디지털설계 #모듈러공법 #모기지서비스 #타이틀서비스 #사후관리 #랜드뱅크 #수주잔고 #첫주택구매 #업사이징 #액티브어덜트 #임대커뮤니티 #친환경주택 #에너지효율 #VR투어 #커뮤니티개발 #공급망관리 #비용절감 #백로그 #커스터머경험
 
@@ -18,7 +19,6 @@ weight: 690
 
 섹터(Sector): Consumer Discretionary – 소비자 재량  
 산업(Industry): Residential Construction – 주택 건설, [부동산](/industry-study/2산업부동산/)
-
 ---
 
 ### 영위사업
@@ -103,9 +103,7 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 1단계: **부지 분석·인허가**
 
 - GIS·데이터 분석 → 시장성·인프라·규제 검토 → 토지 계약 및 인허가
-
 2단계: **디자인 확정·모듈 제작**
-
 - 고객과 3D HomeStudio로 설계 협의 → 공장 제작 모듈(벽체·바닥·지붕) 생산
 
 3단계: **현장 공사·조립**
@@ -125,6 +123,8 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 ### 전방산업 / 후방산업
 
 **전방산업 (PHM 주택을 사용하는 산업)**
+
+{{< adsense-infeed >}}
 
 - 부동산 중개: Keller Williams(US, KW), RE/MAX(US)
 - 임대·운영: Invitation Homes(US, INVH), American Homes 4 Rent(US, AMH)
@@ -149,6 +149,8 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 5. **사후 관리·보증 → 모듈 업그레이드**
 
 각 단계마다 Pulte의 디지털 플랫폼, 모듈러 공법, 서비스 조직이 유기적으로 연결되어 **품질·속도·고객 경험**을 극대화합니다.
+
+{{< adsense-infeed >}}
 
 ---
 

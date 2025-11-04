@@ -1,14 +1,15 @@
 ﻿---
 title: "ELV"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-18T14:50:25+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 311
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 312
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-18T05:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어 #보험 #의료보험 #약국 
 
@@ -19,7 +20,11 @@ weight: 311
 
 **영위사업** 
 
+{{< adsense-infeed >}}
+
 Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입니다. 주요 사업 부문은 의료 보험, 약국 혜택 관리, 행동 건강 서비스, 장기 요양 및 장애 보험 등을 포함합니다.
+
+{{< adsense-infeed >}}
 
 **전방/후방산업**
 
@@ -36,8 +41,9 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
         - 보험: MetLife (미국, MET)
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - IT 서비스: Accenture (미국, [ACN](/company-analysis/acn/))
-
 **밸류체인**
+
+{{< adsense-infeed >}}
 
 - **보험 상품 개발:** 보험 상품 설계 및 개발
     - **대표 회사:** MetLife (미국, MET), Prudential Financial (미국, PRU)
@@ -47,7 +53,6 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Cognizant (미국, [CTSH](/company-analysis/ctsh/))
 
 **주요제품**
-
 - **의료 보험:** 개인 및 단체 의료 보험
 - **약국 혜택 관리:** 약국 혜택 관리 서비스
 - **행동 건강 서비스:** 정신 건강 및 행동 건강 서비스
@@ -57,6 +62,8 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 
 - **미국:** 주요 매출 국가
 
+{{< adsense-infeed >}}
+
 **경쟁업체**
 
 - **UnitedHealth Group (미국, [UNH](/company-analysis/unh/)):** 의료 보험 및 관련 서비스
@@ -64,9 +71,7 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 - **Cigna (미국, [CI](/company-analysis/ci/)):** 의료 보험 및 관련 서비스
 
 **산업 내 글로벌 시장 점유율**
-
 - Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
-
 **최근 3년 내 주요 이슈**
 
 - **2022년:** Anthem에서 Elevance Health로 사명 변경 (2022)

@@ -1,14 +1,15 @@
 ﻿---
 title: "AAP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-12-10T21:24:42+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 6
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-10T12:24:42Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #임의소비재 #전문소매 #자동차부품 
 
@@ -30,24 +31,28 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 2023년 12월 기준 미국과 캐나다에서 4,935개의 매장과 321개의 Worldpac 지점을 운영하고 있습니다.
 
 ## 전방/후방산업
-
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 자동차 부품 제조업체
 - 물류 및 유통 기업
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 개인 소비자
 - 자동차 수리점 및 정비소
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 제품 소싱: 자동차 부품 제조업체로부터 구매
 2. 물류 및 재고 관리: Advance Auto Parts
 3. 판매 및 유통: 매장, 온라인 플랫폼
 4. 고객 서비스: Advance Auto Parts
-
 ## 주요제품
 
 - 자동차 교체 부품
@@ -55,7 +60,6 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 - 액세서리
 - 비자동차 제품
 - ALLDATA 자동차 진단 및 수리 소프트웨어
-
 ## 주요 판매국가
 
 미국, 캐나다, 푸에르토리코, 미국령 버진아일랜드
@@ -67,6 +71,8 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 - NAPA Auto Parts
 - Pep Boys
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 2022년 기준 미국 자동차 부품 소매 시장에서 약 17%의 점유율을 보유하고 있습니다[
@@ -76,7 +82,6 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 ](https://expertbeacon.com/advance-auto-parts-competitors/).
 
 ## 최근 3년 내 주요 이슈
-
 - 2023년 매출 113억 달러 기록, 전년 대비 1.2% 증가 (2024)
 - 4개의 물류센터와 700개 이상의 매장 폐쇄 계획 발표 (2024)
 - 무료 배터리 테스트 및 설치, 와이퍼 설치 등 무료 서비스 강화 (2024)

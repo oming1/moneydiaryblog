@@ -1,14 +1,15 @@
 ﻿---
 title: "MS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 592
----<div style="display:none">
+weight: 593
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #투자은행및중개 #금융 #투자은행 
 ## 산업 섹터
@@ -21,6 +22,8 @@ weight: 592
 Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 투자은행 서비스, 자산 관리, 증권 거래 및 투자 관리 서비스를 제공합니다. 고객층은 기업, 정부 및 개인 투자자 등으로 다양합니다.
 
 ## 전방/후방 산업
+
+{{< adsense-infeed >}}
 
 - **전방 산업 (Downstream Industry)**:
     
@@ -36,12 +39,13 @@ Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 
     - **핵심 산업**: 금융 시장 및 데이터 분석
     - **역할**: Morgan Stanley의 서비스에 필요한 데이터 및 자본 공급
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - BlackRock (미국, [BLK](/company-analysis/blk/))
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 
 ## 밸류체인
-
 - **투자은행 서비스**:
     
     - M&A, 자본 조달 및 재무 자문을 제공합니다.
@@ -59,11 +63,9 @@ Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 
         - Charles Schwab (미국, [SCHW](/company-analysis/schw/)) - 자산 관리
 
 ## 주요 제품
-
 - **투자은행 서비스**: M&A 및 자본 조달을 위한 금융 자문.
     
     - 매출 비중: 전체 매출의 약 42.6% 차지.
-    
 - **자산 관리 서비스**: 개인 및 기관 고객을 위한 포트폴리오 관리.
     
     - 매출 비중: 전체 매출의 약 48.5% 차지.
@@ -82,7 +84,6 @@ Morgan Stanley는 미국을 주요 시장으로 하며, 유럽과 아시아에�
 Morgan Stanley는 글로벌 투자은행 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간의 추세는 안정적인 성장세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - **COVID-19 대응**: 팬데믹 동안 고객 지원 프로그램과 헬스케어 접근성 향상 조치 시행 (2020).
 - **M&A 활동 증가**: 글로벌 M&A 거래량 증가로 인해 수익이 상승함 (2021).
 - **디지털 뱅킹 확장**: 소비자 금융 플랫폼 확대를 통한 신규 고객 유치 노력 강화 (2022).

@@ -1,14 +1,15 @@
 ﻿---
 title: "AVT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 100
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #전자부품 #유통 #임의소비재 #전자부품유통 #반도체유통
 
@@ -26,6 +27,8 @@ Avnet Inc는 글로벌 기술 솔루션 기업으로, 전 세계 140개국 이�
 4. 공급망 관리: 재고 관리, 물류, 주문 이행 서비스
 5. 기술 솔루션: IoT, AI, 클라우드 등 신기술 관련 솔루션 제공
 
+{{< adsense-infeed >}}
+
 Avnet은 약 100,000개의 OEM, CM, ODM 고객을 대상으로 100개 이상의 주요 부품 제조업체의 제품을 판매하고 있으며, 스타트업부터 대기업까지 다양한 규모의 고객을 지원합니다.
 
 ## 전방/후방산업
@@ -42,25 +45,20 @@ Avnet은 약 100,000개의 OEM, CM, ODM 고객을 대상으로 100개 이상의 
     - 산업용 장비: Siemens (DE, [SIE](/company-analysis/sie/)), ABB (CH, ABBN)
 
 ## 밸류체인
-
 1. 제조: Advanced Micro Devices (US, [AMD](/company-analysis/amd/)), Intel (US, [INTC](/company-analysis/intc/)) - 반도체 및 전자부품
 2. 유통: Avnet (주요 사업 영역)
 3. 솔루션 제공: Avnet (설계, 공급망 관리, 기술 솔루션)
 4. 고객: 다양한 전자제품 제조업체 및 기업 고객
 
 ## 주요제품
-
 1. 반도체 (2024년 회계연도 매출 비중: 80.1%)
 2. 수동 부품 및 전자기계 부품(IP&E) (2024년 회계연도 매출 비중: 15.8%)
 3. 컴퓨터 제품 (2024년 회계연도 매출 비중: 1.6%)
 4. 기타 (테스트 및 측정, MRO 제품 등) (2024년 회계연도 매출 비중: 2.5%)
-
 ## 주요 판매국가
 
 Avnet은 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아 태평양 지역에서 사업을 영위하고 있습니다. 구체적인 국가별 매출 비중은 제공되지 않았습니다.
-
 ## 경쟁업체
-
 1. Arrow Electronics (US, [ARW](/company-analysis/arw/))
 2. Future Electronics (비상장)
 3. World Peace Group (비상장)
@@ -72,6 +70,8 @@ Avnet은 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Avnet은 전자부품 유통 산업에서 세계 최대 기업 중 하나로 알려져 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

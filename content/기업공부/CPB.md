@@ -1,14 +1,15 @@
 ﻿---
 title: "CPB"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-19T12:00:24+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 224
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 225
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-19T03:00:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #식품제품 #필수소비재 #식품제조 #수프
 
@@ -18,7 +19,6 @@ Sector: 필수 소비재(Consumer Staples)
 Industry: 식품 제품(Food Products)
 
 ## 영위사업
-
 Campbell's Company(이전 Campbell Soup Company)는 미국의 식품 제조 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 수프 및 통조림 식품 생산
@@ -26,9 +26,13 @@ Campbell's Company(이전 Campbell Soup Company)는 미국의 식품 제조 기�
 3. 음료 생산
 4. 스낵 제조
 
+{{< adsense-infeed >}}
+
 Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등의 브랜드를 보유하고 있습니다.
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. Campbell's 수프 (농축 수프, 즉석 수프 등)
 2. Pepperidge Farm 제품 (빵, 쿠키, 크래커)
@@ -39,11 +43,9 @@ Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등�
 7. Goldfish 크래커
 
 ## 주요 판매국가
-
 Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
 
 ## 경쟁업체
-
 1. Nestlé (스위스, NESN.SW)
 2. PepsiCo (US, [PEP](/company-analysis/pep/))
 3. Unilever (영국/네덜란드, UL)

@@ -1,14 +1,15 @@
 ﻿---
 title: "PTNM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 714
----<div style="display:none">
+weight: 715
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #피타니움 #PTNM #홍콩뷰티 #스킨케어 #개인용품 #헤어케어 #화장품 #자체브랜드 #BIGPI #나스닥상장 #IPO2025 #옴니채널 #뷰티리테일 #아시아뷰티 #직영매장 #온라인판매 #홍콩소매 #개인관리용품 #뷰티테크 #소비재 #헬스케어 #바디케어 #뷰티트렌드 #아시아마켓 #소매혁신
 
@@ -45,6 +46,8 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 - **제품 카테고리별 수익**: 스킨케어, 헤어케어, 화장품, 바디케어 제품 판매
 
 **지역별 매출 분포:**
+
+{{< adsense-infeed >}}
 
 - 홍콩: 주요 매출 기반 (100%)
 
@@ -89,6 +92,8 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 
 ## 전방산업 / 후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업 (제품 사용 산업):**
 
 - 개인 소비자 - 뷰티 및 개인 관리 제품 최종 사용자
@@ -99,7 +104,6 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 - 화장품 원료 공급업체 - 화학 원료 및 활성 성분 공급
 - 포장재 제조업체 - 용기, 라벨, 포장재 공급
 - 제3자 제조업체 - OEM 생산 서비스
-
 ---
 
 ## 밸류체인
@@ -135,7 +139,6 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 ## 주요 고객
 
 홍콩 현지 소비자를 주요 고객으로 하며, 구체적인 B2B 고객 정보는 공개되지 않았습니다.
-
 ---
 
 ## 주요 판매 국가
@@ -181,15 +184,12 @@ Pitanium Limited는 2019년 설립된 홍콩 기반의 뷰티 및 개인 관리 
 ## 주요 주주 (지분율)
 
 **Wong Ying Yeung (CEO & Co-Founder)**: 지분율 데이터 없음 **Young (Co-Founder)**: 지분율 데이터 없음 **기관 투자자**: 지분율 데이터 없음 **개인 투자자**: 지분율 데이터 없음
-
 _주주 구성에 대한 상세 정보는 공개되지 않았습니다._
-
 ---
 
 ## 관련 ETF
 
 **직접 관련 ETF**: 해당 없음 (소형주로 ETF 편입 정보 없음)
-
 **섹터 관련 ETF:**
 
 - **XLY** - Consumer Discretionary Select Sector SPDR Fund XLY

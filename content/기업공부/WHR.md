@@ -1,14 +1,15 @@
 ﻿---
 title: "WHR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 962
----<div style="display:none">
+weight: 963
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #임의소비재 #가전제품 #주방가전 #세탁가전 #제조업 
 
@@ -18,7 +19,6 @@ Sector: 임의소비재(Consumer Discretionary)
 Industry: 가전제품(Household Appliances)
 
 ## 영위사업
-
 Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업체입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 주요 가전제품(MDA) 북미
@@ -42,12 +42,13 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 - 반도체 제조업체: Texas Instruments (US, [TXN](/company-analysis/txn/))
 
 ## 밸류체인
-
 1. 연구개발: Whirlpool Corporation (US, [WHR](/company-analysis/whr/))
 2. 원자재 조달: 다양한 공급업체
 3. 제조: Whirlpool Corporation (US, [WHR](/company-analysis/whr/)) (70개 이상의 글로벌 제조시설)
 4. 유통: 대형 소매점, 온라인 판매 채널
 5. 애프터서비스: Whirlpool Corporation (US, [WHR](/company-analysis/whr/)) 및 공인 서비스 센터
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -56,9 +57,7 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 3. 조리기구 (오븐, 레인지, 전자레인지 등) (23.07% 매출 비중)
 4. 식기세척기 (7.06% 매출 비중)
 5. 소형 가전제품 (KitchenAid 스탠드 믹서 등)
-
 ## 주요 판매국가
-
 Whirlpool은 전 세계적으로 사업을 영위하고 있으며, 특히 북미 지역이 주요 시장입니다. 2023년 기준 북미 지역 매출이 전체의 약 66.29%를 차지했습니다.
 
 ## 경쟁업체
@@ -68,6 +67,8 @@ Whirlpool은 전 세계적으로 사업을 영위하고 있으며, 특히 북미
 3. Haier Smart Home (중국, 600690.SS) (가전제품)
 4. Electrolux (스웨덴, ELUX-B.ST) (가전제품)
 5. Midea Group (중국, 000333.SZ) (가전제품)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

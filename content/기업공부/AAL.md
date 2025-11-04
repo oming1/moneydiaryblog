@@ -1,14 +1,15 @@
 ﻿---
 title: "AAL"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:30+09:00
+date: 2024-08-30T21:54:51+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-30T12:54:51Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #산업재 #항공사 #항공 #여객운송 #화물운송
 
@@ -23,6 +24,8 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - [여객 운송](/industry-study/여객-운송/)
 - [화물 운송](/industry-study/화물-운송/)
 - 항공기 정비, 수하물 처리, 케이터링, 지상 서비스
@@ -36,8 +39,9 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 - 여행사: Expedia Group (US, [EXPE](/company-analysis/expe/))
 - 기업 출장 관리: American Express Global Business Travel (US, AMEX)
 
-후방산업:
+{{< adsense-infeed >}}
 
+후방산업:
 - 역할: 항공기 및 엔진 공급
 - 항공기 제조: Boeing (US, [BA](/company-analysis/ba/))
 - 엔진 제조: GE Aerospace (US, [GE](/company-analysis/ge/))
@@ -60,13 +64,10 @@ American Airlines Group은 전 세계 50개국 350개 목적지에 서비스를 
 - 지역 항공사 자회사: Envoy Air Inc., Piedmont Airlines Inc., PSA Airlines Inc.
 
 ## 경쟁업체
-
 - Delta Air Lines (US, [DAL](/company-analysis/dal/)) - 글로벌 네트워크 항공사
 - Southwest Airlines (US, [LUV](/company-analysis/luv/)) - 저비용 항공사
 - United Airlines Holdings (US, [UAL](/company-analysis/ual/)) - 글로벌 네트워크 항공사
-
 ## 산업 내 글로벌 시장 점유율
-
 American Airlines Group은 승객 수, 항공기 규모, 예약된 승객-킬로미터 기준으로 세계 최대 항공사입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크

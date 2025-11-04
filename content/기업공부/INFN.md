@@ -1,14 +1,15 @@
 ﻿---
 title: "INFN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 445
----<div style="display:none">
+weight: 446
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #Infinera #INFN #광통신 #DWDM #포토닉집적회로 #CoherentOptics #WaveLogic #ROADM #OTN #PacketOptical #네트워크자동화 #BluePlanet #SDN #5G백홀 #데이터센터 #클라우드네트워크 #MetroEthernet #EdgeComputing #하드웨어 #소프트웨어 #TelecomEquipment #OpticalTransport
 
@@ -44,7 +45,6 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 5. **서비스 및 지원**
     - 컨설팅→설치→24×7 원격 모니터링→현장 교체 부품·업그레이드
     - 고객 네트워크 맞춤 공정 최적화, 설계·검증 지원
-
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -81,6 +81,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 
 - **혁신 R&D**: 연간 매출의 12% 투자, 1,500여 건 특허 포트폴리오
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -110,6 +112,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 3단계: **모듈 조립**
 
 - DSP 보드 결합 → 열 관리 히트싱크 장착 → 광섬유 커넥터 통합  
+
+{{< adsense-infeed >}}
 
 4단계: **시스템 통합**
 
@@ -171,10 +175,11 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 - **Google Cloud(US, [GOOGL](/company-analysis/googl/))** – 데이터센터 상호 연결
 - **Australian NBN(AS, NBN.AX)** – 광 액세스 네트워크
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
-
 - 미국: 45% (2023년 기준)
 - 유럽·중동·아프리카: 30%
 - 아시아·태평양: 25%
@@ -196,7 +201,6 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 - **장거리 DWDM 시장:** Ciena 30%, Huawei 25%, Nokia 20%, Infinera 10%, 기타 15% (2023년, 추정)
 - **Metro ROADM 시장:** Huawei 28%, Nokia 24%, Ciena 22%, Infinera 12%, 기타 14%
 - **3년간 추이:** Infinera +2%p 증가 (Bloomberg Intelligence)
-
 ---
 
 ### 기업 특징 및 성장성

@@ -1,14 +1,15 @@
 ﻿---
 title: "AIG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-10-09T07:05:41+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 41
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-08T22:05:41Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #보험 #금융 #생명보험 #상해보험
 
@@ -20,6 +21,8 @@ weight: 41
 ### 영위사업
 
 American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 기업으로, 주로 재산 및 상해 보험, 생명 보험, 은퇴 서비스 등을 제공합니다
+
+{{< adsense-infeed >}}
 
 ### 전방/후방산업
 
@@ -41,32 +44,34 @@ American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 
 - **클레임 관리:**
     - **설명:** 보험 클레임을 처리 및 관리
     - **대표회사:** Sedgwick (미국, SEDGWICK), Gallagher Bassett (미국, GB)
-
 ### 주요제품
-
 - **재산 및 상해 보험:** 상업용 및 개인용 재산 보호
 - **생명 보험:** 개인 및 가족의 재정적 보호 제공
 - **은퇴 서비스:** 은퇴 계획 및 자산 관리
 
 ### 주요 판매국가
-
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 - **일본:** 주요 매출 국가
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Chubb (미국, [CB](/company-analysis/cb/)):** 재산 및 상해 보험
 - **Allianz (독일, ALV):** 재산 및 상해 보험, 생명 보험
 - **AXA (프랑스, CS):** 재산 및 상해 보험, 생명 보험
 
 ### 산업 내 글로벌 시장 점유율
-
 - **American International Group Inc:** 약 3% (2023년 기준)
 - **Chubb:** 약 5% (2023년 기준)
 - **Allianz:** 약 6% (2023년 기준)
 
+{{< adsense-infeed >}}
+
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **코로나19 팬데믹으로 인한 보험 클레임 증가 (2020년)**
 - **기후 변화로 인한 자연재해 클레임 증가 (2021년)**

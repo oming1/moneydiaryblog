@@ -1,14 +1,15 @@
 ﻿---
 title: "SMXT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 806
----<div style="display:none">
+weight: 807
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #태양광에너지 #배터리저장시스템 #BESS #EPC계약 #신재생에너지 #캘리포니아태양광 #상업용태양광 #유틸리티규모 #에너지저장 #그리드스케일 #리튬배터리 #클린에너지 #전력저장 #분산에너지 #소형주 #IPO2024 #마이크로캡 #텍사스프로젝트 #태양광시공 #주거용태양광 #상업용태양광
 
@@ -57,6 +58,8 @@ SolarMax Technology Inc.은 2008년 David Hsu, Ching Liu, Simon Yuan에 의해 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 **1. 유틸리티 규모 진출:** 소규모 주거용 태양광에서 대규모 배터리 저장 시스템으로 사업영역 확장에 성공했습니다.
 
 **2. 지역 전문성:** 캘리포니아 남부 지역에서 17년간 축적한 태양광 설치 경험과 고객 네트워크를 보유하고 있습니다.
@@ -76,7 +79,6 @@ SolarMax Technology Inc.은 2008년 David Hsu, Ching Liu, Simon Yuan에 의해 �
 **BESS 통합 기술:** 배터리 에너지 저장 시스템과 태양광 발전의 통합 설계 및 운영 기술
 
 **EPC 전문성:** 대규모 유틸리티 프로젝트의 엔지니어링, 조달, 건설 전 단계 관리 기술
-
 **그리드 연계 기술:** 전력망 연계 및 안정화를 위한 전력전자 기술
 
 ---
@@ -108,7 +110,6 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - 배터리: Tesla(US, [TSLA](/company-analysis/tsla/)), CATL(CN, Contemporary Amperex) - 리튬배터리 시스템
 - 인버터: Enphase Energy(US, [ENPH](/company-analysis/enph/)), SolarEdge(IL, [SEDG](/company-analysis/sedg/)) - 전력변환장치
 - 구조물: 철강 및 알루미늄 구조물 제조업체
-
 ---
 
 ## 밸류체인
@@ -131,6 +132,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 
 - SolarMax 자체 O&M 팀을 통한 장기 운영관리 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주요 제품/서비스
@@ -140,7 +143,6 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 **상업용 태양광 프로젝트:** 상업시설 대규모 태양광, 매출의 25% (2024년), 주요 경쟁사 SunPower [SPWR](/company-analysis/spwr/)
 
 **배터리 저장 시스템:** 유틸리티 규모 BESS, 매출의 10% (2024년), 주요 경쟁사 Fluence Energy FLNC
-
 **LED 조명 솔루션:** 에너지 효율 조명 시스템, 매출의 5% (2024년)
 
 ---
@@ -177,7 +179,6 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - 소매업체 - 매장 및 쇼핑센터 태양광
 
 **공공기관:**
-
 - 캘리포니아 공립학교 - 교육시설 태양광
 - 지방정부 청사 - 공공건물 태양광
 
@@ -281,7 +282,6 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 ## 주요 주주 (지분율)
 
 **2025년 Q1 기준:**
-
 - 내부자 지분율: 38.0% (창업자 및 경영진)
 - 기관투자자: 7.1%
 - BlackRock: 약 1.5% (29.5만주 보유)

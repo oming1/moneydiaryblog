@@ -1,14 +1,15 @@
 ﻿---
 title: "JUNS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-11T18:23:48+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 473
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 474
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-11T09:23:48Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #헬스케어 #제약 #파킨슨병 #레스베라트롤 #신경염증치료제
 
@@ -26,11 +27,12 @@ Jupiter Neurosciences는 독특한 레스베라트롤 플랫폼 제품인 JOTROL
 주피터 뉴로사이언시스는 임상 단계의 연구 개발 제약 회사이다. 이 회사는 신경 염증 치료를 목표로 레스베라트롤(resveratrol) 플랫폼 제품을 개발한다.  
 
 이 회사의 후보 제품인 JOTROL은 초기 개발 단계에 있는 근위축성 측삭 경화증(ALS)과 점액 다당류 1형, 프리드라이히 운동실조증, MELAS를 표적으로 삼고 있다.  
-  
+
+{{< adsense-infeed >}}
+
 JOTROL 전달 플랫폼을 사용하면 레스베라트롤을 소프트젤 캡슐 형태로 섭취할 수 있으며, 알츠하이머, 운동 실조증과 같은 중추 신경계 질환과 리소좀 저장 장애, 미토콘드리아 질환과 같은 대사 장애에 치료 효과를 제공한다.  
 
 이 플랫폼은 또한 경증 인지 장애/외상성 뇌 손상(TBI)/뇌진탕이 있는 초기 알츠하이머병 및 초기 개발 단계의 Covid-19를 대상으로 한다.  
-  
 이 회사의 제품 후보 JOTROL은 임상 1상 중이다.
 
 1. 희귀질환: 뮤코다당증 1형, 프리드라이히 운동실조증, MELAS
@@ -40,9 +42,13 @@ JOTROL 전달 플랫폼을 사용하면 레스베라트롤을 소프트젤 캡�
 
 JOTROL™은 기존 레스베라트롤 제품의 흡수 문제와 위장 부작용을 극복한 제품으로, 치료적으로 효과적인 용량의 레스베라트롤을 혈류에 전달할 수 있는 세계 최초의 제품이라고 회사는 주장합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 제약 원료 공급업체
 - 임상시험 수탁기관(CRO)
@@ -64,18 +70,16 @@ JOTROL™은 기존 레스베라트롤 제품의 흡수 문제와 위장 부작�
 - JOTROL™: 레스베라트롤 기반 신경염증 치료제
 
 ## 주요 판매국가
-
 미국 (현재 임상 단계로 실제 판매는 이루어지지 않음)
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 - CAMP4 Therapeutics
 - Rapport Therapeutics
 
 ## 산업 내 글로벌 시장 점유율
-
 임상 단계 회사로 현재 시장 점유율 데이터 없음
-
 ## 최근 3년 내 주요 이슈
 
 - 나스닥 상장 및 1,100만 달러 규모의 IPO 완료 (2024)

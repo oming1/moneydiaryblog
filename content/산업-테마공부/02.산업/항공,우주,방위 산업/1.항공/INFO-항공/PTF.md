@@ -1,14 +1,15 @@
 ﻿---
 title: "PTF"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 6
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #PTF #항공기제조 #화물운송 #화물전용기 #화물 
 
@@ -22,9 +23,13 @@ weight: 6
 	- PTF 기재는 여객기에서 화물기로 전환되는데 2~3 달 밖에 소요되지 않아 화물전용기 대비 신속하게 도입이 가능하고, 전환 비용 또한 신조기 구매 비용보다 저렴하다는 장점
 	- 수명이 다한 여객기를 화물기로 변환하여 수명을 연장하는 방법으로도 사용됨
 
+{{< adsense-infeed >}}
+
 - 세부정보
 	- 카고편(Cargo Flight)과 프레이터편(Freighter Flught)의 차이는 무엇일까?
 		프레이터는 화물전용기를 가리키고, 카고는 일반적인 화물을 말한다. [프레이터라고 하면 창문이 없고 머리를 들어 올리는 수송기]를 말한다. 카고는 [일반여객기로 위에는 승객이 타고, 바닥 밑은 화물실]로 돼있다.
+
+{{< adsense-infeed >}}
 
 - 관련회사
 	- Israel Aerospace Industries (IAI)

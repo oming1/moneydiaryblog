@@ -1,14 +1,15 @@
 ﻿---
 title: "Brunp"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2023-06-03T06:53:41+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 157
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-06-02T21:53:41Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #원자재 #폐기물관리 #중국 #폐배터리 
 
@@ -19,22 +20,22 @@ Industry: Waste Management (폐기물관리)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고급 [배터리](/industry-study/배터리/) 소재 생산에 전문화된 하이테크 기업입니다. 주요 사업은 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 재활용, 배터리 소재 생산, 폐차 해체 및 재활용입니다.
-
 ## 전방/후방산업
-
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 역할: 재활용 배터리 소재 사용
 - 배터리 제조: Contemporary Amperex Technology ([CATL](/company-analysis/catl/)) (CN, 300750)
 - 전기차 제조: [BYD](/company-analysis/byd/) (CN, 002594)
 
 후방산업:
-
 - 역할: 폐배터리 공급
 - 전기차 제조업체: Tesla (US, [TSLA](/company-analysis/tsla/))
 - 전자기기 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
-
 ## 주요제품
 
 - 재활용 배터리 소재 ([리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/), [코발트](/industry-study/코발트/), [니켈](/industry-study/니켈/) 등, 매출 비중 정보 없음)
@@ -50,6 +51,8 @@ Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고
 - GEM Co., Ltd. (CN, 002340) - 배터리 재활용 및 소재 생산
 - [Ganfeng Lithium](/company-analysis/ganfeng-lithium/) (CN, 002460) - 리튬 관련 제품 및 재활용
 - Umicore (BE, UMI) - 배터리 재활용 및 소재 생산
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

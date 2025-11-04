@@ -1,14 +1,15 @@
 ﻿---
 title: "L3Harris Technologies"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-06T21:18:22+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 500
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 501
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-06T12:18:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #항공우주방위 #항공우주 #인공위성 #위성발사 #위성운영 #위성제조 #위성통신 #우주 #통신위성 
 
@@ -30,13 +31,14 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 - 소프트웨어 개발: 시스템 운영 및 데이터 분석 소프트웨어 제공  
     주요 기업: Microsoft(US, [MSFT](/company-analysis/msft/)), Palantir Technologies(US, [PLTR](/company-analysis/pltr/))
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 국방부 및 군대: 주요 고객으로 방위 시스템 구매
 - 항공우주 산업: 항공기 및 우주선용 시스템 구매  
     주요 기업: Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/))
 - 정부 기관: 보안 및 통신 시스템 구매
-
 ## 밸류체인
 
 1. 연구 개발: L3Harris (자체 R&D)
@@ -44,7 +46,6 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 3. 시스템 통합: L3Harris (핵심 경쟁력)
 4. 판매 및 유통: 직접 판매 및 정부 계약
 5. 유지보수 및 서비스: L3Harris 및 협력업체
-
 ## 주요제품
 
 - 통신 시스템 (전술 라디오, 위성통신 등)
@@ -54,12 +55,12 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 - 우주 및 정보 시스템
 - 해양 시스템
 - 인공위성 발사, 제조, 운영
-
 ## 주요 판매국가
 
 미국이 주요 시장이며, 76%의 매출이 미국 정부와의 계약에서 발생합니다. 그 외 100개 이상의 국가에 제품과 서비스를 제공하고 있습니다.
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Lockheed Martin(US, [LMT](/company-analysis/lmt/)) (방위 시스템)
 - Northrop Grumman(US, [NOC](/company-analysis/noc/)) (항공우주 및 방위 시스템)

@@ -1,14 +1,15 @@
 ﻿---
 title: "FPH.NZ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-24T12:02:42+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 351
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 352
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-24T03:02:42Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헬스케어 #의료기기 #수면무호흡 #가습기 #인공호흡기 
 
@@ -26,20 +27,20 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 3. 신생아 치료 제품: 유아 가온기, 인공호흡기, CPAP 시스템 등
 
 회사는 전 세계 120여 개국에 제품을 판매하고 있으며, 뉴질랜드와 멕시코에 제조 시설을 보유하고 있습니다.
-
 ## 전방/후방산업
 
 ## 전방산업
 
 - 병원 및 의료 시설: 호흡 치료 장비 사용
 - 수면 클리닉: 수면 무호흡증 치료 장비 활용
-
 ## 후방산업
 
 - 전자 부품 제조업체: 의료 기기용 부품 공급
 - 플라스틱 및 실리콘 제조업체: 마스크 및 튜브 재료 공급
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구개발: Fisher & Paykel Healthcare (NZ, [FPH.NZ])
 2. 제조: Fisher & Paykel Healthcare (NZ, [FPH.NZ])
@@ -57,8 +58,9 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 ## 주요 판매국가
 
 Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 뉴질랜드 내 매출은 전체의 1%에 불과합니다.
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. ResMed (US, [RMD](/company-analysis/rmd/))
 2. Philips Respironics (네덜란드, [PHG](/company-analysis/phg/))
@@ -67,9 +69,7 @@ Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매
 5. Löwenstein Medical (독일)
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Fisher & Paykel Healthcare는 호흡 치료 및 수면 무호흡증 치료 분야에서 주요 글로벌 플레이어로 인식되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. COVID-19 팬데믹으로 인한 호흡 치료 장비 수요 급증 대응 (2020-2022년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "XRX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 989
----<div style="display:none">
+weight: 990
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -26,7 +27,6 @@ Xerox Holdings Corporation(NASDAQ: XRX)은 160개 이상의 국가에서 인쇄 
 ## 핵심 경쟁력
 
 Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및 비즈니스 솔루션 기술력입니다. ConnectKey 소프트웨어 플랫폼을 통해 프린터와 다기능 장치를 스마트 워크플레이스 어시스턴트로 전환하여 생산성을 향상시킵니다. 또한, 관리형 인쇄 서비스(MPS)를 통해 기업의 문서 관련 비용을 최적화하고 보안을 강화합니다.Xerox는 지속적인 R&D 투자를 통해 디지털 인쇄 기술, 워크플로우 자동화, 인공지능 기반 문서 처리 등의 혁신적인 솔루션을 개발하고 있습니다. 최근에는 디지털 전환과 하이브리드 업무 환경에 대응하기 위해 클라우드 기반 문서 관리 솔루션, 보안 인쇄 서비스 등으로 포트폴리오를 확장하고 있습니다.
-
 ## 전방/후방산업
 
 전방산업:
@@ -51,7 +51,6 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 5. 유통 및 판매: CDW(US, CDW), Staples(US, SPLS) (기업 및 소비자 대상 판매)
 6. 서비스 제공: Xerox(US, [XRX](/company-analysis/xrx/)), Ricoh(JP, 7752) (관리형 인쇄 서비스, 기술 지원)
 7. 재활용 및 폐기: Waste Management(US, [WM](/company-analysis/wm/)), Republic Services(US, [RSG](/company-analysis/rsg/)) (사용된 카트리지 및 장비 재활용)
-
 ## 주요제품
 
 - 다기능 프린터(MFP): 기업용 복합기, 매출의 약 50%
@@ -59,7 +58,6 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 - 관리형 인쇄 서비스(MPS): 기업 맞춤형 프린팅 솔루션, 매출의 약 15%
 - 소프트웨어 솔루션: 문서 관리 및 워크플로우 자동화 소프트웨어, 매출의 약 10%
 - 소모품 및 부품: 토너, 잉크, 용지 등, 매출의 약 5%
-
 ## 주요 고객
 
 - IBM(US, [IBM](/company-analysis/ibm/)) - 기업용 프린팅 솔루션
@@ -75,9 +73,13 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국 (매출의 약 60%), 유럽 (매출의 약 30%), 기타 국가 (매출의 약 10%)
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 프린터 및 PC
 - Canon(JP, 7751) - 카메라 및 프린터
@@ -89,10 +91,11 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 - Kyocera(JP, 6971) - 프린터 및 전자부품
 - Sharp(JP, 6753) - 복합기 및 전자제품
 - Toshiba TEC(JP, 6588) - POS 시스템 및 복합기
-
 ## 산업 내 글로벌 시장 점유율
 
 Xerox는 글로벌 프린터 및 복합기 시장에서 약 10%의 점유율을 보유하고 있습니다 (2023년 기준). 최근 3년간 시장 점유율은 소폭 하락 추세를 보이고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

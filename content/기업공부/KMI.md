@@ -1,14 +1,15 @@
 ﻿---
 title: "KMI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 490
----<div style="display:none">
+weight: 491
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학  #배당주 #에너지 #LNG #수송 #저장 #터미널 #유틸리티 #석유가스소비연료 #에너지 #CO2 #원유수송
 
@@ -33,6 +34,8 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 광범위한 인프라 네트워크: 북미 최대 규모의 파이프라인 및 터미널 자산 보유
 2. 전략적 자산 위치: 주요 에너지 생산 및 소비 지역 연결
 3. 다각화된 사업 포트폴리오: 천연가스, 석유제품, CO2 등 다양한 에너지 상품 취급
@@ -46,7 +49,6 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
     
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
-    
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
@@ -70,19 +72,19 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
 4. 터미널 저장 및 처리 서비스
 
 ## 주요고객
-
 1. 석유 및 가스 생산 기업
 2. 정유사
 3. 석유화학 기업
 4. 전력 회사
 5. 산업용 에너지 소비자
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, 특히 미국이 주요 시장입니다.
 
 ## 경쟁업체
-
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Energy Transfer(US, [ET](/company-analysis/et/))
 3. Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
@@ -91,10 +93,11 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Kinder Morgan은 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다. 미국 천연가스 소비량의 약 40%를 수송하는 등 상당한 시장 지배력을 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 텍사스 천연가스 파이프라인 포트폴리오 인수 계약 체결 (2024년)
 2. Mississippi Crossing Project (MSX) 최종 투자 결정 (2024년)
 3. 2025년 재무 전망 발표: 조정 EPS 8% 증가, 조정 EBITDA 4% 증가 예상 (2024년)
@@ -110,7 +113,6 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 5. Merrill Lynch International: 2.864%
 
 ## 관련 ETF
-
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP
 3. Global X MLP & Energy Infrastructure ETF - MLPX

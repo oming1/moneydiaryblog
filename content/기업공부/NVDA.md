@@ -1,14 +1,15 @@
 ﻿---
 title: "NVDA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 638
----<div style="display:none">
+weight: 639
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #GPU #인공지능 #딥러닝 #데이터센터 #게이밍 #자율주행 #엣지컴퓨팅 #클라우드컴퓨팅 #고성능컴퓨팅 #CUDA #RTX #Tensor코어 #병렬처리 #시각컴퓨팅 #반도체 #슈퍼컴퓨터 #메타버스 #옴니버스 #GeForce #Quadro #정보기술 #로봇 
 
@@ -54,7 +55,7 @@ weight: 638
 		🗣️ CEO 코멘트
 		• “Blackwell은 세계가 기다려온 AI 플랫폼으로, 추론 AI 수요 급증이 학습과 추론 성능을 대폭 끌어올리고 있습니다.” – Jensen Huang, CEO
 				
-		!Pasted image 20250828054459.png!Pasted image 20250828054509.png
+		![](/images/Pasted%20image%2020250828054459.png)![](/images/Pasted%20image%2020250828054509.png)
 		
 	- 2025-09-09, NVIDIA – Goldman Sachs Communicopia + Technology Conference 2025 (25.9.9)
 
@@ -91,9 +92,10 @@ weight: 638
 		ASIC과의 경쟁: 추론과 훈련은 별개의 워크로드가 아니며, 특히 추론 모델에서는 지속적인 후속 훈련(post-training)이 필요함.
 		
 		총소유비용(TCO) 및 전력 효율성: NVIDIA는 단순히 칩 성능뿐만 아니라, 전력당 성능(performant per watt)과 비용당 성능(performant per dollars)이 최적화된 데이터센터 스케일 솔루션을 제공하는 데 중점을 둠. 전력은 자본만큼이나 중요한 요소가 되었음.
-		
+
+{{< adsense-infeed >}}
+
 		NVLink Fusion: 경쟁사 칩도 NVIDIA의 인프라에 통합될 수 있도록 NVLink Fusion을 제공하여 플랫폼의 개방성을 확대하고 있음.
-		
 		1. 재무 및 운영 전략
 		총이익률 (Gross Margin): 블랙웰 아키텍처의 데이터센터 스케일 구축이 안정화되면서, 사이클 타임 단축과 제품 믹스 개선을 통해 연말까지 총이익률을 70% 중반(mid-70%)대로 회복하는 것을 목표로 함.
 		
@@ -106,6 +108,8 @@ weight: 638
 		
 		GPU 교체 주기: GPU의 회계상 감가상각 내용연수는 4~6년이지만, 이전 세대 제품도 여전히 높은 성능을 제공하므로 데이터센터에서 계속 사용됨. 현재 2023년에 배포된 칩에 대한 교체 주기는 아직 도래하지 않음.
 
+{{< adsense-infeed >}}
+
 		2. 향후 비전 및 중점 사항
 		회사의 최우선 과제: 다음 아키텍처를 1년 주기에 맞춰 차질 없이 출시하고, 그 다음 세대의 아키텍처를 준비하여 AI 기술의 최첨단을 선도하는 것임.
 		
@@ -116,7 +120,6 @@ weight: 638
 ---
 
 ## 산업섹터
-
 섹터: 정보기술
 
 산업: 반도체
@@ -145,7 +148,6 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - 소프트웨어 개발: GPU 최적화 도구 및 라이브러리 개발 (Red Hat(US, RHT), VMware(US, [VMW](/company-analysis/vmw/)))
 
 ## 밸류체인
-
 1. R&D: NVIDIA(US, [NVDA](/company-analysis/nvda/)) (GPU 아키텍처 및 AI 알고리즘 개발)
 2. 설계: NVIDIA(US, [NVDA](/company-analysis/nvda/)), ARM(UK, [ARM](/company-analysis/arm/)) (칩 설계 및 IP 라이선싱)
 3. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Samsung Electronics(KR, 005930) (반도체 파운드리)
@@ -155,6 +157,8 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 7. 최종 사용자: 게임 개발사, 클라우드 서비스 제공업체, 자동차 제조사 등
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - GeForce 시리즈: 게이밍용 GPU, 매출의 약 45% (2024년 기준)
 - [데이터센터](/industry-study/데이터센터/) GPU: AI 및 고성능 컴퓨팅용, 매출의 약 40% (2024년 기준)
@@ -176,6 +180,8 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 게이밍 PC 및 워크스테이션용 GPU
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 중국, 대만, 일본, 한국, 유럽 주요국
 

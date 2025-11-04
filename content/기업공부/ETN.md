@@ -1,14 +1,15 @@
 ﻿---
 title: "ETN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 323
----<div style="display:none">
+weight: 324
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #산업재 #특수산업기계 #전력기기 #전력관리 #전기 #리쇼어링 #제조업 #데이터센터 
 
@@ -20,13 +21,13 @@ weight: 323
 기업소개
 이튼 코퍼레이션(이하 이튼)은 미국의 대표 전력기기 기업이다. 전기,유압 및 기계 동력을 위한 에너지 솔루션을 제공한다. 관리를 위한 서비스 사업도 영위하고 있다
 
+{{< adsense-infeed >}}
+
 세부사업![](/images/Pasted%20image%2020250331171904.png)
 사업부는 크게 전력 사업부, 우주항공 사업부, 자동차 사업부, E모빌리티 사업부 등으로 구분된다. 전력 사업부는 크게 아메리카 부문과 글로벌 부문으로 구분된다. 각 사업부별 매출 비중은 FY 2024 기준 아메리카 46%, 글로벌 25.1%, 우주항공 15%, 자동차 11.2%, E모빌리티 2.7% 등으로 구성돼 있다.
-
 전력 사업부는 주로 전기 부품, 산업용 부품, 배전, 주거용 제품 등 전력 효율성을 강화하는 다양한 제품과 솔루션을 판매한다. 
 
 우주항공 사업부는 산업 및 군사용에 쓰이는 연료, 유압 및 공압 시스템을 제공한다. 
-
 자동차 사업부는 자동차, 경트럭 및 상용차의 배기가스 감축, 연비
 및 안정성과 성능 개선을 위한 파워트레인 시스템과 핵심 부품을 설계하고 만든다. 
 
@@ -35,7 +36,6 @@ E모빌리티 사업부는 이튼의 가장 작은 사업부로 전기차 등에
 #### 영위사업
 
 Eaton은 전력 관리 회사로, 전기, 유압, 항공우주, 차량 및 eMobility 부문에서 다양한 제품과 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
-
 - **전기 부문**: 전기 부품, 산업용 부품, 전력 분배 및 조립, 주거용 제품, 단상 및 삼상 전력 품질 및 연결 제품, 배선 장치, 회로 보호 제품, 유틸리티 전력 분배 제품, 전력 신뢰성 장비 및 서비스.
 	-[매년 강해지는 배전산업의 메가 트렌드](content/산업-테마공부/02.산업/전력산업/Report/2024/7.1_전력에%20묻는%20네%20개의%20질문들.pdf#page=27&selection=6,0,14,3&color=yellow))
 	-[잠재 프로젝트의 규모는 성장의 가시성을 높이는 주요 요인](content/산업-테마공부/02.산업/전력산업/Report/2024/7.1_전력에%20묻는%20네%20개의%20질문들.pdf#page=28&selection=6,0,20,2&color=yellow))
@@ -45,10 +45,14 @@ Eaton은 전력 관리 회사로, 전기, 유압, 항공우주, 차량 및 eMobi
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 전기 및 전자 제품 제조업체, 항공우주 및 방위 산업, 자동차 제조업체.
     - **핵심 기업**: Boeing (US, [BA](/company-analysis/ba/)), Lockheed Martin (US, [LMT](/company-analysis/lmt/)), General Motors (US, [GM](/company-analysis/gm/))
 - **후방산업**: 원자재 공급업체, 전자 부품 제조업체, 금속 및 플라스틱 가공업체.
     - **핵심 기업**: Nucor (US, [NUE](/company-analysis/nue/)), Texas Instruments (US, [TXN](/company-analysis/txn/)), Dow Inc. (US, [DOW](/company-analysis/dow/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -60,7 +64,6 @@ Eaton은 전력 관리 회사로, 전기, 유압, 항공우주, 차량 및 eMobi
     - **대표 회사**: Grainger (US, GWW), Fastenal (US, FAST 1)
 - **소비자**: 최종 사용자에게 제품 제공.
     - **대표 회사**: Boeing (US, [BA](/company-analysis/ba/)), General Motors (US, [GM](/company-analysis/gm/))
-
 #### 경쟁업체
 
 - **Cummins (US, [CMI](/company-analysis/cmi/))**: 엔진 및 전력 생성 장비.

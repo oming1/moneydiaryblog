@@ -1,14 +1,15 @@
 ﻿---
 title: "HOOD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 413
----<div style="display:none">
+weight: 414
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #로비후드 #핀테크 #무수료거래 #온라인브로커리지 #리테일투자 #모바일거래 #암호화폐거래 #주식거래 #투자앱 #디지털금융 #밀레니얼투자 #게임화 #부분주식 #24시간거래 #PFOF #페이먼트포오더플로우 #디지털자산 #핀테크플랫폼 #금융서비스 #정보기술 #테크놀로지 #모바일퍼스트
 
@@ -20,7 +21,6 @@ weight: 413
 		 • 매출: $1.01B (예상: $920.41M) 🟢 전년 대비 +115% 증가
 		 • 조정 EBITDA: $613M (예상: $444.23M) 🟢 전년 대비 +300% 증가
 		 • Robinhood Gold 구독자: 2.6M 전년 대비 +86% 증가
-		
 		Q4 부문별 매출 성과
 		 • 거래 기반 수익 (Transaction-Based Revenue): $672M (예상: $535.82M) 🟢 전년 대비 +200% 증가
 		 • 암호화폐 거래 (Crypto Trading): $358M (예상: $320.25M) 🟢 전년 대비 +700% 증가
@@ -28,7 +28,9 @@ weight: 413
 		 • 주식 거래 (Equities Trading): $61M (예상: $55.15M) 🟢 전년 대비 +144% 증가
 		 • 순이자 수익 (Net Interest Revenue): $296M (예상: $283.32M) 🟢 전년 대비 +25% 증가
 		 • 기타 수익 (Other Revenue): $46M 전년 대비 +31% 증가
-		
+
+{{< adsense-infeed >}}
+
 		기타 핵심 지표
 		 • 순 예치금 (Net Deposits): $16.1B (사상 최고, 연간 +42% 성장률)
 		 • 평균 사용자당 수익 (ARPU): $164 전년 대비 +102% 증가
@@ -50,7 +52,9 @@ weight: 413
 		경영진 코멘트
 		
 		🔸 블라드 테네프(Vlad Tenev), CEO
-		
+
+{{< adsense-infeed >}}
+
 		 “2024년은 사상 최대 실적을 기록한 해였습니다. 매출, 순 예치금, 수익성 모두 신기록을 경신했으며, Robinhood를 글로벌 금융 거래의 중심 플랫폼으로 만들기 위한 기회가 무궁무진합니다.”
 		
 		🔸 제이슨 워닉(Jason Warnick), CFO
@@ -119,7 +123,6 @@ Robinhood의 비즈니스 모델은 무수료 거래를 통해 고객을 유치�
 - 24시간 거래 서비스 (미국 시간 외 거래)
 - 부분 주식 거래 (Fractional Shares)
 - 리테일 투자자 중심의 게임화된 UI/UX
-
 핵심 경쟁력은 모바일 퍼스트 플랫폼, 무수료 거래 모델, 젊은 고객층 확보, 혁신적인 서비스 개발 능력입니다.
 
 ---
@@ -173,7 +176,6 @@ Robinhood은 제조업체가 아닌 핀테크 서비스 기업으로 전통적�
 - 시장 조성자(Market Maker)와의 관계
 - 은행 및 금융 기관과의 파트너십
 - 규제 기관과의 협력
-
 **5. 데이터 분석:**
 
 - 사용자 행동 분석
@@ -201,7 +203,6 @@ Robinhood은 제조업체가 아닌 핀테크 서비스 기업으로 전통적�
 ---
 
 ## 밸류체인
-
 **기술 개발 단계:** 플랫폼 기술 개발 및 유지
 
 - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)) - 클라우드 인프라 서비스

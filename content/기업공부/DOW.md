@@ -1,14 +1,15 @@
 ﻿---
 title: "DOW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 289
----<div style="display:none">
+weight: 290
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #화학 #소재과학 #플라스틱 #산업용화학제품 #포장솔루션 #다각화 #원자재 #소재 #폴리에틸렌 #기능성폴리머 #폴리우레탄 #실리콘 #아크릴 
 
@@ -40,14 +41,14 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 6. 강력한 브랜드 인지도
 
 ## 전방/후방산업
-
 1. 후방산업:
-    
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
     - 건설: Lennar(US, [LEN](/company-analysis/len/))
@@ -58,6 +59,8 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 2. 생산: Dow Inc. (주요 사업 영역)
 3. 유통: Brenntag(DE, BNR) - 화학제품 유통
 4. 최종 소비자: Procter & Gamble(US, [PG](/company-analysis/pg/)) - 소비재 제조
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -80,7 +83,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 2. 유럽, 중동, 아프리카 (2023년 매출 비중: 약 30%)
 3. 아시아 태평양 (2023년 매출 비중: 약 25%)
 4. 라틴 아메리카 (2023년 매출 비중: 약 10%)
-
 ## 경쟁업체
 
 1. BASF(DE, BAS) - 종합 화학제품
@@ -88,8 +90,9 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 3. DuPont(US, [DD](/company-analysis/dd/)) - 특수 화학제품
 4. Covestro(DE, 1COV) - 폴리머 소재
 5. Huntsman(US, [HUN](/company-analysis/hun/)) - 특수 화학제품
-
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Dow는 세계 3대 화학기업 중 하나로 평가받고 있습니다.
 

@@ -1,14 +1,15 @@
 ﻿---
 title: "NEM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-25T13:43:30+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 609
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 610
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-25T04:43:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #원자재 #기초소재 #금 #광산 #금광 #구리 #아연 #은 #납 
 
@@ -20,7 +21,6 @@ weight: 609
 **영위사업**: Newmont Corporation은 주로 [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/), [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [은](/industry-study/은/), [아연](/industry-study/아연/), [납](/industry-study/납/) 등의 금속을 채굴 및 생산하는 글로벌 광산 회사입니다.
 
 **전방/후방산업**:
-
 - **전방산업**:
     - **주얼리 제조**: 금과 은을 사용한 주얼리 제품 제조. 예: 티파니 (미국, TIF).
     - **전자제품 제조**: 구리와 금을 사용한 전자제품 제조. 예: 애플 (미국, [AAPL](/company-analysis/aapl/)).
@@ -28,15 +28,20 @@ weight: 609
 - **후방산업**:
     - **광산 장비 제조**: 광산 채굴에 필요한 장비 공급. 예: 캐터필러 (미국, [CAT](/company-analysis/cat/)).
     - **화학 제품 제조**: 광산 채굴에 필요한 화학 제품 공급. 예: 듀폰 (미국, [DD](/company-analysis/dd/)).
-
 **밸류체인**:
+
+{{< adsense-infeed >}}
 
 - **탐사 및 개발**: 새로운 광산 자원 탐사 및 개발. 대표 회사: Newmont Exploration.
 - **채굴 및 생산**: 금속 자원의 채굴 및 생산. 대표 회사: Newmont Mining.
 - **정제 및 가공**: 채굴된 금속의 정제 및 가공. 대표 회사: Newmont Refining.
 - **판매 및 유통**: 글로벌 시장에서의 금속 판매 및 유통. 대표 회사: Newmont Global Markets.
 
+{{< adsense-infeed >}}
+
 **주요제품**:
+
+{{< adsense-infeed >}}
 
 - **금**: 주로 주얼리, 투자, 산업용으로 사용.
 - **구리**: 전기 및 전자 제품, 건설 자재로 사용.
@@ -52,13 +57,11 @@ weight: 609
 - 가나: 주요 금광 운영 국가.
 
 **경쟁업체**:
-
 - **바릭 골드 (캐나다, ABX)**: 금광업.
 - **앵글로골드 아샨티 (남아프리카공화국, AU)**: 금광업.
 - **뉴크레스트 마이닝 (호주, NCM)**: 금광업.
 
 **산업 내 글로벌 시장 점유율**: Newmont Corporation은 글로벌 금광업 시장에서 약 6%의 점유율을 차지하고 있습니다 (2023년 기준).
-
 **최근 3년 내 주요 이슈**:
 
 - **뉴크레스트 인수**: Newmont는 2023년에 뉴크레스트 마이닝을 인수하여 포트폴리오를 확장했습니다 (2023).

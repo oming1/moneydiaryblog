@@ -1,14 +1,15 @@
 ﻿---
 title: "AJG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 46
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #금융 #보험 
 
@@ -26,6 +27,8 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
   
 위험 관리 부문은 영리, 비영리, 캡티브 및 공공 부문 단체와 재산/상해 보험을 자체 보험에 가입하거나 인수 기업이 제공하는 청구 서비스 대신 제3자 청구 관리 조직을 이용하기로 선택한 다양한 기타 조직을 대상으로 계약 청구 결제, 청구 관리, 손실 관리 서비스 및 위험 관리 컨설팅을 제공한다.
 
+{{< adsense-infeed >}}
+
 1. 보험 중개: 기업 및 개인 고객을 위한 종합 보험 솔루션 제공
 2. 리스크 관리: 기업의 위험 평가, 분석 및 관리 서비스
 3. 컨설팅: 보험 및 리스크 관련 전문 자문 서비스
@@ -38,12 +41,10 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 회사는 중형 시장 기업에 중점을 두고 있으며, 52,000명 이상의 직원을 고용하고 있습니다. 지속적인 인수 전략을 통해 사업 영역을 확장하고 있으며, 최근에는 Shepard Insurance Group과 Risk International 등을 인수했습니다.
 
 ## 전방/후방산업
-
 ## 전방산업
 
 - 기업 보험 수요 산업: 제조업, 서비스업, 금융업 등 모든 산업 분야
 - 개인 보험 수요 산업: 부동산, 자동차, 의료 등
-
 ## 후방산업
 
 - 보험 상품 공급 산업: AIG (US, [AIG](/company-analysis/aig/)), Chubb (US, [CB](/company-analysis/cb/)), Allianz (독일, ALV.DE)
@@ -65,7 +66,6 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 4. 제3자 청구 조정 서비스 (매출 비중 약 5%, 2023년 기준)
 
 ## 주요 판매국가
-
 미국, 호주, 캐나다, 뉴질랜드, 영국 등 전 세계 130여 개국에서 사업을 영위하고 있습니다. 국제 시장에서 약 36%의 매출을 올리고 있습니다.
 
 ## 경쟁업체
@@ -83,8 +83,9 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 
 ## 산업 내 글로벌 시장 점유율
 
-정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Arthur J. Gallagher & Co.는 세계 3대 보험 중개 회사 중 하나로 알려져 있습니다.
+{{< adsense-infeed >}}
 
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Arthur J. Gallagher & Co.는 세계 3대 보험 중개 회사 중 하나로 알려져 있습니다.
 ## 최근 3년 내 주요 이슈
 
 1. Shepard Insurance Group 인수로 고액 자산가 대상 서비스 확대 (2024년)

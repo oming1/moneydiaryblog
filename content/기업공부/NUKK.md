@@ -1,14 +1,15 @@
 ﻿---
 title: "NUKK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 635
----<div style="display:none">
+weight: 636
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #핀테크 #방산기술 #블록체인 #드론페이로드 #디지털결제 #트레이딩플랫폼 #방산자회사 #BladeRanger #아이언돔 #Star26 #국방계약 #항공우주 #드론기술 #전술장비 #트럼프아이언돔 #AI금융 #암호화폐 #리스크관리 #기관투자자 #B2B플랫폼 #군사기술 #사이버보안 #첨단기술 #혁신기업 #방산산업
 
@@ -49,7 +50,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 **지역별 매출 분포:** 주로 미국 외 지역에서 서비스 제공, 최근 미국 내 방산 시장 진출로 국내 매출 비중 확대 예상
 
 **성장 동력:** 방산 시장 확대, 드론 기술 수요 증가, 정부 방산 투자 확대, 핀테크 플랫폼 고도화
-
 ---
 
 ## 핵심 경쟁력
@@ -69,7 +69,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 ## 핵심 기술
 
 **블록체인 거래 기술:** 기관투자자용 고급 거래 플랫폼 기술, 실시간 리스크 관리 시스템 
-
 **드론 페이로드 시스템:** BladeRanger의 첨단 드론 탑재 장비 기술 
 
 **미사일 방어 기술:** Star 26을 통한 아이언 돔 관련 방어 시스템 기술 
@@ -118,7 +117,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 - Nukkleus Limited(UK, Nukkleus Limited): 소프트웨어 및 기술 개발 자회사
 
 **유통 및 판매 단계:**
-
 - Nukkleus Defense Technologies(US, Nukkleus Defense): 미국 내 방산 기술 유통
 
 ---
@@ -163,7 +161,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 - Apifiny(US, APIFINY) - 멀티 거래소 암호화폐 플랫폼
 
 **방산 분야:**
-
 - Raytheon Technologies(US, [RTX](/company-analysis/rtx/)) - 미사일 방어 시스템, 글로벌 1위
 - Lockheed Martin(US, [LMT](/company-analysis/lmt/)) - 방산 기술 통합, 아이언 돔 기술 보유
 - Northrop Grumman(US, [NOC](/company-analysis/noc/)) - 드론 및 방산 시스템
@@ -182,6 +179,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 
 **순이익:** 108.82M달러 (2024년, 일회성 요인 포함 추정) 
 
+{{< adsense-infeed >}}
+
 **주요 성장 동력:** 방산 시장 진출, 트럼프 정부 방산 정책, 드론 시장 확대 
 
 **위험 요소:** 극도의 주가 변동성, 소규모 매출, 신규 사업 불확실성, 정부 정책 의존성
@@ -194,6 +193,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 
 **2024년:** BladeRanger 독점 유통 계약 체결, 방산 자회사 설립, Star 26 지배 지분 인수, 1,000만 달러 자금 조달, Russell Microcap Index 편입 
 
+{{< adsense-infeed >}}
+
 **2023년:** NASDAQ 상장 폐지 위기 해결, 사업 구조 조정
 
 **2022년:** 역주식분할 실시, 사업 모델 재편
@@ -201,6 +202,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 ---
 
 ## 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 **내부자 지분:** 36.22% (높은 내부자 지분율) 
 
@@ -220,6 +223,8 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 - PPA - Invesco Aerospace & Defense ETF [PPA](/industry-study/ppa/)
 
 **소형주 ETF:**
+
+{{< adsense-infeed >}}
 
 - IWC - iShares Russell Microcap ETF IWC
 - VTI - Vanguard Total Stock Market ETF VTI

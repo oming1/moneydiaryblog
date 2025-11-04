@@ -1,14 +1,15 @@
 ﻿---
 title: "HTZ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 422
----<div style="display:none">
+weight: 423
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -22,7 +23,6 @@ weight: 422
 ## 영위사업
 
 Hertz Global Holdings, Inc.(NYSE: HTZ)는 세계적인 차량 렌탈 및 리스 회사입니다. 주요 브랜드로는 Hertz, Dollar, Thrifty가 있으며, 북미, 유럽, 라틴아메리카, 아프리카, 아시아, 호주 등 전 세계 150개 이상의 국가에서 사업을 영위하고 있습니다.주요 사업 부문은 다음과 같습니다:
-
 1. 미국 렌터카(U.S. RAC): 미국 내 차량 렌탈 및 관련 서비스
 2. 국제 렌터카(International RAC): 미국 외 지역의 차량 렌탈 및 리스 서비스
 3. 기타 사업(All Other Operations): 미국과 캐나다의 통합 차량 리스 및 플릿 관리 솔루션
@@ -45,7 +45,6 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 이러한 경쟁력을 바탕으로 Hertz는 변화하는 모빌리티 시장에서 지속적인 성장을 추구하고 있습니다.
 
 ## 전방/후방산업
-
 전방산업:
 
 - 여행 및 관광: Expedia(US, [EXPE](/company-analysis/expe/)), Booking Holdings(US, [BKNG](/company-analysis/bkng/))
@@ -72,10 +71,14 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 단기 차량 렌탈: 개인 및 기업 고객 대상, 매출의 약 70% (2024년 기준)
 - 장기 리스: 기업 고객 대상 플릿 관리 서비스, 매출의 약 15% (2024년 기준)
 - 중고차 판매: Hertz Car Sales를 통한 퇴역 렌탈 차량 판매, 매출의 약 10% (2024년 기준)
 - 부가 서비스: 보험, GPS 렌탈 등, 매출의 약 5% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 고객
 
@@ -87,8 +90,9 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요 판매국가
 
-미국, 영국, 독일, 프랑스, 스페인, 이탈리아, 호주, 캐나다, 중국, 일본
+{{< adsense-infeed >}}
 
+미국, 영국, 독일, 프랑스, 스페인, 이탈리아, 호주, 캐나다, 중국, 일본
 ## 경쟁업체
 
 - Enterprise Holdings (Enterprise, National, Alamo 브랜드)
@@ -106,8 +110,9 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 
 Hertz는 2024년 기준 글로벌 렌터카 시장에서 약 16%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 소폭 하락 추세를 보이고 있으나, 여전히 업계 선두권을 유지하고 있습니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - Tesla 전기차 플릿 축소 및 매각 결정으로 인한 대규모 손실 발생 (2024년)
 - 새로운 CEO 및 경영진 영입을 통한 수익성 개선 노력 (2023년)
 - 디지털 플랫폼 강화 및 고객 경험 개선 이니셔티브 추진 (2022년)
@@ -115,7 +120,6 @@ Hertz는 2024년 기준 글로벌 렌터카 시장에서 약 16%의 점유율을
 - 차량 공유 서비스 업체들과의 전략적 파트너십 확대 (2022년)
 
 ## 주요주주(지분율)
-
 - Knighthead Capital Management (59.30%)
 - BlackRock, Inc. (6.40%)
 - Vanguard Group Inc (4.57%)

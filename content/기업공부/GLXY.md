@@ -1,14 +1,15 @@
 ﻿---
 title: "GLXY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 380
----<div style="display:none">
+weight: 381
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #암호화폐 #비트코인 #디지털자산 #AI데이터센터 #기관투자자 #자산운용 #트레이딩 #스테이킹 #마이닝 #블록체인 #핀테크 #마이크노보그라츠 #DeFi #ETF #대체투자 #고성능컴퓨팅 #코어웨이브 
 
@@ -75,6 +76,8 @@ Galaxy Digital의 비즈니스 모델은 디지털자산 생태계와 AI 인프�
 
 핵심 경쟁력은 기관투자자 네트워크, 규제 준수 역량, 기술 플랫폼 통합, 다각화된 수익구조입니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 핵심 경쟁력
@@ -86,6 +89,8 @@ Galaxy Digital의 핵심 경쟁력은 디지털자산 분야의 선구자적 지
 기술 플랫폼의 확장성도 주목할 만합니다. 자체 개발한 GK8 by Galaxy 커스터디 솔루션은 기관 수준의 보안을 제공하며, Fireblocks, Zodia Custody 등과의 파트너십을 통해 글로벌 기관투자자들이 안전하게 디지털자산을 관리할 수 있도록 지원합니다.
 
 AI 데이터센터 전환 전략은 특히 혁신적입니다. 비트코인 마이닝에서 AI 인프라로의 전환을 통해 장기적이고 안정적인 수익원을 확보했습니다. CoreWeave와의 15년 계약은 향후 45억 달러의 수익을 보장하며, 이는 암호화폐 시장 변동성에 대한 헤지 역할을 합니다.
+
+{{< adsense-infeed >}}
 
 규제 준수와 컴플라이언스 역량도 핵심 경쟁력입니다. 미국 SEC, CFTC, FinCEN 등 주요 규제기관과의 협력을 통해 기관투자자들이 요구하는 규제 준수 수준을 만족시키고 있습니다. 이는 많은 경쟁사들이 갖추지 못한 차별화 요소입니다.
 
@@ -144,9 +149,7 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 ---
 
 ## 밸류체인
-
 **디지털자산 서비스 단계:** 기관투자자 대상 포괄적 디지털자산 서비스
-
 - Coinbase(US, [COIN](/company-analysis/coin/)) - 암호화폐 거래소 및 커스터디 서비스
 - Binance(US, Binance) - 글로벌 암호화폐 거래소
 - Kraken(US, Kraken) - 기관투자자 대상 거래 서비스
@@ -179,8 +182,9 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 **스테이킹 서비스:** 블록체인 네트워크 검증자 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 Coinbase, Kraken
 
 **AI 데이터센터:** 고성능컴퓨팅 인프라 임대 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 CoreWeave, AWS
-
 **투자은행 서비스:** M&A 자문 및 자본시장 서비스, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 Goldman Sachs, Morgan Stanley
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -207,7 +211,6 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 ---
 
 ## 주요고객
-
 - CoreWeave(US, CoreWeave) - AI 클라우드 서비스 업체, Helios 데이터센터 15년 임대 고객
 - BlackRock(US, [BLK](/company-analysis/blk/)) - 세계 최대 자산운용사, 비트코인 ETF 파트너
 - Fidelity(US, FNF) - 대형 자산운용사, 디지털자산 서비스 고객
@@ -228,6 +231,8 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국이 최대 시장이며, 구체적인 국가별 매출 비중은 다음과 같습니다:
 
 - 미국: 약 75% (2024년 기준) - 주요 기관투자자 및 AI 데이터센터 고객
@@ -236,7 +241,6 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 - 아시아: 약 5% (2024년 기준) - 아시아 태평양 기관투자자
 
 최근 3년간 미국 시장 집중도가 높아지고 있으며, 특히 AI 데이터센터 사업을 통해 미국 내 매출 비중이 증가하고 있습니다.
-
 ---
 
 ## 경쟁업체

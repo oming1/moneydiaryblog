@@ -1,14 +1,15 @@
 ﻿---
 title: "Impossible Foods"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 441
----<div style="display:none">
+weight: 442
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #포장식품 #대체육 #소비자방어주
 
@@ -44,30 +45,35 @@ Impossible Foods, Inc.는 2011년에 설립된 미국의 식품 회사로, 식�
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 식물 기반 고기 대체품 개발 및 판매
 - 다양한 식물성 고기 제품 (버거, 소시지, 고기볼 등) 제공
 - 레스토랑 및 소매업체와의 파트너십을 통한 유통
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
-
 - 역할: 식물성 고기 제품 구매
 - 주요 고객: 레스토랑, 슈퍼마켓, 소비자
+
+{{< adsense-infeed >}}
 
 후방산업:
 
 - 역할: 원자재 공급
 - 농업 공급업체: 대두 및 기타 식물성 원료 공급업체
-
 ## 주요제품
 
 - Impossible Burger (식물성 버거)
 - Impossible Sausage (식물성 소시지)
 - Impossible Meatballs (식물성 고기볼)
 - Impossible Chicken (식물성 치킨 제품)
-
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Impossible Foods는 주로 미국에서 운영되며, 최근에는 아시아 및 유럽 시장으로도 확장하고 있습니다.
 

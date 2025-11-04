@@ -1,14 +1,15 @@
 ﻿---
 title: "WFC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 960
----<div style="display:none">
+weight: 961
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #다각화된은행 #금융 #투자은행 #모기지 #대출
 
@@ -18,7 +19,6 @@ weight: 960
 - **Industry(산업)**: Banks - Diversified(다각화된 은행, 투자은행)
 
 ## 영위 사업
-
 Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매 은행 서비스, 자산 관리, 모기지 대출 및 투자 서비스를 제공합니다. 고객층은 개인, 기업 및 기관으로 다양합니다.
 
 ## 전방/후방 산업
@@ -28,7 +28,9 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
     - **핵심 산업**: 소비자 금융 및 기업 대출
     - **역할**: 최종 소비자에게 금융 서비스 제공
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - Bank of America (미국, [BAC](/company-analysis/bac/))
 
@@ -42,15 +44,15 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 
 ## 밸류체인
-
 - **소매 은행 서비스**:
     
     - 개인 및 기업 고객을 위한 예금 계좌, 대출 및 카드 상품을 제공합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - Bank of America (미국, [BAC](/company-analysis/bac/)) - 소매 금융 서비스
         - Citibank (미국, [C](/company-analysis/c/)) - 글로벌 금융 서비스
-
 - **자산 관리**:
     
     - 고액 자산가 및 기관 투자자를 위한 투자 관리 서비스를 제공합니다.
@@ -60,7 +62,6 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
         - Fidelity Investments (미국, 비상장) - 종합 투자 서비스
 
 ## 주요 제품
-
 - **모기지 대출**: 주택 구매를 위한 대출 상품으로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
@@ -68,8 +69,9 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 Wells Fargo는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
 
@@ -81,6 +83,8 @@ Wells Fargo는 미국을 주요 시장으로 하며, 유럽과 아시아에서�
 ## 산업 내 글로벌 시장 점유율
 
 Wells Fargo는 미국 내 은행 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

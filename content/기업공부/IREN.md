@@ -1,14 +1,15 @@
 ﻿---
 title: "IREN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 459
----<div style="display:none">
+weight: 460
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #비트코인마이닝 #암호화폐채굴 #재생에너지 #지속가능채굴 #AI클라우드서비스 #데이터센터 #GPU클러스터 #NVIDIA #블록체인인프라 #해시레이트 #디지털자산 #ASIC마이너 #전력효율성 #크립토마이닝 #친환경채굴 #하이퍼스케일 #HPC #머신러닝 #풀사이드 #북미채굴 #엑사해시 #그린에너지 #암호화폐인프라 #AI인프라 #클라우드컴퓨팅 #블랙웰GPU
 
@@ -18,7 +19,6 @@ weight: 459
 
 **섹터(Sector):** Technology - 테크  
 **산업(Industry):** Data Processing & Outsourced Services - 데이터 처리 및 아웃소싱 서비스
-
 ---
 
 ## 4. 영위사업 (10줄 이상 상세 서술)
@@ -46,9 +46,7 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 
 - 비트코인 네트워크: 채굴 보상을 통한 비트코인 획득 후 현금 전환
 - AI 클라우드 고객: Poolside 등 AI 스타트업 및 기업 고객
-
 **지역별 매출 분포:**
-
 - 북미 지역: 100% (주요 운영 기지는 텍사스, 브리티시컬럼비아)
 
 **성장 동력 및 수익성 개선 요인:**
@@ -72,6 +70,8 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 
 **자체 인프라 소유 및 운영**  
 데이터센터, 전력 인프라, 냉각 시설 등을 자체 소유하여 운영 통제권과 비용 효율성을 확보하고 있습니다.
+
+{{< adsense-infeed >}}
 
 **확장성과 운영 효율성**  
 체계적인 용량 확장 계획과 높은 가동률(거의 100% 업타임)을 통해 규모의 경제를 실현하고 있습니다.
@@ -101,6 +101,8 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 **3단계: 운영 시스템 구축**  
 모니터링 시스템, 보안 시스템, 원격 관리 시스템 구축
 
+{{< adsense-infeed >}}
+
 **4단계: 상업적 운영 개시**  
 채굴 풀 연결, AI 클라우드 서비스 런칭, 고객 온보딩
 
@@ -110,12 +112,13 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 
 **전방산업 (서비스 이용 고객):**
 
+{{< adsense-infeed >}}
+
 - 비트코인 네트워크: 블록체인 보안 및 거래 처리 서비스
 - AI 스타트업 및 기업: Poolside(US, Poolside) 등 머신러닝 서비스 고객
 - 연구기관: 고성능 컴퓨팅이 필요한 연구 프로젝트
 
 **후방산업 (공급업체 및 서비스 제공업체):**
-
 - ASIC 제조업체: Bitmain(CN, Bitmain) - Antminer 시리즈 공급
 - GPU 제조업체: NVIDIA(US, [NVDA](/company-analysis/nvda/)) - H100, H200, 블랙웰 GPU 공급
 - 전력 공급업체: 텍사스 및 캐나다 지역 재생에너지 전력 공급업체
@@ -165,6 +168,8 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 ## 13. 주요 고객 
 
 **비트코인 네트워크**: 전체 비트코인 생태계 (분산화된 고객)
+
+{{< adsense-infeed >}}
 
 **AI 클라우드 고객**:
 
@@ -239,7 +244,6 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 - BITQ - Amplify Transformational Data Sharing ETF [BITQ](/company-analysis/bitq/)
 
 **섹터 관련 ETF:**
-
 - BLOK - Amplify Transformational Data Sharing ETF BLOK
 - XLK - Technology Select Sector SPDR Fund XLK
 

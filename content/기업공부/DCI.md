@@ -1,14 +1,15 @@
 ﻿---
 title: "DCI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 262
----<div style="display:none">
+weight: 263
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #도날드슨 #DCI #필트레이션 #산업필터 #모바일솔루션 #애프터마켓 #나노파이버 #에어필터 #유체필터 #분진집진기 #먼지집진 #가스터빈흡입필터 #프로세스필터 #압축공기필터 #클린룸 #반도체미세먼지 #바이오프로세싱 #생명과학필터 #수명주기비용 #OEM공급 #교체부품 #소모품매출 #글로벌제조 #공급망다변화 #원자재비용 #규제순응 #환경규제 #에너지효율 #신흥시장수요
 
@@ -57,7 +58,6 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
     - Mobile Solutions: 약 45~55%
     - Industrial Solutions: 약 35~45%
     - Life Sciences/고청정·프로세스: 약 5~10%
-
 - 고객 유형별 수익 구조
     - OEM(상용차·오프로드·농건·공작기계·터빈 등) 초기 탑재 매출
     - 애프터마켓(장비 보유자·유통) 교체 카트리지 반복 매출
@@ -95,7 +95,6 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 ---
 
 ### 제조 공정
-
 1단계: 필터 미디어·지지체·접착·하우징 사양 설계  
 2단계: 미디어 코팅/플리팅·절단·성형, 엔드캡·가스켓·접착 조립  
 3단계: 하우징/프레임 금속 가공·도장 및 시스템 어셈블리  
@@ -146,7 +145,6 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 - 글로벌 중장비·농기계·트럭 OEM 및 1·2차 부품사
 - 일반 제조·반도체·배터리·식음료/제약 공장 운영자
 - 발전사·정비업체, 대형 유통 딜러/서비스 네트워크
-
 ---
 
 ### 주요 판매 국가
@@ -157,13 +155,14 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Atmus Filtration Technologies(US, ATMU) — 내연기관·모바일 필터
 - Parker-Hannifin(US, PH) — 공정/유압·공압 필터
 - Danaher(Pall)(US, [DHR](/company-analysis/dhr/)) — 고청정/생명과학
 - 3M(US, [MMM](/company-analysis/mmm/)) — 분리·정제 솔루션 일부
 - MANN+HUMMEL, Camfil, Freudenberg(비상장) — 공조·산업/클린룸
 - Nederman(SE, OTC) — 집진 시스템
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -184,6 +183,8 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 ---
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 공급망/운임 급등 구간 이후 가격·믹스 개선과 비용 정상화 진행.
 - 고청정·생명과학 및 전자/배터리 공정 관련 투자 확대, 포트폴리오 보강.

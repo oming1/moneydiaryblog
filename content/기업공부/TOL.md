@@ -1,14 +1,15 @@
 ﻿---
 title: "TOL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 878
----<div style="display:none">
+weight: 879
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,11 +21,9 @@ weight: 878
 산업: 주택건설
 
 ## 영위사업
-
 Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 고급 단독주택 및 타운하우스 건설
-    
 2. 도시형 고층 콘도미니엄 개발 (Toll Brothers City Living 브랜드)
     
 3. 액티브 어덜트 및 은퇴자 커뮤니티 개발
@@ -63,6 +62,8 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
     
 - 가전제품: 고급 주택용 가전 (Whirlpool(US, [WHR](/company-analysis/whr/)), LG Electronics(KR, 066570))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 토지 확보: Toll Brothers 토지 개발팀, 부동산 중개업체
@@ -78,7 +79,6 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
 6. 금융 서비스: Toll Brothers Mortgage Company
     
 7. 애프터서비스: 고객 서비스팀, 보증 서비스
-
 ## 주요제품
 
 1. 럭셔리 단독주택: 고소득층 대상 맞춤형 주택 (2024년 매출의 약 60%)
@@ -116,9 +116,13 @@ Toll Brothers는 미국 럭셔리 주택 시장에서 선도적인 위치를 차
 2. 밀레니얼 세대 겨냥 첫 주택 구매자용 럭셔리 라인 출시 (2023년)
     
 3. 도시형 임대 아파트 사업 Toll Brothers Apartment Living 확장 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 4. ESG 경영 강화: 지속가능한 건설 및 에너지 효율 주택 비중 확대 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 5. 평균 주택 판매 가격 $976,900 달성 (2024년)
 
 ## 주요주주(지분율)
@@ -126,7 +130,6 @@ Toll Brothers는 미국 럭셔리 주택 시장에서 선도적인 위치를 차
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
-    
 3. State Street Corporation (4.47%)
 
 ## 관련 ETF

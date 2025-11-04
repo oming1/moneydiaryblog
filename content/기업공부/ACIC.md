@@ -1,14 +1,15 @@
 ﻿---
 title: "ACIC"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-10-12T00:23:39+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 19
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-11T15:23:39Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #금융 #보험 #재보험 #허리케인
 
@@ -30,8 +31,9 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
     - **핵심 산업:** 재보험업은 ACIC에 재보험 상품을 제공하여 리스크를 분산시킵니다.
     - **관련 기업:** Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
 
-### 밸류체인
+{{< adsense-infeed >}}
 
+### 밸류체인
 - **보험 인수:**
     - **설명:** 상업용 주거용 재산 및 상해 보험을 인수
     - **대표회사:** American Coastal Insurance Corp (미국, [ACIC](/company-analysis/acic/)), Allstate (미국, ALL)
@@ -43,11 +45,11 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
     - **대표회사:** Sedgwick (미국, SEDGWICK), Gallagher Bassett (미국, GB)
 
 ### 주요제품
-
 - **상업용 주거용 재산 보험:** 콘도미니엄 및 주택 소유자 협회 대상
 - **상해 보험:** 재산 손실 및 상해에 대한 보상 제공
-
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 
@@ -57,14 +59,17 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 - **State Farm (미국, STATEFARM):** 상업용 주거용 재산 보험, 상해 보험
 - **Liberty Mutual (미국, LIBERTYMUTUAL):** 상업용 주거용 재산 보험, 상해 보험
 
+{{< adsense-infeed >}}
+
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **American Coastal Insurance Corp:** 약 1% (2023년 기준)
 - **Allstate:** 약 10% (2023년 기준)
 - **State Farm:** 약 8% (2023년 기준)
 
 ### 최근 3년 내 주요 이슈
-
 - **허리케인으로 인한 클레임 증가 (2021년)**
 - **재보험 비용 상승 (2022년)**
 - **플로리다 지역의 보험 규제 변화 (2023년)**

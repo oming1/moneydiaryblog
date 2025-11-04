@@ -1,14 +1,15 @@
 ﻿---
 title: "TSM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-08-29T21:47:48+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 889
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 890
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-29T12:47:48Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #테크 #반도체 #파운드리
 
@@ -24,7 +25,6 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 ## 전방/후방산업
 
 - **전방산업**:
-    
     - **핵심 산업 및 역할**: 전자 제품 제조 및 판매
     - **관련 기업**: Apple (US, [AAPL](/company-analysis/aapl/)), [Samsung](/industry-study/samsung/) (KR, 005930.KS)
     
@@ -36,7 +36,9 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 ## 밸류체인
 
 - **반도체 설계**: 고객의 반도체 설계를 기반으로 제조
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: NVIDIA (US, [NVDA](/company-analysis/nvda/)) - 그래픽 처리 장치 설계
     - **대표 회사**: AMD (US, [AMD](/company-analysis/amd/)) - 반도체 설계
     
@@ -44,12 +46,9 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
     
     - **대표 회사**: GlobalFoundries (US, [GFS](/company-analysis/gfs/)) - 반도체 제조
     - **대표 회사**: [Samsung](/industry-study/samsung/) (KR, 005930.KS) - 반도체 제조
-    
 - **판매 및 유통**: 고객에게 반도체 제품 공급
-    
     - **대표 회사**: Digi-Key Electronics (US, 비상장) - 전자 부품 유통
     - **대표 회사**: Mouser Electronics (US, 비상장) - 전자 부품 유통
-
 ## 주요제품
 
 - **고급 반도체 제품** (매출의 약 90%)
@@ -57,9 +56,12 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 
 ## 주요 판매국가
 
-TSMC는 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 일본, 유럽 등입니다.
+{{< adsense-infeed >}}
 
+TSMC는 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 일본, 유럽 등입니다.
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **[Samsung](/industry-study/samsung/) (KR, 005930.KS)** - 반도체 제조 및 설계
 - **GlobalFoundries (US, [GFS](/company-analysis/gfs/))** - 반도체 제조

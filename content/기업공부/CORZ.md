@@ -1,14 +1,15 @@
 ﻿---
 title: "CORZ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-17T21:13:59+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 220
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 221
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-17T12:13:59Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #소프트웨어 #정보기술 #비트코인
 ## 산업섹터
@@ -19,6 +20,8 @@ Industry: 소프트웨어 - 인프라(Software - Infrastructure)
 ## 영위사업
 
 Core Scientific, Inc.는 [비트코인](/company-analysis/비트코인/) 채굴과 고성능 컴퓨팅을 위한 디지털 인프라 분야의 선도 기업입니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 디지털 자산 자체 채굴: 자사 소유의 대규모 컴퓨터 장비("마이너")를 이용해 비트코인을 채굴합니다.
 2. 호스팅 서비스: 대규모 비트코인 채굴 및 고성능 컴퓨팅 고객을 위한 호스팅 서비스를 제공합니다.
@@ -46,7 +49,6 @@ Core Scientific, Inc.는 [비트코인](/company-analysis/비트코인/) 채굴�
 2. 인프라 구축: Core Scientific (US, [CORZ](/company-analysis/corz/))
 3. 채굴 및 호스팅 서비스: Core Scientific (US, [CORZ](/company-analysis/corz/))
 4. 거래 및 유통: Coinbase (US, [COIN](/company-analysis/coin/))
-
 ## 주요제품
 
 1. 비트코인 자체 채굴 서비스
@@ -56,7 +58,6 @@ Core Scientific, Inc.는 [비트코인](/company-analysis/비트코인/) 채굴�
 5. AI 관련 서비스
 
 ## 주요 판매국가
-
 Core Scientific은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
@@ -68,11 +69,11 @@ Core Scientific은 주로 미국 시장에서 사업을 영위하고 있습니�
 5. CleanSpark (US, [CLSK](/company-analysis/clsk/))
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Core Scientific은 북미에서 가장 큰 비트코인 채굴 및 호스팅 솔루션 제공업체 중 하나로 인식되고 있습니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 1. 2024년 2분기 재무 결과 발표, 총 수익 1억 4110만 달러 기록 (2024년)
 2. 고성능 컴퓨팅을 위한 382 메가와트 인프라 계약 체결 (2024년)
 3. 전환사채의 의무 전환으로 2억 6000만 달러의 부채 제거 (2024년)

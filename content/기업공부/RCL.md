@@ -1,14 +1,15 @@
 ﻿---
 title: "RCL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 731
----<div style="display:none">
+weight: 732
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #크루즈 #여행레저 #럭셔리여행 #로얄캐리비안 #크루즈선단 #해상여행 #원더오브더시즈 #아이콘오브더시즈 #크루즈관광 #해양리조트 #선박운영 #여행산업 #레저엔터테인먼트 #크루즈터미널 #국제크루즈 #승객운송 #해상휴양 #크루즈예약 #여행패키지 #크루즈포트 #해상엔터테인먼트 #크루즈브랜드 #셀레브리티크루즈 #실버시크루즈 #크루즈혁신 #해양레저 #크루즈기술
 
@@ -82,6 +83,8 @@ Royal Caribbean International(대중 시장), Celebrity Cruises(프리미엄), S
 
 ## 7. 핵심 기술
 
+{{< adsense-infeed >}}
+
 **선박 설계 및 엔지니어링 기술**: 대형 크루즈선 건조를 위한 고도의 해양 엔지니어링 기술과 승객 안전 및 편의를 위한 첨단 선박 설계 기술
 
 **운항 관리 시스템**: 글로벌 선단의 실시간 위치 추적, 연료 효율성 최적화, 항로 계획 등을 위한 통합 운항 관리 시스템
@@ -121,7 +124,6 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 13. 주요 고객
-
 **개인 고객**: 전 세계 크루즈 여행객 (연간 약 600만 명) **여행사 채널**:
 
 - Expedia Group(US, [EXPE](/company-analysis/expe/)) - 온라인 크루즈 예약 플랫폼
@@ -130,10 +132,14 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 - The Travel Agent Next Door - 2024년 캐나다 최우수 파트너
 - Cruise Planners - 2024년 프랜차이즈 최우수 파트너
 
+{{< adsense-infeed >}}
+
 **기업 고객**:
 
 - 인센티브 여행 주최 기업들
 - 컨퍼런스 및 이벤트 주최 기업들
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -148,7 +154,6 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 15. 경쟁업체
-
 **Carnival Corporation(US, [CCL](/company-analysis/ccl/))** - 세계 최대 크루즈 기업, 시장점유율 약 40% 
 **Norwegian Cruise Line Holdings(US, [NCLH](/company-analysis/nclh/))** - 3위 크루즈 기업, 시장점유율 약 15% 
 **MSC Cruises(CH, MSC Cruises)** - 유럽 최대 크루즈 기업, 시장점유율 약 12% 
@@ -181,7 +186,6 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 18. 최근 3년 내 주요 이슈
-
 **2024년**: Icon of the Seas 취항 (세계 최대 크루즈선), Q3 실적 시장 기대치 상회 
 **2023년**: 코로나19 완전 회복, 예약률 및 수익률 급증, 신규 선박 주문 재개 
 **2022년**: 팬데믹 이후 운항 정상화, Wonder of the Seas 취항

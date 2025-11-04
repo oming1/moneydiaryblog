@@ -1,14 +1,15 @@
 ﻿---
 title: "ZION"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 999
----<div style="display:none">
+weight: 1000
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -19,7 +20,6 @@ weight: 999
 섹터: 금융
 
 산업: 상업은행
-
 ## 영위사업
 
 Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시티에 본사를 둔 지역 상업은행(지역은행)입니다. 1873년 설립된 유서 깊은 은행으로, 미국 서부와 남서부(유타, 애리조나, 콜로라도, 텍사스, 네바다, 뉴멕시코, 아이다호, 오리건, 워싱턴 등)에서 400개 이상의 지점을 운영하고 있습니다
@@ -29,9 +29,10 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 1. **중소기업·상업 대출**: 운영자금, 장비, 건설 및 상업용 부동산 대출
     
 2. **예금 상품**: 기업·개인 대상 다양한 예금 계좌 및 현금 관리
-    
+
+{{< adsense-infeed >}}
+
 3. **부동산 금융**: 주택, 건설, 상업용 부동산 프로젝트 파이낸싱
-    
 4. **자산관리 및 신탁**: 투자 상품, 자산운용, 신탁 서비스
     
 5. **디지털 뱅킹**: 온라인/모바일 뱅킹 플랫폼 제공
@@ -47,7 +48,9 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 3. **포트폴리오 다각화**: 상업·중소기업 대출, 부동산, 자산관리 등 다양한 상품군
     
 4. **리스크 관리**: 보수적 자본운용, 엄격한 심사 및 건전성 유지
-    
+
+{{< adsense-infeed >}}
+
 5. **디지털 혁신**: 자체 모바일뱅킹, 온라인 계좌관리 등 첨단 서비스
 
 ## 전방/후방산업
@@ -65,7 +68,9 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 - **핀테크 솔루션**: Fiserv(US, FISV), Jack Henry & Associates(US, JKHY)
     
 - **IT인프라/데이터센터**: Cisco(US, [CSCO](/company-analysis/csco/)), Dell(US, [DELL](/company-analysis/dell/))
-    
+
+{{< adsense-infeed >}}
+
 - **금융정보/신용평가**: Equifax(US, EFX), Experian(UK, [EXPN](/company-analysis/expn/))
 
 ## 밸류체인
@@ -79,7 +84,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 4. **자산관리/신탁서비스**: 투자, 자산운용, 신탁
     
 5. **디지털·모바일 서비스 운영**: IT플랫폼, 고객지원
-
 ## 주요제품
 
 - **기업/중소기업 대출**: 운영자금·장비·부동산 대출 등(매출의 약 55%)
@@ -87,7 +91,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 - **예금 및 현금관리**: 다양한 예금 상품, 부가 금융서비스(매출의 약 30%)
     
 - **자산관리 및 신탁**: 투자상품, 신탁서비스(매출의 약 10%)
-    
 - **디지털뱅킹 및 기타 수수료**(매출의 약 5%)
 
 ## 주요 고객
@@ -103,7 +106,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 ## 주요 판매국가
 
 미국(서부·남서부 중심)
-
 ## 경쟁업체
 
 1. Western Alliance Bancorp(US, [WAL](/company-analysis/wal/)): 서부 지역상업은행
@@ -119,6 +121,8 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 ## 산업 내 글로벌 시장 점유율
 
 Zions Bancorp은 미국 내 지역 상업은행 시장에서 약 2~3% 점유율을 보유하고 있습니다. 유타/서부 지역특화 중소·상업은행 부문에서는 상위권입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

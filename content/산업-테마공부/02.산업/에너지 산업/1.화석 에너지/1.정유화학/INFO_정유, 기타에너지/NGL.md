@@ -1,14 +1,15 @@
 ﻿---
 title: "NGL"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #천연가스 #NGL
 
@@ -19,7 +20,11 @@ NGL에 대한 정보를 아래와 같이 정리해드리겠습니다.
 
 1. 천연가스 처리 과정에서 분리되며, 석유화학 산업의 원료나 연료로 사용됩니다.
 
+{{< adsense-infeed >}}
+
 1. 다른 용어와의 차이:
+
+{{< adsense-infeed >}}
 
 - [LNG](/industry-study/lng/)(Liquefied Natural Gas): 메탄이 주성분인 천연가스를 액화한 것
 - NGL: 천연가스에서 분리된 액체 탄화수소 혼합물

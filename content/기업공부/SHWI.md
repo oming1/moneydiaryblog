@@ -1,14 +1,15 @@
 ﻿---
 title: "SHWI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-28T21:02:15+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 791
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 792
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:02:15Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #바닥재 #가구 #소비자재량주 #타일 #카펫 #임의소비재
 
@@ -22,13 +23,14 @@ weight: 791
 Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양한 바닥재 제품의 설계, 제조 및 유통을 전문으로 하는 기업입니다.
 
 ## 전방/후방산업
-
 ## 후방산업
 
 - 원자재 공급: 나일론, 폴리에스터 등 합성섬유 (예: 인비스타(Koch Industries 자회사))
 - 화학 원료: 접착제, 코팅제 등 (예: 다우(US, [DOW](/company-analysis/dow/)))
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 건설 및 리모델링: 주거용 및 상업용 건물 시공 (예: DR 호튼(US, [DHI](/company-analysis/dhi/)), 레나(US, [LEN](/company-analysis/len/)))
 - 소매: 홈 임프루브먼트 및 바닥재 전문점 (예: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/)))
@@ -47,7 +49,11 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 타일 및 석재
 - 인조잔디
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - 미국 (주요 시장)
 - 호주
@@ -57,17 +63,16 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - 모호크 인더스트리즈(US, [MHK](/company-analysis/mhk/)) (바닥재 전문 기업)
 - 인터페이스(US, [TILE](/company-analysis/tile/)) (상업용 카펫 타일)
 - 타켓트(프랑스, [TKTT](/company-analysis/tktt/)) (비닐 바닥재, 카펫)
 - 암스트롱 월드 인더스트리즈(US, [AWI](/company-analysis/awi/)) (천장재, 바닥재)
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Shaw Industries Group은 북미 바닥재 시장에서 주요 기업 중 하나로 평가받고 있습니다.
-
 ## 최근 3년 내 주요 이슈
-
 - 지속가능성 이니셔티브 강화 및 재활용 소재 사용 확대 (2022)
 - 디지털 혁신 및 고객 경험 개선을 위한 기술 투자 (2023)
 - COVID-19 팬데믹 이후 주거용 바닥재 수요 증가에 대응한 생산 능력 확대 (2021-2023)

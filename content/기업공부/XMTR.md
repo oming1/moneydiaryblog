@@ -1,14 +1,15 @@
 ﻿---
 title: "XMTR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 985
----<div style="display:none">
+weight: 986
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #Xometry #XMTR #온디맨드제조 #AI마켓플레이스 #맞춤제조 #CNC가공 #3D프린팅 #사출성형 #판금가공 #Thomas산업소싱 #즉시견적 #머신러닝 #디지털제조 #공급업체네트워크 #제조업디지털화 #Protolabs경쟁 #글로벌확장 #유럽아시아 #기업고객 #제조플랫폼 #산업혁신 #스마트제조 #B2B마켓플레이스 #제조업혁신
 
@@ -38,7 +39,6 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 ---
 
 ## 비즈니스 모델 (수익 모델)
-
 **수익 구조 세분화:**
 
 - **마켓플레이스 사업**: 전체 매출의 약 90% 차지 (2025년 2분기 기준)
@@ -51,7 +51,6 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
     - 약 50만 개 등록 공급업체 중 1% 광고주 침투율
 
 **지역별 매출 분포 (2025년 2분기 기준):**
-
 - 북미: 약 85% (미국 중심의 성숙 시장)
 - 유럽: 약 12% (빠른 성장세, 31% YoY 성장)
 - 아시아태평양: 약 3% (초기 진출 단계)
@@ -89,6 +88,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 
 **AI 기반 즉시 견적 엔진:** 딥러닝과 컴퓨터 비전 기술을 활용하여 업로드된 3D 모델을 실시간으로 분석하고, 복잡한 부품의 제조 비용과 리드타임을 정확하게 예측하는 시스템입니다.
 
+{{< adsense-infeed >}}
+
 **머신러닝 매칭 알고리즘:** 구매자의 요구사항과 공급업체의 역량을 최적으로 매칭하는 알고리즘으로, 위치, 용량, 전문성, 품질 이력 등 다양한 변수를 고려하여 최적의 제조업체를 선별합니다.
 
 **예측 분석 기술:** 과거 거래 데이터와 시장 동향을 분석하여 수요 예측, 가격 최적화, 공급업체 성과 예측 등을 수행하는 고도화된 분석 플랫폼을 운영합니다.
@@ -116,7 +117,6 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 - **항공우주:** Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)) - 항공기 부품 및 시스템
 - **자동차:** Ford(US, [F](/company-analysis/f/)), General Motors(US, [GM](/company-analysis/gm/)) - 자동차 부품 및 프로토타입
 - **의료기기:** Medtronic(US, [MDT](/company-analysis/mdt/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) - 의료용 정밀 부품
-
 **후방산업 (공급업체 산업):**
 
 - **소규모 제조업체:** 전국의 CNC 가공업체, 3D 프린팅 서비스업체 등
@@ -152,7 +152,6 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 **AI 기반 마켓플레이스 플랫폼:** 온디맨드 제조 서비스의 핵심 플랫폼, 매출 비중 90% (2025년 2분기), 경쟁사: Protolabs PRLB의 디지털 제조 서비스
 
 **Xometry Instant Quoting Engine:** AI 기반 즉시 견적 시스템, 차별화된 핵심 기술, 경쟁사: Fictiv, Hubs의 견적 시스템
-
 **Thomas 산업 소싱 플랫폼:** B2B 산업 마켓플레이스 및 광고 서비스, 매출 비중 10% (88.9% 총이익률), 경쟁사: Alibaba [BABA](/company-analysis/baba/)의 1688.com
 
 **Teamspace 협업 솔루션:** 기업용 제조 협업 플랫폼, 최근 유럽 확장, 경쟁사: PTC PTC의 Windchill
@@ -270,7 +269,6 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 - 현금 보유: 2억 4,100만 달러 (안정적인 재무 구조)
 
 **2025년 가이던스 (상향 조정):**
-
 - 마켓플레이스 매출 성장률: 23-24% (기존 22% 이상에서 상향)
 - 전체 매출 성장률: 약 20%
 - 조정 EBITDA: 계속된 개선 추세 예상
@@ -283,6 +281,8 @@ Xometry Inc.는 2013년 설립된 [AI 기반 온디맨드 맞춤 제조 마켓�
 - 네트워크 효과를 통한 경쟁 우위 강화
 
 **위험 요소:**
+
+{{< adsense-infeed >}}
 
 - 경기 침체 시 제조업 투자 감소 리스크
 - 대형 경쟁사(Protolabs 등)의 반격 가능성

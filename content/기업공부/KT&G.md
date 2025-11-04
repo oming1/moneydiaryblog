@@ -1,14 +1,15 @@
 ﻿---
 title: "KT&G"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 496
----<div style="display:none">
+weight: 497
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #담배 #궐련형전자담배 #건기식 #소비자방어주 #건기식
 
@@ -19,7 +20,6 @@ weight: 496
 			- 23년 1월 발표한 중장기 미래 성장 전략에 따르면 KT&G그룹 전체 매출은 22년 5.9조원에서 27년 10.2조원으로 성장할 것이며 이중 3대 핵심사업의 매출은 27년 8조원으로 전망했다. 
 			- 3대 핵심사업은 [궐련형 전자담배](/industry-study/궐련형-전자담배/)와 같은 NGP(Next Generation Products)와 KGC(한국인삼공사)를 중심으로 한 건강기능식품(건기식), 해외 일반 궐련 판매 사업이다. 부동산을 제외한 글로벌 사업 매출 비중이 50% 이상으로 전망했으며 주요 성장동력은 NGP사업이다. 
 			- 23 년과 NGP 매출은 23년 7,794억원(-11% YoY)으로 디바이스 기저 효과가 작용했는데 스틱 판매량은 139.6억개비(+30% YoY)로 증가했고 24년 상반기 NGP매출은 374억원(-4% YoY), 스틱 판매량은 72억개비(+5% YoY)를 기록
-
 **산업섹터 (Sector):** 소비자 방어주 (Consumer Defensive)  
 **산업 (Industry):** [담배](/industry-study/담배/) (Tobacco)
 
@@ -38,7 +38,6 @@ KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회�
 
 - 원료 공급업체: Philip Morris International (US, [PM](/company-analysis/pm/)), British American Tobacco (GB, [BATS](/company-analysis/bats/))
 - 포장재 공급업체: Amcor (AU, [AMC](/company-analysis/amc/)), Sealed Air (US, SEE)
-
 ### 주요제품
 
 - **담배 제품:** Esse, Raison, The One 등 (매출 비중: 2023년 기준 70%)
@@ -49,22 +48,23 @@ KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회�
 		- 최근 PM과 협업으로 미국 내 PMTA, MRTP 인가획득 추진 언급
 - **홍삼 제품:** 정관장 (매출 비중: 2023년 기준 20%)
 - **건강 기능 식품:** 홍삼 기반 건강 식품 (매출 비중: 2023년 기준 10%)
-
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - 대한민국 (주요 매출 국가)
 - 중동
 - 중앙아시아
 - 러시아
 
-### 경쟁업체
+{{< adsense-infeed >}}
 
+### 경쟁업체
 - **Philip Morris International (US, [PM](/company-analysis/pm/)):** 담배 제품 (시장 점유율 15%)
 - **British American Tobacco (GB, [BATS](/company-analysis/bats/)):** 담배 제품 (시장 점유율 10%)
 - **[Japan Tobacco](/company-analysis/japan-tobacco/) (JP, 2914):** 담배 제품 (시장 점유율 8%)
 
 ### 산업 내 글로벌 시장 점유율
-
 [KT&G Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.prnewswire.com/news-releases/ktg-reports-2023-q1-results-on-track-to-become-a-global-top-tier-company-301822112.html)[3](https://www.prnewswire.com/news-releases/ktg-reports-2023-q1-results-on-track-to-become-a-global-top-tier-company-301822112.html).
 
 ### 최근 3년 내 주요 이슈

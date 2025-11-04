@@ -1,14 +1,15 @@
 ﻿---
 title: "AET"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 37
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #관리형헬스케어 #헬스케어 #건강보험 #메디케어 #메디케이드 
 
@@ -23,20 +24,18 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 의료 서비스 및 보험 제공
     - **역할**: 최종 소비자에게 건강 관리 및 보험 솔루션 제공
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Cigna (미국, [CI](/company-analysis/ci/))
-    
 - **후방 산업 (Upstream Industry)**:
-    
     - **핵심 산업**: 의료 기기 및 제약 제조
     - **역할**: Aetna의 보험 상품에 필요한 의료 서비스 및 제품 제공
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
-
 ## 밸류체인
-
 - **보험 상품 개발**:
     
     - Aetna는 다양한 건강 보험 상품을 개발하여 고객에게 제공합니다.
@@ -49,13 +48,17 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **상업 의료 건강 계획**:
     
     - 기업 및 개인 고객을 위한 건강 보험 상품입니다.
     - 매출 비중: 전체 매출의 약 50% 차지.
     
 - **정부 건강 계획**:
-    
+
+{{< adsense-infeed >}}
+
     - Medicare(메디케어) 및 Medicaid(메디케이드)와 같은 정부 주도의 건강 보험 프로그램입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
@@ -71,7 +74,6 @@ Aetna는 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중
 ## 산업 내 글로벌 시장 점유율
 
 Aetna는 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - **Anthem과의 합병**: Aetna가 Anthem과 합병하여 Elevance Health로 재브랜딩한 사건 (2022)

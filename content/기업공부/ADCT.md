@@ -1,14 +1,15 @@
 ﻿---
 title: "ADCT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:28+09:00
+date: 2024-12-07T11:30:19+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 27
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:28Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-07T02:30:19Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #혈액암 #고형암 #헬스케어 #바이오테크
 
@@ -21,15 +22,15 @@ ADC Therapeutics SA(ADCT)는 항체-약물 접합체(ADC) 개발 분야의 선�
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 ADC Therapeutics는 혈액암과 고형암 치료를 위한 항체-약물 접합체(ADC)를 개발하고 있습니다. 주력 제품인 ZYNLONTA®(loncastuximab tesirine-lpyl)는 미국 FDA와 유럽 위원회로부터 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 치료제로 승인을 받았습니다. 회사는 다양한 임상 및 전임상 단계의 ADC 파이프라인을 보유하고 있으며, 독자적인 PBD 기반 ADC 기술을 통해 혈액암과 고형암 치료 패러다임을 변화시키는 것을 목표로 하고 있습니다
 
 ## 전방/후방산업
-
 ## 후방산업
 
 - 생명공학 연구 장비 제조업체
 - 제약 원료 공급업체
-
 ## 전방산업
 
 - 병원 및 의료기관
@@ -43,6 +44,8 @@ ADC Therapeutics는 혈액암과 고형암 치료를 위한 항체-약물 접합
 4. 유통 및 판매: 직접 판매 및 파트너십
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - ZYNLONTA®(loncastuximab tesirine-lpyl): 재발성 또는 불응성 DLBCL 치료제
 - Cami(camidanlumab tesirine): 개발 중인 CD25 표적 ADC
@@ -63,7 +66,6 @@ ADC Therapeutics는 혈액암과 고형암 치료를 위한 항체-약물 접합
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - ZYNLONTA® 2024년 3분기 매출 1800만 달러 달성 (2024)
 - LOTIS-5 임상시험 2024년 말까지 전체 등록 완료 예정 (2024)
 - LOTIS-7 임상시험 중간 데이터 2024년 12월 발표 예정 (2024)

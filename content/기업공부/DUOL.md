@@ -1,14 +1,15 @@
 ﻿---
 title: "DUOL"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-11T08:46:53+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 295
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 296
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-10T23:46:53Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #교육 #모바일언어학습플랫폼 #테크 #소프트웨어
 
@@ -22,13 +23,14 @@ Duolingo, Inc.(DUOL)는 모바일 언어 학습 플랫폼을 운영하는 미국
 ## 영위사업
 
 Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 학습 과정을 제공합니다. 주요 사업 영역은 다음과 같습니다:
-
 1. 언어 학습 앱: 게임화된 방식으로 단기 일일 학습 제공
 2. Duolingo English Test: 온라인 영어 능력 평가 시험
 3. Duolingo ABC: 아동용 문해력 앱
 4. 프리미엄 구독 서비스: Super Duolingo, Duolingo Max
 
 또한 음악과 수학 과정도 제공하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -47,7 +49,6 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 2. 플랫폼 운영: Duolingo
 3. 마케팅 및 사용자 확보: Duolingo
 4. 고객 서비스: Duolingo
-
 ## 주요제품
 
 - Duolingo 언어 학습 앱
@@ -55,13 +56,10 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 - Duolingo ABC
 - Super Duolingo (프리미엄 구독)
 - Duolingo Max (AI 기반 프리미엄 구독)
-
 ## 주요 판매국가
 
 전 세계 100개 이상 국가
-
 ## 경쟁업체
-
 - Cambly Inc.
 - Khan Academy
 - Mango Languages
@@ -70,6 +68,8 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Duolingo는 1억 명 이상의 월간 활성 사용자를 보유한 가장 인기 있는 언어 학습 앱입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

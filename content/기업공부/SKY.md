@@ -1,14 +1,15 @@
 ﻿---
 title: "SKY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 799
----<div style="display:none">
+weight: 800
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #주택건설 #임의소비재 
 
@@ -18,6 +19,8 @@ weight: 799
 산업(Industry): 주택건설(Homebuilding)
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Champion Homes, Inc.는 북미 최대의 공장제작 주택 생산업체중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
@@ -30,23 +33,24 @@ Champion Homes, Inc.는 북미 최대의 공장제작 주택 생산업체중 하
 - 부속 주거 유닛(ADUs)
 - 파크 모델 레크리에이션 차량
 - 단독 주택, 다세대 주택, 호스피탈리티 부문을 위한 모듈러 건물
-
 Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을 보유하고 있으며, 공장제작 주택의 설치 및 설정을 위한 건설 서비스를 제공합니다. 또한 미국 전역에 72개의 소매점을 운영하는 공장 직영 소매 사업과 Star Fleet Trucking을 통한 운송 서비스도 제공하고 있습니다
 
 ## 전방/후방산업
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 주택 구매자 및 임대인
 - 다세대 주택 개발업자
 - 호스피탈리티 산업
-
 ## 후방산업
-
 - 건축 자재 공급업체: Masco Corporation (US, [MAS](/company-analysis/mas/))
 - 가구 및 가전제품 제조업체: Whirlpool Corporation (US, [WHR](/company-analysis/whr/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구 개발: Champion Homes (US, [SKY](/company-analysis/sky/)) (주택 설계 및 혁신)
 2. 원자재 조달: 건축 자재 공급업체
@@ -64,6 +68,8 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국과 서부 캐나다를 중심으로 사업을 영위하고 있습니다
 
 ## 경쟁업체
@@ -79,7 +85,6 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Champion Homes는 북미에서 가장 큰 모듈러 주택 건설업체 중 하나로 인식되고 있습니다
 
 ## 최근 3년 내 주요 이슈
-
 1. 회사명을 Champion Homes, Inc.로 변경 (2024년)
 2. CEO 승계 계획 실행: Tim Larson이 새로운 CEO로 선임 (2024년)
 3. 코로나19 팬데믹 이후 주택 수요 변화에 대응 (2022-2024년)

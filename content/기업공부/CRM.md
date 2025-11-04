@@ -1,14 +1,15 @@
 ﻿---
 title: "CRM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2023-07-12T11:47:21+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 235
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 236
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-07-12T02:47:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #테크 #소프트웨어 #클라우드
 
@@ -18,17 +19,14 @@ Sector: Technology (테크)
 Industry: Software - Application (소프트웨어 - 애플리케이션)
 
 ## 회사 개요
-
 Salesforce, Inc.는 고객 관계 관리(CRM) 소프트웨어의 선두주자로, [클라우드](/industry-study/2산업클라우드/) 기반의 다양한 비즈니스 솔루션을 제공합니다. 1999년에 설립된 Salesforce는 기업들이 고객과의 관계를 개선하고, 판매 및 마케팅 프로세스를 최적화할 수 있도록 돕습니다.
 
 ## 영위사업
-
 Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 솔루션을 제공하며, 고객 데이터 관리, 마케팅 자동화, 고객 서비스, 분석 및 AI 기반의 기능을 포함한 포괄적인 플랫폼을 운영합니다.
 
 ## 전방/후방산업
 
 전방산업:
-
 - 역할: CRM 솔루션 사용
 - 금융 서비스: JPMorgan Chase (US, [JPM](/company-analysis/jpm/))
 - 헬스케어: UnitedHealth Group (US, [UNH](/company-analysis/unh/))
@@ -40,7 +38,6 @@ Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 
 - 통신 서비스: Twilio (US, [TWLO](/company-analysis/twlo/))
 
 ## 주요제품
-
 - Salesforce Sales Cloud (판매 관리 및 자동화, 매출 비중: 약 30%, 2023년 기준)
 - Salesforce Service Cloud (고객 서비스 관리, 매출 비중: 약 25%, 2023년 기준)
 - Salesforce Marketing Cloud (마케팅 자동화 및 분석, 매출 비중: 약 20%, 2023년 기준)
@@ -50,15 +47,18 @@ Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 
 
 Salesforce는 전 세계적으로 운영되며, 주요 시장은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - 북미: 약 60%
 - 유럽: 약 25%
 - 아시아 태평양: 약 10%
 - 기타: 약 5%
 
 ## 주요 자산
-
 - 클라우드 인프라: Salesforce 플랫폼을 지원하는 데이터 센터 및 서버
 - 지적 재산권: 다양한 소프트웨어 및 기술에 대한 특허
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

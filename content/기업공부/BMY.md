@@ -1,14 +1,15 @@
 ﻿---
 title: "BMY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-09-30T11:07:58+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 150
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-30T02:07:58Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #헬스케어 #제약 #조현병 
 
@@ -20,16 +21,16 @@ weight: 150
 ## 영위사업
 
 Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류마티스 관절염, 정신 질환 등 다양한 치료 영역에서 처방약과 생물학적 제제를 제조하는 다국적 제약회사입니다.
-
 ## 전방/후방산업
 
 - 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 의료 서비스, 약국
     - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), UnitedHealth Group (US, [UNH](/company-analysis/unh/))
     
 - 후방산업:
-    
     - 핵심 산업 및 역할: 원료 의약품 제조, 연구 장비 제조
     - 관련 기업: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Lonza Group (CH, LONN.SW)
 
@@ -40,22 +41,21 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
     - 대표 회사: Pfizer (US, [PFE](/company-analysis/pfe/)) - 다양한 치료 영역의 의약품 개발
     
 - 제조: 의약품 생산
-    
     - 대표 회사: Novartis (CH, [NVS](/company-analysis/nvs/)) - 다양한 치료 영역의 의약품 생산
     
 - 유통 및 판매: 의약품 유통 및 마케팅
-    
+
+{{< adsense-infeed >}}
+
     - 대표 회사: McKesson (US, [MCK](/company-analysis/mck/)) - 의약품 유통
 
 ## 주요제품
-
 - Opdivo (면역항암제, 2022년 매출의 28%)
 - Eliquis (항응고제, 2022년 매출의 24%)
 - Revlimid (다발성 골수종 치료제, 2022년 매출의 16%)
 - Pomalyst/Imnovid (다발성 골수종 치료제)
 - Orencia (류마티스 관절염 치료제)
 - 조현병 치료제
-
 ## 주요 판매국가
 
 미국, 유럽, 일본을 포함한 전 세계 시장에서 판매되고 있습니다.

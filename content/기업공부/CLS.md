@@ -1,14 +1,15 @@
 ﻿---
 title: "CLS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 200
----<div style="display:none">
+weight: 201
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #전자제조서비스 #EMS #하드웨어플랫폼솔루션 #HPS #클라우드인프라 #AI인프라 #엣지컴퓨팅 #네트워킹장비 #하이퍼스케일러 #시스템통합 #공급망솔루션 #계약제조 #서버 #스토리지 #엔터프라이즈솔루션 #항공우주 #방위산업 #의료기기 #통신장비 #5G #사물인터넷 #고부가가치제조
 
@@ -30,7 +31,6 @@ Celestica는 크게 두 개의 사업 부문으로 운영됩니다. 첫째, ATS(
 2025년 2분기 기준으로 CCS 부문이 전체 매출의 약 72%를 차지하며, 그중에서도 통신 부문이 가장 큰 비중을 차지합니다. 최근 주가는 AI 인프라 수요 증가와 함께 크게 상승하여 2025년 7월 28일 기준 173.37달러에 거래되고 있으며, 52주 최고가는 10% 이내에 있습니다.
 
 주요 리스크 요소로는 공급망 차질, 주요 고객 의존도, 원자재 가격 상승, 글로벌 무역 분쟁, 경쟁 심화 등이 있습니다. 하지만 AI 인프라에 대한 지속적인 투자 확대와 다양한 산업 부문에 걸친 포트폴리오는 회사의 장기적 성장을 뒷받침하고 있습니다.
-
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -183,7 +183,6 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
 - **실리콘**: 반도체 기판, 중국/미국, Wacker Chemie(DE, WCH), Shin-Etsu Chemical(JP, 4063)
 
 - **석유화학 제품(플라스틱, 에폭시)**: 인쇄회로기판, 하우징, 중동/미국, DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BASFY)
-
 - **[희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 금속**: 전자부품 제조, 중국/호주, Lynas Rare Earths(AU, LYSCF), MP Materials(US, [MP](/company-analysis/mp/))
 
 ---
@@ -228,10 +227,11 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
 - 일본: 3.2% (2025년 Q2 기준, 3년간 -0.5%p)
 - 기타: 5.4% (2025년 Q2 기준, 3년간 -3.8%p)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 경쟁업체 (20개)
-
 **경쟁사별 상세 정보:**
 - Flex Ltd.(US, FLEX) - 다양한 산업 분야 EMS, 시장점유율 11.2%
 - Jabil Inc.(US, [JBL](/company-analysis/jbl/)) - 광범위한 EMS 포트폴리오, 시장점유율 9.8%
@@ -269,6 +269,8 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
 - 2024년: 7.5% (AI 인프라 하드웨어 분야 4위)
 - 2023년: 5.1% (AI 인프라 하드웨어 분야 6위)
 - 3년간 추이: +4.1%p 증가 (가장 빠르게 성장하는 부문)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -314,6 +316,8 @@ Celestica는 다음과 같은 핵심 경쟁력을 보유하고 있습니다:
   - 개방형 네트워킹 솔루션(SONiC) 전략적 파트너십 강화
   - 공급망 회복력 강화 이니셔티브 시행
   - 서유럽 생산 시설 구조조정 (약 $30M 비용 절감)
+
+{{< adsense-infeed >}}
 
 ---
 

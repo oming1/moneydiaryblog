@@ -1,14 +1,15 @@
 ﻿---
 title: "VEOEY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-13T17:44:07+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 929
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 930
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-13T08:44:07Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #산업재 #폐기물관리
 
@@ -18,7 +19,6 @@ weight: 929
 - **Industry:** 폐기물 관리 (Waste Management)
 
 #### 영위사업
-
 Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 솔루션을 제공하는 기업입니다. 주요 사업 영역은 자원 관리, 고객 관계 관리, 음용수 처리 및 배급, 폐수 처리, 처리 및 네트워크 인프라 설계 및 건설, 물 처리 장비 및 기술 판매 등을 포함합니다.
 
 #### 전방/후방산업
@@ -27,14 +27,14 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
     - **핵심 산업:** 폐기물 처리 및 재활용
     - **역할:** 폐기물 수집, 제품 회수 및 에너지 전환 처리
     - **관련 기업:** Waste Management (미국, [WM](/company-analysis/wm/)), Republic Services (미국, [RSG](/company-analysis/rsg/))
-      
 - **후방산업 (Upstream Industry):**
     - **핵심 산업:** 물 처리 및 에너지 관리
     - **역할:** 물 처리 장비 및 기술 제공, 에너지 최적화
     - **관련 기업:** Xylem Inc. (미국, XYL), Suez (프랑스, SEV)
 
-#### 밸류체인
+{{< adsense-infeed >}}
 
+#### 밸류체인
 - **연구 및 개발 (R&D):**
     - **설명:** 새로운 물 처리 및 폐기물 관리 기술 개발
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Suez (프랑스, SEV)
@@ -46,10 +46,11 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **유통:**
     - **설명:** 물 처리 장비 및 폐기물 관리 시스템을 도매업체 및 소매업체에 공급
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Waste Management (미국, [WM](/company-analysis/wm/))
-      
 - **판매 및 마케팅:**
     - **설명:** 물 처리 및 폐기물 관리 솔루션을 최종 소비자에게 판매
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Republic Services (미국, [RSG](/company-analysis/rsg/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -64,6 +65,8 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **미국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
 - **영국:** 주요 매출 국가
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

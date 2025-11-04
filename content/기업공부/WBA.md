@@ -1,14 +1,15 @@
 ﻿---
 title: "WBA"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-08-28T16:51:52+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 952
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 953
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-28T07:51:52Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #약국 #헬스케어 #소비재 #소비자방어주 #건기식 #제약소매업
 
@@ -18,11 +19,12 @@ weight: 952
 
 ## 산업섹터
 
+{{< adsense-infeed >}}
+
 Sector: Consumer Defensive (소비자 방어주)  
 Industry: Pharmaceutical Retailers (제약소매업)
 
 ## 영위사업
-
 Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방약 판매, 일반 의약품 및 건강 관련 제품 판매, 헬스케어 서비스 제공 등의 사업을 영위하고 있습니다.
 
 ## 전방/후방산업
@@ -33,12 +35,10 @@ Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방
 - 헬스케어 서비스: UnitedHealth Group (국가:US, [UNH](/company-analysis/unh/))
 
 후방산업:
-
 - 제약: Johnson & Johnson (국가:US, [JNJ](/company-analysis/jnj/))
 - 의료기기: Medtronic (국가:US, [MDT](/company-analysis/mdt/))
 
 ## 주요제품
-
 - 처방약 (매출 비중: 약 75%, 2023년 기준)
 - 일반 의약품 및 건강 관련 제품
 - 뷰티 제품
@@ -47,6 +47,8 @@ Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방
 ## 주요 판매국가
 
 Walgreens Boots Alliance는 주로 미국과 영국에서 사업을 운영하고 있습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

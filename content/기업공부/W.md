@@ -1,14 +1,15 @@
 ﻿---
 title: "W"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 949
----<div style="display:none">
+weight: 950
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #웨이페어 #온라인가구 #홈퍼니싱 #이커머스 #홈굿즈 #드롭쉬핑 #가구마켓플레이스 #홈데코 #소비자재량 #디지털트랜스포메이션 #CastleGate물류 #마켓쉐어 #온라인소매 #가구유통 #홈인테리어 #AllModern #Perigold #소매기술 #공급망혁신 #고객경험 #빅데이터 #머신러닝 #AI추천시스템 #물류네트워크 #가구 
 
@@ -110,7 +111,6 @@ Wayfair는 메인 브랜드인 Wayfair.com 외에도 Joss & Main(중간 가격�
 ---
 
 ## 제조 공정
-
 Wayfair는 제조업체가 아닌 온라인 마켓플레이스이므로 직접적인 제조 공정은 없습니다. 대신 다음과 같은 운영 프로세스를 통해 고객에게 제품을 공급합니다:
 
 **1단계 - 공급업체 관리**: 전 세계 공급업체 발굴, 품질 검증, 계약 체결 및 카탈로그 관리
@@ -195,6 +195,8 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 
 **개인 소비자** - 주택 소유자 및 임차인 (전체 매출의 약 85%) **Wayfair Professional 고객** - 인테리어 디자이너, 부동산 개발업체, 소규모 건설업체 (전체 매출의 약 15%) **기업 고객** - 호텔, 사무실, 상업공간 운영업체
 
+{{< adsense-infeed >}}
+
 고객 지리적 분포:
 
 - **미국**: 전체 고객의 약 87.5%
@@ -251,6 +253,8 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 
 **미국 온라인 가구 시장 점유율:**
 
+{{< adsense-infeed >}}
+
 - 2024년: 16.7% (1위)
 - 2023년: 17.2% (1위)
 - 2022년: 18.1% (1위)
@@ -300,10 +304,11 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 ## 최근 3년 내 주요 이슈
 
 **2025년:**
-
 - 2분기 실적 서프라이즈: 매출 $3.27B (+5.0% YoY), 조정 EPS $0.87로 시장 예상 크게 상회
 - 주가 급등: 실적 발표 후 주가 13% 이상 상승, 2021년 이후 최고 성장률 기록
 - AI 기술 투자 확대: 개인화 추천 시스템 및 시각적 검색 기능 강화
+
+{{< adsense-infeed >}}
 
 **2024년:**
 
@@ -346,7 +351,6 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 ## 관련 ETF
 
 **직접 관련 ETF:**
-
 - **XLY** - Consumer Discretionary Select Sector SPDR Fund XLY (소비자재량 섹터 대표 ETF)
 - **VCR** - Vanguard Consumer Discretionary ETF VCR (저비용 소비자재량 ETF)
 - **IYC** - iShares US Consumer Discretionary ETF IYC (브로드 소비자재량 익스포저)

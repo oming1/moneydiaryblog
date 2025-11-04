@@ -1,14 +1,15 @@
 ﻿---
 title: "LLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 522
----<div style="display:none">
+weight: 523
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #헬스케어 #제약 #당뇨병 #암 #비만치료제 #마운자로 #젭바운드 #수면무호흡 #비만치료제 #당뇨치료제 #티르제파타이드 #인슐린 #GLP-1 #제약회사 #바이오파마 #신약개발 #임상시험 #API #원료의약품 #대사질환 #면역학 #종양학 #신경과학 #프로작 #심발타 #지프렉사 #제약산업 #헬스케어
 
@@ -18,7 +19,7 @@ weight: 522
 	- [2024-12-24](/daily-summary/2024-12-24/), FDA가 동사 비만 치료제인 젭바운드를 비만 성인의 [수면무호흡증 치료제로도 승인]했다는 소식 전해지자 주가 강세. 이번 승인은 폐쇄성 수면무호흡증을 치료하기 위한 의약품 중 최초 사례. 관련 소식에 의료기기 업체 레스메드([RMD](/company-analysis/rmd/) -2.6%) 주가는 약세 보이는 모습. 레스메드의 주요 사업은 수면 무호흡증, 만성 폐쇄성 폐질환 및 기타 호흡기 질환 치료를 위한 의료기기 사업을 영위 중
 		  
 - 2025년 
-	- 2025-08-27,'Lilly 경구용 GLP-1 치료제 오포글리프론, 3상 임상 성공으로 올해 비만 치료제 글로벌 허가 신청 예정' !Pasted image 20250826201903.png
+	- 2025-08-27,'Lilly 경구용 GLP-1 치료제 오포글리프론, 3상 임상 성공으로 올해 비만 치료제 글로벌 허가 신청 예정' ![](/images/Pasted%20image%2020250826201903.png)
 	  
 	- 2025-09-09, Eli Lilly – Morgan Stanley 글로벌 헬스케어 컨퍼런스 (25.9.8)
 
@@ -56,7 +57,6 @@ weight: 522
 
 		1. 인크레틴 포트폴리오 (비만/당뇨)
 		오르포글리프론 (Orforglipron):
-		
 		하루 한 번 복용하는 경구용 비펩타이드 GLP-1 유사체.
 		
 		콜드체인이 필요 없고 대량 생산이 가능하여 전 세계적 수요 충족에 용이.
@@ -85,6 +85,8 @@ weight: 522
 		
 		환자와 의사의 선호에 따라 추가(add-on) 또는 전환(switching) 시나리오 모두에서 릴리의 약물이 사용될 수 있도록 포트폴리오를 구성.
 
+{{< adsense-infeed >}}
+
 ---
 
 ## **산업 섹터 (Sector)**
@@ -101,7 +103,7 @@ weight: 522
 
 Eli Lilly and Company는 1876년 설립된 글로벌 제약회사로, 의료용 의약품의 발견, 개발, 제조 및 판매를 통해 전 세계 환자들의 삶의 질 향상에 기여하고 있습니다. 회사는 당뇨병, 비만, 종양학, 면역학, 신경과학 등 다양한 치료 영역에서 혁신적인 의약품을 개발하여 글로벌 제약 시장에서 선도적 지위를 확립하고 있습니다.
 
-!Pasted image 20250711150908.png
+![](/images/Pasted%20image%2020250711150908.png)
 
 주요 사업부문은 당뇨병 치료제(인슐린, GLP-1 계열), 비만 치료제, 종양학 의약품, 면역학 치료제, 신경과학 분야로 구성되어 있습니다. 2024년 총 매출 450억 달러를 기록했으며, 특히 [티르제파타이드](/industry-study/티르제파타이드/)(Mounjaro, Zepbound) 계열 의약품이 폭발적인 성장을 보이며 매출의 상당 부분을 차지하고 있습니다.
 
@@ -122,7 +124,6 @@ Eli Lilly의 비즈니스 모델은 혁신적인 신약 개발과 글로벌 상�
 - 자체 연구소에서 신약 발견 및 개발
 - 바이오테크 회사와의 파트너십 및 인수합병
 - 임상시험을 통한 안전성 및 효능 검증
-
 **2. 핵심 치료 영역별 포트폴리오:**
 
 - 당뇨병: 인슐린 계열 (Humalog, Trulicity) 및 GLP-1 계열 (Mounjaro)
@@ -191,6 +192,8 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 
 **3. 포장 및 라벨링:**
 
+{{< adsense-infeed >}}
+
 - 자동화된 포장 시스템 운영
 - 다국가 규제 요구사항 준수
 - 추적 가능한 공급망 관리
@@ -235,8 +238,9 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - Recursion Pharmaceuticals(US, [RXRX](/company-analysis/rxrx/)) - AI 기반 신약 발견 플랫폼
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)) - 합성 생물학 플랫폼
 - Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)) - 단백질 동역학 기반 신약 개발
-
 **전임상 및 임상 단계:** 안전성 및 효능 검증
+
+{{< adsense-infeed >}}
 
 - Charles River Laboratories(US, [CRL](/company-analysis/crl/)) - 전임상 연구 서비스, 시장점유율 약 15%
 - Covance/LabCorp(US, LH) - 임상시험 운영 서비스, 글로벌 CRO 시장 2위
@@ -261,7 +265,7 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 
 ## **주요제품**
 
-**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png)
+**Mounjaro ([티르제파타이드](/industry-study/티르제파타이드/), 마운자로, [비만 치료제](/industry-study/비만-치료제/)):** 2형 당뇨병 치료제, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/), SNY ![](/images/Pasted%20image%2020240828151149.png))
 
 **Zepbound ([티르제파타이드](/industry-study/티르제파타이드/), [젭바운드](/industry-study/젭바운드/)):** 비만 치료제, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [NVO](/company-analysis/nvo/). **GLP-1 유사 펩티드** 계열로(GLP-1/GIP 이중작용제), 체중 감량([비만 치료제](/industry-study/비만-치료제/))과 당뇨병 예방에 효과적이며 [비만 치료제](/industry-study/비만-치료제/)로 각광 받고 있음. 최근에는 **폐쇄성 수면 무호흡증(수면 무호흡)**, 환자에게도 효과가 있는 것으로 나타났습니다.
 	-[티르제파타이드는 38개의 아미노산으로 이루어진 합성 선형 펩타이드](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=35&selection=30,0,43,4&color=yellow))
@@ -305,6 +309,8 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - 주요 공급 업체: Schott Schott, Gerresheimer GXI
 
 **생물학적 배양 원료:**
+
+{{< adsense-infeed >}}
 
 - 사용처: 생물학적 제제 생산
 - 주요 공급 지역: 미국, 유럽

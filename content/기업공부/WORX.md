@@ -1,14 +1,15 @@
 ﻿---
 title: "WORX"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-19T14:36:27+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 971
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 972
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-19T05:36:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #로봇 #필수소비재 #가정용내구재 #로봇 #가정용로봇 #가전제품 #정원및전동공구
 
@@ -18,15 +19,17 @@ weight: 971
 - **Industry**: 정원 및 전동 공구 (Lawn & Garden Equipment, Power Tools)
 
 #### 영위사업
-
 WORX는 정원 및 전동 공구를 설계, 제조 및 유통하는 브랜드로, Positec Tool Corporation에 의해 소유 및 운영됩니다. 주요 제품군에는 잔디 깎기, 전동 톱, 잔디 트리머, 송풍기 등이 포함됩니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     - **소매**: 대형 소매업체 (예: Lowe’s, Walmart, The Home Depot, Canadian Tire, Costco)
     - **전자상거래**: 온라인 플랫폼 (예: Amazon, WORX 자체 전자상거래 사이트)
-      
 - **후방산업**:
     - **전자 부품**: 전자 부품 공급업체 (예: Texas Instruments, Analog Devices)
     - **플라스틱 및 금속 부품**: 부품 제조업체 (예: BASF, Dow Inc.)
@@ -38,7 +41,6 @@ WORX는 정원 및 전동 공구를 설계, 제조 및 유통하는 브랜드로
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 직접 판매, 대리점, 온라인 플랫폼)
 
 #### 주요제품
-
 - **잔디 깎기**: WORX Landroid 로봇 잔디 깎기
 - **전동 톱**: WORX 14-Inch 40V Cordless Chainsaw
 - **잔디 트리머**: WORX GT Revolution String Trimmer/Edger/Mini-Mower

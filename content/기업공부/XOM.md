@@ -1,14 +1,15 @@
 ﻿---
 title: "XOM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-11T10:21:35+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 986
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 987
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-11T01:21:35Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #에너지 #원유 #천연가스 #셰일가스 #통합오일및가스 #화학
 
@@ -18,7 +19,6 @@ weight: 986
 - **Industry (산업)**: 통합 오일 및 가스 (Oil & Gas Integrated)
 
 #### 영위사업
-
 엑슨모빌은 원유와 천연가스의 탐사 및 생산, 정제, 화학 제품 제조, 그리고 특수 제품 제조를 포함한 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Upstream**: [원유](/industry-study/원유/) 및 [천연가스](/industry-study/천연가스/) 탐사 및 생산
@@ -27,7 +27,6 @@ weight: 986
 - **Specialty Products**: 윤활유, 기초유, 왁스, 합성물, 엘라스토머, 수지 등
 
 #### 전방/후방산업
-
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 원유 및 천연가스 탐사 및 생산
     - **핵심 기업**: Chevron (미국, [CVX](/company-analysis/cvx/)), ConocoPhillips (미국, [COP](/company-analysis/cop/))
@@ -35,7 +34,11 @@ weight: 986
     - **핵심 산업**: 정제 및 석유화학 제품 제조
     - **핵심 기업**: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP)
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **탐사 및 생산 (Exploration & Production)**:
     - **설명**: 원유 및 천연가스의 탐사 및 생산
@@ -48,7 +51,6 @@ weight: 986
     - **대표회사**: Exxon Mobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/))
 
 #### 주요제품
-
 - **연료**: 휘발유, 디젤, 항공유
 - **화학 제품**: [올레핀](/industry-study/올레핀/), [폴리올레핀](/industry-study/폴리올레핀/)
 - **특수 제품**: 윤활유, 기초유, 왁스
@@ -60,9 +62,13 @@ weight: 986
 
 #### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Chevron (미국, [CVX](/company-analysis/cvx/))**: 원유 및 천연가스 탐사, 생산, 정제
 - **BP (영국, BP)**: 원유 및 천연가스 탐사, 생산, 정제
 - **Royal Dutch Shell (네덜란드, RDS.A)**: 원유 및 천연가스 탐사, 생산, 정제
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율
 

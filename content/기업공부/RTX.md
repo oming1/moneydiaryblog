@@ -1,14 +1,15 @@
 ﻿---
 title: "RTX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 761
----<div style="display:none">
+weight: 762
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공우주및방산 #방산 #항공 #우주 #산업재 #지정학 #무기 #항공우주 #항공기엔진
 
@@ -38,7 +39,6 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
 ## 밸류체인
 
 - **제품 개발**:
-    
     - Raytheon은 첨단 방산 기술과 솔루션을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 기술
     
@@ -49,8 +49,9 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **F-35 Lightning II 전투기**:
-    
     - 다목적 스텔스 전투기로, 미국 공군을 포함한 여러 국가에서 사용됩니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
     
@@ -70,10 +71,11 @@ Raytheon Technologies는 미국을 주요 시장으로 하며, 유럽과 아시�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Raytheon Technologies는 글로벌 방산 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - **COVID-19 팬데믹 영향**: 군사 예산 감소로 인한 매출 감소 우려 (2020)
 - **F-35 프로그램 확장**: F-35의 국제 판매 증가로 인한 매출 성장 (2021)
 - **우주 탐사 프로젝트 참여**: NASA와의 협력으로 우주 탐사 프로젝트에 대한 참여 확대 (2022)

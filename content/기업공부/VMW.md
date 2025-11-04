@@ -1,14 +1,15 @@
 ﻿---
 title: "VMW"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2023-07-12T11:47:32+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 935
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 936
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-07-12T02:47:32Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #테크 #소프트웨어 
 
@@ -19,8 +20,9 @@ weight: 935
 **영위사업:**
 
 VMware, Inc.는 기업 및 클라우드 컴퓨팅 환경을 위한 소프트웨어 제품 및 서비스를 제공하는 미국의 다국적 기업입니다. 가상화, 클라우드 인프라, 네트워킹, 보안 등 다양한 분야에서 소프트웨어 및 솔루션을 제공하며, 기업의 IT 시스템을 현대화하고 클라우드 전환을 지원합니다.
-
 **주요제품:**
+
+{{< adsense-infeed >}}
 
 - **VMware vSphere**: 가상화 플랫폼 (서버 가상화, 데스크톱 가상화, 컨테이너 지원)
 - **VMware Cloud Foundation**: 하이브리드 클라우드 인프라 (VMware vSphere, NSX, vSAN 통합)
@@ -29,20 +31,20 @@ VMware, Inc.는 기업 및 클라우드 컴퓨팅 환경을 위한 소프트웨�
 
 **주요 판매 국가:**
 
-- 미국 (공시자료 미확인)
+{{< adsense-infeed >}}
 
+- 미국 (공시자료 미확인)
 **경쟁업체:**
+
+{{< adsense-infeed >}}
 
 - **Microsoft (US: [MSFT](/company-analysis/msft/))**: Azure
 - **Amazon (US: [AMZN](/company-analysis/amzn/))**: AWS
 - **Red Hat (US: RHT)**: Red Hat Enterprise Linux
 - **Citrix Systems (US: CTXS)**: Citrix Virtual Apps and Desktops
 - **Nutanix (US: NTNX)**: Nutanix Enterprise Cloud Platform
-
 **자세한 종목 정보 링크:**
-
 - **Finviz:** [https://finviz.com/quote.ashx?t=VMW](https://finviz.com/quote.ashx?t=VMW)
-
 - 주요 이벤트  /  주가 상승 하락
 	- 2023년
 		-  [2023-07-12](/daily-summary/2023-07-12/)

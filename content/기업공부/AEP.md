@@ -1,14 +1,15 @@
 ﻿---
 title: "AEP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-10-28T21:21:58+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 36
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:21:58Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #전기 #유틸리티 #전기유틸리티 #송배전 #전기생산 #전기유통
 
@@ -18,9 +19,7 @@ weight: 36
 산업: 전기 유틸리티(Electric Utilities)
 
 ## 영위사업
-
 AEP는 전기 공익사업 지주회사로, 전기의 생산, 송배전 사업을 주로 영위하고 있습니다. 석탄, 천연가스, 원자력, 수력, 풍력, 태양광 등 다양한 에너지원을 활용하여 전력을 생산합니다
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -32,16 +31,18 @@ AEP는 전기 공익사업 지주회사로, 전기의 생산, 송배전 사업�
 
 - 주거용, 상업용, 산업용 전기 소비자
 - 도매 전력 구매자 (지방자치단체, 전력 협동조합 등)
-
 ## 주요제품 및 서비스
-
 - 전기 생산 및 전기 유통
 - 전력 송전 및 배전 서비스
 - 도매 에너지 공급
 - 에너지 관리 서비스
 - 신재생 에너지 프로젝트 개발 및 운영
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국 (아칸소, 루이지애나, 텍사스, 오클라호마, 오하이오, 켄터키, 미시간, 인디애나, 테네시, 버지니아, 웨스트버지니아 주)
 

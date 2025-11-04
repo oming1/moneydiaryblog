@@ -1,14 +1,15 @@
 ﻿---
 title: "SDGR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 776
----<div style="display:none">
+weight: 777
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #컴퓨터생물학 #약물발견 #분자모델링 #생명과학 #제약 #인공지능 #소프트웨어 #임상시험 #정밀의학 #구조생물학 #계산화학 #바이오테크 #신약개발 #물리학기반모델링 #협업연구 #혁신기술 #헬스케어 #생명과학도구및서비스
 
@@ -22,12 +23,16 @@ weight: 776
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 신약 개발 및 재료 응용 분야에서 새로운 분자를 발견하는 데 사용되는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 소프트웨어: 생명과학 및 재료과학 산업에서 약물 발견을 혁신하기 위한 소프트웨어 판매
 2. 신약 발견: 내부적으로 그리고 협력을 통해 전임상 및 임상 프로그램의 다양한 포트폴리오 구축
 
 주요 파이프라인으로는 SGR-1505(MALT1 억제제), SGR-2921(CDC7 억제제), SGR-3515(WEE1 억제제) 등이 있습니다. 회사의 소프트웨어는 전 세계 1,760개 이상의 학술 기관에서 연구자들에 의해 사용되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -41,7 +46,6 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 
 1. 소프트웨어 플랫폼: 분자 모델링 및 시뮬레이션 도구 (매출 비중: 약 70%, 2023년 기준)
 2. 신약 후보 물질: 전임상 및 임상 단계의 다양한 파이프라인 (매출 비중: 약 30%, 2023년 기준)
-
 ## 주요 고객
 
 1. 제약 회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NOVN](/company-analysis/novn/))
@@ -50,12 +54,13 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 4. 정부 연구소: National Institutes of Health(NIH)
 5. 재료 과학 기업: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국, 유럽, 일본, 중국, 한국 등 글로벌 시장
 
 ## 경쟁업체
-
 1. Dassault Systèmes(FR, DSY): 3D 설계 및 생명과학 소프트웨어
 2. Certara(US, CERT): 바이오시뮬레이션 소프트웨어
 3. Simulations Plus(US, SLP): 약물 발견 및 개발 소프트웨어
@@ -77,7 +82,6 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 3. The Vanguard Group, Inc. (10.28%)
 4. Rubric Capital Management LP (5.79%)
 5. ARK Investment Management LLC (3.67%)
-
 ## 관련 ETF
 
 1. ARK Genomic Revolution ETF - ARKG

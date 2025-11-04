@@ -1,14 +1,15 @@
 ﻿---
 title: "WDH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 958
----<div style="display:none">
+weight: 959
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #워터드롭 #WDH #중국보험 #온라인보험중개 #인슈어테크 #AI기술 #의료크라우드펀딩 #임상시험플랫폼 #디지털헬스케어 #보험마켓플레이스 #DeepSeek #AI고객서비스 #중국핀테크 #인공지능보험 #건강보험 #생명보험 #의료보험 #단기보험 #장기보험 #NYSE상장 #기술플랫폼 #보험브로커리지 #헬스케어서비스 #가치투자 #성장주 #중국테크
 
@@ -36,7 +37,6 @@ weight: 958
 ---
 
 ## 비즈니스 모델 (수익 모델)
-
 **수익 구조 세분화:**
 
 - **보험 관련 사업:** 6억 5,800만 위안 (87% 비중, +8.4% YoY)
@@ -50,7 +50,6 @@ weight: 958
 - **디지털 임상시험 솔루션:** 2,300만 위안 (3% 비중, +11.5% YoY)
 
 **지역별 수익 분포:**
-
 - 중국 본토: 전체 매출의 95% 이상
 - 기타 지역: 소규모 진출
 
@@ -98,6 +97,8 @@ weight: 958
 
 ## 전방산업 / 후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업 (서비스 이용 고객):**
 
 - 개인 소비자: 건강보험, 생명보험 구매 고객
@@ -115,7 +116,6 @@ weight: 958
 ---
 
 ## 밸류체인
-
 **기술 개발 단계:**
 
 - DeepSeek (CN, [DeepSeek](/industry-study/deepseek/)): AI 기술 파트너십 (대형 언어 모델 제공)
@@ -135,6 +135,8 @@ weight: 958
 ---
 
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 **온라인 보험 중개 서비스:** 건강보험, 생명보험 등 다양한 보험 상품 중개 (매출 비중 87%, 2025년 Q1 기준)
 
@@ -184,7 +186,6 @@ weight: 958
 - 3선 이하 도시: 지속적인 시장 확장 중
 
 **기타 지역:** 5% 미만 (해외 진출 초기 단계)
-
 ---
 
 ## 경쟁업체 
@@ -194,7 +195,6 @@ weight: 958
 - 후이저 (CN, Huize Holdings - HUIZ) - 온라인 보험 중개 플랫폼, 나스닥 상장
 - 체체 그룹 (CN, Cheche Group - CCG) - 자동차 보험 중개 플랫폼
 - AIFU (CN, AIFU Inc - AIFU) - AI 기반 보험 서비스
-
 **전통 보험회사:**
 
 - 중국평안보험 (CN, Ping An Insurance) - 중국 1위 보험회사
@@ -293,6 +293,8 @@ weight: 958
 - Global X China Consumer ETF CHIQ - 중국 소비 관련 기업
 
 **섹터 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - Financial Select Sector SPDR Fund XLF - 금융 섹터 ETF
 - iShares MSCI China ETF MCHI - 중국 전체 시장 ETF

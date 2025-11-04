@@ -1,14 +1,15 @@
 ﻿---
 title: "ADS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-10-28T21:41:05+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 30
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:41:05Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #의류 
 
@@ -19,7 +20,11 @@ weight: 30
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Adidas는 운동화, 스포츠웨어, 액세서리 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
+
+{{< adsense-infeed >}}
 
 ## 주요제품 및 서비스
 
@@ -30,13 +35,16 @@ Adidas는 운동화, 스포츠웨어, 액세서리 등 스포츠 관련 제품�
 
 ## 주요 판매국가
 
-전 세계적으로 사업을 영위하며, 주요 시장으로는 유럽, 북미, 중국 등이 있습니다.
+{{< adsense-infeed >}}
 
+전 세계적으로 사업을 영위하며, 주요 시장으로는 유럽, 북미, 중국 등이 있습니다.
 ## 경쟁업체
 
 - Nike(US, [NKE](/company-analysis/nke/))
 - Puma(독일, [PUM](/company-analysis/pum/))
 - Under Armour(US, [UAA](/company-analysis/uaa/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -50,12 +58,9 @@ Adidas는 Nike에 이어 세계 2위의 스포츠용품 제조업체입니다.
 - 지속가능성 이니셔티브 강화: 재활용 소재 사용 확대 및 탄소 배출 감축 목표 설정
 
 ## 재무 정보 (2023년 기준)
-
 - 매출액: 약 214억 유로
 - 직원 수: 약 58,564명
-
 ## 역사적 배경
-
 - 1949년: Adolf Dassler가 독일 헤르초게나우라흐에서 Adidas 설립
 - 1954년: 독일 축구 국가대표팀이 Adidas 축구화를 신고 월드컵 우승, 이를 계기로 브랜드 인지도 상승
 - 1967년: 최초의 의류 제품인 Franz Beckenbauer 트랙수트 출시

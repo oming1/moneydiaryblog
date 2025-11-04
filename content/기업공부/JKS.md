@@ -1,14 +1,15 @@
 ﻿---
 title: "JKS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 467
----<div style="display:none">
+weight: 468
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,7 +19,6 @@ weight: 467
 
 섹터: 정보기술
 산업: [태양광](/industry-study/태양광/)
-
 ## 영위사업
 
 JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광/)(PV) 산업에서 선도적인 위치를 차지하고 있는 중국 기업입니다. 회사는 실리콘 웨이퍼부터 태양전지, 태양광 모듈에 이르는수직 계열화된 태양광 제품 가치 사슬을 구축하고 있습니다.
@@ -29,6 +29,8 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 수직 계열화: 실리콘 웨이퍼부터 모듈까지 전 과정 통합 관리로 비용 효율성 확보
 2. 대규모 생산 능력: 글로벌 최대 규모의 생산 설비 보유
 3. 기술 혁신: 고효율 모듈 및 차세대 태양전지 기술 개발에 주력
@@ -38,7 +40,6 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 전방/후방산업
 
 전방산업:
-
 - 태양광 발전소 개발: NextEra Energy(US, [NEE](/company-analysis/nee/)), Brookfield Renewable(CA, [BEP](/company-analysis/bep/))
 - 태양광 설치: Sunrun(US, [RUN](/company-analysis/run/)), SunPower(US, [SPWR](/company-analysis/spwr/))
 - 유틸리티: Duke Energy(US, [DUK](/company-analysis/duk/)), Enel(IT, ENEL)
@@ -58,8 +59,9 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 주요 판매국가
 
 중국, 미국, 일본, 독일, 인도, 브라질, 호주, 스페인
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - LONGi Green Energy Technology(CN, 601012)
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/))

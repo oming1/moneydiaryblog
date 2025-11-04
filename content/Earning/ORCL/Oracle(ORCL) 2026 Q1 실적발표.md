@@ -1,14 +1,15 @@
-﻿---
+---
 title: "Oracle(ORCL) 2026 Q1 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
 
@@ -26,11 +27,12 @@ weight: 2
 
 **수익성:**
 
+{{< adsense-infeed >}}
+
 - **GAAP EPS**: $1.01 (-2% YoY)
 - **Non-GAAP EPS**: $1.47 (+6% YoY)
 - **GAAP 영업이익**: 43억 달러
 - **Non-GAAP 영업이익**: 62억 달러 (+9% YoY)
-
 ## 🚀 **RPO 폭발적 성장 - 핵심 드라이버**
 
 **남은 실행 잔고(RPO) 급증:**
@@ -42,6 +44,8 @@ weight: 2
 이는 오라클 역사상 가장 큰 규모의 RPO 성장률로, AI 및 클라우드 수요 급증을 반영합니다. [Oracle Corporation](https://investor.oracle.com/)
 
 ## 🌐 **멀티클라우드 전략의 초고속 성장**
+
+{{< adsense-infeed >}}
 
 **Larry Ellison CTO 발언 검증:**
 
@@ -70,11 +74,11 @@ weight: 2
 - **자유현금흐름**: -5.88억 달러 (대규모 인프라 투자로 인한 일시적 음전환)
 
 **재무 포지션:**
-
 - **현금성 자산**: 112억 달러
 - **단기 이연 수익**: 121억 달러
 - **부채**: 단기 90억 달러 + 장기 822억 달러
 
+{{< adsense-infeed >}}
 ## 📈 **주가 반응**
 
 **시장 반응 (2025년 9월 9일):**
@@ -88,7 +92,6 @@ weight: 2
 ## 🔮 **투자 포인트**
 
 **긍정 요인:**
-
 1. **계약 백로그 가시성**: RPO 4,550억 달러로 향후 수년간 매출 성장 보장
 2. **AI 수요 견인**: AI Database 출시로 LLM 통합 수요 급증 예상
 3. **멀티클라우드 전략**: 빅테크 파트너십을 통한 시장 확장

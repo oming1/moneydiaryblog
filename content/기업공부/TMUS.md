@@ -1,14 +1,15 @@
 ﻿---
 title: "TMUS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-12-10T10:50:10+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 877
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 878
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-10T01:50:10Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #무선통신서비스 #통신사 #커뮤니케이션서비스 #통신서비스
 
@@ -31,6 +32,8 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 
 또한 기업 고객을 위한 솔루션과 IoT 서비스도 제공하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
@@ -39,31 +42,28 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 - 스마트폰 제조업체: Apple(US, [AAPL](/company-analysis/aapl/)), Samsung(KR, 005930.KS)
 
 ## 전방산업
-
 - 소비자
 - 기업 고객
 - IoT 서비스 이용 기업
 
 ## 밸류체인
-
 1. 네트워크 인프라: T-Mobile US
 2. 서비스 개발 및 제공: T-Mobile US
 3. 마케팅 및 판매: T-Mobile US, Metro by T-Mobile
 4. 고객 서비스: T-Mobile US
 
 ## 주요제품
-
 - 무선 음성, 메시징, 데이터 서비스
 - 5G 네트워크 서비스
 - 무선 기기 판매 및 할부 프로그램
 - 고속 인터넷 서비스
 - IoT 솔루션
-
 ## 주요 판매국가
 
 미국, 푸에르토리코, 미국령 버진아일랜드
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - AT&T(US, [T](/company-analysis/t/))
 - Verizon Communications(US, [VZ](/company-analysis/vz/))
@@ -72,6 +72,8 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 ## 산업 내 글로벌 시장 점유율
 
 2024년 9월 30일 기준 1억 2,750만 명의 가입자를 보유하고 있으며, 미국 내 2위 무선 통신사업자입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

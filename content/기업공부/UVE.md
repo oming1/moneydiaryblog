@@ -1,14 +1,15 @@
 ﻿---
 title: "UVE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-10-12T00:23:07+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 923
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 924
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-11T15:23:07Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #금융서비스 #보험 #재보험 
 
@@ -20,7 +21,6 @@ weight: 923
 **영위사업** 
 
 Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, 마케팅 및 인수합니다. 이 회사는 주택 소유자, 임차인, 콘도 소유자 등을 위한 보험을 제공합니다. 또한, 보험 관련 서비스와 클레임 관리, 재보험 협상 등을 수행합니다.
-
 **전방/후방산업**
 
 - **전방산업:** 부동산, 건설업, 금융 서비스
@@ -29,7 +29,6 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 - **후방산업:** 재보험, IT 서비스, 클레임 관리
     - **핵심 산업:** 재보험 (Munich Re (DE, MUV2)), IT 서비스 (IBM (US, [IBM](/company-analysis/ibm/))), 클레임 관리 (Sedgwick (US, 비상장))
     - **역할:** 리스크 관리, 기술 지원, 클레임 처리
-
 **밸류체인**
 
 - **입력:** 보험 상품 개발, 리스크 평가
@@ -41,14 +40,14 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 
 **주요제품**
 
+{{< adsense-infeed >}}
+
 - **주택 소유자 보험:** 주택 및 개인 재산 보호
 - **임차인 보험:** 임차인의 개인 재산 보호
 - **콘도 소유자 보험:** 콘도 소유자의 재산 보호
 
 **주요 판매국가**
-
 - **미국:** 전체 매출의 대부분을 차지 (2023년 기준)
-
 **경쟁업체**
 
 - **Progressive (US, [PGR](/company-analysis/pgr/)):** 주택 소유자 보험, 자동차 보험
@@ -56,6 +55,8 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 - **State Farm (US, 비상장):** 주택 소유자 보험, 자동차 보험
 
 **산업 내 글로벌 시장 점유율**
+
+{{< adsense-infeed >}}
 
 - **Universal Insurance Holdings:** 약 2% (2023년 기준)
 - **Progressive:** 약 10% (2023년 기준)

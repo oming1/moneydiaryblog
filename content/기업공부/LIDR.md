@@ -1,14 +1,15 @@
 ﻿---
 title: "LIDR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 518
----<div style="display:none">
+weight: 519
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -25,6 +26,8 @@ AEye, Inc.(NASDAQ: LIDR)는 차량 자율성, 첨단 운전자 보조 시스템(
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술은 다음과 같은 장점을 제공합니다:
 
 1. 높은 해상도와 장거리 감지 능력: 최대 1,000m 거리에서 10cm 해상도의 감지가 가능합니다.
@@ -32,7 +35,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 3. 소프트웨어 정의 LiDAR: 하드웨어 변경 없이 소프트웨어 업데이트만으로 성능 향상이 가능합니다.
 4. 낮은 전력 소비: 경쟁사 대비 낮은 전력 소비로 효율성을 높였습니다.
 5. 모듈식 설계: 다양한 응용 분야에 맞춤형 솔루션 제공이 가능합니다.
-
 이러한 기술적 우위를 바탕으로 AEye는 자율주행 및 ADAS 시장에서 경쟁력을 유지하고 있습니다.
 
 ## 전방/후방산업
@@ -45,7 +47,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 - 산업 자동화: ABB(CH, [ABB](/company-analysis/abb/)), Siemens(DE, [SIE](/company-analysis/sie/))
 
 후방산업:
-
 - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/))
 - 광학 부품: II-VI(US, IIVI), Lumentum(US, [LITE](/company-analysis/lite/))
 - 소프트웨어 개발: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Ansys(US, [ANSS](/company-analysis/anss/))
@@ -61,7 +62,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 7. 스마트 시티: Cisco Systems(US, [CSCO](/company-analysis/csco/)), IBM(US, [IBM](/company-analysis/ibm/)) (도시 인프라 적용)
 
 ## 주요제품
-
 - 4Sight M: 자동차용 LiDAR 센서, 자율주행 및 ADAS 적용
 - 4Sight A: 산업용 LiDAR 센서, 로보틱스 및 스마트 인프라 적용
 - 4Sight Intelligence Suite: LiDAR 데이터 처리 및 분석 소프트웨어
@@ -75,6 +75,8 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 - Siemens(DE, [SIE](/company-analysis/sie/)) - 산업 자동화 솔루션
 - Cisco Systems(US, [CSCO](/company-analysis/csco/)) - 스마트 시티 인프라
 - TuSimple(US, TSP) - 자율주행 트럭 기술
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -95,12 +97,13 @@ AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 
 ## 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 - Continental AG와 전략적 파트너십 체결, 자동차 시장 진출 강화 (2023년)
 - 4Sight M 제품의 자동차 생산 준비 완료 발표 (2022년)
 - 비용 절감을 위한 구조조정 실시, 인력 25% 감축 (2022년)
 - NASDAQ 상장 (2021년)
 - SPAC 합병을 통한 기업공개 완료 (2021년)
-
 ## 주요주주(지분율)
 
 - Continental AG (20%)
@@ -109,7 +112,6 @@ AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 - BlackRock (2.8%)
 
 ## 관련 ETF
-
 - Global X Autonomous & Electric Vehicles ETF - DRIV
 - iShares Self-Driving EV and Tech ETF - IDRV
 - First Trust Nasdaq Artificial Intelligence and Robotics ETF - ROBT

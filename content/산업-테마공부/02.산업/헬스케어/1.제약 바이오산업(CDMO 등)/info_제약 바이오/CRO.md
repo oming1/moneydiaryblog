@@ -1,14 +1,15 @@
 ﻿---
 title: "CRO"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #헬스케어 #CRO 
 
@@ -32,7 +33,11 @@ weight: 4
     - **상장국가**: 미국 (NASDAQ)
     - **주요 제품**: 임상시험 설계 및 관리, 데이터 관리, 규제 제출
 
+{{< adsense-infeed >}}
+
 ### CRO와 유사한 개념의 항목들
+
+{{< adsense-infeed >}}
 
 1. **CDO (Contract Development Organization)**: 신약 개발 초기 단계에서 연구 및 개발을 지원하는 기관.
 2. **[CMO](/industry-study/cmo/) (Contract Manufacturing Organization)**: 의약품의 대량 생산을 담당하는 기관.

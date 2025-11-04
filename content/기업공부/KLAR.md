@@ -1,14 +1,15 @@
 ﻿---
 title: "KLAR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-08-29T21:57:01+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 489
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 490
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-29T12:57:01Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #헬스케어 #의약품제조 #제약 #수마트립탄 #편두통
 
@@ -19,11 +20,9 @@ weight: 489
 ### 영위사업
 
 Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Sumatriptan)을 개발하며, 급성 알레르기 반응 치료를 위한 에피네프린/아드레날린(Epinephrine/Adrenaline)을 임상 1상에서 개발 중입니다. 또한, 장기 이식 거부 반응 예방을 위한 시롤리무스(Sirolimus)와 대마초/카나비노이드 상업화에 집중하고 있습니다
-
 ### 전방/후방산업
 
 **전방산업:**
-
 - 제약회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 - 의료기기회사: Medtronic (US, [MDT](/company-analysis/mdt/)), Boston Scientific (US, [BSX](/company-analysis/bsx/))
 
@@ -33,10 +32,11 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 - 연구기관: Charles River Laboratories (US, [CRL](/company-analysis/crl/)), ICON plc (IE, ICLR)
 
 ### 주요제품
-
 - **수마트립탄 (Sumatriptan):** 편두통 치료제 (매출 비중: 2023년 기준 60%)
 - **에피네프린/아드레날린 (Epinephrine/Adrenaline):** 급성 알레르기 반응 치료제 (매출 비중: 2023년 기준 30%)
 - **시롤리무스 (Sirolimus):** 장기 이식 거부 반응 예방제 (매출 비중: 2023년 기준 10%)
+
+{{< adsense-infeed >}}
 
 ### 주요 판매국가
 
@@ -55,7 +55,11 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 
 Klaria Pharma Holding AB의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 
+{{< adsense-infeed >}}
+
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **임상 1상 실패:** 에피네프린/아드레날린 임상 1상 실패 (2022년)
 - **신제품 출시:** 시롤리무스 상업화 성공 (2023년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "MXIM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 602
----<div style="display:none">
+weight: 603
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #반도체 #아날로그IC #혼합신호IC #자동차 #산업용전자 #통신 #정보기술 #전기차
 
@@ -34,7 +35,6 @@ Maxim은 [자동차](/industry-study/자동차/), 산업, 통신, 소비자 및 
 ## 핵심 경쟁력
 
 Maxim Integrated Products의 핵심 경쟁력은 다음과 같습니다:
-
 1. 통합 솔루션: 아날로그 및 혼합 신호 IC를 고도로 통합하여 고객의 시스템 복잡성을 줄이고 비용 효율성을 높입니다.
 2. 자체 제조 능력: 제품의 95%를 자체 팹에서 생산하여 품질 관리와 공급망 안정성을 확보합니다.
 3. 첨단 공정 기술: 0.18 마이크론 프로세스를 적용한 300mm 웨이퍼 생산 능력을 보유하고 있으며, 0.09 마이크론 프로세스 개발도 진행 중입니다.
@@ -62,7 +62,6 @@ Maxim Integrated Products의 핵심 경쟁력은 다음과 같습니다:
 3. 패키징 및 테스트: Maxim Integrated Products (자체 테스트), ASE Technology (TW, ASX)
 4. 유통: Arrow Electronics (US, [ARW](/company-analysis/arw/)), Avnet (US, [AVT](/company-analysis/avt/))
 5. 최종 사용자: 다양한 전자기기 제조업체 및 자동차 제조사
-
 ## 주요제품
 
 1. 전원 관리 IC (자동차, 산업용 장비 전원 관리)
@@ -78,6 +77,8 @@ Maxim Integrated Products의 핵심 경쟁력은 다음과 같습니다:
 3. General Motors (US, [GM](/company-analysis/gm/))
 4. Ford (US, [F](/company-analysis/f/))
 5. Siemens (DE, [SIE](/company-analysis/sie/))
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -103,12 +104,17 @@ Maxim Integrated Products는 글로벌 기업으로, 구체적인 국가별 매�
 4. 통합 솔루션 제품 라인업 확대 (2022-2024년)
 5. 전기차 및 자율주행차 관련 제품 개발 강화 (2023-2024년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 Maxim Integrated Products는 2021년 Analog Devices([ADI](/company-analysis/adi/))에 인수되어 현재는 상장폐지된 상태입니다.
 
-## 관련 ETF
+{{< adsense-infeed >}}
 
+## 관련 ETF
 - SPDR S&P Semiconductor ETF XSD
 - iShares PHLX Semiconductor ETF SOXX
 - VanEck Vectors Semiconductor ETF SMH

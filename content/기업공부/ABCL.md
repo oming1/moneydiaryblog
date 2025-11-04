@@ -1,14 +1,15 @@
 ﻿---
 title: "ABCL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 11
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 ## 핵심 키워드
 
@@ -32,12 +33,13 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 2025년 1월 기준으로 AbCellera는 누적 95개의 파트너 주도 프로그램을 시작했으며, 이 중 14개 분자가 임상 단계로 진입했습니다. 최근에는 Eli Lilly와의 협력을 확대하여 면역학, 심혈관 질환, 신경과학 분야의 치료용 항체 발견에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 혁신적인 항체 발견 플랫폼: AI와 단일세포 기술을 결합한 고유의 접근 방식으로 빠르고 효율적인 항체 발견 가능
 2. 다양한 파트너십: Pfizer, Merck, GSK 등 주요 제약 및 바이오테크 기업들과의 협력 관계 구축
 3. 광범위한 항체 라이브러리: 다양한 종에서 추출한 대규모 항체 데이터베이스 보유
 4. 빠른 개발 속도: 전통적인 방법보다 신속한 항체 발견 및 최적화 과정 제공
 5. 유연한 비즈니스 모델: 연구 수수료, 마일스톤 지급, 로열티 등 다양한 수익 구조 확보
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -47,11 +49,14 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 - 바이오테크: Moderna(US, [MRNA](/company-analysis/mrna/)), BioNTech(US, [BNTX](/company-analysis/bntx/))
 - 임상시험: IQVIA(US, [IQV](/company-analysis/iqv/)), Parexel International
 
-후방산업:
+{{< adsense-infeed >}}
 
+후방산업:
 - 실험실 장비: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Danaher(US, [DHR](/company-analysis/dhr/))
 - AI/ML 기술: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 바이오인포매틱스: Illumina(US, [ILMN](/company-analysis/ilmn/)), 10x Genomics(US, TXG)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -73,6 +78,8 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Adimab(비상장): 항체 발견 및 엔지니어링 플랫폼
 - Twist Bioscience(US, [TWST](/company-analysis/twst/)): 합성 DNA 및 항체 라이브러리
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)): 합성 생물학 및 바이오엔지니어링
@@ -90,7 +97,6 @@ AbCellera의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 - COVID-19 항체 치료제 bamlanivimab의 긴급사용승인 취소로 인한 매출 감소 (2022년)
 - 신규 AI 모델 도입으로 항체 발견 속도 2배 향상 (2024년)
 - ESG 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2023년)
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (12.37%)

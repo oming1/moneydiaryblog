@@ -1,14 +1,15 @@
 ﻿---
 title: "JMIA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 468
----<div style="display:none">
+weight: 469
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #주미아 #JMIA #e커머스 #아프리카온라인쇼핑 #인터넷소매 #물류플랫폼 #디지털결제 #아프리카시장 #모바일커머스 #전자상거래 #글로벌확장 #신흥시장 #온라인마켓플레이스 #JumiaPay #JumiaLogistics #아프리카경제 #디지털전환 #소비자플랫폼 #모바일앱 #공급망관리 #지속가능성 #혁신기술 #성장잠재력 #아프리카테크 #온라인쇼핑트렌드 #물류혁신 #결제솔루션 #신흥경제 #디지털인프라 #글로벌투자
 
@@ -18,7 +19,6 @@ weight: 468
 
 **섹터(Sector):** Consumer Cyclical - 소비자 순환  
 **산업(Industry):** Internet Retail - 인터넷 소매
-
 ---
 
 ### 영위사업
@@ -59,7 +59,6 @@ Jumia Technologies AG는 2012년에 독일의 Rocket Internet에 의해 나이�
 
 - **최근 1년 주가 동향**  
     지난 1년간 주가는 큰 변동성을 보였습니다. 2024년 8월 약 $5.00에서 2025년 8월 약 $7.50로 상승(+50%), 이는 아프리카 e커머스 성장 기대와 비용 절감 효과에 기인합니다. 그러나 경제 불안정으로 일시적 하락도 있었습니다.
-
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -170,6 +169,8 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 모로코 바이어.
 - 남아프리카 파트너.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
@@ -202,7 +203,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 ---
 
 ### 기업 특징 및 성장성
-
 - 매출 성장률: 3년 CAGR 15% (2021-2023).
 - 영업 이익률: -10% (2023년, 손실 지속).
 - 주요 성장 동력: 모바일 확대, 신흥 시장 수요.
@@ -216,9 +216,13 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 2022년: 물류 네트워크 강화.
 - 2021년: 새로운 국가 진출.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 - Rocket Internet: 10%.
 - Vanguard Group: 5%.
@@ -234,6 +238,8 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 
 - ONLN - ProShares Online Retail ETF ONLN.
 - IBUY - Amplify Online Retail ETF IBUY.
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

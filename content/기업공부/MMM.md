@@ -1,14 +1,15 @@
 ﻿---
 title: "MMM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 571
----<div style="display:none">
+weight: 572
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #소비자제품 #산업용제품 #접착제 #필터 #의료기기 #안전장비 #전기장비 #테이프 #마스크 #필터 
 
@@ -28,8 +29,9 @@ weight: 571
 2. 운송 및 전자: 첨단 소재, 자동차 및 항공우주, 상업 솔루션, 디스플레이 소재 및 시스템 등
 3. 소비자: 가정용 및 사무용 제품, 홈케어 및 자동차 관리 제품 등
 
-3M은 Scotch-Brite, Filtrete, Command, Post-it 등 유명 브랜드를 보유하고 있으며, 혁신적인 제품 개발로 유명합니다. 회사는 전 세계 70개국 이상에서 사업을 영위하고 있습니다.
+{{< adsense-infeed >}}
 
+3M은 Scotch-Brite, Filtrete, Command, Post-it 등 유명 브랜드를 보유하고 있으며, 혁신적인 제품 개발로 유명합니다. 회사는 전 세계 70개국 이상에서 사업을 영위하고 있습니다.
 ## 핵심 경쟁력
 
 1. 다각화된 제품 포트폴리오: 다양한 산업 분야에 걸친 제품 라인업
@@ -47,7 +49,6 @@ weight: 571
     - 플라스틱 수지: LyondellBasell(US, [LYB](/company-analysis/lyb/))
     
 2. 전방산업:
-    
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
     - 의료기기: Medtronic(IE, [MDT](/company-analysis/mdt/))
@@ -58,6 +59,8 @@ weight: 571
 2. 제품 개발 및 생산: 3M Company (주요 사업 영역)
 3. 유통: Amazon(US, [AMZN](/company-analysis/amzn/)) - 온라인 유통
 4. 최종 소비자: 개인 및 기업 고객
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -78,6 +81,8 @@ weight: 571
 ## 주요 판매국가
 
 3M은 전 세계적으로 사업을 영위하고 있으며, 주요 시장은 미국, 유럽, 아시아 등입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -108,7 +113,6 @@ weight: 571
 5. Charles Schwab Investment Management, Inc.: 1.51%
 
 ## 관련 ETF
-
 1. Industrial Select Sector SPDR Fund - XLI
 2. Vanguard Industrials ETF - VIS
 3. iShares U.S. Industrials ETF - IYJ

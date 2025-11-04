@@ -1,13 +1,14 @@
 ﻿---
 title: "PGR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2025-06-01T22:32:34+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 688
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 689
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2025-06-01T13:32:34Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 

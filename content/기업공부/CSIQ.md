@@ -1,14 +1,15 @@
 ﻿---
 title: "CSIQ"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-28T21:27:41+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 243
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 244
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:27:41Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #반도체및반도체장비 #정보기술 #태양광 #태양광모듈 #ESS 
 
@@ -19,28 +20,31 @@ weight: 243
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Canadian Solar Inc.는 [태양광](/industry-study/태양광/) 모듈, 시스템 및 서비스를 설계, 개발, 제조 및 판매하는 글로벌 기업입니다.
 
-## 주요제품 및 서비스
+{{< adsense-infeed >}}
 
+## 주요제품 및 서비스
 - 태양광 모듈
 - 태양광 발전 시스템
 - 배터리 저장 솔루션([ESS](/industry-study/ess/))
 - 태양광 프로젝트 개발 및 EPC 서비스
-
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 전 세계적으로 사업을 영위하며, 주요 시장으로는 미국, 중국, 일본, 유럽 등이 있습니다.
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 - First Solar(US, [FSLR](/company-analysis/fslr/))
 - JinkoSolar(중국, [JKS](/company-analysis/jks/))
 - SunPower(US, [SPWR](/company-analysis/spwr/))
 - Trina Solar(중국)
-
 ## 최근 주요 이슈
-
 - 태양광 모듈 생산 능력 확대
 - 배터리 저장 솔루션 사업 강화
 - 글로벌 태양광 프로젝트 개발 확대

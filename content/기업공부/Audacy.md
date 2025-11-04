@@ -1,14 +1,15 @@
 ﻿---
 title: "Audacy"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 95
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 미국 상장 여부
 
@@ -51,7 +52,6 @@ Audacy Inc는 필라델피아에 본사를 둔 미국의 주요 오디오 콘텐
 ## 핵심 경쟁력
 
 Audacy의 핵심 경쟁력은 미국 내 광범위한 라디오 방송망과 디지털 오디오 생태계의 결합에 있습니다. 회사는 220개 이상의 라디오 방송국을 통해 미국 주요 도시권에서 강력한 지역적 영향력을 보유하고 있으며, 특히 뉴욕의 WFAN, WINS 1010, 로스앤젤레스의 KROQ, KCBS 등 유명 브랜드 방송국들을 운영합니다.
-
 CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 라이브러리는 경쟁사 대비 차별화된 강점입니다. 또한 Audacy 앱을 통한 디지털 전환 노력으로 전통적인 방송과 스트리밍, 팟캐스트를 통합한 멀티플랫폼 전략을 구사하고 있습니다.
 
 최근에는 iHeartMedia([IHRT](/company-analysis/ihrt/))와의 콘텐츠 배급 파트너십, CBS 뉴스 라디오와의 멀티년 계약 갱신 등을 통해 콘텐츠 경쟁력을 강화하고 있습니다. 특히 지역 뉴스, 스포츠, 음악 콘텐츠에서의 강력한 브랜드 인지도와 청취자 충성도는 디지털 시대에도 지속가능한 경쟁우위 요소로 작용하고 있습니다.
@@ -77,6 +77,8 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 ## 전방산업 / 후방산업
 
 **전방산업**:
+
+{{< adsense-infeed >}}
 
 - 광고주 및 마케팅 에이전시: 지역 및 전국 광고주들
 - 오디오 콘텐츠 소비자: 라디오 청취자, 팟캐스트 이용자, 디지털 오디오 사용자
@@ -108,7 +110,6 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 
 - 지역 및 전국 광고주들
 - 프로그래매틱 광고 플랫폼 파트너들
-
 ---
 
 ## 주요제품
@@ -126,6 +127,8 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 
 **방송 라이선스**:
 
+{{< adsense-infeed >}}
+
 - 사용처: 라디오 주파수 사용권, 방송 운영 허가
 - 주요 공급 지역: 미국 연방통신위원회(FCC)
 - 주요 공급 업체: 미국 정부 기관 (FCC)
@@ -135,7 +138,6 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 - 사용처: 음악, 뉴스, 엔터테인먼트 콘텐츠
 - 주요 공급 지역: 미국, 글로벌
 - 주요 공급 업체: 음악 출판사, 콘텐츠 제작사들
-
 ---
 
 ## 주요고객
@@ -155,10 +157,11 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 
 미국이 주요 시장이며, 구체적인 국가별 매출 비중은 공개되지 않음. 주된 매출 국가는 미국입니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 경쟁업체
-
 - iHeartMedia(US, [IHRT](/company-analysis/ihrt/)) - 라디오 방송 및 디지털 오디오 플랫폼
 - SiriusXM(US, [SIRI](/company-analysis/siri/)) - 위성 라디오 및 팟캐스트 서비스
 - Spotify Technology(SE, [SPOT](/company-analysis/spot/)) - 음악 및 팟캐스트 스트리밍
@@ -216,6 +219,8 @@ Audacy는 미국 제2위 규모의 라디오 방송사로서 220개 이상의 �
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX
 - iShares U.S. Telecommunications ETF - IYZ
+
+{{< adsense-infeed >}}
 
 **미디어 및 엔터테인먼트 관련 ETF**:
 

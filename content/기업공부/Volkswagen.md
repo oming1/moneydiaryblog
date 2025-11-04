@@ -1,14 +1,15 @@
 ﻿---
 title: "Volkswagen"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2023-06-20T14:05:37+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 936
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 937
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-06-20T05:05:37Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #자동차 #소비재 #전기차 #임의소비재 #자동차제조업
 
@@ -20,16 +21,18 @@ Industry: Auto Manufacturers (자동차 제조업)
 ## 영위사업
 
 [Volkswagen](/company-analysis/volkswagen/) AG([Volkswagen](/company-analysis/volkswagen/))는 [자동차](/industry-study/자동차/) 제조 및 판매를 주요 사업으로 하며, 승용차, 상용차, 전기차, 금융 서비스 등을 제공합니다.
-
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 자동차 딜러: AutoNation (국가:US, [AN](/company-analysis/an/))
 - 자동차 부품 유통: LKQ Corporation (국가:US, LKQ)
 
 후방산업:
-
 - 자동차 부품: Continental AG (국가:DE, CON)
 - 반도체: NVIDIA Corporation (국가:US, [NVDA](/company-analysis/nvda/))
 
@@ -45,7 +48,6 @@ Industry: Auto Manufacturers (자동차 제조업)
 ## 주요 판매국가
 
 Volkswagen은 전 세계적으로 판매되지만, 구체적인 국가별 매출 비중은 제공된 정보에 없습니다. 주요 시장으로는 유럽, 중국, 북미 등이 포함됩니다.
-
 ## 경쟁업체
 
 - Toyota Motor Corporation (국가:JP, 7203) - 승용차, 상용차

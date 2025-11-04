@@ -1,14 +1,15 @@
 ﻿---
 title: "BKR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-12T09:56:53+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 138
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-12T00:56:53Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #에너지 #에너지장비및서비스 #탄소포집 #유정굴착장비 
 
@@ -38,10 +39,11 @@ Baker Hughes는 글로벌 에너지 기술 회사로, 석유 및 가스 산업�
 ## 밸류체인
 
 - **서비스 제공**:
-    
     - Baker Hughes는 석유 및 가스 산업을 위한 다양한 기술과 서비스를 제공합니다.
     - 대표 기업: Halliburton (미국, [HAL](/company-analysis/hal/)) - 경쟁 제품: 석유 서비스
-    
+
+{{< adsense-infeed >}}
+
 - **기술 개발**:
     
     - 새로운 프래킹 기술과 관련 장비를 개발합니다.
@@ -49,17 +51,22 @@ Baker Hughes는 글로벌 에너지 기술 회사로, 석유 및 가스 산업�
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **유정 굴착 장비**:
     
     - 석유와 가스를 추출하기 위한 장비로 사용됩니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **탄소 포집 기술**:
-    
     - 탄소 배출을 줄이기 위한 솔루션으로 사용됩니다.
     - 매출 비중: 전체 매출의 약 20% 차지.
 
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 Baker Hughes는 미국을 주요 시장으로 하며, 중동, 아시아 태평양 지역 및 유럽에서도 중요한 매출을 올리고 있습니다.
 
@@ -69,9 +76,7 @@ Baker Hughes는 미국을 주요 시장으로 하며, 중동, 아시아 태평�
 - **Schlumberger** (프랑스, [SLB](/company-analysis/slb/)) - 경쟁 제품: 에너지 기술 솔루션
 
 ## 산업 내 글로벌 시장 점유율
-
 Baker Hughes는 글로벌 석유 서비스 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - **COVID-19 팬데믹 영향**: 팬데믹으로 인한 석유 수요 감소로 매출 감소 우려 (2020)

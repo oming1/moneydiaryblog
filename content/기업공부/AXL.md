@@ -1,14 +1,15 @@
 ﻿---
 title: "AXL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 106
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #자동차부품 #구동계 #차량경량화 #전기차 #아메리칸악슬 #제조업 #자동차산업 #모빌리티 #기술혁신 #지속가능성 #고객맞춤형 #경쟁력 #글로벌시장 #OEM #부품공급 #전략적제휴 #품질관리 #비용절감 #시장점유율
 
@@ -68,6 +69,8 @@ weight: 106
 
 ### 핵심 기술
 
+{{< adsense-infeed >}}
+
 - **경량화 기술:** 차량의 연비 개선 및 성능 향상을 위한 경량화 부품 개발
 
 - **전기차 부품 기술:** 전기차에 최적화된 구동계 및 서스펜션 시스템 설계
@@ -81,7 +84,6 @@ weight: 106
 1단계: 원자재 조달 및 품질 검사  
 2단계: 부품 가공 및 조립  
 3단계: 최종 품질 검사 및 출하
-
 ---
 
 ### 전방산업 / 후방산업
@@ -93,13 +95,14 @@ weight: 106
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - ArcelorMittal(US, [MT](/company-analysis/mt/)) - 강철 제조
 - Alcoa(US, [AA](/company-analysis/aa/)) - 알루미늄 제조
 
 ---
 
 ### 밸류체인
-
 **부품 공급 단계:**
 
 - ArcelorMittal(US, [MT](/company-analysis/mt/)): 강철 (시장점유율 20%, 고강도 강철 공급)
@@ -128,6 +131,8 @@ weight: 106
 - **강철:** 자동차 부품 제조, 주요 공급지: 미국, 주요 공급업체: ArcelorMittal(US, [MT](/company-analysis/mt/))
 - **알루미늄:** 경량화 부품 제조, 주요 공급지: 미국, 주요 공급업체: Alcoa(US, [AA](/company-analysis/aa/))
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 고객
@@ -135,7 +140,6 @@ weight: 106
 - Ford(US, [F](/company-analysis/f/)) - SUV 및 트럭용 부품
 - General Motors(US, [GM](/company-analysis/gm/)) - 승용차 및 상용차용 부품
 - Stellantis(US, [STLA](/company-analysis/stla/)) - 다양한 차량용 부품
-
 ---
 
 ### 주요 판매 국가
@@ -151,7 +155,6 @@ weight: 106
 - Dana(US, DAN) - 자동차 부품, 시장점유율 15%
 - GKN(UK, GKN) - 구동계 부품, 시장점유율 10%
 - Tenneco(US, TEN) - 서스펜션 부품, 시장점유율 8%
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -166,7 +169,6 @@ weight: 106
 ---
 
 ### 기업 특징 및 성장성
-
 - **매출 성장률:** 3년 CAGR 10.2%
 - **영업 이익률:** 6.5% (2023년)
 - **주요 성장 동력:** 전기차 및 하이브리드 차량 부품 수요 증가

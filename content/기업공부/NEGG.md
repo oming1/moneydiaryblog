@@ -1,14 +1,15 @@
 ﻿---
 title: "NEGG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 608
----<div style="display:none">
+weight: 609
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #전자상거래 #컴퓨터부품 #온라인리테일 #PC하드웨어 #게이밍 #컴퓨터주변기기 #그래픽카드 #메인보드 #전자제품 #마켓플레이스 #B2C #B2B #IT솔루션 #물류서비스 #창고관리 #주문처리 #NASDAQ #밈주식 #머천다이징 #소비자가전 #소프트웨어 #데이터스토리지 #네트워킹장비 #VR제품 #공급망서비스 #3PL서비스
 
@@ -35,14 +36,17 @@ Newegg의 사업 부문은 크게 B2C와 B2B로 나눌 수 있으며, 주요 온
 
 회사의 최근 재무 실적은 도전적인 상황을 보여주고 있습니다. 2023년 매출은 15억 달러로 2022년 대비 약 13% 감소했으며, 최근 분기별 매출 성장률(전년 동기 대비)은 -32.30%를 기록했습니다. 또한 이익 마진도 -3.51%로 적자를 기록하고 있어 수익성 개선이 필요한 상황입니다.
 
+{{< adsense-infeed >}}
+
 Newegg의 주요 리스크 요인으로는 온라인 소매 시장의 치열한 경쟁, Amazon과 같은 대형 경쟁사의 압력, 전자제품 공급망 문제, 최근의 소비자 지출 축소 등이 있습니다. 또한 밈 주식으로서의 변동성도 투자자들이 주의해야 할 요소입니다.
 
 ---
 
 ## 비즈니스 모델 (수익 모델)
 
-Newegg Commerce Inc의 수익 구조는 다음과 같이 세분화됩니다:
+{{< adsense-infeed >}}
 
+Newegg Commerce Inc의 수익 구조는 다음과 같이 세분화됩니다:
 - **직접 제품 판매(B2C)**: Newegg.com, Newegg.ca, Newegg Global 및 모바일 앱을 통한 컴퓨터 하드웨어, 소프트웨어, 전자제품 직접 판매가 주요 수익원입니다.
     
 - **기업 대상 판매(B2B)**: NeweggBusiness.com을 통해 기업 고객에게 IT 제품 및 솔루션을 제공하며, 대량 구매 할인 및 기업 계정 관리 서비스를 제공합니다.
@@ -64,7 +68,6 @@ Newegg Commerce Inc의 수익 구조는 다음과 같이 세분화됩니다:
 ## 핵심 경쟁력
 
 Newegg Commerce Inc의 핵심 경쟁력은 다음과 같습니다:
-
 1. **전문화된 제품 라인업**: PC 부품 및 게이밍 하드웨어에 특화된 제품 포트폴리오를 보유하고 있어 전문 소비자들에게 강한 브랜드 인지도를 갖고 있습니다.
     
 2. **통합된 온라인 쇼핑 경험**: B2C와 B2B 플랫폼을 함께 운영하며 다양한 고객층의 요구를 충족시키고, 모바일 앱을 통한 원활한 쇼핑 경험을 제공합니다.
@@ -76,6 +79,8 @@ Newegg Commerce Inc의 핵심 경쟁력은 다음과 같습니다:
 5. **기술 중심 운영**: 전자상거래 플랫폼 최적화, 데이터 기반 의사결정, 고객 경험 향상을 위한 기술적 역량을 보유하고 있습니다.
     
 6. **틈새 시장 리더십**: 게이밍 PC 부품 및 DIY 컴퓨터 조립 시장에서 강한 입지를 구축하고 있어, 전문가 및 엔스지애스트 소비자들 사이에서 신뢰할 수 있는 리테일러로 인식됩니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -172,7 +177,6 @@ Newegg는 직접적인 제조업체가 아니라 전자상거래 리테일러이
 - **PC 주변기기**: 모니터, 키보드, 마우스, 헤드셋 등 (매출비중 약 20%, 2023년 기준), 주요 경쟁사: Amazon(US, [AMZN](/company-analysis/amzn/)), Best Buy(US,[BBY](/company-analysis/bby/)])
     
 - **소프트웨어**: 운영체제, 게임, 보안 소프트웨어 등 (매출비중 약 10%, 2023년 기준), 주요 경쟁사: Microsoft Store, Steam, Epic Games Store
-    
 - **가전제품**: TV, 스마트홈 기기 등 (매출비중 약 5%, 2023년 기준), 주요 경쟁사: Amazon(US, [AMZN](/company-analysis/amzn/)), Best Buy(US,[BBY](/company-analysis/bby/)])
     
 - **물류 서비스**: 서드파티 물류(3PL) 서비스, 주문 처리, 창고 관리 등 (매출비중 약 5%, 2023년 기준), 주요 경쟁사: Amazon FBA, ShipBob
@@ -190,6 +194,8 @@ Newegg는 직접적인 제조업체가 아니라 전자상거래 리테일러이
 - **플라스틱 수지**: 케이스, 주변기기, 포장재 등에 사용, 주요 공급지는 미국, 중국, 사우디아라비아. 주요 공급업체: Dow(US, [DOW](/company-analysis/dow/)), BASF(DE, BAS.DE)
     
 - **희토류 원소**: 하드 드라이브, 스피커, 디스플레이 등에 사용, 주요 공급지는 중국, 호주, 미국. 주요 공급업체: China Northern Rare Earth Group(CN, 600111.SS)
+
+{{< adsense-infeed >}}
 
 ---
 

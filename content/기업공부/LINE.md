@@ -1,14 +1,15 @@
 ﻿---
 title: "LINE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 520
----<div style="display:none">
+weight: 521
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #라인지물류 #LineageLogistics #냉장창고 #콜드체인 #온도제어물류 #식품공급망 #제3자물류 #3PL #자동화창고 #식품안전 #글로벌물류 #재고관리 #라스트마일배송 #전자상거래물류 #수산물물류 #농산물물류 #제약물류 #블라스트프리징 #식품가공지원 #에너지효율 #지속가능성 #물류기술 #WarehouseAutomation #PrivateEquity #물류REIT #글로벌네트워크 #식품유통 #식품산업
 
@@ -29,12 +30,13 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
     
     - **콜드체인(Cold Storage):** 다양한 온도 범위(냉장, 냉동, 초저온)를 유지하는 대규모 창고 시설을 운영. 육류, 해산물, 유제품, 과일, 채소, 제과류 등 다양한 식품 및 온도 민감 제품 저장.
 
+{{< adsense-infeed >}}
+
     - **부가가치 서비스:**
         - **블라스트 프리징(Blast Freezing):** 신선 식품을 빠르게 냉동하여 품질과 보존 기간 극대화.
         - **템퍼링(Tempering):** 냉동 제품을 서서히 해동하여 가공 준비.
         - **프리패키징 및 코패킹(Pre-packaging & Co-packing):** 고객의 요구에 맞춰 제품을 재포장하거나 번들링.
         - **크로스 도킹(Cross-docking):** 입고된 물품을 즉시 출고하여 보관 시간을 최소화하고 운송 효율 증대.
-
     - **운송 및 유통 서비스:**
         - **프레이트 컨솔리데이션(Freight Consolidation):** 여러 고객의 소규모 화물을 모아 효율적으로 운송.
         - **퍼스트 마일/라스트 마일 운송:** 생산지에서 창고까지, 창고에서 최종 목적지까지의 온도 제어 운송.
@@ -103,7 +105,6 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
 - **전략적 입지:** 주요 생산지, 소비 시장, 항만 근처에 위치한 창고 네트워크.
 - **식품 안전 및 품질 관리:** 엄격한 위생 및 온도 제어 프로토콜 준수.
 - **통합 서비스:** 보관부터 운송, 가공 지원까지 End-to-End 솔루션 제공.
-
 ---
 
 ### 핵심 기술
@@ -203,7 +204,6 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
 ---
 
 ### 경쟁업체
-
 - **Americold Realty Trust (US, COLD):** 상장된 콜드 스토리지 REIT, 북미 2위 규모.
 - **United States Cold Storage (USCS):** John Swire & Sons Ltd. 소유의 사모 기업, 북미 3위.
 - **Preferred Freezer Services:** Lineage Logistics에 인수됨.
@@ -240,6 +240,8 @@ Lineage Logistics는 2008년에 설립되었으며, 미국 미시간주 노비(N
 ### 주요 주주 (지분율)
 
 Lineage Logistics는 사모 기업이므로 주요 주주는 다음과 같습니다.
+
+{{< adsense-infeed >}}
 
 - **Bay Grove Capital LLC:** 창립 및 운영 파트너.
 - **기타 주요 기관 투자자:** 다수의 사모 펀드 및 연기금이 주요 LP (Limited Partner)로 참여하고 있습니다. (구체적인 지분율은 비공개입니다.)

@@ -1,14 +1,15 @@
 ﻿---
 title: "SATL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 769
----<div style="display:none">
+weight: 770
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공우주및방위산업 #정보기술 #위성 #위성이미지 #인공위성 #위성운영 #위성설계 #관측위성 #지구관측
 
@@ -27,13 +28,14 @@ Satellogic은 지구 [관측 위성](/industry-study/관측-위성/)을 위성 �
   
 자산 모니터링 사업에는 전 세계 위성을 통해 자산을 모니터링하는 정부 및 상업 고객이 모두 포함된다.  
 
+{{< adsense-infeed >}}
+
 CaaS 비즈니스는 전 세계 정부에 특정 관심 지역에 대한 위성을 제어할 수 있는 기능을 제공한다.  
   
 Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 욕구가 있는, 자사의 기술과 역량에 관심이 있는 고객의 요구를 충족하기 위해 위성 판매 및 지원에 관여한다.  
 이 회사는 연간 24개의 위성을 생산할 수 있는 약 11,200평방피트 규모의 제조 파일럿 공장을 운영한다
 
 ## 전방/후방 산업
-
 - 전방 산업:
     
     - 핵심 산업: 농업, 도시계획, 환경 모니터링, 국방
@@ -41,10 +43,14 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
     - 주요 기업: Esri (미국, 비상장), Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
     
 - 후방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 위성 부품 제조 및 발사 서비스
     - 역할: Satellogic의 위성 제조 및 발사 지원
     - 주요 기업: SpaceX (미국, 비상장), Rocket Lab (미국, [RKLB](/company-analysis/rklb/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -52,7 +58,6 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
     
     - Satellogic은 자체적으로 위성을 설계하고 제조합니다.
     - 대표 기업: Planet Labs (미국, [PL](/company-analysis/pl/)), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/))
-    
 - 위성 이미지 분석 및 서비스:
     
     - 수집된 이미지를 AI 기반으로 분석하고 고객에게 제공합니다.
@@ -65,7 +70,6 @@ Space Systems는 데이터 수집에 활용되는 위성을 소유할 필요나 
 - 맞춤형 지리공간 분석 솔루션 (전체 매출의 약 10%)
 
 ## 주요 판매 국가
-
 Satellogic은 전 세계적으로 서비스를 제공하며, 특히 남미, 유럽, 아시아 지역에서 강세를 보입니다.
 
 ## 경쟁업체
@@ -77,6 +81,8 @@ Satellogic은 전 세계적으로 서비스를 제공하며, 특히 남미, 유�
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 없으나, Satellogic은 고해상도 위성 이미지 시장에서 빠르게 성장하고 있는 기업 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

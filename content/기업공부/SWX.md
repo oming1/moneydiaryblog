@@ -1,14 +1,15 @@
 ﻿---
 title: "SWX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 845
----<div style="display:none">
+weight: 846
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #천연가스유틸리티 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #유틸리티인프라서비스 #가스유틸리티 #유틸리티
 
@@ -19,13 +20,14 @@ weight: 845
 ## 산업
 
 산업: 가스 유틸리티(Gas Utilities)
-
 ## 영위사업
 
 Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로, 주로 아리조나, 네바다, 캘리포니아 지역에서 천연가스 구매, 유통 및 운송 서비스를 제공합니다. 회사는 두 개의 주요 사업 부문을 운영하고 있습니다:
 
 1. [천연가스](/industry-study/천연가스/) 운영: 주거용, 상업용, 산업용 고객에게 천연가스 유통 서비스를 제공합니다. 이 부문은 회사 수익의 약 절반을 차지합니다.
 2. 유틸리티 인프라 서비스: 자회사인 Centuri Group Inc.를 통해 북미 전역에서 지하 배관 계약 서비스 및 산업 건설 솔루션을 제공합니다. 이 부문 역시 회사 수익의 약 절반을 차지합니다.
+
+{{< adsense-infeed >}}
 
 2023년 기준으로 Southwest Gas Holdings는 220만 명 이상의 천연가스 고객을 보유하고 있습니다. 회사는 지속가능성과 혁신에 주력하며, 서비스 지역의 증가하는 에너지 수요를 충족시키기 위해 지속적으로 인프라를 개선하고 있습니다.
 
@@ -55,12 +57,16 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 
 ## 후방산업:
 
+{{< adsense-infeed >}}
+
 1. 천연가스 생산: 원료 공급
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
     
 2. 파이프라인 인프라: 가스 운송
-    
+
+{{< adsense-infeed >}}
+
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/))
     
 3. 가스 저장 시설: 수요 변동 대응
@@ -74,7 +80,6 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 3. 가스 저장: Southwest Gas Holdings(US, [SWX](/company-analysis/swx/)) (저장 시설 운영)
 4. 가스 유통: Southwest Gas Holdings(US, [SWX](/company-analysis/swx/)) (가스 유틸리티 서비스)
 5. 소비자 서비스: Southwest Gas Holdings(US, [SWX](/company-analysis/swx/)) (고객 서비스)
-
 ## 주요제품
 
 1. 주거용 천연가스 공급 서비스 (매출 비중: 약 40%, 2023년 기준)
@@ -83,7 +88,6 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 4. 유틸리티 인프라 서비스 (매출 비중: 약 30%, 2023년 기준)
 
 ## 주요 고객
-
 1. 주거용 고객 (가정)
 2. 상업용 고객 (소매점, 사무실 등)
 3. 산업용 고객 (제조업체, 발전소 등)
@@ -121,7 +125,6 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 3. Vanguard Fiduciary Trust Co. (9.280%)
 4. Corvex Management LP (6.647%)
 5. Fidelity Management & Research Co. LLC (4.483%)
-
 ## 관련 ETF
 
 1. Utilities Select Sector SPDR Fund - XLU

@@ -1,14 +1,15 @@
 ﻿---
 title: "ANET"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 69
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #클라우드네트워킹 #데이터센터 #소프트웨어정의네트워킹 #EOS #CloudVision #AI네트워킹 #엔터프라이즈네트워킹 #400G #800G #캠퍼스네트워킹 #엣지컴퓨팅 #5G #IoT #네트워크자동화 #네트워크보안 #고성능컴퓨팅 #하이퍼스케일러 #멀티클라우드 #오픈네트워킹 #지속가능성 #네트워크장비 #데이터센터 
 
@@ -24,6 +25,8 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 회사의 핵심 제품인 Extensible Operating System(EOS)은 모든 Arista 제품에 탑재되어 있으며, 개방형 프로그래밍 인터페이스를 제공하여 고객 맞춤형 네트워크 솔루션 구현을 가능하게 합니다. CloudVision 플랫폼은 네트워크 관리 및 자동화를 위한 종합적인 솔루션을 제공합니다.
 
 최근에는 AI/ML 워크로드를 위한 고성능 네트워킹 솔루션과 800G 이더넷 스위치 등 차세대 제품 개발에 주력하고 있습니다. 또한 엔터프라이즈 및 캠퍼스 네트워킹 시장 진출을 확대하여 사업 다각화를 추진하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -43,19 +46,17 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 반도체 제조: Broadcom(US, [AVGO](/company-analysis/avgo/)), Intel(US, [INTC](/company-analysis/intc/))
 - 전자부품 제조: Flex(US, FLEX), Jabil(US, [JBL](/company-analysis/jbl/))
 - 소프트웨어 개발: Red Hat([IBM](/company-analysis/ibm/)), VMware([DELL](/company-analysis/dell/))
-
 ## 주요제품
-
 - 데이터센터 스위치: 7000 시리즈, 매출의 약 60% (2024년 기준)
 - 캠퍼스 네트워킹 솔루션: 720XP 시리즈, 매출의 약 15% (2024년 기준)
 - 네트워크 소프트웨어: EOS, CloudVision, 매출의 약 20% (2024년 기준)
 - 서비스 및 지원: 전문 서비스, 교육, 매출의 약 5% (2024년 기준)
-
 ## 주요 판매국가
-
 미국, 캐나다, 영국, 독일, 일본, 호주, 인도, 중국
 
 ## 경쟁업체
@@ -65,6 +66,8 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - Huawei Technologies(CN, Huawei): 종합 ICT 솔루션
 - Extreme Networks(US, EXTR): 엔터프라이즈 네트워킹 솔루션
 - Nokia(FI, NOKIA): 통신 인프라 및 네트워크 솔루션
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -79,7 +82,6 @@ Arista Networks는 2024년 기준 고속(100G 이상) 데이터센터 스위치 
 - 연간 매출 100억 달러 돌파 (2024년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (8.95%)
 - BlackRock (7.62%)
 - Fidelity Management & Research (4.73%)

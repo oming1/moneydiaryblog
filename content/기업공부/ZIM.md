@@ -1,14 +1,15 @@
 ﻿---
 title: "ZIM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 998
----<div style="display:none">
+weight: 999
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #짐인테그레이티드쉬핑 #ZIM #컨테이너선박 #글로벌해운 #물류서비스 #화물운송 #해상무역 #공급망관리 #이스라엘해운 #디지털물류 #컨테이너라이너 #아시아유럽노선 #북미무역 #지속가능해운 #LNG선박 #환경규제 #화물요금 #글로벌무역 #선박운영 #포스트판데믹 #공급망위기 #디지털플랫폼 #스마트쉬핑 #연료효율 #컨테이너터미널 #해운얼라이언스 #경제변동 #지정학적리스크 #지속성장 #해운산업
 
@@ -93,6 +94,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 - **비용 관리:** 임대 선박 전략으로 유연성.
 - **지역 전문성:** 중동 기반으로 지정학적 적응력.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -123,6 +126,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 연료: Shell(US, SHEL).
 - 선박: Hyundai Heavy(KR).
 
@@ -147,11 +152,9 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 제품
-
 - **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
 - **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
 - **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -172,7 +175,6 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 판매 국가
-
 - 중국: 25% (2023년 기준, 3년간 +4%p).
 - 미국: 30% (2023년 기준, 3년간 +2%p).
 - 이스라엘: 10% (2023년 기준, 3년간 -1%p).

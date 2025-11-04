@@ -1,14 +1,15 @@
 ﻿---
 title: "CIEN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 197
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #광통신네트워크 #WaveLogic #코히런트광학 #5G인프라 #클라우드네트워킹 #AI데이터센터 #광전송장비 #DWDM #차세대통신 #플러거블광학 #네트워크자동화 #BluePlanet #광케이블 #통신인프라 #데이터센터연결 #광섬유네트워크 #네트워크시스템 #통신장비 #디지털인프라 #하이퍼스케일러 #네트워크솔루션 #광통신기술
 
@@ -57,7 +58,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 - **유럽/중동/아프리카**: 약 20%
 
 **성장 동력 및 수익성 개선 요인:**
-
 - AI 및 클라우드 인프라 확장으로 인한 대역폭 수요 급증
 - WaveLogic 6 기술의 차별화된 경쟁력
 - 높은 진입장벽을 가진 플러거블 광학 모듈 시장 확대
@@ -65,8 +65,9 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 ---
 
 ## **핵심 경쟁력**
-
 **1. WaveLogic 코히런트 광학 기술 우위** WaveLogic 6 Extreme은 업계 최고 수준인 1.6Tbps 전송 용량을 구현하며, 경쟁사 대비 30% 이상 높은 성능을 제공합니다. 이는 단일 파장에서 구현 가능한 최대 용량으로, 네트워크 운영비용을 대폭 절감시킵니다.
+
+{{< adsense-infeed >}}
 
 **2. 종합 네트워킹 솔루션 제공 능력** 하드웨어부터 소프트웨어, 서비스까지 통합된 엔드투엔드 솔루션을 제공하여 고객의 복합적 요구사항을 원스톱으로 해결합니다. 이는 고객 락인 효과와 높은 전환비용을 창출합니다.
 
@@ -112,6 +113,8 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 - **통신 서비스**: Verizon(US, [VZ](/company-analysis/vz/)), AT&T(US, [T](/company-analysis/t/)) - 5G 백홀 및 네트워크 인프라
 - **인터넷 서비스**: Lumen(US, [LUMN](/company-analysis/lumn/)), CenturyLink - 장거리 네트워크 연결
 - **해저케이블**: Southern Cross Cable - 대양간 통신 연결
+
+{{< adsense-infeed >}}
 
 **후방산업 (원자재/부품 공급 산업):**
 
@@ -162,7 +165,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 **반도체 칩**: DSP 및 프로세서 제조, 주요 공급지 미국/대만, 주요 공급업체 Broadcom(US, [AVGO](/company-analysis/avgo/))
 
 **희토류 금속**: 광학 증폭기 제조, 주요 공급지 중국, 공급 리스크 상존
-
 **구리**: 전기 연결 및 케이블 제조, 주요 공급지 칠레/페루, 가격 변동성 영향
 
 **실리콘**: 반도체 기판 소재, 주요 공급지 중국/미국, 공급망 안정성 중요
@@ -195,6 +197,8 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 ---
 
 ## **경쟁업체**
+
+{{< adsense-infeed >}}
 
 **Nokia(FI, NOK)** - 광통신 장비 2위, 시장점유율 18.5%, 5G 인프라 강점  
 **Huawei(CN, Huawei)** - 글로벌 1위, 시장점유율 28.2%, 중국 내수 기반 강화  
@@ -260,7 +264,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 ---
 
 ## **관련 ETF**
-
 **직접 관련 ETF:**
 
 - **FTXL** - First Trust Nasdaq Technology Dividend Index Fund FTXL

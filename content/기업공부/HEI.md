@@ -1,14 +1,15 @@
 ﻿---
 title: "HEI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 403
----<div style="display:none">
+weight: 404
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #하이코 #HEI #항공우주 #방산전자 #PMA대체부품 #FAA인증 #애프터마켓 #MRO #비행지원그룹 #전자기술그룹 #고수익틈새 #우주급전자부품 #RF마이크로파 #적외선시뮬레이터 #전력변환장치 #임베디드컴퓨팅 #품질추적성 #규제장벽 #원가우위 #항공사비용절감 #민항회복 #OEM증산 #LEO위성 #전자전 #공급망다변화 #ESG #수익성성장 #현금창출 #포트폴리오다각화 #MRO #대체부품 
 
@@ -40,10 +41,11 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 - 주요 리스크 요소: FAA/EASA 규제·인증 변경, 항공 운항/제작 레이트 변동, 방산 예산 사이클, 특정 소재·전자부품 공급 병목, 인수자산 통합 리스크.
 
+{{< adsense-infeed >}}
+
 - 주된 원자재 및 공급망: 특수 합금(티타늄·니켈·스테인리스), 전자부품/PCB, 특수 코팅·접착·실링 재료. 북미 중심 다변화된 벤더 네트워크 활용.
 
 - 최근 주요 이슈: 민항 트래픽 회복에 따른 애프터마켓([PMA](/industry-study/pma/)) 수요 증가, 보잉/에어버스 생산 정상화에 따른 콘텐츠 증가, 우주/전자전 프로그램 견조, 소형 인수 다건.
-
 - 최근 1년 주가 동향: 민항·방산 수요 견조와 인수 모멘텀에 연동해 상대적 강세 구간과 시장 변동성 구간이 혼재(구체 수치: 확인 필요).
 
 ---
@@ -55,7 +57,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 - 고객 유형별 수익 구조:
     - 항공사·MRO·리스사(애프터마켓 부품/수리)
     - 방산 프라임·우주·산업·의료 OEM(전자/전력/센서·모듈)
-
 - 지역별 매출 분포: 북미 비중이 크고 유럽/아시아에 고르게 분산(정확 비중: 확인 필요).
 
 - 성장 동력 및 수익성 개선 요인: PMA 채택 확대(항공사 TCO 절감), OEM 증산에 따른 콘텐츠 증가, 우주·전자전 수요, 연속적 볼트온 M&A로 스케일/마진 레버리지.
@@ -74,6 +75,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 - 공급망·원가 경쟁력: 역설계·공정 최적화·다변화 소싱으로 리드타임/COGS 개선.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -91,7 +94,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ---
 
 ### 제조 공정
-
 1단계: 요구사항·인증 범위 정의(고객·감독당국 협업)  
 2단계: 설계·해석(FEA/열/진동) 및 시제품 제작  
 3단계: 인증 시험(환경/피로/EMI)·품질 문서화(FAA/EASA 제출)  
@@ -119,6 +121,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 부품 공급 단계:
 
+{{< adsense-infeed >}}
+
 - ATI(US, ATI): 티타늄·니켈 합금
 - TE Connectivity(CH, TEL): 커넥터/케이블·전자소자
 
@@ -137,6 +141,8 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 - FAA PMA 대체 부품: 엔진·유압·연료·기체/캐빈 구성품(항공사 비용 절감), 경쟁사 [TDG](/company-analysis/tdg/)
 - 전자 서브시스템: RF/마이크로파 모듈, IR 시뮬레이터, 전력변환기(항공전자/미사일/우주), 경쟁사 [TDY](/company-analysis/tdy/), [LHX](/company-analysis/lhx/), [HON](/company-analysis/hon/)
 - 임베디드/인터커넥트: 우주급 커넥터/케이블/컴퓨팅 모듈, 경쟁사 PH, MOG.A
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -177,7 +183,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 - FAA PMA 항공부품 카테고리에서 선도 사업자 중 하나로 평가.
 - 방산·우주 전자 틈새시장에서도 의미 있는 존재감.  
-
 ---
 
 ### 기업 특징 및 성장성
@@ -206,6 +211,5 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ---
 
 ### 관련 ETF
-
 - 항공우주/방산: ITA – iShares U.S. Aerospace & Defense ITA, XAR – SPDR S&P Aerospace & Defense XAR, PPA – Invesco Aerospace & Defense [PPA](/industry-study/ppa/)
 - 산업재: XLI – Industrial Select Sector SPDR XLI, VIS – Vanguard Industrials VIS

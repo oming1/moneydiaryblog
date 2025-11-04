@@ -1,14 +1,15 @@
 ﻿---
 title: "ROK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 755
----<div style="display:none">
+weight: 756
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #관세 #자동화 #리쇼어링 #산업자동화 #스마트제조 #IoT #디지털전환 #PLC #SCADA #산업로봇 #모션제어 #AI기술 #클라우드컴퓨팅 #제조효율성 #지속가능성 #ESG #산업용소프트웨어 #사이버보안 #디지털트윈 #인더스트리4.0 #공장자동화 #스마트팩토리
 
@@ -25,7 +26,6 @@ Rockwell Automation Inc.(NYSE: ROK)는 미국 위스콘신주 밀워키에 본�
 록웰 오토메이션은 다양한 산업 자동화 솔루션과 정보 서비스를 제공 하는 기업이다. PLC에 강점이 있다. 
 
 사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](/images/Pasted%20image%2020250331172254.png)
-
 지능형 장치 사업부는 록웰의 하드웨어 사업부다. 드라이브, 모션, 안전 센싱, 산업용 부품 및 주문형 제품 판매 등을 영위한다. 
 
 소프트웨어 및 컨트롤 사업부는 자동화를 위한 컨트롤, 시각화 소프트웨어, 디지털 트윈, 시뮬레이션 및 정보 소프트웨어, 네트워크 및 안전 인프라 솔루션 등을 제공한다. 
@@ -91,7 +91,9 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 - **ControlLogix PLCs**: 프로그래머블 로직 컨트롤러 (매출의 약 40%)
     
 - **FactoryTalk 소프트웨어**: SCADA 및 MES 플랫폼 (매출의 약 30%)
-    
+
+{{< adsense-infeed >}}
+
 - **PowerFlex 드라이브**: 모션 제어 시스템 (매출의 약 20%)
     
 - **서비스 및 컨설팅** (매출의 약 10%)
@@ -107,20 +109,22 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 4. 식품 및 음료 기업 (Coca-Cola(US, [KO](/company-analysis/ko/)), PepsiCo(US, [PEP](/company-analysis/pep/)))
 
 ## 주요 판매국가
-
 미국, 독일, 일본, 중국, 캐나다, 멕시코
 
 ## 경쟁업체
 
 1. Siemens AG(DE): 글로벌 자동화 및 디지털 솔루션 제공 업체
-    
+
+{{< adsense-infeed >}}
+
 2. ABB(CH): 산업 자동화 및 로봇 기술 전문 기업
-    
 3. Schneider Electric(FR): 에너지 관리 및 자동화 솔루션 제공 업체
     
 4. Honeywell International Inc.(US, [HON](/company-analysis/hon/)): 산업용 자동화 시스템 전문 기업
     
 5. Emerson Electric Co.(US, [EMR](/company-analysis/emr/)): 프로세스 제어 및 자동화 시스템 제공 업체
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -129,7 +133,9 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 ## 최근 3년 내 주요 이슈
 
 1. Plex Systems 인수 완료 ($22억 달러)로 클라우드 기반 MES 플랫폼 강화 (2022년)
-    
+
+{{< adsense-infeed >}}
+
 2. AI 기반 FactoryTalk 소프트웨어 업데이트 발표 (2023년)
     
 3. 지속 가능성 목표 강화로 탄소 배출량 감축 계획 발표 (2024년)
@@ -143,11 +149,9 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 - BlackRock (9%)
     
 - State Street Corporation (5%)
-
 ## 관련 ETF
 
 - Industrial Select Sector SPDR Fund - XLI
-    
 - iShares U.S. Industrials ETF - IYJ
     
 - Vanguard Industrials ETF - VIS

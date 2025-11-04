@@ -1,14 +1,15 @@
 ﻿---
 title: "POET"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-13T17:43:45+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 704
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 705
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-13T08:43:45Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #반도체 #테크 #광전자솔루션 #데이터센터 
 
@@ -19,8 +20,9 @@ weight: 704
 
 **영위사업**: POET Technologies는 광전자 솔루션을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 제품은 POET Optical Interposer™ 플랫폼을 기반으로 하며, 이는 전자 및 광자 장치를 단일 멀티칩 모듈로 통합할 수 있게 합니다. 주요 시장은 [데이터센터](/industry-study/데이터센터/), 통신, 사물인터넷(IoT), 산업 센싱, 자동차 LiDAR(라이다), 의료 기기용 광학 코히어런스 단층촬영(OCT), 가상 현실 시스템 등입니다.
 
-**전방/후방산업**:
+{{< adsense-infeed >}}
 
+**전방/후방산업**:
 - **전방산업**:
     - **데이터 센터**: 데이터 저장 및 처리 솔루션 제공. 주요 기업: Amazon (US, [AMZN](/company-analysis/amzn/)), Microsoft (US, [MSFT](/company-analysis/msft/)).
     - **통신**: 네트워크 인프라 및 서비스 제공. 주요 기업: Cisco (US, [CSCO](/company-analysis/csco/)), Huawei.
@@ -35,17 +37,17 @@ weight: 704
 - **조립 및 테스트**: 광전자 모듈 조립 및 테스트. 주요 기업: Foxconn (TW, 2354), ASE Technology (TW, 3711).
 
 **주요제품**:
-
 - **POET Optical Interposer™**: 전자 및 광자 장치를 단일 멀티칩 모듈로 통합하는 플랫폼.
 - **광학 엔진**: 100G, 200G, 400G, 800G 트랜시버용 광학 엔진.
 - **광원**: O-밴드 및 C-밴드 엔진.
 
 **주요 판매국가**:
-
 - **캐나다**
 - **미국**
 - **싱가포르**
 - **중국**
+
+{{< adsense-infeed >}}
 
 **경쟁업체**:
 

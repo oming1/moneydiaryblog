@@ -1,14 +1,15 @@
 ﻿---
 title: "SQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 824
----<div style="display:none">
+weight: 825
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #금융서비스 #핀테크 #대출
 
@@ -21,10 +22,11 @@ weight: 824
 
 Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제공하는 회사입니다. 이 플랫폼은 스마트폰 및 태블릿을 POS(판매 시점) 시스템으로 사용하여 신용카드 결제를 허용하고, 다양한 비즈니스 운영을 지원하는 기능을 포함합니다. Square는 결제 처리, 고객 예약, 재고 관리, 급여 처리, 은행 서비스 및 대출 제공 등 다양한 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 - **전방산업**:
-    
     - **핵심 산업 및 역할**: 소매업 및 서비스업의 결제 처리
     - **관련 기업**: PayPal (US, [PYPL](/company-analysis/pypl/)), Shopify (CA, [SHOP](/company-analysis/shop/))
     
@@ -35,13 +37,14 @@ Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **결제 처리**: Square의 결제 처리 시스템
     
     - **대표 회사**: PayPal (US, [PYPL](/company-analysis/pypl/)) - 온라인 결제 처리
     - **대표 회사**: Adyen (NL, ADYEY) - 글로벌 결제 처리 솔루션
     
 - **소프트웨어 개발**: Square의 POS 소프트웨어 및 관리 도구 개발
-    
     - **대표 회사**: Toast (US, 비상장) - 레스토랑 POS 솔루션
     - **대표 회사**: Clover (US, 비상장) - POS 시스템
     
@@ -58,7 +61,6 @@ Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제�
 - **Square Payroll** (급여 처리 서비스, 매출의 약 15%)
 
 ## 주요 판매국가
-
 Square는 미국을 중심으로 캐나다, 호주, 일본, 영국, 아일랜드, 프랑스 및 스페인 등 여러 국가에서 운영되고 있습니다.
 
 ## 경쟁업체
@@ -66,7 +68,6 @@ Square는 미국을 중심으로 캐나다, 호주, 일본, 영국, 아일랜드
 - **PayPal (US, [PYPL](/company-analysis/pypl/))** - 온라인 결제 및 송금 서비스
 - **Shopify (CA, [SHOP](/company-analysis/shop/))** - 전자상거래 플랫폼 및 결제 처리
 - **Adyen (NL, ADYEY)** - 글로벌 결제 처리 솔루션
-
 ## 산업 내 글로벌 시장 점유율
 
 Square는 미국 중소기업 결제 처리 시장에서 약 35%의 점유율을 보유하고 있으며, 이는 경쟁사보다 높은 수치입니다 (2022년 기준).

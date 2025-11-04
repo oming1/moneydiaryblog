@@ -1,14 +1,15 @@
 ﻿---
 title: "ROKU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 756
----<div style="display:none">
+weight: 757
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #스트리밍 #미디어 #커뮤니케이션서비스 #엔터테인먼트
 
@@ -18,30 +19,36 @@ weight: 756
 			-  [ROKU](/company-analysis/roku/) +11.1%, Shopify와 Shoppable 광고 관련 파트너십 체결, 소비자들은 Shopify의 쇼핑 솔루션을 이용해 ROKU로 비디오를 시청하다가 Roku Pay를 이용해 바로 구매 가능
 
 ## 산업섹터
-
 - **Sector**: Communication Services (커뮤니케이션 서비스)
 - **Industry**: Entertainment (엔터테인먼트)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
 Roku는 스트리밍 플랫폼을 제공하는 회사로, 사용자에게 다양한 콘텐츠를 쉽게 접근할 수 있도록 하는 스트리밍 장치 및 스마트 TV를 개발하고 판매합니다. Roku의 플랫폼은 사용자에게 다양한 스트리밍 서비스, 채널 및 콘텐츠를 통합하여 제공합니다.
 
 ## 전방/후방산업
-
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 스트리밍 서비스 및 콘텐츠 제공
     - **관련 기업**: Netflix (US, [1.Study/☆ 개별종목/NFLX](/company-analysis/nflx/)), Amazon Prime Video (US, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/))
     
 - **후방산업**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업 및 역할**: 하드웨어 및 소프트웨어 솔루션 제공
     - **관련 기업**: Apple (US, [AAPL](/company-analysis/aapl/)), Google (US, [1.Study/☆ 개별종목/GOOGL](/company-analysis/googl/))
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **디바이스 제조**: Roku의 스트리밍 장치 및 스마트 TV 제조
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Amazon (US, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/)) - Fire TV 장치
     - **대표 회사**: Apple (US, [AAPL](/company-analysis/aapl/)) - Apple TV
 - **소프트웨어 개발**: Roku 운영 체제 및 사용자 인터페이스 개발
@@ -74,7 +81,6 @@ Roku는 미국을 중심으로 운영되며, 캐나다, 영국, 멕시코 등 �
 Roku는 미국 스트리밍 장치 시장에서 약 30%의 점유율을 보유하고 있으며, 글로벌 스트리밍 플랫폼 시장에서도 중요한 위치를 차지하고 있습니다 (2023년 기준).
 
 ## 최근 3년 내 주요 이슈
-
 - **사용자 수 증가**: Roku의 활성 사용자 수가 지속적으로 증가하며 시장 점유율 확대 (2021-2023).
 - **콘텐츠 파트너십 확장**: 다양한 스트리밍 서비스와의 파트너십 체결로 콘텐츠 다양성 증가 (2022).
 - **수익 모델 다각화**: 광고 기반 수익 모델 강화 및 새로운 수익원 개발 (2023).

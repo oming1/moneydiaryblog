@@ -1,14 +1,15 @@
 ﻿---
 title: "GNRC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 383
----<div style="display:none">
+weight: 384
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #허리케인 #산업재 #특수산업기계 #발전기 #ESS #전력 
 
@@ -36,7 +37,6 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
         - 에너지 생산: Duke Energy (미국, [DUK](/company-analysis/duk/))
         - 에너지 저장: Tesla (미국, [TSLA](/company-analysis/tsla/))
         - 에너지 전송: American Electric Power (미국, [AEP](/company-analysis/aep/))
-
 **밸류체인**
 
 - **생산:** 전력 및 에너지 저장 제품 생산
@@ -45,7 +45,6 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
     - **대표 회사:** American Electric Power (미국, [AEP](/company-analysis/aep/)), Dominion Energy (미국, [D](/company-analysis/d/))
 - **배포:** 전력 및 에너지 배포
     - **대표 회사:** Southern Company (미국, [SO](/company-analysis/so/)), Consolidated Edison (미국, [ED](/company-analysis/ed/))
-
 **주요제품**
 
 - **가정용 자동 대기 발전기:** 가정용 전력 공급
@@ -53,23 +52,29 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
 - **스마트 홈 솔루션:** 스마트 온도 조절기, 스마트 초인종 카메라 등
 - **에너지 저장 시스템([ESS](/industry-study/ess/)):** 배터리, 인버터, 태양광 최적화기 등
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**
 
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
-
 **경쟁업체**
+
+{{< adsense-infeed >}}
 
 - **Tesla (미국, [TSLA](/company-analysis/tsla/)):** 에너지 저장 및 전력 공급
 - **Caterpillar (미국, [CAT](/company-analysis/cat/)):** 상업용 및 산업용 전력 공급
 - **Cummins (미국, [CMI](/company-analysis/cmi/)):** 상업용 및 산업용 전력 공급
-
 **산업 내 글로벌 시장 점유율**
+
+{{< adsense-infeed >}}
 
 - Generac Holdings는 글로벌 에너지 기술 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
 
 **최근 3년 내 주요 이슈**
+
+{{< adsense-infeed >}}
 
 - **2022년:** 새로운 스마트 홈 솔루션 출시 (2022)
 - **2023년:** 에너지 저장 시스템 확장 (2023)

@@ -1,14 +1,15 @@
 ﻿---
 title: "LDOS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 508
----<div style="display:none">
+weight: 509
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,8 +19,9 @@ weight: 508
 
 섹터: 정보기술
 산업: IT서비스
-
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 생명공학 분야에서 과학 및 기술 솔루션을 제공하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
@@ -28,7 +30,6 @@ Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 �
 3. 건강: 생명과학 연구, 의료 제품 개발, 건강 정보 시스템 등
 
 2024년 기준 총 매출은 약 148억 달러였으며, 전 세계적으로 45,000명 이상의 직원을 고용하고 있습니다. 최근에는 AI, 클라우드 컴퓨팅, 빅데이터 분석 등 첨단 기술을 활용한 솔루션 개발에 주력하고 있으며, 특히 사이버 보안과 디지털 전환 분야에서의 성장을 목표로 하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 다양한 기술 포트폴리오: IT, 엔지니어링, 과학 분야에 걸친 광범위한 기술력 보유
@@ -44,7 +45,6 @@ Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 �
 - 정부 기관: 미국 국방부, 국토안보부, NASA
 - 의료 기관: 병원, 제약 회사, 연구 기관
 - 교통 및 에너지: 공항, 전력 회사, 스마트 시티 프로젝트
-
 후방산업:
 
 - 하드웨어 제조: Dell Technologies(US, [DELL](/company-analysis/dell/)), HP Inc.(US, [HPQ](/company-analysis/hpq/))
@@ -99,6 +99,8 @@ Leidos Holdings는 2024년 기준 글로벌 정부 IT 서비스 시장에서 약
 - ESG 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2022년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)

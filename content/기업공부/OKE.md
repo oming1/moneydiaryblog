@@ -1,14 +1,15 @@
 ﻿---
 title: "OKE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 652
----<div style="display:none">
+weight: 653
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #에너지 #트럼프  #천연가스액체 #NGL #미드스트림 #천연가스파이프라인 #정제제품 #원유 #가스처리 #저장 #수집 #분류 #에너지인프라 #에너지운송 #석유화학 #프로판 #부탄 #에탄 #에너지 #인프라 #파이프라인 #에너지미드스트림 #Industrials #Energy #Pipeline
 
@@ -34,7 +35,7 @@ weight: 652
 ONEOK Inc.는 1906년 설립된 미국의 대표적인 에너지 미드스트림 기업으로, 천연가스액체(NGL), 정제석유제품, 원유, 천연가스의 수집, 처리, 저장, 운송 서비스를 제공하는 종합 에너지 인프라 회사입니다. 회사는 미국 전역에 걸쳐 약 50,000마일에 달하는 파이프라인 네트워크를 운영하고 있습니다.
 
 주요 사업부문은 천연가스액체(NGL), 정제제품 및 원유, 천연가스 수집 및 처리, 천연가스 파이프라인 4개 부문으로 구성됩니다. 2024년 총 매출 250억 달러를 기록했으며, 순이익 30억 달러를 달성했습니다. 2024년 말 기준 EnLink Midstream 완전 인수와 Medallion Midstream 인수를 통해 사업 규모를 대폭 확장했습니다.
-!Pasted image 20250711145926.png
+![](/images/Pasted%20image%2020250711145926.png)
 비즈니스 모델 & 수익 모델 요약: 수수료 기반 미드스트림 서비스 모델로 운영됩니다. 생산업체들로부터 원유, 천연가스, NGL을 수집하여 처리, 분류한 후 정제소와 화학공장 등 최종 사용자에게 운송하는 서비스를 제공합니다. 장기 계약 기반의 안정적인 수수료 수익 구조를 갖추고 있어 상품 가격 변동에 상대적으로 덜 민감합니다.
 
 리스크 요소로는 유가 및 천연가스 가격 변동, 생산량 감소, 환경 규제 강화, 재생에너지 전환 리스크, 파이프라인 사고 및 운영 중단 위험이 있습니다. 주된 원자재는 천연가스, 원유, 천연가스액체(에탄, 프로판, 부탄, 이소부탄, 천연가솔린)입니다.
@@ -117,7 +118,6 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 - 천연가스 처리 시설에서 불순물 제거
 - NGL 분리 및 잔여 천연가스 정제
 - 품질 관리 및 규격 준수
-
 **3. 분류 단계:**
 
 - NGL 분류 시설에서 에탄, 프로판, 부탄 등으로 분리
@@ -137,11 +137,9 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 
 - 트럭 및 철도 적재 시설 운영
 - 블렌딩 및 품질 조정 서비스
-
 ---
 
 ## 전방산업 / 후방산업
-
 **전방산업:**
 
 - 석유화학 업체: NGL을 원료로 플라스틱, 화학제품 생산 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron Phillips(US, Chevron Phillips)
@@ -162,6 +160,8 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 
 **원료 공급 단계:** 원유, 천연가스, NGL 생산 및 공급
 
+{{< adsense-infeed >}}
+
 - EOG Resources(US, [EOG](/company-analysis/eog/)) - 셰일 오일 및 천연가스 생산, 주요 원료 공급업체
 - Pioneer Natural Resources(US, PXD) - 페름 분지 생산, NGL 원료 공급
 - Continental Resources(US, CLR) - 바겐 셰일 생산, 원유 및 천연가스 공급
@@ -175,6 +175,8 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 - Energy Transfer(US, [ET](/company-analysis/et/)) - 천연가스 파이프라인, 경쟁사
 - Kinder Morgan(US, [KMI](/company-analysis/kmi/)) - 천연가스 파이프라인, 경쟁사
 - Williams Companies(US, [WMB](/company-analysis/wmb/)) - 천연가스 인프라, 경쟁사
+
+{{< adsense-infeed >}}
 
 **최종 사용 단계:** 정제 및 화학 제품 생산
 
@@ -229,7 +231,6 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 ---
 
 ## 주요고객
-
 - Valero Energy(US, [VLO](/company-analysis/vlo/)) - 정제제품 파이프라인 운송, 원유 공급
 - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)) - 정제소 운영, 원유 및 정제제품 운송
 - Phillips 66(US, [PSX](/company-analysis/psx/)) - 정제 및 화학제품 생산, NGL 및 원유 공급
@@ -333,7 +334,6 @@ ONEOK는 미국 내 에너지 미드스트림 분야의 선도 기업으로, 특
 
 - Pierce Norton (CEO): 약 0.08% (약 50만 주)
 - Walt Hulse (CFO): 약 0.04% (약 25만 주)
-
 ---
 
 ## 관련 ETF

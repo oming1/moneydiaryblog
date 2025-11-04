@@ -1,14 +1,15 @@
 ﻿---
 title: "ETSY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 325
----<div style="display:none">
+weight: 326
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -35,6 +36,8 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 독특한 상품 포트폴리오: 수백만 개의 고유한 수제품과 빈티지 상품 제공
     
 2. 글로벌 네트워크: 전 세계적인 판매자와 구매자 커뮤니티 구축
@@ -50,17 +53,14 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 전방산업:
 
 - 소매업: 수제품, 빈티지 상품 판매 (Amazon(US, [AMZN](/company-analysis/amzn/)), eBay(US, [EBAY](/company-analysis/ebay/)))
-    
 - 패션 산업: 의류, 액세서리 판매 (ASOS(UK, ASC), Zalando(DE, ZAL))
 
 후방산업:
-
 - 결제 처리: 온라인 결제 시스템 (PayPal(US, [PYPL](/company-analysis/pypl/)), Stripe(Stripe))
     
 - 물류 및 배송: 상품 배송 서비스 (FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/)))
 
 ## 밸류체인
-
 1. 판매자 유치: Etsy 마케팅 팀, 파트너십 프로그램
     
 2. 상품 등록: 판매자 도구 및 지원 시스템
@@ -78,7 +78,6 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 1. Etsy.com 마켓플레이스: 수제품, 빈티지 상품 거래 플랫폼 (2023년 매출의 약 85%)
     
 2. 판매자 서비스: Etsy Ads, Etsy Payments, 배송 라벨 등 (2023년 매출의 약 15%)
-    
 3. 기타 브랜드: Reverb, Depop, Elo7 (매출 비중 미공개)
 
 ## 주요 판매국가
@@ -96,6 +95,8 @@ Etsy Inc는 수제품, 빈티지 상품, 공예 용품 등을 판매하는 글�
 4. Wayfair(US, [W](/company-analysis/w/)): 가구 및 홈 데코 전문 온라인 마켓플레이스
     
 5. Alibaba Group(CN, [BABA](/company-analysis/baba/)): 글로벌 전자상거래 기업
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -116,7 +117,6 @@ Etsy는 수제품 및 빈티지 상품 온라인 마켓플레이스 분야에서
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
-    
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)

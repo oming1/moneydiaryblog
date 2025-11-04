@@ -1,14 +1,15 @@
 ﻿---
 title: "ABBV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 9
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #헬스케어 #제약 #자가면역질환 #암 #조현병 
 
@@ -18,7 +19,6 @@ weight: 9
 - **Industry**: 제약 제조 - 일반 (Drug Manufacturers - General)
 
 #### 영위사업
-
 AbbVie는 전 세계적으로 의약품을 발견, 개발, 제조 및 판매하는 회사입니다. 주요 제품으로는 자가면역 질환, 암, 신경과학, 바이러스학, 안과 및 미용 관련 치료제를 포함합니다.
 
 #### 전방/후방산업
@@ -34,7 +34,6 @@ AbbVie는 전 세계적으로 의약품을 발견, 개발, 제조 및 판매하�
     - **관련 기업**: BASF (독일), Lonza Group (스위스)
 
 #### 밸류체인
-
 - **연구개발 (R&D)**: 새로운 의약품 및 치료법 개발
     - **대표 회사**: AbbVie (US, [ABBV](/company-analysis/abbv/)), Pfizer (US, [PFE](/company-analysis/pfe/))
 - **원료 제조**: 의약품 제조에 필요한 원료 생산
@@ -43,23 +42,24 @@ AbbVie는 전 세계적으로 의약품을 발견, 개발, 제조 및 판매하�
     - **대표 회사**: AbbVie (US, [ABBV](/company-analysis/abbv/)), Merck & Co. (US, [MRK](/company-analysis/mrk/))
 - **판매 및 마케팅**: 의약품 판매 및 마케팅
     - **대표 회사**: AbbVie (US, [ABBV](/company-analysis/abbv/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
-
 #### 주요제품
-
 - **Humira (아달리무맙)**: 자가면역 질환 치료 (2023년 매출 비중: 약 27%)
 - **Skyrizi (리산키주맙)**: 중등도에서 중증의 판상 건선 치료 (2023년 매출 비중: 약 14%)
 - **Rinvoq (우파다시티닙)**: 류마티스 관절염 및 기타 자가면역 질환 치료 (2023년 매출 비중: 약 7%)
 - **Imbruvica (이브루티닙)**: 혈액암 치료 (2023년 매출 비중: 약 6%)
 - **Botox (보툴리눔 독소)**: 미용 및 치료용 (2023년 매출 비중: 약 10%)
 - 조현병 치료제
-
 #### 주요 판매국가
 
 - **미국**: 2023년 매출액 27.2억 달러
 - **유럽**: 2023년 매출액 15.3억 달러
 - **아시아 태평양**: 2023년 매출액 8.7억 달러
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제 및 백신
 - **Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))**: 의약품, 의료기기 및 소비자 건강 제품

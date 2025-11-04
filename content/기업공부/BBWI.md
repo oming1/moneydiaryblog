@@ -1,14 +1,15 @@
 ﻿---
 title: "BBWI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-26T15:13:56+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 121
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-26T06:13:56Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #임의소비재 #전문소매 #향수 #바디케어 #바디케어전문점
 
@@ -24,13 +25,16 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 소매, 개인용품
     - 역할: 소비자에게 직접 제품 판매
     - 주요 기업: Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)), Sephora (프랑스, 비상장)
-    
 - 후방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 화학, 향료 제조
     - 역할: 원료 및 향료 공급
     - 주요 기업: International Flavors & Fragrances (미국, IFF)
@@ -43,12 +47,10 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
     - 대표 기업: Estée Lauder (미국, [EL](/company-analysis/el/)), L'Oréal (프랑스, OR)
     
 - 유통 및 판매:
-    
     - 자사 매장과 온라인을 통해 제품을 판매합니다.
     - 대표 기업: Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)), Sephora (프랑스, 비상장)
 
 ## 주요 제품
-
 - 바디 케어 제품 (샤워 젤, 바디 로션, 바디 크림)
 - 향수 및 프래그런스 미스트
 - 핸드 소프 및 핸드 크림
@@ -57,6 +59,8 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 주요 판매 국가
 
 미국과 캐나다를 중심으로 전 세계 6개 대륙에서 사업을 전개하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -67,7 +71,6 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았지만, Bath & Body Works는 미국 내 최대 규모의 바디 케어 전문점 체인으로 알려져 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - Victoria's Secret과 분리되어 독립 상장 기업이 됨 (2021년)

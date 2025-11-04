@@ -1,14 +1,15 @@
 ﻿---
 title: "WDC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 957
----<div style="display:none">
+weight: 958
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,8 +19,9 @@ weight: 957
 
 섹터: 정보기술
 산업: 컴퓨터하드웨어
-
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계, 제조, 판매하는 글로벌 선도 기업입니다. 1970년에 설립된 이 회사는 하드 디스크 드라이브(HDD), 솔리드 스테이트 드라이브(SSD), 낸드 플래시 메모리 등 다양한 제품을 통해 개인, 기업 및 데이터 센터 고객에게 서비스를 제공합니다.주요 사업 부문은 다음과 같습니다:
 
@@ -27,10 +29,11 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 2. 플래시 사업: SSD 및 낸드 플래시 메모리 기반 솔루션
 3. 데이터 센터 솔루션: Zoned Storage 및 OpenFlex 아키텍처 기반 제품
 
+{{< adsense-infeed >}}
+
 2024년 기준, Western Digital은 전 세계 18개국에 법인을 두고 있으며 약 51,000명의 직원을 보유하고 있습니다. 최근에는 HDD와 플래시 사업을 각각 독립적인 상장 회사로 분리하려는 계획을 발표하며 전략적 재편을 진행 중입니다.
 
 ## 핵심 경쟁력
-
 1. 수직 통합 모델: 설계, 제조, 유통까지 모든 과정을 통합하여 비용 효율성과 품질 제어 강화
 2. 혁신 기술: HAMR, Zoned Storage, RISC-V 등 첨단 기술 도입
 3. 글로벌 시장 점유율: HDD 시장에서 Seagate와의 듀오폴리 형성 및 낸드 시장에서 Kioxia와의 협력
@@ -40,10 +43,11 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 ## 전방/후방산업
 
 전방산업:
-
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 데이터 센터: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
 - 소비자 전자제품: Dell Technologies(US, [DELL](/company-analysis/dell/)), HP Inc.(US, [HPQ](/company-analysis/hpq/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -72,6 +76,8 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 개인용 컴퓨터 및 프린터
 - Lenovo Group(HK, [992]) - 개인용 컴퓨터 및 서버
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 클라우드 및 데이터 센터 솔루션
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

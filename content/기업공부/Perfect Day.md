@@ -1,14 +1,15 @@
 ﻿---
 title: "Perfect Day"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 682
----<div style="display:none">
+weight: 683
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #대체단백질 #소비자방어주 #우유단백질 #포장식품 #우유
 
@@ -23,13 +24,16 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 식품 제조업체: Nestlé (스위스, [NESN](/company-analysis/nesn/)), Mars (비상장)
 - 유제품 대체품 제조업체: Oatly (US, [OTLY](/company-analysis/otly/))
 
-후방산업:
+{{< adsense-infeed >}}
 
+후방산업:
 - [바이오리액터](/industry-study/바이오리액터/) 제조업체
 - 발효 원료 공급업체
 
@@ -39,7 +43,6 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 - 원료 생산: Perfect Day의 정밀발효 기술을 통한 우유 단백질 생산
 - 제품 제조: 파트너사와 협력 (예: Mars, Nestlé)
 - 유통 및 판매: The Urgent Company (자회사)를 통한 B2C 판매, B2B 원료 공급
-
 ## 주요제품
 
 - 동물성 원료 없는 유청 단백질
@@ -58,8 +61,9 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 - Those Vegan Cowboys (네덜란드, 비상장) - 정밀발효 유제품
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 시장점유율 데이터는 없으나, 정밀발효 유제품 분야의 선두주자로 평가받고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

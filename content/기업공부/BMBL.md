@@ -1,14 +1,15 @@
 ﻿---
 title: "BMBL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 147
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -28,7 +29,6 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 1. 여성 중심 플랫폼: Bumble 앱에서 여성이 먼저 대화를 시작하는 독특한 모델로 차별화
     
 2. 다양한 연결 모드: 데이팅, 친구 찾기, 비즈니스 네트워킹 등 다목적 플랫폼 제공
-    
 3. 강력한 브랜드 인지도: 여성 권한 강화와 안전한 온라인 환경 조성으로 긍정적 이미지 구축
     
 4. 기술 혁신: AI 및 머신러닝 기반의 매칭 알고리즘 지속 개선
@@ -38,7 +38,6 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 ## 전방/후방산업
 
 전방산업:
-
 - 모바일 앱 스토어: 앱 유통 (Apple(US, [AAPL](/company-analysis/aapl/)), Google(US, [GOOGL](/company-analysis/googl/)))
     
 - 온라인 광고: 사용자 획득 (Facebook(US, [META](/company-analysis/meta/)), Twitter(US, TWTR))
@@ -54,7 +53,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 1. 앱 개발: Bumble Inc 내부 개발팀
     
 2. 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
-    
+
+{{< adsense-infeed >}}
+
 3. 결제 처리: Stripe(Stripe), PayPal(US, [PYPL](/company-analysis/pypl/))
     
 4. 사용자 인증: Twilio(US, [TWLO](/company-analysis/twlo/)), Okta(US, [OKTA](/company-analysis/okta/))
@@ -68,7 +69,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 1. Bumble 앱: 데이팅, 친구 찾기, 비즈니스 네트워킹 (매출의 약 70%, 2023년 기준)
     
 2. Badoo 앱: 글로벌 데이팅 플랫폼 (매출의 약 25%, 2023년 기준)
-    
+
+{{< adsense-infeed >}}
+
 3. Fruitz 앱: 젊은 층 대상 데이팅 앱 (매출의 약 5%, 2023년 기준)
 
 ## 주요고객
@@ -82,7 +85,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 ## 경쟁업체
 
 1. Match Group(US, [MTCH](/company-analysis/mtch/)): Tinder, Hinge, OkCupid 등 운영
-    
+
+{{< adsense-infeed >}}
+
 2. Spark Networks(US, LOV): Elite Singles, Christian Mingle 등 운영
     
 3. The Meet Group(US, MEET): MeetMe, LOVOO 등 운영
@@ -90,8 +95,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 4. Grindr(US, GRND): LGBTQ+ 중심 데이팅 앱
     
 5. Happn(Happn): 위치 기반 데이팅 앱
-
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, 2023년 기준 온라인 데이팅 시장에서 약 15-20%의 점유율을 차지하는 것으로 추정됩니다.
 
@@ -104,7 +110,6 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 3. 비디오 통화 기능 강화로 코로나19 대응 (2021년)
     
 4. ESG 이니셔티브 강화 및 여성 리더십 프로그램 확대 (2023년)
-    
 5. 프리미엄 구독 모델 다각화로 수익성 개선 (2024년)
 
 ## 주요주주(지분율)
@@ -118,7 +123,6 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 4. BlackRock (약 5%)
 
 ## 관련 ETF
-
 1. Global X Social Media ETF - SOCL
     
 2. Roundhill IO Digital Economy ETF - ECOM

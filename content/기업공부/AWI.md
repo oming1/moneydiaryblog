@@ -1,14 +1,15 @@
 ﻿---
 title: "AWI"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-28T21:01:53+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 102
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:01:53Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #바닥재 #건축제품 #산업재 #타일 
 
@@ -22,7 +23,6 @@ weight: 102
 Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와 제조를 전문으로 하는 기업입니다
 
 ## 전방/후방산업
-
 ## 후방산업
 
 - 원자재 공급: 광물, 목재, 금속 등 (예: 알코아(US, [AA](/company-analysis/aa/)), 뉴코어(US, [NUE](/company-analysis/nue/)))
@@ -34,25 +34,24 @@ Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와
 - 유통: 건축자재 유통업체 (예: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/)))
 
 ## 밸류체인
-
 1. 원자재 조달: 알코아(US, [AA](/company-analysis/aa/)) (알루미늄), 뉴코어(US, [NUE](/company-analysis/nue/)) (철강)
 2. 제품 설계 및 제조: Armstrong World Industries(US, [AWI](/company-analysis/awi/))
 3. 유통 및 판매: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/))
 4. 설치 및 시공: 전문 건설업체 및 계약업자
 
 ## 주요제품
-
 - 천장 시스템 (타일, 패널, 서스펜션 시스템)
 - 벽면 시스템 (패널, 타일)
 - 음향 솔루션
 - 특수 천장 및 벽면 디자인 제품
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
 - 미국 (주요 시장)
 - 캐나다
 - 라틴 아메리카
-
 ## 경쟁업체
 
 - USG Corporation (천장 및 벽면 시스템)
@@ -64,7 +63,11 @@ Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Armstrong World Industries는 북미 천장 시스템 시장에서 선두 기업 중 하나로 평가받고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - COVID-19 팬데믹으로 인한 건설 산업 영향 및 대응 (2020-2021)
 - 지속가능성 이니셔티브 강화 및 친환경 제품 라인 확대 (2022)

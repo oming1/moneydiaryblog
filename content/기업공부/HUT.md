@@ -1,14 +1,15 @@
 ﻿---
 title: "HUT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 428
----<div style="display:none">
+weight: 429
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -44,7 +45,6 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - 클라우드 서비스 사용자: 기업 IT 부서, 게임 개발사
 - AI 및 머신러닝 기업: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 블록체인 및 암호화폐: Coinbase(US, [COIN](/company-analysis/coin/)), Binance
-
 후방산업:
 
 - 반도체 제조: Intel(US, [INTC](/company-analysis/intc/)), AMD(US, [AMD](/company-analysis/amd/))
@@ -59,7 +59,11 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - 재해 복구 서비스(DRaaS): Zerto 기반의 클라우드 간 복구 솔루션
 - 비트코인 채굴: 대규모 디지털 자산 채굴 운영
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 캐나다, 미국
 
@@ -88,9 +92,7 @@ Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 - The Vanguard Group (8.17%)
 - BlackRock Fund Advisors (7.38%)
 - SSgA Funds Management, Inc. (4.84%)
-
 ## 관련 ETF
-
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
 - First Trust Cloud Computing ETF - SKYY
 - Amplify Transformational Data Sharing ETF - BLOK

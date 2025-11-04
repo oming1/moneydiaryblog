@@ -1,14 +1,15 @@
 ﻿---
 title: "NWS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 643
----<div style="display:none">
+weight: 644
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 ## 미국 상장 여부
 
@@ -68,7 +69,6 @@ News Corporation의 비즈니스 모델은 다면적 미디어 플랫폼을 통�
 - **부동산 광고:** 리얼터닷컴을 통한 부동산 업계 마케팅
 
 ### 4. 라이선스 및 신디케이션:
-
 - **콘텐츠 라이선스:** 뉴스 콘텐츠 및 출판물 라이선스
 - **데이터 라이선스:** 금융 및 비즈니스 데이터 라이선스
 
@@ -199,6 +199,8 @@ News Corporation의 핵심 경쟁력은 글로벌 미디어 생태계에서 구�
 - **주요 공급 지역:** 글로벌 (주요 도시 중심)
 - **주요 공급 업체:** 직접 고용 및 프리랜서
 
+{{< adsense-infeed >}}
+
 ### 인쇄 잉크:
 
 - **사용처:** 신문 및 도서 인쇄
@@ -257,7 +259,6 @@ News Corporation의 핵심 경쟁력은 글로벌 미디어 생태계에서 구�
 - Macmillan Publishers - 교육 및 일반 출판
 
 **디지털 부동산 서비스:**
-
 - Zillow Group(US, ZG) - 미국 부동산 정보 플랫폼
 - CoStar Group(US, [CSGP](/company-analysis/csgp/)) - 상업 부동산 정보 서비스
 - Domain Holdings(AU, Domain Holdings) - 호주 부동산 정보 서비스
@@ -310,7 +311,6 @@ News Corporation은 전통적인 미디어 기업에서 디지털 중심 다각�
 **2022년:** 하퍼콜린스 직원 파업으로 출판 일정 지연, 공급망 문제 발생 (2022)
 
 **2023년:** 다우존스 부문 디지털 전환 가속화, B2B 데이터 솔루션 확대 (2023)
-
 **2024년:** CEO 로버트 톰슨 계약 2030년까지 연장, 경영 안정성 확보 (2024)
 
 **2024년:** 다우존스 부문 수익성 50% 이상 달성이라는 중요한 이정표 기록 (2024)
@@ -318,6 +318,8 @@ News Corporation은 전통적인 미디어 기업에서 디지털 중심 다각�
 **2024년:** 새로운 CTO 줄리안 델라니 임명, 글로벌 기술 인프라 통합 추진 (2024)
 
 **2024년:** 스타보드 벨류 헤지펀드의 머독 패밀리 의결권 구조 도전 시도, 주주 투표에서 패배 (2024)
+
+{{< adsense-infeed >}}
 
 **2025년:** 월스트리트저널 구독자 434만 명 달성, 디지털 구독자 비중 90% 이상 (2025)
 

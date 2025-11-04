@@ -1,14 +1,15 @@
 ﻿---
 title: "JD"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-08-28T14:19:59+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 466
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 467
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-28T05:19:59Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #소비재 #소매 #전자상거래 #중국  #임의소비재 
 
@@ -23,6 +24,8 @@ JD.com, Inc., 또한 알려진 이름인 Jingdong (京东),은 1998년에 설립
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 전자상거래 플랫폼 운영
 - 다양한 상품의 온라인 판매 (가전제품, 의류, 식품 등)
 - 물류 및 배송 서비스 제공 (JD Logistics)
@@ -35,11 +38,12 @@ JD.com, Inc., 또한 알려진 이름인 Jingdong (京东),은 1998년에 설립
 - 주요 고객: 개인 소비자 및 기업
 
 후방산업:
-
 - 역할: 원자재 및 상품 공급
 - 제조업체 및 도매업체
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 전자제품 (컴퓨터, 스마트폰 등)
 - 의류 및 패션 액세서리
@@ -47,10 +51,11 @@ JD.com, Inc., 또한 알려진 이름인 Jingdong (京东),은 1998년에 설립
 - 가정용품 및 가전제품
 
 ## 주요 판매국가
-
 JD.com은 주로 중국에서 운영되며, 최근에는 국제 시장으로도 확장을 시도하고 있습니다.
 
 ## 주요 자산
+
+{{< adsense-infeed >}}
 
 - 대규모 물류 네트워크
 - 2023년 기준으로 연간 매출 1528억 달러
@@ -65,12 +70,13 @@ JD.com은 주로 중국에서 운영되며, 최근에는 국제 시장으로도 
 ## 산업 내 글로벌 시장 점유율
 
 JD.com은 중국 내 B2C 전자상거래 시장에서 중요한 위치를 차지하고 있으며, 2023년 기준으로 약 56%의 시장 점유율을 보유하고 있습니다.
-
 ## 최근 뉴스 및 재무 성과
 
 - **2024년 계획**: JD.com은 영국과 아일랜드에 새로운 매장을 여는 계획을 발표했습니다.
 - **기술 투자**: JD.com은 물류 자동화 및 드론 배송 시스템에 대한 투자를 확대하고 있습니다.
 
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [JD.com - Wikipedia](https://en.wikipedia.org/wiki/JD.com)

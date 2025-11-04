@@ -1,14 +1,15 @@
 ﻿---
 title: "FCX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 339
----<div style="display:none">
+weight: 340
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #구리채굴 #몰리브덴 #금채굴 #광산업 #원자재 #국제광산업 #그라스베르크광산 #모렌시광산 #세로베르데광산 #구리생산 #몰리브덴생산 #금생산 #광물자원 #대규모광산 #장기자산 #지리적다양성 #원자재가격 #광산운영 #소재 #광업
 
@@ -77,6 +78,8 @@ Freeport-McMoRan의 비즈니스 모델은 대규모 장기 광산 자산을 통
 - 현물 시장에서의 가격 연동 판매
 - 지리적 다양성을 통한 리스크 분산
 
+{{< adsense-infeed >}}
+
 핵심 경쟁력은 대규모 매장량, 지리적 다양성, 운영 효율성, 구리 가격 상승 수혜를 통한 수익성 개선입니다.
 
 ---
@@ -100,7 +103,6 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 ---
 
 ## 제조공정
-
 **1. 탐사 및 개발:**
 
 - 지질학적 탐사를 통한 광물 매장량 확인
@@ -117,7 +119,6 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - 부유선별법을 통한 구리, 금, 몰리브덴 분리
 
 **4. 정련:**
-
 - 제련소에서 고온 처리를 통한 금속 추출
 - 전기분해를 통한 순도 높은 금속 생산
 
@@ -153,6 +154,8 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)) - 자체 광산 운영
 - 경쟁사: BHP(AU, [BHP](/company-analysis/bhp/)), Rio Tinto(UK, [RIO](/company-analysis/rio/)), Southern Copper(US, [SCCO](/company-analysis/scco/))
 
+{{< adsense-infeed >}}
+
 **선별 및 정제 단계:** 광물 분리 및 순도 높은 금속 생산
 
 - Atlantic Copper - 제련소 운영 (FCX 자회사)
@@ -164,13 +167,11 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - Wieland Group(DE, Wieland Group) - 구리 가공 제품
 - KME Group(DE, KME Group) - 구리 및 구리 합금 제품
 - Mitsubishi Materials(JP, Mitsubishi Materials) - 금속 가공 및 유통
-
 **최종 사용자 단계:** 제조업체 및 건설업체
 
 - Tesla(US, [TSLA](/company-analysis/tsla/)) - 전기차 배터리 및 모터용 구리
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 전자기기 내부 구리 부품
 - General Electric(US, [GE](/company-analysis/ge/)) - 발전기 및 전기 장비
-
 ---
 
 ## 주요제품
@@ -210,6 +211,8 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - 사용처: 대형 채굴장비 운영용 연료
 - 주요 공급 지역: 글로벌
 - 주요 공급 업체: Chevron [CVX](/company-analysis/cvx/), ExxonMobil [XOM](/company-analysis/xom/)
+
+{{< adsense-infeed >}}
 
 ---
 

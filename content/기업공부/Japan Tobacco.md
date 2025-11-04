@@ -1,14 +1,15 @@
 ﻿---
 title: "Japan Tobacco"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 462
----<div style="display:none">
+weight: 463
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #담배 #전자담배 #소비자방어주
 
@@ -20,6 +21,8 @@ weight: 462
 			- Ploom X의 시장 점유율은 일본 내에서 상승 중이다. 소비자들의 기기 퀄 리티에 대한 인식과 맛과 브랜드력을 보유한 Camel과 MEVIUS 스틱에 기반해 점유율이 상승 중이다. 
 			- 2Q24기준 Ploom의 일본 [궐련형 전자담배](/industry-study/궐련형-전자담배/) 내 점유율은 11.4%로 파악된다. 2023년은 Ploom X의 해외 확장의 원년이나 반도체 칩 이슈로 하반기부터 재개 24년 4월 기준 15개 국가에서 판매되었고 점유율도 늘어나는 중이다. 우선 대도시에 집중하고 24년 말 28개국, 26년 40개국 이상으로 글로벌 시장의 80% 수준까지 확대될 것으로 전망한다.
 
+{{< adsense-infeed >}}
+
 ## 산업섹터
 
 Sector: Consumer Defensive (소비자 방어주)  
@@ -28,7 +31,6 @@ Industry: Tobacco ([담배](/industry-study/담배/))
 ## 회사 개요
 
 Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabushiki gaisha)는 1985년에 설립된 일본의 다국적 담배 회사입니다. 본사는 도쿄에 위치하고 있으며, 일본 내 담배 시장에서 주요한 위치를 차지하고 있습니다. JT는 담배 외에도 제약 및 식품 사업에 진출하여 다각화된 포트폴리오를 보유하고 있습니다.
-
 ## 영위사업
 
 - 담배 제품의 제조 및 판매
@@ -37,8 +39,9 @@ Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabu
 
 ## 전방/후방산업
 
-전방산업:
+{{< adsense-infeed >}}
 
+전방산업:
 - 역할: 담배 제품 구매
 - 주요 고객: 개인 소비자, 소매업체, 도매업체
 
@@ -50,12 +53,16 @@ Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabu
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 담배 브랜드: Winston, Mevius (이전 Mild Seven), Camel (미국 외), LD, Glamour 등
 	- [일반 궐련](/industry-study/일반-궐련/):[23년 기준 궐련제품의 매출액 비중 91.2%, 영업이익 기준 96.4% 수준 (RRP 포함, 28년 BEP 목표) / 일본 내수시장 점유율 42%이나 시장정체. 상황 타개를 위해 해외부분 확대, 물량 및 가격성장으로 개선 / 해외 일반 궐련의 경우 여타 업체 대비 M&A를 통한 글로벌 지배력 확보가 두드러짐](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=11&selection=0,2,90,4&color=yellow))
 - [궐련형 전자담배](/industry-study/궐련형-전자담배/) 및 스누스 제품
 	-[28년까지 주요 HTS 시장에서 시장점유율 10%대 중반 수준까지 확대 목표 및 궐련형 전자담배 (RRP) 사업부문 BEP 도달 목표](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=26&selection=145,0,181,2&color=yellow))
 	- PloomX
 - 제약 제품 (예: 폐암치료제)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -68,7 +75,6 @@ Japan Tobacco는 일본을 포함하여 전 세계 120개국에서 제품을 판
 - 연구개발 센터
 
 ## 경쟁업체
-
 - Philip Morris International (US, [PM](/company-analysis/pm/))
 - British American Tobacco (UK, [BATS](/company-analysis/bats/))
 
@@ -86,5 +92,4 @@ Japan Tobacco는 세계 담배 시장에서 약 9%의 점유율을 보유하고 
 [Japan Tobacco - Wikipedia](https://en.wikipedia.org/wiki/Japan_Tobacco)
 
 공유
-
 다시 쓰기

@@ -1,14 +1,15 @@
 ﻿---
 title: "SWKS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 843
----<div style="display:none">
+weight: 844
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #정보기술 #반도체 #아날로그반도체 #모바일 #RF스위치 #전력관리칩
 
@@ -31,6 +32,8 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
         
         - Qualcomm (미국, [QCOM](/company-analysis/qcom/)) - 모바일 통신 기술 제공
         - Broadcom (미국, [AVGO](/company-analysis/avgo/)) - 반도체 및 통신 솔루션 제공
+
+{{< adsense-infeed >}}
 
 - **후방 산업 (Upstream Industry)**:
     
@@ -67,17 +70,16 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
 - **전력 관리 칩**: 다양한 전자기기에 전력을 효율적으로 관리하는 데 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
-
 ## 주요 판매 국가
 
 Skyworks는 미국을 주요 시장으로 하며, 아시아와 유럽에서도 중요한 매출을 올리고 있습니다.
-
 ## 경쟁업체
-
 - **Qualcomm (미국, [QCOM](/company-analysis/qcom/))**: 모바일 통신 기술 제공.
 - **Broadcom (미국, [AVGO](/company-analysis/avgo/))**: 반도체 및 통신 솔루션 제공.
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Skyworks는 글로벌 RF 반도체 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 

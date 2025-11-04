@@ -1,14 +1,15 @@
 ﻿---
 title: "LILM"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-03T21:56:16+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 519
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 520
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-03T12:56:16Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #항공우주및방위 #eVTOL #UAM #지역항공모빌리티
 
@@ -22,25 +23,27 @@ weight: 519
 Lilium은 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산업항공우주방위-산업3모빌리티uam/)) 항공기인 Lilium Jet를 개발하는 독일 항공우주 기업입니다. 지역 항공 모빌리티(RAM) 시장을 목표로 하고 있습니다.
 
 ## 주요제품
-
 - Lilium Jet: 6인승 전기 수직 이착륙 항공기 (개발 중)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
 현재 개발 단계이며, 유럽, 미국, 중국, 브라질, 영국, UAE, 사우디아라비아 등에서 판매 및 관심 표명을 받고 있습니다.
 
 ## 경쟁업체
-
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/))
 - Archer Aviation(US, [ACHR](/company-analysis/achr/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았으나, Lilium은 eVTOL 시장의 주요 선두 기업 중 하나입니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - SPAC 합병을 통한 나스닥 상장 (2021)
 - GE Aerospace와 eVTOL 안전 표준 개발을 위한 파트너십 체결 (2024)
 - 브라질 항공사 Azul과 220대의 Lilium Jet 구매 의향서 체결 (2021)

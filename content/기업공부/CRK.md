@@ -1,14 +1,15 @@
 ﻿---
 title: "CRK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 233
----<div style="display:none">
+weight: 234
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #석유가스 #탐사생산 #천연가스 #에너지 #석유가스소비연료 #에너지 #원유 
 
@@ -27,11 +28,9 @@ Comstock Resources, Inc.(CRK)는 미국의 독립 석유([원유](/industry-stud
 1. 천연가스 및 석유 탐사
 2. 천연가스 및 석유 생산
 3. 천연가스 및 석유 개발
-
 Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville 셰일과 Bossier 셰일 지역에서 사업을 영위하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 전략적 자산 위치: 주요 천연가스 생산 지역인 Haynesville 셰일에 집중
 2. 저비용 생산: 효율적인 운영을 통한 경쟁력 있는 생산 비용 유지
 3. 천연가스 중심 포트폴리오: LNG 수출 증가에 따른 수혜 기대
@@ -40,18 +39,18 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 1. 후방산업:
     
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
 2. 전방산업:
-    
     - LNG 수출: Cheniere Energy(US, [LNG](/industry-study/lng/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
 
 ## 밸류체인
-
 1. 탐사 및 생산: Comstock Resources (주요 사업 영역)
 2. 수집 및 처리: Comstock Resources (주요 사업 영역)
 3. 수송: Energy Transfer(US, [ET](/company-analysis/et/)) - 파이프라인 운영
@@ -63,6 +62,8 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
 2. 석유 (소량)
 
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
@@ -81,7 +82,6 @@ Comstock Resources는 주로 미국 시장에서 사업을 영위하고 있습�
 5. Chesapeake Energy(US, CHK)
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Comstock Resources는 미국 내 주요 천연가스 생산업체 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈

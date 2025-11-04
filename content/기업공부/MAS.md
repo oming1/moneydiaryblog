@@ -1,14 +1,15 @@
 ﻿---
 title: "MAS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 546
----<div style="display:none">
+weight: 547
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #델타수전 #베어페인트 #한스그로헤 #홈임프루브먼트 #배스피팅 #수전 #페인트 #스파 #샤워부스 #건설자재 #리모델링 #주택건설 #인테리어 #브랜드포트폴리오 #제조업 #산업재 #건축자재 #자재유통 #홈센터 #글로벌제조
 
@@ -19,6 +20,8 @@ weight: 546
 섹터: 산업재 (Industrials)
 
 ## 산업 (Industry)
+
+{{< adsense-infeed >}}
 
 산업: 건축자재 및 피팅 (Building Materials & Fittings)
 
@@ -43,7 +46,6 @@ Masco Corporation은 1929년 설립된 미국 최대 홈임프루브먼트 및 �
 Masco의 비즈니스 모델은 프리미엄 브랜드 포트폴리오 기반 B2B2C 플랫폼입니다.
 
 **1. 배관제품 부문 (매출 65% 비중):**
-
 - Delta 수전: 프리미엄 주방/욕실 수전 시장 선도
 - Hansgrohe: 고급 배스피팅 및 샤워시설
 - Peerless: 보급형 수전 제품
@@ -111,8 +113,9 @@ Masco는 브랜드 중심의 제조 및 조립 모델을 채택하고 있습니�
 - 표면 처리: 도금, 코팅 등 마감 처리
 - 페인트 제조: 배합, 혼합, 품질 검사
 
-**3. 조립 및 완성:**
+{{< adsense-infeed >}}
 
+**3. 조립 및 완성:**
 - 수전 조립: 본체, 밸브, 핸들 등 조립
 - 포장 및 브랜딩: 제품별 브랜드 포장
 - 품질 검사: 기능성 및 내구성 테스트
@@ -133,7 +136,6 @@ Masco는 브랜드 중심의 제조 및 조립 모델을 채택하고 있습니�
 - 건설업체: 신축 주택 및 상업 건물 건설 - D.R. Horton(US, [DHI](/company-analysis/dhi/)), Lennar(US, [LEN](/company-analysis/len/))
 - 리모델링 업체: 주택 개보수 및 인테리어 시공 - 지역별 소규모 시공업체
 - 배관/전기 시공업체: 전문 설치 서비스 제공 - 지역별 전문 시공업체
-
 **후방산업:**
 
 - 금속 제련업: 구리, 아연, 스테인리스 스틸 공급 - Nucor(US, [NUE](/company-analysis/nue/)), Steel Dynamics(US, [STLD](/company-analysis/stld/))
@@ -194,6 +196,8 @@ Masco는 브랜드 중심의 제조 및 조립 모델을 채택하고 있습니�
 - 사용처: 수전 도금, 부식 방지 코팅
 - 주요 공급 지역: 중국, 호주, 페루
 - 주요 공급 업체: Teck Resources [Teck](/company-analysis/teck/), Glencore [GLEN](/company-analysis/glen/)
+
+{{< adsense-infeed >}}
 
 **스테인리스 스틸:**
 
@@ -300,7 +304,6 @@ ESG 경영과 친환경 제품 개발도 미래 성장 동력입니다. 저VOC �
 - 2024년: 주택 건설 둔화로 인한 매출 감소, 비용 절감 프로그램 시행 (2024)
 - 2024년: Home Depot와의 전략적 파트너십 강화, 독점 브랜드 확대 (2024)
 - 2025년: 친환경 제품 라인 확대, ESG 경영 강화 (2025)
-
 ---
 
 ## 주요주주 (지분율)

@@ -1,14 +1,15 @@
 ﻿---
 title: "PRTA"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-23T16:17:46+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 708
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 709
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-23T07:17:46Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #바이오텍 #헬스케어  #바이오테크놀로지 #신약개발 #알츠하이머 #파킨슨병 #단백질치료제 #임상시험 #희귀질환 #면역치료제 #신경퇴행성질환 #정밀의학 #생명과학도구및서비스
 
@@ -19,15 +20,15 @@ weight: 708
 ## 섹터
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
-
 ## 산업
+
+{{< adsense-infeed >}}
 
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
 
 ## 영위사업
 
 Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 희귀 말초 아밀로이드 질환을 대상으로 하는 혁신적인 치료제를 개발하는 후기 임상 단계의 바이오테크놀로지 기업입니다. 주요 사업 영역은 다음과 같습니다:
-
 1. 알츠하이머병 치료제 개발
 2. 파킨슨병 치료제 개발
 3. 아밀로이드증 치료제 개발
@@ -52,7 +53,11 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 - 현금 및 현금성 자산: 약 5억 6500만 달러 (2024년 2분기 기준)
 - 2026년까지의 운영 자금 확보
 
+{{< adsense-infeed >}}
+
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. Bristol Myers Squibb와 PRX019에 대한 독점 라이선스 계약 체결 (2024년)
 2. 알츠하이머병 치료제 PRX012의 임상시험 진행 중
@@ -65,7 +70,6 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 3. AbbVie(US, [ABBV](/company-analysis/abbv/))
 4. Novartis(CH, [NOVN](/company-analysis/novn/))
 5. Amgen(US, [AMGN](/company-analysis/amgn/))
-
 ## 주요 주주
 
 1. BlackRock Inc. (8.49%)

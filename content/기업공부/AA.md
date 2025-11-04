@@ -1,14 +1,15 @@
 ﻿---
 title: "AA"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:30+09:00
+date: 2024-09-02T16:50:37+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:30Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-02T07:50:37Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #알루미늄 #기초소재 #광산 #보그사이트 #원자재 
 
@@ -17,6 +18,8 @@ weight: 3
 **산업 (Industry):** [알루미늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속알루미늄/) (Aluminum)
 
 ### 영위사업
+
+{{< adsense-infeed >}}
 
 Alcoa Corporation은 전 세계적으로 보크사이트, 알루미나 및 알루미늄 제품을 생산 및 판매하는 회사입니다. 이 회사는 보크사이트 채굴, 알루미나로의 가공, 알루미늄 제련 및 주조 사업을 운영합니다. 주요 제품으로는 합금 잉곳, 평판 알루미늄 시트, 알루미늄 코일 등이 있습니다.
 
@@ -33,27 +36,27 @@ Alcoa Corporation은 전 세계적으로 보크사이트, 알루미나 및 알�
 - **광산 장비 제조업체:** Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301)
 
 ### 밸류체인
-
 Alcoa의 밸류체인은 원료 채굴에서부터 최종 제품의 생산 및 판매까지의 과정을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
-
 - **원료 채굴:** Rio Tinto (AU, [RIO](/company-analysis/rio/)) - 보크사이트 채굴
 - **가공:** Alcoa (US, [AA](/company-analysis/aa/)) - 알루미나 가공
 - **제조:** Alcoa (US, [AA](/company-analysis/aa/)) - 알루미늄 제련 및 주조
 - **판매:** Alcoa (US, [AA](/company-analysis/aa/)) - 최종 제품 판매
+
+{{< adsense-infeed >}}
 
 ### 주요제품
 
 - **합금 잉곳:** 다양한 산업용 (매출 비중: 2023년 기준 40%)
 - **평판 알루미늄 시트:** 음료 및 식품 캔 제조용 (매출 비중: 2023년 기준 35%)
 - **알루미늄 코일:** 건설 및 포장 산업용 (매출 비중: 2023년 기준 25%)
-
 ### 주요 판매국가
-
 - 미국 (주요 매출 국가)
 - 스페인
 - 호주
 - 아이슬란드
 - 노르웨이
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 
@@ -64,7 +67,6 @@ Alcoa의 밸류체인은 원료 채굴에서부터 최종 제품의 생산 및 �
 ### 산업 내 글로벌 시장 점유율
 
 Alcoa Corporation의 글로벌 시장 점유율은 약 6% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
-
 ### 최근 3년 내 주요 이슈
 
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "TGT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-08-22T10:54:23+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 864
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 865
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-22T01:54:23Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #소비재 #중저가 #할인점 #소매 #소비자방어주 #블랙프라이데이 
 
@@ -18,11 +19,9 @@ Sector: Consumer Defensive (소비자 방어주)
 Industry: Discount Stores (할인점)
 
 ## 회사 개요
-
 Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본사는 미네소타주 미니애폴리스에 위치하고 있습니다. 미국에서 여덟 번째로 큰 유통업체이며, 할인점과 하이퍼마켓 체인을 운영합니다. Target은 고급스러운 트렌드 상품을 저렴한 가격에 제공하는 데 중점을 두고 있습니다.
 
 ## 영위사업
-
 - 일반 상품 및 식료품 소매
 - 온라인 쇼핑 및 배송 서비스
 - 자체 브랜드 제품 개발 및 판매
@@ -35,9 +34,10 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 - 주요 경쟁사: Walmart (US, [WMT](/company-analysis/wmt/)), Amazon (US, [AMZN](/company-analysis/amzn/))
 
 후방산업:
-
 - 역할: 제품 공급
 - 제조업체: Procter & Gamble (US, [PG](/company-analysis/pg/)), Unilever (UK, UL)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -46,9 +46,13 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 - 전자제품
 - 식료품 및 건강/미용 제품
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Target은 미국 전역에서 운영되며, 2023년 기준으로 1,948개의 매장을 보유하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 
@@ -68,7 +72,5 @@ Target은 미국 전역에서 운영되며, 2023년 기준으로 1,948개의 매
 ## 산업 내 글로벌 시장 점유율
 
 Target은 미국 내 할인 소매점 시장에서 중요한 플레이어로, 2022년 포춘 500에서 32위에 랭크되었습니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
-
 ## 자세한 종목 정보 링크
-
 [Target Corporation - Wikipedia](https://en.wikipedia.org/wiki/Target_Corporation)

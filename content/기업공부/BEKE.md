@@ -1,14 +1,15 @@
 ﻿---
 title: "BEKE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 126
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -23,6 +24,8 @@ weight: 126
 
 KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플랫폼 운영 기업입니다. '베이커(Beike)'라는 브랜드로 더 잘 알려진 이 회사는 온라인과 오프라인을 연결하는 O2O(Online-to-Offline) 비즈니스 모델을 통해 주택 거래 및 관련 서비스를 제공합니다.주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 주택 거래 서비스: 신규 주택 및 중고 주택 거래 중개
 2. 주택 임대 서비스: 임대 물건 중개 및 관리
 3. 부동산 금융 서비스: 모기지, 보험 등 금융 상품 제공
@@ -31,7 +34,6 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 2024년 기준 총 거래액(GTV)은 약 3조 5천억 위안(약 5,400억 달러)에 달했으며, 중국 전역 100개 이상의 도시에서 서비스를 제공하고 있습니다. 최근에는 AI와 빅데이터를 활용한 서비스 고도화와 함께 스마트홈 및 커뮤니티 관리 솔루션 개발에도 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 통합 플랫폼: 주택 거래의 전 과정을 아우르는 원스톱 서비스 제공
 2. 데이터 기반 기술: AI와 빅데이터를 활용한 정확한 가격 책정 및 매칭 서비스
 3. 광범위한 네트워크: 중국 전역을 아우르는 에이전트 및 파트너 네트워크
@@ -67,7 +69,6 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 - 부동산 금융 서비스: 모기지, 보험 등, 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
-
 - 개인 구매자 및 임차인: 주택 구매 및 임대 수요자
 - 개인 판매자 및 임대인: 주택 판매 및 임대 공급자
 - 부동산 개발업체: China Evergrande Group(HK, 3333), China Vanke(CN, 000002)
@@ -79,14 +80,17 @@ KE Holdings Inc.(NYSE: BEKE)는 중국의 선도적인 통합 주택 거래 플�
 중국
 
 ## 경쟁업체
-
 - 58.com(CN): 온라인 분류 광고 플랫폼
 - Fang Holdings(US, SFUN): 부동산 인터넷 포털
 - E-House China(HK, 2048): 부동산 서비스 제공업체
 - Leju Holdings(US, LEJU): 온라인 부동산 서비스
 - Anjuke(CN): 부동산 정보 및 거래 플랫폼
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 KE Holdings는 2024년 기준 중국 온라인 부동산 중개 시장에서 약 20%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 1선 및 2선 도시에서 강세를 나타내고 있습니다.
 
@@ -97,6 +101,8 @@ KE Holdings는 2024년 기준 중국 온라인 부동산 중개 시장에서 약
 - 부동산 관리 플랫폼 'Beike Community' 확대 (2023년)
 - ESG 이니셔티브 강화: 2030년까지 탄소 중립 달성 목표 설정 (2022년)
 - 중국 정부의 부동산 규제 강화에 따른 비즈니스 모델 조정 (2022-2024년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

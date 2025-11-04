@@ -1,14 +1,15 @@
 ﻿---
 title: "PODC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 702
----<div style="display:none">
+weight: 703
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #팟캐스트 #디지털광고 #콘텐츠플랫폼 #미디어 #광고네트워크 #오디오콘텐츠 #크리에이터플랫폼 #B2B솔루션 #커뮤니케이션서비스 #스트리밍 #오디오광고 #미디어유통 #디지털엔터테인먼트 #광고기술 #콘텐츠제작 #팟캐스트호스팅 #애널리틱스 #AI기술 #웹3 #크립토
 
@@ -18,7 +19,6 @@ weight: 702
 
 ---
 ## 산업 (Industry)
-
 **산업**: 인터넷 콘텐츠 및 정보 (Internet Content & Information)
 
 ---
@@ -30,12 +30,15 @@ PodcastOne Inc는 로스앤젤레스에 기반을 둔 선도적인 팟캐스트 
 
 **주요 사업 부문**:
 
+{{< adsense-infeed >}}
+
 - 팟캐스트 콘텐츠 제작 및 배급
 - 광고 플랫폼 운영 (500개 이상의 대형 광고주 네트워크)
 - LaunchpadOne 호스팅 및 애널리틱스 플랫폼
 - PodcastOne Pro B2B 솔루션
-
 **최근 실적**: 2025년 Q4 기준 연간 매출 5,210만 달러 (전년 대비 20% 증가)로 사상 최고 실적을 달성했습니다. 현재 208개의 팟캐스트 프로그램을 운영하며, 매월 10억 이상의 임프레션을 Spotify, Apple Podcasts, YouTube 등 주요 플랫폼에서 달성하고 있습니다.
+
+{{< adsense-infeed >}}
 
 **1년 이내 최근 이슈**: 2025년 6월 크립토 팟캐스트 네트워크 론칭, A+E Networks와의 독점 계약 갱신, AI 및 웹3 기술 도입을 위한 크립토 자문위원회 구성 등 디지털 혁신에 집중하고 있습니다.
 
@@ -79,7 +82,6 @@ LaunchpadOne이라는 자체 호스팅 및 애널리틱스 플랫폼을 통해 �
 
 - 독립 팟캐스트 크리에이터들과 계약
 - 대표 기업: 개별 크리에이터 및 소규모 제작사들
-
 **콘텐츠 호스팅 및 배급 단계**:
 
 - Amazon(US, [AMZN](/company-analysis/amzn/)) - ART19 호스팅 서비스 제공
@@ -92,7 +94,6 @@ LaunchpadOne이라는 자체 호스팅 및 애널리틱스 플랫폼을 통해 �
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 광고 고객
 - MotorTrend - 광고 고객
 - A+E Networks - 독점 파트너십
-
 ---
 
 ## 주요제품
@@ -164,6 +165,8 @@ PodcastOne은 팟캐스트 산업에서 유일한 순수 플레이 상장기업�
 ---
 
 ## 주요주주 (지분율)
+
+{{< adsense-infeed >}}
 
 **내부자 소유**: 86.67% **기관 투자자**: 2.90% **주요 기관 투자자**:
 

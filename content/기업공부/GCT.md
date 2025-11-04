@@ -1,14 +1,15 @@
 ﻿---
 title: "GCT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 365
----<div style="display:none">
+weight: 366
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #클라우드컴퓨팅 #데이터센터 #네트워크솔루션 #5G #IoT #글로벌커넥트 #기술혁신 #디지털전환 #AI #빅데이터 #사물인터넷 #고객맞춤형 #서비스형소프트웨어 #SaaS #보안솔루션 #글로벌시장 #경쟁력 #지속가능성 #시장점유율
 
@@ -34,7 +35,6 @@ weight: 365
     
     - 고성능 서버 및 인프라 관리 서비스를 제공하여 기업 고객이 안정적으로 데이터를 처리하고 저장할 수 있도록 합니다.
     - 데이터 센터의 효율성을 극대화하기 위해 최신 기술을 적용합니다.
-
 3. **IoT 플랫폼:**
     
     - 다양한 IoT 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원합니다.
@@ -99,7 +99,9 @@ weight: 365
 - **IoT 플랫폼:**  
 
     다양한 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원하며, 고객의 비즈니스 모델에 맞춘 솔루션을 제공합니다.
-    
+
+{{< adsense-infeed >}}
+
 - **보안 솔루션:**  
 
     클라우드 및 데이터 센터의 보안을 강화하는 기술로, 고객의 데이터 보호를 최우선으로 합니다.
@@ -133,13 +135,11 @@ weight: 365
 
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버 및 데이터 센터용 반도체 공급
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 공급
-
 ---
 
 ### 밸류체인
 
 **부품 공급 단계:**
-
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버용 반도체 (시장점유율 25%, 고성능 프로세서 공급)
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 (시장점유율 20%, 클라우드 인프라 구축)
 
@@ -168,7 +168,9 @@ weight: 365
     - **주요 경쟁사:** Microsoft Azure [MSFT](/company-analysis/msft/)
 
 - **IoT 플랫폼:**
-    
+
+{{< adsense-infeed >}}
+
     - **설명:** 데이터 수집 및 분석 플랫폼
     - **매출비중:** 20% (2023년)
     - **주요 경쟁사:** IBM Cloud [IBM](/company-analysis/ibm/)

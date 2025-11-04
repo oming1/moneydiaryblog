@@ -1,14 +1,15 @@
 ﻿---
 title: "ROP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 758
----<div style="display:none">
+weight: 759
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #클라우드컴퓨팅 #AI #하이브리드클라우드 #RedHat #왓슨 #컨설팅 #소프트웨어 #인프라 #양자컴퓨팅 #블록체인 #엣지컴퓨팅 #사이버보안 #디지털전환 #엔터프라이즈IT #오픈소스 #5G #IoT #빅데이터분석 #머신러닝 #지속가능성
 #소프트웨어 #인수합병 #수직통합소프트웨어 #애플리케이션소프트웨어 #네트워크소프트웨어 #의료소프트웨어 #교육소프트웨어 #법률소프트웨어 #정부소프트웨어 #SaaS #클라우드 #기술기반제품 #산업기술 #의료기술 #교육기술 #분석소프트웨어 #다각화기술기업 #고마진 #경상수익 #산업재 #기술
@@ -26,7 +27,6 @@ weight: 758
 ---
 
 ## **영위사업**
-
 Roper Technologies, Inc.는 1896년 설립된 다각화 기술기업으로, 수직 통합 소프트웨어 솔루션과 기술 기반 제품을 설계, 개발, 제조 및 판매하는 기업입니다. 회사는 특히 미션 크리티컬한 애플리케이션 소프트웨어, 네트워크 소프트웨어 및 기술 기반 제품을 통해 의료, 교육, 정부, 물류, 법률 등 다양한 산업에서 독점적 지위를 구축하고 있습니다.
 
 주요 사업부문은 애플리케이션 소프트웨어(Application Software), 네트워크 소프트웨어(Network Software), 기술 기반 제품(Technology Enabled Products)으로 구성되어 있습니다. 2024년 총 매출 70억 달러를 기록했으며, 애플리케이션 소프트웨어가 전체 매출의 약 55%를 차지하는 소프트웨어 중심 포트폴리오를 운영하고 있습니다.
@@ -41,9 +41,13 @@ Roper Technologies, Inc.는 1896년 설립된 다각화 기술기업으로, 수�
 
 ## **비즈니스 모델(수익 모델)**
 
+{{< adsense-infeed >}}
+
 Roper Technologies의 비즈니스 모델은 인수합병을 통한 포트폴리오 확장과 고품질 소프트웨어 및 기술 솔루션 제공을 통한 다각화 기술기업 모델입니다.
 
 **1. 애플리케이션 소프트웨어 (매출 55% 비중):**
+
+{{< adsense-infeed >}}
 
 - 의료: 병원 정보 시스템, 의료 영상 소프트웨어
 - 교육: 학교 관리 시스템, 학습 관리 플랫폼
@@ -229,7 +233,6 @@ Roper Technologies는 주로 소프트웨어 개발과 기술 기반 제품 제�
 ---
 
 ## **주요고객**
-
 - Mayo Clinic(US, Mayo Clinic) - 미국 대형 의료기관, 의료 정보 시스템
 - Cleveland Clinic(US, Cleveland Clinic) - 미국 대형 의료기관, 의료 소프트웨어
 - Kaiser Permanente(US, Kaiser Permanente) - 통합 의료 시스템, 의료 관리 소프트웨어
@@ -344,10 +347,11 @@ Roper Technologies는 인수합병을 통한 포트폴리오 확장과 고품질
 - Neil Hunn (CEO): 0.15% (약 80만 달러)
 - Jason Conley (CFO): 0.08% (약 43만 달러)
 
+{{< adsense-infeed >}}
+
 ---
 
 ## **관련 ETF**
-
 - Industrial Select Sector SPDR Fund - XLI
 - Vanguard Industrials ETF - VIS
 - iShares U.S. Industrial ETF - IYJ

@@ -1,14 +1,15 @@
 ﻿---
 title: "BDI"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:29+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
 </div>
 #BDI #건화물운임지수 #해운 #벌크선 #원자재 #글로벌무역 #경제지표 #선박공급 #화물수요 #케이프사이즈 #파나막스 #수프라막스 #철광석 #석탄 #곡물 #해운경기 #원자재가격 #국제무역 #경제예측 #선박건조
 
@@ -60,7 +61,9 @@ weight: 2
 1. 원자재 생산: 철광석, 석탄, 곡물 등 주요 건화물 생산
     
 2. 선박 건조: 건화물선 설계 및 제작([벌크선](/industry-study/벌크선/), [컨테이너선](/industry-study/컨테이너선/))
-    
+
+{{< adsense-infeed >}}
+
 3. 해운 서비스: 화물 운송 및 선박 운영
     
 4. 무역 중개: 화주와 선사 간 계약 중개
@@ -118,7 +121,6 @@ weight: 2
     - DP World(AE - DPW): 글로벌 항만 운영 및 물류 서비스
         
     - Kuehne + Nagel(CH - KNIN): 국제 물류 및 공급망 관리
-
 ## 해당 산업에 주된 영향을 미치는 원자재
 
 1. 철광석
@@ -154,7 +156,6 @@ weight: 2
     - Vale(BR - [Vale](/company-analysis/vale/)): 철광석 생산
         
     - Glencore(CH - [GLEN](/company-analysis/glen/)): 다양한 광물 자원 생산 및 트레이딩
-        
 2. 선박 건조  
     개념: 건화물선의 설계 및 제작  
     역할: 해운 시장의 공급 측면 결정
@@ -162,7 +163,6 @@ weight: 2
     - Hyundai Heavy Industries(KR - 009540): 대형 선박 건조
         
     - Mitsubishi Heavy Industries(JP - 7011): 다양한 선박 유형 건조
-        
 3. 해운 서비스  
     개념: 건화물의 해상 운송  
     역할: BDI의 직접적인 구성 요소인 운임 결정
@@ -170,7 +170,6 @@ weight: 2
     - Star Bulk Carriers(GR - SBLK): 건화물 해상 운송
         
     - Golden Ocean Group(BM - GOGL): 건화물선 운영
-        
 4. 무역 중개  
     개념: 화주와 선사 간 계약 중개  
     역할: 효율적인 해운 시장 형성에 기여
@@ -178,7 +177,6 @@ weight: 2
     - Clarksons(UK - CKN): 해운 중개 및 연구 서비스
         
     - Braemar(UK - BMS): 해운 및 에너지 중개 서비스
-        
 5. 금융 서비스  
     개념: 해운 및 원자재 관련 금융 상품 제공  
     역할: 해운 산업의 자금 조달 및 리스크 관리 지원
@@ -196,7 +194,9 @@ BDI는 독점적으로 발틱거래소에서 발표하는 지수이므로 직접
 2. Drewry(UK - Drewry): 해운 연구 및 컨설팅 서비스
     
 3. Clarksons Research(UK - CKN): 해운 시장 분석 및 데이터 제공
-    
+
+{{< adsense-infeed >}}
+
 4. Shanghai Shipping Exchange(CN - Shanghai Shipping Exchange): 상하이 컨테이너 운임지수(SCFI) 발표
     
 5. Freightos(IL - Freightos): 온라인 국제 화물 운송 플랫폼
@@ -314,7 +314,9 @@ BDI 하락 시 의미하는 경제상황:
     - 지표 오를 때 의미: 해운 공급 증가, BDI 하락 압력
         
     - 지표 내릴 때 의미: 해운 공급 감소, BDI 상승 압력
-        
+
+{{< adsense-infeed >}}
+
     - 링크: [https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=93](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=93)
 
 ## 관련 ETF

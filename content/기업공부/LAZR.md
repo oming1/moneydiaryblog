@@ -1,14 +1,15 @@
 ﻿---
 title: "LAZR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 504
----<div style="display:none">
+weight: 505
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #자동차부품 #정보기술 #센서 #LiDAR #라이다 #자율주행
 
@@ -46,9 +47,7 @@ Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용
 2. 부품 제조: Luminar Technologies (US, [LAZR](/company-analysis/lazr/)), II-VI Incorporated (US, IIVI)
 3. 시스템 통합: 자동차 OEM 및 Tier 1 공급업체
 4. 최종 사용자: 자동차 제조업체, 자율주행 기술 기업
-
 ## 주요제품
-
 1. Iris LiDAR (자율주행용 고성능 장거리 센서)
 2. Sentinel™ (자율주행 및 안전 플랫폼)
 3. 인식 소프트웨어
@@ -61,6 +60,8 @@ Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Velodyne Lidar (US, VLDR) (LiDAR 센서)
 2. Innoviz Technologies (이스라엘, [INVZ](/company-analysis/invz/)) (LiDAR 센서 및 인식 소프트웨어)
 3. Ouster (US, [OUST](/company-analysis/oust/)) (디지털 LiDAR)
@@ -69,7 +70,11 @@ Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Luminar는 자동차용 LiDAR 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -78,7 +83,6 @@ Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서
 3. 2022년 12월 SPAC 합병을 통해 나스닥 상장 (2022년)
 4. 3.4억 달러 이상의 주문 잔고 확보 발표 (2023년)
 5. Northland Securities의 하향 조정으로 인한 주가 하락 (2023년)
-
 공유
 
 다시 쓰기

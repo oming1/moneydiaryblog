@@ -1,14 +1,15 @@
 ﻿---
 title: "Westinghouse Electric"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 959
----<div style="display:none">
+weight: 960
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #웨스팅하우스일렉트릭 #원자력발전 #핵연료 #원자력서비스 #AP1000 #SMR #소형모듈원자로 #eVinci #AP300 #탈탄소화 #에너지안보 #원전수명연장 #원전해체 #핵폐기물관리 #차세대원전 #원자력기술 #글로벌원전시장 #탄소중립 #에너지전환 #규제리스크 #방사능안전 #원전건설 #원전연료 #원전부품 #원자력발전소 #핵융합에너지 #지정학적리스크 #원자력투자 #그린에너지 #에너지솔루션
 
@@ -65,7 +66,9 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
     주요 원자재로는 [우라늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속우라늄/)(핵연료), 지르코늄(피복관), 특수강(원자로 용기)이 있으며, 공급망은 글로벌 우라늄 광산(캐나다, 카자흐스탄 등), 농축 서비스 제공업체, 특수 부품 제조사(터빈, 발전기 등)로 구성됩니다. 엄격한 품질 관리와 보안이 필수적입니다.
     
 - **최근 주요 이슈**
-    
+
+{{< adsense-infeed >}}
+
     - 2024년: AP1000 원자로의 글로벌 확장(예: 폴란드, 우크라이나 등), eVinci SMR 개발 가속화.
 
     - 2025년: 기존 원전의 수명 연장 서비스 계약 증가 및 디지털 솔루션 도입.
@@ -74,7 +77,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
 **수익 구조 세분화:**
 
 - **사업 부문별 매출 비중 (2024년 추정):**
@@ -82,7 +84,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
     - 발전소 서비스: 35% (장기 계약 기반).
     - 신규 원전 건설 및 기술 라이선싱: 20% (대규모 프로젝트 기반, 변동성 존재).
     - 해체/폐기물 관리 및 SMR 개발: 5% (미래 성장 동력).
-
 - **고객 유형별 수익 구조:**
     - 각국 정부 및 국영 전력회사: 신규 원전 건설, 서비스 계약.
     - 민간 유틸리티 기업: 핵연료 공급, 발전소 운영 지원.
@@ -100,7 +101,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
     - SMR 기술의 상업화 성공 및 시장 진입.
     - 핵연료 및 서비스 부문의 안정적인 마진.
     - 디지털 기술을 활용한 운영 효율성 증대.
-
 ---
 
 ### 핵심 경쟁력
@@ -184,12 +184,13 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 
 - **발전소 서비스:** 기존 원전 유지보수 및 업그레이드, 매출 비중 35% (2024 추정), 경쟁사 Framatome, GE Hitachi, KHNP.
 
+{{< adsense-infeed >}}
+
 - **SMR 기술 (eVinci, AP300):** 차세대 원자로 개발, 매출 비중 5% (2024 추정), 경쟁사 NuScale Power (US, [SMR](/industry-study/smr/)), Rolls-Royce SMR, TerraPower (비상장).
 
 ---
 
 ### 주된 영향을 미치는 원자재
-
 - **우라늄 (Uranium):** 핵연료의 핵심 원료, 공급지: 캐나다, 카자흐스탄, 호주. 공급업체: Cameco Corporation (CA, [CCJ](/company-analysis/ccj/)), Kazatomprom (KZ, KAP).
 - **지르코늄 (Zirconium):** 핵연료 피복관 재료, 공급지: 호주, 남아프리카공화국.
 - **특수강 (Specialty Steel):** 원자로 용기 및 주요 부품, 공급지: 미국, 유럽. 공급업체: ATI Inc. (US, ATI), Arconic Corp (US, ARNC).
@@ -233,6 +234,8 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 - **글로벌 핵연료 시장:** 약 20-25% (PWR 연료 공급 기준).
 - **글로벌 원전 서비스 시장:** 약 15-20% (기존 원전 서비스 기준).
 - **SMR 시장:** 개발 초기 단계로 점유율 산정 불가하나, 핵심 기술 보유.
+
+{{< adsense-infeed >}}
 
 ---
 

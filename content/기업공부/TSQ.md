@@ -1,14 +1,15 @@
 ﻿---
 title: "TSQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 891
----<div style="display:none">
+weight: 892
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 미국 상장 여부
 
@@ -39,6 +40,8 @@ Townsquare Media는 미국의 [중소규모 시장에 특화된 커뮤니티 중
 **주요 사업부문:** 3개 핵심 부문으로 구성되어 있습니다. 디지털 [광고](/industry-study/2산업광고/)(타운스퀘어 이그나이트), 디지털 구독 마케팅 솔루션(타운스퀘어 인터액티브), 방송 광고(라디오)입니다. 74개 시장에서 라디오 방송과 디지털 서비스를 통합 제공하여 지역 커뮤니티와 소상공인들에게 포괄적인 미디어 및 마케팅 솔루션을 제공합니다.
 
 **비즈니스 모델 & 수익 모델 요약:** 2024년 기준 총 매출 4억 5천만 달러를 기록했으며, 디지털 부문이 전체 매출의 52%를 차지합니다. 디지털 광고 부문은 연간 1억 5천 9백만 달러(35% 비중)로 가장 빠른 성장세를 보이고 있으며, 프로그래매틱 광고가 성장 동력입니다. 타운스퀘어 인터액티브는 월 평균 300달러의 구독료로 소상공인들에게 웹사이트, SEO, 소셜미디어 관리 등을 제공하는 SaaS 모델입니다.
+
+{{< adsense-infeed >}}
 
 **리스크 요소:** 전통적인 라디오 광고 시장의 지속적인 감소, 중소규모 시장의 경제적 불안정성, 디지털 플랫폼 간 경쟁 심화가 주요 리스크입니다. **주된 원자재:** 방송 장비, 디지털 인프라, 콘텐츠 제작 인력, 광고 기술 플랫폼입니다.
 
@@ -172,12 +175,13 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 ---
 
 ## 주요제품
-
 **타운스퀘어 이그나이트 (디지털 광고):** 프로그래매틱 광고 및 웹사이트 광고 서비스, 매출 비중 35% (2024년 기준), 관련 경쟁사 Google, [META](/company-analysis/meta/)
 
 **타운스퀘어 인터액티브 (SaaS):** 소상공인 대상 웹사이트 제작, SEO, 디지털 마케팅 솔루션, 월 평균 300달러 구독료, 관련 경쟁사 Wix, Squarespace
 
 **지역 라디오 방송:** 349개 라디오 스테이션을 통한 지역 및 전국 광고, 매출 비중 약 48% (2024년 기준), 관련 경쟁사 iHeartMedia, Cumulus Media
+
+{{< adsense-infeed >}}
 
 **지역 웹사이트 네트워크:** 400개 이상의 지역 뉴스 및 정보 웹사이트, 지역 콘텐츠 및 광고 플랫폼, 관련 경쟁사 지역 미디어 업체들
 
@@ -291,8 +295,9 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 ## 산업 내 글로벌 시장 점유율
 
 **미국 중소시장 라디오 방송:** 중소규모 시장에서 상당한 점유율 보유 (구체적 수치 비공개)
-
 **디지털 마케팅 SMB 시장:** 소상공인 대상 통합 솔루션 시장에서 성장하는 플레이어
+
+{{< adsense-infeed >}}
 
 **프로그래매틱 광고:** 지역 중심 프로그래매틱 광고 시장에서 니치 플레이어
 
@@ -373,7 +378,6 @@ Townsquare Media는 중소규모 시장에 특화된 "로컬 퍼스트" 전략�
 - Fidelity MSCI Communication Services Index ETF - FCOM
 
 **소형주 관련 ETF:**
-
 - iShares Russell 2000 ETF - IWM
 - Vanguard Small-Cap ETF - VB
 - SPDR S&P 600 Small Cap ETF - SLY
@@ -382,6 +386,8 @@ Townsquare Media는 중소규모 시장에 특화된 "로컬 퍼스트" 전략�
 
 - Invesco Dynamic Media ETF - PBS
 - Global X Social Media ETF - SOCL
+
+{{< adsense-infeed >}}
 
 **밸류 관련 ETF:**
 

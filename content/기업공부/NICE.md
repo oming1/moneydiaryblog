@@ -1,14 +1,15 @@
 ﻿---
 title: "NICE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 613
----<div style="display:none">
+weight: 614
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -24,7 +25,9 @@ weight: 613
 NICE Ltd는 AI 기반 디지털 비즈니스 솔루션을 위한 클라우드 플랫폼을 제공하는 글로벌 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. CXone: 클라우드 네이티브 고객 경험 플랫폼
-    
+
+{{< adsense-infeed >}}
+
 2. Enlighten: AI 기반 고객 참여 솔루션
     
 3. X-Sight: 금융 범죄 및 컴플라이언스를 위한 AI 클라우드 플랫폼
@@ -87,6 +90,8 @@ NICE Ltd는 AI 기반 디지털 비즈니스 솔루션을 위한 클라우드 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 영국, 이스라엘, 인도, 호주, 싱가포르, 일본, 독일, 프랑스, 캐나다 등 전 세계 150개 이상 국가에서 서비스를 제공하고 있습니다.
 
 ## 경쟁업체
@@ -104,13 +109,11 @@ NICE Ltd는 AI 기반 디지털 비즈니스 솔루션을 위한 클라우드 �
 ## 산업 내 글로벌 시장 점유율
 
 NICE는 [CCaaS](/industry-study/ccaas/)(Contact Center as a Service) 시장에서 선도적인 위치를 차지하고 있으며, 2024년 기준 약 15-20%의 시장 점유율을 보유하고 있는 것으로 추정됩니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. Scott Russell 신임 CEO 취임 (2025년)
     
 2. CXone Mpower AI 플랫폼 출시 (2024년)
-    
 3. 1CX 통합 커뮤니케이션 솔루션 발표 (2024년)
     
 4. 5억 달러 규모의 자사주 매입 프로그램 발표 (2024년)
@@ -124,7 +127,6 @@ NICE는 [CCaaS](/industry-study/ccaas/)(Contact Center as a Service) 시장에�
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
-
 ## 관련 ETF
 
 1. iShares Expanded Tech-Software Sector ETF - IGV

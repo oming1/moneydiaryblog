@@ -1,14 +1,15 @@
 ﻿---
 title: "FSLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 354
----<div style="display:none">
+weight: 355
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -24,7 +25,6 @@ weight: 354
 Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 네트워크(CDN) 서비스를 제공하는 기업입니다. 주요 사업 영역은 CDN 서비스, 엣지 컴퓨팅 솔루션, 클라우드 보안 서비스, 이미지 최적화, 로드 밸런싱 서비스 등입니다. 2025년 2월 기준, Fastly는 초당 336 Tbps의 데이터를 전송하고 있으며, 전 세계적으로 전략적으로 위치한 데이터 센터 네트워크를 통해 서비스를 제공하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 엣지 컴퓨팅 전문성
 2. 글로벌 네트워크 인프라
 3. 실시간 분석 능력
@@ -32,7 +32,6 @@ Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 �
 5. 확장성과 유연성
 
 ## 전방/후방산업
-
 전방산업: 클라우드 서비스, 디지털 미디어, e-커머스  
 
 후방산업: 데이터 센터, 네트워크 장비, 반도체
@@ -64,9 +63,12 @@ Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 �
 - Google Cloud CDN(US, [GOOGL](/company-analysis/googl/))
 - Microsoft Azure CDN(US, [MSFT](/company-analysis/msft/))
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 기준 CDN 및 엣지 컴퓨팅 시장에서 중요한 플레이어로 자리잡고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -81,6 +83,8 @@ Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 �
 - The Vanguard Group (8.91%)
 - BlackRock (7.38%)
 - Legal & General Investment Management (4.55%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

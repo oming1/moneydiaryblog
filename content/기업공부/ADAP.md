@@ -1,14 +1,15 @@
 ﻿---
 title: "ADAP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 25
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #T세포치료제 #TCR-T #세포치료 #면역항암 #고형암 #TECELRA #afami-cel #lete-cel #uza-cel #희귀암 #활막육종 #맞춤형면역치료 #MAGE-A4 #바이오제약 #항암치료 #유전자조작 #정밀의학 #희귀질환 #맞춤형치료 #차세대치료제 #희귀암치료 #비전통적항암제 #US월드메즈 #영국바이오텍 #필라델피아 #옥스퍼드 #T세포면역 #항원특이적 #표적치료 #FDA승인
 
@@ -27,12 +28,12 @@ Adaptimmune Therapeutics는 2008년 영국에서 설립된 상업 단계 바이�
 
 회사는 환자 자신의 T세포를 유전적으로 수정하여 암세포를 표적으로 삼는 TCR(T-cell receptor) 기술을 사용합니다. 특히 MAGE-A4 항원을 표적으로 하는 치료제를 개발하여 활막육종 및 기타 고형암에 대한 치료 옵션을 제공하고 있습니다.
 
+{{< adsense-infeed >}}
+
 Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으며, TECELRA 외에도 lete-cel, uza-cel 등의 파이프라인을 보유하고 있었으나, 2025년 7월 28일 이 핵심 치료제들을 US WorldMeds에 매각하는 계약을 체결했습니다. 이 거래는 총 5,500만 달러의 현금과 최대 3,000만 달러의 마일스톤 지급을 포함합니다.
 
 회사는 재정적 어려움을 겪고 있으며, 최근 1년간 주가는 약 91.87% 하락했습니다. 특히 최근 핵심 자산 매각 발표 후 주가는 하루만에 71.17% 급락했습니다. 매각 이후 회사는 PRAME, CD70 및 동종이계 프로그램을 포함한 전임상 자산에 대한 권리를 보유하고, 구조조정을 통해 인력의 62%를 감축할 예정입니다.
-
 현재 회사의 시가총액은 약 2,579만 달러이며, 2023년 매출은 1억 8,020만 달러를 기록했으나 6,990만 달러의 순손실을 기록했습니다. 재무 상황의 불안정성과 핵심 자산 매각으로 인해 향후 기업 방향성에 큰 변화가 예상됩니다.
-
 ---
 
 ## 5. 비즈니스 모델 (수익 모델)
@@ -80,7 +81,6 @@ Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으
 5단계: 품질 관리 - 엄격한 품질 테스트를 통해 안전성과 효능 확인  
 6단계: 동결 보존 - 투여 전까지 세포를 동결 상태로 보존  
 7단계: 환자 투여 - 림프구 감소 화학요법 후 환자에게 조작된 T세포 주입
-
 ---
 
 ## 9. 전방산업 / 후방산업
@@ -92,6 +92,8 @@ Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으
 - 정밀의학: Moffitt 암센터(US), 존스홉킨스 의료원(US, JHM)
 
 **후방산업 (원자재/부품 공급 산업):**
+
+{{< adsense-infeed >}}
 
 - 유전자 편집 기술: CRISPR Therapeutics(US, CRSP), Editas Medicine(US, EDIT)
 - 벡터 생산: Oxford Biomedica(UK, OXB.L)
@@ -184,13 +186,11 @@ Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으
 - Instil Bio(US, TIL) - TIL 치료제, 시장 점유율 약 2%
 - BioNTech(US, [BNTX](/company-analysis/bntx/)) - 다양한 세포 치료 플랫폼, 시장 점유율 약 5%
 - Medigene(DE, MDG1.DE) - TCR 기반 암 면역치료, 유럽 시장 중심
-
 ---
 
 ## 16. 산업 내 글로벌 시장 점유율
 
 **시장 점유율 추이:**
-
 - 2024년: 약 5% (고형암 TCR 치료제 시장, TECELRA 출시 초기)
 - 2023년: 약 2% (개발 단계)
 - 2022년: 약 1% (개발 단계)
@@ -225,6 +225,8 @@ Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으
 
 **최근 데이터 기준:**
 
+{{< adsense-infeed >}}
+
 - 내부자(Insiders): 10.94%
 - 기관 투자자: 34.04%
 - Matrix Capital Management: 약 12% (추정)
@@ -242,6 +244,8 @@ Adaptimmune은 필라델피아와 영국 옥스퍼드에 본사를 두고 있으
 - ARKG - ARK Genomic Revolution ETF ARKG
 - XBI - SPDR S&P Biotech ETF XBI
 - IBB - iShares Biotechnology ETF IBB
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

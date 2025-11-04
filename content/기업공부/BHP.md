@@ -1,14 +1,15 @@
 ﻿---
 title: "BHP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2023-06-04T17:05:14+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 130
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2023-06-04T08:05:14Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #비철금속 #포타슘 #광산 #기타산업용금속및광업 #기초소재 #구리 #니켈 #철광석
 
@@ -24,10 +25,11 @@ BHP는 세계 최대 규모의 다각화된 광산 및 금속 회사입니다. �
 ## 전방/후방산업
 
 전방산업:
-
 - 역할: 원자재 사용
 - 철강 제조: ArcelorMittal (NL, [MT](/company-analysis/mt/))
 - 전기차 배터리: Tesla (US, [TSLA](/company-analysis/tsla/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -60,12 +62,12 @@ BHP는 전 세계적으로 사업을 운영하고 있습니다. 주요 시장은
 - Glencore (CH, [GLEN](/company-analysis/glen/)) - 구리, 석탄, 아연
 
 ## 산업 내 글로벌 시장 점유율
-
 BHP는 철광석 시장에서 세계 3대 생산업체 중 하나로, 2023년 기준 글로벌 해상 철광석 거래량의 약 18%를 차지하고 있습니다. 구리 생산에서도 주요 플레이어 중 하나입니다.
 
 ## 자세한 종목 정보 링크
-
 [FINVIZ - BHP](https://finviz.com/quote.ashx?t=BHP)
+
+{{< adsense-infeed >}}
 
 공유
 

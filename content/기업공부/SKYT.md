@@ -1,14 +1,15 @@
 ﻿---
 title: "SKYT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T21:36:24+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 800
----<div style="display:none">
+weight: 801
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-29T12:36:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #SkyWaterTechnology #SKYT #파운드리 #반도체파운드리 #미국파운드리 #칩생산 #CMOS #MEMS #포토닉스 #고급패키징 #3DIC #WaferFab #TestAssembly #CHIPSAct #안보칩 #Backlog #Fab2fab #기술이전 #고객맞춤형 #서비스모델
 
@@ -28,6 +29,8 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 1. Wafer Fabrication(웨이퍼 제작)  
     • 고객이 설계한 회로를 90nm~90nm 이하 첨단 공정으로 웨이퍼에 새김  
     • 200mm·300mm 웨이퍼 라인 운영, CMOS·BiCMOS·SOI·RF·MEMS 공정 보유
+
+{{< adsense-infeed >}}
 
 2. Advanced Packaging & Assembly(패키징·조립)  
     • 완성된 칩을 보호하고 외부 회로와 연결하는 패키지 제작  
@@ -91,6 +94,8 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - **FOWLP (Fan-Out Wafer-Level Packaging)**: 칩 소형화·고집적 패키징
 - **Integrated Metrology Suite**: 레이저·전자빔 계측장비 연동 공정 제어
 
+{{< adsense-infeed >}}
+
 ---
 ### 제조 공정
 
@@ -99,7 +104,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - 고객 설계(GDSII) 논리적 오류·제작 가능성(DFM) 확인  
 
 2단계: **웨이퍼 프로세스**
-
 - 클린룸(L3)에서 포토리소그래피→식각·이온주입→CMP  
 
 3단계: **패키징·조립**
@@ -131,7 +135,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - **포토리소그래피 재료**: Tokyo Electron(JP, 8035.T), JSR(JP, 4185.T)
 - **화학·가스**: Air Products(US, APD), Linde(DE, LIN.DE)
 - **패키징 소재**: Henkel(DE, HEN3.DE), Dow Chemical(US, [DOW](/company-analysis/dow/))
-
 ---
 
 ### 밸류체인
@@ -220,7 +223,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 
 ---
 ### 관련 ETF
-
 **직접 관련 ETF:**
 
 - **SOXX** – iShares PHLX Semiconductor Sector ETF SOXX

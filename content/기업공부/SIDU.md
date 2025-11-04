@@ -1,14 +1,15 @@
 ﻿---
 title: "SIDU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 793
----<div style="display:none">
+weight: 794
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #우주기술 #인공위성 #LizzieSat #우주산업 #우주인프라 #위성데이터 #엣지AI #초소형위성 #데이터서비스 #위성제조 #우주국방 #스페이스텍 #LunarLizzie #달탐사 #우주통신 #SpaceX #인공지능 #우주인프라서비스 #데이터분석 #실시간정보 #저궤도위성 #위성군 #우주제조 #3D프린팅 #여성CEO #우주스타트업 #NASA #지구관측 #우주데이터 #위성통신
 
@@ -118,6 +119,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 
 **부품 공급 단계:**
 
+{{< adsense-infeed >}}
+
 - VORAGO Technologies(비상장): 방사선 내성 전자 부품 (우주급 컴퓨팅 분야 전문)
 - ATOMIC-6(비상장): 태양전지 배열 (LunarLizzie 위성용 태양광 시스템 공급)
 - Microchip Technology(US, [MCHP](/company-analysis/mchp/)): 반도체 및 마이크로컨트롤러 (우주급 전자 부품 제공)
@@ -135,7 +138,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - Neuraspace(비상장): 위성군 운영 향상을 위한 서비스 제공
 
 **데이터 서비스 단계:**
-
 - Sidus Space(US, [SIDU](/company-analysis/sidu/)): 데이터 처리 및 분석 (Orlaith AI 플랫폼 활용)
 - 최종 사용자: 정부, 국방, 상업 고객 등
 
@@ -166,7 +168,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 ---
 
 ## 13. 주요 고객 
-
 **고객별 상세 정보:**
 
 - Lonestar Data Holdings(비상장) - 달 데이터 저장 위성, 1억 2천만 달러 계약
@@ -222,7 +223,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 ---
 
 ## 17. 기업 특징 및 성장성
-
 **구체적 수치 및 성장 동력:**
 
 - 매출 성장률: 2024년 대비 2025년 약 -17.4% 감소 (2024년: 약 467만 달러, 2025년 1분기: 약 139만 달러)
@@ -236,7 +236,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
     2. 지분 희석을 통한 자금 조달 의존
     3. 치열한 경쟁 환경
     4. 기술적 위험 및 발사 실패 가능성
-
 ---
 
 ## 18. 최근 3년 내 주요 이슈
@@ -280,6 +279,8 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - Procure Space ETF UFO
 - SPDR S&P Aerospace & Defense ETF XAR
 - ARK Space Exploration & Innovation ETF ARKX
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

@@ -1,14 +1,15 @@
 ﻿---
 title: "GAP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-11-26T14:04:22+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 364
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 365
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-26T05:04:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #경기소비재 #전문소매 #의류
 
@@ -24,7 +25,9 @@ Gap Inc.는 의류, 액세서리, 개인용품을 판매하는 미국의 대형 
 ## 전방/후방 산업
 
 - 전방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 소매, 온라인 판매
     - 역할: 소비자에게 의류 및 액세서리 판매
     - 주요 기업: Inditex Group, H&M
@@ -37,11 +40,12 @@ Gap Inc.는 의류, 액세서리, 개인용품을 판매하는 미국의 대형 
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 제품 디자인 및 개발:
     
     - Gap Inc.는 자체 브랜드 제품을 디자인하고 개발합니다.
     - 대표 기업: Inditex (스페인, ITX), Fast Retailing (일본, 9983)
-    
 - 유통 및 판매:
     
     - 자사 매장, 프랜차이즈, 온라인을 통해 제품을 판매합니다.
@@ -57,7 +61,6 @@ Gap Inc.는 의류, 액세서리, 개인용품을 판매하는 미국의 대형 
 ## 주요 판매 국가
 
 미국, 캐나다, 영국, 프랑스, 아일랜드, 일본, 이탈리아, 중국, 대만, 멕시코를 포함한 전 세계 40개국 이상에서 사업을 전개하고 있습니다.
-
 ## 경쟁업체
 
 - Inditex Group (스페인, ITX) - Zara 등 패스트 패션 브랜드
@@ -69,7 +72,6 @@ Gap Inc.는 의류, 액세서리, 개인용품을 판매하는 미국의 대형 
 Gap Inc.는 미국 최대의 전문 소매업체이며, 전 세계적으로는 Inditex Group와 H&M에 이어 3위의 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - 2024년 3분기 연속 매출 성장 및 모든 브랜드에서 시장 점유율 확대 (2024년)
 - Yeezy Gap 협업 종료 및 기업 구조조정으로 인한 직원 감축 (2022-2023년)
 - COVID-19 팬데믹 영향으로 225개 이상의 Gap 및 Banana Republic 매장 폐쇄 계획 발표 (2020년)

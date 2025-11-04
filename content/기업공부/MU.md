@@ -1,14 +1,15 @@
 ﻿---
 title: "MU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 601
----<div style="display:none">
+weight: 602
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #반도체 #HBM #테크 #서버 #클라우드 
 
@@ -23,12 +24,10 @@ weight: 601
 #### 영위사업
 
 마이크론 테크놀로지는 메모리 및 저장 장치를 설계, 개발, 제조 및 판매하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
-
 - **Compute and Networking Business Unit**: 컴퓨터 및 네트워킹용 메모리 제품
 - **Mobile Business Unit**: 모바일 장치용 메모리 제품
 - **Embedded Business Unit**: 임베디드 시스템용 메모리 제품
 - **Storage Business Unit**: 저장 장치 및 솔루션
-
 #### 전방/후방산업
 
 - **후방산업 (Upstream Industry)**:
@@ -58,8 +57,9 @@ weight: 601
 
 - **SSD**: 고성능 솔리드 스테이트 드라이브. 엔터프라이즈 및 클라우드, 클라이언트 및 소비자 스토리지 시장에 사용됩니다
 
-- **[HBM](/industry-study/hbm/) (High-Bandwidth Memory)**: 고대역폭 메모리. AI, 고성능 컴퓨팅(HPC), 데이터 센터 등에서 사용되며, 높은 메모리 용량과 성능을 제공합니다
+{{< adsense-infeed >}}
 
+- **[HBM](/industry-study/hbm/) (High-Bandwidth Memory)**: 고대역폭 메모리. AI, 고성능 컴퓨팅(HPC), 데이터 센터 등에서 사용되며, 높은 메모리 용량과 성능을 제공합니다
 #### 주요 판매국가
 
 - **미국**: 전체 매출의 50% 이상
@@ -72,5 +72,7 @@ weight: 601
 - **Intel (미국, [INTC](/company-analysis/intc/))**: 메모리 및 저장 장치
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 마이크론 테크놀로지는 글로벌 메모리 시장에서 약 23%의 점유율을 차지하고 있습니다

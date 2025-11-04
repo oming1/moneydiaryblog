@@ -1,14 +1,15 @@
 ﻿---
 title: "UPS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-10-25T13:41:49+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 914
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 915
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-25T04:41:49Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #산업재 #물류 
 
@@ -21,10 +22,14 @@ weight: 914
 
 **전방/후방산업**
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 전자상거래, 제조업, 소매업
     - **핵심 산업:** 전자상거래 (Amazon (US, [AMZN](/company-analysis/amzn/))), 제조업 (Apple (US, [AAPL](/company-analysis/aapl/))), 소매업 (Walmart (US, [WMT](/company-analysis/wmt/)))
     - **역할:** 제품 생산 및 판매, 물류 서비스 수요 창출
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업:** 운송 장비 제조, 연료 공급, IT 서비스
     - **핵심 산업:** 운송 장비 제조 (Boeing (US, [BA](/company-analysis/ba/))), 연료 공급 (ExxonMobil (US, [XOM](/company-analysis/xom/))), IT 서비스 (IBM (US, [IBM](/company-analysis/ibm/)))
     - **역할:** 물류 서비스 제공을 위한 장비 및 서비스 공급
@@ -37,17 +42,19 @@ weight: 914
     - **대표회사:** FedEx (US, [FDX](/company-analysis/fdx/)) - 패키지 운송, DHL (DE, DPW) - 국제 물류
 - **출력:** 최종 고객에게 배송
     - **대표회사:** Amazon (US, [AMZN](/company-analysis/amzn/)) - 전자상거래, Walmart (US, [WMT](/company-analysis/wmt/)) - 소매업
-
 **주요제품**
 
 - **패키지 배송 서비스:** 소포 및 화물의 국내 및 국제 운송
 - **물류 솔루션:** 공급망 관리, 창고 관리, 배송 최적화 서비스
 
-**주요 판매국가**
+{{< adsense-infeed >}}
 
+**주요 판매국가**
 - **미국:** 전체 매출의 약 60% (2023년 기준)
 - **유럽:** 전체 매출의 약 20% (2023년 기준)
 - **아시아:** 전체 매출의 약 15% (2023년 기준)
+
+{{< adsense-infeed >}}
 
 **경쟁업체**
 
@@ -62,7 +69,6 @@ weight: 914
 - **DHL:** 약 15% (2023년 기준)
 
 **최근 3년 내 주요 이슈**
-
 - **COVID-19 팬데믹:** 물류 수요 급증 및 운영 도전 (2020-2021)
 - **연료비 상승:** 운송 비용 증가로 인한 수익성 압박 (2022)
 - **노동 분쟁:** 노조와의 협상 및 파업 위기 (2023)

@@ -1,14 +1,15 @@
 ﻿---
 title: "DAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 258
----<div style="display:none">
+weight: 259
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #항공사 #항공 #여객운송 #항공운송 #승객운송 #화물운송 #SkyTeam #허브공항 #국제항공 #국내항공 #SkyMiles #항공연료 #항공기리스 #프리미엄서비스 #좌석업그레이드 #마일리지프로그램 #크레딧카드 #로열티프로그램 #운영효율성 #노선네트워크 #Amex파트너십 #산업재 #항공
 
@@ -63,7 +64,6 @@ Delta Air Lines의 비즈니스 모델은 프리미엄 포지셔닝을 기반으
 - 승객기 화물칸 활용 및 전용 화물기 운항
 
 **4. 기타 서비스 (매출 3% 비중):**
-
 - 항공기 정비 서비스 (Delta TechOps)
 - 공항 라운지 서비스 (Sky Club)
 - 여행 관련 서비스 및 파트너십 수익
@@ -118,6 +118,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 체크인, 보안, 탑승 프로세스 관리
 - 수하물 처리 및 화물 운송 서비스
 
+{{< adsense-infeed >}}
+
 **4. 항공기 운항:**
 
 - 안전하고 정시 운항을 위한 운항 관리
@@ -129,6 +131,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 엔터테인먼트 및 Wi-Fi 서비스
 
 **6. 항공기 정비:**
+
+{{< adsense-infeed >}}
 
 - Delta TechOps를 통한 정기 정비
 - 안전 점검 및 부품 교체
@@ -145,7 +149,6 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 정부 기관: 공무 출장 및 군용 수송 - 미국 정부, 각국 정부기관
 
 **후방산업:**
-
 - 항공기 제조업: 항공기 구매 및 리스 - Boeing(US, [BA](/company-analysis/ba/)), Airbus(FR, Airbus)
 - 항공 연료 공급업: 제트유 및 연료 공급 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 공항 운영업: 공항 시설 이용 - 각국 공항공사 및 민간 공항 운영사
@@ -156,7 +159,6 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 ## 밸류체인
 
 **항공기 제조 및 공급 단계:** 항공기 및 관련 장비 제조
-
 - Boeing(US, [BA](/company-analysis/ba/)) - 737, 757, 767, A330neo 등 주력 기종 공급
 - Airbus(FR, Airbus) - A220, A319, A320, A330, A350 항공기 공급
 - AerCap Holdings(IE, AER) - 세계 최대 항공기 리스 회사
@@ -222,7 +224,6 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 ---
 
 ## 주요고객
-
 - 개인 승객 (연간 2억 명 이상의 승객)
 - American Express(US, [AXP](/company-analysis/axp/)) - SkyMiles 크레딧카드 파트너십, 연간 74억 달러 수익
 - Microsoft Corporation(US, [MSFT](/company-analysis/msft/)) - 기업 여행 관리 고객, 비즈니스 여행 서비스
@@ -293,6 +294,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 2위: Delta Air Lines - 약 25%
 - 3위: United Airlines - 약 23%
 - 4위: Southwest Airlines - 약 18%
+
+{{< adsense-infeed >}}
 
 글로벌 항공사 순위 약 2위 (승객 수 기준, 2024년), 연간 승객 수 약 2억 명 최근 3년간 프리미엄 시장에서의 점유율은 지속적으로 증가하고 있으며, 수익성 면에서는 업계 1위 수준 유지
 

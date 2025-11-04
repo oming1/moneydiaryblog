@@ -1,14 +1,15 @@
 ﻿---
 title: "SMR"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-10-29T06:50:24+09:00
+lastmod: 2025-11-03T21:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:24Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
 </div>
 #에너지 #친환경 #원전 #재생에너지 #유틸리티 #원자력발전 #SMR #소형모듈식원자로 #가압경수로  #3_5세대SMR #LEU #저농축산화우라늄 #소형모듈형원자로 
 
@@ -16,7 +17,7 @@ weight: 2
 
 - 2025년
 	- 2025-08-29, 소형 모듈 원자로(Small Modular Reactor, SMR) VS [태양광](/industry-study/태양광/) 패널(Photovoltaic Solar Panel)
-	  !Pasted image 20250829210840.png
+	  ![](/images/Pasted%20image%2020250829210840.png)
 		1헥타르 미만 부지에서 1500MW 발전 가능: SMR ✅ / 태양광 ❌
 		
 		토륨, 미사용 우라늄, 플루토늄으로 자체 연료 생산 가능: SMR ✅ / 태양광 ❌
@@ -28,7 +29,9 @@ weight: 2
 		담수화 가능: SMR ✅ / 태양광 ❌
 		
 		암 치료용 방사성 동위원소 생산 가능: SMR ✅ / 태양광 ❌
-		
+
+{{< adsense-infeed >}}
+
 		전력망에 직접 연결 가능, 전력 변환 장치 불필요: SMR ✅ / 태양광 ❌
 		
 		화석연료와 경쟁 가능한 대량의 저렴한 전력 생산 가능: SMR ✅ / 태양광 ❌
@@ -37,6 +40,8 @@ weight: 2
 
 ---
 ## 산업 섹터
+
+{{< adsense-infeed >}}
 
 - Sector: Energy(에너지)
 - Industry: Nuclear Power([원자력 발전](/industry-study/원자력-발전/))
@@ -64,7 +69,6 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     - **핵심 산업**: 전력 생산 및 공급
     - **역할**: 최종 소비자에게 전력을 제공
     - **주요 기업**:
-        
         - Duke Energy (미국, [DUK](/company-analysis/duk/)) - 전력 생산 및 유틸리티 서비스 제공
         - Southern Company (미국, [SO](/company-analysis/so/)) - 전력 생산 및 배급
 
@@ -73,7 +77,6 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     - **핵심 산업**: 원자력 연료 공급 및 기술 개발
     - **역할**: NuScale의 서비스에 필요한 연료 및 기술 지원 제공
     - **주요 기업**:
-        
         - [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장) - 원자력 기술 및 서비스 제공
         - General Electric (미국, [GE](/company-analysis/ge/)) - 에너지 및 기술 솔루션 제공
 
@@ -93,8 +96,12 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     
     - NuScale의 SMR을 활용한 전력 생산을 지원합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - Dominion Energy (미국, [D](/company-analysis/d/) ) - 전력 생산 및 유틸리티 서비스 제공
+
+{{< adsense-infeed >}}
 
 ---
 ## 주요 제품
@@ -102,7 +109,6 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
 - **VOYGR™ SMR**: 최대 924 MWe의 전력을 생성할 수 있는 소형 모듈식 원자로입니다.
     
     - 매출 비중: 전체 매출의 약 70% 차지.
-    
 - **SMR 관련 서비스**: 라이센스, 건설 및 운영 유지보수 서비스를 제공합니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
@@ -122,9 +128,7 @@ NuScale Power는 미국을 주요 시장으로 하며, 향후 국제 시장으�
 
 ---
 ## 산업 내 글로벌 시장 점유율
-
 NuScale은 글로벌 소형 모듈식 원자로(SMR) 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
-
 ---
 ## 최근 3년 내 주요 이슈
 

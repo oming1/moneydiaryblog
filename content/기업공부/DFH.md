@@ -1,14 +1,15 @@
 ﻿---
 title: "DFH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 272
----<div style="display:none">
+weight: 273
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #드림파인더스홈즈 #DFH #주택건설 #홈빌더 #부동산개발 #미국주택시장 #단독주택 #타운홈 #주택판매 #건설산업 #플로리다기반 #글로벌확장 #지속가능건축 #디지털마케팅 #주택수요 #경제변동 #주택금리 #공급망관리 #건설혁신 #주택인벤토리 #부동산트렌드 #홈바이어 #건설자재 #지속가능주택 #주택가격 #건설비용 #부동산투자 #주택시장분석 #건설테크 #부동산성장
 
@@ -26,6 +27,8 @@ weight: 272
 Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 설립된 주택 건설 및 개발 회사로, 단독 주택, 타운홈, 콘도미니엄을 전문으로 합니다. 초기에는 플로리다 지역에 집중했으나, 2021년 Nasdaq 상장 이후 텍사스, 조지아, 노스캐롤라이나 등으로 확장했습니다. 
 
 회사는 저비용 고품질 주택을 타겟으로 하며, 첫 주택 구매자와 가족을 주요 고객으로 합니다. Dream Finders는 디지털 마케팅과 온라인 판매를 강조하며, 지속 가능한 건축(에너지 효율 자재 사용)을 통해 차별화합니다. 최근에는 공급망 최적화와 모듈러 건설 기술을 도입하여 비용을 절감하고 있으며, 미국 주택 시장의 수요 증가(인구 이동, 저금리 환경)를 활용합니다. 회사의 강점은 지역별 맞춤 설계와 빠른 건설 사이클에 있으며, 이는 부동산 시장의 변동성에 대응하는 유연성을 제공합니다.
+
+{{< adsense-infeed >}}
 
 - **주요 제품 및 서비스**
     
@@ -84,7 +87,6 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 
 - **성장 동력 및 수익성 개선 요인:**
     - 주택 수요 증가, 디지털 판매 확대, 비용 절감 기술.
-
 ---
 
 ### 핵심 경쟁력
@@ -157,7 +159,6 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 ---
 
 ### 주된 영향을 미치는 원자재
-
 - **목재:** 건설 골조, 공급지: 미국, 공급업체 Weyerhaeuser(US, WY).
 - **철강:** 구조물, 공급지: 미국, 공급업체 Nucor(US, [NUE](/company-analysis/nue/)).
 
@@ -181,7 +182,6 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 ---
 
 ### 경쟁업체
-
 - Lennar(US, [LEN](/company-analysis/len/)) - 주택 건설, 시장점유율 15%.
 - D.R. Horton(US, [DHI](/company-analysis/dhi/)) - 홈빌더, 시장점유율 20%.
 - PulteGroup(US, [PHM](/company-analysis/phm/)) - 주택 개발, 시장점유율 10%.
@@ -191,6 +191,8 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 ---
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - 미국 주택 건설 시장 점유율:
     - 2023년: 1% (중소형).
@@ -224,7 +226,6 @@ Dream Finders Homes, Inc.은 2008년에 미국 플로리다주 잭슨빌에서 �
 - BlackRock: 6%.
 - 기관 투자자: 50%.
 - 개인 투자자: 16%.
-
 ---
 
 ### 관련 ETF

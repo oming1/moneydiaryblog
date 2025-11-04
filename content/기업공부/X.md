@@ -1,14 +1,15 @@
 ﻿---
 title: "X"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-04T13:33:34+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 983
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 984
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-04T04:33:34Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #기초소재 #철강
 
@@ -44,22 +45,22 @@ weight: 983
 - **미니 밀 제품:** 열연, 냉연 및 코팅 시트 및 전기 강판 제품
 
 #### 주요 판매국가
-
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (독일, 영국, 프랑스 등)
 - **아시아:** 주요 매출 국가 (중국, 일본, 한국 등)
 
-#### 경쟁업체
+{{< adsense-infeed >}}
 
+#### 경쟁업체
 - **ArcelorMittal (LU, [MT](/company-analysis/mt/)):** 글로벌 철강 제조업체
 - **Nucor Corporation (US, [NUE](/company-analysis/nue/)):** 미국 철강 제조업체
 - **Cleveland-Cliffs Inc. (US, [CLF](/company-analysis/clf/)):** 미국 철강 제조업체
-
 #### 산업 내 글로벌 시장 점유율
-
 - **철강 산업 시장 점유율:** 약 5% (2024년 기준)
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Nippon Steel 인수 제안:** Nippon Steel의 인수 제안 및 관련 논의 (2023-2024)
 - **미국 내 철강 산업 부흥:** 미국 내 철강 산업의 부흥을 위한 노력 (2023-2024)

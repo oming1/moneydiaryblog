@@ -1,14 +1,15 @@
 ﻿---
 title: "NSC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 628
----<div style="display:none">
+weight: 629
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #NorfolkSouthern #NSC #철도운송 #화물철도 #인터모달 #석탄운송 #화학물질운송 #자동차운송 #철도인프라 #동부철도 #운송물류 #복합운송 #소비재운송 #금속건설자재 #농업제품 #철도네트워크 #화물운송 #산업철도 #철도합병 #UnionPacific #배당주 #운송주 #인프라투자 #로지스틱스 #공급망 
 
@@ -40,7 +41,6 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 ## 비즈니스 모델 (수익 모델)
 
 **수익 구조 세분화:**
-
 - **일반화물 운송(Merchandise):** 약 60% (화학제품 17.88%, 금속/건설자재 13.83%, 자동차 9.29% 등)
 - **복합운송(Intermodal):** 약 25.39% (컨테이너 및 트레일러 운송)
 - **석탄 운송(Coal):** 약 12.36% (발전용 석탄 및 수출용 석탄)
@@ -98,6 +98,8 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 
 **전방산업 (화물 운송 고객):**
 
+{{< adsense-infeed >}}
+
 - 자동차 제조업: BMW, Ford, GM, Honda, Mercedes-Benz, Toyota, Volkswagen
 - 화학 산업: 각종 화학제품 생산업체
 - 금속 산업: 철강, 알루미늄 제조업체
@@ -125,9 +127,7 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - 화물 접수 및 집하 서비스
 - 장거리 철도 운송 서비스
 - 복합운송 서비스 (철도-트럭 연계)
-
 **고객 서비스 단계:**
-
 - 산업 개발 및 부지 제공 서비스
 - 물류 컨설팅 서비스
 - 공급망 최적화 서비스
@@ -155,6 +155,8 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 **목재:** 침목 교체 및 철도 인프라 건설용 자재
 
 **전력:** 신호시설, 야드 운영 등을 위한 전력 공급
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -262,6 +264,8 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - 1분기 EPS $3.31 달성, 순이익 34.2% 증가
 - 동부 오하이오 사고 관련 보험금 수령 지속
 
+{{< adsense-infeed >}}
+
 **2024년:**
 
 - 10억 달러 인프라 투자 완료
@@ -309,6 +313,5 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - iShares Global Infrastructure ETF IGF - 인프라 ETF
 
 **운송 관련 ETF:**
-
 - iShares Transportation Average ETF IYT - 운송업 ETF
 - SPDR S&P Transportation ETF XTN - 운송업 ETF

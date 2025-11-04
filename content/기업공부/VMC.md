@@ -1,14 +1,15 @@
 ﻿---
 title: "VMC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 934
----<div style="display:none">
+weight: 935
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -26,7 +27,9 @@ Vulcan Materials Company는 미국 최대의 건설용 골재 생산업체로, �
 1. 골재 생산: 2022년 기준 2억 7,200만 톤의 골재 생산
     
 2. 아스팔트 및 콘크리트 생산: 210개의 생산 시설 운영
-    
+
+{{< adsense-infeed >}}
+
 3. 건설 자재 연구 개발: 2022년 R&D 투자액 4,230만 달러
     
 4. 지속 가능한 채굴 및 환경 관리: 287개의 활성 복원 프로젝트 진행
@@ -68,7 +71,9 @@ Vulcan Materials Company는 미국 최대의 건설용 골재 생산업체로, �
 2. 가공 및 생산: 자체 생산 시설에서 골재, 아스팔트, 콘크리트 생산
     
 3. 연구 개발: 내부 R&D 팀, 대학 협력
-    
+
+{{< adsense-infeed >}}
+
 4. 물류 및 유통: 자체 트럭 및 철도 네트워크, 제3자 물류 파트너
     
 5. 판매 및 마케팅: 직접 판매팀, 건설 업체 및 정부 계약
@@ -80,10 +85,14 @@ Vulcan Materials Company는 미국 최대의 건설용 골재 생산업체로, �
 1. 건설용 골재: 쇄석, 모래, 자갈 (2022년 매출의 약 75%)
     
 2. 아스팔트 믹스: 도로 포장용 (2022년 매출의 약 15%)
-    
+
+{{< adsense-infeed >}}
+
 3. 레디믹스 콘크리트: 건설 현장용 (2022년 매출의 약 10%)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국(90% 이상), 멕시코, 캐나다, 바하마, 미국령 버진아일랜드
 
@@ -116,13 +125,10 @@ Vulcan Materials는 미국 내 건설용 골재 시장에서 선도적인 위치
 5. 멕시코 유카탄 반도의 대규모 채석장 및 항구 프로젝트 확장 (2025년)
 
 ## 주요주주(지분율)
-
 1. The Vanguard Group (11.66%)
-    
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
-
 ## 관련 ETF
 
 1. Materials Select Sector SPDR Fund - XLB

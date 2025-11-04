@@ -1,14 +1,15 @@
 ﻿---
 title: "WuXi Biologics"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-09-11T10:53:00+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 979
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 980
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-11T01:53:00Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #바이오테크 #헬스케어 #CDMO #중국 
 
@@ -35,6 +36,8 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
 
 #### 밸류체인 (Value Chain)
 
+{{< adsense-infeed >}}
+
 1. **연구 및 개발 (R&D)**
     - 대표 기업: WuXi Biologics, Charles River Laboratories (US, [CRL](/company-analysis/crl/))
 2. **임상 시험 (Clinical Trials)**
@@ -43,24 +46,24 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
 
 #### 주요제품 (Key Products)
-
 - **단백질 생성** (Protein Generation)
 - **항체 생성** (Antibody Generation)
 - **세포 및 유전자 치료제** (Cell and Gene Therapies)
 - **바이러스 벡터 기반 백신** (Viral Vector-Based Vaccines)
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가 (Major Sales Countries)
+
+{{< adsense-infeed >}}
 
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **중국:** 본사 위치 및 주요 시장
-
 #### 경쟁업체 (Competitors)
-
 - **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공
 - **Catalent** (US, [CTLT](/company-analysis/ctlt/)): 약물 개발 및 제조 서비스 제공
-
 #### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
 
 - **미국의 BIOSECURE 법안**: 미국 시장에서의 사업 제한 가능성 (2024)

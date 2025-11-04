@@ -1,14 +1,15 @@
 ﻿---
 title: "EXPN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-08-29T21:57:13+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 333
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 334
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-29T12:57:13Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #산업재 #비즈니스서비스 #신용평가 #신용정보
 
@@ -18,7 +19,6 @@ Sector: Industrials (산업재)
 Industry: Business Services (비즈니스서비스)
 
 ## 회사 개요
-
 Experian PLC는 아일랜드에 본사를 둔 글로벌 정보 서비스 회사입니다. 1968년 설립되어 현재 전 세계 30개국에서 21,700명의 직원이 근무하고 있습니다. 주요 사업 부문은 Business-to-Business와 Consumer Services입니다.
 
 ## 영위사업
@@ -37,21 +37,25 @@ Experian PLC는 아일랜드에 본사를 둔 글로벌 정보 서비스 회사�
 - 소매업체: Walmart (US, [WMT](/company-analysis/wmt/))
 
 후방산업:
-
 - 역할: 데이터 및 기술 제공
 - 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/))
 - 데이터 관리: Oracle (US, [ORCL](/company-analysis/orcl/))
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 비즈니스 데이터 및 의사결정 솔루션
 - 소비자 신용 보고서 및 점수
 - 마케팅 서비스
 - 사기 방지 및 신원 관리 도구
-
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Experian은 전 세계 30개국에서 사업을 운영하고 있습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 
@@ -59,13 +63,13 @@ Experian은 전 세계 30개국에서 사업을 운영하고 있습니다. 구�
 - 데이터 분석 및 예측 도구
 - 소프트웨어 플랫폼
 - 특허 포트폴리오
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Equifax (US, EFX) - 신용 정보 서비스
 - TransUnion (US, TRU) - 신용 정보 및 분석
 - FICO (US, FICO) - 신용 점수 및 분석 솔루션
-
 ## 산업 내 글로벌 시장 점유율
 
 Experian은 글로벌 신용 정보 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.

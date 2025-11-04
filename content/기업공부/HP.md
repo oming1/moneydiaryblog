@@ -1,14 +1,15 @@
 ﻿---
 title: "HP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 414
----<div style="display:none">
+weight: 415
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #석유가스 #시추 #에너지 #계약시추 #FlexRig #에너지 #해상시추
 
@@ -44,12 +45,15 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 ## 전방/후방산업
 
 1. 후방산업:
-    
     - 시추 장비 제조: National Oilwell Varco(US, [NOV](/company-analysis/nov/))
     - 철강 제조: U.S. Steel(US, [X](/company-analysis/x/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
 
@@ -61,6 +65,8 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 4. 수송: Energy Transfer(US, [ET](/company-analysis/et/)) - 파이프라인 운영
 5. 정제: Valero Energy(US, [VLO](/company-analysis/vlo/)) - 석유 정제
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. FlexRig 시스템 (첨단 육상 시추 장비)
@@ -68,7 +74,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 시추 자동화 및 데이터 분석 솔루션
 
 ## 주요고객
-
 1. 석유 및 가스 탐사 기업
 2. 석유 메이저 기업
 3. 독립 석유 및 가스 생산 기업
@@ -78,13 +83,14 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 1. 미국 (2024년 회계연도 매출 비중: 89.5%)
 2. 아르헨티나 (2024년 회계연도 매출 비중: 4.9%)
 3. 바레인, 콜롬비아, UAE 등 기타 국가
-
 ## 경쟁업체
 
 1. Nabors Industries(BM, NBR)
 2. Patterson-UTI Energy(US, PTEN)
 3. Precision Drilling(CA, PDS)
 4. Transocean(CH, RIG)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -97,7 +103,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 코로나19 팬데믹으로 인한 시추 수요 감소 및 회복 (2022-2024년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2023-2024년)
 5. 디지털 기술 및 자동화 솔루션 개발 확대 (2022-2024년)
-
 ## 주요주주(지분율)
 
 1. BlackRock Advisors LLC: 15.65%
@@ -105,7 +110,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
-
 ## 관련 ETF
 
 1. SPDR S&P Oil & Gas Equipment & Services ETF - XES

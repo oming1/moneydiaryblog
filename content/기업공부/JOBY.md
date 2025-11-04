@@ -1,14 +1,15 @@
 ﻿---
 title: "JOBY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-03T21:56:11+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 471
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 472
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-03T12:56:11Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #산업재 #항공우주및방위 #eVTOL #UAM
 
@@ -19,9 +20,15 @@ weight: 471
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조하는 기업으로, 도시 항공 모빌리티([UAM](/industry-study/2산업항공우주방위-산업3모빌리티uam/)) 시장을 목표로 하고 있습니다
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - S4 eVTOL: 1명의 조종사와 4명의 승객을 태울 수 있는 5인승 전기 수직 이착륙 항공기
     - 최대 속도: 200mph(약 322km/h)
@@ -29,7 +36,6 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
     - 6개의 틸트 프롭 프로펠러 사용[
 
 ## 주요 판매국가
-
 현재 개발 단계에 있으며, 미국을 중심으로 사업을 추진하고 있습니다. 일본에서도 ANA Holdings와 파트너십을 맺고 있습니다
 
 ## 경쟁업체
@@ -37,7 +43,6 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
 - Lilium(US, [LILM](/company-analysis/lilm/))
 - Archer Aviation(US, [ACHR](/company-analysis/achr/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
-
 ## 최근 3년 내 주요 이슈
 
 - 2023년 11월 12일, 뉴욕시에서 첫 도심 비행 테스트 성공
@@ -45,5 +50,4 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
 - 2023년 6월, 첫 생산 버전 항공기 공개 및 FAA 비행 테스트 승인 획득
 - 2022년 5월, FAA로부터 Part 135 항공 서비스 인증 획득
 - 2024년 6월, 수소-전기 하이브리드 eVTOL 항공기로 523마일 비행 기록 달성
-
 Joby Aviation은 2025년 상용 서비스 시작을 목표로 하고 있으며, 델타 항공과의 파트너십을 통해 공항-도심 간 항공 택시 서비스를 제공할 계획입니다

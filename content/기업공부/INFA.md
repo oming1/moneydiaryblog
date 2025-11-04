@@ -1,14 +1,15 @@
 ﻿---
 title: "INFA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 444
----<div style="display:none">
+weight: 445
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -19,7 +20,6 @@ weight: 444
 섹터: 정보기술
 
 산업: 소프트웨어
-
 ## 영위사업
 
 Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우드 데이터 관리 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -27,7 +27,6 @@ Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우�
 1. 데이터 통합 및 엔지니어링
     
 2. 데이터 품질 및 거버넌스
-    
 3. 마스터 데이터 관리(MDM)
     
 4. 클라우드 데이터 관리
@@ -51,7 +50,6 @@ Informatica Inc.(NYSE: INFA)는 1993년 설립된 엔터프라이즈 클라우�
 5. 지속적인 혁신 및 R&D 투자
 
 ## 주요제품
-
 - Intelligent Data Management Cloud(IDMC): AI 기반 통합 데이터 관리 플랫폼, 매출의 약 70% (2024년 기준)
     
 - PowerCenter: 온프레미스 데이터 통합 솔루션, 매출의 약 15% (2024년 기준)
@@ -92,8 +90,9 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
     
 - 지속가능성 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2022년)
 
-## 주요주주(지분율)
+{{< adsense-infeed >}}
 
+## 주요주주(지분율)
 - The Vanguard Group (11.66%)
     
 - BlackRock (9.17%)
@@ -103,11 +102,14 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
 ## 관련 ETF
 
 - iShares Expanded Tech-Software Sector ETF - IGV
-    
+
+{{< adsense-infeed >}}
+
 - SPDR S&P Software & Services ETF - XSW
     
 - First Trust Cloud Computing ETF - SKYY
-    
+
+{{< adsense-infeed >}}
+
 - Global X Cloud Computing ETF - CLOU
-    
 - WisdomTree Cloud Computing Fund - WCLD

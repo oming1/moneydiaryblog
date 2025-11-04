@@ -1,14 +1,15 @@
 ﻿---
 title: "HLT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-10-23T22:02:00+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 409
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 410
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-23T13:02:00Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #레저 #호텔 
 
@@ -27,7 +28,11 @@ weight: 409
     - **핵심 산업 및 역할**: 호텔 건설 및 유지보수, 식음료 공급 등. 이들은 호텔 운영에 필요한 인프라와 자원을 제공합니다.
     - **관련 기업**: Caterpillar Inc. (미국, [CAT](/company-analysis/cat/)), Sysco Corporation (미국, [SYY](/company-analysis/syy/))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **개발 및 건설**: 호텔 개발 및 건설
     - **대표 회사**: Marriott International (미국, [MAR](/company-analysis/mar/)), InterContinental Hotels Group (영국, IHG)
@@ -37,12 +42,10 @@ weight: 409
     - **대표 회사**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
 
 #### 주요제품
-
 - **호텔 및 리조트 운영**: Hilton Hotels & Resorts, Waldorf Astoria, Conrad Hotels & Resorts 등
 - **브랜드 포트폴리오**: Hilton Garden Inn, Hampton by Hilton, DoubleTree by Hilton 등
 
 #### 주요 판매국가
-
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지
 - **중국**: 빠르게 성장하는 시장
 - **유럽**: 다양한 국가에서 매출 발생
@@ -54,10 +57,13 @@ weight: 409
 - **InterContinental Hotels Group (영국, IHG)**: 호텔 및 리조트 운영
 
 #### 산업 내 글로벌 시장 점유율
-
 - **Hilton Worldwide**: 글로벌 호텔 시장에서 약 5%의 점유율 (2023년 기준)
 
+{{< adsense-infeed >}}
+
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹**: 여행 수요 급감으로 인한 매출 감소 (2020년)
 - **디지털 전환**: 온라인 예약 시스템 강화 및 모바일 앱 개선 (2021년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "CARS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 174
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #중고차`
 
@@ -31,7 +32,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 3. **디지털 소매 솔루션**: AccuTrade, Dealer Inspire, CreditIQ 등을 통해 차량 평가, 금융 옵션 제공
     
 4. **소비자 경험 강화**: 차량 비교, 가격 분석, 리뷰 및 평점 제공
-
 2024년 기준 총 매출은 약 7억 1,900만 달러였으며, Cars.com은 미국 내 약 19,500개의 프랜차이즈 및 독립 딜러 네트워크를 보유하고 있습니다. 최근에는 AI 기반 추천 시스템과 디지털 소매 솔루션을 강화하며 시장 점유율 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -55,7 +55,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 - **금융 서비스**: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Ally Financial(US, [ALLY](/company-analysis/ally/))
     
 - **광고주**: 자동차 딜러 및 브랜드
-
 ## 후방산업
 
 - **클라우드 서비스 제공업체**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -86,6 +85,8 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 1. 자동차 구매자 (개인 소비자)
     
 2. 자동차 판매자 (개인 및 딜러)
@@ -93,7 +94,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 3. 자동차 딜러 (B2B 고객)
     
 4. 금융 기관 (자동차 금융 및 보험 제공자)
-
 ## 주요 판매국가
 
 미국, 캐나다
@@ -105,12 +105,15 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 2. CarMax Inc.(US, [KMX](/company-analysis/kmx/)): 중고차 판매 및 구매 전문 기업
     
 3. CarGurus Inc.(US, [CARG](/company-analysis/carg/)): 온라인 자동차 가격 비교 플랫폼
-    
+
+{{< adsense-infeed >}}
+
 4. Edmunds.com(US): 차량 리뷰 및 가격 비교 플랫폼
-    
 5. TrueCar Inc.(US, TRUE): 온라인 자동차 가격 비교 플랫폼
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Cars.com은 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약 15%의 점유율을 보유하고 있으며, 중고차 거래 부문에서 강세를 보이고 있습니다. 글로벌 시장에서는 캐나다에서도 안정적인 입지를 확보하고 있습니다.
 
@@ -123,7 +126,9 @@ Cars.com은 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 3. AccuTrade 기반 차량 평가 솔루션 출시 (2022년 3월)
     
 4. AI 기반 추천 시스템 도입으로 사용자 경험 개선 (2023년)
-    
+
+{{< adsense-infeed >}}
+
 5. ESG 목표 강화: 지속 가능한 비즈니스 모델 구축 발표 (2024년)
 
 ## 주요주주(지분율)

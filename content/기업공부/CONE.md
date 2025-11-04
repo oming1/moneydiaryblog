@@ -1,14 +1,15 @@
 ﻿---
 title: "CONE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 216
----<div style="display:none">
+weight: 217
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #부동산 #데이터센터 #리츠 #클라우드 #보안 
 
@@ -19,12 +20,14 @@ weight: 216
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 사이러스원은 글로벌 데이터 센터 운영 기업으로, 데이터 센터 및 인터넷 교환 서비스를 제공하여 기업들이 디지털 인프라를 구축하고 관리할 수 있도록 지원합니다. 주요 서비스로는 하이퍼스케일, 콜로케이션, 하이브리드 클라우드, 맞춤형 데이터 센터 솔루션 등이 있습니다
 
-#### 전방/후방산업
+{{< adsense-infeed >}}
 
+#### 전방/후방산업
 - **전방산업:** 클라우드 서비스, 통신, 금융 서비스
-    
     - **클라우드 서비스:** 클라우드 컴퓨팅 및 스토리지 제공. 주요 기업: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/)).
     - **통신:** 네트워크 및 인터넷 서비스 제공. 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Verizon (미국, [VZ](/company-analysis/vz/)).
     - **금융 서비스:** 금융 데이터 관리 및 거래. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
@@ -48,6 +51,8 @@ weight: 216
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **데이터 센터 서비스:** 데이터 센터 공간 및 전력 제공
 - **인터넷 교환 서비스:** 네트워크 간 트래픽 교환
 - **[클라우드](/industry-study/2산업클라우드/) 연결:** 클라우드 서비스 제공업체와의 연결
@@ -60,11 +65,12 @@ weight: 216
 - **아시아:** 클라우드 연결 및 데이터 센터 서비스
 
 #### 경쟁업체
-
 - **데이터 센터:** Equinix (미국, [EQIX](/company-analysis/eqix/)), Digital Realty (미국, [DLR](/company-analysis/dlr/)).
 - **인터넷 교환:** Interxion (네덜란드, [INXN](/company-analysis/inxn/)), CoreSite Realty (미국, [COR](/company-analysis/cor/)).
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **데이터 센터:** 글로벌 시장 점유율 약 5% (2023년 기준)
 

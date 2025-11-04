@@ -1,14 +1,15 @@
 ﻿---
 title: "MMS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-20T21:58:30+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 572
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 573
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-20T12:58:30Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #데이터처리및아웃소싱서비스 #정보기술 #정부 
 
@@ -28,7 +29,6 @@ Maximus, Inc.는 정부 기관을 위한 비즈니스 프로세스 관리 및 �
 Maximus는 Medicaid, Medicare, 건강보험 개혁, 복지에서 일자리로의 전환 프로그램, 학자금 대출 서비스 등 다양한 정부 프로그램을 위한 관리 및 기타 서비스를 제공합니다.
 
 ## 주요제품
-
 1. 건강 및 복지 프로그램 관리 서비스
 2. 연방 정부 기관을 위한 기술 통합 및 구현 솔루션
 3. 정책 및 프로그램 관련 컨설팅 서비스
@@ -37,22 +37,26 @@ Maximus는 Medicaid, Medicare, 건강보험 개혁, 복지에서 일자리로의
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Maximus는 주로 미국, 캐나다, 영국, 호주, 뉴질랜드, 사우디아라비아, 싱가포르 등에서 사업을 영위하고 있습니다.
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 1. Jack Henry & Associates (US, JKHY) - 금융 기술 솔루션
 2. Genpact (US, G) - 비즈니스 프로세스 관리
 3. ExlService (US, EXLS) - 운영 관리 및 분석 솔루션
 4. WEX (US, WEX) - 결제 처리 및 정보 관리 서비스
 5. Euronet Worldwide (US, EEFT) - 전자 결제 및 거래 처리 솔루션
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Maximus는 정부 서비스 분야에서 주요 공급업체 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 2023년 회계연도 매출 53억 달러 달성 (2023년)
 2. 영국, 캐나다, 싱가포르, 이탈리아의 고용 서비스 사업 매각 발표 (2023년)
 3. 미국 교육부 연방 학자금 지원국과 20억 달러 이상의 IDIQ 계약 체결 (2023년)

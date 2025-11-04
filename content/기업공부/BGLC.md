@@ -1,14 +1,15 @@
 ﻿---
 title: "BGLC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 129
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #바이오테크놀로지 #액체생검 #유전체스크리닝 #정밀진단 #특수화학 #말레이시아 #mRNA #분자진단 #바이오마커 #조기진단 #헬스케어 #화학원료 #산업용화학 #의료기기 #자동차 #전자산업 #항공우주 #기계공업 #Chemrex #BGS #나스닥컴플라이언스 #동남아시아 #인도네시아 #베트남 #AI헬스케어
 
@@ -70,7 +71,6 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 ## 🚀 핵심 경쟁력
 
 **지역적 독점성:**
-
 - 말레이시아 유일의 상업적 분자 실험실 운영
 - 동남아시아 특수 화학 원료 시장의 전문 지식
 - 현지 네트워크 및 공급망 구축
@@ -114,6 +114,8 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 **3단계:** 화학 원료 가공 - 고품질 특수 화학 소재 생산  
 **4단계:** 최종 제품 출하 - 고객 맞춤형 포장 및 배송
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 📈 전방산업 / 후방산업
@@ -151,10 +153,11 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 
 **유통 및 판매 단계:**
 
+{{< adsense-infeed >}}
+
 - 직접 판매: 대형 산업체 및 의료 기관 직접 공급
 - 지역 유통업체: 동남아시아 화학 원료 유통 네트워크
 - 온라인 플랫폼: B2B 특수 화학 원료 거래 플랫폼
-
 ---
 
 ## 📦 주요 제품
@@ -180,7 +183,6 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 ---
 
 ## 🧱 주된 영향을 미치는 원자재
-
 **화학 원료:** 특수 화학 소재 생산의 기초 소재, 주요 공급지 중국/인도/동남아시아, 다양한 화학 공급업체  
 **바이오테크 시약:** 분자 진단용 시약 및 키트, 주요 공급지 미국/유럽/일본, 글로벌 바이오테크 업체  
 **실험실 장비:** 진단 장비 및 분석 시스템, 주요 공급지 독일/미국/일본, 의료 장비 제조업체  
@@ -193,6 +195,8 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 **- 말레이시아 산업 제조업체**  
 특수 화학 원료 공급 (구체적 고객명 비공개)
 
+{{< adsense-infeed >}}
+
 **- 인도네시아 화학 기업**  
 산업용 화학 원료 수출 공급
 
@@ -204,6 +208,8 @@ BioNexus Gene Lab Corp.은 2017년 5월 12일 Liew Choong-Chin에 의해 설립�
 
 **- 동남아시아 항공우주 기업**  
 고성능 화학 소재 공급
+
+{{< adsense-infeed >}}
 
 **- 자동차 부품 제조업체**  
 자동차용 특수 화학 원료 공급
@@ -276,14 +282,12 @@ _주: 대부분의 고객 정보는 상업적 기밀로 구체적 회사명 비�
 
 **- Siemens Healthineers AG (DE, SHL)**  
 의료 진단 및 영상 장비 제조업체
-
 **- Danaher Corporation (US, [DHR](/company-analysis/dhr/))**  
 생명과학 및 진단 솔루션 제공업체
 
 ---
 
 ## 📊 산업 내 글로벌 시장 점유율
-
 **액체 생검 시장:**
 
 - 2024년: 약 0.1% (동남아시아 지역 한정)

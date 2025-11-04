@@ -1,14 +1,15 @@
 ﻿---
 title: "LOW"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-20T11:04:19+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 526
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 527
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-20T02:04:19Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #임의소비재 #주택개조소매 #건축자재 #DIY #주택개조
 
@@ -20,11 +21,11 @@ weight: 526
 ## 영위 사업
 
 Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소매업체로, 주로 DIY(Do It Yourself) 고객과 전문 계약자에게 다양한 제품과 서비스를 제공합니다. 제품 포트폴리오에는 주방 가전, 건축 자재, 도구 및 하드웨어, 정원 및 야외 용품 등이 포함됩니다.
-
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업:
-    
     - 핵심 산업: 건설, 리모델링, 소매
     - 역할: 주택 개조 및 건축 자재 공급
     - 주요 기업: The Home Depot (미국, [HD](/company-analysis/hd/)), Menards (미국, 비상장)
@@ -33,11 +34,9 @@ Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소�
     - 핵심 산업: 제조업, 물류
     - 역할: 제품 생산 및 공급망 관리
     - 주요 기업: Whirlpool (미국, [WHR](/company-analysis/whr/)), Stanley Black & Decker (미국, [SWK](/company-analysis/swk/))
-
 ## 밸류체인
 
 - 제품 조달 및 유통:
-    
     - Lowe's는 다양한 공급업체로부터 제품을 조달하여 매장과 온라인에서 판매합니다.
     - 대표 기업: Home Depot (미국, [HD](/company-analysis/hd/)), Ace Hardware (미국, 비상장)
     
@@ -55,6 +54,8 @@ Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소�
 
 ## 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 Lowe's는 미국을 중심으로 사업을 운영하며, 캐나다와 멕시코에도 지점을 두고 있습니다. 최근에는 캐나다 사업을 Sycamore Partners에 매각하였습니다.
 
 ## 경쟁업체
@@ -64,6 +65,8 @@ Lowe's는 미국을 중심으로 사업을 운영하며, 캐나다와 멕시코�
 - Ace Hardware (미국, 비상장) - 지역 기반 하드웨어 소매업체
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Lowe's는 미국 내 두 번째로 큰 하드웨어 체인으로, 시장 점유율은 약 10% 이상으로 추정됩니다. The Home Depot가 가장 큰 시장 점유율을 보유하고 있습니다.
 

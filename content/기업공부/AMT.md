@@ -1,14 +1,15 @@
 ﻿---
 title: "AMT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 65
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -29,20 +30,22 @@ American Tower Corporation(NYSE: AMT)은 글로벌 통신 인프라 제공업체
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 글로벌 포트폴리오: 25개국 이상에 걸친 광범위한 통신 인프라 네트워크
 2. 다각화된 고객 기반: 주요 통신사들과의 장기 계약을 통한 안정적인 수익 창출
 3. 규모의 경제: 대규모 타워 포트폴리오를 통한 운영 효율성 확보
 4. 기술 혁신: 5G, 엣지 컴퓨팅 등 신기술 도입을 통한 성장 기회 창출
 5. 재무적 안정성: REIT 구조를 통한 세금 혜택과 안정적인 현금 흐름 확보
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 통신 타워 임대: 무선통신사업자들에게 타워 공간 제공, 매출의 약 80% (2024년 기준)
 - 데이터 센터 서비스: 기업 고객들에게 데이터 센터 및 상호연결 서비스 제공, 매출의 약 15% (2024년 기준)
 - 관리 서비스: 타워 관리 및 유지보수 서비스, 매출의 약 5% (2024년 기준)
-
 ## 주요 판매국가
-
 미국, 인도, 브라질, 독일, 프랑스, 나이지리아, 멕시코, 남아프리카공화국
 
 ## 경쟁업체
@@ -54,8 +57,9 @@ American Tower Corporation(NYSE: AMT)은 글로벌 통신 인프라 제공업체
 
 ## 산업 내 글로벌 시장 점유율
 
-American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에서 약 25.15%의 점유율을 보유하고 있습니다. 이는 경쟁사인 Crown Castle(16.43%)과 SBA Communications(6.36%)를 크게 앞서는 수치입니다.
+{{< adsense-infeed >}}
 
+American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에서 약 25.15%의 점유율을 보유하고 있습니다. 이는 경쟁사인 Crown Castle(16.43%)과 SBA Communications(6.36%)를 크게 앞서는 수치입니다.
 ## 최근 3년 내 주요 이슈
 
 - 데이터 센터 사업 확장을 위한 CoreSite 인수 완료 (2022년)
@@ -70,8 +74,9 @@ American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 
-## 관련 ETF
+{{< adsense-infeed >}}
 
+## 관련 ETF
 - iShares U.S. Real Estate ETF - IYR
 - Vanguard Real Estate ETF - VNQ
 - Real Estate Select Sector SPDR Fund - XLRE

@@ -1,14 +1,15 @@
 ﻿---
 title: "HEES"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 402
----<div style="display:none">
+weight: 403
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -32,7 +33,6 @@ H&E Equipment Services, Inc.(NASDAQ: HEES)는 1961년 설립된 미국의 주요
 ## 핵심 경쟁력
 
 H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
-
 1. 광범위한 네트워크: 30개 주에 걸친 145개 지점으로 신속한 서비스 제공
 2. 다양한 장비 포트폴리오: 64,000대 이상의 장비로 고객 니즈 충족
 3. 젊은 장비군: 업계에서 가장 젊은 장비 플릿 중 하나로 높은 성능과 가동 시간 제공
@@ -41,6 +41,8 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 6. 디지털 혁신: ERP 시스템 투자를 통한 운영 효율성 증대 및 고객 경험 개선
 
 이러한 경쟁력을 바탕으로 H&E Equipment Services는 빠르게 성장하는 장비 렌탈 시장에서 강세를 보이고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -58,7 +60,6 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 - 물류 및 운송: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
 
 ## 밸류체인
-
 1. 장비 제조: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 및 산업 장비)
 2. 장비 구매: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (대규모 장비 구매)
 3. 렌탈 서비스: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (다양한 장비 렌탈)
@@ -82,6 +83,8 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 - 정부 및 지방자치단체
 - 상업 및 주거 건설업체: DR Horton(US, [DHI](/company-analysis/dhi/)), Lennar Corporation(US, [LEN](/company-analysis/len/))
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국
@@ -97,7 +100,6 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 ## 산업 내 글로벌 시장 점유율
 
 H&E Equipment Services의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 미국 장비 렌탈 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - United Rentals의 주당 92달러 현금 인수 제안 발표 (2025년)

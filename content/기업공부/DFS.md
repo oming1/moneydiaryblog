@@ -1,14 +1,15 @@
 ﻿---
 title: "DFS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 273
----<div style="display:none">
+weight: 274
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #금융서비스 #신용서비스 #신용카드 #대출 
 
@@ -19,8 +20,9 @@ weight: 273
 
 **영위사업** Discover Financial Services는 금융 서비스 회사로, 신용카드 발행, 개인 대출, 학생 대출, 예금 계좌 및 기타 금융 서비스를 제공합니다. 주요 브랜드로는 Discover Card가 있습니다.
 
-**전방산업**
+{{< adsense-infeed >}}
 
+**전방산업**
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)), 캐피탈 원 (미국, [COF](/company-analysis/cof/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
 
@@ -30,9 +32,10 @@ weight: 273
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
 
 **밸류체인**
-
 1. **고객 유치 및 마케팅 (Customer Acquisition and Marketing):**
-    
+
+{{< adsense-infeed >}}
+
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
     - **WPP (영국, WPP)**: 광고 및 PR 서비스.
 2. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
@@ -63,11 +66,12 @@ weight: 273
 
 **경쟁업체**
 
+{{< adsense-infeed >}}
+
 - **American Express (미국, [AXP](/company-analysis/axp/)):** 신용카드 및 금융 서비스.
 - **Capital One (미국, [COF](/company-analysis/cof/)):** 신용카드 및 대출 서비스.
 - **Synchrony Financial (미국, [SYF](/company-analysis/syf/)):** 소비자 금융 서비스.
 - **Citi (미국, [C](/company-analysis/c/))**: 글로벌 금융 서비스.
-
 **산업 내 글로벌 시장 점유율**
 
 - Discover Financial Services는 글로벌 신용카드 시장에서 약 2%의 점유율을 차지하고 있습니다 (2023년 기준).

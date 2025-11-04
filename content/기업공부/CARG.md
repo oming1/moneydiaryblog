@@ -1,14 +1,15 @@
 ﻿---
 title: "CARG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 172
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -21,7 +22,6 @@ weight: 172
 산업: 인터넷콘텐츠및정보
 
 ## 영위사업
-
 CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본사를 둔 다국적 온라인 자동차 플랫폼 기업입니다. 2006년 설립된 이 회사는 신차 및 중고차 구매 및 판매를 위한 디지털 소매 솔루션과 도매 플랫폼(CarOffer)을 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **U.S. Marketplace**: 미국 내 소비자와 딜러를 연결하는 자동차 거래 플랫폼
@@ -31,7 +31,6 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 3. **브랜드 운영**: CarGurus(미국, 캐나다, 영국), Autolist(미국), PistonHeads(영국), CarOffer(미국)
 
 2024년 기준 총 매출은 약 8억 9,438만 달러이며, 미국을 중심으로 캐나다, 영국, 독일 등에서 서비스를 운영하고 있습니다. 최근에는 AI 기반 가격 분석과 디지털 소매 솔루션 강화에 주력하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. **AI 기반 가격 분석**: 알고리즘을 활용한 신뢰성 높은 가격 비교 제공
@@ -55,6 +54,8 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 - **광고주**: 자동차 딜러 및 브랜드
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - **클라우드 서비스 제공업체**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
@@ -93,7 +94,6 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 이탈리아, 스페인
-
 ## 경쟁업체
 
 1. AutoNation Inc.(US, [AN](/company-analysis/an/)): 미국 최대 자동차 소매업체
@@ -127,13 +127,17 @@ CarGurus는 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 - The Vanguard Group (11%)
     
 - BlackRock (9%)
-    
+
+{{< adsense-infeed >}}
+
 - State Street Corporation (5%)
 
 ## 관련 ETF
 
 - Global X Autonomous & Electric Vehicles ETF - DRIV
-    
+
+{{< adsense-infeed >}}
+
 - Invesco NASDAQ Internet ETF - PNQI
     
 - First Trust Dow Jones Internet Index Fund - FDN

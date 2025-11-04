@@ -1,14 +1,15 @@
 ﻿---
 title: "RGEN"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-13T21:47:21+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 742
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 743
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-13T12:47:21Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #생명과학도구및서비스 #정보기술 #바이오프로세싱
 
@@ -28,6 +29,8 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 3. 공정 분석(Process Analytics): 단백질 농도 모니터링 시스템
 4. 단백질(Proteins): Protein A 친화성 수지 및 리간드
 
+{{< adsense-infeed >}}
+
 주요 제품으로는 XCell ATF 시스템, OPUS 사전 포장 컬럼, KrosFlo TFF 시스템, Protein A 친화성 수지 등이 있습니다.
 
 ## 전방/후방산업
@@ -36,13 +39,13 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 
 - 바이오제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 계약 제조기업: Lonza (스위스, LONN.SW)
-
 ## 후방산업
-
 - 원자재 공급: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
 - 장비 제조: Sartorius (독일, SRT.DE)
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구개발: Repligen (US, [RGEN](/company-analysis/rgen/)) (바이오프로세싱 기술 개발)
 2. 제조: Repligen (US, [RGEN](/company-analysis/rgen/)) (바이오프로세싱 제품 생산)
@@ -68,13 +71,13 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 3. Sartorius AG (독일, SRT.DE)
 4. Merck KGaA (독일, MRK.DE)
 5. Pall Corporation (Danaher 소유)
-
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 2024년 3분기 기준, Repligen의 시장 점유율은 0.84%로 추정됩니다
 
 ## 최근 3년 내 주요 이슈
-
 1. COVID-19 백신 및 치료제 개발 지원을 위한 제품 공급 확대 (2020-2022년)
 2. 지속적인 제품 혁신 및 신제품 출시 (2021-2023년)
 3. 전략적 인수를 통한 사업 확장 (2022-2024년)

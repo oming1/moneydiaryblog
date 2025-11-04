@@ -1,14 +1,15 @@
 ﻿---
 title: "ANSS"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-06T21:35:22+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 73
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-06T12:35:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #정보기술 #소프트웨어 #엔지니어링시뮬레이션소프트웨어
 
@@ -23,8 +24,9 @@ Ansys, Inc.(ANSS)는 엔지니어링 시뮬레이션 소프트웨어 및 서비�
 
 제품 개발을 위한 엔지니어링 시뮬레이션 소프트웨어 개발 및 마케팅
 
-## 전방/후방산업
+{{< adsense-infeed >}}
 
+## 전방/후방산업
 ## 후방산업
 
 - 컴퓨터 하드웨어 제조업체: 고성능 컴퓨팅 시스템 공급
@@ -55,17 +57,19 @@ Ansys, Inc.(ANSS)는 엔지니어링 시뮬레이션 소프트웨어 및 서비�
 - ANSYS Discovery: 실시간 시뮬레이션 및 최적화
 
 ## 주요 판매국가
-
 북미, 유럽, 중동, 아프리카, 아시아-태평양
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Synopsys(US, [SNPS](/company-analysis/snps/))
 - Cadence Design Systems(US, [CDNS](/company-analysis/cdns/))
 - Siemens EDA(DE, SIE.DE)
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았으나, Ansys는 엔지니어링 시뮬레이션 소프트웨어 시장의 선두 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈

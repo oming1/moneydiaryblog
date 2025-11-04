@@ -1,14 +1,15 @@
 ﻿---
 title: "SR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 826
----<div style="display:none">
+weight: 827
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #유틸리티 #천연가스 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #가스유틸리티 #유틸리티 #천연가스 #미드스트림 
 
@@ -31,7 +32,6 @@ Spire Inc.는 미국의 [천연가스](/industry-study/천연가스/) 유틸리�
 Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 특성을 가진 유틸리티 기업으로서 예측 가능한 현금흐름과 배당을 제공하는 특징이 있습니다.
 
 ## 핵심 경쟁력
-
 1. 지역 독점: 규제된 시장에서 독점적 지위를 가지고 있어 안정적인 수익 창출이 가능합니다.
 2. 규제 환경: 정부 규제로 인해 안정적인 수익률이 보장되며, 이는 예측 가능한 현금흐름으로 이어집니다.
 3. 필수 서비스 제공: 천연가스는 필수 에너지원으로, 경기 변동에 상대적으로 덜 민감한 수요를 보입니다.
@@ -40,12 +40,15 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업:
 
 1. 주거용 에너지: 가정용 난방 및 조리
-    
+
+{{< adsense-infeed >}}
+
     - 주택 건설업체: Lennar Corporation(US, [LEN](/company-analysis/len/))
-    
 2. 상업용 에너지: 사무실, 상점 등의 난방 및 에너지 사용
     
     - 상업용 부동산: Simon Property Group(US, [SPG](/company-analysis/spg/))
@@ -53,11 +56,9 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 3. 산업용 에너지: 제조 공정 및 발전소 연료
     
     - 제조업체: General Electric(US, [GE](/company-analysis/ge/))
-
 ## 후방산업:
 
 1. 천연가스 생산: 원료 공급
-    
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
     
 2. 파이프라인 인프라: 가스 운송
@@ -65,7 +66,9 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/))
     
 3. 가스 저장 시설: 수요 변동 대응
-    
+
+{{< adsense-infeed >}}
+
     - Cheniere Energy(US, [LNG](/industry-study/lng/))
 
 ## 밸류체인
@@ -108,8 +111,9 @@ SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다�
 
 ## 주요 판매국가
 
-미국 (미주리주, 앨라배마주, 미시시피주 등)
+{{< adsense-infeed >}}
 
+미국 (미주리주, 앨라배마주, 미시시피주 등)
 ## 경쟁업체
 
 1. Atmos Energy Corporation(US, [ATO](/company-analysis/ato/))

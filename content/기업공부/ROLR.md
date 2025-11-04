@@ -1,14 +1,15 @@
 ﻿---
 title: "ROLR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-07T11:22:28+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 757
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 758
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-07T02:22:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #온라인카지노 #임의소비재 #도박
 
@@ -25,13 +26,16 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 소프트웨어 개발업체
 - 결제 처리 서비스 제공업체
-
 ## 전방산업
 
 - 온라인 게임 이용자
 - 광고주
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -39,19 +43,19 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 2. 플랫폼 운영: HighRoller.com, CasinoRoom.com
 3. 마케팅 및 고객 유치: High Roller Technologies
 4. 고객 서비스: High Roller Technologies
-
 ## 주요제품
 
 - 온라인 카지노 게임 (블랙잭, 룰렛, 크랩스, 바카라, 포커, 슬롯머신)
 - 온라인 카지노 평가 및 리뷰 서비스
 - 인터넷 관련 광고 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 전 세계 (구체적인 국가별 매출 비중 정보 없음)
 
 ## 경쟁업체
-
 - DraftKings(US, [DKNG](/company-analysis/dkng/))
 - Flutter Entertainment(IE, FLTR.L)
 - Entain(UK, ENT.L)
@@ -61,7 +65,6 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - 2024년 10월 23일 뉴욕 증권 거래소 아메리칸에 상장 (2024)
 - 2024년 3분기 매출 752만 달러 달성, 전분기 대비 30% 증가 (2024)
 - SiGMA Europe B2C Awards에서 "Best Player Retention 2024" 수상 (2024)

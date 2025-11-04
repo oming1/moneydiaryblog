@@ -1,14 +1,15 @@
 ﻿---
 title: "MRK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 587
----<div style="display:none">
+weight: 588
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #머크 #MRK #키트루다 #면역항암제 #가다실9 #HPV백신 #바이오의약품 #폐암치료 #항암프랜차이즈 #백신프랜차이즈 #애니멀헬스 #브리디온 #항생제 #바이러스치료제 #Lagevrio #PCV15 #Vaxneuvance #웰리레그 #HIF2α억제제 #TL1A항체 #ADC협업 #DaiichiSankyo제휴 #글로벌임상 #특허만료리스크 #Medicare가격협상 #제조캐파증설 #중국성장 #미국매출비중
 
@@ -32,7 +33,6 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 - 병원/전문의약품은 마취역전제 브리디온(Bridion, sugammadex), 항생/항균제(Zerbaxa 등), 항바이러스제 Lagevrio(molnupiravir, 파트너 Ridgeback) 등이 포함된다.
 
 - 애니멀 헬스는 반려동물·가축용 백신·가축용 구충제(Bravecto, Nobivac, Bovilis 등)와 디지털 건강 솔루션을 제공한다.
-
 - R&D 측면에서 면역항암·항체/이중특이 항체·ADC(항체약물접합체, Daiichi Sankyo와 다자 협업), 면역·염증(anti‑TL1A; Prometheus 인수 자산), 희귀질환(HIF‑2α 억제제 Welireg/벨주티파닙의 적응증 확장), 백신 신제품/확대 적응증 등 다각화를 추진한다.
 
 - 장기 리스크로 키트루다의 미국 특허만료(주요 특허 2028년경)와 Medicare 약가협상(IRA) 적용 가능성, 후발 면역항암/ADC 경쟁 고도화가 존재하며, 회사는 SC(피하) 제형 개발, 병용/보조요법 확대, 파이프라인·BD(M&A/라이선스)로 대응 중이다.
@@ -48,9 +48,10 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
     • 백신: 가다실 9, PCV15 등 성장 축  
     • 병원/전문의약품: 마취·감염질환 등 포트폴리오  
     • 애니멀 헬스: 반려/축산 균형 포트폴리오
-
 - 고객 유형  
     • 병원·클리닉·암센터, 도매유통(미국: Cencora/카디널/맥케슨), 정부·기관(백신), 수의병원/농장(애니멀 헬스)
+
+{{< adsense-infeed >}}
 
 - 지역 매출(방향성)  
     • 미국 비중이 가장 크고, 중국 포함 아시아 및 유럽이 뒤를 잇는다. 가다실 9은 중국 기여도가 빠르게 상승.
@@ -68,6 +69,8 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 
 - 글로벌 상업화·공급망 역량: 주요 시장에서의 도매·병원·정부 조달 채널과 콜드체인 운영.
 
+{{< adsense-infeed >}}
+
 - 파이프라인·BD 역량: 항체·ADC·면역·염증(anti‑TL1A) 등 차세대 모달리티 강화, 전략적 제휴(예: Daiichi Sankyo ADC 다자 협업)로 ‘포스트 키트루다’ 대비.
 
 - 규제·품질·안전성 트랙레코드: 다수 블록버스터의 글로벌 허가/시판 후 관리 경험.
@@ -80,12 +83,13 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 
 - 백신 플랫폼: HPV L1 VLP, 폐구균 다당-단백 접합(PCV), 생백신·불활화 백신, 제형/보존제 최적화.
 
+{{< adsense-infeed >}}
+
 - 항체/ADC/이중특이: 외부 파트너와의 DXd 기반 ADC 등 차세대 항암 모달리티 개발.
 
 - 고도화 제형·전달: 정맥주사(IV)에서 피하(SC) 제형 전환 시도(투여 편의성/병원 체류시간 단축).
 
 - 제조·품질: 배양·정제·충전/완제 일괄 공정, 공정 분석기술(PAT)과 지속적 공정개선(CIP).
-
 ---
 
 ### 제조 공정
@@ -153,6 +157,8 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 ---
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - 종합 제약: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)), Novartis(CH, [NVS](/company-analysis/nvs/)), Roche(CH, RHHBY), Sanofi(FR, SNY), GSK(UK, [GSK](/company-analysis/gsk/)), AstraZeneca(UK, [AZN](/company-analysis/azn/))
 - 면역항암: Bristol Myers Squibb(US, [BMY](/company-analysis/bmy/)), Roche, AstraZeneca 등

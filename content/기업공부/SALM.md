@@ -1,14 +1,15 @@
 ﻿---
 title: "SALM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 767
----<div style="display:none">
+weight: 768
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 미국 상장 여부
 
@@ -19,6 +20,8 @@ weight: 767
 ## 핵심 키워드
 
 #보수언론 #기독교미디어 #토크라디오 #보수방송 #종교방송 #정치라디오 #디지털미디어 #팟캐스트 #출판사업 #Townhall #CharlieKirk #DennisPrager #TrumpJr #보수콘텐츠 #기독교콘텐츠 #커뮤니케이션서비스 #방송 #정치미디어 #종교출판 #RedState
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -81,13 +84,14 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - 보수 및 기독교 성향 광고주들
 - 정치 관련 광고 (선거 시즌)
 - 종교 기관 및 기독교 관련 사업체
-
 **후방산업**:
 
 - 보수 정치인 및 논평가들 (콘텐츠 제공자)
 - 기독교 콘텐츠 제작사
 - 방송 장비 및 기술 제공업체
 - 위성 서비스 제공업체
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -101,6 +105,8 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - Eric Metaxas - 기독교 프로그래밍
 
 **방송 및 배급 단계**: 라디오 방송 및 디지털 플랫폼을 통한 콘텐츠 배급
+
+{{< adsense-infeed >}}
 
 - SiriusXM(US, [SIRI](/company-analysis/siri/)) - Family Talk 채널 프로그래밍 제공
 - Apple(US, [AAPL](/company-analysis/aapl/)) - Apple Podcasts 플랫폼 배급
@@ -142,6 +148,8 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 
 ## 주요고객
 
+{{< adsense-infeed >}}
+
 - 보수 성향 지역 광고주 - 지역 비즈니스, 로컬 서비스업
 - 기독교 관련 기업 - 종교 서적, 기독교 이벤트, 교회 관련 서비스
 - 정치 광고주 - 보수 정치인, 정치 단체, 선거 캠페인
@@ -150,7 +158,6 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - 자동차 딜러십 - 지역 자동차 판매점
 - 부동산 회사 - 지역 부동산 중개업
 - 법률 서비스 - 변호사 사무소, 법무법인
-
 ---
 
 ## 주요 판매국가
@@ -171,7 +178,6 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - Newsmax Media - 보수 뉴스 네트워크
 - The Daily Wire - 보수 디지털 미디어
 - PragerU - 보수 교육 콘텐츠 플랫폼
-
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -203,7 +209,6 @@ Salem Media Group은 미국 내 기독교 및 보수 성향 오디언스를 대�
 ---
 
 ## 주요주주 (지분율)
-
 **기관 투자자**: 2.52% (매우 낮은 수준) **내부자**: 정확한 비율 공개되지 않음 **개인 및 기타**: 대부분
 
 **주요 기관 투자자** (소량 보유):

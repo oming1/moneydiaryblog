@@ -1,14 +1,15 @@
 ﻿---
 title: "CNI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 208
----<div style="display:none">
+weight: 209
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -32,6 +33,8 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 
 2024년 기준 총 매출은 약 170억 캐나다 달러였으며, 약 24,000명의 직원을 고용하고 있습니다. 최근에는 디지털 기술을 활용한 운영 효율성 향상, 지속 가능한 운송 솔루션 개발, 그리고 북미 공급망 강화에 주력하고 있습니다.주요 이슈로는 자동화 기술 도입을 통한 안전성 및 효율성 향상, 환경 친화적 기관차 도입, 그리고 주요 항구 및 물류 허브와의 연결성 강화 등이 있었습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 광범위한 철도 네트워크: 캐나다 횡단 및 미국 중부 진입이 가능한 전략적 노선
@@ -41,7 +44,6 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 5. 지속가능성 리더십: 철도 산업 내 선도적인 연료 효율성 및 탄소 배출 감축 성과
 
 ## 전방/후방산업
-
 전방산업:
 
 - 농업: Archer-Daniels-Midland(US, ADM), Bunge Limited(US, BG)
@@ -56,7 +58,6 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 - 기술 솔루션: IBM(US, [IBM](/company-analysis/ibm/)), Cisco Systems(US, [CSCO](/company-analysis/csco/))
 
 ## 밸류체인
-
 6. 인프라 구축: Canadian National Railway(CA, [CNI](/company-analysis/cni/)) (철도 네트워크 개발 및 유지보수)
 7. 장비 조달: Wabtec Corporation(US, WAB) (기관차 및 화차 공급)
 8. 운영 시스템: IBM(US, [IBM](/company-analysis/ibm/)) (IT 인프라 및 소프트웨어 솔루션)
@@ -72,8 +73,9 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 - 포레스트 제품 운송: 목재, 펄프, 종이 등, 매출의 약 15% (2024년 기준)
 - 자동차 및 금속/광물 운송: 매출의 약 10% (2024년 기준)
 
-## 주요 고객
+{{< adsense-infeed >}}
 
+## 주요 고객
 - Cargill: 농산물 및 식품 기업
 - ExxonMobil(US, [XOM](/company-analysis/xom/)): 석유 및 가스 기업
 - Ford Motor Company(US, [F](/company-analysis/f/)): 자동차 제조사
@@ -103,6 +105,8 @@ Canadian National Railway는 2024년 기준 북미 Class I 철도 운송 시장�
 - 밴쿠버 항구 확장 프로젝트 참여로 수출입 물동량 증대 (2023년)
 - ESG 목표 강화: 2030년까지 온실가스 배출량 43% 감축 계획 발표 (2022년)
 - 미국 중서부 지역 네트워크 확장을 위한 전략적 인수 완료 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

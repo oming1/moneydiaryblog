@@ -1,14 +1,15 @@
 ﻿---
 title: "USAR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 918
----<div style="display:none">
+weight: 919
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #희토류 #레어어스 #네오디뮴 #디스프로슘 #마그네트 #전기차 #풍력발전 #국방 #첨단기술 #텍사스 #라운드톱 #광산 #채굴 #정제 #수직통합 #공급망 #중국의존도 #에너지전환 #소재 #광물
 
@@ -33,7 +34,6 @@ USA Rare Earth Inc.는 2018년 설립된 미국 내 [희토류](/industry-study/
 비즈니스 모델 & 수익 모델 요약: 중국 의존도가 80% 이상인 글로벌 희토류 시장에서 미국 내 독립적 공급망을 구축하여 국방부, 에너지부, 전기차 제조업체, 풍력발전 업체 등에 안정적인 희토류 원료 및 자석을 공급하는 모델입니다. 정부 정책 지원과 국가 안보 차원에서 강력한 성장 모멘텀을 확보하고 있습니다.
 
 리스크 요소로는 초기 개발 단계로 인한 현금 소진 위험, 중국과의 가격 경쟁력, 환경 규제, 기술적 도전, 시장 변동성이 있습니다. 주된 원자재는 Round Top 광산의 희토류 광석, 화학 시약, 전력, 물입니다.
-
 1년 이내 최근 이슈로는 2025년 3월 SPAC 상장 완료, 첫 고객 MOU 체결(2026년 납품 예정), 혁신 연구소 개소, 99.1% 순도 [디스프로슘](/industry-study/디스프로슘/) 산화물 생산 성공 등이 있습니다. 최근 주가는 상장 후 $10-15 범위에서 거래되며 초기 변동성을 보이고 있습니다.
 
 ---
@@ -55,6 +55,8 @@ USA Rare Earth의 비즈니스 모델은 수직 통합형 희토류 공급망 �
 - 환경 친화적 공정: 기존 중국 방식 대비 환경 영향 최소화
 
 **3. 자석 제조 단계:**
+
+{{< adsense-infeed >}}
 
 - 영구자석 생산: 네오디뮴-철-붕소(NdFeB) 자석
 - 맞춤형 솔루션: 전기차, 풍력발전, 국방 분야별 특화 제품
@@ -135,7 +137,6 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - 전자제품: 스피커, 하드디스크, 스마트폰 - Apple(US, [AAPL](/company-analysis/aapl/)), Samsung(KR, [Samsung](/industry-study/samsung/))
 
 **후방산업:**
-
 - 채굴 장비: 광산 개발 및 운영 장비 - Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301)
 - 화학 시약: 정제 공정용 화학물질 - Dow Chemical(US, [DOW](/company-analysis/dow/)), BASF(DE, BAS)
 - 에너지 공급: 전력 및 연료 공급 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
@@ -159,7 +160,6 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - VAC(독일) - 진공 용해로 및 소결 장비
 - Shin-Etsu Chemical(JP, 4063) - 자석 제조 기술 라이선싱
 - Tesla(US, [TSLA](/company-analysis/tsla/)) - 전기차용 자석 최종 고객
-
 **유통 및 판매 단계:** 최종 제품 공급
 
 - 국방부(US Department of Defense) - 국방용 희토류 자석
@@ -182,6 +182,8 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 
 **리사이클 희토류:** 폐자석 재활용 제품, 순환경제 기여, 관련 경쟁사 URC, REM
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -203,6 +205,8 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - 사용처: 채굴, 정제, 제조 전 과정
 - 주요 공급 지역: 텍사스주
 - 주요 공급 업체: Oncor Electric [EXC](/company-analysis/exc/), CenterPoint Energy [CNP](/company-analysis/cnp/)
+
+{{< adsense-infeed >}}
 
 **물:**
 
@@ -278,7 +282,6 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - 2위: 호주 (Lynas) - 약 10%
 - 3위: 미국 (MP Materials) - 약 3%
 - 4위: 기타 - 약 2%
-
 중희토류 시장에서는 상업 생산 시 중국 다음으로 중요한 공급원이 될 것으로 예상됩니다.
 
 ---
@@ -343,7 +346,6 @@ SPAC 합병 후 주요 주주 구성 (2025년 3월 기준):
 - iShares MSCI Global Metals & Mining Producers ETF - PICK
 - SPDR S&P Metals & Mining ETF - XME
 - VanEck Gold Miners ETF - GDX
-
 **소재 및 광업 ETF:**
 
 - Materials Select Sector SPDR Fund - XLB

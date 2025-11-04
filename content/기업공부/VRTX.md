@@ -1,14 +1,15 @@
 ﻿---
 title: "VRTX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 940
----<div style="display:none">
+weight: 941
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 ## 핵심 키워드
 
@@ -18,8 +19,9 @@ weight: 940
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
 산업: 생명공학
-
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테크](/industry-study/바이오테크/) 기업으로, 주로 희귀질환 및 심각한 질병에 대한 혁신적인 치료제를 개발하고 상용화하는데 주력하고 있습니다. 회사의 주요 초점은 낭포성 섬유증(CF), 통증, 신경계 질환, 암, 그리고 자가면역 질환 등입니다.주요 사업 영역:
 
@@ -39,9 +41,7 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 5. 전략적 파트너십: 주요 학술 기관 및 바이오테크 기업들과의 협력 관계
 
 ## 전방/후방산업
-
 전방산업:
-
 - 병원 및 의료 서비스: HCA Healthcare(US, [HCA](/company-analysis/hca/)), UnitedHealth Group(US, [UNH](/company-analysis/unh/))
 - 약국 체인: CVS Health(US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/))
 - 보험사: Cigna(US, [CI](/company-analysis/ci/)), Anthem(US, [ANTM](/company-analysis/antm/))
@@ -78,15 +78,21 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 영국, 독일, 프랑스, 이탈리아, 스페인, 호주, 캐나다, 네덜란드, 스위스
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Gilead Sciences(US, [GILD](/company-analysis/gild/)): HIV 및 간염 치료제
 - Biogen(US, [BIIB](/company-analysis/biib/)): 신경계 질환 치료제
 - Regeneron Pharmaceuticals(US, [REGN](/company-analysis/regn/)): 안과 및 면역 질환 치료제
 - Alexion Pharmaceuticals(US, [AZN](/company-analysis/azn/)): 희귀 질환 치료제
 - BioMarin Pharmaceutical(US, BMRN): 유전성 질환 치료제
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

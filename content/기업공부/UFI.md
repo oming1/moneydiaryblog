@@ -1,14 +1,15 @@
 ﻿---
 title: "UFI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 905
----<div style="display:none">
+weight: 906
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #섬유제조 #재활용섬유 #합성섬유 #폴리에스터 #나일론 #지속가능성 #REPREVE #기술혁신 #글로벌공급망 #의류산업 #자동차산업 #산업용섬유 #가정용품 #의료용섬유 #텍스타일 #재생원료 #섬유과학 #제품다각화 #임의소비재 #섬유제품
 
@@ -17,6 +18,8 @@ weight: 905
 섹터: 임의소비재
 
 ## 산업
+
+{{< adsense-infeed >}}
 
 산업: 섬유제품(Textile Manufacturing)
 
@@ -43,23 +46,21 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 ## 전방산업:
 
 1. 의류 제조: 스포츠웨어, 일상복 등 생산
-    
     - Nike(US, [NKE](/company-analysis/nke/)), Adidas(DE, [ADS](/company-analysis/ads/))
-    
+
+{{< adsense-infeed >}}
+
 2. 자동차 내장재: 자동차 시트, 카펫 등 제조
     
     - Lear Corporation(US, [LEA](/company-analysis/lea/))
-    
 3. 가정용품: 카펫, 커튼 등 생활용품 생산
     
     - Mohawk Industries(US, [MHK](/company-analysis/mhk/))
-
 ## 후방산업:
 
 1. 석유화학: 폴리에스터, 나일론 원료 공급
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
-    
 2. 플라스틱 재활용: PET 병 등 재활용 원료 공급
     
     - Waste Management(US, [WM](/company-analysis/wm/))
@@ -87,7 +88,6 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 3. 가정용품 제조업체
 4. 산업용 섬유 제조업체
 5. 의료용 섬유 제조업체
-
 ## 주요 판매국가
 
 미국, 브라질, 중국, 엘살바도르, 콜롬비아
@@ -100,11 +100,15 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 4. Invista (비상장): 나일론, 스판덱스
 5. Eastman Chemical Company(US, EMN): 특수 섬유 및 화학제품
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Unifi는 재활용 폴리에스터 섬유 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 지속가능성 이니셔티브 강화 및 REPREVE 브랜드 확장 (2022-2024)
 2. COVID-19 팬데믹 영향 및 회복 (2021-2022)

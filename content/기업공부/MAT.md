@@ -1,14 +1,15 @@
 ﻿---
 title: "MAT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 547
----<div style="display:none">
+weight: 548
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -20,7 +21,6 @@ weight: 547
 산업: 완구및게임
 
 ## 영위사업
-
 Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구/) 제조 기업입니다. 1945년 설립된 이 회사는 세계적으로 유명한 장난감 브랜드를 다수 보유하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 인형 카테고리: Barbie, American Girl 등
@@ -30,7 +30,11 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 
 2024년 기준 총 매출은 약 55억 달러였으며, 전 세계 150개 이상의 국가에서 제품을 판매하고 있습니다. 최근에는 디지털 콘텐츠 제작, 지속 가능한 제품 개발, 그리고 IP를 활용한 엔터테인먼트 사업 확대에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 강력한 브랜드 포트폴리오: Barbie, Hot Wheels 등 글로벌 인지도가 높은 브랜드 보유
 2. IP 활용 능력: 완구를 넘어 영화, TV 시리즈, 디지털 게임 등으로 IP 확장
@@ -39,7 +43,6 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 5. 라이선싱 비즈니스: 다양한 산업 분야와의 협업을 통한 수익 다각화
 
 ## 전방/후방산업
-
 전방산업:
 
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Target(US, [TGT](/company-analysis/tgt/))
@@ -61,22 +64,23 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 - 기타 브랜드: UNO, Mega Bloks 등, 매출의 약 25% (2024년 기준)
 
 ## 주요 판매국가
-
 미국, 중국, 영국, 캐나다, 호주, 독일, 프랑스, 일본, 브라질, 멕시코
 
 ## 경쟁업체
-
 - Hasbro(US, [HAS](/company-analysis/has/)): 다양한 완구 및 게임 브랜드 보유
 - LEGO Group(DK): 블록 완구 시장 선도
 - Spin Master(CA, TOY): 혁신적인 완구 및 엔터테인먼트 제품
 - Jakks Pacific(US, JAKK): 라이선스 기반 완구 및 소비자 제품
 - MGA Entertainment(US): L.O.L. Surprise! 등 인기 브랜드 보유 (비상장)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Mattel은 2024년 기준 글로벌 완구 시장에서 약 15%의 점유율을 보유하고 있으며, LEGO Group과 Hasbro에 이어 3위를 차지하고 있습니다. 인형 카테고리에서는 Barbie 브랜드를 통해 약 30%의 시장 점유율로 선두를 유지하고 있습니다. 최근 3년간 전체 시장 점유율은 안정적으로 유지되고 있으나, 디지털 완구 및 교육 완구 분야에서 점진적인 성장을 보이고 있습니다.
-
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Barbie 영화 대흥행으로 인한 관련 제품 매출 급증 (2023년)
 - 지속가능한 소재를 사용한 'Mattel PlayBack' 프로그램 확대 (2022-2024년)

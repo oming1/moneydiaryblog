@@ -1,14 +1,15 @@
 ﻿---
 title: "OTLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 666
----<div style="display:none">
+weight: 667
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #대체단백질 #비건 #비건음료 #귀리 #귀리음료 #식물성대체음료 #소비자방어주 #포장식품
 
@@ -37,15 +38,15 @@ Oatly는 귀리를 원료로 한 식물성 유제품 대체품을 생산하는 �
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 Oatly의 밸류체인은 귀리 재배에서부터 최종 소비자에게 제품을 제공하는 과정까지 포함됩니다. 대표적인 회사로는:
 
 - **Archer Daniels Midland (미국, ADM)**: 귀리 공급
 - **Bunge Limited (미국, BG)**: 원료 가공
 - **Tetra Pak**: 포장 솔루션 제공
 - **Starbucks (미국, [SBUX](/company-analysis/sbux/))**: 최종 제품 판매
-
 #### 주요제품
-
 - **오트밀크**: 다양한 맛과 용도로 제공
 - **오트 요거트**: 다양한 맛과 스타일로 제공
 - **아이스크림**: 다양한 맛으로 제공
@@ -53,9 +54,15 @@ Oatly의 밸류체인은 귀리 재배에서부터 최종 소비자에게 제품
 - **스프레드**: 다양한 맛으로 제공
 - **즉석 음료**: 다양한 맛과 용도로 제공
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Oatly의 주요 판매국가는 스웨덴, 독일, 영국, 미국, 중국 등입니다. 2019년 기준으로 스웨덴에서 24%, 영국에서 23%, 북미에서 19%의 매출을 기록했습니다.
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -69,7 +76,6 @@ Oatly의 주요 판매국가는 스웨덴, 독일, 영국, 미국, 중국 등입
 Oatly는 스웨덴에서 전체 대체 유제품 카테고리에서 53%의 시장 점유율을 차지하고 있습니다. 이는 국제 확장의 목표로 삼고 있습니다.
 
 #### 최근 3년 내 주요 이슈
-
 - **IPO 및 상장**: 2021년 나스닥에 상장 (2021)
 - **환경 및 지속 가능성 논란**: 블랙스톤 그룹과의 협력으로 인해 환경 단체의 비판을 받음 (2020)
 - **회계 및 지속 가능성 문제**: Spruce Point Capital의 보고서에서 회계 및 지속 가능성 문제 제기 (2021)

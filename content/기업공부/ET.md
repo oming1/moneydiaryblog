@@ -1,14 +1,15 @@
 ﻿---
 title: "ET"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 322
----<div style="display:none">
+weight: 323
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 
@@ -77,12 +78,13 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 3. 석유화학 기업
 4. 전력 회사
 5. 산업용 에너지 소비자
-
 ## 주요 판매국가
 
 Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Kinder Morgan(US, [KMI](/company-analysis/kmi/))
@@ -91,7 +93,6 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 5. Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Energy Transfer는 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -101,7 +102,6 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 3. 1PointFive와 탄소 포집 및 저장 프로젝트 협력 (2024년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 영향 극복 및 실적 회복 (2022-2023년)
-
 ## 주요주주(지분율)
 
 1. The Vanguard Group, Inc.: 11.62%
@@ -110,8 +110,9 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 4. Geode Capital Management LLC: 2.13%
 5. Charles Schwab Investment Management, Inc.: 1.51%
 
-## 관련 ETF
+{{< adsense-infeed >}}
 
+## 관련 ETF
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP
 3. Global X MLP & Energy Infrastructure ETF - MLPX

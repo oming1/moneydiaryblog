@@ -1,14 +1,15 @@
 ﻿---
 title: "PG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 687
----<div style="display:none">
+weight: 688
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #소비자방어주 #가정용품및개인용품 #세제 #헬스케어
 
@@ -18,7 +19,6 @@ weight: 687
 - **Industry**: 가정 및 개인용 제품 (Household & Personal Products)
 
 #### 영위사업
-
 Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Beauty**: 헤어 케어, 스킨 케어, 퍼스널 케어 제품
@@ -48,15 +48,15 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
     - **대표 회사**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), Amazon.com Inc. (미국, [AMZN](/company-analysis/amzn/))
 
 #### 주요제품
-
 - 세제 및 가정용품: Tide, Ariel, Downy (매출의 약 33%)
 - 미용 및 그루밍: Olay, Pantene, Gillette (매출의 약 30%)
 - 유아 및 여성용품: Pampers, Always (매출의 약 25%)
 - [헬스케어](/industry-study/2산업헬스케어/): Crest, Oral-B (매출의 약 12%)
-
 #### 주요 판매국가
 
 북미(약 45%), 유럽(약 23%), 아시아태평양(약 18%), 기타 지역(약 14%) (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -66,6 +66,8 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 건강 관리 제품
 
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 P&G는 여러 제품 카테고리에서 선두 또는 2위 자리를 차지하고 있으며, 전체 시장점유율은 약 20% 수준으로 추정됩니다 (2023년 기준).
 

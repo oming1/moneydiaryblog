@@ -1,14 +1,15 @@
 ﻿---
 title: "GME"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-07T12:26:39+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 382
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 383
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-07T03:26:39Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #임의소비재 #전문소매 #비디오게임 #전자제품 #밈주식 
 
@@ -18,12 +19,13 @@ GameStop Corp.(GME)는 비디오 게임, 소비자 전자제품 및 게임 관�
 
 섹터: 임의소비재(Consumer Discretionary)  
 산업: 전문 소매(Specialty Retail)
-
 ## 영위사업
 
 GameStop은 새로운 및 중고 게임 플랫폼, 액세서리(컨트롤러, 게임 헤드셋, VR 제품 등), 게임 소프트웨어, 디지털 통화, 다운로드 콘텐츠를 판매합니다. 또한 의류, 장난감, 트레이딩 카드, 가젯 등의 수집품도 판매하고 있습니다. GameStop, EB Games, Micromania 브랜드로 매장과 이커머스 플랫폼을 운영하며, Zing Pop Culture 브랜드로 팝 문화 테마 매장도 운영합니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 
@@ -34,15 +36,15 @@ GameStop은 새로운 및 중고 게임 플랫폼, 액세서리(컨트롤러, �
 
 - 소비자
 - 게임 커뮤니티
-
 ## 밸류체인
 
 1. 제품 소싱: 게임 개발사 및 제조업체로부터 구매
 2. 유통: GameStop 매장 및 온라인 플랫폼
 3. 판매: 직접 소비자에게 판매
 4. 고객 서비스: GameStop
-
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 비디오 게임 및 게임 콘솔
 - 게임 액세서리
@@ -50,7 +52,6 @@ GameStop은 새로운 및 중고 게임 플랫폼, 액세서리(컨트롤러, �
 - 디지털 콘텐츠 및 통화
 
 ## 주요 판매국가
-
 미국, 캐나다, 호주, 유럽
 
 ## 경쟁업체

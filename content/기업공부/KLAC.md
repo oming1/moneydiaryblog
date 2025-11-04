@@ -1,14 +1,15 @@
 ﻿---
 title: "KLAC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 488
----<div style="display:none">
+weight: 489
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -28,6 +29,8 @@ KLA Corporation(NASDAQ: KLAC)은 [반도체](/industry-study/반도체/) 제조 
 3. PCB 및 디스플레이 제조: 인쇄회로기판 및 평판 디스플레이 제조용 검사 장비 제공
 
 최근 1년 내 주요 이슈로는 AI 및 고성능 컴퓨팅 애플리케이션을 위한 첨단 공정 지원 강화, 지속가능성 이니셔티브 확대, 그리고 글로벌 공급망 관리 강화 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -56,12 +59,10 @@ KLA Corporation의 핵심 경쟁력은 다음과 같습니다:
 - 정밀 광학 부품: II-VI(US, IIVI), Corning(US, [GLW](/company-analysis/glw/))
 
 ## 주요제품
-
 - 웨이퍼 검사 시스템: 반도체 웨이퍼 결함 검출, 매출의 약 40% (2024년 기준)
 - 패킹 검사 시스템: IC 패키지 및 PCB 검사, 매출의 약 20% (2024년 기준)
 - 계측 장비: 웨이퍼 및 마스크 치수 측정, 매출의 약 25% (2024년 기준)
 - 데이터 분석 소프트웨어: 공정 최적화 및 수율 개선, 매출의 약 15% (2024년 기준)
-
 ## 주요 판매국가
 
 미국, 중국, 대만, 한국, 일본, 유럽 주요국
@@ -88,11 +89,12 @@ KLA Corporation은 2024년 기준 반도체 검사 및 계측 장비 시장에�
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - PRIMECAP Management Co. (3.96%)
-
 ## 관련 ETF
 
 - VanEck Semiconductor ETF - SMH

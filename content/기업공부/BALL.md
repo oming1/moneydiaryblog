@@ -1,14 +1,15 @@
 ﻿---
 title: "BALL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 115
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -45,6 +46,8 @@ Ball Corporation의 핵심 경쟁력은 알루미늄 음료 캔 제조 분야의
 최근에는 알루미늄 가격 변동성에 대응하기 위한 위험 관리 전략과 지역 생산 및 조달을 강화하여 국제 무역의 불확실성에 대한 노출을 최소화하는 전략을 추진 중입니다.
 
 ## 핵심기술
+
+{{< adsense-infeed >}}
 
 Ball Corporation의 핵심 기술은 고속, 대량의 알루미늄 캔 제조 공정에 집중되어 있습니다. 최신 알루미늄 가공 기술과 함께 다음과 같은 기술적 강점을 보유하고 있습니다:
 
@@ -93,7 +96,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
     - Kaiser Aluminum(US, KALU)
         
 - 광물 채굴 산업: 알루미늄의 원료인 보크사이트 채굴
-    
     - Freeport-McMoRan(US, [FCX](/company-analysis/fcx/))
         
     - Rio Tinto(UK, Rio Tinto)
@@ -107,7 +109,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 ## 전방산업
 
 - 음료 제조 산업: 알루미늄 캔에 음료를 채우는 주요 고객
-    
     - Coca-Cola(US, [KO](/company-analysis/ko/))
         
     - PepsiCo(US, [PEP](/company-analysis/pep/))
@@ -123,17 +124,20 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
     - Procter & Gamble(US, [PG](/company-analysis/pg/))
         
 - 유통 및 소매 산업: 최종 소비자에게 제품 전달
-    
+
+{{< adsense-infeed >}}
+
     - Walmart(US, [WMT](/company-analysis/wmt/))
         
     - Costco(US, [COST](/company-analysis/cost/))
 
 ## 밸류체인
-
 1. 원자재 공급: 알루미늄 원자재 및 코일 생산
     
     - Alcoa(US, [AA](/company-analysis/aa/)) (글로벌 알루미늄 생산)
-        
+
+{{< adsense-infeed >}}
+
     - Novelis Inc.(글로벌 알루미늄 롤링 및 재활용)
         
     - Norsk Hydro(NO, Norsk Hydro) (유럽 주요 알루미늄 공급업체)
@@ -231,7 +235,9 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 2. PepsiCo(US, [PEP](/company-analysis/pep/)) - 소프트드링크 및 에너지 음료
     
 3. Anheuser-Busch InBev(BE, Anheuser-Busch InBev) - 맥주 제품
-    
+
+{{< adsense-infeed >}}
+
 4. Molson Coors(US, [TAP](/company-analysis/tap/)) - 맥주 제품
     
 5. Heineken(NL, Heineken) - 맥주 제품
@@ -261,7 +267,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 ## 주요 판매국가
 
 Ball Corporation은 글로벌 기업으로 북미, 유럽, 남미가 주요 시장입니다. 검색 결과에서 확인된 세그먼트별 실적을 기반으로:
-
 1. 북미 및 중미: 매출액 중 가장 큰 비중을 차지하며, 2025년 1분기 매출은 14.6억 달러로 전년 동기 대비 4.3% 증가
     
 2. 유럽, 중동, 아프리카(EMEA): 2025년 1분기 매출은 9.03억 달러로 전년 동기 대비 11.5% 증가, 지속적인 성장세

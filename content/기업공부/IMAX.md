@@ -1,14 +1,15 @@
 ﻿---
 title: "IMAX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 439
----<div style="display:none">
+weight: 440
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #커뮤니케이션서비스 #영화및엔터테인먼트 #영화 #영화관
 
@@ -18,7 +19,6 @@ weight: 439
 산업(Industry): 영화 및 엔터테인먼트(Movies and Entertainment)
 
 ## 영위사업
-
 IMAX Corporation은 엔터테인먼트 기술 기업으로, 주요 사업 부문은 다음과 같습니다:
 
 1. 콘텐츠 솔루션(Content Solutions):
@@ -39,7 +39,6 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 ## 전방/후방산업
 
 ## 전방산업
-
 - 영화 제작사: Warner Bros. (US, [WBD](/company-analysis/wbd/)), Disney (US, [DIS](/company-analysis/dis/))
 - 영화관 체인: AMC Entertainment (US, [AMC](/company-analysis/amc/)), Cinemark (US, CNK)
 
@@ -47,6 +46,8 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 
 - 카메라 및 영상 장비: Sony (일본, [SONY](/company-analysis/sony/))
 - 음향 시스템: Dolby Laboratories (US, DLB)
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -65,17 +66,17 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 5. 영화 후반 작업 서비스
 
 ## 주요 판매국가
-
 북미, 서유럽, 아시아, 라틴아메리카를 중심으로 전 세계 80개국 이상에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Dolby Laboratories (US, DLB) (음향 및 영상 기술)
 2. RealD (비상장) (3D 영화 기술)
 3. Cinemark (US, CNK) (XD 극장 기술)
 4. AMC Theatres (US, [AMC](/company-analysis/amc/)) (Dolby Cinema 파트너십)
 5. ScreenX (CJ CGV 자회사) (멀티 프로젝션 기술)
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 IMAX는 프리미엄 대형 스크린 영화 경험 분야에서 선도적인 위치를 차지하고 있습니다.

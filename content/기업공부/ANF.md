@@ -1,14 +1,15 @@
 ﻿---
 title: "ANF"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+date: 2024-08-30T09:16:59+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 70
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-30T00:16:59Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #임의소비재 #의류
 
@@ -22,7 +23,6 @@ Industry: Apparel Retail (의류 소매)
 Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주얼 의류, 액세서리, 향수 등을 판매하는 글로벌 특수 소매업체입니다.
 
 ## 전방/후방산업
-
 전방산업:
 
 - 역할: 제품 판매 및 유통
@@ -31,10 +31,11 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 원자재 및 물류 공급
 - 섬유 제조: Unifi (미국, [UFI](/company-analysis/ufi/))
 - 물류: FedEx (미국, [FDX](/company-analysis/fdx/))
-
 ## 주요제품
 
 - Abercrombie & Fitch 브랜드 의류 (매출 비중: 약 55%, 2023년 기준)
@@ -42,7 +43,6 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 - Gilly Hicks 및 기타 브랜드 (매출 비중: 약 5%, 2023년 기준)
 
 ## 주요 판매국가
-
 Abercrombie & Fitch는 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아시아입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 
 ## 경쟁업체
@@ -52,6 +52,8 @@ Abercrombie & Fitch는 전 세계적으로 운영되며, 주요 시장은 미국
 - Urban Outfitters (미국, [URBN](/company-analysis/urbn/)) - 젊은 성인 대상 의류 및 라이프스타일 제품
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Abercrombie & Fitch의 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다. 그러나 미국 의류 소매 시장에서 약 1.3%의 점유율을 보유하고 있는 것으로 추정됩니다(2023년 기준). 최근 3년간의 추이는 제공된 정보에 없습니다.
 

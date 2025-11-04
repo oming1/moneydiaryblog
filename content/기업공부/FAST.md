@@ -1,14 +1,15 @@
 ﻿---
 title: "FAST"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 337
----<div style="display:none">
+weight: 338
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -148,7 +149,6 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 **공구류**: 절삭공구, 연마재, 측정기구 등, 매출비중 추정 20-25% (2025년), 주요 경쟁사 [SWK](/company-analysis/swk/)
 
 **화학제품**: 접착제, 윤활제, 청소용품 등, 매출비중 추정 10-15% (2025년), 주요 경쟁사 [DD](/company-analysis/dd/)
-
 **기타 산업용품**: 전기용품, 배관자재 등, 매출비중 추정 10-15% (2025년), 주요 경쟁사 다수
 
 ---
@@ -161,6 +161,8 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 
 **플라스틱**: 포장재 및 일부 제품용, 주요 공급지 미국/중국, 주요 공급업체 다수
 
+{{< adsense-infeed >}}
+
 **원유**: 운송비용 및 플라스틱 원료, 주요 공급지 글로벌, 주요 공급업체 석유회사들
 
 ---
@@ -172,7 +174,6 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 ---
 
 ## 주요 판매 국가
-
 **미국**: 추정 80-85% (2025년 기준, 본토 시장 중심)
 
 **캐나다**: 추정 10-12% (2025년 기준, 북미 시장 확장)
@@ -205,6 +206,8 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 
 **글로벌 MRO 시장**: 추정 3-5% (2025년 기준, 상위권)
 
+{{< adsense-infeed >}}
+
 **산업용 자동판매기**: 추정 50% 이상 (2025년 기준, 압도적 1위)
 
 ---
@@ -220,14 +223,12 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 - ROA: 24.72% (TTM 기준)
 
 **주요 성장 동력:**
-
 - FASTVend 자동판매기 시스템 확산 (13만 2,000대 이상)
 - 계약 고객 기반 확대 (매출의 73.2%)
 - 디지털 채널 성장 (매출의 61%)
 - 가격 인상 조치 효과
 
 **위험 요소:**
-
 - 관세 정책 변화에 따른 비용 증가
 - 제조업 경기 둔화 시 수요 감소
 - 경쟁 심화 및 가격 압박
@@ -241,6 +242,8 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 **2024년**: 디지털 채널 확대, 자동판매기 시스템 성장, 계약 고객 기반 강화
 
 **2023년**: 코로나19 회복, 공급망 정상화, 재고 투자 확대
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -262,7 +265,6 @@ Fastenal Company는 1967년 설립된 북미 최대의 패스너(fastener) 유�
 ---
 
 ## 관련 ETF
-
 **직접 관련 ETF:**
 
 - VTI - Vanguard Total Stock Market ETF VTI

@@ -1,14 +1,15 @@
 ﻿---
 title: "HAS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 397
----<div style="display:none">
+weight: 398
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 ## 핵심 키워드
 
@@ -21,12 +22,13 @@ weight: 397
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 기업입니다. 1923년 설립된 이 회사는 [완구](/industry-study/완구/), 게임, 그리고 엔터테인먼트 콘텐츠를 제작 및 유통합니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 소비자 제품: 완구, 게임, 디지털 게임 등
 2. 엔터테인먼트: 영화, TV 프로그램, 디지털 콘텐츠 제작
 3. Wizards of the Coast 및 디지털 게임: 트레이딩 카드 게임, 롤플레잉 게임 등
-
 2024년 기준 총 매출은 약 60억 달러였으며, 전 세계 100개 이상의 국가에서 제품을 판매하고 있습니다. 최근에는 디지털 게임 사업 확대, IP를 활용한 콘텐츠 제작, 그리고 지속 가능한 제품 개발에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -52,7 +54,6 @@ Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 
 - 패키징: International Paper(US, [IP](/company-analysis/ip/)), WestRock(US, WRK)
 
 ## 주요제품
-
 - 프랜차이즈 브랜드: 트랜스포머, 마이 리틀 포니 등, 매출의 약 30% (2024년 기준)
 - 파트너 브랜드: 디즈니, 마블 등 라이선스 제품, 매출의 약 25% (2024년 기준)
 - Wizards of the Coast: 매직: 더 개더링, 던전앤드래곤 등, 매출의 약 20% (2024년 기준)
@@ -60,8 +61,9 @@ Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 
 - 기타: 엔터테인먼트 및 라이선싱, 매출의 약 10% (2024년 기준)
 
 ## 주요 판매국가
-
 미국, 캐나다, 영국, 프랑스, 독일, 이탈리아, 스페인, 호주, 중국, 일본
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -70,7 +72,6 @@ Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 
 - Spin Master(CA, TOY): 혁신적인 완구 및 엔터테인먼트 제품
 - Funko(US, FNKO): 팝 컬처 콜렉터블 제품 전문
 - Jakks Pacific(US, JAKK): 라이선스 기반 완구 및 소비자 제품
-
 ## 산업 내 글로벌 시장 점유율
 
 Hasbro는 2024년 기준 글로벌 완구 시장에서 약 12%의 점유율을 보유하고 있으며, LEGO Group과 Mattel에 이어 3위를 차지하고 있습니다. 보드게임 및 트레이딩 카드 게임 시장에서는 약 25%의 점유율로 선두를 유지하고 있습니다. 최근 3년간 전체 시장 점유율은 안정적으로 유지되고 있으나, 디지털 게임 및 엔터테인먼트 콘텐츠 분야에서 성장세를 보이고 있습니다.

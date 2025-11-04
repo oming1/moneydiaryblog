@@ -1,14 +1,15 @@
 ﻿---
 title: "ZS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:36+09:00
 type: docs
 sidebar:
   open: false
-weight: 1001
----<div style="display:none">
+weight: 1002
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
 </div>
 #테크 #소프트웨어 #보안관리 #데이터센터 #클라우드 
 
@@ -33,6 +34,8 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
     - **역할**: Zscaler의 보안 솔루션에 필요한 소프트웨어 및 인프라 제공
     - **관련 기업**: Palo Alto Networks (US, [PANW](/company-analysis/panw/)), Fortinet (US, [FTNT](/company-analysis/ftnt/)), Cisco Systems (US, [CSCO](/company-analysis/csco/))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 보안 기술 및 솔루션 개발
@@ -45,7 +48,6 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
     - **대표 회사**: Zscaler (US, [ZS](/company-analysis/zs/)), Symantec (US, GEN)
 
 #### 주요제품
-
 - **Zscaler Internet Access (ZIA)**: 안전한 인터넷 액세스를 제공하는 클라우드 기반 솔루션
 - **Zscaler Private Access (ZPA)**: 내부 애플리케이션에 대한 안전한 원격 액세스 제공
 - **Zero Trust Exchange**: 제로 트러스트 기반의 보안 플랫폼
@@ -56,7 +58,6 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
 - **미국**: 2023년 매출액 10억 달러
 - **유럽**: 2023년 매출액 7억 달러
 - **아시아 태평양**: 2023년 매출액 5억 달러
-
 #### 경쟁업체
 
 - **Palo Alto Networks (US, [PANW](/company-analysis/panw/))**: 네트워크 보안 솔루션
@@ -66,8 +67,9 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
 
 #### 산업 내 글로벌 시장 점유율
 
-Zscaler는 2023년 기준으로 글로벌 클라우드 보안 시장에서 약 10%의 점유율을 차지하고 있습니다.
+{{< adsense-infeed >}}
 
+Zscaler는 2023년 기준으로 글로벌 클라우드 보안 시장에서 약 10%의 점유율을 차지하고 있습니다.
 #### 최근 3년 내 주요 이슈
 
 - **미국 정부의 보안 규제 강화**: 클라우드 보안 솔루션에 대한 규제 강화 (2022년)

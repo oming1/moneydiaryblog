@@ -1,14 +1,15 @@
 ﻿---
 title: "SNAP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 808
----<div style="display:none">
+weight: 809
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -24,7 +25,6 @@ weight: 808
 Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat을 운영하는 기술 기업입니다. Snapchat은 사진, 동영상, 메시지를 통해 사용자들이 소통할 수 있는 플랫폼을 제공합니다. 
 
 주요 기능으로는 카메라, 비주얼 메시징, 스냅 맵, 스토리, 스포트라이트 등이 있습니다.2024년 3분기 기준 일일 활성 사용자 수는 4억 4,300만 명이며, 주 수익원은 광고입니다. 최근에는 구독 서비스인 Snapchat+를 출시하여 수익 다각화를 모색하고 있습니다.최근 1년간 주요 이슈로는 AI 기반 'My AI' 챗봇 출시, 'Simple Snapchat' 디자인 개편, AR 렌즈 기능 강화 등이 있습니다. 특히 AR 기술을 활용한 광고 상품 개발에 주력하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 젊은 사용자층: 13-34세 연령대에서 높은 점유율 보유
@@ -32,15 +32,15 @@ Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat
 3. 높은 사용자 참여도: 일평균 30분 이상 앱 사용
 4. 프라이버시 중심 메시징: 사라지는 메시지 기능으로 차별화
 5. 혁신적인 광고 포맷: AR 렌즈 광고 등 독특한 광고 상품 제공
-
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
 - 디지털 광고: 광고주들의 주요 마케팅 채널
 - 소셜 커머스: AR 기술을 활용한 쇼핑 경험 제공
 - 엔터테인먼트: 오리지널 콘텐츠 제작 및 유통
-
 후방산업:
 
 - 클라우드 서비스: Google Cloud(US, [GOOGL](/company-analysis/googl/))와 협력
@@ -52,7 +52,6 @@ Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat
 - Snapchat 앱: 소셜 미디어 플랫폼, 매출의 약 99% (2024년 기준)
 - Spectacles: AR 안경, 매출의 약 1% 미만 (2024년 기준)
 - Snapchat+: 구독 서비스, 2024년 3분기 기준 1,100만 구독자
-
 ## 주요 판매국가
 
 미국, 캐나다, 유럽 주요국, 호주, 인도
@@ -76,12 +75,15 @@ Snap Inc.의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 - AR 렌즈 기능 강화 및 개발자 생태계 확대 (2022-2024년)
 - Snapchat+ 구독 서비스 출시 및 성장 (2022년)
 - 광고 사업 회복 및 직접 응답(DR) 광고 성장 (2023-2024년)
-
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

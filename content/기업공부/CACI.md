@@ -1,14 +1,15 @@
 ﻿---
 title: "CACI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 168
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 ## 핵심 키워드
 
@@ -36,7 +37,6 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 3. **지속적인 혁신**: AI 및 클라우드 기반 기술을 통한 서비스 개선과 효율성 증대
 4. **강력한 고객 관계**: 미국 정부 및 방산 기업들과의 장기 계약 체결
 5. **재무 건전성**: 안정적인 수익원과 강력한 현금 흐름 유지
-
 ## 전방/후방산업
 
 전방산업:
@@ -60,6 +60,8 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 사이버 보안 솔루션: 군사 및 정부 기관을 위한 보안 시스템
 - 데이터 분석 플랫폼: 정보 수집 및 분석 도구
 - 클라우드 기반 IT 솔루션: 고객 맞춤형 클라우드 서비스
@@ -74,7 +76,6 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - Northrop Grumman(US, [NOC](/company-analysis/noc/)): 방산 관련 IT 솔루션 제공
 
 ## 주요 판매국가
-
 미국을 중심으로 유럽 및 아시아 일부 국가에서 활동 중입니다.
 
 ## 경쟁업체
@@ -83,9 +84,7 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - Leidos Holdings Inc(US, [LDOS](/company-analysis/ldos/)): 방산 및 정보 기술 서비스 제공
 - Science Applications International Corporation(US, SAIC): 방산 및 IT 솔루션 제공
 - General Dynamics Corporation(US, [GD](/company-analysis/gd/)): 방산 및 정보 기술 서비스 제공
-
 ## 산업 내 글로벌 시장 점유율
-
 CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 국방 분야에서 강세를 나타내고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -97,12 +96,13 @@ CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 
 - 주요 인수합병을 통한 사업 다각화 추진 (2021년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Aerospace & Defense ETF - ITA
 - SPDR S&P Aerospace & Defense ETF - XAR

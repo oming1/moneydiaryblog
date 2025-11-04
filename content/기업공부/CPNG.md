@@ -1,14 +1,15 @@
 ﻿---
 title: "CPNG"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-12-04T10:17:02+09:00
+lastmod: 2025-11-03T21:50:31+09:00
 type: docs
 sidebar:
   open: false
-weight: 226
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 227
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-04T01:17:02Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
 </div>
 #인터넷소매 #임의소비재 #전자상거래 
 
@@ -18,9 +19,7 @@ weight: 226
 산업: 인터넷 소매(Internet Retail)
 
 ## 영위사업
-
 Coupang은 한국과 대만에서 전자상거래 사업을 운영하는 IT 기업입니다. 모바일 앱과 웹사이트를 통해 다양한 제품과 서비스를 제공합니다.
-
 ## 주요제품
 
 - 전자상거래 플랫폼: 가정용품, 의류, 식품, 전자제품 등
@@ -30,14 +29,16 @@ Coupang은 한국과 대만에서 전자상거래 사업을 운영하는 IT 기�
 
 ## 주요 판매국가
 
-한국, 대만
+{{< adsense-infeed >}}
 
+한국, 대만
 ## 경쟁업체
 
 - Amazon(US, [AMZN](/company-analysis/amzn/))
 - 국내 이커머스 기업들
-
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Coupang은 한국 전자상거래 시장에서 주요 플레이어입니다.
 

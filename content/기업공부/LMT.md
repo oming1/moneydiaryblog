@@ -1,14 +1,15 @@
 ﻿---
 title: "LMT"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-09T22:37:40+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 523
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 524
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-09T13:37:40Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #항공우주및방산 #방산 #항공 #우주 #산업재 #지정학 #스텔스전투기 #군용수송기 #무기 
 
@@ -18,17 +19,17 @@ weight: 523
 - **Industry(산업)**: Aerospace & Defense([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
 
 ## 영위 사업
-
 Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공우주 제품을 설계하고 제조하는 글로벌 기업입니다. 이 회사는 군사 및 상업 고객에게 고급 기술 솔루션을 제공합니다.
 
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 방산 및 군사 서비스
     - **역할**: 최종 소비자에게 방산 시스템 및 솔루션 제공
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/))
-    
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원자재 공급 및 부품 제조
@@ -43,7 +44,6 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 및 항공우주 기술
     
 - **제조 및 조립**:
-    
     - 다양한 항공기 및 방산 시스템의 부품을 제조합니다.
     - 대표 기업: BAE Systems (영국, BAESY) - 경쟁 제품: 방산 장비
 
@@ -54,14 +54,14 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
     - 첨단 스텔스 전투기로, 다목적 작전 수행이 가능합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 - **C-130 Hercules**:
-    
     - 군용 수송기로, 다양한 임무에 사용됩니다.
     - 매출 비중: 전체 매출의 약 25% 차지.
 
 ## 주요 판매 국가
 
-Lockheed Martin은 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다. 특히 미국 국방부에 대한 의존도가 높습니다.
+{{< adsense-infeed >}}
 
+Lockheed Martin은 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다. 특히 미국 국방부에 대한 의존도가 높습니다.
 ## 경쟁업체
 
 - **Boeing** (미국, [BA](/company-analysis/ba/)) - 경쟁 제품: 항공기 및 방산 시스템

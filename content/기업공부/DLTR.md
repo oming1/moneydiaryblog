@@ -1,14 +1,15 @@
 ﻿---
 title: "DLTR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+date: 2024-08-30T22:16:46+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 284
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+weight: 285
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-08-30T13:16:46Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #할인점 #소비자방어주 #소비재 #소매
 
@@ -27,13 +28,16 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 - 다양한 소비재, 계절 상품, 가정용품 판매
 - 온라인 판매 (dollartree.com)
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
 - 역할: 소비자에게 직접 판매
 - 소비자: 주로 중저소득층 고객
-
 후방산업:
 
 - 역할: 제품 공급
@@ -49,8 +53,9 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 - 문구 및 공예용품
 
 ## 주요 판매국가
-
 Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 
@@ -58,8 +63,9 @@ Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 �
 - 24개의 물류 센터
 - 온라인 판매 플랫폼 (dollartree.com)
 
-## 경쟁업체
+{{< adsense-infeed >}}
 
+## 경쟁업체
 - Dollar General (US, [DG](/company-analysis/dg/)) - 할인 소매점 체인
 - Walmart (US, [WMT](/company-analysis/wmt/)) - 대형 할인점 체인
 - Target (US, [TGT](/company-analysis/tgt/)) - 대형 할인점 체인
@@ -69,9 +75,7 @@ Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 �
 Dollar Tree는 미국 할인 소매점 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
-
 [Dollar Tree 공식 웹사이트](https://corporate.dollartree.com/)
 
 공유
-
 다시 쓰기

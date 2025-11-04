@@ -1,14 +1,15 @@
 ﻿---
 title: "LSCC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 529
----<div style="display:none">
+weight: 530
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #저전력프로그래머블로직디바이스 #정보기술 #반도체및반도체장비 #맞춤형반도체솔루션 #FPGAs #PLDs #반도체 
 
@@ -32,6 +33,8 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 통신 장비: Cisco Systems (US, [CSCO](/company-analysis/csco/))
 - 컴퓨터 하드웨어: Dell Technologies (US, [DELL](/company-analysis/dell/))
 - 자동차 전자장비: Ford (US, [F](/company-analysis/f/)), Mitsubishi (일본, 8058.T)
@@ -51,7 +54,6 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 5. 고객 지원: Lattice Semiconductor (US, [LSCC](/company-analysis/lscc/)) (기술 지원 및 교육)
 
 ## 주요제품
-
 1. Lattice Nexus FPGA 플랫폼
 2. Lattice Avant 중급 FPGA 플랫폼
 3. sensAI 솔루션 스택 (머신 러닝용)
@@ -63,16 +65,16 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 미국, 중국, 필리핀, 말레이시아, 싱가포르 등 전 세계적으로 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
 1. AMD (Xilinx) (US, [AMD](/company-analysis/amd/))
 2. Intel (Altera) (US, [INTC](/company-analysis/intc/))
 3. Microchip Technology (US, [MCHP](/company-analysis/mchp/))
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Lattice는 저전력 FPGA 시장에서 주요 플레이어로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. AI 데이터 센터용 연결성 제품 수요 증가로 인한 매출 성장 (2023년)
 2. 자율주행 기술 발전에 따른 자동차 산업 진출 확대 (2022-2024년)

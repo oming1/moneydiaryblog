@@ -1,14 +1,15 @@
 ﻿---
 title: "SRE"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-10-28T21:16:17+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 827
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 828
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-28T12:16:17Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #전기및가스유틸리티 #유틸리티 #송배전 #전기 #천연가스 #전기 #전기유통 
 
@@ -18,6 +19,8 @@ weight: 827
 산업: 전기 및 가스 유틸리티(Electric and Gas Utilities)
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Sempra는 에너지 인프라에 투자, 개발, 운영하는 에너지 서비스 지주회사입니다. 주요 사업으로는 전기 생산, 송배전, [천연가스](/industry-study/천연가스/) 저장, 운송, 유통 등이 있습니다
 
@@ -30,6 +33,8 @@ Sempra는 에너지 인프라에 투자, 개발, 운영하는 에너지 서비�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 주거 및 상업용 에너지 소비자
 - 산업용 에너지 소비자
 - 도매 고객
@@ -41,12 +46,12 @@ Sempra는 에너지 인프라에 투자, 개발, 운영하는 에너지 서비�
 - 전기 유통
 - 도매 및 소매 거래
 - 파이프라인 및 저장 서비스
-
 ## 주요 판매국가
-
 미국, 아르헨티나, 멕시코, 페루, 칠레
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Exxon Mobil Corp
 - Shell plc
@@ -54,9 +59,7 @@ Sempra는 에너지 인프라에 투자, 개발, 운영하는 에너지 서비�
 - QatarEnergy
 
 ## 산업 내 글로벌 시장 점유율
-
 Sempra는 세계에서 가장 큰 에너지 기업 중 하나로 평가받고 있으며, 2024년 기준 Fortune 500 리스트에서 246위, Forbes Global 2000 리스트에서 366위를 차지했습니다
-
 ## 최근 3년 내 주요 이슈
 
 - 2024년 7월: Port Arthur LNG Phase 2 프로젝트를 위해 Bechtel Energy와 계약 체결

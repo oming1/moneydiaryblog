@@ -1,14 +1,15 @@
 ﻿---
 title: "NVAX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 637
----<div style="display:none">
+weight: 638
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 ## 핵심 키워드
 
@@ -21,6 +22,8 @@ weight: 637
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Novavax, Inc.(NASDAQ: NVAX)는 차세대 백신 개발에 주력하는 미국의 생명공학 기업입니다. 주요 사업 영역은 감염성 질환에 대한 백신 개발로, 특히COVID-19, 계절성 인플루엔자, 호흡기세포융합바이러스(RSV) 등에 초점을 맞추고 있습니다.회사의 주력 제품인 NVX-CoV2373은 COVID-19 백신으로, 재조합 단백질 나노입자 기술과 Matrix-M 보조제를 사용하여 개발되었습니다. 
 
 이 백신은 여러 국가에서 긴급사용승인을 받았으며, 글로벌 백신 공급에 기여하고 있습니다.최근 1년 내 주요 이슈로는 COVID-19 백신의 변이 대응 부스터 샷 개발, 계절성 인플루엔자 백신 NanoFlu의 임상 진행, 그리고 COVID-19와 계절성 인플루엔자를 동시에 예방하는 복합백신 개발 등이 있습니다. 또한, 글로벌 생산 능력 확대와 유통 네트워크 강화에도 주력하고 있습니다.
@@ -28,6 +31,8 @@ Novavax, Inc.(NASDAQ: NVAX)는 차세대 백신 개발에 주력하는 미국의
 ## 핵심 경쟁력
 
 Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기술과 Matrix-M 보조제 플랫폼에 있습니다. 이 기술은 높은 면역 반응을 유도하면서도 안전성이 우수한 백신을 개발할 수 있게 합니다.
+
+{{< adsense-infeed >}}
 
 1. 기술 플랫폼: 재조합 단백질 기술은 전통적인 백신 제조 방식에 비해 빠른 개발과 대량 생산이 가능합니다.
 2. Matrix-M 보조제: 이 독자적인 보조제는 백신의 효과를 증강시키고, 적은 양의 항원으로도 강력한 면역 반응을 유도할 수 있습니다.
@@ -44,10 +49,11 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 - 정부 및 국제기구: WHO, UNICEF, GAVI Alliance
 
 후방산업:
-
 - 원료 공급: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Lonza Group(CH, [LONN](/company-analysis/lonn/))
 - 제조 장비: Danaher Corporation(US, [DHR](/company-analysis/dhr/)), Sartorius AG(DE, [SRT](/company-analysis/srt/))
 - 물류 및 유통: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -67,6 +73,8 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 - COVID-19/인플루엔자 복합백신 (개발 중)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - 미국 정부 (HHS, DOD)
 - 유럽연합 집행위원회
@@ -89,13 +97,10 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 - AstraZeneca(UK, [AZN](/company-analysis/azn/)) - COVID-19 아데노바이러스 벡터 백신
 - Sanofi(FR, SNY) - 다양한 백신 포트폴리오
 - GlaxoSmithKline(UK, [GSK](/company-analysis/gsk/)) - 다양한 백신 포트폴리오
-
 ## 산업 내 글로벌 시장 점유율
-
 Novavax의 COVID-19 백신 시장 점유율은 2024년 기준 약 5-7%로 추정됩니다. 최근 3년간 mRNA 백신의 선점으로 인해 시장 진입이 지연되었으나, 변이 대응 부스터 샷과 복합백신 개발을 통해 점유율 확대를 목표로 하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - COVID-19 백신 NVX-CoV2373의 긴급사용승인 획득 및 글로벌 공급 시작 (2022년)
 - 오미크론 변이 대응 부스터 샷 개발 및 임상시험 진행 (2023년)
 - COVID-19/인플루엔자 복합백신 임상 2상 결과 발표 (2024년)
@@ -103,7 +108,6 @@ Novavax의 COVID-19 백신 시장 점유율은 2024년 기준 약 5-7%로 추정
 - 재정 건전성 개선을 위한 구조조정 실시 (2023년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)

@@ -1,14 +1,15 @@
 ﻿---
 title: "PEP"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-13T17:42:59+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 681
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 682
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-13T08:42:59Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #필수소비재 #음료 
 
@@ -18,7 +19,6 @@ weight: 681
 - **Industry**: [논알콜 음료](/industry-study/논알콜-음료/) (Beverages - Non-Alcoholic)
 
 #### 영위사업
-
 PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 및 판매하는 글로벌 기업입니다. 주요 사업 부문은 Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, Asia Pacific, Australia and New Zealand 및 China Region으로 나뉩니다.
 
 #### 전방/후방산업
@@ -26,13 +26,13 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
 - **전방산업**:
     - **소매**: 슈퍼마켓, 편의점, 대형 할인점 (예: Walmart (US, [WMT](/company-analysis/wmt/)), Costco (US, [COST](/company-analysis/cost/)))
     - **외식업**: 레스토랑, 카페, 패스트푸드 체인 (예: McDonald’s (US, [MCD](/company-analysis/mcd/)), Starbucks (US, [SBUX](/company-analysis/sbux/)))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     - **농업**: 원료 공급업체 (예: Archer Daniels Midland (US, ADM), Bunge Limited (US, BG))
     - **포장재**: 포장재 제조업체 (예: International Paper (US, [IP](/company-analysis/ip/)), WestRock (US, WRK))
-
 #### 밸류체인
-
 - **원자재 조달**: 농업 원료 및 포장재 공급업체 (예: Archer Daniels Midland (US, ADM), International Paper (US, [IP](/company-analysis/ip/)))
 - **제조 및 생산**: 음료 및 간편식품 제조업체 (예: PepsiCo 자체 생산)
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 직접 판매, 대리점, 온라인 플랫폼)
@@ -44,6 +44,8 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
 - **곡물 제품**: Quaker Oats, Life Cereal
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Coca-Cola (US, [KO](/company-analysis/ko/))**: 다양한 비알코올 음료
 - **Mondelez International (US, [MDLZ](/company-analysis/mdlz/))**: 스낵 및 간편식품

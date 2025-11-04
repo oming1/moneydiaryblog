@@ -1,14 +1,15 @@
 ﻿---
 title: "SATS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 770
----<div style="display:none">
+weight: 771
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #커뮤니케이션서비스 #위성통신 #고속위성인터넷 #위성방송  #정지궤도위성 #통신위성 #소형위성 
 
@@ -33,7 +34,6 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         
         - Dish Network (미국, [DISH](/company-analysis/dish/)) - 위성 TV 서비스 제공
         - Comcast (미국, [CMCSA](/company-analysis/cmcsa/)) - 케이블 TV 및 인터넷 서비스 제공
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 위성 제조 및 기술 개발
@@ -44,7 +44,6 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         - Lockheed Martin (미국, [LMT](/company-analysis/lmt/)) - 방산 및 우주 시스템 제공
 
 ## 밸류체인
-
 - **위성 통신 서비스**:
     
     - EchoStar는 다양한 위성 통신 서비스를 제공하며, 주로 Hughes Network Systems를 통해 인터넷 서비스를 운영합니다.
@@ -52,6 +51,8 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         
         - Intelsat (룩셈부르크, 비상장) - 글로벌 위성 통신 서비스 제공
         - SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)) - 위성 기반 데이터 전송 서비스 제공
+
+{{< adsense-infeed >}}
 
 - **텔레비전 방송 서비스**:
     
@@ -65,25 +66,29 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
 - **HughesNet**: 고속 위성 인터넷서비스로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **위성 방송 서비스**: Dish Network를 통해 제공되는 텔레비전 방송입니다.
-    
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
 
 EchoStar는 미국을 주요 시장으로 하며, 유럽 및 아시아 태평양 지역에서도 서비스를 제공합니다.
-
 ## 경쟁업체
 
 - **Dish Network (미국, [DISH](/company-analysis/dish/))**: 위성 TV 및 인터넷 서비스 제공.
 - **Comcast (미국, [CMCSA](/company-analysis/cmcsa/))**: 케이블 TV 및 인터넷 서비스 제공.
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
 EchoStar는 글로벌 위성 통신 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Dish Network와의 합병**: EchoStar가 Dish Network를 인수하여 사업을 통합함 (2023).
 - **5G 계약 수주**: 미국 해군과의 계약을 통해 군용 통신 솔루션을 제공하기 시작함 (2024).

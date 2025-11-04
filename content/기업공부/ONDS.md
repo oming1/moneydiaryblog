@@ -1,14 +1,15 @@
 ﻿---
 title: "ONDS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 659
----<div style="display:none">
+weight: 660
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #자율드론 #드론인프라 #철도무선네트워크 #900MHz #반드시설비 #군사드론 #공공안전 #스마트시티 #IronDroneRaider #Optimus시스템 #철도통신 #카운터UAS #드론보안 #자율보안 #AI구동 #드론박스 #경계방어 #무선통신 #인프라보안 #방산기술 #스마트인프라 #드론자동화 #네트워크장비 #미래교통 #드론 
 
@@ -41,7 +42,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - 서비스 및 유지보수: 시스템 운영, 데이터 분석, 정기 점검 서비스 (반복 매출)
 - 소프트웨어 라이선싱: AI 알고리즘, 드론 관제 소프트웨어 라이선싱
 - 구독 서비스: 클라우드 기반 데이터 분석 및 모니터링 서비스
-
 **Ondas Networks 사업부 수익 구조:**
 
 - 무선 장비 판매: 900MHz 기지국, 단말기, 네트워크 장비 판매
@@ -148,7 +148,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 **900MHz 무선 통신 장비:** 철도용 802.16t 기반 무선 네트워크 장비, 매출비중 25% (2024년 추정), 주요 경쟁사 Siemens, Hitachi Rail
 
 **Kestrel 시스템:** 드론 탐지 및 카운터-UAS 솔루션, 매출비중 10% (2024년 추정), 주요 경쟁사 DroneShield, AeroVironment
-
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -156,10 +155,11 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 **[리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/):** 드론 배터리 제조용, 주요 공급지 칠레/호주, 주요 공급업체 Albemarle(US, [ALB](/company-analysis/alb/))
 
 **[희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 금속:** 센서 및 전자부품용, 주요 공급지 중국/미국, 주요 공급업체 MP Materials(US, [MP](/company-analysis/mp/))
-
 **구리:** 통신 장비 및 안테나용, 주요 공급지 칠레/페루, 주요 공급업체 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/))
 
 **실리콘:** 반도체 칩셋용, 주요 공급지 중국/브라질, 주요 공급업체 다양한 반도체 파운드리
+
+{{< adsense-infeed >}}
 
 **복합소재:** 드론 프레임용 탄소섬유, 주요 공급지 일본/미국, 주요 공급업체 Hexcel(US, [HXL](/company-analysis/hxl/))
 
@@ -189,6 +189,8 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - 미국 연방기관(US, Federal Agencies) - 다양한 자율 드론 시스템
 
 **산업/기업 고객:**
+
+{{< adsense-infeed >}}
 
 - HHLA 함부르크(DE, HHLA) - 항만 보안 및 물류 모니터링
 - 중동 스마트시티 프로젝트(ME, Smart City Projects) - 도시 인프라 감시
@@ -252,7 +254,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 ---
 
 ## 기업 특징 및 성장성
-
 **구체적 성장 지표:**
 
 - 매출 성장률: 3년 CAGR 65.3% (2022-2024년 추정)
@@ -332,7 +333,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - SKYY - First Trust Cloud Computing ETF SKYY (클라우드 및 IoT)
 
 **테마 관련 ETF:**
-
 - ROBO - ROBO Global Robotics and Automation ETF ROBO (로보틱스 및 자동화)
 - IBUY - Amplify Online Retail ETF IBUY (스마트시티 및 IoT)
 - HACK - ETFMG Prime Cyber Security ETF HACK (사이버 보안)

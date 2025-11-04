@@ -1,14 +1,15 @@
 ﻿---
 title: "ORLY"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-12-10T21:24:39+09:00
+lastmod: 2025-11-03T21:50:34+09:00
 type: docs
 sidebar:
   open: false
-weight: 664
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 665
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-12-10T12:24:39Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
 </div>
 #임의소비재 #전문소매 #자동차부품 
 
@@ -24,16 +25,13 @@ O'Reilly Automotive, Inc.(ORLY)는 미국의 자동차 부품 및 액세서리 �
 O'Reilly Automotive은 자동차 교체 부품, 도구, 장비, 소모품 및 액세서리를 판매합니다. 주요 사업 부문은 다음과 같습니다:
 
 이 회사는 미국에서 자동차 애프터마켓 부품, 공구, 소모품, 장비 및 액세서리 전문 소매업체로, DIY 및 전문 서비스 제공업체 시장에 모두 서비스를 제공한다.  
-
 매장에서는 1) 교류 발전기, 배터리, 브레이크 시스템 부품, 벨트, 섀시 부품, 구동계 부품, 엔진 부품, 연료 펌프, 호스, 스타터, 온도 제어, 워터 펌프, 부동액, 외관 제품, 엔진 첨가제, 필터, 오일, 조명, 오일 및 와이퍼 블레이드와 같은 신규 및 재생산 자동차 하드 부품 및 유지 보수 품목, 2) 바닥 매트, 시트 커버 및 트럭 액세서리 등의 액세서리 등 다양한 제품군을 취급한다.  
-  
 또한 1) 배터리 진단 테스트, 2) 배터리, 와이퍼 및 전구 교체, 3) 맞춤형 유압 호스, 드럼 및 로터 재포장 등 고객에게 다양하고 향상된 서비스와 프로그램을 제공한다.
 
 1. 자동차 부품 매장: 전문가 및 DIY 고객 대상 판매
 2. 온라인 판매: autozone.com, autozonepro.com 운영
 3. 자동차 진단 및 수리 서비스
 4. 재활용 서비스: 오일, 배터리 등
-
 2023년 12월 기준 미국 48개 주, 푸에르토리코, 멕시코, 캐나다에서 6,291개의 매장을 운영하고 있습니다.
 
 ## 전방/후방산업
@@ -64,14 +62,17 @@ O'Reilly Automotive은 자동차 교체 부품, 도구, 장비, 소모품 및 �
 - 재활용 서비스
 
 ## 주요 판매국가
-
 미국, 푸에르토리코, 멕시코, 캐나다
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - AutoZone(US, [AZO](/company-analysis/azo/))
 - Advance Auto Parts(US, [AAP](/company-analysis/aap/))
 - NAPA Auto Parts
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

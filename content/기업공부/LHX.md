@@ -1,14 +1,15 @@
 ﻿---
 title: "LHX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 514
----<div style="display:none">
+weight: 515
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #우주통신 #우주및항공시스템 #로켓 #미사일 #산업재 #항공우주및방산 #통신장비 #항공기시스템 
 
@@ -29,24 +30,28 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
 
 - 정부 및 상업 목적의 위성 탑재체, 지구 관측용 센서, 우주 환경 통신 시스템 설계 및 제조
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 방산 계약자 및 군사 서비스
     - **역할**: 최종 소비자에게 방산 솔루션과 기술 제공
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Lockheed Martin (미국, [LMT](/company-analysis/lmt/))
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원자재 공급 및 전자 부품 제조
     - **역할**: L3Harris의 제품 생산에 필요한 자재 및 부품 제공
     - **주요 기업**: Northrop Grumman (미국, [NOC](/company-analysis/noc/)), Raytheon Technologies (미국, [RTX](/company-analysis/rtx/))
-
 ## 밸류체인
 
 - **제품 개발**:
-    
+
+{{< adsense-infeed >}}
+
     - L3Harris는 고급 방산 기술과 솔루션을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 및 항공우주 기술
     
@@ -58,7 +63,6 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
 ## 주요 제품
 
 - **항공기 시스템**:
-    
     - 군용 및 상용 항공기에 사용되는 시스템으로, 비행 안전성을 높입니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
     
@@ -70,7 +74,6 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
 ## 주요 판매 국가
 
 L3Harris는 주로 미국에서 매출을 올리며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
-
 ## 경쟁업체
 
 - **Boeing** (미국, [BA](/company-analysis/ba/)) - 경쟁 제품: 항공기 및 방산 시스템

@@ -1,14 +1,15 @@
 ﻿---
 title: "SPIR"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-11-17T23:12:19+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 819
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 820
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-11-17T14:12:19Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #항공우주및방위산업 #정보기술 #관측위성 #관측데이터 #우주기반데이터및분석
 
@@ -18,13 +19,13 @@ weight: 819
 - Industry: Aerospace & Defense([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
 
 ## 영위 사업
-
 Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 수집하고 분석하는 우주 기반 데이터 및 분석 회사입니다. 주로 해양, 항공, 기상 패턴 추적 등의 서비스를 제공합니다.
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업:
-    
     - 핵심 산업: 기상 예측, 해양 운송, 항공 교통 관리
     - 역할: 위성 데이터 및 분석 서비스 제공
     - 주요 기업: NOAA (미국 정부 기관), Maersk (덴마크, MAERSK-B)
@@ -41,7 +42,6 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
     
     - Spire Global은 자체적으로 CubeSat을 설계하고 제조합니다.
     - 대표 기업: Planet Labs (미국, [PL](/company-analysis/pl/)), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/))
-    
 - 데이터 수집 및 분석:
     
     - 수집된 데이터를 AI 기반으로 분석하고 고객에게 제공합니다.
@@ -49,11 +49,12 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - 해양 데이터 서비스 (AIS 선박 추적 등)
 - 항공 데이터 서비스 (ADS-B 항공기 추적 등)
 - 기상 및 기후 데이터 서비스
 - 우주 서비스 (호스팅 페이로드 등)
-
 ## 주요 판매 국가
 
 Spire Global은 전 세계적으로 서비스를 제공하며, 특히 미국, 유럽, 아시아 태평양 지역에서 강세를 보입니다.
@@ -66,10 +67,13 @@ Spire Global은 전 세계적으로 서비스를 제공하며, 특히 미국, �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 시장 점유율 데이터는 없으나, Spire Global은 나노위성 기반 데이터 서비스 분야에서 선도적인 위치를 차지하고 있습니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - 해양 사업부를 Kpler에 $241백만에 매각 계획 발표 (2024년)
 - LEMUR 위성 7기를 SpaceX Transporter-11 미션으로 발사 (2024년)
 - NYSE 상장 유지를 위한 회계 검토 진행 중 (2023년)

@@ -1,14 +1,15 @@
 ﻿---
 title: "STAI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 830
----<div style="display:none">
+weight: 831
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #보안검색기술 #CTスキャニング #AI기반보안 #공항보안 #위협탐지 #고정식CT스캐너 #인공지능분석 #폭발물탐지 #자동탐지 #국토안보 #마이크로캡 #정부계약 #검색기술 #국경보안 #핵시설보안 #레이트레이스생검 #보안체크포인트 #NASDAQ상장 #무인침입탐지 #테러대응 #SENTINEL시스템 #정부시설보안 #AI알고리즘 #마이크로캡주 #신기술기업 #비접촉스캐닝
 
@@ -108,7 +109,6 @@ ScanTech AI Systems Inc의 수익 모델은 다음과 같이 세분화됩니다:
 - 위협이 확인되면 추가 생검을 생성해 위협 시그니처를 검증하고 위협 유형 및 위치 표시
 
 **Virtual Sentinel AI:**
-
 - 실제 스캔과 구별 불가능한 합성 데이터를 생성하는 독자적 AI 알고리즘
 - 실제 데이터 수집 시 획득하기 어려운 시나리오를 합성하여 학습 데이터 보강
 - 합성 폭발물, 위협 물질, 마약, 가방, 소포 등을 생성하여 알고리즘 성능 향상
@@ -130,7 +130,6 @@ ScanTech AI Systems Inc의 수익 모델은 다음과 같이 세분화됩니다:
 ## 제조 공정
 
 ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은 다음과 같습니다:
-
 **설계 및 개발 단계:** 1단계: 시스템 요구사항 정의 및 설계 명세 작성 2단계: 하드웨어 설계 및 프로토타입 개발 3단계: 소프트웨어 및 AI 알고리즘 개발 4단계: 시스템 통합 및 초기 테스트
 
 **하드웨어 제조 단계:** 1단계: 주요 부품 조달 (X선 발생기, 센서, 컨베이어 벨트 등) 2단계: 고정식 갠트리 프레임 제작 및 조립 3단계: X선 모노블록 및 검출기 어레이 설치 4단계: 전자 시스템 및 컨트롤 유닛 통합 5단계: 컨베이어 벨트 시스템 장착 및 시험 작동
@@ -162,6 +161,8 @@ ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은
 - 전자 부품: Texas Instruments(US, [TXN](/company-analysis/txn/)), Analog Devices(US, [ADI](/company-analysis/adi/))
 - 기계 부품: 컨베이어 시스템, 프레임 구조물 제조업체
 - 소프트웨어 개발: 이미지 처리, AI/ML 알고리즘 개발 전문기업
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -264,6 +265,8 @@ ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은
     
 - **Nuctech Company(CN, 002065.SZ)**: 중국 기반 보안 검사 장비 제조업체, 국제 시장에서 저가 솔루션으로 경쟁, 시장점유율 약 8%
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -295,7 +298,6 @@ ScanTech AI Systems는 신생기업으로 글로벌 보안 검색 시장에서 �
 ---
 
 ## 최근 3년 내 주요 이슈
-
 - **2025년 7월**: TIPS 조달 계약 체결을 통해 1억 달러 규모의 정부 시설 시장 접근 가능성 확보
 - **2025년 7월**: Q1 2025 10-Q 보고서 제출, 첫 유의미한 분기 매출 $365,471 기록
 - **2025년 5월**: 3천만 달러 규모의 부채/자본 구조조정 완료하여 재무구조 강화
@@ -330,7 +332,6 @@ ScanTech AI Systems는 신생기업으로 글로벌 보안 검색 시장에서 �
 - Industrial Select Sector SPDR Fund XLI
 - Vanguard Industrials ETF VIS
 - Invesco Aerospace & Defense ETF [PPA](/industry-study/ppa/)
-
 **마이크로캡/소형주 ETF:**
 
 - iShares Micro-Cap ETF IWC

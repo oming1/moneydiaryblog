@@ -1,14 +1,15 @@
 ﻿---
 title: "TRV"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+date: 2024-10-18T14:51:22+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 887
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+weight: 888
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-10-18T05:51:22Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #금융서비스 #보험 
 
@@ -21,20 +22,25 @@ weight: 887
 
 Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 서비스를 제공하는 글로벌 보험 회사입니다. 주요 사업 부문은 비즈니스 보험, 채권 및 전문 보험, 개인 보험으로 나뉩니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업:**
     
     - **기업 및 개인:** 보험 서비스 이용. 예: Amazon.com, Inc. (미국, [AMZN](/company-analysis/amzn/)), Apple Inc. (미국, [AAPL](/company-analysis/aapl/)).
     - **부동산 개발업체:** 건물 및 자산 보험. 예: CBRE Group, Inc. (미국, CBRE), Jones Lang LaSalle Incorporated (미국, JLL).
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업:**
     
     - **재보험사:** 보험 리스크 분산. 예: Munich Re (독일, MUV2), Swiss Re (스위스, SREN).
     - **IT 및 소프트웨어:** 보험 관리 시스템 제공. 예: IBM (미국, [IBM](/company-analysis/ibm/)), Oracle Corporation (미국, [ORCL](/company-analysis/orcl/)).
 
-#### 밸류체인
+{{< adsense-infeed >}}
 
+#### 밸류체인
 - **보험 인수:**
     
     - Travelers Companies Inc. (미국, [TRV](/company-analysis/trv/)): 상업 및 개인 보험 인수.
@@ -46,12 +52,10 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
     - Swiss Re (스위스, SREN): 재보험 서비스.
       
 - **위험 관리 및 손해 사정:**
-    
     - Sedgwick Claims Management Services, Inc. (미국, 비상장): 손해 사정 서비스.
     - Crawford & Company (미국, CRD.A): 손해 사정 및 위험 관리 서비스.
 
 #### 주요제품
-
 - **비즈니스 보험:** 상업용 자동차, 재산, 일반 책임, 해상, 항공, 에너지, 건설, 테러리즘, 개인 사고, 유괴 및 몸값 보험.
 - **채권 및 전문 보험:** 보증, 신원, 관리 및 전문 책임 보험.
 - **개인 보험:** 자동차 보험, 주택 보험.
@@ -63,7 +67,6 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
 - **영국:** 유럽 내 주요 시장.
 
 #### 경쟁업체
-
 - **Chubb Limited (스위스, [CB](/company-analysis/cb/)):** 상업 및 개인 보험.
 - **Allstate Corporation (미국, ALL):** 개인 보험.
 - **Progressive Corporation (미국, [PGR](/company-analysis/pgr/)):** 자동차 보험.

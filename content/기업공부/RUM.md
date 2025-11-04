@@ -1,14 +1,15 @@
 ﻿---
 title: "RUM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 762
----<div style="display:none">
+weight: 763
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #비디오공유플랫폼 #소셜미디어 #콘텐츠크리에이터 #디지털광고 #클라우드서비스  #테더투자 #비트코인투자 #온라인비디오 #스트리밍 #광고수익화 #클라우드인프라 #디지털미디어 #기술혁신 #사용자참여 #임의소비재 #미디어엔터테인먼트
 
@@ -19,7 +20,6 @@ weight: 762
 ## 산업
 
 산업: 미디어 & 엔터테인먼트(Media & Entertainment)
-
 ## 영위사업
 
 Rumble Inc.는 비디오 공유 및 스트리밍 플랫폼을 운영하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -41,6 +41,8 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. Rumble Video: 비디오 공유 및 시청 플랫폼 (매출 비중: 약 60%, 2023년 기준)
 2. Rumble Streaming Market Place: 라이브 스트리밍 서비스 (매출 비중: 약 15%, 2023년 기준)
 3. Rumble Advertising Center: 광고 플랫폼 (매출 비중: 약 14%, 2023년 기준)
@@ -53,9 +55,7 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 3. 광고주
 4. 미디어 기업
 5. 정치인 및 정치 단체
-
 ## 주요 판매국가
-
 미국을 중심으로 글로벌 서비스 제공
 
 ## 경쟁업체
@@ -66,7 +66,11 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 4. Twitter(X Corp., 비상장)
 5. Twitch(Amazon.com Inc. 자회사, US, [AMZN](/company-analysis/amzn/))
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 테더로부터 7억7500만 달러 투자 유치, 주가 81% 급등 (2024년 12월)
 2. 비트코인 매수 계획 발표 (2024년 11월)
@@ -82,6 +86,8 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 4. BlackRock Inc.
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. VanEck Social Sentiment ETF - BUZZ
 2. Roundhill IO Digital Infrastructure ETF - BYTE

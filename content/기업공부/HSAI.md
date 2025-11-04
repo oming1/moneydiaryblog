@@ -1,14 +1,15 @@
 ﻿---
 title: "HSAI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:32+09:00
 type: docs
 sidebar:
   open: false
-weight: 419
----<div style="display:none">
+weight: 420
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
 </div>
 #헤싸이 #Hesai #HSAI #라이다 #ADAS #자율주행 #하이브리드솔리드스테이트 #포인트클라우드 #장거리감지 #차량용센서 #로보틱스라이다 #맵핑 #센서퓨전 #OEM양산 #중국NEV #부품밸류체인 #광반도체 #VCSEL #905nm #열관리 #생산수율 #규제리스크 #미국상장중국기업 #가격경쟁력 #모듈원가하락 #품질신뢰성 #IP보호 #글로벌확장 #물류로보틱스 #산업안전 #중국 
 
@@ -38,7 +39,6 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 - 사업 부문 구성
     
     - 자동차(ADAS/자율주행) 매출 비중이 높고, 산업·로보틱스가 보완적 역할.
-
 - 비즈니스 모델
     
     - B2B 직판 중심(완성차 OEM/티어1, 로보틱스·물류 SI), 장기 플랫폼 계약과 프로그램별 수율·단가 로드맵을 기반으로 단계적 ASP 인하를 반영. NRE(개발지원)·부품 공급·애프터서비스 수익 혼합.
@@ -49,6 +49,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
     - 대형 OEM 프로그램의 SOP 지연/변경, 가격 인하 압력, 경쟁사 기술 추격.
     - 광학·포토닉스 부품 수율 및 생산 스케일업 리스크.
     - IP/데이터 보안 이슈와 해외 조달 제한 가능성.
+
+{{< adsense-infeed >}}
 
 - 공급망
     
@@ -69,7 +71,6 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ### 비즈니스 모델 (수익 모델)
 
 - 사업 부문별 매출 비중: 자동차(ADAS) > 로보틱스/산업(맵핑·AGV 등) > 서비스/NRE.
-
 - 고객 유형별 수익 구조: 완성차 OEM·티어1 플랫폼 공급(장기 단가 계약) + 로보틱스·SI 일괄 공급 + 애프터서비스.
 
 - 지역별 매출 분포: 중국 비중이 높고, 유럽/북미/아시아 기타 지역 확대 중(정확 비중: 확인 필요).
@@ -166,6 +167,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Luminar(US, [LAZR](/company-analysis/lazr/)) – 장거리 1550nm ToF, 북미·유럽 양산 프로그램
 - Innoviz(IL, [INVZ](/company-analysis/invz/)) – 솔리드스테이트 ToF, 독일 OEM 프로그램
 - Ouster(US, [OUST](/company-analysis/oust/)) – 디지털 라이다, 산업/스마트시티 강점
@@ -178,9 +181,13 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 
 - 차량용 라이다는 채택률 초기 구간으로 OEM·차종별 편차가 큼. 중국 내 ADAS 양산 기준 상위권 점유로 평가되나, 글로벌 정량 점유율은 출처별 상이
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 - 중국 내 대량 양산·가격 경쟁력과 박형 폼팩터로 ADAS 채택 확대에 레버리지.
 - 로보틱스·산업 응용 다변화로 수요 사이클 완충.
@@ -204,6 +211,5 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ---
 
 ### 관련 ETF
-
 - 자율주행/전장: DRIV – Global X Autonomous & Electric Vehicles DRIV, IDRV – iShares Self-Driving EV & Tech IDRV
 - 로보틱스/자동화: BOTZ – Global X Robotics & AI BOTZ, ROBO – ROBO Global Robotics & Automation ROBO

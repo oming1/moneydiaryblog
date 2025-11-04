@@ -1,14 +1,15 @@
 ﻿---
 title: "JBLU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 464
----<div style="display:none">
+weight: 465
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #항공사 #산업재 #항공운송 
 
@@ -21,8 +22,9 @@ weight: 464
 
 JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해, 라틴 아메리카, 캐나다 및 유럽의 100개 이상의 목적지에 항공 운송 서비스를 제공합니다. 주요 서비스로는 [여객 운송](/industry-study/여객-운송/), [화물 운송](/industry-study/화물-운송/), 항공기 임대, [항공 운송](/industry-study/항공-운송/) 및 기타 관련 서비스가 포함됩니다.
 
-#### 전방/후방산업 (Forward/Backward Industries)
+{{< adsense-infeed >}}
 
+#### 전방/후방산업 (Forward/Backward Industries)
 - **전방산업 (Forward Industries)**:
     
     - **여행사 및 온라인 여행 예약 플랫폼**: JetBlue의 항공편을 예약하고 판매합니다. 주요 기업: Expedia (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
@@ -38,8 +40,9 @@ JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해
 - **항공기 운영 및 유지보수**: 항공기 운영 및 유지보수를 담당합니다. 주요 기업: General Electric (미국, [GE](/company-analysis/ge/)), Honeywell (미국, [HON](/company-analysis/hon/))
 - **여객 및 화물 운송 서비스**: 여객 및 화물 운송 서비스를 제공합니다. 주요 기업: Delta Air Lines (미국, [DAL](/company-analysis/dal/)), American Airlines (미국, [AAL](/company-analysis/aal/))
 - **고객 서비스 및 지원**: 고객 서비스 및 지원을 담당합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), Accenture (미국, [ACN](/company-analysis/acn/))
-
 #### 주요제품 (Key Products)
+
+{{< adsense-infeed >}}
 
 - **여객 운송 서비스**: 미국 및 국제선 항공편을 통한 여객 운송 서비스
 - **화물 운송 서비스**: 항공 화물 운송 서비스
@@ -54,7 +57,6 @@ JetBlue Airways의 주요 판매국가는 미국, 카리브해, 라틴 아메리
 - **Delta Air Lines (미국, [DAL](/company-analysis/dal/))**: 여객 및 화물 운송 서비스 제공
 - **American Airlines (미국, [AAL](/company-analysis/aal/))**: 여객 및 화물 운송 서비스 제공
 - **Southwest Airlines (미국, [LUV](/company-analysis/luv/))**: 저비용 항공사로 여객 운송 서비스 제공
-
 #### 최근 3년 내 주요 이슈 (Recent Issues within the Last Three Years)
 
 - **2분기 실적 발표**: 2024년 2분기 실적 발표에서 수익 증가 및 비용 절감 목표 달성 (2024)

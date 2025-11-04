@@ -1,14 +1,15 @@
 ﻿---
 title: "MRKR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 588
----<div style="display:none">
+weight: 589
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #바이오테크놀로지 #면역항암치료 #T세포치료 #림프종치료 #급성골수성백혈병 #췌장암 #MAR-T세포 #다중항원인식 #혈액암 #고형암 #종양특이항원 #임상시험 #FDA승인 #오프더셸프치료 #CAR-T대체치료 #유전자변형없는치료 #생존인 #PRAME #NY-ESO-1 #MAGE-A4 #SSX2 #WT-1 #면역치료 #암치료혁신 #개인맞춤치료 #휴스턴바이오테크
 
@@ -55,6 +56,8 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 ---
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 **기술적 우위:**
 
@@ -128,7 +131,6 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 
 - MD Anderson Cancer Center: 주요 임상시험 수행 기관
 - City of Hope: 림프종 임상시험 협력 기관
-
 ---
 
 ## 주요 제품
@@ -238,7 +240,6 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 - 11월: 췌장암 대상 MT-601 IND 승인
 - 9월: FDA로부터 200만 달러 보조금 수혜
 - 12월: 링컨파크와 2,500만 달러 주식 매입 계약
-
 ---
 
 ## 주요 주주 (지분율)
@@ -254,12 +255,13 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 - 뮤추얼 펀드 및 헤지펀드들이 소규모 지분 보유
 - 구체적 대주주 정보는 공개되지 않음
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 관련 ETF
 
 **직접 관련 ETF:**
-
 - IBB - iShares Biotechnology ETF IBB
 - XBI - SPDR S&P Biotech ETF XBI
 - ARKG - ARK Genomic Revolution ETF ARKG

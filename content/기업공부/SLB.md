@@ -1,14 +1,15 @@
 ﻿---
 title: "SLB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 801
----<div style="display:none">
+weight: 802
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 #에너지 #석유 #가스 #시추장비 
 
@@ -24,14 +25,14 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 #### 전방/후방산업
 
 - **전방산업:**
-    
     - **석유 및 가스 생산업체:** 원유 및 천연가스 생산. 예: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron Corporation (미국, [CVX](/company-analysis/cvx/)).
     - **정유 및 석유화학 업체:** 원유 정제 및 석유화학 제품 생산. 예: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP).
-      
 - **후방산업:**
     
     - **기술 및 장비 공급업체:** 시추 장비 및 기술 제공. 예: Baker Hughes (미국, [BKR](/company-analysis/bkr/)), Halliburton (미국, [HAL](/company-analysis/hal/)).
     - **데이터 분석 및 소프트웨어:** 지하 데이터 분석 및 소프트웨어 솔루션 제공. 예: IBM (미국, [IBM](/company-analysis/ibm/)), Microsoft (미국, [MSFT](/company-analysis/msft/)).
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -41,7 +42,9 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
     - Baker Hughes (미국, [BKR](/company-analysis/bkr/)): 시추 장비 및 서비스.
       
 - **유정 완성 및 생산:**
-    
+
+{{< adsense-infeed >}}
+
     - Halliburton (미국, [HAL](/company-analysis/hal/)): 유정 완성 및 생산 서비스.
     - Weatherford International (미국, [WFRD](/company-analysis/wfrd/)): 유정 완성 및 생산 서비스.
       
@@ -49,6 +52,8 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
     
     - IBM (미국, [IBM](/company-analysis/ibm/)): 데이터 분석 및 소프트웨어 솔루션.
     - Microsoft (미국, [MSFT](/company-analysis/msft/)): 데이터 관리 및 클라우드 솔루션.
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 
@@ -61,7 +66,6 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 - **미국:** 주요 시장으로 전체 매출의 상당 부분을 차지.
 - **중동:** 석유 및 가스 산업의 주요 지역.
 - **러시아:** 석유 및 가스 탐사 및 생산의 주요 지역.
-
 #### 경쟁업체
 
 - **Baker Hughes (미국, [BKR](/company-analysis/bkr/)):** 시추 장비 및 서비스.

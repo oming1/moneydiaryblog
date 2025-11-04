@@ -1,14 +1,15 @@
 ﻿---
 title: "UUUU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:28+09:00
+lastmod: 2025-11-03T21:50:35+09:00
 type: docs
 sidebar:
   open: false
-weight: 922
----<div style="display:none">
+weight: 923
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:28Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
 </div>
 ## 핵심 키워드
 
@@ -24,7 +25,9 @@ weight: 922
 Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업원자재-산업1비철금속희토류/), 중광물사, 바나듐, 의료용 동위원소 등 주요 광물 자원의 채굴, 회수, 재활용, 탐사 및 판매에 주력하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 우라늄 생산: 미국 내 최대 우라늄 생산업체로, 여러 광산과 제련시설을 운영
-    
+
+{{< adsense-infeed >}}
+
 2. 희토류 원소(REE) 생산: 우라늄 광석에서 희토류를 추출하는 혁신적인 공정 개발
     
 3. 바나듐 생산: 미국 내 유일한 1차 바나듐 생산업체
@@ -32,7 +35,6 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 4. 중광물사 프로젝트: 케냐의 Kwale 프로젝트 운영 및 마다가스카르의 Toliara 프로젝트 개발 중
     
 5. 의료용 동위원소: 암 치료에 사용되는 동위원소 생산 기술 개발
-
 2025년 2월 기준 시가총액은 약 9억 4천만 달러이며, 195명의 직원을 고용하고 있습니다. 최근에는 Base Resources 인수를 통해 글로벌 희토류 공급망 구축에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -40,9 +42,10 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 6. 미국 내 최대 우라늄 생산 능력과 자원 보유
     
 7. 희토류, 바나듐 등 전략 광물 생산으로 사업 다각화
-    
+
+{{< adsense-infeed >}}
+
 8. 혁신적인 광물 추출 및 정제 기술 보유
-    
 9. 환경 친화적이고 지속 가능한 채굴 방식 채택
     
 10. 글로벌 희토류 공급망 구축을 위한 전략적 인수 및 프로젝트 개발
@@ -56,7 +59,6 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 - 전기차 및 배터리: 희토류, 바나듐 활용 (Tesla(US, [TSLA](/company-analysis/tsla/)), CATL(CN, 300750))
     
 - 항공우주 및 국방: 특수 합금 소재 공급 (Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)))
-
 후방산업:
 
 - 광산 장비: 채굴 및 운송 장비 제조 (Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301))
@@ -98,7 +100,6 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 ## 주요 판매국가
 
 미국을 중심으로 캐나다, 유럽, 아시아 등 글로벌 시장에 제품을 공급하고 있습니다.
-
 ## 경쟁업체
 
 24. Cameco Corporation(CA, [CCJ](/company-analysis/ccj/)): 우라늄 생산
@@ -144,5 +145,7 @@ Energy Fuels는 미국 내 우라늄 생산에서 선도적 위치를 차지하�
 39. Sprott Uranium Miners ETF - URNM
     
 40. North Shore Global Uranium Mining ETF - URNM
-    
+
+{{< adsense-infeed >}}
+
 41. VanEck Rare Earth/Strategic Metals ETF - [REMX](/company-analysis/remx/)

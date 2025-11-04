@@ -1,14 +1,15 @@
 ﻿---
 title: "LVMH"
-date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:27+09:00
+date: 2024-09-30T10:57:04+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 535
----<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:27Z" />
+weight: 536
+---
+<div style="display:none">
+  <meta property="article:published_time" content="2024-09-30T01:57:04Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 #임의소비재 #럭셔리 
 
@@ -20,7 +21,6 @@ weight: 535
 ## 영위사업
 
 LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사 및 콘글로머릿입니다. 주요 사업 부문은 다음과 같습니다:
-
 1. 와인 및 주류
 2. 패션 및 가죽 제품
 3. 향수 및 화장품
@@ -28,10 +28,13 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 5. 선별적 유통
 6. 기타 활동
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - 전방산업:
-    
     - 핵심 산업 및 역할: 럭셔리 소매, 호텔 및 관광
     - 관련 기업: Sephora (LVMH 소유), DFS (LVMH 소유)
     
@@ -39,7 +42,6 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
     
     - 핵심 산업 및 역할: 원자재 공급, 제조
     - 관련 기업: Pedemonte Group (LVMH 소유, 주얼리 생산)
-
 ## 밸류체인
 
 - 제품 개발: 각 브랜드별 디자인 및 혁신
@@ -56,6 +58,8 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 - Bulgari, TAG Heuer (시계 및 주얼리)
 - Sephora (화장품 소매)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 전 세계적으로 사업을 영위하며, 주요 시장은 유럽, 미국, 아시아입니다.
@@ -67,11 +71,9 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 - The Estée Lauder Companies Inc. (US, [EL](/company-analysis/el/)) - 프리미엄 화장품 및 향수
 
 ## 산업 내 글로벌 시장 점유율
-
 LVMH는 럭셔리 상품 시장에서 세계 1위 기업으로, 2023년 기준 시가총액 5000억 달러를 돌파한 최초의 유럽 기업입니다.
 
 ## 최근 3년 내 주요 이슈
-
 - Tiffany & Co. 인수 완료 (2021)
 - Christian Dior 브랜드 완전 통합 (2017-2021)
 - 코로나19 팬데믹 대응 및 회복 (2020-2022)

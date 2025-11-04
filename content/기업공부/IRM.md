@@ -1,14 +1,15 @@
 ﻿---
 title: "IRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-10-29T06:50:26+09:00
+lastmod: 2025-11-03T21:50:33+09:00
 type: docs
 sidebar:
   open: false
-weight: 460
----<div style="display:none">
+weight: 461
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:26Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
 </div>
 ## 핵심 키워드
 
@@ -28,7 +29,6 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 3. 기타: 미술품 보관 및 자산 수명주기 관리(ALM) 사업 포함
 
 2024년 3분기 기준으로 총 수익은 16억 달러를 기록했으며, 이는 전년 동기 대비 12.2% 증가한 수치입니다. 회사는 최근 Project Matterhorn이라는 글로벌 운영 모델 혁신 프로그램을 통해 성장을 가속화하고 있으며, 지속가능성 이니셔티브 강화에도 주력하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 글로벌 네트워크: 50개 이상 국가에서 운영되는 광범위한 시설 네트워크
@@ -40,16 +40,18 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 ## 전방/후방산업
 
 전방산업:
-
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Microsoft(US, [MSFT](/company-analysis/msft/))
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 헬스케어: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/))
 
-후방산업:
+{{< adsense-infeed >}}
 
+후방산업:
 - 데이터 센터 장비: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Dell Technologies(US, [DELL](/company-analysis/dell/))
 - 보안 솔루션: Palo Alto Networks(US, [PANW](/company-analysis/panw/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -62,6 +64,8 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 프랑스, 호주, 브라질, 인도
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -84,7 +88,6 @@ Iron Mountain은 2024년 기준 글로벌 정보 관리 서비스 시장에서 �
 - AI 및 머신러닝 기반 디지털 솔루션 출시 (2024년)
 
 ## 주요주주(지분율)
-
 - Vanguard Group Inc. (15.88%)
 - BlackRock Advisors LLC (8.320%)
 - Cohen & Steers Capital Management, Inc. (6.040%)
@@ -98,6 +101,8 @@ Iron Mountain은 2024년 기준 글로벌 정보 관리 서비스 시장에서 �
 - Real Estate Select Sector SPDR Fund - XLRE
 - Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - SRVR
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
+
+{{< adsense-infeed >}}
 
 공유
 

@@ -1,14 +1,15 @@
 ﻿---
 title: "TSA"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-10-29T06:50:25+09:00
+lastmod: 2025-11-03T21:50:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 8
----<div style="display:none">
+---
+<div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-10-28T21:50:25Z" />
+  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
 </div>
 #항공 #TSA #미국교통안정청
 
@@ -18,7 +19,11 @@ weight: 8
 
 승객 수 데이터: TSA는 매일 공항에서 검사 받는 승객 수를 공개합니다. 이 데이터는 미국 항공 여행 트렌드를 파악하는 데 유용하며, 항공사 매출과 연관하여 분석할 수 있습니다.
 
+{{< adsense-infeed >}}
+
 **관련 링크:**
+
+{{< adsense-infeed >}}
 
 - **TSA 공식 웹사이트:** [https://www.tsa.gov/](https://www.tsa.gov/) - TSA에 대한 자세한 정보, 보안 지침, 여행 팁 등을 제공합니다.
 - **TSA 승객 통계:** [https://www.tsa.gov/coronavirus/passenger-throughput](https://www.tsa.gov/coronavirus/passenger-throughput) - 매일 공항에서 검사 받는 승객 수를 확인할 수 있습니다.
