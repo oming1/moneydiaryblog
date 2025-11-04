@@ -85,9 +85,6 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있으며, 글로벌 확장을 추진 중입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Honeywell International(US, [HON](/company-analysis/hon/)) - 열 관리 시스템
 2. Gentherm(US, THRM) - 열전 기술
 3. Laird Thermal Systems(US, Laird Thermal Systems) - 열 관리 솔루션
@@ -95,13 +92,7 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 5. Bergquist Company(US, Bergquist Company) - 열 관리 제품
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 KULR는 열 관리 기술 분야에서 빠르게 성장하는 기업으로 인식되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. Xero Vibe 기술에 대한 라이선스 계약 체결 (2024년)
@@ -110,9 +101,6 @@ KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있�
 4. NASA와의 지속적인 협력 관계 강화 (2022-2024년)
 5. 전기차 및 에너지 저장 시장 진출 확대 (2022-2024년)
 6. [비트코인](/company-analysis/비트코인/) 매수 천명
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 구체적인 주요 주주 정보는 제공되지 않았습니다.

@@ -28,9 +28,6 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
     - **핵심 산업**: 소비자 금융 및 기업 대출
     - **역할**: 최종 소비자에게 금융 서비스 제공
     - **주요 기업**:
-
-{{< adsense-infeed >}}
-
         - JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - Bank of America (미국, [BAC](/company-analysis/bac/))
 
@@ -48,9 +45,6 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
     
     - 개인 및 기업 고객을 위한 예금 계좌와 대출 상품을 제공합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Wells Fargo (미국, [WFC](/company-analysis/wfc/)) - 종합 금융 서비스 제공
         - Citibank (미국, [C](/company-analysis/c/)) - 글로벌 금융 서비스
 
@@ -65,9 +59,6 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
     
     - 매출 비중: 전체 매출의 약 50% 차지.
-
-{{< adsense-infeed >}}
-
 - **상업 대출**: 중소기업을 위한 대출 상품으로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
@@ -82,9 +73,6 @@ KeyCorp는 미국을 주요 시장으로 하며, 특히 오하이오주를 중�
 - **Bank of America (미국, [BAC](/company-analysis/bac/))**: 다양한 금융 상품과 서비스를 제공.
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 KeyCorp는 미국 내 은행 시장에서 약 2%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈

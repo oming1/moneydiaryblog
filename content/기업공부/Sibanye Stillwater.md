@@ -25,6 +25,10 @@ weight: 793
 - **Gold**: [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) 생산
 - **Battery Metals**: [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/) 등 [배터리](/industry-study/배터리/) 금속 생산
 #### 전방/후방산업
+- **Platinum Group Metals (PGMs)**: [백금](/industry-study/백금/), [팔라듐](/industry-study/팔라듐/), 로듐 등
+- **Gold**: [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) 생산
+- **Battery Metals**: [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/) 등 [배터리](/industry-study/배터리/) 금속 생산
+#### 전방/후방산업
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 광물 탐사 및 채굴
     - **핵심 기업**: Anglo American Platinum (남아프리카, [AMS](/company-analysis/ams/)), Impala Platinum (남아프리카, IMP)
@@ -33,9 +37,6 @@ weight: 793
     - **핵심 기업**: Johnson Matthey (영국, JMAT), BASF (독일, BAS)
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **탐사 및 채굴 (Exploration & Mining)**:
     - **설명**: 광물 자원의 탐사 및 채굴
     - **대표회사**: Sibanye Stillwater (남아프리카, SSW), Anglo American Platinum (남아프리카, [AMS](/company-analysis/ams/))
@@ -53,19 +54,10 @@ weight: 793
 - **Rhodium**: 로듐
 - **Gold**: 금
 - **Lithium**: 리튬
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 주요 판매국가 중 하나
 - **남아프리카**: 주요 생산 및 판매국가
 - **유럽**: 주요 판매국가
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Anglo American Platinum (남아프리카, [AMS](/company-analysis/ams/))**: 백금족 금속 생산

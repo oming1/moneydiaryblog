@@ -56,9 +56,6 @@ iRobot은 전 세계적으로 제품을 판매하며, 주요 시장은 미국, �
 - 지속적인 연구개발 투자
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Dyson (UK, DY의 자회사) - 고급 청소기 및 로봇 청소기 제조업체
 - Ecovacs Robotics (CN, 비상장) - 로봇 청소기 및 바닥 청소기 제조업체
 - Neato Robotics (US, 비상장) - 로봇 청소기 제조업체
@@ -68,9 +65,6 @@ iRobot은 전 세계적으로 제품을 판매하며, 주요 시장은 미국, �
 iRobot은[청소로봇](/industry-study/청소로봇/) 시장에서 약 30%의 점유율을 보유하고 있으며, 2023년 기준으로 연간 매출이 약 6억 달러에 달합니다.
 
 ## 최근 뉴스 및 재무 성과
-
-{{< adsense-infeed >}}
-
 - **2024년 1분기 재무 결과**: 매출 1억 5천만 달러, 전년 동기 대비 감소, GAAP 순이익 주당 0.30 달러로 전환.
 - **신임 CEO**: Gary Cohen이 CEO로 임명되어 회사의 전략적 이니셔티브를 이끌 예정.
 - **제품 출시**: Roomba Combo Essential 및 Roomba Vac Essential 등 새로운 제품 출시.

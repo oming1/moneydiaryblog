@@ -28,14 +28,8 @@ Matterport, Inc.는 공간 데이터 회사로, 디지털화 및 데이터화에
 ### 전방/후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 부동산: Zillow (US, [Z](/company-analysis/z/)), Redfin (US, [RDFN](/company-analysis/rdfn/))
 - 건축 및 엔지니어링: Autodesk (US, [ADSK](/company-analysis/adsk/)), Trimble (US, [TRMB](/company-analysis/trmb/))
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 - 데이터 센터 운영업체: Equinix (US, [EQIX](/company-analysis/eqix/)), Digital Realty (US, [DLR](/company-analysis/dlr/))
 - 반도체 제조업체: Intel (US, [INTC](/company-analysis/intc/)), NVIDIA (US, [NVDA](/company-analysis/nvda/))
@@ -62,9 +56,6 @@ Matterport, Inc.는 공간 데이터 회사로, 디지털화 및 데이터화에
 
 ### 산업 내 글로벌 시장 점유율
 Matterport, Inc.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈
 
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

@@ -57,9 +57,6 @@ Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구
 5. 응용 연구: Moderna(US, [MRNA](/company-analysis/mrna/)) - mRNA 백신 개발에 활용
 6. 제품 개발: Corteva Agriscience(US, [CTVA](/company-analysis/ctva/)) - 유전자 변형 작물 개발
 7. 최종 사용자: 연구소, 바이오테크 기업, 제약회사 등
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 1. 합성 DNA: 유전자 및 유전자 단편 (매출 비중: 약 60%, 2023년 기준)
 2. NGS 도구: 타겟 농축 패널, 라이브러리 준비 키트 (매출 비중: 약 25%, 2023년 기준)
@@ -71,15 +68,9 @@ Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구
 Twist Bioscience의 주요 고객은 생명과학 연구소, 바이오테크 기업, 제약회사, 농업 기업 등입니다.
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국을 중심으로 글로벌 시장에 서비스를 제공하고 있으며, 유럽, 아시아 등 주요 바이오테크 허브 국가들이 중요한 시장입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Integrated DNA Technologies(US, IDT)
 2. Agilent Technologies(US, [A](/company-analysis/a/))
 3. Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
@@ -90,9 +81,6 @@ Twist Bioscience의 주요 고객은 생명과학 연구소, 바이오테크 기
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Twist Bioscience는 합성 DNA 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. DNA 데이터 저장 기술 개발 가속화 (2022-2023)
 2. 코로나19 관련 연구 지원을 위한 제품 라인 확대 (2021)
 3. 항체 발견 플랫폼의 지속적인 개선 및 파트너십 확대 (2022-2023)

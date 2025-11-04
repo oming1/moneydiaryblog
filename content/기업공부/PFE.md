@@ -24,9 +24,6 @@ weight: 686
 Pfizer Inc.(NYSE: PFE)는 미국의 다국적 제약 및 [바이오테크](/industry-study/바이오테크/)놀로지 기업입니다. 주요 사업 영역은 면역학, 종양학, 심장학, 내분비학, 신경학 분야의 의약품과 백신 개발 및 생산입니다.
 
 주요 제품으로는 COVID-19 백신인 Comirnaty, 항응고제 Eliquis, 폐렴구균 백신, 유방암 치료제 Palbociclib, 희귀질환 치료제 Tafamidis 등이 있습니다. 2023년 기준 매출 기여도가 높은 제품은 Comirnaty(110억 달러), Eliquis(60억 달러), 폐렴구균 백신(60억 달러) 순입니다.
-
-{{< adsense-infeed >}}
-
 Pfizer는 지속적인 R&D 투자를 통해 혁신적인 의약품 개발에 주력하고 있으며, 전략적 인수와 파트너십을 통해 포트폴리오를 확장하고 있습니다. 최근에는 COVID-19 백신 개발 성공으로 주목받았으며, 향후 암, 심혈관 질환, 염증성 질환 등의 분야에서 새로운 치료제 개발에 집중하고 있습니다.
 
 ## 핵심 경쟁력
@@ -46,9 +43,6 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 - 의약품 유통: McKesson(US, [MCK](/company-analysis/mck/)), AmerisourceBergen(US, [ABC](/company-analysis/abc/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 생명공학 연구: Illumina(US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
 - 원료의약품 제조: Lonza Group(CH, [LONN](/company-analysis/lonn/))
 - 의약품 패키징: West Pharmaceutical Services(US, [WST](/company-analysis/wst/))
@@ -62,17 +56,11 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 5. 판매 및 마케팅: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) (글로벌 마케팅)
 6. 환자 서비스: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/)) (의료서비스 및 약국)
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Comirnaty: COVID-19 백신, 매출의 약 19% (2023년 기준)
 - Eliquis: 항응고제, 매출의 약 10% (2023년 기준)
 - Prevnar: 폐렴구균 백신, 매출의 약 10% (2023년 기준)
 - Palbociclib: 유방암 치료제, 매출의 약 7% (2023년 기준)
 - Vyndaqel/Vyndamax: 희귀질환 치료제, 매출의 약 5% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - 병원 및 의료기관
@@ -105,6 +93,7 @@ Pfizer는 2024년 3분기 기준 글로벌 제약 시장에서 약 7.88%의 점�
 - mRNA 기술 기반 새로운 백신 및 치료제 개발 가속화 (2023년)
 - 암 치료제 파이프라인 확대를 위한 Seagen 인수 계획 발표 (2023년)
 - COVID-19 경구용 치료제 Paxlovid의 긴급사용승인 획득 및 공급 확대 (2022년)
+## 주요주주(지분율)
 ## 주요주주(지분율)
 - Vanguard Group (8.17%)
 - BlackRock (7.38%)

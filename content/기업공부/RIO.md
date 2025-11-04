@@ -23,9 +23,6 @@ weight: 746
 Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으로 하는 다국적 광산 회사입니다. 주요 제품으로는 철광석, 알루미늄, 구리, 다이아몬드, 리튬, 티타늄 이산화물 등이 있으며, 전 세계적으로 다양한 광산 및 가공 시설을 운영하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 금속 및 광물의 제조 및 판매
@@ -45,6 +42,9 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
     - **대표 회사**: Anglo American plc (UK, [AAL](/company-analysis/aal/)) - 금속 및 광물 채굴
     - **대표 회사**: Freeport-McMoRan Inc. (US, [FCX](/company-analysis/fcx/)) - 구리 및 금 채굴
 - **유통 및 판매**: 제품의 유통 및 판매
+    - **대표 회사**: Anglo American plc (UK, [AAL](/company-analysis/aal/)) - 금속 및 광물 채굴
+    - **대표 회사**: Freeport-McMoRan Inc. (US, [FCX](/company-analysis/fcx/)) - 구리 및 금 채굴
+- **유통 및 판매**: 제품의 유통 및 판매
     - **대표 회사**: Glencore plc (CH, [GLEN](/company-analysis/glen/)) - 금속 및 원자재 유통
     - **대표 회사**: Trafigura Group Pte Ltd (SG, 비상장) - 원자재 유통
 
@@ -60,10 +60,10 @@ Rio Tinto는 금속 및 광물 자원의 탐사, 채굴 및 가공을 전문으�
 ## 주요 판매국가
 
 Rio Tinto는 전 세계적으로 운영되며, 주요 시장은 아시아, 유럽, 북미 및 남미입니다. 특히 중국은 철광석의 주요 수출 시장입니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
+- **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 금속 및 광물 채굴
+- **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
+- **Glencore plc (CH, [GLEN](/company-analysis/glen/))** - 금속 및 원자재 유통
 - **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 금속 및 광물 채굴
 - **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
 - **Glencore plc (CH, [GLEN](/company-analysis/glen/))** - 금속 및 원자재 유통

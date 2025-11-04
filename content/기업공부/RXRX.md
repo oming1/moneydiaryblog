@@ -45,9 +45,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 2. 희귀질환, 종양학, 염증 등 다양한 치료 영역의 신약 개발
     
 3. 대규모 생물학 및 화학 데이터셋 구축 및 분석
-
-{{< adsense-infeed >}}
-
 4. 임상 단계 약물 후보 개발 및 임상시험 수행
     
 5. 제약회사들과의 협력 및 파트너십 구축
@@ -71,9 +68,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 전방산업:
 
 - 제약산업: 신약 개발 및 상용화 (Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/)))
-
-{{< adsense-infeed >}}
-
 - 의료서비스: 임상시험 및 치료제 적용 (UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/)))
 
 후방산업:
@@ -125,9 +119,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 ## 경쟁업체
 
 1. Exscientia(US, [EXAI](/company-analysis/exai/)): AI 기반 신약 개발
-
-{{< adsense-infeed >}}
-
 2. Insilico Medicine(Insilico Medicine): AI 활용 약물 발견 플랫폼
     
 3. BenevolentAI(UK, BAI): AI 기반 신약 개발 및 생명과학 연구
@@ -154,9 +145,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
-
-{{< adsense-infeed >}}
-
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)

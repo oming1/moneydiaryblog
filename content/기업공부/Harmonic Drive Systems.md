@@ -140,9 +140,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 - Lynas(AU, LYC): 희토류.
 
 **제조 및 조립 단계:**
-
-{{< adsense-infeed >}}
-
 - Harmonic Drive Systems 내부: 감속기 제조.
 
 **유통 및 판매 단계:**
@@ -160,9 +157,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 주된 영향을 미치는 원자재
-
-{{< adsense-infeed >}}
-
 - **합금강:** 기어 제조, 공급지: 일본, 공급업체 Nippon Steel(JP, (5401)).
 - **희토류:** 모터 자석, 공급지: 호주, 공급업체 Lynas(AU, LYC).
 
@@ -186,9 +180,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Nabtesco(JP, (6268)) - 로봇 감속기, 시장점유율 30%.
 - Sumitomo Heavy Industries(JP, (6302)) - 감속기, 시장점유율 20%.
 - Nidec(JP, (6594)) - 서보 모터, 시장점유율 15%.

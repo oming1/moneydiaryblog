@@ -21,13 +21,7 @@ weight: 434
 - **Industry**: 자본 시장 (Capital Markets)
 
 **영위사업**: Interactive Brokers Group Inc.는 전 세계적으로 자동화된 전자 브로커로 운영됩니다. 이 회사는 주식, 옵션, 선물, 외환, 채권, 뮤추얼 펀드, 상장지수펀드(ETFs), 귀금속 및 암호화폐 거래의 실행, 청산 및 결제를 담당합니다. 또한 헤지 펀드, 뮤추얼 펀드, 상장지수펀드, 등록된 투자 자문사, 독점 거래 그룹, 소개 브로커 및 개인 투자자를 위한 계좌 보관 및 서비스를 제공합니다
-
-{{< adsense-infeed >}}
-
 **전방/후방산업**:
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **투자 자문**: 투자 전략 및 자문 서비스 제공. 주요 기업: BlackRock (US, [BLK](/company-analysis/blk/)), Vanguard.
     - **헤지 펀드**: 고위험, 고수익 투자 전략 운영. 주요 기업: Bridgewater Associates, Renaissance Technologies.
@@ -42,15 +36,14 @@ weight: 434
 - **거래 실행 및 청산**: 주식, 옵션, 선물 등 거래의 실행 및 청산. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), TD Ameritrade (US, [AMTD](/company-analysis/amtd/)).
 - **계좌 보관 및 서비스**: 투자자 계좌 보관 및 서비스 제공. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Fidelity Investments.
 **주요제품**:
+- **계좌 보관 및 서비스**: 투자자 계좌 보관 및 서비스 제공. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Fidelity Investments.
+**주요제품**:
 - **Trader Workstation (TWS)**: 고급 거래 플랫폼.
 - **IBKR Mobile**: 모바일 거래 애플리케이션.
 - **IBKR API**: 자동화된 거래를 위한 API.
 - **IBKR Lite**: 저비용 거래 옵션.
 - 정치 당선 베팅 : 대선 선거, 상원의원 선거
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **Charles Schwab (US, [SCHW](/company-analysis/schw/))**: 다양한 금융 서비스 제공.
 - **TD Ameritrade (US, [AMTD](/company-analysis/amtd/))**: 온라인 거래 및 투자 서비스 제공.
 - **E-TRADE (US, ETFC)**: 온라인 브로커리지 서비스 제공.

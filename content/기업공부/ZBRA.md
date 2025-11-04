@@ -90,9 +90,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 - **RFID/실시간 위치추적 솔루션** (매출의 약 20%)
     
 - **AI 비전·로보틱스·SW** (매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 - **서비스/기타** (매출의 약 5%)
 
 ## 주요 고객
@@ -107,9 +104,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 5. 글로벌 IT·클라우드 기업(간접적 공급)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 영국, 독일, 프랑스, 일본, 중국, 호주, 캐나다, 멕시코
 
 ## 경쟁업체
@@ -151,9 +145,6 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
 ## 관련 ETF
 
 - Technology Select Sector SPDR Fund - XLK
-
-{{< adsense-infeed >}}
-
 - iShares U.S. Technology ETF - IYW
     
 - Global X Internet of Things ETF - SNSR

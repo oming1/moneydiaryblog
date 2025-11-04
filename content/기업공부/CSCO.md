@@ -23,9 +23,6 @@ weight: 242
 ## 산업 (Industry)
 
 산업: 통신장비 (Communications Equipment)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 영위사업
@@ -125,9 +122,6 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 - 아시아, 유럽, 미주 지역 제조기지 운영
 
 **3. 공급망 관리:**
-
-{{< adsense-infeed >}}
-
 - 핵심 반도체 및 부품 사전 확보
 - 다변화된 공급망을 통한 리스크 관리
 
@@ -192,9 +186,6 @@ Cisco는 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프�
 ## 주요제품
 
 **네트워킹 장비:** 라우터, 스위치, 무선장비, 매출 비중 약 54% (2024년 기준), 관련 경쟁사 [ANET](/company-analysis/anet/), [JNPR](/company-analysis/jnpr/)
-
-{{< adsense-infeed >}}
-
 **보안 솔루션:** 방화벽, 네트워크 보안, SASE, 매출 비중 약 13% (2024년 기준), 관련 경쟁사 [PANW](/company-analysis/panw/), [FTNT](/company-analysis/ftnt/)
 
 **서비스:** 기술 지원, 유지보수, 컨설팅, 매출 비중 약 27% (2024년 기준), 관련 경쟁사 [IBM](/company-analysis/ibm/), [ACN](/company-analysis/acn/)

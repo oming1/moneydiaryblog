@@ -210,9 +210,6 @@ Nubank의 서비스는 최종 소비자에게 직접 제공되지만, 그 작동
     - Palo Alto Networks (US, [PANW](/company-analysis/panw/)) - 사이버 보안 솔루션.
 - **통신사**: 고객들이 모바일 앱에 접근할 수 있도록 안정적인 인터넷 연결을 제공합니다.
     - Vivo (Telefonica Brasil) (BR, VIV), Claro (América Móvil) (MX, AMX)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 밸류체인
@@ -220,9 +217,6 @@ Nubank의 서비스는 최종 소비자에게 직접 제공되지만, 그 작동
 Nubank의 밸류체인은 기존 은행과 달리 '기술'과 '데이터'가 핵심을 이루며, 이를 통해 효율적인 금융 서비스를 제공합니다.
 
 **1. 기술 및 인프라 공급 단계:**
-
-{{< adsense-infeed >}}
-
 - **클라우드 인프라 제공**: Amazon Web Services (AWS)(US, [AMZN](/company-analysis/amzn/)) 등 클라우드 서비스 제공업체는 Nubank의 모든 디지털 플랫폼, 데이터베이스, 애플리케이션을 호스팅하고 운영하는 데 필요한 컴퓨팅 자원과 확장 가능한 인프라를 공급합니다. 이는 Nubank의 유연성과 빠른 성장의 기반이 됩니다.
 - **결제 네트워크 및 API 파트너**: Mastercard(US, [MA](/company-analysis/ma/)), Visa(US, [V](/company-analysis/v/))와 같은 글로벌 결제 네트워크는 Nubank 신용/직불카드의 국제적인 사용을 가능하게 하고, 금융 거래 처리의 인프라를 제공합니다. 또한, 다양한 핀테크 솔루션과의 연동을 위한 API(Application Programming Interface) 파트너십도 중요합니다.
 - **데이터 분석 및 AI/ML 도구**: Google Cloud(US, [GOOGL](/company-analysis/googl/)), Databricks(US, 비상장) 등은 Nubank가 방대한 고객 데이터를 분석하고, 정교한 AI/ML 모델(신용 평가, 사기 탐지, 맞춤형 추천)을 개발 및 운영하는 데 필요한 소프트웨어 도구와 플랫폼을 제공합니다.

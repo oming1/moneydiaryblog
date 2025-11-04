@@ -52,9 +52,6 @@ weight: 674
 ## 영위사업
 
 Palo Alto Networks, Inc. (PANW)는 2005년에 설립된 [사이버 보안](/industry-study/사이버-보안/) 전문 기업으로, 캘리포니아 산타클라라에 본사를 두고 있습니다. 회사는 네트워크, [클라우드](/industry-study/2산업클라우드/), 엔드포인트 보안 솔루션을 통해 기업과 정부 기관의 디지털 자산을 보호하는 데 특화되어 있습니다. 주요 제품으로는 차세대 방화벽(NGFW), 클라우드 보안 플랫폼(Prisma), AI 기반 위협 탐지 시스템(Cortex)이 있으며, 제로 트러스트 아키텍처를 기반으로 한 통합 보안 플랫폼을 제공합니다.
-
-{{< adsense-infeed >}}
-
 사업 부문은 Strata(네트워크 보안), Prisma(클라우드 및 SaaS 보안), Cortex(보안 운영 자동화)로 나뉘며, 각각 매출의 50%, 30%, 20%를 차지합니다 (2023년 10-K 보고서 기준, SEC Filing). 비즈니스 모델은 구독 기반(Subscription)과 제품 판매(Product)로 구성되어 있으며, 구독 비중이 80% 이상으로 안정적 반복 수익을 창출합니다.
 
 주요 리스크로는 사이버 공격의 진화(예: 랜섬웨어 증가), 경쟁 심화, 공급망 취약점(반도체 부족)이 있으며, 이는 보안 솔루션 수요를 자극하지만 규제 변화(예: GDPR, CCPA)로 인한 컴플라이언스 비용 증가를 초래할 수 있습니다. 주된 원자재는 반도체 칩과 소프트웨어 라이선스이며, 공급망은 TSMC([TSM](/company-analysis/tsm/)) 등에 의존합니다.
@@ -126,6 +123,7 @@ Palo Alto Networks, Inc. (PANW)는 2005년에 설립된 [사이버 보안](/indu
 
 - Palo Alto Networks(US, [PANW](/company-analysis/panw/)): 통합 플랫폼 개발.
 **유통 및 판매 단계:**
+**유통 및 판매 단계:**
 - 직접 판매: 기업 고객 대상.
 
 ---
@@ -141,9 +139,6 @@ Palo Alto Networks, Inc. (PANW)는 2005년에 설립된 [사이버 보안](/indu
 
 - 반도체 칩: 보안 하드웨어, 공급지: 대만, 공급업체 TSMC([TSM](/company-analysis/tsm/)).
 - 소프트웨어 라이선스: AI 알고리즘, 공급지: 미국, 공급업체 NVIDIA([NVDA](/company-analysis/nvda/)).
-
-{{< adsense-infeed >}}
-
 ---
 ## 주요 고객
 

@@ -19,9 +19,6 @@ weight: 155
 - **Industry:** 다각화된 금융 서비스 (Diversified Financial Services)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 버크셔 해서웨이는 다양한 산업에 걸쳐 자회사를 보유하고 있으며, 주요 사업 영역은 보험, 철도, 에너지, 제조업, 소매업 등입니다.
 
 #### 전방/후방산업
@@ -36,9 +33,6 @@ weight: 155
     
     - **금융 서비스:** 금융 상품 및 서비스를 제공하는 산업. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
     - **투자 관리:** 자산 관리 및 투자 서비스를 제공하는 산업. 주요 기업: BlackRock (미국, [BLK](/company-analysis/blk/)), Vanguard Group.
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **원자재 공급:** 보험, 철도, 에너지, 제조업에 필요한 원자재 공급
@@ -49,13 +43,7 @@ weight: 155
     - 주요 기업: Walmart (미국, [WMT](/company-analysis/wmt/)), Amazon (미국, [AMZN](/company-analysis/amzn/)).
 - **서비스 제공:** 금융 서비스 및 투자 관리
     - 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
-
-{{< adsense-infeed >}}
-
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **보험 상품:** 다양한 보험 상품 제공 (자동차, 주택, 생명보험 등)
 - **철도 운송 서비스:** BNSF Railway를 통한 철도 운송 서비스
 - **에너지 공급:** 전력 및 가스 공급
@@ -63,6 +51,9 @@ weight: 155
 - **소매 제품:** 가전제품, 의류, 식료품 등
 
 #### 주요 판매국가
+- **미국:** 주요 매출 국가
+- **캐나다:** 철도 및 에너지 사업
+- **유럽:** 보험 및 제조업
 - **미국:** 주요 매출 국가
 - **캐나다:** 철도 및 에너지 사업
 - **유럽:** 보험 및 제조업

@@ -137,9 +137,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 ---
 
 ## 11. 주요 제품
-
-{{< adsense-infeed >}}
-
 **금융 문서 디자인 및 인쇄 서비스:**
 
 - 사용처: 홍콩 상장 기업의 IPO 및 공시 문서
@@ -185,9 +182,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 - 사용처: 문서 디자인, 저장, 처리
 - 주요 공급지: 미국, 중국
 - 주요 공급업체: Microsoft(US, [MSFT](/company-analysis/msft/)), Adobe(US, [ADBE](/company-analysis/adbe/)), Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 13. 주요 고객
@@ -267,9 +261,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 ## 19. 주요 주주 (지분율)
 
 **최근 데이터 기준:**
-
-{{< adsense-infeed >}}
-
 - Superb Prospect Group Limited: 모회사로서 지배적 지분 보유 (정확한 지분율 미공개)
 - Tsz Keung Chan(CEO): 주요 경영진으로 지분 보유 (정확한 지분율 미공개)
 - IPO를 통한 공모 주식: 125만 주 (전체 발행주식의 약 10%)

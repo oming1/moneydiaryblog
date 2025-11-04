@@ -25,9 +25,6 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
 ## 전방/후방산업
 
 - 전방산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업 및 역할: 소매업, 전자상거래
     - 관련 기업: Sephora (LVMH 소유), Ulta Beauty (US, [ULTA](/company-analysis/ulta/))
     
@@ -56,12 +53,10 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
 - 향수 제품 (2022년 매출의 12%)
 - 헤어케어 제품 (2022년 매출의 5%)
 ## 주요 판매국가
+## 주요 판매국가
 미국, 유럽, 아시아 태평양 지역을 포함한 전 세계 시장
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - L'Oréal (FR, OR.PA) - 화장품 및 개인용품
 - Shiseido (JP, 4911.T) - 화장품 및 개인용품
 - Coty (US, [COTY](/company-analysis/coty/)) - 향수 및 화장품

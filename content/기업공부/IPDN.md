@@ -27,9 +27,6 @@ weight: 455
 Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/industry-study/사이버-보안/) 전문 기업으로, 주로 중소기업(SMB) 및 중견 기업을 대상으로 한 포괄적인 보안 솔루션과 서비스를 제공합니다. 초기에는 IT 컨설팅 및 인프라 서비스에 집중했으나, 최근 몇 년간 보안 서비스와 [SaaS](/industry-study/saas/) 기반 솔루션으로 사업 모델을 전환했습니다. 회사는 보안 취약점 관리부터 24시간 위협 탐지 및 대응(MDR)까지, 기업의 디지털 자산을 보호하는 데 필요한 핵심 역량을 제공합니다.
 
 - **주요 제품 및 서비스**
-
-{{< adsense-infeed >}}
-
     - **Nodeware (SaaS):** 클라우드 기반의 지속적인 취약점 관리 플랫폼. 실시간으로 네트워크 자산의 취약점을 스캔하고 우선순위를 지정하여, 기업이 잠재적인 위협에 선제적으로 대응할 수 있도록 돕습니다. 자동화된 보고서와 알림 기능을 제공하며, SMB 기업이 쉽게 사용할 수 있도록 설계되었습니다.
 
     - **CyberOps (MDR/SOC as a Service):** 24시간 365일 보안 관제 센터(SOC) 서비스를 제공하며, 위협 탐지 및 대응(MDR)을 통해 고객사의 보안을 관리합니다. 전문 보안 분석가들이 최신 위협 인텔리전스를 활용하여 사이버 공격을 모니터링하고, 이상 징후 발생 시 즉각적으로 대응하여 고객사의 보안 운영 부담을 줄여줍니다.
@@ -133,9 +130,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 - 정부 및 교육 기관 (일부).
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스 제공업체: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/)).
 - 보안 하드웨어/소프트웨어 벤더: 방화벽, Endpoint Protection 등 (IGI 솔루션과 통합될 수 있음).
 - 위협 인텔리전스 공급업체: CrowdStrike (US, [CRWD](/company-analysis/crwd/)) 등.
@@ -202,9 +196,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 - **SentinelOne (US, [S](/company-analysis/s/)):** AI 기반 엔드포인트 보안 및 MDR.
 - **IBM (US, [IBM](/company-analysis/ibm/)):** X-Force 등 보안 서비스 및 솔루션.
 - **Mandiant (Google, US, [GOOGL](/company-analysis/googl/) 자회사):** 인시던트 대응 및 위협 인텔리전스.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -225,9 +216,6 @@ Infinite Group, Inc.(IGI)는 1986년에 설립된 미국의 [사이버 보안](/
 ---
 
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **2023년:** Nodeware 플랫폼 기능 고도화, 채널 파트너십 강화.
 - **2022년:** CyberOps (MDR) 서비스 확장 및 고객 기반 확대.
 - **2021년:** 기업 구조조정 및 보안 전문 기업으로의 전환 가속화.

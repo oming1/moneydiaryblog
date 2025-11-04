@@ -20,9 +20,6 @@ weight: 782
 ## 산업
 
 산업: 전문 소매(Specialty Retail)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 서비스를 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -31,6 +28,7 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 2. 식품 및 소매 업체를 위한 배달 서비스 제공
 3. [로봇](/industry-study/로봇/) 운영 플랫폼 및 소프트웨어 개발
 4. 도시 물류 솔루션 제공
+회사는 인공지능과 로봇 기술을 활용하여 효율적이고 친환경적인 도시 내 배달 서비스를 구현하는 데 주력하고 있습니다.
 회사는 인공지능과 로봇 기술을 활용하여 효율적이고 친환경적인 도시 내 배달 서비스를 구현하는 데 주력하고 있습니다.
 ## 핵심 경쟁력
 
@@ -44,9 +42,6 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 1. 자율 주행 배달 로봇
 2. 로봇 운영 및 관리 소프트웨어 플랫폼
 3. 배달 서비스 API 및 통합 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 1. 식품 배달 플랫폼
@@ -78,9 +73,6 @@ Serve Robotics Inc.는 자율 주행 로봇을 이용한 라스트마일 배달 
 정확한 지분율 정보는 제공되지 않았습니다.
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. ARK Autonomous Technology & Robotics ETF - ARKQ
 2. Global X Robotics & Artificial Intelligence ETF - BOTZ
 3. ROBO Global Robotics and Automation Index ETF - ROBO

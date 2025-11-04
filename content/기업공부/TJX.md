@@ -19,9 +19,6 @@ weight: 869
 ## 영위사업
 
 TJX Companies, Inc.는 미국 및 전 세계에서 오프프라이스 의류 및 홈패션 리테일러로 운영되고 있습니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. Marmaxx: 미국 내 TJ Maxx와 Marshalls 체인 운영
 2. HomeGoods: 미국 내 HomeGoods와 Homesense 체인 운영
 3. TJX Canada: 캐나다 내 Winners, HomeSense, Marshalls 체인 운영
@@ -84,9 +81,6 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 2022년 10월 기준, TJX Companies는 주요 오프프라이스 리테일러 중 68%의 시장 점유율을 보유하고 있습니다[
 
 6
-
-{{< adsense-infeed >}}
-
 ](https://secondmeasure.com/datapoints/off-price-retailers-market-share-nasdaq-rost-nyse-tjx-burl/).
 
 ## 최근 3년 내 주요 이슈
@@ -96,6 +90,7 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 3. 국제 시장 확대, 특히 유럽과 호주 시장에서의 성장 (2022-2023)
 4. 공급망 관리 및 재고 최적화를 위한 기술 투자 (2022-2023)
 5. 지속가능성 이니셔티브 강화 및 ESG 성과 개선 노력 (2021-2023)
+## 주요주주(지분율)
 ## 주요주주(지분율)
 1. Vanguard Group Inc (8.78%)
 2. Blackrock Inc (8.46%)

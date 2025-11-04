@@ -29,17 +29,11 @@ MorningStar Farms는 Kellanova의 일부로, 비건 및 채식 식품을 생산�
 - 소비자에게 건강하고 지속 가능한 식품 제공
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Meatless Chicken Nuggets (고기 없는 치킨 너겟)
 - Veggie Corn Dogs (채식 콘 도그)
 - Breakfast Sausage (아침 소시지)
 - Grillers® Original Burgers (그릴러스 오리지널 버거)
 - Plant-Based Bacon Strips (식물성 베이컨 스트립)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 MorningStar Farms는 미국 내 25,000개 이상의 소매점에서 판매되며, 45,000개 이상의 외식업체에서도 사용되고 있습니다
@@ -53,6 +47,9 @@ MorningStar Farms는 미국 내 25,000개 이상의 소매점에서 판매되며
 ## 산업 내 글로벌 시장 점유율
 
 MorningStar Farms는 미국에서 가장 인기 있는 채식 버거 브랜드로, 2021년 기준으로 약 3억 4천만 달러의 매출을 기록했습니다[](https://www.foodnavigator-usa.com/Article/2023/02/10/kellogg-saves-morningstar-farms-from-auction-block).
+## 최근 뉴스
+- **2022년 재무 성과**: MorningStar Farms는 2021년 기준으로 약 3억 4천만 달러의 순매출을 기록했으며, 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다[](https://www.foodnavigator-usa.com/Article/2023/02/10/kellogg-saves-morningstar-farms-from-auction-block).
+- **제품 인증**: 여러 MorningStar Farms 제품이 "Certified Plant-Based" 인증을 받았으며, 이는 소비자들이 동물성 성분이 없는 제품을 쉽게 찾을 수 있도록 돕고 있습니다[](https://www.kelloggs.com/content/dam/NorthAmerica/kelloggs/en_US/images/articles/stay-in-the-know/2020/January.html).
 ## 최근 뉴스
 - **2022년 재무 성과**: MorningStar Farms는 2021년 기준으로 약 3억 4천만 달러의 순매출을 기록했으며, 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다[](https://www.foodnavigator-usa.com/Article/2023/02/10/kellogg-saves-morningstar-farms-from-auction-block).
 - **제품 인증**: 여러 MorningStar Farms 제품이 "Certified Plant-Based" 인증을 받았으며, 이는 소비자들이 동물성 성분이 없는 제품을 쉽게 찾을 수 있도록 돕고 있습니다[](https://www.kelloggs.com/content/dam/NorthAmerica/kelloggs/en_US/images/articles/stay-in-the-know/2020/January.html).

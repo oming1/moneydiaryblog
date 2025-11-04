@@ -22,21 +22,12 @@ weight: 716
 
 Peloton Interactive, Inc.는 2012년 설립되어 2019년 나스닥에 상장된 글로벌 피트니스 기업입니다. 회사는 혁신적인 커넥티드 피트니스 플랫폼을 운영하며, 고급 실내 자전거, 트레드밀, 로잉머신 등의 피트니스 장비와 라이브 및 온디맨드 운동 클래스를 결합한 독특한 비즈니스 모델을 제공합니다.
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Peloton Bike/Bike+
 - Peloton Tread/Tread+
 - Peloton Guide
 - Peloton Row
 - 디지털 구독 서비스
-
-{{< adsense-infeed >}}
-
 ## 사업부문
-
-{{< adsense-infeed >}}
-
 1. Connected Fitness Products: 피트니스 장비, 관련 액세서리, 배송 및 설치 서비스, 연장 보증
 2. Subscription: 디지털 콘텐츠와 라이브/온디맨드 피트니스 클래스 접근권
 
@@ -89,9 +80,6 @@ Peloton의 핵심 경쟁력은 다음과 같습니다:
 - Peloton Guide: AI 기반 강도 트레이닝 시스템
 - Peloton Row: 실내 로잉머신
 - 디지털 구독 서비스: 라이브 및 온디맨드 피트니스 클래스 (매출 비중 약 20%, 2022년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 Peloton의 주요 고객층은 중상위 소득의 건강과 피트니스에 관심이 많은 25-65세 사이의 성인입니다. 특히 바쁜 전문직 종사자, 젊은 부모, 홈 피트니스를 선호하는 밀레니얼 세대가 주요 타겟입니다.

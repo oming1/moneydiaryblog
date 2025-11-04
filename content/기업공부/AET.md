@@ -23,14 +23,16 @@ weight: 37
 Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약국, 행동 건강 및 장기 요양 보험 상품을 포함한 다양한 보험 상품을 제공합니다. 이 회사는 개인 및 그룹 고객에게 맞춤형 건강 관리 솔루션을 제공합니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 의료 서비스 및 보험 제공
     - **역할**: 최종 소비자에게 건강 관리 및 보험 솔루션 제공
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Cigna (미국, [CI](/company-analysis/ci/))
+- **후방 산업 (Upstream Industry)**:
+    - **핵심 산업**: 의료 기기 및 제약 제조
+    - **역할**: Aetna의 보험 상품에 필요한 의료 서비스 및 제품 제공
+    - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
+## 밸류체인
 - **후방 산업 (Upstream Industry)**:
     - **핵심 산업**: 의료 기기 및 제약 제조
     - **역할**: Aetna의 보험 상품에 필요한 의료 서비스 및 제품 제공
@@ -47,18 +49,12 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
     - 대표 기업: Humana (미국, [HUM](/company-analysis/hum/)) - 경쟁 제품: 관리형 헬스케어 서비스
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - **상업 의료 건강 계획**:
     
     - 기업 및 개인 고객을 위한 건강 보험 상품입니다.
     - 매출 비중: 전체 매출의 약 50% 차지.
     
 - **정부 건강 계획**:
-
-{{< adsense-infeed >}}
-
     - Medicare(메디케어) 및 Medicaid(메디케이드)와 같은 정부 주도의 건강 보험 프로그램입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 

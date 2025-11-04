@@ -26,10 +26,10 @@ X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온�
 에너지로는 저농축 산화 우라늄/고순도 저농축 우라늄(LEU, HALEU), 피복입자(TRISO) 사용
 
 - 감속재 : [흑연](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속흑연/) / 냉각재 : 헬륨기체, 불화염
-
-{{< adsense-infeed >}}
-
 ## **전방/후방산업**
+- **전방산업:** 전력 생산, 산업용 열 공급, 우주 탐사
+    - **핵심 산업:** 전력 생산 (Duke Energy (US, [DUK](/company-analysis/duk/))), 산업용 열 공급 (Dow Inc. (US, [DOW](/company-analysis/dow/))), 우주 탐사 (SpaceX (US, 비상장))
+    - **역할:** 원자로를 통한 전력 및 열 공급, 우주 탐사 미션 지원
 - **전방산업:** 전력 생산, 산업용 열 공급, 우주 탐사
     - **핵심 산업:** 전력 생산 (Duke Energy (US, [DUK](/company-analysis/duk/))), 산업용 열 공급 (Dow Inc. (US, [DOW](/company-analysis/dow/))), 우주 탐사 (SpaceX (US, 비상장))
     - **역할:** 원자로를 통한 전력 및 열 공급, 우주 탐사 미션 지원
@@ -67,9 +67,6 @@ X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온�
 - **X-energy:** 약 5% (2023년 기준)
 - **TerraPower:** 약 10% (2023년 기준)
 - **NuScale Power:** 약 8% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 ## **최근 3년 내 주요 이슈**
 - **DOE 지원:** 미국 에너지부(DOE)로부터 4억 달러 지원 (2020)
 - **Amazon 투자:** Amazon의 소형 모듈형 원자로(SMR) 투자 (2023)

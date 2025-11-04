@@ -77,9 +77,6 @@ Freeport-McMoRan의 비즈니스 모델은 대규모 장기 광산 자산을 통
 - 대형 제조업체와의 장기 공급 계약
 - 현물 시장에서의 가격 연동 판매
 - 지리적 다양성을 통한 리스크 분산
-
-{{< adsense-infeed >}}
-
 핵심 경쟁력은 대규모 매장량, 지리적 다양성, 운영 효율성, 구리 가격 상승 수혜를 통한 수익성 개선입니다.
 
 ---
@@ -153,9 +150,6 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 
 - Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)) - 자체 광산 운영
 - 경쟁사: BHP(AU, [BHP](/company-analysis/bhp/)), Rio Tinto(UK, [RIO](/company-analysis/rio/)), Southern Copper(US, [SCCO](/company-analysis/scco/))
-
-{{< adsense-infeed >}}
-
 **선별 및 정제 단계:** 광물 분리 및 순도 높은 금속 생산
 
 - Atlantic Copper - 제련소 운영 (FCX 자회사)
@@ -211,9 +205,6 @@ Freeport-McMoRan의 핵심 경쟁력은 세계적 규모의 광산 자산 포트
 - 사용처: 대형 채굴장비 운영용 연료
 - 주요 공급 지역: 글로벌
 - 주요 공급 업체: Chevron [CVX](/company-analysis/cvx/), ExxonMobil [XOM](/company-analysis/xom/)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요고객

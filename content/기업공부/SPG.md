@@ -19,9 +19,6 @@ weight: 819
 - **Industry**: Real Estate Investment Trusts (REITs) ([리츠](/industry-study/리츠/))
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛, 밀레니엄 쇼핑센터 등(상업용부동산)을 소유 및 운영하는 부동산 투자 신탁(REIT)입니다. 이 회사는 다양한 소매 및 엔터테인먼트 공간을 제공하여 고객과 테넌트에게 다양한 쇼핑 경험을 제공합니다.
 
 ## 전방/후방산업
@@ -30,6 +27,8 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
     
     - **핵심 산업 및 역할**: 소매업 및 엔터테인먼트 서비스 제공
     - **관련 기업**: Macy's (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
+{{< adsense-in
+- **후방산업**:
 {{< adsense-in
 - **후방산업**:
     - **핵심 산업 및 역할**: 부동산 개발 및 관리 서비스
@@ -46,9 +45,6 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
     
     - **대표 회사**: Taubman Centers (US, TCO) - 쇼핑몰 운영
     - **대표 회사**: Macerich (US, MAC) - 쇼핑몰 관리
-
-{{< adsense-infeed >}}
-
 - **고객 서비스**: 쇼핑 경험 개선을 위한 서비스 제공
     - **대표 회사**: Westfield Corporation (AU, WFD) - 쇼핑몰 고객 서비스
     - **대표 회사**: GGP Inc. (US, GGP) - 쇼핑몰 운영 및 고객 서비스
@@ -59,6 +55,7 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
 - **프리미엄 아울렛** (매출의 약 20%)
 - **밀레니엄 쇼핑센터** (매출의 약 10%)
 ## 주요 판매국가
+## 주요 판매국가
 Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시장에서도 활동하고 있습니다.
 
 ## 경쟁업체
@@ -66,6 +63,9 @@ Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시�
 - **Brookfield Property Partners (CA, BPY)** - 부동산 개발 및 관리
 - **Unibail-Rodamco-Westfield (FR, URW)** - 쇼핑몰 및 상업 부동산 관리
 - **Macerich (US, MAC)** - 쇼핑몰 관리
+## 산업 내 글로벌 시장 점유율
+Simon Property Group는 미국 내 쇼핑몰 및 아울렛 시장에서 가장 큰 REIT 중 하나로, 상당한 시장 점유율을 보유하고 있습니다.
+## 최근 3년 내 주요 이슈
 ## 산업 내 글로벌 시장 점유율
 Simon Property Group는 미국 내 쇼핑몰 및 아울렛 시장에서 가장 큰 REIT 중 하나로, 상당한 시장 점유율을 보유하고 있습니다.
 ## 최근 3년 내 주요 이슈

@@ -33,9 +33,6 @@ Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat
 4. 프라이버시 중심 메시징: 사라지는 메시지 기능으로 차별화
 5. 혁신적인 광고 포맷: AR 렌즈 광고 등 독특한 광고 상품 제공
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 디지털 광고: 광고주들의 주요 마케팅 채널
@@ -76,15 +73,9 @@ Snap Inc.의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 - Snapchat+ 구독 서비스 출시 및 성장 (2022년)
 - 광고 사업 회복 및 직접 응답(DR) 광고 성장 (2023-2024년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Global X Social Media ETF - SOCL

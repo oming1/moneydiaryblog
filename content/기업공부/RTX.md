@@ -48,9 +48,6 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
     - 대표 기업: BAE Systems (영국, BAESY) - 경쟁 제품: 방산 장비
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - **F-35 Lightning II 전투기**:
     - 다목적 스텔스 전투기로, 미국 공군을 포함한 여러 국가에서 사용됩니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
@@ -70,9 +67,6 @@ Raytheon Technologies는 미국을 주요 시장으로 하며, 유럽과 아시�
 - **Boeing** (미국, [BA](/company-analysis/ba/)) - 경쟁 제품: 항공기 및 방산 기술
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Raytheon Technologies는 글로벌 방산 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈

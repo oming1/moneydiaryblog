@@ -31,6 +31,9 @@ Lithia Motors, Inc.는 글로벌 [자동차](/industry-study/자동차/) 소매�
 2. 금융 운영 부문
     
     - 소매 차량 구매 및 리스 고객을 위한 금융 서비스 제공
+2. 금융 운영 부문
+    
+    - 소매 차량 구매 및 리스 고객을 위한 금융 서비스 제공
 Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운영하며, 52개 브랜드를 대표합니다. 회사는 물리적 매장, 전자상거래 플랫폼, 자체 금융 솔루션을 통해 차량 소유 라이프사이클 전반에 걸친 제품과 서비스를 제공합니다.
 
 ## 전방/후방산업
@@ -45,18 +48,12 @@ Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운
 - 부품 제조업체: 차량 부품 공급 (예: Aptiv PLC (US, [APTV](/company-analysis/aptv/)))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 차량 공급: 자동차 제조업체 (예: Ford Motor Company (US, [F](/company-analysis/f/)))
 2. 부품 공급: 자동차 부품 제조업체 (예: Magna International (US, [MGA](/company-analysis/mga/)))
 3. 소매 판매 및 서비스: Lithia Motors (US, [LAD](/company-analysis/lad/))
 4. 금융 서비스: Lithia Motors의 자체 금융 부문
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 신차 판매
 2. 중고차 판매
 3. 차량 부품 및 액세서리

@@ -29,9 +29,6 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     - **펄프 및 종이 제조**: 담배 제조에 필요한 종이와 필터를 생산. 주요 기업: International Paper (미국, [IP](/company-analysis/ip/)), WestRock (미국, WRK).
 
 - **전방산업 (Downstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **담배 제조**: 담배 제품의 제조 및 가공. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
     - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), Imperial Brands (영국, [IMB](/company-analysis/imb/)).
 
@@ -41,9 +38,6 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     
     - **설명**: 담배 제조에 필요한 종이와 필터를 생산.
     - **대표회사**: International Paper (미국, [IP](/company-analysis/ip/)), WestRock (미국, WRK).
-
-{{< adsense-infeed >}}
-
 1. **원자재 공급 (Raw Material Supply)**:
     
     - **설명**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급.
@@ -82,6 +76,8 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     - **시장점유율**: 글로벌 시장 점유율 10% (2021년 기준)
 
 1. **WestRock (미국, WRK)**
+    - **경쟁 제품**: 산업용 종이, 포장재
+    - **시장점유율**: 글로벌 시장 점유율 8% (2021년 기준)
     - **경쟁 제품**: 산업용 종이, 포장재
     - **시장점유율**: 글로벌 시장 점유율 8% (2021년 기준)
 1. **Glatfelter (미국, GLT)**

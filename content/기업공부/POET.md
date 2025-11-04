@@ -19,9 +19,6 @@ weight: 705
 - **Industry**: [반도체](/industry-study/반도체/) (Semiconductors)
 
 **영위사업**: POET Technologies는 광전자 솔루션을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 제품은 POET Optical Interposer™ 플랫폼을 기반으로 하며, 이는 전자 및 광자 장치를 단일 멀티칩 모듈로 통합할 수 있게 합니다. 주요 시장은 [데이터센터](/industry-study/데이터센터/), 통신, 사물인터넷(IoT), 산업 센싱, 자동차 LiDAR(라이다), 의료 기기용 광학 코히어런스 단층촬영(OCT), 가상 현실 시스템 등입니다.
-
-{{< adsense-infeed >}}
-
 **전방/후방산업**:
 - **전방산업**:
     - **데이터 센터**: 데이터 저장 및 처리 솔루션 제공. 주요 기업: Amazon (US, [AMZN](/company-analysis/amzn/)), Microsoft (US, [MSFT](/company-analysis/msft/)).
@@ -46,9 +43,6 @@ weight: 705
 - **미국**
 - **싱가포르**
 - **중국**
-
-{{< adsense-infeed >}}
-
 **경쟁업체**:
 
 - **Everspin Technologies (US, MRAM)**: 반도체 메모리 솔루션 제공.

@@ -41,9 +41,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 **수익 구조 세분화:**
 - **처방약 거래 수익:** 85% (제휴 약국에서 발생하는 거래 건당 수수료, 제약사 보상 프로그램 등)
     
@@ -94,9 +91,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 
 - **실시간 약국 가격 데이터 통합 및 분석 기술:**  
     미국 내 수만 개 약국의 처방약 가격 정보를 실시간으로 수집, 통합, 분석하여 사용자에게 가장 저렴한 옵션을 제시하는 핵심 기술입니다.
-
-{{< adsense-infeed >}}
-
 - **AI 기반 개인 맞춤형 할인 추천 알고리즘:**  
     사용자의 과거 구매 이력, 위치, 처방전 정보 등을 기반으로 AI가 최적의 할인 쿠폰 및 약국을 추천하여 사용자 경험을 최적화합니다.
 
@@ -195,9 +189,6 @@ GoodRx Holdings, Inc. (GDRX)는 2011년에 설립된 헬스케어 기술 기업�
 ---
 
 ### 주요 고객 (파트너십 및 사용자 기반)
-
-{{< adsense-infeed >}}
-
 - **CVS Pharmacy (US, [CVS](/company-analysis/cvs/)):** 대형 약국 체인 파트너.
 - **Walgreens (US, [WBA](/company-analysis/wba/)):** 대형 약국 체인 파트너.
 - **Walmart Pharmacy (US, [WMT](/company-analysis/wmt/)):** 대형 유통업체 약국 파트너.

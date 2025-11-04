@@ -46,9 +46,6 @@ Ball Corporation의 핵심 경쟁력은 알루미늄 음료 캔 제조 분야의
 최근에는 알루미늄 가격 변동성에 대응하기 위한 위험 관리 전략과 지역 생산 및 조달을 강화하여 국제 무역의 불확실성에 대한 노출을 최소화하는 전략을 추진 중입니다.
 
 ## 핵심기술
-
-{{< adsense-infeed >}}
-
 Ball Corporation의 핵심 기술은 고속, 대량의 알루미늄 캔 제조 공정에 집중되어 있습니다. 최신 알루미늄 가공 기술과 함께 다음과 같은 기술적 강점을 보유하고 있습니다:
 
 1. 경량화 기술: 알루미늄 사용량을 줄이면서도 강도와 내구성을 유지하는 캔 디자인 기술
@@ -124,9 +121,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
     - Procter & Gamble(US, [PG](/company-analysis/pg/))
         
 - 유통 및 소매 산업: 최종 소비자에게 제품 전달
-
-{{< adsense-infeed >}}
-
     - Walmart(US, [WMT](/company-analysis/wmt/))
         
     - Costco(US, [COST](/company-analysis/cost/))
@@ -135,9 +129,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 1. 원자재 공급: 알루미늄 원자재 및 코일 생산
     
     - Alcoa(US, [AA](/company-analysis/aa/)) (글로벌 알루미늄 생산)
-
-{{< adsense-infeed >}}
-
     - Novelis Inc.(글로벌 알루미늄 롤링 및 재활용)
         
     - Norsk Hydro(NO, Norsk Hydro) (유럽 주요 알루미늄 공급업체)
@@ -235,9 +226,6 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 2. PepsiCo(US, [PEP](/company-analysis/pep/)) - 소프트드링크 및 에너지 음료
     
 3. Anheuser-Busch InBev(BE, Anheuser-Busch InBev) - 맥주 제품
-
-{{< adsense-infeed >}}
-
 4. Molson Coors(US, [TAP](/company-analysis/tap/)) - 맥주 제품
     
 5. Heineken(NL, Heineken) - 맥주 제품

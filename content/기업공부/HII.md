@@ -52,9 +52,6 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 - 정부 서비스: 연방 정부 기관 (Department of Homeland Security)
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 철강 및 금속: 함정 건조용 원자재 (Nucor(US, [NUE](/company-analysis/nue/)), U.S. Steel(US, [X](/company-analysis/x/)))
     
 - 전자 및 센서: 함정 시스템용 부품 (Raytheon Technologies(US, [RTX](/company-analysis/rtx/)), L3Harris(US, [LHX](/company-analysis/lhx/)))
@@ -63,9 +60,6 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 1. 연구개발: HII 내부 R&D팀, 정부 연구소 협력
     
 2. 원자재 조달: 철강, 비철금속 공급업체
-
-{{< adsense-infeed >}}
-
 3. 설계 및 엔지니어링: HII 엔지니어링 팀
     
 4. 제조 및 건조: Newport News, Ingalls 조선소

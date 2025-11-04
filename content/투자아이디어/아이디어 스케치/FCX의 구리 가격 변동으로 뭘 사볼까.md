@@ -40,18 +40,12 @@ weight: 2
 ### **2. FCX와 SCCO의 사업 구조 및 공급망 비교**
 
 #### **A. 생산 비중 및 글로벌 영향력**
-
-{{< adsense-infeed >}}
-
 - **[FCX](/company-analysis/fcx/) (Freeport-McMoRan)**
     - Grasberg(인도네시아): FCX 구리 생산의 30%, 금 생산의 70%, 글로벌 구리의 3.2% 차지.
     - 북미(미국), 남미(페루, 칠레) 등 다각화된 포트폴리오.
     - 최근 사고로 2026년 생산 전망도 35% 하향 가능성 경고.
     - 단일 자산(Grasberg) 의존도가 높아, 공급 충격 시 주가 변동성 확대.
 - **[SCCO](/company-analysis/scco/) (Southern Copper)**
-
-{{< adsense-infeed >}}
-
     - 멕시코(Buenavista, La Caridad), 페루(Toquepala, Cuajone) 등 남미 중심.
     - 단일 광산 의존도는 FCX보다 낮고, 생산지 분산도가 높음.
     - 최근 페루 지역 시위 등 정치적 리스크는 있으나, 대형 사고로 인한 대규모 생산 차질은 드물었음.
@@ -63,9 +57,6 @@ weight: 2
 	    - 전기차 및 재생에너지 수요 증가에 따른 수혜 가능.
 	- **리스크**:
 	    - 광산 수명 연장 필요 및 환경 규제 강화.
-
-{{< adsense-infeed >}}
-
 - **[Hudbay Minerals](/company-analysis/hudbay-minerals/)(HBM)**
 
 	- 미국 내 애리조나 Rosemont 프로젝트 중심.

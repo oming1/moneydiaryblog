@@ -20,6 +20,7 @@ weight: 838
 
 ## 영위사업
 Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생산하고 마케팅하는 미국 기업입니다[
+Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생산하고 마케팅하는 미국 기업입니다[
 ## 전방/후방산업
 
 - 전방산업:
@@ -28,9 +29,6 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
     - 관련 기업: Walmart (US, [WMT](/company-analysis/wmt/)), Kroger (US, [KR](/company-analysis/kr/))
     
 - 후방산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업 및 역할: 농업(포도 재배), 유리 제조
     - 관련 기업: Owens-Illinois (US, OI)
 
@@ -51,9 +49,6 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 미국을 중심으로 전 세계 시장에서 사업을 영위하고 있습니다[
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Anheuser-Busch InBev (BE, BUD)
 - Heineken (NL, HEINY)
 - Diageo (UK, DEO)

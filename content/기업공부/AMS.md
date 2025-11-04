@@ -21,9 +21,6 @@ weight: 64
 산업: 의료케어시설
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력을 가진 의료 장비 리스 및 서비스 기업으로, 병원과 의료 센터에 방사선 수술 및 방사선 치료 장비에 대한 혁신적인 금융 솔루션을 제공합니다. 회사는  
 자회사인 GK Financing, LLC(81% 소유)를 통해 감마나이프 장비 소유권 분야에서 세계적인 선두 기업으로 자리매김하고 있습니다.
 
@@ -89,9 +86,6 @@ American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력�
 
 ## 주요 고객
 American Shared Hospital Services의 주요 고객은 대부분 병원 및 의료 센터이지만, 검색 결과에서 구체적인 고객명이 제시되지 않았습니다. 일반적으로 다음과 같은 유형의 고객을 대상으로 합니다:
-
-{{< adsense-infeed >}}
-
 1. 지역 병원 및 의료 센터
     
 2. 대학 병원 및 교육 의료 기관
@@ -143,9 +137,6 @@ American Shared Hospital Services의 주요 고객은 대부분 병원 및 의�
 4. John Ruffle (6.398%)
     
 5. Bridgeway Capital Management LLC (4.1%)
-
-{{< adsense-infeed >}}
-
 6. Dimensional Fund Advisors LP (3.243%)
     
 7. Vanguard Group, Inc. (2.823%)

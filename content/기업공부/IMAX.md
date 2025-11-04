@@ -46,9 +46,6 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 
 - 카메라 및 영상 장비: Sony (일본, [SONY](/company-analysis/sony/))
 - 음향 시스템: Dolby Laboratories (US, DLB)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 기술 개발: IMAX (US, [IMAX](/company-analysis/imax/)) (영화 기술 및 시스템 개발)
@@ -69,9 +66,6 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 북미, 서유럽, 아시아, 라틴아메리카를 중심으로 전 세계 80개국 이상에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Dolby Laboratories (US, DLB) (음향 및 영상 기술)
 2. RealD (비상장) (3D 영화 기술)
 3. Cinemark (US, CNK) (XD 극장 기술)

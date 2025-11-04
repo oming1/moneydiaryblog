@@ -49,9 +49,6 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 2. 에너지 저장 시스템: 재생에너지와 연계된 대규모 에너지 저장
     
     - AES Corporation(US, AES), Fluence Energy(US, FLNC)
-
-{{< adsense-infeed >}}
-
 3. 소비자 전자기기: 스마트폰, 웨어러블 기기 등
     - Apple(US, [AAPL](/company-analysis/aapl/)), Samsung Electronics(KR, 005930)
 
@@ -71,9 +68,6 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 ## 밸류체인
 
 1. 연구 개발: 고체 전해질 및 배터리 기술 개발
-
-{{< adsense-infeed >}}
-
     - QuantumScape(US, [QS](/company-analysis/qs/)), Solid Power(US, SLDP)
 2. 원자재 조달: 리튬, 니켈, 코발트 등 배터리 소재
     

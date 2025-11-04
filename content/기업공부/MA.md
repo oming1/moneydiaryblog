@@ -19,9 +19,6 @@ weight: 543
 - **Industry:** 신용 서비스 (Credit Services)
 
 **영위사업** Mastercard Inc.는 글로벌 결제 기술 회사로, 신용카드, 직불카드, 선불카드 및 기타 결제 솔루션을 제공합니다. Mastercard는 전 세계 금융기관, 기업, 카드 소지자 및 가맹점 사이에서 중요한 경제적 연결고리를 제공합니다.
-
-{{< adsense-infeed >}}
-
 **전방산업**
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 비자 (미국, [V](/company-analysis/v/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
@@ -64,13 +61,13 @@ weight: 543
 - **독일:** 주요 매출 국가.
 
 **경쟁업체**
-
-{{< adsense-infeed >}}
-
 - **Visa (미국, [V](/company-analysis/v/)):** 글로벌 결제 네트워크.
 - **American Express (미국, [AXP](/company-analysis/axp/)):** 신용카드 및 금융 서비스.
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/)):** 신용카드 및 금융 서비스.
 - **PayPal (미국, [PYPL](/company-analysis/pypl/)):** 온라인 결제 솔루션.
+**산업 내 글로벌 시장 점유율**
+
+- Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
 **산업 내 글로벌 시장 점유율**
 
 - Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).

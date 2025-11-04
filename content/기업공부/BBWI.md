@@ -25,16 +25,10 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 소매, 개인용품
     - 역할: 소비자에게 직접 제품 판매
     - 주요 기업: Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)), Sephora (프랑스, 비상장)
 - 후방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 화학, 향료 제조
     - 역할: 원료 및 향료 공급
     - 주요 기업: International Flavors & Fragrances (미국, IFF)
@@ -59,9 +53,6 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 ## 주요 판매 국가
 
 미국과 캐나다를 중심으로 전 세계 6개 대륙에서 사업을 전개하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Victoria's Secret (미국, [VSCO](/company-analysis/vsco/)) - 란제리 및 뷰티 제품

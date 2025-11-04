@@ -47,9 +47,6 @@ Vertiv는 전 세계 130개 이상의 국가에서 사업을 영위하고 있으
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 통신사: AT&T(US, [T](/company-analysis/t/)), Verizon(US, [VZ](/company-analysis/vz/))
 - 데이터 센터 운영: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
@@ -95,18 +92,12 @@ Vertiv는 전 세계 130개 이상의 국가에서 사업을 영위하고 있으
 Vertiv는 데이터 센터 냉각 시장에서 약 20%, UPS 시장에서 약 15%의 글로벌 시장 점유율을 보유하고 있는 것으로 추정됩니다 (2023년 기준). 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - E+I Engineering 인수로 전력 관리 포트폴리오 강화 (2021년)
 - CoolTera Ltd 인수로 액체 냉각 기술 강화 (2023년)
 - 지속가능성 목표 강화 및 ESG 이니셔티브 발표 (2022년)
 - 5G 및 엣지 컴퓨팅 관련 솔루션 라인업 확대 (2023년)
 - AI 및 고밀도 컴퓨팅을 위한 냉각 솔루션 개발 강화 (2024년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)

@@ -20,6 +20,7 @@ weight: 861
 
 ## 영위 사업
 TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로, 주로 나트륨 냉각 고속 원자로인 Natrium 기술을 개발하고 있습니다. 안전하고 경제적이며 지속 가능한 원자력 에너지 솔루션을 제공하는 것이 목표입니다.
+TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로, 주로 나트륨 냉각 고속 원자로인 Natrium 기술을 개발하고 있습니다. 안전하고 경제적이며 지속 가능한 원자력 에너지 솔루션을 제공하는 것이 목표입니다.
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
 - 감속재 : 없음 / 냉각재 : 액체금속 소듐 
@@ -37,9 +38,6 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
     - 핵심 산업: 원자로 부품 제조, 핵연료 생산
     - 역할: 원자로 부품 및 연료 공급
     - 주요 기업: [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장), Framatome (프랑스, 비상장)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 - 원자로 설계 및 개발:
@@ -50,9 +48,6 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
     
     - TerraPower는 파트너사와 함께 원자로를 건설하고 운영할 계획입니다.
     - 대표 기업: Bechtel Corporation (미국, 비상장), GE Hitachi Nuclear Energy (미국/일본, 비상장)
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - Natrium 원자로 (345MWe 기본 출력, 최대 500MWe로 확장 가능)

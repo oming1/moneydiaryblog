@@ -47,13 +47,7 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 1. 후방산업:
     - 시추 장비 제조: National Oilwell Varco(US, [NOV](/company-analysis/nov/))
     - 철강 제조: U.S. Steel(US, [X](/company-analysis/x/))
-
-{{< adsense-infeed >}}
-
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
 
@@ -64,9 +58,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 석유 및 가스 추출
 4. 수송: Energy Transfer(US, [ET](/company-analysis/et/)) - 파이프라인 운영
 5. 정제: Valero Energy(US, [VLO](/company-analysis/vlo/)) - 석유 정제
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. FlexRig 시스템 (첨단 육상 시추 장비)
@@ -89,9 +80,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 2. Patterson-UTI Energy(US, PTEN)
 3. Precision Drilling(CA, PDS)
 4. Transocean(CH, RIG)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, H&P는 미국 육상 시추 시장에서 약 23%, 슈퍼스펙 시추 시장에서 약 37%의 점유율을 보유하고 있습니다.

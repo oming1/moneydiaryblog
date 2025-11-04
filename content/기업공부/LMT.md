@@ -24,9 +24,6 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 방산 및 군사 서비스
     - **역할**: 최종 소비자에게 방산 시스템 및 솔루션 제공
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/))
@@ -58,9 +55,6 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
     - 매출 비중: 전체 매출의 약 25% 차지.
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 Lockheed Martin은 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다. 특히 미국 국방부에 대한 의존도가 높습니다.
 ## 경쟁업체
 

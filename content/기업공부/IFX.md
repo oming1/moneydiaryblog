@@ -26,9 +26,6 @@ Infineon Technologies AG는 세계적인 반도체 및 시스템 솔루션 제�
 3. [마이크로컨트롤러](/industry-study/마이크로컨트롤러/)
 4. IoT(사물인터넷) 기술
 5. 산업용 반도체
-
-{{< adsense-infeed >}}
-
 Infineon은 특히 [자동차](/industry-study/자동차/) 산업에서 강세를 보이며, 전기차, 자율주행, 커넥티드 카 등을 위한 첨단 반도체 솔루션을 제공하고 있습니다.
 
 ## 주요제품
@@ -39,10 +36,8 @@ Infineon은 특히 [자동차](/industry-study/자동차/) 산업에서 강세�
 5. 센서 및 LED 드라이버
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Infineon은 전 세계적으로 사업을 영위하고 있으며, 특히 유럽, 북미, 아시아 지역에서 강세를 보이고 있습니다.
+## 경쟁업체
 ## 경쟁업체
 1. NXP Semiconductors ([NXPI](/company-analysis/nxpi/))
 2. STMicroelectronics ([STM](/company-analysis/stm/))
@@ -53,9 +48,6 @@ Infineon은 전 세계적으로 사업을 영위하고 있으며, 특히 유럽,
 TechInsights의 2023년 자동차 반도체 시장 조사에 따르면, Infineon은 약 14%의 시장 점유율로 1위를 차지했습니다
 
 특히 자동차용 마이크로컨트롤러 시장에서는 약 29%의 점유율로 세계 1위를 기록했습니다
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. 2023년 자동차 반도체 시장에서 점유율 1% 증가, 14% 달성 (2024년)

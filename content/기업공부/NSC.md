@@ -97,9 +97,6 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 ## 전방산업 / 후방산업
 
 **전방산업 (화물 운송 고객):**
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업: BMW, Ford, GM, Honda, Mercedes-Benz, Toyota, Volkswagen
 - 화학 산업: 각종 화학제품 생산업체
 - 금속 산업: 철강, 알루미늄 제조업체
@@ -128,6 +125,7 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - 장거리 철도 운송 서비스
 - 복합운송 서비스 (철도-트럭 연계)
 **고객 서비스 단계:**
+**고객 서비스 단계:**
 - 산업 개발 및 부지 제공 서비스
 - 물류 컨설팅 서비스
 - 공급망 최적화 서비스
@@ -155,9 +153,6 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 **목재:** 침목 교체 및 철도 인프라 건설용 자재
 
 **전력:** 신호시설, 야드 운영 등을 위한 전력 공급
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 고객 
@@ -263,9 +258,6 @@ Norfolk Southern Corporation은 1980년 설립되어 조지아주 애틀랜타�
 - Union Pacific의 인수 검토 보도 (7월)
 - 1분기 EPS $3.31 달성, 순이익 34.2% 증가
 - 동부 오하이오 사고 관련 보험금 수령 지속
-
-{{< adsense-infeed >}}
-
 **2024년:**
 
 - 10억 달러 인프라 투자 완료

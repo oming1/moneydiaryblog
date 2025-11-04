@@ -55,9 +55,6 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 ## 후방산업
 
 - **복합 소재 공급업체**: Hexcel Corporation(US, [HXL](/company-analysis/hxl/)), Toray Industries(JP)
-
-{{< adsense-infeed >}}
-
 - **제조 장비 공급업체**: Siemens(DE), ABB(CH)
     
 - **물류 및 운송 서비스**: 풍력 터빈 블레이드의 대규모 운송 지원 업체
@@ -78,9 +75,6 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 - **서비스 솔루션**: 풍력 터빈 유지보수 및 수리 서비스 (매출의 약 10%)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. GE Renewable Energy(US): 풍력 터빈 제조사
     
 2. Vestas Wind Systems(DK): 글로벌 풍력 발전 리더

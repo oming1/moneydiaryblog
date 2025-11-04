@@ -19,14 +19,13 @@ Sector: Industrials (산업재)
 Industry: Aerospace & Defense ([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Boeing은 상업용 항공기, [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/), 우주 및 보안시스템을 설계, 제조 및 판매하는 글로벌 항공우주 기업입니다. 주요 제품에는 여객기, 화물기, 군용 항공기 및 우주선이 포함됩니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
+전방산업:
+- 역할: 항공기 및 방산 시스템 사용
+- 항공사: Delta Air Lines (US, [DAL](/company-analysis/dal/))
+- 군사 계약자: Lockheed Martin (US, [LMT](/company-analysis/lmt/))
+후방산업:
 전방산업:
 - 역할: 항공기 및 방산 시스템 사용
 - 항공사: Delta Air Lines (US, [DAL](/company-analysis/dal/))
@@ -57,7 +56,4 @@ Boeing은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 2023년 기준 Boeing은 상업용 항공기 시장에서 약 40%의 점유율을 보유하고 있으며, 방산 분야에서도 주요 플레이어 중 하나로 간주됩니다. 최근 3년간의 추이는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
-
-{{< adsense-infeed >}}
-
 [FINVIZ - BA](https://finviz.com/quote.ashx?t=BA)

@@ -23,9 +23,6 @@ weight: 911
 ---
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
 1. 보험 서비스 (UnitedHealthcare)
@@ -64,9 +61,6 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 - 방대한 네트워크: 1억 명 이상의 가입자, 150만 개 병·의원, 66,000개 약국과 제휴
 
 - 데이터·AI: 수십억 건의 청구 데이터를 AI로 분석 → 비싼 치료·허위 청구 탐지, 비용 예측
-
-{{< adsense-infeed >}}
-
 - 재무 안정성: 매년 수천억 달러 매출, 강력한 현금 흐름 → 연구개발·인수·신사업에 투자 여력
 
 ---
@@ -191,9 +185,6 @@ UnitedHealth Group(UNH)는 크게 두 축으로 사업을 운영합니다.
 
 ---
 ### 관련 ETF
-
-{{< adsense-infeed >}}
-
 직접 관련 ETF:
 
 - IHF – iShares U.S. Healthcare Providers ETF IHF

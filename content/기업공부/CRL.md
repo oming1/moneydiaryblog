@@ -33,9 +33,6 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
         - Merck & Co. (미국, [MRK](/company-analysis/mrk/)) - 제약 제품 제공
 
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 실험 동물 공급 및 연구 모델
     - **역할**: Charles River의 서비스에 필요한 동물 모델 및 재료 공급
     - **주요 기업**:
@@ -48,9 +45,6 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
 - **전임상 연구 서비스**:
     - Charles River는 약물 개발 초기 단계에서 필요한 다양한 연구 서비스를 제공합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Covance (미국, LH) - 전임상 및 임상 시험 서비스 제공
         - WuXi AppTec (중국, 비상장) - 생명 과학 연구 서비스 제공
 
@@ -58,6 +52,8 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
     
     - 임상 시험을 위한 데이터 수집 및 분석 서비스를 제공합니다.
     - 대표 기업:
+        - ICON plc (아일랜드, ICLR) - 임상 연구 서비스 제공
+## 주요 제품
         - ICON plc (아일랜드, ICLR) - 임상 연구 서비스 제공
 ## 주요 제품
 - **전임상 시험 서비스**: 약물의 안전성과 효능을 평가하기 위한 연구입니다.

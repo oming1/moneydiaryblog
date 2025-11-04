@@ -21,15 +21,9 @@ weight: 917
 ## 영위사업
 
 Urban Outfitters, Inc.는 미국 필라델피아에 본사를 두고 있는 다국적 패션 및 라이프스타일 소매업체입니다. 이 회사는 주로 젊은 성인 소비자를 대상으로 한 여성 및 남성 의류, 신발, 액세서리, 뷰티 제품, 홈웨어를 판매합니다. Urban Outfitters는 또한 독특한 빈티지 및 리메이드 상품을 제공하며, 음악 관련 상품(주로 비닐 레코드 및 카세트)도 취급합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 - **전방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 패션 및 라이프스타일 제품 소비
     - **관련 기업**: Anthropologie (URBN의 자회사), Free People (URBN의 자회사)
     
@@ -39,16 +33,17 @@ Urban Outfitters, Inc.는 미국 필라델피아에 본사를 두고 있는 다�
     - **관련 기업**: Levi Strauss & Co. (US, 비상장), H&M (SE, HMB.ST)
 ## 밸류체인
 - **제품 소싱**: 다양한 브랜드 및 자체 브랜드 의류 및 액세서리 확보
+## 밸류체인
+- **제품 소싱**: 다양한 브랜드 및 자체 브랜드 의류 및 액세서리 확보
     - **대표 회사**: LVMH (FR, MC.PA) - 고급 브랜드 의류 및 액세서리
     - **대표 회사**: Inditex (ES, ITX.MC) - 다양한 패션 브랜드
     
 - **소매 운영**: 오프라인 매장 및 온라인 플랫폼 운영
     - **대표 회사**: ASOS (UK, ASC.L) - 온라인 패션 소매
     - **대표 회사**: Zalando (DE, ZAL.DE) - 온라인 패션 소매
+    - **대표 회사**: ASOS (UK, ASC.L) - 온라인 패션 소매
+    - **대표 회사**: Zalando (DE, ZAL.DE) - 온라인 패션 소매
 - **고객 서비스**: 고객 지원 및 쇼핑 경험 개선
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: Nordstrom (US, [JWN](/company-analysis/jwn/)) - 고급 백화점 및 고객 서비스
     - **대표 회사**: Macy's (US, [M](/company-analysis/m/)) - 백화점 및 고객 서비스
 
@@ -62,9 +57,6 @@ Urban Outfitters, Inc.는 미국 필라델피아에 본사를 두고 있는 다�
 ## 주요 판매국가
 
 Urban Outfitters는 미국, 캐나다, 영국 및 일부 유럽 국가에서 운영되고 있으며, 글로벌 온라인 쇼핑 플랫폼을 통해 더 넓은 시장에 접근하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - **Anthropologie (URBN의 자회사)** - 여성 의류 및 라이프스타일 제품

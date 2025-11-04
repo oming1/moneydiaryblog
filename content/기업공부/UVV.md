@@ -21,9 +21,6 @@ weight: 925
 ### 영위사업
 
 Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포장, 보관 및 배송을 담당합니다. 또한, 담배 제조에 사용되는 다양한 종류의 담배를 계약, 구매, 가공 및 판매합니다.
-
-{{< adsense-infeed >}}
-
 ### 전방산업 및 후방산업
 - **후방산업 (Upstream Industry)**:
     
@@ -34,10 +31,10 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
     - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
     - **마케팅 및 광고**: 담배 제품의 마케팅 및 광고. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), [Japan Tobacco](/company-analysis/japan-tobacco/) International (일본, 2914).
 ### 밸류체인
+    - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
+    - **마케팅 및 광고**: 담배 제품의 마케팅 및 광고. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), [Japan Tobacco](/company-analysis/japan-tobacco/) International (일본, 2914).
+### 밸류체인
 1. **농업 (Agriculture)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 잎 재배 및 수확.
     - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
 
@@ -70,9 +67,6 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
 - **주요 판매국가**: 미국, 유럽, 아시아 (2023년 기준)
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. **Philip Morris International (미국, [PM](/company-analysis/pm/))**
     - **경쟁 제품**: Marlboro (궐련형 담배), IQOS (궐련형 전자담배)
     - **시장점유율**: 글로벌 시장 점유율 14% (2019년 기준)

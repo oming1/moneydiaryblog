@@ -23,9 +23,6 @@ weight: 288
 ---
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우드/) 기반 비즈니스 인텔리전스(BI)·데이터 애널리틱스 플랫폼 기업으로, 다양한 [SaaS](/industry-study/saas/)·온프렘 소스에서 데이터를 수집·정제·시각화해 경영 의사결정을 지원합니다. 창업자 조쉬 제임스(Omniture 공동창업자)는 “임원용 대시보드와 현업의 셀프서비스 분석”에 초점을 맞춘 ‘모바일 퍼스트’ BI를 지향해 왔습니다.
 
 - 주요 제품 및 서비스
@@ -36,9 +33,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
     - Analyzer/대시보드: 카드 기반 시각화, 경영지표(OKR/KPI) 모니터링, 경보 알림.
 
     - Domo Apps/도메인 앱: 특정 업무(영업, 마케팅, 공급망 등)를 위한 데이터 앱 템플릿과 맞춤형 앱 개발.
-
-{{< adsense-infeed >}}
-
     - Embedded Analytics(Domo Everywhere): 파트너·고객 포털에 분석 뷰를 임베드, 외부 수익화 모델 지원.
 
     - Workflows/오케스트레이션: 데이터 이벤트 기반 업무 자동화(승인·에스컬레이션).
@@ -137,9 +131,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - Domo Platform(코어 BI/시각화/협업) – 사용처: 전사 KPI/운영 대시보드, 매출비중: 비공개(확인 필요), 경쟁사 [MSFT](/company-analysis/msft/)(Power BI), [CRM](/company-analysis/crm/)(Tableau), [GOOGL](/company-analysis/googl/)(Looker)
 
 - Domo Everywhere(임베디드 분석) – 사용처: 고객/파트너 포털 임베딩, 경쟁사 [MSFT](/company-analysis/msft/)(Embedded)
-
-{{< adsense-infeed >}}
-
 - Magic ETL/Workflows – 사용처: 데이터 정제·업무 자동화, 경쟁사 AYX(Alteryx), [SNOW](/company-analysis/snow/)(파이프라인 파트너)
 
 - 데이터 앱/마켓플레이스 – 사용처: 도메인별 즉시 배포, 경쟁사 THOUGHT(ThoughtSpot, 비상장), [MSTR](/company-analysis/mstr/)(MicroStrategy)
@@ -157,9 +148,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 ### 주요 고객
 
 정보 없음(공식 케이스 공개 범위 외 비공개). 산업별로 리테일/제조/금융/미디어/헬스케어 등 엔터프라이즈 고객 기반.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가

@@ -23,10 +23,10 @@ weight: 330
 Edgewise Therapeutics는 근육 질환 치료제를 발견, 개발 및 상업화하는 생명공학 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **근육 질환 치료제**: 근육 디스트로피 및 기타 심각한 근육 질환을 치료하기 위한 정밀 의약품 개발.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
+- **전방산업**: Edgewise의 치료제를 사용하는 주요 기업들병원 및 의료 기관이 있습니다.
+- **후방산업**: Edgewise에 연구 및 개발 도구를 공급하는 주요 기업들
+	-  Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Bio-Rad Laboratories (US, BIO) 등이 있습니다.
 - **전방산업**: Edgewise의 치료제를 사용하는 주요 기업들병원 및 의료 기관이 있습니다.
 - **후방산업**: Edgewise에 연구 및 개발 도구를 공급하는 주요 기업들
 	-  Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Bio-Rad Laboratories (US, BIO) 등이 있습니다.
@@ -34,22 +34,16 @@ Edgewise Therapeutics는 근육 질환 치료제를 발견, 개발 및 상업화
 
 - **EDG-5506**: 경구용 소분자 치료제, 근육 디스트로피 치료 (임상 2상 진행 중)
 - **EDG-7500**: 경구용 소분자 치료제, 비대성 심근병증 치료 (임상 1상 진행 중).
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 Edgewise Therapeutics는 주로 미국에서 활동하고 있으며, 글로벌 시장으로의 확장을 계획하고 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Sarepta Therapeutics (US, SRPT)**: 근육 디스트로피 치료제
 - **Solid Biosciences (US, SLDB)**: 근육 디스트로피 치료제
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제, 근육 질환 치료제 포함.
+#### 산업 내 글로벌 시장 점유율
+
+Edgewise Therapeutics는 현재 임상 단계의 회사로, 상업화된 제품이 없어 시장 점유율 데이터는 제공되지 않습니다.
 #### 산업 내 글로벌 시장 점유율
 
 Edgewise Therapeutics는 현재 임상 단계의 회사로, 상업화된 제품이 없어 시장 점유율 데이터는 제공되지 않습니다.

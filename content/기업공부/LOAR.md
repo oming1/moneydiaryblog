@@ -22,15 +22,9 @@ weight: 525
 [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/)(Aerospace and Defense)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Loar Holdings Inc.는 항공우주 및 방위 산업을 위한 다양한 부품을 설계, 제조, 판매하는 글로벌 기업입니다. 주요 제품으로는 기체 구조 부품, 항공 전자 제품, 복합 재료, 제동 시스템 부품, 제빙 및 방빙 시스템, 전자 기계 부품, 공학적 재료, 비행 제어 시스템, 유체 및 운동 제어 시스템, 환경 제어 시스템 등이 있습니다.회사는 전 세계 주요 항공기 및 방위 시스템 제조업체들과 긴밀한 관계를 유지하고 있으며, 고도의 기술력과 품질 관리를 바탕으로 안정적인 성장을 이어가고 있습니다. 최근에는 Applied Avionics 인수를 통해 사업 영역을 확장하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 Loar Holdings의 핵심 경쟁력은 다음과 같습니다:
 
 1. 기술력: 항공우주 및 방위 산업에 특화된 고도의 기술력 보유
@@ -91,9 +85,6 @@ Loar Holdings는 글로벌 기업으로, 구체적인 국가별 매출 비중은
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. Applied Avionics 인수 완료 (3억 8,500만 달러, 2024년)
 2. 2024년 3분기 총 매출 8.7% 증가한 1억 350만 달러 기록 (2024년)
 3. 2024년 IPO 성공적 완료 및 NYSE 상장 (2024년)
@@ -105,9 +96,6 @@ Loar Holdings는 글로벌 기업으로, 구체적인 국가별 매출 비중은
 구체적인 주요 주주 정보는 제공되지 않았습니다.
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. iShares U.S. Aerospace & Defense ETF - ITA
 2. SPDR S&P Aerospace & Defense ETF - XAR
 3. Invesco Aerospace & Defense ETF - [PPA](/industry-study/ppa/)

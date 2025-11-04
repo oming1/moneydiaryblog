@@ -21,9 +21,6 @@ weight: 857
 산업: 소프트웨어
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 및 지식 근로자를 위한 협업 및 생산성 소프트웨어를 설계, 개발 및 판매하는 글로벌 기업입니다. 1002년 호주에서 설립되어 현재는 미국에 본사를 두고 있습니다.주요 제품 및 서비스:
 
 1. Jira: 프로젝트 및 이슈 추적 소프트웨어
@@ -54,9 +51,6 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 데이터베이스: MongoDB(US, [MDB](/company-analysis/mdb/)), PostgreSQL
 - 보안 솔루션: Okta(US, [OKTA](/company-analysis/okta/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 11. 소프트웨어 개발: Atlassian(US, [TEAM](/company-analysis/team/)) (협업 도구 개발)
@@ -66,9 +60,6 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 15. 고객 지원: Atlassian(US, [TEAM](/company-analysis/team/)) (기술 지원 및 교육)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Jira Software: 애자일 프로젝트 관리, 매출의 약 45% (2024년 기준)
 - Confluence: 팀 협업 및 지식 관리, 매출의 약 20% (2024년 기준)
 - Trello: 작업 관리 및 협업, 매출의 약 15% (2024년 기준)
@@ -84,9 +75,6 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 - Uber(US, [UBER](/company-analysis/uber/)): 차량 공유 및 배달 서비스
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 영국, 독일, 프랑스, 호주, 일본, 캐나다, 인도, 브라질, 네덜란드
 
 ## 경쟁업체

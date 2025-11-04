@@ -31,9 +31,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 5. T-Mobile 및 Metro by T-Mobile 브랜드 운영
 
 또한 기업 고객을 위한 솔루션과 IoT 서비스도 제공하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -61,10 +58,10 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 ## 주요 판매국가
 
 미국, 푸에르토리코, 미국령 버진아일랜드
+## 주요 판매국가
+
+미국, 푸에르토리코, 미국령 버진아일랜드
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - AT&T(US, [T](/company-analysis/t/))
 - Verizon Communications(US, [VZ](/company-analysis/vz/))
 - DISH Network(US, [DISH](/company-analysis/dish/))
@@ -72,9 +69,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 ## 산업 내 글로벌 시장 점유율
 
 2024년 9월 30일 기준 1억 2,750만 명의 가입자를 보유하고 있으며, 미국 내 2위 무선 통신사업자입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Sprint 인수 완료로 5G 네트워크 확장 가속화 (2020)

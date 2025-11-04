@@ -20,18 +20,12 @@ weight: 392
 
 **영위사업**: GSK (GlaxoSmithKline)은 주로 백신, 전문 의약품, 일반 의약품을 연구, 개발, 제조 및 판매하는 글로벌 제약 회사입니다. 주요 사업 분야는 감염병, HIV, 호흡기 질환, 종양학 등입니다.
 **전방/후방산업**:
-
-{{< adsense-infeed >}}
-
 - **전방산업**: 의료 서비스 및 제약 산업
     - **핵심 산업**: 병원, 클리닉, 약국
     - **관련 기업**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))
 - **후방산업**: 화학 및 원료 공급 산업
     - **핵심 산업**: 원료 공급업체, 화학회사
     - **관련 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 
 - **연구 및 개발**: 신약 및 백신 개발을 위한 연구
@@ -43,9 +37,6 @@ weight: 392
 - **유통 및 판매**: 글로벌 네트워크를 통해 제품을 유통하고 판매
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), McKesson Corporation (미국, [MCK](/company-analysis/mck/))
 **주요제품**:
-
-{{< adsense-infeed >}}
-
 - **Shingrix**: 대상포진 백신 (2023년 매출 비중: 약 20%)
 - **Trelegy Ellipta**: 만성 폐쇄성 폐질환(COPD) 치료제 (2023년 매출 비중: 약 15%)
 - **HIV 치료제**: 다양한 HIV 치료제 (2023년 매출 비중: 약 25%)
@@ -61,9 +52,6 @@ weight: 392
 **산업 내 글로벌 시장 점유율**:
 
 - GSK는 글로벌 제약 시장에서 주요 플레이어 중 하나로, 2023년 기준 약 5%의 시장 점유율을 차지했습니다.
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈**:
 
 - **COVID-19 백신 개발 및 협력** (2021년)

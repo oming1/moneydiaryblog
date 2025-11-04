@@ -31,6 +31,9 @@ Comstock Resources, Inc.(CRK)는 미국의 독립 석유([원유](/industry-stud
 Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville 셰일과 Bossier 셰일 지역에서 사업을 영위하고 있습니다.
 
 ## 핵심 경쟁력
+Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville 셰일과 Bossier 셰일 지역에서 사업을 영위하고 있습니다.
+
+## 핵심 경쟁력
 1. 전략적 자산 위치: 주요 천연가스 생산 지역인 Haynesville 셰일에 집중
 2. 저비용 생산: 효율적인 운영을 통한 경쟁력 있는 생산 비용 유지
 3. 천연가스 중심 포트폴리오: LNG 수출 증가에 따른 수혜 기대
@@ -38,9 +41,6 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
 5. 기술 혁신: 수평 시추 및 수압 파쇄 기술 활용을 통한 생산성 향상
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
@@ -62,9 +62,6 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
 2. 석유 (소량)
 
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
 3. LNG 수출 터미널 운영사

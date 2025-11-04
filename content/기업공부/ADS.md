@@ -19,13 +19,7 @@ weight: 30
 산업: 의류, 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Adidas는 운동화, 스포츠웨어, 액세서리 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
-
-{{< adsense-infeed >}}
-
 ## 주요제품 및 서비스
 
 - 운동화
@@ -34,18 +28,12 @@ Adidas는 운동화, 스포츠웨어, 액세서리 등 스포츠 관련 제품�
 - 스포츠 장비 (공, 피트니스 용품 등)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계적으로 사업을 영위하며, 주요 시장으로는 유럽, 북미, 중국 등이 있습니다.
 ## 경쟁업체
 
 - Nike(US, [NKE](/company-analysis/nke/))
 - Puma(독일, [PUM](/company-analysis/pum/))
 - Under Armour(US, [UAA](/company-analysis/uaa/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Adidas는 Nike에 이어 세계 2위의 스포츠용품 제조업체입니다.
@@ -58,6 +46,9 @@ Adidas는 Nike에 이어 세계 2위의 스포츠용품 제조업체입니다.
 - 지속가능성 이니셔티브 강화: 재활용 소재 사용 확대 및 탄소 배출 감축 목표 설정
 
 ## 재무 정보 (2023년 기준)
+- 매출액: 약 214억 유로
+- 직원 수: 약 58,564명
+## 역사적 배경
 - 매출액: 약 214억 유로
 - 직원 수: 약 58,564명
 ## 역사적 배경

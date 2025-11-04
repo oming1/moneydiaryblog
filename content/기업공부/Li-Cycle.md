@@ -23,15 +23,9 @@ Li-Cycle Holdings Corp.는 [리튬이온 배터리](/industry-study/리튬이온
 ### 전방/후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 전기차 제조업체: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/))
 - 배터리 제조업체: Panasonic (JP, 6752), [LG화학](/industry-study/lg화학/) (KR, 051910)
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - 원료 공급업체: Glencore (CH, [GLEN](/company-analysis/glen/)), Umicore (BE, UMI)
 - 재활용 기술 제공업체: American Manganese (CA, AMY), Aqua Metals (US, AQMS)
 ### 주요제품
@@ -52,13 +46,13 @@ Li-Cycle Holdings Corp.는 [리튬이온 배터리](/industry-study/리튬이온
 ### 산업 내 글로벌 시장 점유율
 
 [Li-Cycle Holdings Corp.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.crunchbase.com/organization/li-cycle)[3](https://www.crunchbase.com/organization/li-cycle).
+### 산업 내 글로벌 시장 점유율
+
+[Li-Cycle Holdings Corp.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.crunchbase.com/organization/li-cycle)[3](https://www.crunchbase.com/organization/li-cycle).
 ### 최근 3년 내 주요 이슈
 
 - **Rochester Hub 프로젝트:** Rochester Hub 프로젝트의 건설 일시 중단 (2023년)
 - **신규 계약 체결:** 여러 주요 전기차 제조업체와의 신규 계약 체결 (2022년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)
-
-{{< adsense-infeed >}}
-
 1. 기본정보
 	1. 후처리 공장 23년 가동 목표

@@ -19,9 +19,6 @@ weight: 293
 - **Industry:** Restaurants (레스토랑)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, 주요 브랜드로는 Olive Garden, LongHorn Steakhouse, Cheddar’s Scratch Kitchen, Yard House, The Capital Grille, Seasons 52, Bahama Breeze, Eddie V’s 등이 있습니다.
 
 ### 전방/후방산업
@@ -33,9 +30,6 @@ Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, �
     - **핵심 기업:** Sysco Corporation (미국, [SYY](/company-analysis/syy/)), US Foods Holding Corp. (미국, [USFD](/company-analysis/usfd/))
 
 ### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **농산물 생산:** 농산물 재배 및 수확
     - **대표 회사:** Tyson Foods (미국, [TSN](/company-analysis/tsn/)), Cargill (비상장)
 - **식품 가공:** 원재료 가공 및 포장
@@ -44,6 +38,7 @@ Darden Restaurants, Inc.는 다양한 레스토랑 브랜드를 운영하며, �
     - **대표 회사:** Sysco Corporation (미국, [SYY](/company-analysis/syy/)), US Foods Holding Corp. (미국, [USFD](/company-analysis/usfd/))
 - **레스토랑 운영:** 최종 소비자에게 식사 제공
     - **대표 회사:** Darden Restaurants (미국, [DRI](/company-analysis/dri/)), Brinker International (미국, EAT)
+### 주요제품
 ### 주요제품
 - **Olive Garden:** 이탈리안 요리
 - **LongHorn Steakhouse:** 스테이크 및 아메리칸 요리

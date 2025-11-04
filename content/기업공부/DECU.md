@@ -47,9 +47,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 - **자산 증가**: 순자산 증가에 따른 수수료 수익 확대
 
 **투자 전략:**
-
-{{< adsense-infeed >}}
-
 - 기초 자산: SPDR S&P 500 ETF Trust (SPY) 100% 추종
 - 보호 수준: 15% 하락 보호 (수수료 차감 전 기준)
 - 상승 참여: 무제한 상승 잠재력
@@ -102,9 +99,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 ---
 
 ## 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (ETF 활용 기관):**
 
 - 자산운용사: BlackRock(US, [BLK](/company-analysis/blk/)), Vanguard(US, VTI) - 포트폴리오 구성 요소
@@ -132,9 +126,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 - 증권사: Charles Schwab(US, [SCHW](/company-analysis/schw/)), Fidelity - 개인 투자자 판매
 - 기관 영업: 직접 기관 투자자 대상 판매
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 보유 자산
@@ -178,6 +169,7 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 **Innovator ETFs**: Defined Outcome ETF 시리즈 - 정의된 결과 ETF 선도업체
 **First Trust**: Buffer ETF 제품군 - 다양한 버퍼 수준 제공
+**First Trust**: Buffer ETF 제품군 - 다양한 버퍼 수준 제공
 **Pacer ETFs**: Swan Defined Risk ETF - 리스크 관리 ETF 전문
 
 ---
@@ -201,9 +193,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 - 시장 변동성 증가에 따른 방어적 투자 수요 증가
 - 무상한 상승 구조의 차별화된 경쟁력
 - 알리안츠의 글로벌 브랜드 인지도 및 유통망
-
-{{< adsense-infeed >}}
-
 **위험 요소:**
 
 - 신규 출시 상품으로 인한 시장 인지도 부족

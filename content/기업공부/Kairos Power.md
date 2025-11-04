@@ -39,16 +39,10 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
     - 주요 기업: [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장), Framatome (프랑스, 비상장)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - 원자로 설계 및 개발:
     
     - Kairos Power는 자체적으로 KP-FHR 기술을 개발합니다.
     - 대표 기업: NuScale Power (미국, [SMR](/industry-study/smr/)), [TerraPower](/company-analysis/terrapower/) (미국, 비상장)
-
-{{< adsense-infeed >}}
-
 - 원자로 건설 및 운영:
     
     - Kairos Power는 자사의 원자로를 건설하고 운영할 계획입니다.

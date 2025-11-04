@@ -19,26 +19,23 @@ weight: 336
 - Industry: Oil & Gas E&P (석유 및 가스 탐사 및 생산)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Diamondback Energy, Inc.는 텍사스주 미들랜드에 본사를 둔 탄화수소 탐사 및 생산 회사입니다. 주로 퍼미안 분지에서 석유, [천연가스](/industry-study/천연가스/), 천연가스 액체의 탐사, 개발, 생산에 종사합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 - 전방산업:
     
     - 핵심 산업 및 역할: 정유, 석유화학
     - 관련 기업: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/))
-
-{{< adsense-infeed >}}
-
 - 후방산업:
     
     - 핵심 산업 및 역할: 석유 및 가스 장비 및 서비스
     - 관련 기업: Schlumberger (US, [SLB](/company-analysis/slb/)), Halliburton (US, [HAL](/company-analysis/hal/))
+## 밸류체인
+
+- 탐사 및 생산: 석유 및 천연가스 탐사, 시추, 생산
+    - 대표 회사: ConocoPhillips (US, [COP](/company-analysis/cop/)) - 석유 및 천연가스 탐사 및 생산
+    
+- 운송: 파이프라인을 통한 석유 및 가스 운송
 ## 밸류체인
 
 - 탐사 및 생산: 석유 및 천연가스 탐사, 시추, 생산

@@ -29,9 +29,6 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 3. 원자력 연료 운송: 고용량 HALEU 연료 운송 바스켓 독점 라이선스 보유
 4. 우주 원자력 응용: LOKI MMR 시스템 등 우주용 원자력 기술 개발
 5. 원자력 산업 컨설팅 서비스
-
-{{< adsense-infeed >}}
-
 최근 주요 이슈로는 Ultra Safe Nuclear로부터 주요 특허 포트폴리오를 인수하여 지적 재산권을 강화했습니다. 또한 르완다, 토고 등과 MOU를 체결하고 미국 정부 및 기관들과 협력을 확대하고 있습니다.
 
 ## 핵심 경쟁력
@@ -41,6 +38,9 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 3. 강력한 특허 포트폴리오: 최근 인수한 특허들로 기술적 우위 확보
 4. 글로벌 파트너십: 정부 및 기업들과의 전략적 제휴를 통한 시장 확대
 5. 우수한 기술 인력: 세계적 수준의 원자력 공학 팀 보유
+## 전방/후방산업
+
+전방산업:
 ## 전방/후방산업
 
 전방산업:
@@ -80,13 +80,7 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 ## 주요 판매국가
 
 미국을 중심으로 르완다, 토고 등 아프리카 국가들과 협력 확대 중
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - NuScale Power(US, [SMR](/industry-study/smr/)): 소형 모듈형 원자로
 - X-energy(US, [XE](/company-analysis/xe/)): 고온가스냉각로
 - TerraPower(비상장): 진행파 원자로
@@ -105,9 +99,6 @@ Nano Nuclear Energy는 아직 제품 상용화 전 단계로, 정확한 시장 �
 - 테네시주 오크리지에 원자력 기술 본부 설립 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Clarfeld Financial Advisors LLC (2.21%)
 - BlackRock Fund Advisors (0.64%)
 - Perigon Wealth Management LLC (0.33%)

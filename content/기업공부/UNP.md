@@ -23,9 +23,6 @@ weight: 912
 Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 중 하나로, 약 32,000마일의 철도 네트워크를 미국 서부 및 중서부 23개 주에 걸쳐 운영하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **벌크화물 운송**: 곡물, 석탄, 비료 등 대량 원자재 수송
-
-{{< adsense-infeed >}}
-
 2. **화학 및 에너지 운송**: 화학제품, 원유, LNG, 플라스틱 등 에너지 관련 화물 수송
     
 3. **소비재 및 자동차 운송**: 제조·산업 완제품, 자동차, 부품 등 수송
@@ -53,9 +50,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 - **곡물·농업**: Archer Daniels Midland(US, ADM), Bunge(US, BG)
     
 - **에너지·화학**: ExxonMobil(US, [XOM](/company-analysis/xom/)), Dow Inc(US, [DOW](/company-analysis/dow/))
-
-{{< adsense-infeed >}}
-
 - **자동차**: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/))
     
 - **물류/소매**: Walmart(US, [WMT](/company-analysis/wmt/)), Costco(US, [COST](/company-analysis/cost/))
@@ -107,9 +101,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 경쟁업체
 
 1. BNSF Railway(비상장, Berkshire Hathaway 자회사): 미국 서부 최대 철도사
-
-{{< adsense-infeed >}}
-
 2. CSX Corporation(US, CSX): 미국 동부 중심 화물 철도
     
 3. Norfolk Southern(US, [NSC](/company-analysis/nsc/)): 미국 동남부·중남부 철도
@@ -121,9 +112,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 산업 내 글로벌 시장 점유율
 
 Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 점유율을 보유하고 있습니다. 북미 전체 화물 철도 시장에서는 약 17% 내외의 점유율로 1~2위를 다투고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. 자동화 및 디지털화 플랫폼 강화로 운영 효율성 향상 (2023~2024년)

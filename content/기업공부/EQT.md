@@ -39,10 +39,8 @@ EQT는 약 1.8백만 에이커의 광대한 지역에서 19.8조 입방피트에
 4. 전략적 자산 위치: 주요 소비 시장 및 LNG 수출 터미널과의 근접성
 5. 기술 혁신: 지속적인 운영 효율성 개선 및 환경 영향 최소화 노력
 ## 전방/후방산업
+## 전방/후방산업
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
@@ -64,15 +62,9 @@ EQT는 약 1.8백만 에이커의 광대한 지역에서 19.8조 입방피트에
 2. 천연가스 액체(NGL) (2023년 매출 비중: 8.5%)
 3. 원유 (2023년 매출 비중: 1.9%)
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
 3. 천연가스 마케터
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 EQT Corporation은 주로 미국 시장에서 사업을 영위하고 있습니다.
@@ -85,9 +77,6 @@ EQT Corporation은 주로 미국 시장에서 사업을 영위하고 있습니�
 5. Coterra Energy(US, [CTRA](/company-analysis/ctra/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 EQT Corporation은 미국 최대의 천연가스 생산업체이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈

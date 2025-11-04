@@ -29,9 +29,6 @@ weight: 2
 		담수화 가능: SMR ✅ / 태양광 ❌
 		
 		암 치료용 방사성 동위원소 생산 가능: SMR ✅ / 태양광 ❌
-
-{{< adsense-infeed >}}
-
 		전력망에 직접 연결 가능, 전력 변환 장치 불필요: SMR ✅ / 태양광 ❌
 		
 		화석연료와 경쟁 가능한 대량의 저렴한 전력 생산 가능: SMR ✅ / 태양광 ❌
@@ -40,9 +37,6 @@ weight: 2
 
 ---
 ## 산업 섹터
-
-{{< adsense-infeed >}}
-
 - Sector: Energy(에너지)
 - Industry: Nuclear Power([원자력 발전](/industry-study/원자력-발전/))
 
@@ -96,13 +90,7 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
     
     - NuScale의 SMR을 활용한 전력 생산을 지원합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Dominion Energy (미국, [D](/company-analysis/d/) ) - 전력 생산 및 유틸리티 서비스 제공
-
-{{< adsense-infeed >}}
-
 ---
 ## 주요 제품
 
@@ -128,6 +116,7 @@ NuScale Power는 미국을 주요 시장으로 하며, 향후 국제 시장으�
 
 ---
 ## 산업 내 글로벌 시장 점유율
+NuScale은 글로벌 소형 모듈식 원자로(SMR) 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 NuScale은 글로벌 소형 모듈식 원자로(SMR) 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 ---
 ## 최근 3년 내 주요 이슈

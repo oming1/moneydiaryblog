@@ -93,9 +93,6 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 - **지속 가능성:** LNG 선박 도입으로 환경 우위.
 - **비용 관리:** 임대 선박 전략으로 유연성.
 - **지역 전문성:** 중동 기반으로 지정학적 적응력.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 핵심 기술
@@ -125,9 +122,6 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 - 물류: 공급망 회사.
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - 연료: Shell(US, SHEL).
 - 선박: Hyundai Heavy(KR).
 
@@ -152,6 +146,9 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 제품
+- **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
+- **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
+- **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.
 - **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
 - **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
 - **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.

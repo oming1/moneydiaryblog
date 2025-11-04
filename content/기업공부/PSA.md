@@ -54,9 +54,6 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 ## 주요 판매국가
 
 미국, 유럽 (Shurgard Self Storage SA를 통해)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Extra Space Storage(US, EXR): 셀프 스토리지 시설
@@ -82,13 +79,7 @@ Public Storage는 2024년 기준 미국 셀프 스토리지 시장에서 약 10%
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - Cohen & Steers Capital Management (3.26%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Vanguard Real Estate ETF - VNQ
 - iShares U.S. Real Estate ETF - IYR
 - Real Estate Select Sector SPDR Fund - XLRE

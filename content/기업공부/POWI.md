@@ -22,14 +22,10 @@ Power Integrations, Inc.(POWI)는 고전압 전력 변환을 위한 반도체 �
 
 ## 영위사업
 Power Integrations는 고전압 전력 변환 시장에 특화된 반도체 기업으로, AC-DC 전원 공급 장치, LED 조명, 가전제품 및 산업용 애플리케이션에 사용되는 브러시리스 DC 모터, 태양광 및 풍력 에너지, 전기 자동차, DC 송전선 및 산업용 모터에 사용되는 게이트 드라이버 등을 위한 혁신적인 제품을 개발합니다. 주요 사업 영역은 고집적 전력 변환 IC 설계, 개발, 제조 및 마케팅입니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
+- 반도체 제조 장비 업체: Applied Materials(US, [AMAT](/company-analysis/amat/)), ASML Holding(NL, [ASML](/company-analysis/asml/))
+- 웨이퍼 제조업체: Shin-Etsu Chemical(JP, 4063.T)
 - 반도체 제조 장비 업체: Applied Materials(US, [AMAT](/company-analysis/amat/)), ASML Holding(NL, [ASML](/company-analysis/asml/))
 - 웨이퍼 제조업체: Shin-Etsu Chemical(JP, 4063.T)
 ## 전방산업
@@ -52,9 +48,6 @@ Power Integrations는 고전압 전력 변환 시장에 특화된 반도체 기�
 - LYTSwitch: LED 조명용 IC
 - BridgeSwitch: 브러시리스 DC 모터 드라이버 IC
 - SCALE: 게이트 드라이버 IC
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 중국, 유럽, 아시아 기타 지역
@@ -64,9 +57,6 @@ Power Integrations는 고전압 전력 변환 시장에 특화된 반도체 기�
 - Texas Instruments(US, [TXN](/company-analysis/txn/)): 아날로그 및 임베디드 프로세싱 제품
 - ON Semiconductor(US, [ON](/company-analysis/on/)): 전력 관리 및 반도체 솔루션
 - STMicroelectronics(CH, [STM](/company-analysis/stm/)): 광범위한 전자 응용 제품
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.

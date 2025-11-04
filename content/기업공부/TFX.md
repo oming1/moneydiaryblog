@@ -33,6 +33,12 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 4. 높은 수준의 품질 관리 및 규제 준수 시스템
     
 5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
+2. 지속적인 연구개발 투자를 통한 혁신적인 제품 개발 (2023년 R&D 투자액 1.2억 달러)
+    
+3. 글로벌 영업 및 유통 네트워크 (135개국 이상에서 사업 운영)
+4. 높은 수준의 품질 관리 및 규제 준수 시스템
+    
+5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
 ## 전방/후방산업
 
 전방산업:
@@ -94,9 +100,6 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 1. Medtronic(US, [MDT](/company-analysis/mdt/)): 다양한 의료기기 제조
     
 2. Becton Dickinson(US, [BDX](/company-analysis/bdx/)): 의료기기 및 실험실 장비
-
-{{< adsense-infeed >}}
-
 3. Smiths Medical(US, SMIN): 의료기기 및 장비
     
 4. B. Braun(DE, B. Braun): 의료 및 제약 제품
@@ -126,9 +129,6 @@ Teleflex는 여러 의료기기 분야에서 주요 플레이어 중 하나로, 
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares U.S. Medical Devices ETF - IHI

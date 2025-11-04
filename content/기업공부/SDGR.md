@@ -22,18 +22,12 @@ weight: 777
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 신약 개발 및 재료 응용 분야에서 새로운 분자를 발견하는 데 사용되는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 소프트웨어: 생명과학 및 재료과학 산업에서 약물 발견을 혁신하기 위한 소프트웨어 판매
 2. 신약 발견: 내부적으로 그리고 협력을 통해 전임상 및 임상 프로그램의 다양한 포트폴리오 구축
 
 주요 파이프라인으로는 SGR-1505(MALT1 억제제), SGR-2921(CDC7 억제제), SGR-3515(WEE1 억제제) 등이 있습니다. 회사의 소프트웨어는 전 세계 1,760개 이상의 학술 기관에서 연구자들에 의해 사용되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 혁신적인 물리학 기반 컴퓨터 플랫폼: 분자 발견 및 약물 개발 과정을 가속화
@@ -53,9 +47,6 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 3. 학술 기관: Harvard University, MIT
 4. 정부 연구소: National Institutes of Health(NIH)
 5. 재료 과학 기업: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 유럽, 일본, 중국, 한국 등 글로벌 시장

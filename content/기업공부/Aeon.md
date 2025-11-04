@@ -18,9 +18,6 @@ weight: 35
 **산업 (Industry):** 소매 (Retail)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Aeon Co., Ltd.는 일본 및 국제적으로 다양한 소매 서비스를 제공하는 회사입니다. 주요 사업으로는 슈퍼마켓, 할인점, 편의점, 소규모 슈퍼마켓, 전문점, 약국, 전자상거래 등이 있습니다
 
 ### 전방/후방산업
@@ -30,9 +27,6 @@ Aeon Co., Ltd.는 일본 및 국제적으로 다양한 소매 서비스를 제�
 - **전자상거래:** Rakuten (JP, 4755), Amazon (US, [AMZN](/company-analysis/amzn/))
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - **물류업체:** Yamato Holdings (JP, 9064), Sagawa Express (JP, 9069)
 - **제조업체:** Unicharm (JP, 8113), Kao Corporation (JP, 4452)
 

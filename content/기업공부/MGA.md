@@ -50,9 +50,6 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 배터리 제조: LG Energy Solution(KR, 373220), CATL(CN, 300750)
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 6. 원자재 조달: ArcelorMittal(LU, [MT](/company-analysis/mt/)) (철강 공급)
 7. 부품 설계: Magna International(CA, [MGA](/company-analysis/mga/)) (자동차 부품 설계)
 8. 부품 제조: Magna International(CA, [MGA](/company-analysis/mga/)) (다양한 자동차 부품 생산)
@@ -60,9 +57,6 @@ Magna International Inc.(NYSE: MGA)는 캐나다에 본사를 둔 세계 최대�
 10. OEM 공급: General Motors(US, [GM](/company-analysis/gm/)) (완성차 제조사에 부품 공급)
 11. 애프터마켓: AutoZone(US, [AZO](/company-analysis/azo/)) (교체용 부품 유통)
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Body Exteriors & Structures: 차체 구조, 외장 시스템, 매출의 약 40% (2024년 기준)
 - Power & Vision: 파워트레인, 전기화 시스템, 매출의 약 30% (2024년 기준)
 - Seating Systems: 시트 시스템, 매출의 약 20% (2024년 기준)
@@ -101,9 +95,6 @@ Magna International은 2024년 기준 글로벌 자동차 부품 시장에서 �
 - BMW와 차세대 전기차 플랫폼 공동 개발 계약 체결 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (3.91%)
 - BlackRock (3.20%)
 - Beutel, Goodman & Company Ltd. (2.55%)

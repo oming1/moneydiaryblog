@@ -30,6 +30,7 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
     - **핵심 산업:** 화학 원료 생산, 제약 연구
     - **핵심 기업:** Merck & Co. (미국, [MRK](/company-analysis/mrk/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 ### 밸류체인
+### 밸류체인
 - **원료 생산:** 화학 원료 제조
     - **대표 회사:** Merck & Co. (미국, [MRK](/company-analysis/mrk/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 - **제품 개발:** 의약품 연구 및 개발
@@ -44,13 +45,7 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
 - **Veklury (Remdesivir, 렘데시비르):** COVID-19 치료제 (2023년 매출 비중: 약 20%)
 - **Epclusa:** 간염 치료제 (2023년 매출 비중: 약 15%)
 - **Yescarta:** 항암제 (CAR-T 세포 치료제)
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Gilead Sciences는 주로 미국, 유럽, 아시아 등에서 제품을 판매하고 있으며, 주요 매출 국가는 미국입니다. 최근 3년간의 매출 추이는 다음과 같습니다:
 
 - **2021년:** 미국 60%, 유럽 25%, 아시아 10%

@@ -38,9 +38,6 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 3. 광범위한 항체 라이브러리: 다양한 종에서 추출한 대규모 항체 데이터베이스 보유
 4. 빠른 개발 속도: 전통적인 방법보다 신속한 항체 발견 및 최적화 과정 제공
 5. 유연한 비즈니스 모델: 연구 수수료, 마일스톤 지급, 로열티 등 다양한 수익 구조 확보
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -48,16 +45,10 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 - 제약산업: Pfizer(US, [PFE](/company-analysis/pfe/)), Merck(US, [MRK](/company-analysis/mrk/))
 - 바이오테크: Moderna(US, [MRNA](/company-analysis/mrna/)), BioNTech(US, [BNTX](/company-analysis/bntx/))
 - 임상시험: IQVIA(US, [IQV](/company-analysis/iqv/)), Parexel International
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 실험실 장비: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Danaher(US, [DHR](/company-analysis/dhr/))
 - AI/ML 기술: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 바이오인포매틱스: Illumina(US, [ILMN](/company-analysis/ilmn/)), 10x Genomics(US, TXG)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 항체 발견 서비스: 파트너 기업을 위한 맞춤형 항체 발견, 매출의 약 70% (2024년 기준)
@@ -77,9 +68,6 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 미국, 캐나다, 유럽 주요국, 일본
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Adimab(비상장): 항체 발견 및 엔지니어링 플랫폼
 - Twist Bioscience(US, [TWST](/company-analysis/twst/)): 합성 DNA 및 항체 라이브러리
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)): 합성 생물학 및 바이오엔지니어링

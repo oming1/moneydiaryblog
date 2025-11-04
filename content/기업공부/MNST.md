@@ -43,18 +43,15 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), 7-Eleven
 - 편의점: Alimentation Couche-Tard(CA, ATD)
 - 식품 서비스: McDonald's(US, [MCD](/company-analysis/mcd/)), Starbucks(US, [SBUX](/company-analysis/sbux/))
+- 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), 7-Eleven
+- 편의점: Alimentation Couche-Tard(CA, ATD)
+- 식품 서비스: McDonald's(US, [MCD](/company-analysis/mcd/)), Starbucks(US, [SBUX](/company-analysis/sbux/))
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 원재료 공급: Cargill, Archer Daniels Midland(US, ADM)
 - 패키징: Ball Corporation(US, [BALL](/company-analysis/ball/)), Crown Holdings(US, CCK)
 - 향료 및 첨가물: International Flavors & Fragrances(US, IFF)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Monster Energy: 주력 에너지 음료 브랜드, 매출의 약 70% (2024년 기준)
 - Strategic Brands: NOS, Full Throttle 등, 매출의 약 20% (2024년 기준)
 - 기타 음료: RTD 커피, 차, 주스 등, 매출의 약 10% (2024년 기준)
@@ -89,9 +86,6 @@ Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 3
 - Loomis Sayles & Company L.P. (4.55%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Consumer Staples Select Sector SPDR Fund - XLP
 - Vanguard Consumer Staples ETF - VDC
 - iShares U.S. Consumer Goods ETF - IYK

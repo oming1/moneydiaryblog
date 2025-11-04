@@ -26,4 +26,8 @@ weight: 2
 2. LNG FSRU(Floating Storage Regasificatoin Unit)
     부유식 해상 LNG 저장 및 재기화 플랜트로 해상에서 LNG를 저장, 재기화, 송출할 수 있는 설비.
     ![](/images/https://i.imgur.com/RvyALhn.jpg)
+    즉, 원거리 심해에 있는 가스전으로 이동하여 해상에 부유하며 LNG를 생산, 저장, 출하할 수 있는 대형 해상이동식 복합기능 플랜트.
+2. LNG FSRU(Floating Storage Regasificatoin Unit)
+    부유식 해상 LNG 저장 및 재기화 플랜트로 해상에서 LNG를 저장, 재기화, 송출할 수 있는 설비.
+    ![](/images/https://i.imgur.com/RvyALhn.jpg)
     초기엔 육상 LNG 터미널 건설에 따른 민원문제를 해결할 대책으로 도입되었으나, 최근엔 육상터미널 대비 절반 정도의 투자비와 건설기간의 장점을 가지고 있어 다양한 목적으로 활용되고 있음.

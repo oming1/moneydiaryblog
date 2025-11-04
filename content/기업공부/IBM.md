@@ -19,9 +19,6 @@ weight: 435
 - **Industry**: 정보기술 (Information Technology Services)
 
 **영위사업**: IBM은 주로 [클라우드](/industry-study/2산업클라우드/) 컴퓨팅, 인공지능(AI), 데이터 분석, IT 인프라, 보안 솔루션, 소프트웨어 및 컨설팅 서비스를 제공합니다.
-
-{{< adsense-infeed >}}
-
 **전방/후방산업**:
 
 - **전방산업**:
@@ -45,16 +42,10 @@ weight: 435
 - **소프트웨어**: IBM SPSS (통계 분석 소프트웨어), IBM QRadar (보안 정보 및 이벤트 관리).
 - **하드웨어**: IBM Z (메인프레임 컴퓨터).
 **주요 판매국가**:
-
-{{< adsense-infeed >}}
-
 - 미국: IBM의 최대 시장.
 - 유럽: 독일, 영국 등 주요 국가.
 - 아시아: 일본, 중국, 인도.
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **마이크로소프트 (미국, [MSFT](/company-analysis/msft/))**: 클라우드 서비스 (Azure), 소프트웨어 (Windows, Office).
 - **아마존 (미국, [AMZN](/company-analysis/amzn/))**: 클라우드 서비스 (AWS).
 - **구글 (미국, [GOOGL](/company-analysis/googl/))**: 클라우드 서비스 (Google Cloud), AI 솔루션.

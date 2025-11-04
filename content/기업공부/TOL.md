@@ -24,6 +24,9 @@ weight: 879
 Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 고급 단독주택 및 타운하우스 건설
+Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기업입니다. 주요 사업 영역은 다음과 같습니다:
+
+1. 고급 단독주택 및 타운하우스 건설
 2. 도시형 고층 콘도미니엄 개발 (Toll Brothers City Living 브랜드)
     
 3. 액티브 어덜트 및 은퇴자 커뮤니티 개발
@@ -61,9 +64,6 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
 - 건설자재 공급: 목재, 콘크리트 등 (Vulcan Materials(US, [VMC](/company-analysis/vmc/)), Martin Marietta Materials(US, MLM))
     
 - 가전제품: 고급 주택용 가전 (Whirlpool(US, [WHR](/company-analysis/whr/)), LG Electronics(KR, 066570))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 토지 확보: Toll Brothers 토지 개발팀, 부동산 중개업체
@@ -116,13 +116,7 @@ Toll Brothers는 미국 럭셔리 주택 시장에서 선도적인 위치를 차
 2. 밀레니얼 세대 겨냥 첫 주택 구매자용 럭셔리 라인 출시 (2023년)
     
 3. 도시형 임대 아파트 사업 Toll Brothers Apartment Living 확장 (2024년)
-
-{{< adsense-infeed >}}
-
 4. ESG 경영 강화: 지속가능한 건설 및 에너지 효율 주택 비중 확대 (2024년)
-
-{{< adsense-infeed >}}
-
 5. 평균 주택 판매 가격 $976,900 달성 (2024년)
 
 ## 주요주주(지분율)

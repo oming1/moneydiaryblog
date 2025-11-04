@@ -43,13 +43,7 @@ Moog Inc.는 정밀 모션 제어 제품, 시스템 및 서보밸브를 설계, 
     
     - Moog는 항공기용 비행 제어 시스템을 설계 및 제조합니다.
     - 대표 기업: Parker Hannifin (미국, PH), Woodward (미국, [WWD](/company-analysis/wwd/))
-
-{{< adsense-infeed >}}
-
 - 산업용 로봇 및 자동화:
-
-{{< adsense-infeed >}}
-
     - 산업용 로봇 및 자동화 시스템용 모션 제어 솔루션을 제공합니다.
     - 대표 기업: ABB (스위스, [ABB](/company-analysis/abb/)), Rockwell Automation (미국, [ROK](/company-analysis/rok/))
 
@@ -63,9 +57,6 @@ Moog Inc.는 정밀 모션 제어 제품, 시스템 및 서보밸브를 설계, 
 ## 주요 판매 국가
 
 Moog는 전 세계적으로 사업을 영위하며, 특히 미국, 유럽, 아시아 지역에서 강세를 보입니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Parker Hannifin (미국, PH) - 모션 및 제어 기술

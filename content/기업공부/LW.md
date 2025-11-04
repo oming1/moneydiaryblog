@@ -25,9 +25,6 @@ Lamb Weston Holdings, Inc.는 냉동 감자 제품의 세계적인 생산업체 
 1. 냉동 감자 제품 제조 및 판매: 감자튀김, 웨지, 해시브라운 등
 2. 냉동 채소 및 애피타이저 제품 생산
 3. 식품 서비스 제공
-
-{{< adsense-infeed >}}
-
 주요 브랜드로는 Lamb Weston, Lamb Weston Supreme, Lamb Weston Private Reserve, Lamb Weston Colossal Crisp, Lamb Weston Stealth Fries, Lamb Weston Seasoned, Lamb Weston Crispy on Delivery, Sweet Things 등이 있습니다.회사는 전 세계적으로 70개 이상의 제조 및 기술 연구 센터를 운영하고 있으며, 미국, 호주, 중국, 멕시코, 캐나다, 싱가포르, 일본 등에서 사업을 영위하고 있습니다.
 
 ## 전방/후방산업
@@ -67,9 +64,6 @@ Lamb Weston은 전 세계적으로 사업을 영위하고 있으며, 특히 미�
 5. Nomad Foods (영국, NOMD)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Lamb Weston은 냉동 감자 제품 시장에서 세계 최대 생산업체 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈

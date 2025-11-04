@@ -28,10 +28,10 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
     - 핵심 산업: 방송, 영화, 테마파크
     - 역할: 콘텐츠 제작 및 배포
     - 주요 기업: Walt Disney (미국, [DIS](/company-analysis/dis/)), Netflix (미국, [NFLX](/company-analysis/nflx/))
-
-{{< adsense-infeed >}}
-
 - 후방 산업:
+    - 핵심 산업: 통신 장비, 네트워크 인프라
+    - 역할: 통신 인프라 구축 및 유지
+    - 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
     - 핵심 산업: 통신 장비, 네트워크 인프라
     - 역할: 통신 인프라 구축 및 유지
     - 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
@@ -64,9 +64,6 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
 - AT&T (미국, [T](/company-analysis/t/)) - 통신 및 미디어 서비스
 - Charter Communications (미국, [CHTR](/company-analysis/chtr/)) - 케이블 TV 및 인터넷 서비스
 - Walt Disney (미국, [DIS](/company-analysis/dis/)) - 미디어 및 엔터테인먼트
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Comcast는 미국 내 최대 케이블 TV 회사이자 최대 가정용 인터넷 서비스 제공업체입니다. 정확한 글로벌 시장 점유율은 제공되지 않았지만, 미국 시장에서 주도적인 위치를 차지하고 있습니다.

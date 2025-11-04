@@ -21,9 +21,6 @@ weight: 757
 ## 산업섹터
 - **Sector**: Communication Services (커뮤니케이션 서비스)
 - **Industry**: Entertainment (엔터테인먼트)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Roku는 스트리밍 플랫폼을 제공하는 회사로, 사용자에게 다양한 콘텐츠를 쉽게 접근할 수 있도록 하는 스트리밍 장치 및 스마트 TV를 개발하고 판매합니다. Roku의 플랫폼은 사용자에게 다양한 스트리밍 서비스, 채널 및 콘텐츠를 통합하여 제공합니다.
@@ -35,20 +32,11 @@ Roku는 스트리밍 플랫폼을 제공하는 회사로, 사용자에게 다양
     - **관련 기업**: Netflix (US, [1.Study/☆ 개별종목/NFLX](/company-analysis/nflx/)), Amazon Prime Video (US, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/))
     
 - **후방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 하드웨어 및 소프트웨어 솔루션 제공
     - **관련 기업**: Apple (US, [AAPL](/company-analysis/aapl/)), Google (US, [1.Study/☆ 개별종목/GOOGL](/company-analysis/googl/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **디바이스 제조**: Roku의 스트리밍 장치 및 스마트 TV 제조
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: Amazon (US, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/)) - Fire TV 장치
     - **대표 회사**: Apple (US, [AAPL](/company-analysis/aapl/)) - Apple TV
 - **소프트웨어 개발**: Roku 운영 체제 및 사용자 인터페이스 개발

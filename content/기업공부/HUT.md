@@ -58,13 +58,7 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - AI 및 GPU 컴퓨팅: 딥러닝, 데이터 분석, 복잡한 시뮬레이션을 위한 고성능 솔루션
 - 재해 복구 서비스(DRaaS): Zerto 기반의 클라우드 간 복구 솔루션
 - 비트코인 채굴: 대규모 디지털 자산 채굴 운영
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 캐나다, 미국
 
 ## 경쟁업체
@@ -92,6 +86,7 @@ Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 - The Vanguard Group (8.17%)
 - BlackRock Fund Advisors (7.38%)
 - SSgA Funds Management, Inc. (4.84%)
+## 관련 ETF
 ## 관련 ETF
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
 - First Trust Cloud Computing ETF - SKYY

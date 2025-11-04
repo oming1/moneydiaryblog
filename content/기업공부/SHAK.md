@@ -52,9 +52,6 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 ## 밸류체인
 
 1. 원재료 조달: 고품질 식재료 공급업체 선정 및 관리
-
-{{< adsense-infeed >}}
-
 2. 제품 개발: 내부 R&D 팀, 셰프 협업을 통한 메뉴 혁신
     
 3. 생산 및 조리: 각 매장에서 주문 즉시 조리
@@ -64,15 +61,9 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 5. 고객 서비스: 매장 내 서비스, 모바일 앱 지원
     
 6. 물류 및 유통: 효율적인 공급망 관리 시스템
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. ShackBurger: 시그니처 앵거스 비프 버거 (2023년 매출의 약 40%)
-
-{{< adsense-infeed >}}
-
 2. 크링클 컷 프라이: 특유의 모양과 식감의 감자튀김 (2023년 매출의 약 20%)
     
 3. 밀크쉐이크 및 커스터드: 다양한 플레이버의 디저트 (2023년 매출의 약 15%)
@@ -117,9 +108,6 @@ Shake Shack Inc는 프리미엄 패스트 캐주얼 레스토랑 체인으로, �
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. Invesco Dynamic Food & Beverage ETF - PBJ

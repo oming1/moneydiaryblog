@@ -22,6 +22,9 @@ weight: 2
 - **개념**
 	- UAM은 (Urban Air Mobility) 약자로 <[도심항공모빌리티](/industry-study/도심항공모빌리티/)>를 뜻하며 비행체를 포함하여 관련된 인프라와 서비스 그리고 운용시스템 등 전반적인 산업 생태계를 포함한 개념으로
 	- 보다 확장된 개념으론 RAM(Regional Air Mobility), AAM(Advanced Air Mobility)이 있음![](/images/Pasted%20image%2020250626171544.png)
+- **개념**
+	- UAM은 (Urban Air Mobility) 약자로 <[도심항공모빌리티](/industry-study/도심항공모빌리티/)>를 뜻하며 비행체를 포함하여 관련된 인프라와 서비스 그리고 운용시스템 등 전반적인 산업 생태계를 포함한 개념으로
+	- 보다 확장된 개념으론 RAM(Regional Air Mobility), AAM(Advanced Air Mobility)이 있음![](/images/Pasted%20image%2020250626171544.png)
 - **UAM 특징**
 	-  1) 수직이착륙, 2) 분산전기(DEP) 추진, 3) 연계교통, 4) 기술집약
 	- UAM에서 사용되는 비행체인 eVTOL(electric Vertical TakeOff and Landing) 은 수직이착륙이 가능해 활주로 없이 최소한의 공간으로 도심내 운용이 가능하며, 다수의 전기모터와 배터리를 활용한 분산전기 추진 기술로 안전성을 확보하고 친환경 및 저소음(최대 65dB, 헬기대비 20% 수준) 비행을 구현한다. 

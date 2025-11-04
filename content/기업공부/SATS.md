@@ -51,9 +51,6 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
         
         - Intelsat (룩셈부르크, 비상장) - 글로벌 위성 통신 서비스 제공
         - SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)) - 위성 기반 데이터 전송 서비스 제공
-
-{{< adsense-infeed >}}
-
 - **텔레비전 방송 서비스**:
     
     - Dish Network 브랜드 하에 소비자에게 방송 서비스를 제공합니다.
@@ -66,9 +63,6 @@ EchoStar Corporation은 미국에 본사를 둔 위성 통신 및 인터넷 서�
 - **HughesNet**: 고속 위성 인터넷서비스로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
-
-{{< adsense-infeed >}}
-
 - **위성 방송 서비스**: Dish Network를 통해 제공되는 텔레비전 방송입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
@@ -79,17 +73,11 @@ EchoStar는 미국을 주요 시장으로 하며, 유럽 및 아시아 태평양
 
 - **Dish Network (미국, [DISH](/company-analysis/dish/))**: 위성 TV 및 인터넷 서비스 제공.
 - **Comcast (미국, [CMCSA](/company-analysis/cmcsa/))**: 케이블 TV 및 인터넷 서비스 제공.
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 EchoStar는 글로벌 위성 통신 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 안정적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **Dish Network와의 합병**: EchoStar가 Dish Network를 인수하여 사업을 통합함 (2023).
 - **5G 계약 수주**: 미국 해군과의 계약을 통해 군용 통신 솔루션을 제공하기 시작함 (2024).
 - **위성 발사 성공**: 새로운 위성을 성공적으로 발사하여 글로벌 커버리지 확대 (2022).

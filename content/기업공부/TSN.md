@@ -24,9 +24,6 @@ Tyson Foods는 세계 최대 규모의 식품 회사 중 하나로, 주로 육�
 
 ## 전방/후방산업
 - **전방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 식품 소매, 식당 체인, 식품 서비스
     - **관련 기업**: Walmart (US, [WMT](/company-analysis/wmt/)), McDonald's (US, [MCD](/company-analysis/mcd/))
 - **후방산업**:
@@ -51,9 +48,6 @@ Tyson Foods는 세계 최대 규모의 식품 회사 중 하나로, 주로 육�
     - **대표 회사**: US Foods Holding (US, [USFD](/company-analysis/usfd/)) - 식품 유통
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - **닭고기 제품** (매출의 약 30%)
 - **소고기 제품** (매출의 약 35%)
 - **돼지고기 제품** (매출의 약 15%)
@@ -69,9 +63,6 @@ Tyson Foods는 주로 미국 시장에서 운영되지만, 중국, 일본, 멕�
 - **Smithfield Foods (US, 비상장)** - 돼지고기 생산 및 가공
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Tyson Foods는 미국 내 소고기, 돼지고기, 닭고기 시장의 약 20%를 차지하고 있으며, 글로벌 육류 시장에서도 주요 플레이어 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈

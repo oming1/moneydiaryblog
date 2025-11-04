@@ -29,13 +29,7 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 - 산업 수요, 정부 계약, 기술 혁신 등의 트렌드를 반영
 
 2025년 2월 28일 기준 AUM(운용자산)은 59.25백만 달러입니다[2](https://www.tipranks.com/etf/euad).
-
-{{< adsense-infeed >}}
-
 ## 유사한 ETF 10개
-
-{{< adsense-infeed >}}
-
 1. ITA iShares U.S. Aerospace & Defense ETF
     
     - 미국 항공우주 및 방위 산업에 집중
@@ -43,9 +37,6 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 다우존스 U.S. 선별 항공우주 & 방위 지수 추적
         
     - 운용자산: 약 65억 달러[1](https://www.poems.com.sg/etf-screener/CBOEBZX-ITA/)
-
-{{< adsense-infeed >}}
-
 2. [PPA](/industry-study/ppa/) Invesco Aerospace & Defense ETF
     
     - SPADE™ Defense 지수 기반
@@ -62,6 +53,7 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 수정 동일 가중 지수 방식 사용[3](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xar.pdf)
         
 4. DFEN Direxion Daily Aerospace & Defense Bull 3X Shares
+    - 항공우주 & 방위 산업 3배 레버리지 ETF
     - 항공우주 & 방위 산업 3배 레버리지 ETF
     - 높은 변동성과 위험을 동반한 단기 거래용 상품
         
@@ -105,7 +97,4 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
 10. VIS Vanguard Industrials ETF
     
     - 산업 섹터 전반에 투자하는 ETF로, 방위산업 기업들도 포함
-
-{{< adsense-infeed >}}
-
     - MSCI US Investable Market Industrials 25/50 지수 추적

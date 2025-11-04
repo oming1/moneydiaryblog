@@ -21,13 +21,7 @@ weight: 180
 산업: [리츠](/industry-study/리츠/)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 중 하나로, 무선통신 타워, 소형 셀, 광섬유 네트워크를 소유 및 운영하는 부동산 투자 신탁(REIT)입니다. 2025년 1월 기준으로 40,000개 이상의 셀 타워와 약 85,000 마일의 광섬유 네트워크를 보유하고 있습니다.주요 사업은 통신사업자들에게 인프라를 임대하는 것입니다. 
-
-{{< adsense-infeed >}}
-
 2024년 3분기 기준으로 총 수익은 16억 달러를 기록했으며, 이 중 타워 부문이 10억 6300만 달러, 광섬유 부문이 5억 3000만 달러를 차지했습니다.최근에는 5G 네트워크 확장, 엣지 컴퓨팅, 그리고 소형 셀 사업 강화에 주력하고 있습니다. 또한 지속가능성 이니셔티브를 통해 2023년 전력 소비의 92%를 재생에너지로 조달하는 등 ESG 경영에도 힘쓰고 있습니다.
 
 ## 핵심 경쟁력
@@ -65,9 +59,6 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 - 통신 타워 임대: 무선통신사업자들에게 타워 공간 제공, 매출의 약 67% (2024년 3분기 기준)
 - 소형 셀 및 광섬유 솔루션: 5G 네트워크 확장을 위한 인프라 제공, 매출의 약 33% (2024년 3분기 기준)
 - 네트워크 서비스: 타워 설치 및 유지보수 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - AT&T(US, [T](/company-analysis/t/)): 무선통신 서비스
@@ -79,14 +70,12 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 미국
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - American Tower Corporation(US, [AMT](/company-analysis/amt/)): 글로벌 통신 타워 운영
 - SBA Communications Corporation(US, SBAC): 무선 통신 인프라 제공
 - Uniti Group Inc(US, UNIT): 통신 인프라 REIT
 - DigitalBridge Group(US, [DBRG](/company-analysis/dbrg/)): 디지털 인프라 투자 및 운영
 - Cellnex Telecom(ES, CLNX): 유럽 최대 통신 타워 운영사
+## 산업 내 글로벌 시장 점유율
 ## 산업 내 글로벌 시장 점유율
 Crown Castle은 2024년 3분기 기준으로 미국 통신 타워 시장에서 약 26.06%의 점유율을 보유하고 있습니다. 이는 American Tower Corporation(39.62%)에 이어 두 번째로 높은 수치입니다.
 

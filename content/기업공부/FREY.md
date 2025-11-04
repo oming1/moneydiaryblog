@@ -33,15 +33,9 @@ FREYR Battery의 핵심 경쟁력은 24M Technologies의 혁신적인 반고체 
 또한, 재생에너지를 활용한 생산 프로세스로 탄소 배출을 최소화하여 환경 친화적인 제품을 제공할 수 있습니다. 회사의 글로벌 확장 전략, 다양한 응용 분야에 대한 솔루션 제공 능력, 주요 기술 기업 및 고객사들과의 전략적 파트너십도 주요 경쟁력입니다. 
 
 FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠르게 성장하는 이 분야에서 선도적 위치를 차지할 수 있는 잠재력을 가지고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 리튬 채굴: Albemarle Corporation(US, [ALB](/company-analysis/alb/))
     - 배터리 소재: LG화학(KR, [LG화학](/industry-study/lg화학/))
     - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/))
@@ -64,13 +58,7 @@ FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠
 1. 리튬이온 배터리 셀 (전기차, 에너지 저장용)
 2. 반고체 배터리 (차세대 고성능 배터리)
 3. 해양 및 항공용 특수 배터리 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 1. Nidec Corporation(JP, Nidec)
 2. Siemens(DE, [SIE](/company-analysis/sie/))
 3. Honeywell(US, [HON](/company-analysis/hon/))

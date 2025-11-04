@@ -34,13 +34,7 @@ weight: 585
   25년까지 희토류 영구자석 생산(Stage III)으로 이어지는 Value Chain을 구축할 계획이다.
 
 ## 전방/후방산업:  
-
-{{< adsense-infeed >}}
-
 ### 후방산업:
-
-{{< adsense-infeed >}}
-
 - 광산 장비 제조업 (Caterpillar Inc. (US, [CAT](/company-analysis/cat/)))  
 
 ### 전방산업:

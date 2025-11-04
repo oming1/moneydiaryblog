@@ -54,9 +54,6 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 - **광고주**: 자동차 딜러 및 브랜드
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - **클라우드 서비스 제공업체**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
 - **데이터 분석 솔루션**: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/))
@@ -127,17 +124,11 @@ CarGurus는 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 - The Vanguard Group (11%)
     
 - BlackRock (9%)
-
-{{< adsense-infeed >}}
-
 - State Street Corporation (5%)
 
 ## 관련 ETF
 
 - Global X Autonomous & Electric Vehicles ETF - DRIV
-
-{{< adsense-infeed >}}
-
 - Invesco NASDAQ Internet ETF - PNQI
     
 - First Trust Dow Jones Internet Index Fund - FDN

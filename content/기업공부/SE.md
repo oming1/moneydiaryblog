@@ -105,9 +105,6 @@ Sea Limited의 핵심 경쟁력은 동남아시아 시장에 대한 깊은 이�
 Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는 없습니다.
 
 **1. 소프트웨어 개발:**
-
-{{< adsense-infeed >}}
-
 - 모바일 게임 개발 (Unity Engine)
 - 이커머스 플랫폼 개발 및 운영
 - 핀테크 솔루션 개발
@@ -196,9 +193,6 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 **SeaMoney:** 디지털 금융 서비스, 매출 비중 약 14% (2024년 기준), 관련 경쟁사 [PYPL](/company-analysis/pypl/), [SQ](/company-analysis/sq/)
 
 **ShopeePay:** 전자지갑 및 결제 서비스, SeaMoney 핵심 서비스, 관련 경쟁사 ADYEY, [PYPL](/company-analysis/pypl/)
-
-{{< adsense-infeed >}}
-
 **Shopee Live:** 라이브 스트리밍 커머스, 전체 주문량의 15% 기여, 관련 경쟁사 [BABA](/company-analysis/baba/), [PDD](/company-analysis/pdd/)
 
 ---
@@ -292,9 +286,6 @@ Sea Limited는 인터넷 플랫폼 회사로 전통적인 제조 프로세스는
 - Roblox(US, [RBLX](/company-analysis/rblx/)) - 게임 플랫폼 및 개발
 - Unity Software(US, [U](/company-analysis/u/)) - 게임 개발 플랫폼
 - Netflix(US, [NFLX](/company-analysis/nflx/)) - 엔터테인먼트 콘텐츠 경쟁
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율

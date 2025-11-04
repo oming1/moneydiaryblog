@@ -77,9 +77,6 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 ## 전방산업 / 후방산업
 
 **전방산업**:
-
-{{< adsense-infeed >}}
-
 - 광고주 및 마케팅 에이전시: 지역 및 전국 광고주들
 - 오디오 콘텐츠 소비자: 라디오 청취자, 팟캐스트 이용자, 디지털 오디오 사용자
 
@@ -126,9 +123,6 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 전통적인 물리적 원자재보다는 라이선스 및 서비스가 주요 투입 요소:
 
 **방송 라이선스**:
-
-{{< adsense-infeed >}}
-
 - 사용처: 라디오 주파수 사용권, 방송 운영 허가
 - 주요 공급 지역: 미국 연방통신위원회(FCC)
 - 주요 공급 업체: 미국 정부 기관 (FCC)
@@ -156,9 +150,6 @@ CBS Radio 인수를 통해 확보한 프리미엄 라디오 자산과 콘텐츠 
 ## 주요 판매국가
 
 미국이 주요 시장이며, 구체적인 국가별 매출 비중은 공개되지 않음. 주된 매출 국가는 미국입니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 경쟁업체
@@ -219,9 +210,6 @@ Audacy는 미국 제2위 규모의 라디오 방송사로서 220개 이상의 �
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX
 - iShares U.S. Telecommunications ETF - IYZ
-
-{{< adsense-infeed >}}
-
 **미디어 및 엔터테인먼트 관련 ETF**:
 
 - Invesco Dynamic Media ETF - PBS

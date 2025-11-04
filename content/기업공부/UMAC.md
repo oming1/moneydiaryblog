@@ -27,6 +27,7 @@ Unusual Machines, Inc.(NYSE American: UMAC)는 드론 및 무인항공기(UAV) �
 
 ## 핵심 경쟁력
 Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
+Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 1. 미국산 드론 부품 개발: 국가 안보 우려를 해소하고 국방부 요구사항을 충족하는 미국산 부품 생산
 2. 전략적 인수: Rotor Riot과 Fat Shark 인수를 통한 시장 입지 강화 및 기술력 확보
 3. 정부 승인: Brave F7 Flight Controller의 Blue UAS Framework 등재로 국방 분야 진출 기반 마련
@@ -35,9 +36,6 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 국방산업: Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Northrop Grumman(US, [NOC](/company-analysis/noc/))
 - 상업용 드론: DJI(CN, DJI), Parrot(FR, PARRO)
 - 엔터테인먼트/레저: GoPro(US, GPRO)
@@ -55,9 +53,6 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 - 소형 FPV 드론: Rotor Riot 브랜드의 아크로바틱 드론, 매출의 약 20% (2024년 기준)
 - 드론 액세서리: 부품 및 주변기기, 매출의 약 10% (2024년 기준)
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다
 
 ## 경쟁업체

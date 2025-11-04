@@ -82,9 +82,6 @@ Royal Caribbean International(대중 시장), Celebrity Cruises(프리미엄), S
 ---
 
 ## 7. 핵심 기술
-
-{{< adsense-infeed >}}
-
 **선박 설계 및 엔지니어링 기술**: 대형 크루즈선 건조를 위한 고도의 해양 엔지니어링 기술과 승객 안전 및 편의를 위한 첨단 선박 설계 기술
 
 **운항 관리 시스템**: 글로벌 선단의 실시간 위치 추적, 연료 효율성 최적화, 항로 계획 등을 위한 통합 운항 관리 시스템
@@ -131,16 +128,10 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 - MEI-Travel - 2024년 서부 지역 최우수 파트너
 - The Travel Agent Next Door - 2024년 캐나다 최우수 파트너
 - Cruise Planners - 2024년 프랜차이즈 최우수 파트너
-
-{{< adsense-infeed >}}
-
 **기업 고객**:
 
 - 인센티브 여행 주최 기업들
 - 컨퍼런스 및 이벤트 주최 기업들
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 14. 주요 판매 국가

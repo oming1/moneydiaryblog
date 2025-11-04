@@ -19,9 +19,6 @@ weight: 738
 - **Industry**: 화학 (Chemicals)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 및 전자 폐기물의 재활용을 전문으로 하며, 주요 사업으로는 배터리 재활용, 금속 정제 및 재제조가 있습니다. 또한, 배터리 제조 파트너에게 음극재 및 양극재를 공급합니다.
 #### 전방/후방산업
 
@@ -31,9 +28,6 @@ Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배�
 - **후방산업**:
     - **리튬 채굴**: 배터리 원료 공급 (예: Albemarle (US, [ALB](/company-analysis/alb/)))
     - **화학 제조**: 배터리 소재 공급 (예: BASF (DE, BAS))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **원료 채굴**: Albemarle (US, [ALB](/company-analysis/alb/)), SQM (CL, SQM)
 - **리튬 화합물 제조**: [Ganfeng Lithium](/company-analysis/ganfeng-lithium/) (CN, 002460), Livent (US, LTHM)
@@ -44,9 +38,6 @@ Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배�
 - **리튬이온 배터리 재활용**: 전기차 및 전자 제품에서 사용된 배터리 재활용
 - **음극 및 양극 재료**: [배터리](/industry-study/배터리/) 제조에 필요한 핵심 재료
 - **금속 정제**: [니켈](/industry-study/니켈/), 코발트, 리튬 등의 금속 정제
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 - **미국**: 주요 시장으로 전체 매출의 대부분을 차지
@@ -58,9 +49,6 @@ Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배�
 - **Li-Cycle (CA, [LICY](/company-analysis/licy/))**: 리튬이온 배터리 재활용
 - **Ascend Elements (US, 비상장)**: 배터리 재활용 및 재료 제조
 - **Lohum (IN, 비상장)**: 리튬이온 배터리 재활용
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
 - **2024년**: 미국 및 유럽에서 수요 감소로 인한 매출 하락 (2024년)
 - **2023년**: $2억 달러의 미국 에너지부 대출 승인 및 사업 확장 (2023년)

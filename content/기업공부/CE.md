@@ -40,9 +40,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 4. 고객 중심 솔루션: 맞춤형 소재 개발을 통한 고객 가치 창출
     
 5. 지속가능성 이니셔티브: 순환 경제 모델 도입 및 친환경 제품 개발
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -91,9 +88,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 1. BASF SE(DE, BAS): 종합 화학 제품
     
 2. DuPont de Nemours(US, [DD](/company-analysis/dd/)): 특수 소재 및 화학 제품
-
-{{< adsense-infeed >}}
-
 3. Eastman Chemical(US, EMN): 특수 화학 제품
     
 4. LyondellBasell Industries(NL, [LYB](/company-analysis/lyb/)): 폴리머 및 화학 제품
@@ -117,9 +111,6 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 5. 주당 배당금 95% 감축 및 자사주 매입 프로그램 일시 중단 발표 (2025년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)

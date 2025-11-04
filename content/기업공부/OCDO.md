@@ -1,4 +1,4 @@
-﻿---
+---
 title: "OCDO"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-11-03T21:50:34+09:00
@@ -33,11 +33,10 @@ Ocado Group PLC는 영국 및 국제적으로 온라인 식료품 소매업체�
 - **물류업체:** DHL (DE, DPW), FedEx (US, [FDX](/company-analysis/fdx/))
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - **로봇 장비 제조업체:** ABB (CH, ABBN), KUKA (DE, KU2)
+{{< adsense-infeed >}}
+
 ### 밸류체인
 
 Ocado의 밸류체인은 온라인 식료품 소매업체로서의 역할을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
@@ -64,13 +63,14 @@ Ocado의 밸류체인은 온라인 식료품 소매업체로서의 역할을 포
 
 - **Tesco (UK, TSCO):** 식료품 소매 (시장 점유율 25%)
 - **Sainsbury’s (UK, SBRY):** 식료품 소매 (시장 점유율 15%)
-- **Amazon (US, [AMZN](/company-analysis/amzn/)):** 온라인 소매 (시장 점유율 10%)
 ### 산업 내 글로벌 시장 점유율
 Ocado Group PLC의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
-### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
+### 산업 내 글로벌 시장 점유율
+Ocado Group PLC의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
+### 최근 3년 내 주요 이슈- **Amazon (US, [AMZN](/company-analysis/amzn/)):** 온라인 소매 (시장 점유율 10%)
+### 산업 내 글로벌 시장 점유율
+Ocado Group PLC의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
+{{< adsense-infeed >
 - **수익성 문제:** 2023년 수익성 문제로 인한 주가 하락 (2023년)
 - **신기술 도입:** 새로운 로봇 기술 도입으로 인한 운영 효율성 증가 (2022년)
 - **글로벌 확장:** 미국 및 일본 시장으로의 확장 (2021년)

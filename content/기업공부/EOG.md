@@ -57,17 +57,11 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 12. 운송: Energy Transfer(US, [ET](/company-analysis/et/)) (파이프라인 운영)
 13. 정제: Phillips 66(US, [PSX](/company-analysis/psx/)) (석유 정제)
 14. 유통: Murphy USA(US, MUSA) (주유소 네트워크)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - [원유](/industry-study/원유/): 주요 셰일 분지에서 생산, 매출의 약 70% (2024년 기준)
 - [천연가스](/industry-study/천연가스/): 셰일 가스 생산, 매출의 약 20% (2024년 기준)
 - 천연가스 액([NGL](/industry-study/ngl/)): 습성 가스전에서 생산, 매출의 약 10% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - 정유사: Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Phillips 66(US, [PSX](/company-analysis/psx/))
@@ -90,13 +84,7 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 ## 산업 내 글로벌 시장 점유율
 
 EOG Resources는 2024년 기준 미국 내 독립 석유·가스 생산업체 중 생산량 기준으로 약 5%의 시장 점유율을 보유하고 있습니다. 글로벌 시장에서는 약 1%의 점유율을 차지하고 있으며, 최근 3년간 미국 내 시장 점유율은 꾸준히 증가하는 추세를 보이고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 퍼미안 베이슨 내 신규 고생산성 구역 발견 및 개발 착수 (2024년)
 - 탄소 포집 및 저장(CCS) 기술 투자 확대 발표 (2023년)
 - 디지털 트윈 기술을 활용한 생산 최적화 시스템 전면 도입 (2023년)

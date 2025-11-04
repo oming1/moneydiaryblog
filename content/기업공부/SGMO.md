@@ -31,9 +31,6 @@ Sangamo Therapeutics, Inc.는 유전체 편집및 유전자 조절 기술을 이
 4. 협력 연구 개발: 주요 제약사들과의 파트너십을 통한 공동 연구 및 기술 라이선싱
 
 Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계를 맺고 있으며, 다양한 임상 단계의 파이프라인을 보유하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 독자적인 ZFN 기술: Sangamo의 핵심 기술인 Zinc Finger Nuclease는 정확하고 효율적인 유전자 편집을 가능하게 합니다. 이 기술은 다른 유전자 편집 도구에 비해 특이성이 높고 오프타겟 효과가 낮다는 장점이 있습니다.
@@ -42,12 +39,10 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 4. 전략적 파트너십: Pfizer, Biogen, Novartis 등 글로벌 제약사들과의 협력을 통해 기술의 검증과 자금 확보, 그리고 상업화 경로를 확보하고 있습니다.
 5. 다양한 임상 파이프라인: 여러 질환 영역에 걸친 임상 단계 후보 물질을 보유하고 있어, 성공 가능성을 높이고 있습니다.
 ## 전방/후방산업
+## 전방/후방산업
 ## 전방산업:
 
 1. 병원 및 의료기관: 유전자 치료제 및 세포 치료제 사용
-
-{{< adsense-infeed >}}
-
     - Mayo Clinic, Cleveland Clinic
 2. 제약 유통업체: 치료제 유통 및 공급
     
@@ -81,9 +76,6 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     - IQVIA Holdings(US, [IQV](/company-analysis/iqv/)), Parexel International(비상장)
     
 3. 제조 및 생산: GMP 기준 치료제 생산
-
-{{< adsense-infeed >}}
-
     - Lonza Group(CH, [LONN](/company-analysis/lonn/)), Catalent(US, [CTLT](/company-analysis/ctlt/))
     
 4. 규제 승인: FDA, EMA 등 규제기관 승인 획득

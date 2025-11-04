@@ -37,25 +37,16 @@ weight: 687
 - **신선 식품**: 고기, 해산물, 과일, 채소
 - **가공 식품**: 냉동 식품, 통조림 식품, 유제품
 - **비식품 제품**: 주방 장비, 테이블웨어, 청소 용품
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**:
 
 - 미국: PFGC의 주요 시장은 미국을 포함한 북미 지역입니다. 국가별 매출액 비중은 공개되지 않았습니다.
 
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **Sysco Corporation (미국, [SYY](/company-analysis/syy/))**: 식품 유통 서비스 제공
 - **US Foods (미국, [USFD](/company-analysis/usfd/))**: 식품 유통 및 가공 서비스 제공
 **산업 내 글로벌 시장 점유율**:
 
 - [PFGC는 미국에서 세 번째로 큰 식품 서비스 유통업체로, 시장 점유율은 약 9%입니다](https://alphasquare.co.kr/home/stock-summary?code=PFGC)[3](https://alphasquare.co.kr/home/stock-summary?code=PFGC).
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈**:
 
 - [**Core-Mark 인수**: 2021년, PFGC는 Core-Mark를 인수하여 편의점 채널에서의 입지를 강화했습니다 (2021년)](https://finance.yahoo.com/quote/PFGC/)[2](https://finance.yahoo.com/quote/PFGC/).

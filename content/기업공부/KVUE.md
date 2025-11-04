@@ -23,16 +23,10 @@ weight: 500
 - **전방산업**: 소매업, 헬스케어 서비스
     - **핵심 산업 및 역할**: 소매업체와 헬스케어 서비스 제공업체는 Kenvue 제품을 최종 소비자에게 제공합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), CVS Health Corporation (미국, [CVS](/company-analysis/cvs/))
-
-{{< adsense-infeed >}}
-
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 제품 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: International Paper Company (미국, [IP](/company-analysis/ip/)), WestRock Company (미국, WRK)
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **원재료 조달**: 제품 제조에 필요한 원재료 조달
     - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, INGR)
 - **제조 및 생산**: 소비재 제품 제조 및 생산
@@ -45,9 +39,6 @@ weight: 500
 - **구강 관리**: Listerine
 - **의약품**: Tylenol (진통제), Benadryl (항히스타민제)
 - **기타**: Band-Aid (상처 치료), Johnson’s Baby (유아용 제품)
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지

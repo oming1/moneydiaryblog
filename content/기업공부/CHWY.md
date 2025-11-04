@@ -33,9 +33,6 @@ Chewy는 반려동물 사료, 장난감, 용품, 건강 보조제 등을 포함�
 - 역할: 반려동물 제품 소비
 - 반려동물 소매업체: PetSmart
 - 온라인 유통업체: Amazon (US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 역할: 제품 공급
 - 반려동물 사료 제조업체: Nestlé Purina (CH, [NESN](/company-analysis/nesn/))
@@ -51,15 +48,9 @@ Chewy는 반려동물 사료, 장난감, 용품, 건강 보조제 등을 포함�
 ## 주요 판매국가
 
 Chewy는 주로 미국 내에서 운영되며, 미국 내 반려동물 제품 시장에서 강력한 입지를 보유하고 있습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 - 물류 센터: 미국 전역에 위치한 여러 물류 센터를 통해 효율적인 배송 시스템을 운영합니다.
 - 고객 데이터베이스: 고객의 구매 패턴과 선호도를 분석하여 맞춤형 서비스를 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Petco Health and Wellness Company (US, [WOOF](/company-analysis/woof/)) - 반려동물 소매 및 서비스
@@ -70,7 +61,4 @@ Chewy는 주로 미국 내에서 운영되며, 미국 내 반려동물 제품 �
 Chewy는 미국 반려동물 제품 온라인 소매 시장에서 약 25%의 점유율을 보유하고 있으며, 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 
 ## 자세한 종목 정보 링크
-
-{{< adsense-infeed >}}
-
 [FINVIZ - CHWY](https://finviz.com/quote.ashx?t=CHWY)

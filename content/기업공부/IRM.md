@@ -43,16 +43,10 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Microsoft(US, [MSFT](/company-analysis/msft/))
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 헬스케어: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 데이터 센터 장비: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Dell Technologies(US, [DELL](/company-analysis/dell/))
 - 보안 솔루션: Palo Alto Networks(US, [PANW](/company-analysis/panw/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 물리적 기록 보관: 문서, 테이프 등의 보관 서비스, 매출의 약 50% (2024년 기준)
@@ -64,9 +58,6 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 프랑스, 호주, 브라질, 인도
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Crown Castle International(US, [CCI](/company-analysis/cci/)) - 통신 인프라 REIT
@@ -101,9 +92,6 @@ Iron Mountain은 2024년 기준 글로벌 정보 관리 서비스 시장에서 �
 - Real Estate Select Sector SPDR Fund - XLRE
 - Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - SRVR
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
-
-{{< adsense-infeed >}}
-
 공유
 
 다시 쓰기

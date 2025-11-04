@@ -33,9 +33,6 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
     - **핵심 산업**: 보안 소프트웨어 개발, 네트워크 인프라 구축
     - **역할**: Zscaler의 보안 솔루션에 필요한 소프트웨어 및 인프라 제공
     - **관련 기업**: Palo Alto Networks (US, [PANW](/company-analysis/panw/)), Fortinet (US, [FTNT](/company-analysis/ftnt/)), Cisco Systems (US, [CSCO](/company-analysis/csco/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 보안 기술 및 솔루션 개발
@@ -66,9 +63,6 @@ Zscaler는 전 세계적으로 클라우드 보안 솔루션을 제공하는 회
 - **Symantec (US, GEN)**: 엔드포인트 보안 및 데이터 보호 솔루션
 
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Zscaler는 2023년 기준으로 글로벌 클라우드 보안 시장에서 약 10%의 점유율을 차지하고 있습니다.
 #### 최근 3년 내 주요 이슈
 

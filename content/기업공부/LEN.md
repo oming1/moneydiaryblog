@@ -94,16 +94,10 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 ---
 
 ### 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 전방산업 (제품 사용 산업):
 
 - Realtor 서비스: Keller Williams(US, KW) – 신규 주택 중개
 - 기관 임대 리츠: Invitation Homes(US, INVH) – build-for-rent 운용
-
-{{< adsense-infeed >}}
-
 후방산업 (원자재/부품 공급 산업):
 - Weyerhaeuser(US, WY) – 목재 (북미 제1위, 시장점유율 15%)
 - Vulcan Materials(US, [VMC](/company-analysis/vmc/)) – 시멘트·골재 (시장점유율 12%)
@@ -162,9 +156,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 • 서부: 21% (3년간 -2%p)  
 • 북동부: 15% (3년간 +1%p)  
 • 중서부: 16% (3년간 -2%p)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 경쟁업체
@@ -199,9 +190,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - **2024년:** 분기별 Backlog 사상 최대치 경신($19.3B), share repurchase 프로그램 확대
 - **2023년:** WCI Communities(US, WCI) 인수 완전 통합(거래가 $4.5B), 규모의 경제 극대화
 - **2022년:** 신규 build-for-rent 플랫폼 출범, 대형 리츠와 파트너십 체결
-
-{{< adsense-infeed >}}
-
 ---
 ### 주요 주주 (지분율)
 

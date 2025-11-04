@@ -22,29 +22,21 @@ weight: 276
 
 DR Horton은 미국 최대의 건축 건설 회사([부동산](/industry-study/2산업부동산/)), 단독 주택, 타운하우스, 콘도미니엄 등 다양한 유형의 신용을 건설하고 판매합니다.
 ## 주요제품 및 서비스
+## 주요제품 및 서비스
 - 사업구조
 - 건물
 - 콘도미니엄
 - 주택금융서비스
 - 주택보험서비스
 ## 주요 브랜드
-
-{{< adsense-infeed >}}
-
 - 호튼 박사
 - 익스프레스 홈
 - 프리덤 홈스
 - 에메랄드 홈
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 미국 (29개 주에서 사업 영위)
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Lennar Corporation(미국, [LEN](/company-analysis/len/))
 - 풀테그룹(미국, [PHM](/company-analysis/phm/))
 - NVR, Inc.(미국, [NVR](/company-analysis/nvr/))

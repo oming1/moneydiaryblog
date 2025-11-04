@@ -22,9 +22,6 @@ Industry: Copper ([구리](/industry-study/2산업원자재-산업1비철금속-
 First Quantum Minerals Ltd.는 1996년 설립된 캐나다의 글로벌 구리 광산 회사입니다. 구리를 주력 제품으로 생산하며, 금, 아연, 니켈, 은 등도 생산합니다. 본사는 캐나다 밴쿠버에 위치해 있습니다.
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 - 구리, 금, [아연](/industry-study/아연/), [니켈](/industry-study/니켈/) 등의 광물 탐사, 개발 및 채굴
 - 구리 정광, 음극, 양극 생산
 - 광산 개발 프로젝트 운영
@@ -59,9 +56,6 @@ First Quantum Minerals는 전 세계적으로 사업을 운영하며, 주요 시
 - 호주
 
 ## 주요 자산
-
-{{< adsense-infeed >}}
-
 - Kansanshi 구리 광산 (잠비아)
 - Sentinel 구리 광산 (잠비아)
 - Cobre Panama 구리 광산 (파나마)
@@ -76,9 +70,6 @@ First Quantum Minerals는 전 세계적으로 사업을 운영하며, 주요 시
 ## 산업 내 글로벌 시장 점유율
 
 First Quantum Minerals는 세계 10대 구리 생산업체 중 하나로, 2023년 기준 연간 약 80만 톤의 구리를 생산하고 있습니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 자세한 종목 정보 링크
 
 [First Quantum Minerals Ltd. - Company Website](https://www.first-quantum.com/)

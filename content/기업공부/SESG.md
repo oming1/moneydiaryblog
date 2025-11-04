@@ -34,13 +34,7 @@ SES S.A.는 룩셈부르크에 본사를 둔 세계적인 위성 통신([통신 
     - 핵심 산업: 위성 제조 및 발사
     - 역할: SES의 위성 제조 및 발사 지원
     - 주요 기업: Boeing (미국, [BA](/company-analysis/ba/)), [SpaceX](/company-analysis/spacex/) (미국, 비상장), [RKLB](/company-analysis/rklb/)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - 위성 운영:
     - SES는 다수의 정지궤도 및 중궤도 위성을 운영합니다.
     - 대표 기업: Intelsat (미국), Eutelsat (프랑스, ETL)
@@ -55,6 +49,7 @@ SES S.A.는 룩셈부르크에 본사를 둔 세계적인 위성 통신([통신 
 - 비디오 전송 서비스
 - 네트워크 연결 솔루션
 - 정부 및 기관 통신 서비스
+## 주요 판매 국가
 ## 주요 판매 국가
 SES는 전 세계적으로 서비스를 제공하며, 특히 유럽, 북미, 아프리카 지역에서 강세를 보입니다.
 

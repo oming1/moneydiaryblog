@@ -30,23 +30,17 @@ Intel Corporation은 컴퓨팅 및 관련 제품과 서비스를 설계, 개발,
 #### 전방/후방산업
 - **전방산업**: Intel의 제품을 사용하는 주요 기업들로는 Dell Technologies (US, [DELL](/company-analysis/dell/)), HP Inc. (US, [HPQ](/company-analysis/hpq/)), Lenovo (CN, 0992) 등이 있습니다.
 - **후방산업**: Intel에 부품을 공급하는 주요 기업들로는 ASML (NL, [ASML](/company-analysis/asml/)), Applied Materials (US, [AMAT](/company-analysis/amat/)), Lam Research (US, [LRCX](/company-analysis/lrcx/)) 등이 있습니다
+#### 전방/후방산업
+- **전방산업**: Intel의 제품을 사용하는 주요 기업들로는 Dell Technologies (US, [DELL](/company-analysis/dell/)), HP Inc. (US, [HPQ](/company-analysis/hpq/)), Lenovo (CN, 0992) 등이 있습니다.
+- **후방산업**: Intel에 부품을 공급하는 주요 기업들로는 ASML (NL, [ASML](/company-analysis/asml/)), Applied Materials (US, [AMAT](/company-analysis/amat/)), Lam Research (US, [LRCX](/company-analysis/lrcx/)) 등이 있습니다
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **중앙 처리 장치 (CPU)**: Intel Core, Xeon
 - **그래픽 처리 장치 (GPU)**: Intel Arc
 - **메모리 및 스토리지**: Optane 메모리, SSD
 - **네트워크 및 연결**: Ethernet 컨트롤러, Wi-Fi 솔루션
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 Intel은 전 세계적으로 활동하고 있으며, 주요 판매국가는 미국, 중국, 독일, 일본, 한국 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Advanced Micro Devices (US, [AMD](/company-analysis/amd/))**: CPU, GPU

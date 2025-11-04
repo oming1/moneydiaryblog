@@ -30,11 +30,11 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 - 보안 서비스 제공업체: ADT Inc. (US, ADT), Allied Universal
 - 공공기관: 미국 연방 정부, 지방 자치 단체
 **후방산업:**
+- 보안 서비스 제공업체: ADT Inc. (US, ADT), Allied Universal
+- 공공기관: 미국 연방 정부, 지방 자치 단체
+**후방산업:**
 - 센서 및 부품 공급업체: Honeywell (US, [HON](/company-analysis/hon/)), Bosch
 - 소프트웨어 개발업체: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **K3 및 K5 ASR:** 자율 보안 로봇, 실내 및 실외 순찰용 (매출 비중: 2023년 기준 50%)
@@ -46,9 +46,6 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 - 미국 (주요 매출 국가)
 - 캐나다
 - 영국
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 - **ADT Inc. (US, ADT):** 보안 서비스 제공업체 (시장 점유율 15%)
 - **Allied Universal:** 보안 서비스 제공업체 (시장 점유율 10%)
@@ -59,9 +56,6 @@ Knightscope, Inc.는 미국에서 자율 보안 로봇(ASR)을 설계, 개발, �
 Knightscope, Inc.의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
 
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **신제품 출시:** K7 다목적 ASR 출시 (2022년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)
 - **계약 확장:** 여러 교육 및 의료 기관과의 계약 확장 (2024년)

@@ -19,13 +19,7 @@ weight: 193
 - **Industry**: 전문 소매 (Specialty Retail)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충전 솔루션을 제공하는 회사입니다. 주요 사업 영역은 상업용, 플릿(fleet), 주거용 충전 솔루션을 포함합니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 
 - **전방산업**: 전기차 제조 및 판매

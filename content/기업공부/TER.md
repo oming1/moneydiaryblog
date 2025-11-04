@@ -20,6 +20,7 @@ weight: 860
 
 섹터: 정보기술 (Information Technology)
 ## 산업 (Industry)
+## 산업 (Industry)
 산업: 반도체 장비 (Semiconductor Equipment)
 
 ---
@@ -27,9 +28,6 @@ weight: 860
 ## 영위사업
 
 Teradyne Inc.는 1960년 설립된 미국의 자동화 테스트 장비(ATE) 및 로보틱스 전문 기업으로, 반도체 테스트 장비 분야에서 글로벌 리더십을 유지하고 있습니다. 회사는 반도체 제조업체가 칩의 품질과 성능을 검증하는 데 필요한 정밀 테스트 장비를 설계, 제조, 판매하고 있습니다.
-
-{{< adsense-infeed >}}
-
 주요 사업부문으로는 [반도체](/industry-study/반도체/) 테스트(Semiconductor Test), 로보틱스(Robotics), 제품 테스트(Product Test)로 구성됩니다. 2024년 총 매출 28억 달러를 기록했으며, 반도체 테스트 부문이 전체 매출의 약 75%를 차지하는 반도체 테스트 중심 포트폴리오를 운영하고 있습니다.
 
 비즈니스 모델 & 수익 모델 요약: 반도체 테스트 장비 판매를 통한 장비 매출과 애프터 서비스, 부품 교체 등을 통한 서비스 매출의 이중 구조입니다. 고객사의 신규 생산라인 구축 시 대량 주문을 받고, 기존 장비의 유지보수 및 업그레이드를 통해 지속적인 수익을 창출합니다.
@@ -323,9 +321,6 @@ AI와 5G 기술 발전에 따른 차세대 성장 동력이 강화되고 있습�
 - State Street Corp.: 4.3% (690만 주)
 - FMR LLC: 3.8% (610만 주)
 - Geode Capital Management: 2.7% (430만 주)
-
-{{< adsense-infeed >}}
-
 **주요 내부자:**
 
 - Greg Smith (President): 0.3% (48만 주)
@@ -336,9 +331,6 @@ AI와 5G 기술 발전에 따른 차세대 성장 동력이 강화되고 있습�
 ## 관련 ETF
 
 반도체 관련 ETF:
-
-{{< adsense-infeed >}}
-
 - VanEck Semiconductor ETF - SMH
 - iShares Semiconductor ETF - SOXX
 - SPDR S&P Semiconductor ETF - XSD

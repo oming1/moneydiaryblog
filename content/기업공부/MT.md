@@ -21,22 +21,13 @@ weight: 596
 ArcelorMittal S.A.는 전 세계적으로 통합 철강 및 광산 회사로 운영됩니다. 이 회사는 반제품 평판 제품(슬래브 포함), 완제품 평판 제품(플레이트, 열연 및 냉연 코일 및 시트, 아연 도금 코일 및 시트, 주석판, 컬러 코팅 코일 및 시트 포함), 반제품 장제품(블룸 및 빌렛 포함), 완제품 장제품(바, 와이어로드, 구조물, 레일, 시트 파일, 와이어 제품 포함), 그리고 이음매 없는 파이프 및 용접 파이프 및 튜브를 제공합니다. 또한 철광석 덩어리, 미세 입자, 농축물, 펠릿 및 소결 공급물과 같은 광산 제품과 코킹 석탄을 제공합니다
 
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업체: Ford (US, [F](/company-analysis/f/)), General Motors (US, [GM](/company-analysis/gm/))
 - 가전제품 제조업체: Whirlpool (US, [WHR](/company-analysis/whr/)), LG Electronics (KR, 066570)
 
 **후방산업:**
 - 원료 공급업체: Vale (BR, [Vale](/company-analysis/vale/)), BHP (AU, [BHP](/company-analysis/bhp/))
 - 광산 장비 제조업체: Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301)
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 - **평판 제품:** 슬래브, 플레이트, 열연 및 냉연 코일 및 시트, 아연 도금 코일 및 시트, 주석판, 컬러 코팅 코일 및 시트 (매출 비중: 2023년 기준 50%)
 - **장제품:** 바, 와이어로드, 구조물, 레일, 시트 파일, 와이어 제품 (매출 비중: 2023년 기준 30%)

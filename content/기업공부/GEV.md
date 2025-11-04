@@ -56,9 +56,6 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 - 산업용 에너지 소비: General Electric(US, [GE](/company-analysis/ge/)), Siemens(DE, [SIE](/company-analysis/sie/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)), U.S. Steel(US, [X](/company-analysis/x/))
 - 반도체 제조: Intel(US, [INTC](/company-analysis/intc/)), TSMC(TW, [TSM](/company-analysis/tsm/))
 - 특수 화학: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
@@ -87,9 +84,6 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 - ABB(CH, ABBN) - 전력 및 자동화 기술
 - Mitsubishi Heavy Industries(JP, 7011) - 발전 설비
 - Schneider Electric(FR, [SU](/company-analysis/su/)) - 에너지 관리 및 자동화 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 GE Vernova는 2024년 기준 글로벌 가스터빈 시장에서 약 40%의 점유율을 보유하고 있으며, 풍력터빈 시장에서는 약 15%의 점유율을 차지하고 있습니다.

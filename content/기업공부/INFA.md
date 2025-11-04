@@ -89,9 +89,6 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
 - 5G 및 IoT 데이터 관리를 위한 엣지 컴퓨팅 솔루션 개발 (2022년)
     
 - 지속가능성 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2022년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 - The Vanguard Group (11.66%)
     
@@ -102,14 +99,8 @@ Informatica는 2024년 기준 엔터프라이즈 데이터 통합 시장에서 �
 ## 관련 ETF
 
 - iShares Expanded Tech-Software Sector ETF - IGV
-
-{{< adsense-infeed >}}
-
 - SPDR S&P Software & Services ETF - XSW
     
 - First Trust Cloud Computing ETF - SKYY
-
-{{< adsense-infeed >}}
-
 - Global X Cloud Computing ETF - CLOU
 - WisdomTree Cloud Computing Fund - WCLD

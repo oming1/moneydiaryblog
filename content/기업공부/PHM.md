@@ -104,6 +104,7 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 
 - GIS·데이터 분석 → 시장성·인프라·규제 검토 → 토지 계약 및 인허가
 2단계: **디자인 확정·모듈 제작**
+2단계: **디자인 확정·모듈 제작**
 - 고객과 3D HomeStudio로 설계 협의 → 공장 제작 모듈(벽체·바닥·지붕) 생산
 
 3단계: **현장 공사·조립**
@@ -123,9 +124,6 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 ### 전방산업 / 후방산업
 
 **전방산업 (PHM 주택을 사용하는 산업)**
-
-{{< adsense-infeed >}}
-
 - 부동산 중개: Keller Williams(US, KW), RE/MAX(US)
 - 임대·운영: Invitation Homes(US, INVH), American Homes 4 Rent(US, AMH)
 - 인테리어·이사 서비스: Wayfair(US, [W](/company-analysis/w/), 개인 고객 케어)
@@ -149,9 +147,6 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 5. **사후 관리·보증 → 모듈 업그레이드**
 
 각 단계마다 Pulte의 디지털 플랫폼, 모듈러 공법, 서비스 조직이 유기적으로 연결되어 **품질·속도·고객 경험**을 극대화합니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 제품

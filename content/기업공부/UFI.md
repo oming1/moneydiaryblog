@@ -18,9 +18,6 @@ weight: 906
 섹터: 임의소비재
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 산업: 섬유제품(Textile Manufacturing)
 
 ## 영위사업
@@ -47,12 +44,12 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 
 1. 의류 제조: 스포츠웨어, 일상복 등 생산
     - Nike(US, [NKE](/company-analysis/nke/)), Adidas(DE, [ADS](/company-analysis/ads/))
-
-{{< adsense-infeed >}}
-
 2. 자동차 내장재: 자동차 시트, 카펫 등 제조
     
     - Lear Corporation(US, [LEA](/company-analysis/lea/))
+3. 가정용품: 카펫, 커튼 등 생활용품 생산
+    
+    - Mohawk Industries(US, [MHK](/company-analysis/mhk/))
 3. 가정용품: 카펫, 커튼 등 생활용품 생산
     
     - Mohawk Industries(US, [MHK](/company-analysis/mhk/))
@@ -99,17 +96,11 @@ Unifi는 북미, 중남미, 아시아, 유럽 등 글로벌 시장에서 사업�
 3. Lenzing AG(AT, LNZ): 셀룰로오스 섬유
 4. Invista (비상장): 나일론, 스판덱스
 5. Eastman Chemical Company(US, EMN): 특수 섬유 및 화학제품
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Unifi는 재활용 폴리에스터 섬유 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 지속가능성 이니셔티브 강화 및 REPREVE 브랜드 확장 (2022-2024)
 2. COVID-19 팬데믹 영향 및 회복 (2021-2022)
 3. 원자재 가격 변동성 대응 및 수익성 개선 노력 (2022-2024)

@@ -29,9 +29,6 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 물류: Amazon (US, [AMZN](/company-analysis/amzn/)), Walmart (US, [WMT](/company-analysis/wmt/))
 - 자동차: Renault (FR, RNO.PA)
 
@@ -40,9 +37,6 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 - 연료전지 부품: Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **원재료 공급**: 수소, 금속
     - **대표 회사**: Air Products and Chemicals Inc. (미국, APD), Linde PLC (영국, LIN)
 - **제조**: 연료 전지 시스템 생산
@@ -58,13 +52,7 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 - GenSure (백업 전원용 연료전지, 매출의 약 10%)
 - ProGen (차량용 연료전지 엔진, 매출의 약 10%)
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 주로 미국 시장에 집중되어 있으며, 유럽과 아시아 시장 진출을 확대 중입니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/)) - 연료전지 시스템

@@ -253,9 +253,6 @@ DallasNews는 전통적인 제조업체가 아닌 미디어 서비스 제공 모
 - 달라스-포트워스 메트로플렉스: 약 85% (2024년 기준)
 - 텍사스 기타 지역: 약 10% (2024년 기준)
 - 미국 기타 지역: 약 5% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 최근 3년간 달라스 지역 집중도가 높아지고 있으며, 지역 특화 콘텐츠 및 서비스에 집중하고 있습니다.
 
 ---
@@ -323,9 +320,6 @@ DallasNews는 140년의 역사를 가진 전통적인 지역 신문사로, 미�
 ---
 
 ## 주요주주 (지분율)
-
-{{< adsense-infeed >}}
-
 내부자: 27.29% 기관 투자자: 27.28% 개인 투자자: 45.43%
 
 **주요 내부자:**
@@ -348,9 +342,6 @@ DallasNews는 140년의 역사를 가진 전통적인 지역 신문사로, 미�
 ---
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Vanguard Total Stock Market ETF - VTI
 - Vanguard Extended Market ETF - VXF
 - Dimensional Core Equity Market ETF - DFAC

@@ -23,6 +23,10 @@ Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계,
 
 ## 전방/후방산업
 ## 후방산업
+Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계, 개발, 제조, 판매 및 서비스하는 기업입니다. 주로 중장비 모빌리티, 휴대용 전원, 물류 처리, 백업 전원 등의 시장에 제품을 공급합니다.
+
+## 전방/후방산업
+## 후방산업
 - 원자재 공급업체: 연료전지 제조에 필요한 재료 공급
 - 반도체 제조업체: 연료전지 부품 공급
 
@@ -30,9 +34,6 @@ Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계,
 
 - 자동차 제조업체: 연료전지 시스템 도입 (예: Daimler AG(독일, DAI.DE), Ford Motor Company(US, [F](/company-analysis/f/)))
 - 물류 기업: 지게차 등 물류 장비에 연료전지 적용 (예: Amazon(US, [AMZN](/company-analysis/amzn/)))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 연구 개발: Ballard Power Systems (자체 R&D)
@@ -52,9 +53,6 @@ Ballard Power Systems는 프로톤 교환막(PEM) 연료전지 제품을 설계,
 캐나다, 미국, 유럽, 중국
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Plug Power(US, [PLUG](/company-analysis/plug/)): 수소 연료전지 시스템
 - FuelCell Energy(US, [FCEL](/company-analysis/fcel/)): 고체 산화물 및 용융탄산염 연료전지
 - Bloom Energy(US, [BE](/company-analysis/be/)): 고체 산화물 연료전지

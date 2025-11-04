@@ -19,18 +19,12 @@ weight: 664
 - **Industry (산업)**: 소프트웨어 - 인프라 (Software - Infrastructure)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 오라클은 데이터베이스 소프트웨어, 클라우드 컴퓨팅, 엔터프라이즈 소프트웨어 제품을 제공하는 글로벌 기술 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Cloud and License Business**: [클라우드](/industry-study/2산업클라우드/) 소프트웨어 및 라이선스 제공
 - **Hardware Business**: 엔터프라이즈 서버, 스토리지 솔루션 등 하드웨어 제품 제공
 - **Services**: 컨설팅, 고객 지원, 교육 서비스 제공
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 소프트웨어 개발 및 공급
     - **핵심 기업**: Microsoft (미국, [MSFT](/company-analysis/msft/)), IBM (미국, [IBM](/company-analysis/ibm/))

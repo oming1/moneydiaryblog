@@ -1,4 +1,4 @@
----
+﻿---
 title: "Oracle(ORCL) 2026 Q1 실적발표"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-11-03T21:50:36+09:00
@@ -26,9 +26,6 @@ weight: 2
 - **소프트웨어 매출**: 57억 달러 (-1% YoY, USD 기준)
 
 **수익성:**
-
-{{< adsense-infeed >}}
-
 - **GAAP EPS**: $1.01 (-2% YoY)
 - **Non-GAAP EPS**: $1.47 (+6% YoY)
 - **GAAP 영업이익**: 43억 달러
@@ -44,9 +41,6 @@ weight: 2
 이는 오라클 역사상 가장 큰 규모의 RPO 성장률로, AI 및 클라우드 수요 급증을 반영합니다. [Oracle Corporation](https://investor.oracle.com/)
 
 ## 🌐 **멀티클라우드 전략의 초고속 성장**
-
-{{< adsense-infeed >}}
-
 **Larry Ellison CTO 발언 검증:**
 
 - **멀티클라우드 DB 매출**: Q1에 **1,529% 증가** (Amazon, Google, Microsoft 파트너십)
@@ -77,8 +71,6 @@ weight: 2
 - **현금성 자산**: 112억 달러
 - **단기 이연 수익**: 121억 달러
 - **부채**: 단기 90억 달러 + 장기 822억 달러
-
-{{< adsense-infeed >}}
 ## 📈 **주가 반응**
 
 **시장 반응 (2025년 9월 9일):**

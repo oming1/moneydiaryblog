@@ -24,9 +24,6 @@ weight: 256
 ## 영위사업
 
 Community Health Systems, Inc.(CYH)는 미국의 주요 의료 서비스 제공업체로, 주로 일반 급성 치료 병원을 소유, 임대 및 운영합니다. 회사는 다음과 같은 주요 사업을 영위하고 있습니다:
-
-{{< adsense-infeed >}}
-
 1. 급성 치료 병원 운영
 2. 외래 진료 시설 운영
 3. 응급실 서비스
@@ -50,6 +47,7 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 1. 후방산업:
+1. 후방산업:
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료 IT: Cerner Corporation
@@ -70,9 +68,6 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 6. 환자 후속 관리: Kindred Healthcare
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 급성 치료 병원 서비스
 2. 외래 진료 서비스
 3. 응급실 서비스
@@ -103,9 +98,6 @@ Community Health Systems는 주로 미국 시장에서 사업을 영위하고 �
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Community Health Systems는 미국 의료 시설 산업에서 주요 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2024년 2분기 순손실 1,300만 달러 기록 (2024년)
 2. 장기 부채 115억 달러 이상으로 재무 구조 개선 필요성 증가 (2024년)
 3. 노스웨스트 헬스케어 자회사를 통해 아리조나 10개 응급 치료 센터 인수 계획 발표 (2024년)

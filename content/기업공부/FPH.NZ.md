@@ -39,9 +39,6 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 - 플라스틱 및 실리콘 제조업체: 마스크 및 튜브 재료 공급
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: Fisher & Paykel Healthcare (NZ, [FPH.NZ])
 2. 제조: Fisher & Paykel Healthcare (NZ, [FPH.NZ])
 3. 유통: 직접 판매 및 유통 네트워크
@@ -59,9 +56,6 @@ Fisher & Paykel Healthcare Corporation Limited (FPH.NZ)는 호흡 치료, 급성
 
 Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 뉴질랜드 내 매출은 전체의 1%에 불과합니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. ResMed (US, [RMD](/company-analysis/rmd/))
 2. Philips Respironics (네덜란드, [PHG](/company-analysis/phg/))
 3. Medtronic (아일랜드, [MDT](/company-analysis/mdt/))
@@ -69,6 +63,7 @@ Fisher & Paykel Healthcare는 전 세계 120개국 이상에서 제품을 판매
 5. Löwenstein Medical (독일)
 
 ## 산업 내 글로벌 시장 점유율
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Fisher & Paykel Healthcare는 호흡 치료 및 수면 무호흡증 치료 분야에서 주요 글로벌 플레이어로 인식되고 있습니다.
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Fisher & Paykel Healthcare는 호흡 치료 및 수면 무호흡증 치료 분야에서 주요 글로벌 플레이어로 인식되고 있습니다.
 ## 최근 3년 내 주요 이슈
 

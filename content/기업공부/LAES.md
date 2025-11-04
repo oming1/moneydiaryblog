@@ -19,6 +19,7 @@ weight: 504
 
 ## 산업
 전자장비, 기기 및 부품(Electronic Equipment, Instruments & Components)
+전자장비, 기기 및 부품(Electronic Equipment, Instruments & Components)
 ## 영위사업
 
 SEALSQ Corp(LAES)는 디지털 보안 및 IoT 솔루션을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -49,6 +50,9 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
     - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
     - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
     - 암호화폐 거래소: Coinbase(US, [COIN](/company-analysis/coin/))
+    - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
+    - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
+    - 암호화폐 거래소: Coinbase(US, [COIN](/company-analysis/coin/))
 ## 밸류체인
 
 1. 칩 설계: SEALSQ (주요 사업 영역)
@@ -73,9 +77,6 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
 9. 산업용 장비 제조업체
 10. 암호화폐 거래소
 11. 정부 기관
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 SEALSQ Corp의 구체적인 판매 국가 정보는 제공되지 않았으나, 글로벌 시장을 대상으로 사업을 전개하고 있는 것으로 보입니다.
@@ -89,13 +90,7 @@ SEALSQ Corp의 구체적인 판매 국가 정보는 제공되지 않았으나, �
 16. Rambus(US, RMBS) - 보안 IP 및 칩
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 SEALSQ Corp의 정확한 시장 점유율 데이터는 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 17. 나스닥 상장 (2023년)

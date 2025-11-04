@@ -28,15 +28,9 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 5. RNA 제조 서비스: 핵산 치료제 개발을 위한 효소 기술 제공
 
 회사의 핵심 기술은 CodeEvolver®라는 독점 단백질 엔지니어링 플랫폼으로, 기계 학습과 고처리량 실험을 통해 단백질 기능을 최적화합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 제약 산업: Merck & Co. (US, [MRK](/company-analysis/mrk/))
 - 식품 산업: Tate & Lyle (UK, TATE.L)
 ## 후방산업
@@ -45,15 +39,9 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 - 유전자 합성 서비스 제공업체: Twist Bioscience (US, [TWST](/company-analysis/twst/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: Codexis (US, [CDXS](/company-analysis/cdxs/))
 2. 효소 생산: Codexis (US, [CDXS](/company-analysis/cdxs/))
 3. 응용 및 상용화: 제약회사, 식품회사, 화학회사 등 파트너 기업들
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. CodeEvolver® 단백질 엔지니어링 플랫폼

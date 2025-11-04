@@ -35,9 +35,6 @@ Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅,
 - **제품 제조**: 커피 로스팅 및 음료 제조 (Starbucks)
 - **유통 및 물류**: 글로벌 물류 및 유통 네트워크 운영 (Starbucks)
 - **소매 및 서비스**: 매장 운영 및 고객 서비스 제공 (Starbucks)
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **커피 및 차 음료**: 다양한 종류의 커피 및 차 음료
@@ -53,6 +50,7 @@ Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅,
 - **일본**: 주요 판매국가로 1,733개의 매장 운영 (2023년 기준)
 - **한국**: 주요 판매국가로 1,870개의 매장 운영 (2023년 기준)
 #### 경쟁업체
+#### 경쟁업체
 - **McDonald’s (US, [MCD](/company-analysis/mcd/))**: 패스트푸드 및 커피 판매
 - **Dunkin’ (US, DNKN)**: 커피 및 도넛 판매
 - **Chipotle Mexican Grill (US, [CMG](/company-analysis/cmg/))**: 패스트 캐주얼 레스토랑
@@ -62,8 +60,5 @@ Starbucks는 전 세계적으로 [커피](/industry-study/커피/)를 로스팅,
 [Starbucks는 글로벌 커피 시장에서 약 40.67%의 점유율을 보유하고 있으며, 이는 2024년 기준으로 세계 1위입니다](https://csimarket.com/stocks/competitionSEG2.php?code=SBUX)[6](https://csimarket.com/stocks/competitionSEG2.php?code=SBUX).
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **2024년**: 동일 매장 매출 4% 감소 및 중국 시장에서 11% 감소 (2024년)
 - **2023년**: 글로벌 매출 11% 증가 및 38,038개의 매장 운영 (2023년)

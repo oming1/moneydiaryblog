@@ -21,9 +21,6 @@ weight: 709
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
 ## 산업
-
-{{< adsense-infeed >}}
-
 산업: 생명과학 도구 및 서비스(Life Sciences Tools & Services)
 
 ## 영위사업
@@ -52,13 +49,7 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 
 - 현금 및 현금성 자산: 약 5억 6500만 달러 (2024년 2분기 기준)
 - 2026년까지의 운영 자금 확보
-
-{{< adsense-infeed >}}
-
 ## 최근 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. Bristol Myers Squibb와 PRX019에 대한 독점 라이선스 계약 체결 (2024년)
 2. 알츠하이머병 치료제 PRX012의 임상시험 진행 중
 3. ESG 투자 전략 강화 및 관련 펀드 출시 (2023년)

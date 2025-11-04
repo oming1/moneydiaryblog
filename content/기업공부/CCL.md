@@ -29,13 +29,7 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
 - **후방산업:** 해운업
     - **핵심 산업:** 해운업은 Carnival에 크루즈 선박을 제공하고 유지 관리합니다.
     - **관련 기업:** Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/)), Norwegian Cruise Line Holdings (미국, [NCLH](/company-analysis/nclh/))
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **크루즈 운영:**
     - **설명:** 다양한 크루즈 라인을 운영하여 고객에게 여행 서비스를 제공
     - **대표회사:** Carnival Corporation & plc (미국, [CCL](/company-analysis/ccl/)), Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/))
@@ -55,9 +49,6 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 - **Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/)):** 크루즈 여행 패키지
 - **Norwegian Cruise Line Holdings (미국, [NCLH](/company-analysis/nclh/)):** 크루즈 여행 패키지

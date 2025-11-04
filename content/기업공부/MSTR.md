@@ -29,9 +29,6 @@ MicroStrategy는 비즈니스 인텔리전스(BI) 소프트웨어 및 클라우�
     - **핵심 산업**: 데이터 분석 및 비즈니스 인텔리전스
     - **역할**: 최종 소비자에게 데이터 기반 의사 결정 지원
     - **주요 기업**: Tableau (Salesforce 소속, 미국, [CRM](/company-analysis/crm/)), Qlik (미국, 비상장)
-
-{{< adsense-infeed >}}
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 클라우드 컴퓨팅 및 데이터 저장소
@@ -61,21 +58,12 @@ MicroStrategy는 비즈니스 인텔리전스(BI) 소프트웨어 및 클라우�
 ## 주요 판매 국가
 
 MicroStrategy는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Tableau** (Salesforce 소속, 미국, [CRM](/company-analysis/crm/)) - 경쟁 제품: 데이터 시각화 도구
 - **Qlik** (미국, 비상장) - 경쟁 제품: BI 플랫폼
 
 ## 산업 내 글로벌 시장 점유율
 MicroStrategy는 글로벌 비즈니스 인텔리전스 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - **비트코인 투자 확대**: MicroStrategy가 비트코인에 대한 대규모 투자를 발표하며 주목받음 (2020)

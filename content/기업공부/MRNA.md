@@ -35,13 +35,7 @@ weight: 591
 - **전방산업 (Downstream Industry)**:
     - **핵심 산업**: 제약 및 의료 서비스
     - **핵심 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Merck & Co. (미국, [MRK](/company-analysis/mrk/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발 (Research & Development)**:
     - **설명**: mRNA 기반 치료제 및 백신의 연구 및 개발
     - **대표회사**: Moderna (미국, [MRNA](/company-analysis/mrna/)), BioNTech (독일, [BNTX](/company-analysis/bntx/))
@@ -57,10 +51,13 @@ weight: 591
 - **Spikevax**: COVID-19 백신
 - **mRNA-1273**: COVID-19 예방 백신
 - **mRNA-1647**: 사이토메갈로바이러스(CMV) 백신 (개발 중)
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
+- **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
+
+#### 경쟁업체
+- **BioNTech (독일, [BNTX](/company-analysis/bntx/))**: mRNA 기반 백신 및 치료제
+- **Pfizer (미국, [PFE](/company-analysis/pfe/))**: mRNA 기반 백신 및 치료제
+- **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 제약 및 의료 서비스
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
 
 #### 경쟁업체

@@ -34,9 +34,6 @@ weight: 194
     - **핵심 산업**: 콘텐츠 제공 및 스트리밍 서비스
     - **핵심 기업**: Netflix (미국, [NFLX](/company-analysis/nflx/)), Disney (미국, [DIS](/company-analysis/dis/))
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **네트워크 인프라 구축 (Network Infrastructure Development)**:
     - **설명**: 광대역 네트워크 및 통신 인프라 구축
     - **대표회사**: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
@@ -54,9 +51,6 @@ weight: 194
 - **Spectrum Mobile**: 모바일 통신 서비스
 - **Spectrum Voice**: VoIP 기술을 이용한 음성 통신 서비스
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 전체 매출의 대부분을 차지하며, 41개 주에서 서비스 제공
 
 #### 경쟁업체

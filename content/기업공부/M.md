@@ -24,25 +24,19 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 ### 전방/후방산업
 
 **전방산업:**
+### 전방/후방산업
+
+**전방산업:**
 - 소매업체: Nordstrom (US, [JWN](/company-analysis/jwn/)), Kohl’s (US, [KSS](/company-analysis/kss/))
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - 제조업체: Hanesbrands (US, HBI), VF Corporation (US, VFC)
 - 물류업체: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 - **의류:** 남성, 여성, 아동 의류 (매출 비중: 2023년 기준 50%)
 - **액세서리 및 화장품:** 가방, 주얼리, 화장품 등 (매출 비중: 2023년 기준 30%)
 - **가정용품:** 가구, 주방용품 등 (매출 비중: 2023년 기준 20%)
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 
 - 미국 (주요 매출 국가)
@@ -55,9 +49,6 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 ### 산업 내 글로벌 시장 점유율
 
 [Macy’s, Inc.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://stockanalysis.com/stocks/m/company/)[3](https://stockanalysis.com/stocks/m/company/).
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈
 
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

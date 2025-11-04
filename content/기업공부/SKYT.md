@@ -29,9 +29,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 1. Wafer Fabrication(웨이퍼 제작)  
     • 고객이 설계한 회로를 90nm~90nm 이하 첨단 공정으로 웨이퍼에 새김  
     • 200mm·300mm 웨이퍼 라인 운영, CMOS·BiCMOS·SOI·RF·MEMS 공정 보유
-
-{{< adsense-infeed >}}
-
 2. Advanced Packaging & Assembly(패키징·조립)  
     • 완성된 칩을 보호하고 외부 회로와 연결하는 패키지 제작  
     • 팬아웃 웨이퍼 레벨 패키징(FOWLP), 플립칩, 2.5D·3D IC 적층 기술 지원
@@ -93,9 +90,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - **Surface-Micromachined MEMS**: 압력·가스 센서용 마이크로 구조체
 - **FOWLP (Fan-Out Wafer-Level Packaging)**: 칩 소형화·고집적 패키징
 - **Integrated Metrology Suite**: 레이저·전자빔 계측장비 연동 공정 제어
-
-{{< adsense-infeed >}}
-
 ---
 ### 제조 공정
 

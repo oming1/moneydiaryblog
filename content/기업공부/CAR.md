@@ -18,9 +18,6 @@ weight: 170
 ## 산업섹터
 
 섹터: 산업재
-
-{{< adsense-infeed >}}
-
 산업: 렌탈및리스서비스
 
 ## 영위사업
@@ -28,6 +25,8 @@ weight: 170
 Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본사를 둔 글로벌 차량 렌탈 및 모빌리티 솔루션 제공 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **차량 렌탈**: Avis, Budget, Payless 브랜드를 통해 개인 및 기업 고객에게 차량 렌탈 서비스 제공
+2. **자동차 공유**: Zipcar 브랜드를 통해 도시 및 대학 캠퍼스에서 자동차 공유 서비스 제공
+3. **트럭 렌탈**: Budget Truck Rental을 통해 소형 상업용 트럭 렌탈 서비스 제공
 2. **자동차 공유**: Zipcar 브랜드를 통해 도시 및 대학 캠퍼스에서 자동차 공유 서비스 제공
 3. **트럭 렌탈**: Budget Truck Rental을 통해 소형 상업용 트럭 렌탈 서비스 제공
 4. **디지털 플랫폼**: AI 기반 예약 시스템 및 모바일 앱을 통한 디지털 전환
@@ -61,9 +60,6 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 - **자동차 제조사**: General Motors(US, [GM](/company-analysis/gm/)), Ford Motor Company(US, [F](/company-analysis/f/))
     
 - **연료 공급사**: Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
-
-{{< adsense-infeed >}}
-
 - **IT 인프라 제공사**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 
 ## 밸류체인
@@ -107,17 +103,11 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 2. Hertz Global Holdings (US, [HTZ](/company-analysis/htz/)): 글로벌 차량 렌탈 기업
     
 3. Sixt SE (DE, SIX2): 독일 기반의 국제 차량 렌탈 업체
-
-{{< adsense-infeed >}}
-
 4. Europcar Mobility Group (FR): 유럽 중심의 차량 렌탈 서비스 제공 업체 (비상장)
     
 5. Getaround (비상장): P2P 자동차 공유 플랫폼
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Avis Budget Group는 2024년 기준 글로벌 차량 렌탈 시장에서 약 26%의 점유율을 보유하고 있으며, 미국 내에서는 약 32%로 상위 3대 기업 중 하나로 자리잡고 있습니다. Zipcar는 자동차 공유 시장에서 약 39%의 점유율로 선두를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

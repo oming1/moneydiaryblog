@@ -58,18 +58,12 @@ Dollar General Corporation은 1939년 설립된 미국의 할인 소매점 체�
 ## 주요 판매국가
 
 Dollar General은 주로 미국에서 운영되며, 2023년 기준으로 멕시코에도 진출했습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 
 - 19,643개의 매장 (2024년 1월 기준)
 - 물류 센터 네트워크
 - 자체 브랜드 (Clover Valley, True Living 등)
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Dollar Tree (US, [DLTR](/company-analysis/dltr/)) - 할인 소매점 체인
 - Family Dollar (Dollar Tree의 자회사) - 할인 소매점 체인
 - Walmart (US, [WMT](/company-analysis/wmt/)) - 대형 할인점 체인

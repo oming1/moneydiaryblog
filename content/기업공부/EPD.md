@@ -20,9 +20,6 @@ weight: 319
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Enterprise Products Partners L.P.는 북미 최대의 미드스트림 에너지 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
@@ -71,9 +68,6 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 3. 천연가스
 4. 석유화학 제품
 5. 정제 제품
-
-{{< adsense-infeed >}}
-
 ## 주요고객
 
 1. 석유 및 가스 생산 기업
@@ -95,9 +89,6 @@ Enterprise Products Partners는 주로 북미 시장에서 사업을 영위하�
 5. TC Energy(CA, TRP)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Enterprise Products Partners는 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -107,9 +98,6 @@ Enterprise Products Partners는 주로 북미 시장에서 사업을 영위하�
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 영향 극복 및 실적 회복 (2022-2023년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. The Vanguard Group, Inc.: 11.62%
 2. BlackRock Fund Advisors: 7.89%
 3. SSgA Funds Management, Inc.: 4.98%

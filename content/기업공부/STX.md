@@ -33,15 +33,9 @@ weight: 837
 Seagate Technology Holdings plc는 1979년에 아일랜드에서 설립된 글로벌 스토리지 솔루션 전문 기업으로, 하드 디스크 드라이브(HDD), 솔리드 스테이트 드라이브(SSD), 스토리지 시스템을 제조합니다. 
 
 초기에는 PC용 HDD에 집중했으나, [데이터센터](/industry-study/데이터센터/)와 클라우드 수요 증가로 엔터프라이즈 스토리지로 사업을 확대했습니다. 회사는 싱가포르, 태국, 중국 등 아시아에 생산 시설을 보유하고 있으며, 미국과 유럽에 R&D 센터를 운영합니다. 
-
-{{< adsense-infeed >}}
-
 Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recording) 같은 혁신 기술로 고용량 HDD를 선도하며, 데이터 폭증 트렌드(클라우드, AI, 빅데이터)에 맞춰 성장을 추구합니다. 
 
 최근에는 Lyve Cloud 스토리지 서비스로 소프트웨어 영역을 강화하고 있으며, 회사의 강점은 비용 효율적 생산과 기술 리더십에 있습니다. 이는 데이터 스토리지 시장의 성장에 맞춰 장기적인 성장을 지원하지만, SSD 전환과 경쟁 심화가 과제입니다.
-
-{{< adsense-infeed >}}
-
 - **주요 제품 및 서비스**
     
     - **엔터프라이즈 HDD (Exos 시리즈):** 데이터 센터용 고용량 드라이브. HAMR 기술로 30TB 이상 용량 제공, 클라우드 스토리지에 최적화. 예를 들어, Exos X 시리즈는 헬륨 밀봉으로 에너지 효율을 높입니다.
@@ -100,9 +94,6 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 - **성장 동력 및 수익성 개선 요인:**
     - 고용량 HDD 수요, 클라우드 서비스 확대, 비용 절감.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 핵심 경쟁력

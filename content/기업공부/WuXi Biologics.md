@@ -35,9 +35,6 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
     - 주요 기업: BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
 
 #### 밸류체인 (Value Chain)
-
-{{< adsense-infeed >}}
-
 1. **연구 및 개발 (R&D)**
     - 대표 기업: WuXi Biologics, Charles River Laboratories (US, [CRL](/company-analysis/crl/))
 2. **임상 시험 (Clinical Trials)**
@@ -50,16 +47,14 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
 - **항체 생성** (Antibody Generation)
 - **세포 및 유전자 치료제** (Cell and Gene Therapies)
 - **바이러스 벡터 기반 백신** (Viral Vector-Based Vaccines)
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가 (Major Sales Countries)
-
-{{< adsense-infeed >}}
-
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **중국:** 본사 위치 및 주요 시장
+#### 경쟁업체 (Competitors)
+- **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공
+- **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공
+- **Catalent** (US, [CTLT](/company-analysis/ctlt/)): 약물 개발 및 제조 서비스 제공
 #### 경쟁업체 (Competitors)
 - **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공

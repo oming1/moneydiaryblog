@@ -19,9 +19,6 @@ weight: 675
 - **Industry**: 엔터테인먼트 (Entertainment)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Paramount Global은 다양한 미디어 및 엔터테인먼트 콘텐츠를 제작, 배포하는 글로벌 미디어 기업입니다. 주요 사업으로는 텔레비전 방송, 영화 제작 및 배급, 스트리밍 서비스, 출판 등이 있습니다.
 
 #### 전방/후방산업
@@ -31,9 +28,6 @@ Paramount Global은 다양한 미디어 및 엔터테인먼트 콘텐츠를 제�
     - **스트리밍 서비스**: Paramount의 콘텐츠는 스트리밍 플랫폼을 통해 제공됩니다. 주요 기업으로는 Netflix (미국, [NFLX](/company-analysis/nflx/))와 Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))가 있습니다.
 - **후방산업**:
     - **콘텐츠 제작**: 영화 및 TV 프로그램 제작을 위한 스튜디오와 프로덕션 회사가 포함됩니다. 주요 기업으로는 Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))와 Sony Pictures (일본, 6758.T)가 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 Paramount의 밸류체인은 콘텐츠 제작에서부터 배포 및 소비자에게 제공되는 과정까지 포함됩니다. 대표적인 회사로는:

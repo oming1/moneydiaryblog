@@ -20,9 +20,6 @@ weight: 55
 - **Industry:** 특수 화학 (Specialty Chemicals)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입니다. 이 회사는 [전기차](/industry-study/2산업자동차-산업전기차/), 소비자 전자제품, 청정 에너지 솔루션 등 다양한 응용 분야를 위한 배터리 등급의 리튬 화합물을 제공합니다
 
 ### 전방/후방산업
@@ -30,6 +27,9 @@ Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입
 - **전방산업:** 전기차 제조업
     - **핵심 산업:** 전기차 제조업은 Arcadium의 리튬 화합물을 사용하여 배터리를 제조합니다.
     - **관련 기업:** Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594)
+- **후방산업:** 리튬 채굴업
+    - **핵심 산업:** 리튬 채굴업은 Arcadium에 리튬 원료를 공급합니다.
+    - **관련 기업:** Albemarle (미국, [ALB](/company-analysis/alb/)), SQM (칠레, SQM)
 - **후방산업:** 리튬 채굴업
     - **핵심 산업:** 리튬 채굴업은 Arcadium에 리튬 원료를 공급합니다.
     - **관련 기업:** Albemarle (미국, [ALB](/company-analysis/alb/)), SQM (칠레, SQM)
@@ -66,9 +66,6 @@ Arcadium Lithium PLC는 리튬 화학 제품을 생산하는 글로벌 기업입
 - **Arcadium Lithium PLC:** 약 5% (2023년 기준)
 - **Albemarle:** 약 20% (2023년 기준)
 - **SQM:** 약 15% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈
 
 - **리튬 가격 급등 (2021년)**

@@ -35,6 +35,7 @@ SharkNinja는 청소기, 주방 가전, 뷰티 제품 등 다양한 가전제품
     
     - 예: Walmart(US, [WMT](/company-analysis/wmt/)), Target(US, [TGT](/company-analysis/tgt/))
 ## 밸류체인
+## 밸류체인
 1. **제품 설계**: SharkNinja (신제품 개발 및 디자인)
 2. **제조**: SharkNinja (자체 공장 및 외주 생산)
 3. **유통**: SharkNinja (온라인 및 오프라인 유통망)
@@ -48,24 +49,12 @@ SharkNinja는 청소기, 주방 가전, 뷰티 제품 등 다양한 가전제품
 ## 주요 판매국가
 
 주요 판매국가는 미국, 캐나다, 유럽 국가들로, 특히 북미 시장에서 강력한 입지를 보유하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - **Dyson(영국, DY):** 고급 청소기 및 공기청정기 제조업체.
 - **Bissell(US):** 다양한 청소기 및 바닥 관리 제품을 제공하는 업체.
 - **KitchenAid(US):** 주방 가전 및 조리 기구를 전문으로 하는 브랜드.
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 SharkNinja는 미국의 가전제품 시장에서 중요한 점유율을 보유하고 있으며, 2022년 기준으로 연간 매출이 약 37억 달러에 달합니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 2023년 7월 31일, SharkNinja는 JS Global로부터 독립적인 공개 회사로 분리됨.

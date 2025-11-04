@@ -26,9 +26,6 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
 
 1. [천연가스](/industry-study/천연가스/) 운영: 주거용, 상업용, 산업용 고객에게 천연가스 유통 서비스를 제공합니다. 이 부문은 회사 수익의 약 절반을 차지합니다.
 2. 유틸리티 인프라 서비스: 자회사인 Centuri Group Inc.를 통해 북미 전역에서 지하 배관 계약 서비스 및 산업 건설 솔루션을 제공합니다. 이 부문 역시 회사 수익의 약 절반을 차지합니다.
-
-{{< adsense-infeed >}}
-
 2023년 기준으로 Southwest Gas Holdings는 220만 명 이상의 천연가스 고객을 보유하고 있습니다. 회사는 지속가능성과 혁신에 주력하며, 서비스 지역의 증가하는 에너지 수요를 충족시키기 위해 지속적으로 인프라를 개선하고 있습니다.
 
 ## 핵심 경쟁력
@@ -56,17 +53,11 @@ Southwest Gas Holdings, Inc.는 미국의 천연가스 유틸리티 기업으로
     - General Electric(US, [GE](/company-analysis/ge/))
 
 ## 후방산업:
-
-{{< adsense-infeed >}}
-
 1. 천연가스 생산: 원료 공급
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
     
 2. 파이프라인 인프라: 가스 운송
-
-{{< adsense-infeed >}}
-
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/))
     
 3. 가스 저장 시설: 수요 변동 대응

@@ -43,9 +43,6 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 4. 미국 중심 제조: 중국에서 생산하지 않는 유일한 세계 10대 태양광 제조업체로, 미국 내 대규모 생산시설을 운영하고 있습니다.
 5. 글로벌 입지: 전 세계적으로 다양한 시장에서 사업을 영위하며, 특히 유틸리티 규모의 프로젝트에서 강점을 보입니다.
 6. 재무 건전성: 안정적인 재무구조를 바탕으로 지속적인 성장 투자가 가능합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -59,9 +56,6 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 - 반도체 소재: 5N Plus(CA, VNP), Indium Corporation
 - 유리 제조: Corning(US, [GLW](/company-analysis/glw/)), AGC Inc.(JP, 5201)
 - 장비 제조: Applied Materials(US, [AMAT](/company-analysis/amat/)), Meyer Burger(CH, MBTN)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. R&D: First Solar(US, [FSLR](/company-analysis/fslr/)) (CdTe 기술 개발)
 2. 원자재 조달: 5N Plus(CA, VNP) (텔루륨 공급)
@@ -86,9 +80,6 @@ First Solar의 핵심 경쟁력은 다음과 같습니다:
 - Lightsource bp - 글로벌 태양광 프로젝트 개발
 - Cypress Creek Renewables - 미국 내 태양광 프로젝트
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 기업 RE100 달성을 위한 태양광 도입
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 인도, 유럽(독일, 프랑스 등), 일본, 호주

@@ -70,9 +70,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     - Autodesk(US, [ADSK](/company-analysis/adsk/)), PTC(US, PTC)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: 드론 및 센서 기술 개발
     
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), AeroVironment(US, [AVAV](/company-analysis/avav/))
@@ -85,9 +82,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Parrot(FR, PARRO)
     
 4. 소프트웨어 개발: 비행 제어, 데이터 분석
-
-{{< adsense-infeed >}}
-
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Pix4D(비상장)
     
 5. 유통 및 판매: 정부 계약, 상업용 판매

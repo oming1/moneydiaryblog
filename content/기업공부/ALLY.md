@@ -26,20 +26,11 @@ Ally Financial Inc.는 디지털 금융 서비스 회사로, 다음과 같은 �
 - **모기지 금융**: 소비자 모기지 대출 포트폴리오 관리
 - **기업 금융**: 중소기업을 위한 자산 기반 대출 및 상업 부동산 금융 제공
 #### 전방산업
-
-{{< adsense-infeed >}}
-
 - **자동차 산업**: Ally의 자동차 금융 서비스는 자동차 제조업체 및 딜러에게 제공됩니다. 주요 기업: General Motors (US, [GM](/company-analysis/gm/)), Ford (US, [F](/company-analysis/f/)).
 - **부동산 산업**: 모기지 금융 서비스는 부동산 개발 및 관리에 사용됩니다. 주요 기업: Lennar (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/)).
 #### 후방산업
-
-{{< adsense-infeed >}}
-
 - **IT 및 소프트웨어 산업**: 금융 서비스 제공에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/)).
 - **보험 산업**: Ally의 보험 상품을 위한 재보험 및 기타 보험 서비스를 제공합니다. 주요 기업: Swiss Re (CH, SREN), Munich Re (DE, MUV2).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 1. **부품 공급**

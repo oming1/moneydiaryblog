@@ -98,14 +98,14 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 ---
 
 ### 핵심 기술
-
-{{< adsense-infeed >}}
-
 - **전기 버스 플랫폼:** 배터리 관리 시스템(BMS)과 충전 최적화.
 - **안전 시스템:** 3점식 안전벨트, 자동 브레이킹, 카메라 모니터링.
 - **대체 연료 기술:** CNG/프로판 엔진 통합과 효율화.
 - **디지털 플릿 관리:** telematics로 유지보수 예측.
 - **경량화 설계:** 알루미늄 바디로 연비 개선.
+---
+
+### 제조 공정
 ---
 
 ### 제조 공정
@@ -129,9 +129,6 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 
 - 엔진: Cummins(US, [CMI](/company-analysis/cmi/)).
 - 배터리: Proterra(비상장).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 밸류체인
@@ -192,9 +189,6 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 - Lion Electric(CA, LEV) - 전기 버스, 시장점유율 5%.
 - Proterra(US, 비상장) - 전기 버스, 시장점유율 4%.
 - Gillig(US, 비상장) - 트랜짓 버스, 시장점유율 10%.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 산업 내 글로벌 시장 점유율

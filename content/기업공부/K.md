@@ -44,13 +44,7 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 - 스낵 제품 (예: Cheez-It, Pringles)
 - 비건 및 식물 기반 제품 (예: MorningStar Farms)
 - 기타 간편식 및 디저트 제품
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Kellanova는 전 세계 180개국 이상에서 운영되며, 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다.
 
 ## 주요 자산

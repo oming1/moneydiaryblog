@@ -18,9 +18,6 @@ weight: 178
 CAVA는 미국의 패스트 캐주얼 레스토랑 체인으로, 그리스 및 지중해 요리를 전문으로 합니다. CAVA는 건강한 식사 옵션을 제공하며, 주로 샐러드, 랩, 그레인 보울 등을 판매합니다. 이 회사는 건강에 좋은 재료를 사용하여 고객에게 맛있고 영양가 있는 식사를 제공합니다.
 
 ## 산업 섹터
-
-{{< adsense-infeed >}}
-
 - **Sector(산업섹터)**: Consumer Discretionary(임의소비재)
 - **Industry(산업)**: Restaurants(레스토랑)
 
@@ -48,16 +45,10 @@ CAVA는 고객이 자신의 식사를 개인화할 수 있도록 다양한 재�
         - Sysco Corporation (미국, [SYY](/company-analysis/syy/)) - 식품 서비스 유통업체
         - US Foods (미국, [USFD](/company-analysis/usfd/)) - 식품 유통업체
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **음식 준비 및 조리**:
     
     - CAVA는 신선한 재료를 사용하여 음식을 준비하고 조리합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Sweetgreen (미국, SG): 건강한 샐러드 전문 레스토랑
         - Zoes Kitchen (미국, ZOES): 지중해 요리 전문 레스토랑
 

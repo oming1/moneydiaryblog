@@ -34,9 +34,6 @@ weight: 419
     - **대표 회사**: Marsh & McLennan Companies (미국, MMC), Aon plc (영국, AON)
 - **보험 청구 처리**: 보험 청구의 처리 및 관리
     - **대표 회사**: Sedgwick Claims Management Services (미국, 비상장), Gallagher Bassett Services (미국, 비상장)
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **주택 소유자 보험**: 단독 주택, 주택 소유자 또는 듀플렉스, 콘도미니엄 소유자 보험
@@ -44,20 +41,15 @@ weight: 419
 - **상업용 주택 보험**: 상업용 주택 보험
 
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 주요 매출 국가로, 전체 매출의 대부분을 차지
 - **플로리다**: 주요 시장 중 하나로, 주택 보험의 큰 비중을 차지
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Allstate Corporation (미국, ALL)**: 재산 및 상해 보험
 - **Progressive Corporation (미국, [PGR](/company-analysis/pgr/))**: 재산 및 상해 보험
 - **State Farm (미국, 비상장)**: 재산 및 상해 보험
 
 #### 산업 내 글로벌 시장 점유율
+- **Heritage Insurance**: 미국 내 재산 및 상해 보험 시장에서 약 1%의 점유율 (2023년 기준)
 - **Heritage Insurance**: 미국 내 재산 및 상해 보험 시장에서 약 1%의 점유율 (2023년 기준)
 #### 최근 3년 내 주요 이슈
 

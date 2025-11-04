@@ -24,9 +24,6 @@ weight: 594
 Microsoft Corporation(NASDAQ: MSFT)는 전 세계적으로 소프트웨어, 하드웨어, 클라우드 서비스 및 디지털 솔루션을 제공하는 글로벌 기술 기업입니다. 1975년 설립된 이 회사는 클라우드 컴퓨팅, 생산성 도구, 엔터프라이즈 IT 솔루션 등 다양한 부문에서 활동하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **Productivity and Business Processes**: Office 365, Microsoft Teams, LinkedIn 등
-
-{{< adsense-infeed >}}
-
 2. **Intelligent Cloud**: Azure [클라우드](/industry-study/2산업클라우드/) 플랫폼, 서버 제품 및 엔터프라이즈 서비스
     
 3. **More Personal Computing**: Windows 운영체제, Surface 디바이스, Xbox 게임 콘솔
@@ -101,9 +98,6 @@ Microsoft Corporation(NASDAQ: MSFT)는 전 세계적으로 소프트웨어, 하�
 미국, 영국, 독일, 일본, 중국, 인도, 캐나다, 호주
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Amazon Web Services(US, [AMZN](/company-analysis/amzn/)): 클라우드 컴퓨팅 시장 선두 기업
 2. Alphabet Inc.(US, [GOOGL](/company-analysis/googl/)): Google Cloud Platform 운영
     

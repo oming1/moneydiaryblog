@@ -40,9 +40,6 @@ Carpenter Technology Corporation은 1889년 설립된 미국의 글로벌 특수
 ---
 
 ## 비즈니스 모델(수익 모델)
-
-{{< adsense-infeed >}}
-
 Carpenter Technology의 비즈니스 모델은 특수합금 분야의 기술 선도 기업으로서 고부가가치 B2B 솔루션을 제공하는 전략입니다.
 
 **1. SAO(Specialty Alloys Operations) 부문 (매출 약 70%):**
@@ -105,9 +102,6 @@ Carpenter Technology의 핵심 경쟁력은 135년간 축적된 특수합금 기
 
 ## 제조공정
 Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조공정을 운영합니다:
-
-{{< adsense-infeed >}}
-
 **1. 합금 설계 및 개발:**
 - 고객 요구사항 분석 → 합금 조성 설계 → 시뮬레이션 → 시제품 제작 → 테스트 → 최적화
 

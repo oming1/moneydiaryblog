@@ -31,9 +31,6 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 3. 다각화된 수익 모델: 의약품 유통뿐만 아니라 기술 솔루션, 의료 용품 유통, 특수 의약품 서비스 등 다양한 사업 영역을 통해 안정적인 수익을 창출하고 있습니다.
 4. 전문성과 경험: 190년 이상의 역사를 가진 McKesson은 헬스케어 산업에 대한 깊은 이해와 전문성을 보유하고 있어, 복잡한 의료 환경에서 효과적으로 대응할 수 있습니다.
 5. 규모의 경제: 미국 의약품 유통 시장의 1/3을 차지하는 McKesson은 강력한 구매력을 바탕으로 비용 효율성을 실현하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업:  
 
 ### 전방산업:
@@ -41,9 +38,6 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 - 소매 약국: CVS Health(US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/))
 - 병원 및 의료 시스템: HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/))
 - 장기 요양 시설: Brookdale Senior Living(US, BKD)
-
-{{< adsense-infeed >}}
-
 ### 후방산업:
 
 - 제약 제조업체: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
@@ -66,9 +60,6 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 4. 특수 의약품 및 온콜로지 서비스 (매출 비중: 약 5%, 2023년 기준)
 
 ## 주요고객:
-
-{{< adsense-infeed >}}
-
 1. CVS Health(US, [CVS](/company-analysis/cvs/))
 2. Walgreens Boots Alliance(US, [WBA](/company-analysis/wba/))
 3. Rite Aid(US, RAD)

@@ -39,9 +39,6 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 - 병원 및 의료기관
 - 약국 체인
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: Universe Pharmaceuticals (자체 R&D)
 2. 제조: Universe Pharmaceuticals
 3. 마케팅 및 유통: Universe Pharmaceuticals
@@ -57,20 +54,11 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 ## 주요 판매국가
 
 중국
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 구체적인 경쟁사 정보는 제공되지 않았습니다.
 
 ## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 2024년 상반기 매출 1290만 달러 기록, 전년 동기 대비 30.2% 감소 (2024)

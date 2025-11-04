@@ -47,9 +47,6 @@ VeriSign의 수익 모델은 매우 안정적입니다. 도메인 등록 및 갱
 - 인터넷 거버넌스: 인터넷 정책 및 표준 수립 (ICANN(ICANN), NTIA(NTIA))
     
 - 네트워크 인프라: 인터넷 연결성 제공 (Cisco(US, [CSCO](/company-analysis/csco/)), Akamai(US, [AKAM](/company-analysis/akam/)))
-
-{{< adsense-infeed >}}
-
 - 데이터센터: 서버 및 인프라 호스팅 (Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/)))
 
 ## 밸류체인
@@ -109,6 +106,7 @@ VeriSign은 .com 및 .net 도메인에서 독점적 지위를 가지고 있지�
 
 ## 산업 내 글로벌 시장 점유율
 VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약 50%의 점유율을 보유하고 있습니다(2024년 기준). 전체 도메인 시장에서는 약 45%의 점유율을 차지하고 있으며, 이는 지난 3년간 큰 변화 없이 안정적으로 유지되고 있습니다.
+VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약 50%의 점유율을 보유하고 있습니다(2024년 기준). 전체 도메인 시장에서는 약 45%의 점유율을 차지하고 있으며, 이는 지난 3년간 큰 변화 없이 안정적으로 유지되고 있습니다.
 ## 최근 3년 내 주요 이슈
 
 1. ICANN과 .com 레지스트리 계약 갱신으로 2030년 11월까지 독점 운영권 확보 (2024년)
@@ -125,9 +123,6 @@ VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약
 1. Berkshire Hathaway (13.8%)
     
 2. Vanguard Group (11.7%)
-
-{{< adsense-infeed >}}
-
 3. BlackRock (9.2%)
     
 4. State Street Corporation (4.5%)

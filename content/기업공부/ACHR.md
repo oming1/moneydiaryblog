@@ -20,24 +20,16 @@ weight: 18
 
 ## 영위사업
 Archer Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하는 기업입니다. 도시 항공 모빌리티([UAM](/industry-study/2산업항공우주방위-산업3모빌리티uam/)) 시장을 목표로 하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Midnight: 4인승 전기 수직 이착륙 항공기
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 현재 개발 단계에 있으며, 미국 시장을 중심으로 사업을 추진하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
+- Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/))
+- Lilium(US, [LILM](/company-analysis/lilm/))
+- Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))
+## 최근 주요 이슈
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/))
 - Lilium(US, [LILM](/company-analysis/lilm/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))

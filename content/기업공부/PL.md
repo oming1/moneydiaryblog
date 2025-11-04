@@ -1,4 +1,4 @@
-﻿---
+---
 title: "PL"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-11-03T21:50:34+09:00
@@ -24,6 +24,14 @@ Planet Labs는 지구 [관측 위성](/industry-study/관측-위성/)을 운영�
 - 지구 관측, 실시간 지리 정보, 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
 
 ## 전방/후방 산업
+{{< adsense-infeed >}}
+
+- 지구 관측, 실시간 지리 정보, 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
+
+## 전방/후방 산업
+
+{{< adsense-infeed >}}
+
 - 전방 산업:
     
     - 핵심 산업: 지리정보시스템(GIS), 농업, 도시계획, 환경 모니터링
@@ -41,6 +49,8 @@ Planet Labs는 지구 [관측 위성](/industry-study/관측-위성/)을 운영�
 {{< adsense-infeed >}}
 
 - 위성 설계 및 제조:
+{{< adsense-infeed >}}
+
     - Planet Labs는 자체적으로 소형 위성을 설계하고 제조합니다.
     - 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Airbus Defence and Space (프랑스, [AIR](/company-analysis/air/))
     
@@ -63,6 +73,55 @@ Planet Labs는 전 세계적으로 서비스를 제공하며, 특히 북미, 유
 
 {{< adsense-infeed >}}
 
+## 경쟁업체
+{{< adsense-infeed >}}
+
+- Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)) - 고해상도 위성 이미지 제공
+- Airbus Defence and Space (프랑스, [AIR](/company-analysis/air/)) - 위성 제조 및 이미지 서비스
+- BlackSky (미국, [BKSY](/company-analysis/bksy/)) - 실시간 지리공간 정보 제공
+
+## 산업 내 글로벌 시장 점유율
+
+정확한 시장 점유율 데이터는 없으나, Planet Labs는 소형 위성 군집을 통한 일일 지구 관측 분야에서 선도적인 위치를 차지하고 있습니다.
+
+## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
+- 지구 관측, 실시간 지리 정보, 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
+
+## 전방/후방 산업
+- 지구 관측, 실시간 지리 정보, 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
+
+## 전방/후방 산업
+- 전방 산업:
+    
+    - 핵심 산업: 지리정보시스템(GIS), 농업, 도시계획, 환경 모니터링
+    - 역할: 위성 이미지 및 데이터 제공
+    - 주요 기업: Esri (미국, 비상장), Trimble (미국, [TRMB](/company-analysis/trmb/))
+    
+- 후방 산업:
+    
+    - 핵심 산업: 위성 제조 및 발사
+    - 역할: Planet Labs의 위성 제조 및 발사 지원
+    - 주요 기업: SpaceX (미국, 비상장), Rocket Lab (미국, [RKLB](/company-analysis/rklb/))
+
+## 밸류체인
+- 위성 설계 및 제조:
+    - Planet Labs는 자체적으로 소형 위성을 설계하고 제조합니다.
+    - 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Airbus Defence and Space (프랑스, [AIR](/company-analysis/air/))
+    
+- 위성 이미지 분석 및 서비스:
+    
+    - 수집된 이미지를 분석하고 고객에게 제공합니다.
+    - 대표 기업: BlackSky (미국, [BKSY](/company-analysis/bksy/)), Spire Global (미국, [SPIR](/company-analysis/spir/))
+## 주요 제품
+
+- Dove 위성 군집 (3-5m 해상도 일일 이미지, 전체 매출의 약 60%)
+- SkySat 위성 군집 (50cm 해상도 고해상도 이미지, 전체 매출의 약 30%)
+- Tanager 초분광 위성 (2024년 8월 발사, 향후 주요 제품군으로 성장 예상)
+
+## 주요 판매 국가
+
+Planet Labs는 전 세계적으로 서비스를 제공하며, 특히 북미, 유럽, 아시아 태평양 지역에서 강세를 보입니다.
 ## 경쟁업체
 - Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)) - 고해상도 위성 이미지 제공
 - Airbus Defence and Space (프랑스, [AIR](/company-analysis/air/)) - 위성 제조 및 이미지 서비스

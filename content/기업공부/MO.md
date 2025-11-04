@@ -19,9 +19,6 @@ weight: 578
 ### 영위사업
 
 Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입니다. 주요 제품으로는 Marlboro 브랜드의 담배, Black & Mild 브랜드의 큰 시가 및 파이프 담배, Copenhagen, Skoal, Red Seal, Husky 브랜드의 습식 무연 담배 및 snus 제품, on! 브랜드의 구강 니코틴 파우치, NJOY ACE 브랜드의 전자담배 제품 등이 있습니다
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
 
 **전방산업:**
@@ -42,9 +39,6 @@ Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입�
 ### 주요 판매국가
 
 - 미국 (주요 매출 국가)
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 - **Philip Morris International (US, [PM](/company-analysis/pm/)):** 담배 제품 (시장 점유율 15%)
 - **British American Tobacco (GB, [BATS](/company-analysis/bats/)):** 담배 제품 (시장 점유율 10%)

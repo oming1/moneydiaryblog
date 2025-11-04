@@ -146,9 +146,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 **Puma:** 중형 정찰 드론, 25만 달러/대, 해상 및 지상 정찰 임무
 
 **Wasp:** 초소형 정찰 드론, 5만 달러/대, 도시 및 실내 정찰용
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -223,9 +220,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 2025년: 약 70% (미국 시장 기준)
 - 2024년: 약 68% (3년간 +5%p 증가)
 - 전체 무인기 시장: 약 0.59% (대형 업체 대비 소규모)
-
-{{< adsense-infeed >}}
-
 **배회탄약 시장:**
 
 - 글로벌 시장점유율: 약 35-40%
@@ -272,9 +266,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 연말: 배회탄약 시장 급성장으로 주가 상승
 
 **2022년:**
-
-{{< adsense-infeed >}}
-
 - 우크라이나에 Switchblade 300 공급 시작
 - 소형 드론 시장에서 시장점유율 확대
 - 정부 계약 다변화 전략 추진
@@ -297,9 +288,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - State Street Corp: 약 4.3%
 
 **주요 ETF 보유:**
-
-{{< adsense-infeed >}}
-
 - IJR (iShares Core S&P Small-Cap): 상당 지분
 - XAR (SPDR S&P Aerospace & Defense): 주요 구성종목
 

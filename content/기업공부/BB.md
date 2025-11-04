@@ -92,9 +92,6 @@ QNX 실시간 운영체제 기술 Cylance AI 기반 위협 탐지 기술 UEM 통
 ---
 
 ## 제조공정
-
-{{< adsense-infeed >}}
-
 BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 없습니다.
 
 **1. 연구개발 및 제품 개발:**
@@ -102,9 +99,6 @@ BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 �
 - 캐나다 워털루 본사 및 글로벌 R&D 센터
 - 소프트웨어 엔지니어링 및 보안 전문가 집중
 - 지속적인 기술 혁신과 제품 업데이트
-
-{{< adsense-infeed >}}
-
 **2. 소프트웨어 개발 및 배포:**
 - 클라우드 기반 소프트웨어 개발 환경
 - 애자일 개발 방법론 적용
@@ -127,9 +121,6 @@ BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 �
 ## 전방산업 / 후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업: QNX 기반 인포테인먼트 및 ADAS 시스템 - Ford(US, [F](/company-analysis/f/)), GM(US, [GM](/company-analysis/gm/)), BMW(DE, [BMW](/company-analysis/bmw/)), Volkswagen(DE, [Volkswagen](/company-analysis/volkswagen/))
 - 기업 고객: 사이버보안 솔루션 도입 - Fortune 500 기업들
 - 정부 기관: 보안 통신 및 사이버보안 - 미국 국방부, 영국 경찰청
@@ -153,9 +144,6 @@ BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 �
 - Intel(US, [INTC](/company-analysis/intc/)) - 프로세서 기술 및 개발 도구 제공
 - ARM(UK, [ARM](/company-analysis/arm/)) - 임베디드 프로세서 아키텍처 라이선스
 - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)) - 클라우드 인프라 서비스
-
-{{< adsense-infeed >}}
-
 **시스템 통합 단계:** 고객 시스템과의 통합 및 구현
 
 - Tier 1 자동차 부품업체: Aptiv(US, [APTV](/company-analysis/aptv/)), Bosch(DE, Bosch), Continental(DE, Continental)

@@ -64,9 +64,6 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 2. 원자재 조달: 강철, 알루미늄 공급업체
     
 3. 제조: FTC Solar 생산 시설, 계약 제조업체
-
-{{< adsense-infeed >}}
-
 4. 소프트웨어 개발: 내부 개발팀 (SunDAT, Atlas 플랫폼)
     
 5. 프로젝트 설계 및 엔지니어링: FTC Solar 엔지니어링 팀
@@ -74,9 +71,6 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 6. 설치 및 시공: EPC 파트너사, 현지 시공업체
     
 7. 운영 및 유지보수: O&M 서비스 제공업체, 모니터링 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. Voyager 태양광 트래커 시스템: 단축 및 이축 트래킹 솔루션 (2023년 매출의 약 85%)
@@ -122,6 +116,7 @@ FTC Solar의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
+3. State Street Corporation (4.47%)
 3. State Street Corporation (4.47%)
 ## 관련 ETF
 

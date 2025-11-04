@@ -61,9 +61,6 @@ weight: 2
 1. 원자재 생산: 철광석, 석탄, 곡물 등 주요 건화물 생산
     
 2. 선박 건조: 건화물선 설계 및 제작([벌크선](/industry-study/벌크선/), [컨테이너선](/industry-study/컨테이너선/))
-
-{{< adsense-infeed >}}
-
 3. 해운 서비스: 화물 운송 및 선박 운영
     
 4. 무역 중개: 화주와 선사 간 계약 중개
@@ -194,9 +191,6 @@ BDI는 독점적으로 발틱거래소에서 발표하는 지수이므로 직접
 2. Drewry(UK - Drewry): 해운 연구 및 컨설팅 서비스
     
 3. Clarksons Research(UK - CKN): 해운 시장 분석 및 데이터 제공
-
-{{< adsense-infeed >}}
-
 4. Shanghai Shipping Exchange(CN - Shanghai Shipping Exchange): 상하이 컨테이너 운임지수(SCFI) 발표
     
 5. Freightos(IL - Freightos): 온라인 국제 화물 운송 플랫폼
@@ -314,9 +308,6 @@ BDI 하락 시 의미하는 경제상황:
     - 지표 오를 때 의미: 해운 공급 증가, BDI 하락 압력
         
     - 지표 내릴 때 의미: 해운 공급 감소, BDI 상승 압력
-
-{{< adsense-infeed >}}
-
     - 링크: [https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=93](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=93)
 
 ## 관련 ETF

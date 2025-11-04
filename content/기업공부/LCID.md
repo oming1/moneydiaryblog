@@ -43,24 +43,18 @@ weight: 507
 - **미국**: 주요 매출 국가로, 전체 매출의 대부분을 차지
 - **유럽**: 빠르게 성장하는 시장
 - **중동**: 특히 사우디아라비아에서 높은 수요
+- **미국**: 주요 매출 국가로, 전체 매출의 대부분을 차지
+- **유럽**: 빠르게 성장하는 시장
+- **중동**: 특히 사우디아라비아에서 높은 수요
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Tesla Inc. (미국, [TSLA](/company-analysis/tsla/))**: 전기차
 - **Rivian Automotive Inc. (미국, [RIVN](/company-analysis/rivn/))**: 전기차
 - **NIO Inc. (중국, [NIO](/company-analysis/nio/))**: 전기차
 
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **Lucid Group**: 글로벌 전기차 시장에서 약 1%의 점유율 (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **공장 건설 및 생산 시작**: 애리조나 주 카사 그란데에 공장 건설 및 Lucid Air 생산 시작 (2021년)
 - **상장**: 나스닥 상장 및 자금 조달 (2021년)
 - **신모델 발표**: Lucid Gravity SUV 발표 (2023년)

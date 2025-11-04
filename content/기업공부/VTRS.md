@@ -21,6 +21,7 @@ weight: 946
 
 #### 영위사업
 Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업입니다. 주요 사업 영역은 처방 브랜드 의약품, 제네릭 의약품, 복합 제네릭 의약품, [바이오시밀러](/industry-study/바이오시밀러/), 활성 제약 성분(API) 등을 포함합니다.
+Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업입니다. 주요 사업 영역은 처방 브랜드 의약품, 제네릭 의약품, 복합 제네릭 의약품, [바이오시밀러](/industry-study/바이오시밀러/), 활성 제약 성분(API) 등을 포함합니다.
 #### 전방/후방산업
 
 - **전방산업 (Downstream Industry):**
@@ -34,9 +35,6 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
     - **관련 기업:** Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발 (R&D):**
     - **설명:** 새로운 의약품 및 치료법 개발
     - **대표회사:** Pfizer (미국, [PFE](/company-analysis/pfe/)), Merck & Co. (미국, [MRK](/company-analysis/mrk/))
@@ -44,6 +42,9 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
 - **제조:**
     - **설명:** 의약품 생산 및 품질 관리
     - **대표회사:** Viatris (미국, [VTRS](/company-analysis/vtrs/)), Teva Pharmaceutical Industries (이스라엘, [TEVA](/company-analysis/teva/))
+- **유통:**
+    - **설명:** 의약품을 도매업체 및 소매업체에 공급
+    - **대표회사:** AmerisourceBergen (미국, [ABC](/company-analysis/abc/)), McKesson (미국, [MCK](/company-analysis/mck/))
 - **유통:**
     - **설명:** 의약품을 도매업체 및 소매업체에 공급
     - **대표회사:** AmerisourceBergen (미국, [ABC](/company-analysis/abc/)), McKesson (미국, [MCK](/company-analysis/mck/))
@@ -57,9 +58,6 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
 - **EpiPen (알레르기 반응 치료제)**
 - **Wixela Inhub (천식 및 COPD 치료제)**
 - **Viagra (발기부전 치료제)**
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 - **미국:** 주요 매출 국가

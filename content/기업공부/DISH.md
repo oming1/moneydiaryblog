@@ -61,9 +61,6 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 2. 인프라 구축: 위성, 네트워크 장비
 3. 서비스 개발: Dish Network
 4. 마케팅 및 판매: Dish Network, 대리점
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 위성 TV 패키지
@@ -76,16 +73,10 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 미국
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - DIRECTV(US, [T](/company-analysis/t/))
 - Comcast(US, [CMCSA](/company-analysis/cmcsa/))
 - Netflix(US, [NFLX](/company-analysis/nflx/))
 - T-Mobile(US, [TMUS](/company-analysis/tmus/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 데이터 없음

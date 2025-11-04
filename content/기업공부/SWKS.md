@@ -32,9 +32,6 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
         
         - Qualcomm (미국, [QCOM](/company-analysis/qcom/)) - 모바일 통신 기술 제공
         - Broadcom (미국, [AVGO](/company-analysis/avgo/)) - 반도체 및 통신 솔루션 제공
-
-{{< adsense-infeed >}}
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 반도체 제조 및 설계
@@ -74,13 +71,14 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
 
 Skyworks는 미국을 주요 시장으로 하며, 아시아와 유럽에서도 중요한 매출을 올리고 있습니다.
 ## 경쟁업체
+## 주요 판매 국가
+
+Skyworks는 미국을 주요 시장으로 하며, 아시아와 유럽에서도 중요한 매출을 올리고 있습니다.
+## 경쟁업체
 - **Qualcomm (미국, [QCOM](/company-analysis/qcom/))**: 모바일 통신 기술 제공.
 - **Broadcom (미국, [AVGO](/company-analysis/avgo/))**: 반도체 및 통신 솔루션 제공.
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Skyworks는 글로벌 RF 반도체 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈

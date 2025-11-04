@@ -63,9 +63,6 @@ SMR 시장이 성장함에 따라 발생할 여러 프로젝트에 연계되어 
 검증된 기술과 인프라를 베이스로 개발되는 노형인 만큼 실제 SMR 배치와 운영에서 시행착오가 적을 가능성이 높다.
 
 ## 주요 프로젝트 및 인허가 현황
-
-{{< adsense-infeed >}}
-
 Holtec은 자사의 SMR-300 실증 및 Palisades 원자력 발전소 재가동을 위한 Palisades restart 프로젝트를 진행하고 있다.![](/images/Pasted%20image%2020250321161032.png)
 Palisades 원자력 발전소는 1971년부터 800MWe급 원자로를 운영하며 미시간주 전체 전력 수요의 5%를 생산해왔다. 하지만 설비 노후화로 인해 2022년 5월 원전 폐쇄가 결정되었다. 
 ![](/images/Pasted%20image%2020250321161112.png)
@@ -168,9 +165,6 @@ Holtec International은 원자력 및 에너지 산업에 특화된 설계·제�
 ## 주요제품
 
 - **HI-STORM**: 사용후핵연료 건식저장 시스템(글로벌 표준)
-
-{{< adsense-infeed >}}
-
 - **SMR-160**: 차세대 소형모듈원자로
     
 - **스팀터빈·핵연료 저장용기**
@@ -195,9 +189,6 @@ Holtec International은 원자력 및 에너지 산업에 특화된 설계·제�
 ## 경쟁업체
 
 1. Westinghouse(US): 원자력 기자재/해체서비스
-
-{{< adsense-infeed >}}
-
 2. Framatome(FR): 원자력 밸류체인 전반
     
 3. Orano(FR): 핵연료/후처리/해체
@@ -226,9 +217,6 @@ Holtec은 사용후핵연료 저장장치·원전해체 시장에서 Global Top 
 ## 주요주주(지분율)
 
 - 민간기업(비상장)으로 공개된 대주주 정보 없음
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 Holtec International은 비상장사로 직접 편입되는 ETF는 없습니다.  

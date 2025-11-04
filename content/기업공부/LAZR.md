@@ -48,6 +48,7 @@ Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용
 3. 시스템 통합: 자동차 OEM 및 Tier 1 공급업체
 4. 최종 사용자: 자동차 제조업체, 자율주행 기술 기업
 ## 주요제품
+## 주요제품
 1. Iris LiDAR (자율주행용 고성능 장거리 센서)
 2. Sentinel™ (자율주행 및 안전 플랫폼)
 3. 인식 소프트웨어
@@ -59,9 +60,6 @@ Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용
 Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Velodyne Lidar (US, VLDR) (LiDAR 센서)
 2. Innoviz Technologies (이스라엘, [INVZ](/company-analysis/invz/)) (LiDAR 센서 및 인식 소프트웨어)
 3. Ouster (US, [OUST](/company-analysis/oust/)) (디지털 LiDAR)
@@ -69,13 +67,7 @@ Luminar Technologies는 북미, 아시아 태평양, 유럽, 중동 지역에서
 5. Cepton (US, [CPTN](/company-analysis/cptn/)) (MMT LiDAR)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Luminar는 자동차용 LiDAR 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. Volvo EX90에 Luminar의 LiDAR가 표준 장비로 탑재되어 출시 (2024년)

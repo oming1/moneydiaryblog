@@ -107,9 +107,6 @@ Arteris는 제조업체가 아닌 IP 설계 및 라이선싱 회사로서 다음
 ---
 
 ## 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (IP 사용 고객):**
 
 - AI 반도체 업체: NVIDIA, AMD, Qualcomm - AI 가속기 및 GPU
@@ -156,9 +153,6 @@ Arteris는 제조업체가 아닌 IP 설계 및 라이선싱 회사로서 다음
 **Ncore Cache-Coherent IP:** 멀티코어 캐시 일관성, 전체 매출의 20% (2024년), 주요 경쟁사 Synopsys [SNPS](/company-analysis/snps/)
 
 **Multi-die Interconnect:** 칩렛 간 연결 솔루션, 전체 매출의 5% (2024년), 신규 성장 분야
-
-{{< adsense-infeed >}}
-
 **SoC Integration Software:** 설계 자동화 도구, 전체 매출의 5% (2024년), 주요 경쟁사 Cadence [CDNS](/company-analysis/cdns/)
 
 ---
@@ -311,9 +305,6 @@ IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮�
 - Whalechip 등 중국 고객사 확대
 - RISC-V 생태계 파트너십 강화
 - 연간 ACV 목표 연속 달성으로 실행력 입증
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 주주 (지분율)

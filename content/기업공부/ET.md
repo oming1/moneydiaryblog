@@ -83,9 +83,6 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Kinder Morgan(US, [KMI](/company-analysis/kmi/))
 3. ONEOK(US, [OKE](/company-analysis/oke/))
@@ -109,9 +106,6 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 3. SSgA Funds Management, Inc.: 4.98%
 4. Geode Capital Management LLC: 2.13%
 5. Charles Schwab Investment Management, Inc.: 1.51%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP

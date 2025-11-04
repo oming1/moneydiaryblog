@@ -145,9 +145,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **재생에너지:** 태양광/풍력 발전, 주요 공급지 캘리포니아 사막지역, 주요 공급업체 NextEra Energy (US, [NEE](/company-analysis/nee/))
 
 **전력설비 원자재:** [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [알루미늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속알루미늄/), 강철 등 송배전 인프라용, 주요 공급지 글로벌, 주요 공급업체 Southern Copper (US, [SCCO](/company-analysis/scco/))
-
-{{< adsense-infeed >}}
-
 **건설자재:** 콘크리트, 목재, 복합소재 등 인프라 건설용, 주요 공급지 캘리포니아/오레곤, 주요 공급업체 Vulcan Materials (US, [VMC](/company-analysis/vmc/))
 
 ---
@@ -203,9 +200,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 - American Electric Power (US, [AEP](/company-analysis/aep/)) - 중서부 전력공급, 시장점유율 6%
 
 **천연가스 경쟁사:**
-
-{{< adsense-infeed >}}
-
 - SoCalGas/Sempra Energy (US, [SRE](/company-analysis/sre/)) - 남부 캘리포니아 가스공급
 - Kinder Morgan (US, [KMI](/company-analysis/kmi/)) - 주간 파이프라인 운영
 - Enbridge (CA, ENB) - 천연가스 송전
@@ -223,9 +217,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **캘리포니아 전력 시장 점유율:**
 
 - 2023년: 45% (1위, 북부/중부 독점)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 기업 특징 및 성장성

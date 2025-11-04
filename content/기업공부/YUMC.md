@@ -24,9 +24,6 @@ weight: 994
 Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 운영사로, KFC(중국), Pizza Hut(중국), Taco Bell(중국) 등 글로벌 브랜드 레스토랑을 중국 전역에서 직영 및 프랜차이즈 형태로 운영합니다. Yum! Brands에서 2016년 분사되어 상장하였으며, 매장 수 및 시장점유율 측면에서 [중국](/industry-study/4국가중국/) 내 퀵서비스레스토랑(QSR) 업계 선두입니다.  
 주요 사업 부문:
 1. **KFC China**: 치킨 중심의 퀵서비스레스토랑, 중국 내 9,700여 매장(2024년 기준)
-
-{{< adsense-infeed >}}
-
 2. **Pizza Hut China**: 피자, 파스타 등 캐주얼 다이닝, 약 3,200여 매장
     
 3. **Taco Bell China**: 멕시칸 퀵서비스, 성장 초기 단계
@@ -109,9 +106,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 2. Dicos(중국 브랜드): 중국 토종 QSR
     
 3. Burger King China (US, QSR): 글로벌 QSR
-
-{{< adsense-infeed >}}
-
 4. Haidilao(CN, 6862): 중국 최대 훠궈 체인
     
 5. Starbucks China (US, [SBUX](/company-analysis/sbux/)): 커피/디저트 외식 시장 경쟁자

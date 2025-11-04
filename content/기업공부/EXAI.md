@@ -19,18 +19,12 @@ Exscientia는 인공지능(AI)을 활용한 정밀 의약품 개발 기업([헬�
 - AI 기반 약물 설계 및 개발
 - 정밀 의학 플랫폼 운영
 - 종양학 중심의 내부 파이프라인 개발
-
-{{< adsense-infeed >}}
-
 ## 핵심 기술
 
 - CodeEvolver® 단백질 엔지니어링 플랫폼
 - 생성형 AI를 활용한 DesignStudio
 - AutomationStudio를 통한 자동화된 실험
 ## 주요 제품/서비스
-
-{{< adsense-infeed >}}
-
 1. AI 기반 약물 설계 플랫폼
 2. 정밀 의학 솔루션
 3. 종양학 중심의 신약 파이프라인
@@ -38,13 +32,7 @@ Exscientia는 인공지능(AI)을 활용한 정밀 의약품 개발 기업([헬�
 
 - 2023년 매출: 약 2천만 달러
 - 주요 시장: 미국(71.6%), 프랑스(25.3%), 유럽(3.1%)
-
-{{< adsense-infeed >}}
-
 ## 최근 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. AWS와 협력하여 AI 기반 신약 개발 플랫폼 출시 (2024년)
 2. Recursion Pharmaceuticals와 합병 완료 (2024년)
 3. 2024년 2분기 실적 발표

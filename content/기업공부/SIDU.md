@@ -118,9 +118,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 ## 10. 밸류체인
 
 **부품 공급 단계:**
-
-{{< adsense-infeed >}}
-
 - VORAGO Technologies(비상장): 방사선 내성 전자 부품 (우주급 컴퓨팅 분야 전문)
 - ATOMIC-6(비상장): 태양전지 배열 (LunarLizzie 위성용 태양광 시스템 공급)
 - Microchip Technology(US, [MCHP](/company-analysis/mchp/)): 반도체 및 마이크로컨트롤러 (우주급 전자 부품 제공)
@@ -279,9 +276,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - Procure Space ETF UFO
 - SPDR S&P Aerospace & Defense ETF XAR
 - ARK Space Exploration & Innovation ETF ARKX
-
-{{< adsense-infeed >}}
-
 **섹터 관련 ETF:**
 
 - iShares U.S. Aerospace & Defense ETF ITA

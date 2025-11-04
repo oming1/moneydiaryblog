@@ -20,9 +20,6 @@ weight: 755
 			- Prasinezumab을 개발해 Roche(ROG)에 기술 수출한 바이오텍인 ProthenaCorp.([PRTA](/company-analysis/prta/))의 주가 34% 상승(시총 기준 2.18억달러 증가). 
 
 ## 산업 섹터
-
-{{< adsense-infeed >}}
-
 - **Sector(산업섹터)**: Health Care([헬스케어](/industry-study/2산업헬스케어/))
 - **Industry(산업)**: Pharmaceuticals and Diagnostics(제약 및 진단)
 
@@ -46,9 +43,6 @@ Roche는 스위스에 본사를 둔 다국적 제약 및 진단 회사로, 주�
     - **핵심 산업**: 생명 과학 연구 및 개발
     - **역할**: Roche의 제품에 필요한 원자재 및 연구 지원 제공
     - **주요 기업**:
-
-{{< adsense-infeed >}}
-
         - Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)) - 생명 과학 장비 및 재료 제공
         - Merck Group (독일, 비상장) - 생명 과학 및 화학 제품 제공
 
@@ -58,6 +52,8 @@ Roche는 스위스에 본사를 둔 다국적 제약 및 진단 회사로, 주�
     
     - Roche는 다양한 의약품을 개발하여 병원과 클리닉에 제공합니다.
     - 대표 기업:
+        - Novartis (스위스, [NVS](/company-analysis/nvs/)) - 제약 제품 제공
+        - Sanofi (프랑스, SNY) - 다양한 의약품 제공
         - Novartis (스위스, [NVS](/company-analysis/nvs/)) - 제약 제품 제공
         - Sanofi (프랑스, SNY) - 다양한 의약품 제공
 - **진단 솔루션**:
@@ -86,6 +82,9 @@ Roche는 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 지
 - **Novartis (스위스, [NVS](/company-analysis/nvs/))**: 제약 제품 제공.
 
 ## 산업 내 글로벌 시장 점유율
+Roche는 글로벌 제약 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
+
+## 최근 3년 내 주요 이슈
 Roche는 글로벌 제약 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈

@@ -19,13 +19,7 @@ weight: 648
 
 섹터: [부동산](/industry-study/2산업부동산/)
 산업: [리츠](/industry-study/리츠/)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산 리츠(REIT)입니다. 1969년 설립되어 1994년 뉴욕 증권거래소에 상장되었습니다. 주로 소매, 산업, 사무실, 농업 등 다양한 유형의 단일 세입자 상업용 부동산을 소유하고 운영합니다.회사의 주요 특징은 다음과 같습니다:
 
 1. 월배당: "The Monthly Dividend Company®"라는 별칭으로 유명하며, 매월 배당금을 지급합니다.
@@ -61,9 +55,6 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 - 소매 부동산: 편의점, 약국, 할인점 등, 매출의 약 80% (2024년 기준)
 - 산업용 부동산: [물류센터](/industry-study/물류센터/), 창고 등, 매출의 약 15% (2024년 기준)
 - 사무실 및 기타: 매출의 약 5% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 - Walgreens(US, [WBA](/company-analysis/wba/)): 약국 체인
 - Dollar General(US, [DG](/company-analysis/dg/)): 할인점 체인
@@ -72,9 +63,6 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 - LA Fitness: 피트니스 센터 체인
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 영국, 스페인, 이탈리아, 아일랜드, 독일, 네덜란드, 포르투갈, 프랑스
 
 ## 경쟁업체
@@ -84,6 +72,9 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 - STORE Capital(US, STOR): 단일 세입자 운영 부동산 REIT
 - VEREIT(US, VER): 다각화된 상업용 부동산 REIT
 - Essential Properties Realty Trust(US, EPRT): 서비스 중심 소매 REIT
+## 산업 내 글로벌 시장 점유율
+
+Realty Income은 2024년 기준 미국 상업용 부동산 REIT 시장에서 약 8%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 Spirit Realty Capital 인수 등을 통해 시장 점유율을 꾸준히 확대해왔습니다.
 ## 산업 내 글로벌 시장 점유율
 
 Realty Income은 2024년 기준 미국 상업용 부동산 REIT 시장에서 약 8%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 Spirit Realty Capital 인수 등을 통해 시장 점유율을 꾸준히 확대해왔습니다.

@@ -24,9 +24,6 @@ Illumina, Inc.는 유전체 분석을 위한 통합 시스템을 개발, 제조 
 1. 시퀀싱 및 어레이 기반 솔루션 제공
 2. 유전자 변이 및 생물학적 기능 분석을 위한 시스템 개발
 3. 시퀀싱, 유전자형 분석, 유전자 발현, 단백질체학 시장 서비스
-
-{{< adsense-infeed >}}
-
 Illumina의 주요 고객은 유전체 연구 센터, 제약 회사, 학술 기관, 임상 연구 기관 및 생명공학 회사입니다.
 
 ## 주요제품
@@ -39,9 +36,6 @@ Illumina의 주요 고객은 유전체 연구 센터, 제약 회사, 학술 기�
 
 ## 주요 판매국가
 Illumina는 전 세계 160개 이상의 국가에 서비스를 제공하고 있습니다
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
 2. Pacific Biosciences (US, [PACB](/company-analysis/pacb/))
@@ -52,13 +46,7 @@ Illumina는 전 세계 160개 이상의 국가에 서비스를 제공하고 있�
 ## 산업 내 글로벌 시장 점유율
 
 2014년 기준 Illumina는 유전체 시퀀싱 기계 시장의 70%를 차지했으며, Illumina 기계는 생산된 모든 DNA 데이터의 90% 이상을 차지했습니다
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. Jacob Thaysen을 새로운 CEO로 임명 (2023년)
 2. 2023년 핵심 연간 매출 44.3억 달러 기록 (2024년)
 3. AWS와 협력하여 AI 기반 신약 개발 플랫폼 출시 (2024년)

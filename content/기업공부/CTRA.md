@@ -40,9 +40,6 @@ Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점�
 ## 전방/후방산업
 
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
@@ -91,9 +88,6 @@ Coterra Energy는 주로 미국 시장에서 사업을 영위하고 있습니다
 5. 지속가능한 에너지 솔루션 개발에 주력
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. The Vanguard Group, Inc.: 11.62%
 2. BlackRock Fund Advisors: 7.89%
 3. SSgA Funds Management, Inc.: 4.98%

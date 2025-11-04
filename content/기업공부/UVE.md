@@ -40,13 +40,12 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 
 **주요제품**
 
-{{< adsense-infeed >}}
-
 - **주택 소유자 보험:** 주택 및 개인 재산 보호
 - **임차인 보험:** 임차인의 개인 재산 보호
 - **콘도 소유자 보험:** 콘도 소유자의 재산 보호
 
 **주요 판매국가**
+- **미국:** 전체 매출의 대부분을 차지 (2023년 기준)
 - **미국:** 전체 매출의 대부분을 차지 (2023년 기준)
 **경쟁업체**
 
@@ -55,8 +54,6 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
 - **State Farm (US, 비상장):** 주택 소유자 보험, 자동차 보험
 
 **산업 내 글로벌 시장 점유율**
-
-{{< adsense-infeed >}}
 
 - **Universal Insurance Holdings:** 약 2% (2023년 기준)
 - **Progressive:** 약 10% (2023년 기준)

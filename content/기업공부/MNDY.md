@@ -19,9 +19,6 @@ weight: 575
 
 섹터: 정보기술
 산업: 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 Monday.com Ltd.(NASDAQ: MNDY)는 클라우드 기반의 작업 운영 체제(Work OS) 플랫폼을 제공하는 이스라엘 기업입니다. 2012년 설립되어 2021년 6월 나스닥에 상장했습니다.주요 제품인 monday.com Work OS는 저코드/노코드 플랫폼으로, 조직이 쉽게 작업 관리 도구와 소프트웨어 애플리케이션을 구축할 수 있게 해줍니다.
 
@@ -51,18 +48,12 @@ Monday.com Ltd.(NASDAQ: MNDY)는 클라우드 기반의 작업 운영 체제(Wor
 - 보안 솔루션: Okta(US, [OKTA](/company-analysis/okta/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - monday Work OS: 작업 관리 및 협업 플랫폼, 매출의 약 90% (2024년 기준)
 - monday sales CRM: 영업 관리 솔루션, 매출의 약 5% (2024년 기준)
 - monday dev: 소프트웨어 개발 워크플로우 관리, 매출의 약 5% (2024년 기준)
 
 ## 주요 판매국가
 미국, 영국, 이스라엘, 호주, 브라질, 일본
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Atlassian(US, [TEAM](/company-analysis/team/)) - Jira, Trello
 - Asana(US, [ASAN](/company-analysis/asan/)) - 작업 관리 플랫폼

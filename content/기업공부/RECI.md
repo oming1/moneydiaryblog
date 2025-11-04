@@ -22,18 +22,12 @@ weight: 737
 
 Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Manufacturing Organization)로서 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제, 고형제, 무균제 및 기타 의약품 제조로 나뉩니다.
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**: 제약 및 바이오테크 산업
     - **핵심 산업**: 의약품 개발 및 제조
     - **핵심 기업**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Moderna (미국, [MRNA](/company-analysis/mrna/))
 - **후방산업**: 화학 및 원료 공급 산업
     - **핵심 산업**: 원료 의약품(API) 및 화학 물질 공급
     - **핵심 기업**: BASF (독일, BAS), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **연구개발 (R&D)**: 새로운 의약품 및 치료제 개발
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Merck (미국, [MRK](/company-analysis/mrk/))
@@ -43,9 +37,6 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
     - **대표 회사**: McKesson (미국, [MCK](/company-analysis/mck/)), AmerisourceBergen (미국, [ABC](/company-analysis/abc/))
 
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **ATMPs**: 세포 및 유전자 치료제, 바이럴 벡터, 마이크로바이옴 등
 - **Sterile Fill & Finish**: 생물학적 제제 및 소분자 의약품의 무균 충전 및 마감
 - **Oral Delivery Solutions**: 경구용 의약품의 개발 및 제조

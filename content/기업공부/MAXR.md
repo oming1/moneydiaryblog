@@ -21,10 +21,8 @@ weight: 549
 ### 영위사업
 
 Maxar Technologies Inc.는 위성 이미지, 지리 공간 데이터, 우주 기반 솔루션을 제공하는 회사입니다. 이 회사는 위성 설계, 제조, 위성 발사, 위성 운영 및 데이터 분석 서비스를 포함한 다양한 우주 관련 서비스를 제공합니다.
-
-{{< adsense-infeed >}}
-
 - 지구 관측 목적 실시간 고해상도 데이터 제공 및 [통신 위성](/industry-study/통신-위성/)/[관측 위성](/industry-study/관측-위성/) 제작 후 판매 서비스
+### 전방/후방산업
 ### 전방/후방산업
 - **전방산업**:
     - **위성 통신**: 위성을 이용한 통신 서비스 제공. 주요 기업: SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)), Intelsat (미국, [I](/company-analysis/i/)).
@@ -39,23 +37,14 @@ Maxar Technologies Inc.는 위성 이미지, 지리 공간 데이터, 우주 기
 - **제조**: 위성 및 관련 장비의 제조. 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Boeing (미국, [BA](/company-analysis/ba/)).
 - **발사 서비스**: 위성 발사를 통한 궤도 진입. 대표 기업: SpaceX (미국), Rocket Lab USA (미국, [RKLB](/company-analysis/rklb/)).
 - **운영 및 관리**: 궤도에 진입한 위성의 운영 및 데이터 분석. 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Planet Labs (미국, [PL](/company-analysis/pl/)).
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 - **위성 이미지**: 고해상도 위성 이미지를 제공.
 - **지리 공간 데이터**: 다양한 산업에서 활용 가능한 지리 공간 데이터.
 - **우주 기반 솔루션**: 위성 설계, 제조, 발사 및 운영 서비스.
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 Maxar Technologies는 주로 미국, 캐나다, 유럽 등에서 서비스를 제공하고 있습니다. 주요 시장은 미국입니다
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Planet Labs (미국, [PL](/company-analysis/pl/))**: 고해상도 위성 이미지 및 데이터 제공.
 - **DigitalGlobe (미국)**: 위성 이미지 및 지리 공간 데이터 제공.
 - **Airbus Defence and Space (프랑스)**: 위성 이미지 및 우주 기반 솔루션 제공.

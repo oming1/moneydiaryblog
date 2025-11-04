@@ -20,15 +20,9 @@ weight: 855
 
 ## 영위 사업
 TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설계, 생산 및 공급하는 선도적인 기업입니다. 주로 상용, 지역, 비즈니스 및 군용 항공기에 사용되는 부품을 생산합니다.
-
-{{< adsense-infeed >}}
-
 - 위성 탑재 태양광 패널/통신 안테나 구동계([액추에이터](/industry-study/액추에이터/), 커넥터, 클러치 등) 제조
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - 전방 산업:
     
     - 핵심 산업: 항공, 방위
@@ -46,9 +40,6 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
     
     - TransDigm은 다양한 항공기 부품을 설계 및 제조합니다.
     - 대표 기업: Heico Corporation (미국, [HEI](/company-analysis/hei/)), Woodward (미국, [WWD](/company-analysis/wwd/))
-
-{{< adsense-infeed >}}
-
 - 항공기 애프터마켓:
     - TransDigm은 항공기 부품의 애프터마켓에서 강세를 보입니다.
     - 대표 기업: AAR Corp (미국, [AIR](/company-analysis/air/)), Triumph Group (미국, TGI)

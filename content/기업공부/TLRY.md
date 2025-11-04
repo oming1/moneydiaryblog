@@ -29,18 +29,12 @@ Tilray는 의료용 및 성인용 대마초 제품의 연구, 재배, 가공 및
 - 맥주 및 주류 제품 (5번째로 큰 미국 크래프트 맥주 회사)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 캐나다, 미국, 유럽, 호주, 뉴질랜드, 라틴 아메리카
 ## 경쟁업체
 
 - Canopy Growth(US, [CGC](/company-analysis/cgc/))
 - Aurora Cannabis(캐나다, ACB)
 - Cronos Group(캐나다, CRON)
-
-{{< adsense-infeed >}}
-
 ## 주요 브랜드
 Tilray, Aphria, Broken Coast, Symbios, B!NGO, The Batch, Dubon, Good Supply, Solei, Chowie Wowie, Canaca, RIFF, SweetWater, Breckenridge Distillery, Alpine Beer Company, Green Flash
 
@@ -56,7 +50,4 @@ Tilray, Aphria, Broken Coast, Symbios, B!NGO, The Batch, Dubon, Good Supply, Sol
 - 시가총액: 약 16억 달러
 - 52주 최고가: $2.97
 - 52주 최저가: $1.45
-
-{{< adsense-infeed >}}
-
 Tilray는 글로벌 대마초 시장의 선두 기업 중 하나로, 의료용 및 성인용 대마초 제품뿐만 아니라 음료 알코올 사업으로도 확장하고 있습니다.

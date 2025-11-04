@@ -30,9 +30,6 @@ Vale S.A.는 [브라질](/industry-study/브라질/)에 본사를 둔 다국적 
     - **관련 기업**: ArcelorMittal (LU, [MT](/company-analysis/mt/)), Tesla (US, [TSLA](/company-analysis/tsla/))
     
 - **후방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 광산 장비 제조 및 원자재 공급
     - **관련 기업**: Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301.T)
 
@@ -46,9 +43,6 @@ Vale S.A.는 [브라질](/industry-study/브라질/)에 본사를 둔 다국적 
     
     - **대표 회사**: Glencore (CH, [GLEN](/company-analysis/glen/)) - 다양한 금속 및 광물 가공
     - **대표 회사**: Freeport-McMoRan (US, [FCX](/company-analysis/fcx/)) - 구리 및 금속 가공
-
-{{< adsense-infeed >}}
-
 - **물류 및 유통**: 제품의 효율적인 유통 및 물류 관리
     
     - **대표 회사**: Maersk (DK, MAERSK-B.CO) - 해운 및 물류 서비스
@@ -62,6 +56,7 @@ Vale S.A.는 [브라질](/industry-study/브라질/)에 본사를 둔 다국적 
 - **[비료](/industry-study/비료/) 제품** (매출의 약 6%)
 
 ## 주요 판매국가
+Vale는 브라질을 중심으로 북미, 유럽, 아시아, 아프리카 등 30개국 이상에서 운영되고 있습니다.
 Vale는 브라질을 중심으로 북미, 유럽, 아시아, 아프리카 등 30개국 이상에서 운영되고 있습니다.
 ## 경쟁업체
 

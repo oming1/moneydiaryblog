@@ -41,9 +41,6 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 4. 빠른 제품 개발 및 출시: 내부 공유 서비스 플랫폼(SSP)을 통한 효율적인 개발 프로세스
 5. 데이터 기반 의사결정: 사용자 데이터를 활용한 제품 개선 및 전략 수립
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     
     - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
@@ -97,9 +94,6 @@ ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, �
 5. TikTok Shop 글로벌 확장 (2023-2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. 글로벌 투자자: 60%
 2. 직원: 20%
 3. 창업자(Zhang Yiming, Liang Rubo): 20%

@@ -19,9 +19,6 @@ weight: 31
 산업: 소프트웨어(Software)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인먼트 산업을 위한 3D 설계 및 엔지니어링 소프트웨어를 제공하는 다국적 기업입니다.
 
 ## 주요제품
@@ -31,20 +28,15 @@ Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인�
 - Fusion 360: 3D 제품 설계 및 엔지니어링 플랫폼
 - Maya: 3D 애니메이션 및 그래픽 소프트웨어
 - 3ds Max: 3D 모델링, 렌더링, 애니메이션 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 캐나다, 유럽, 아시아-태평양, 중동, 아프리카 지역
+## 경쟁업체
 ## 경쟁업체
 - Adobe(US, [ADBE](/company-analysis/adbe/))
 - Dassault Systemes(프랑스, DASTY)
 - PTC Inc(US, PTC)
 - Oracle(US, [ORCL](/company-analysis/orcl/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 CAD 및 3D 설계 소프트웨어 시장에서 주요 선도 기업 중 하나입니다.

@@ -21,9 +21,6 @@ weight: 255
 ## 영위 사업
 
 CoreCivic Inc.는 미국 내에서 교정, 구금 및 재입소 시설(교도소)을 소유하고 운영하는 회사입니다. 이 회사는 정부 파트너에게 교정 관리, 재입소 센터 네트워크, 정부 부동산 솔루션을 제공합니다. CoreCivic은 범죄 재범 문제를 해결하기 위한 다양한 프로그램과 서비스를 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -54,11 +51,9 @@ CoreCivic Inc.는 미국 내에서 교정, 구금 및 재입소 시설(교도소
         - The GEO Group (미국, [GEO](/company-analysis/geo/)) - 민간 교정 시설 운영
         - CoreCivic (미국, [CXW](/company-analysis/cxw/)) - 자체 운영 시설
 - **재입소 프로그램**:
+- **재입소 프로그램**:
     - 범죄자의 재활을 위한 프로그램과 서비스를 제공합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Management & Training Corporation (미국, 비상장) - 교육 및 훈련 프로그램 제공
 ## 주요 제품
 

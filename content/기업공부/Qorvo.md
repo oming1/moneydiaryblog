@@ -20,10 +20,8 @@ weight: 723
 
 ## 영위사업
 Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
+Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 - 반도체 제조 장비 공급업체
 - 원자재 공급업체 (실리콘 웨이퍼 등)
@@ -59,9 +57,6 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 - Broadcom(US, [AVGO](/company-analysis/avgo/))
 - Skyworks Solutions(US, [SWKS](/company-analysis/swks/))
 - Murata Manufacturing(일본, 6981)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Qorvo는 RF 솔루션 시장에서 주요 플레이어 중 하나로 평가받고 있습니다.

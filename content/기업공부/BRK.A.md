@@ -53,9 +53,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 소비자 서비스: 보험, 소매, 에너지 공급 등 (Allstate(US, ALL), Walmart(US, [WMT](/company-analysis/wmt/)))
     
 - 운송 및 물류: 철도 운송 서비스 (Union Pacific(US, [UNP](/company-analysis/unp/)), CSX(US, CSX))
@@ -91,9 +88,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 4. 제조 제품: 항공기 부품, 화학제품, 의류 등 (2024년 매출의 약 15%)
     
 5. 소매 제품: 가구, 보석, 식품 등 (2024년 매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국을 중심으로 전 세계 다수 국가에서 사업을 영위하고 있으며, 특히 북미, 유럽, 아시아 지역에서 강세를 보이고 있습니다.
@@ -142,9 +136,6 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 2. Vanguard Financials ETF - VFH
     
 3. iShares U.S. Financials ETF - IYF
-
-{{< adsense-infeed >}}
-
 4. Invesco KBW High Dividend Yield Financial ETF - KBWD
     
 5. SPDR S&P Insurance ETF - KIE

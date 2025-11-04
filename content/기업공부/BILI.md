@@ -64,9 +64,6 @@ Bilibili Inc.는 중국의 주요 온라인 엔터테인먼트 플랫폼으로, 
 2. 플랫폼 개발: Bilibili(US, [BILI](/company-analysis/bili/)) (자체 앱 및 웹사이트 개발), 외부 개발자
     
 3. 콘텐츠 배포: Bilibili(US, [BILI](/company-analysis/bili/)) (비디오 호스팅, 스트리밍 기술)
-
-{{< adsense-infeed >}}
-
 4. 클라우드 인프라: Alibaba Cloud(US, [BABA](/company-analysis/baba/)) (서버 호스팅), Tencent Cloud(HK, 0700) (CDN 서비스)
     
 5. 게임 개발: miHoYo(miHoYo) (원신), NetEase(US, [NTES](/company-analysis/ntes/)) (모바일 게임)
@@ -80,9 +77,6 @@ Bilibili Inc.는 중국의 주요 온라인 엔터테인먼트 플랫폼으로, 
 ## 주요제품
 
 1. 비디오 공유 플랫폼: 장편 UGC 비디오 및 전문 콘텐츠 (2024년 매출의 약 50%)
-
-{{< adsense-infeed >}}
-
 2. 모바일 게임: 산궈: 모우딩 톈샤(三国：谋定天下) 등 독점 및 제3자 게임 출시 (2024년 매출의 약 15%)
     
 3. 라이브 방송: 실시간 스트리밍 콘텐츠 및 가상 아이템 (2024년 매출의 약 20%)
@@ -102,6 +96,7 @@ Bilibili의 주요 고객은 개인 사용자와 광고주입니다:
 1. 중국 Z세대 및 밀레니얼 세대 사용자
     
 2. 게임 개발사 및 퍼블리셔
+3. 이커머스 기업 (광고주)
 3. 이커머스 기업 (광고주)
 4. 디지털 제품 및 가전 브랜드 (광고주)
     

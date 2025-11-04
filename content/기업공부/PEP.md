@@ -26,12 +26,10 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
 - **전방산업**:
     - **소매**: 슈퍼마켓, 편의점, 대형 할인점 (예: Walmart (US, [WMT](/company-analysis/wmt/)), Costco (US, [COST](/company-analysis/cost/)))
     - **외식업**: 레스토랑, 카페, 패스트푸드 체인 (예: McDonald’s (US, [MCD](/company-analysis/mcd/)), Starbucks (US, [SBUX](/company-analysis/sbux/)))
-
-{{< adsense-infeed >}}
-
 - **후방산업**:
     - **농업**: 원료 공급업체 (예: Archer Daniels Midland (US, ADM), Bunge Limited (US, BG))
     - **포장재**: 포장재 제조업체 (예: International Paper (US, [IP](/company-analysis/ip/)), WestRock (US, WRK))
+#### 밸류체인
 #### 밸류체인
 - **원자재 조달**: 농업 원료 및 포장재 공급업체 (예: Archer Daniels Midland (US, ADM), International Paper (US, [IP](/company-analysis/ip/)))
 - **제조 및 생산**: 음료 및 간편식품 제조업체 (예: PepsiCo 자체 생산)
@@ -44,9 +42,6 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
 - **곡물 제품**: Quaker Oats, Life Cereal
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Coca-Cola (US, [KO](/company-analysis/ko/))**: 다양한 비알코올 음료
 - **Mondelez International (US, [MDLZ](/company-analysis/mdlz/))**: 스낵 및 간편식품
 - **Keurig Dr Pepper (US, [KDP](/company-analysis/kdp/))**: 다양한 음료 제품

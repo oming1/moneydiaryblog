@@ -19,13 +19,7 @@ Medtronic plc(MDT)는 광범위한 의료 기기와 솔루션을 설계, 개발,
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)(Health Care)  
 산업: 의료 장비 및 용품(Health Care Equipment & Supplies)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, 말초 혈관, 정맥 신장 및 신경학적 질환, 척추 및 근골격계 질환, 이비인후과 질환 치료를 위한 제품을 제공합니다. 또한 정형외과 및 치과 시장을 위한 생물학적 솔루션도 제공합니다.
 
 ## 전방/후방산업

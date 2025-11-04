@@ -30,9 +30,6 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 - **후방산업:** 재보험업
     - **핵심 산업:** 재보험업은 ACIC에 재보험 상품을 제공하여 리스크를 분산시킵니다.
     - **관련 기업:** Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 - **보험 인수:**
     - **설명:** 상업용 주거용 재산 및 상해 보험을 인수
@@ -47,10 +44,9 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 ### 주요제품
 - **상업용 주거용 재산 보험:** 콘도미니엄 및 주택 소유자 협회 대상
 - **상해 보험:** 재산 손실 및 상해에 대한 보상 제공
+- **상업용 주거용 재산 보험:** 콘도미니엄 및 주택 소유자 협회 대상
+- **상해 보험:** 재산 손실 및 상해에 대한 보상 제공
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
 
 ### 경쟁업체
@@ -58,13 +54,7 @@ American Coastal Insurance Corp (ACIC)는 주로 상업용 주거용 재산 및 
 - **Allstate (미국, ALL):** 상업용 주거용 재산 보험, 상해 보험
 - **State Farm (미국, STATEFARM):** 상업용 주거용 재산 보험, 상해 보험
 - **Liberty Mutual (미국, LIBERTYMUTUAL):** 상업용 주거용 재산 보험, 상해 보험
-
-{{< adsense-infeed >}}
-
 ### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **American Coastal Insurance Corp:** 약 1% (2023년 기준)
 - **Allstate:** 약 10% (2023년 기준)
 - **State Farm:** 약 8% (2023년 기준)

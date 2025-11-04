@@ -31,9 +31,6 @@ Relay Therapeutics는 정밀의학 분야의 임상 단계 [바이오테크](/in
     - RLY-4008: FGFR2 억제제, 고형암 치료제
     - RLY-2608: PI3Kα 억제제, 유방암 치료제
     - Migoprotafib (GDC-1971): SHP2 억제제, 고형암 치료제
-
-{{< adsense-infeed >}}
-
 Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기존에 접근하기 어려웠던 단백질 표적에 대한 약물 개발을 목표로 하고 있습니다.
 ## 핵심 경쟁력
 
@@ -74,9 +71,6 @@ Relay Therapeutics는 혁신적인 계산 및 실험 기술을 결합하여 기�
 5. 약 2억 달러 규모의 보통주 공모 (2024)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. Vanguard Group Inc. (9.86%)
 2. BlackRock Inc. (7.53%)
 3. State Street Corporation (6.74%)

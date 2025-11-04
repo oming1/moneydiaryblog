@@ -20,9 +20,6 @@ weight: 509
 섹터: 정보기술
 산업: IT서비스
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 생명공학 분야에서 과학 및 기술 솔루션을 제공하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 방위 솔루션: 정보 시스템, C4ISR, 사이버 보안, 로지스틱스 등
@@ -99,9 +96,6 @@ Leidos Holdings는 2024년 기준 글로벌 정부 IT 서비스 시장에서 약
 - ESG 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2022년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)

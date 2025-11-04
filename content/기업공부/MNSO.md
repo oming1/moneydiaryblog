@@ -23,6 +23,7 @@ weight: 576
 
 MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/) 광저우에 본사를 둔 글로벌 라이프스타일 소매 기업입니다. 2020년 설립 및 상장된 이 회사는 디자인 중심의 생활용품과 팝 토이 제품을 개발, 소매, 도매하는 데 주력하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 1. **MINISO 브랜드**: 생활용품, 소형 전자기기, 텍스타일, 액세서리, 뷰티 도구, 장난감, 화장품, 개인 위생 용품, 간식, 향수 및 문구류 판매
+1. **MINISO 브랜드**: 생활용품, 소형 전자기기, 텍스타일, 액세서리, 뷰티 도구, 장난감, 화장품, 개인 위생 용품, 간식, 향수 및 문구류 판매
 2. **TOP TOY 브랜드**: 블라인드 박스, 피규어, 조립 키트 등 팝 토이 제품 판매
     
 3. **글로벌 네트워크**: 4,200개 이상의 매장 운영 (중국 내 약 2,500개, 해외 약 1,680개)
@@ -99,9 +100,6 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 1. Muji(JP): 일본 기반 라이프스타일 소매 브랜드
     
 2. Daiso(JP): 저가 생활용품 체인점
-
-{{< adsense-infeed >}}
-
 3. Funko(US, FNKO): 팝 컬처 피규어 전문 기업
     
 4. Uniqlo(JP): 의류 중심 라이프스타일 브랜드 (간접 경쟁)
@@ -113,9 +111,6 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 하나로 평가받고 있습니다. 글로벌 시장에서는 저가 생활용품 부문에서 강력한 입지를 구축하고 있으며 팝 토이 시장에서도 점유율을 확대하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. TOP TOY 브랜드 출시로 팝 토이 시장 진출 (2023년)
     
 2. 미국 내 매장 수 확대 계획 발표 (2024년)
@@ -124,9 +119,6 @@ MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 �
 4. 온라인 플랫폼 통합 및 디지털 전환 가속화 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (11%)
     
 - BlackRock (9%)
@@ -134,9 +126,6 @@ MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 �
 - State Street Corporation (5%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares MSCI China ETF - MCHI
     
 - KraneShares CSI China Internet ETF - KWEB

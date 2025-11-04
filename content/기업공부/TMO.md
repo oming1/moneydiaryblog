@@ -47,9 +47,6 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
 - **특수 진단**: 면역 진단 시약 키트, 단백질 검출 분석, 기기 등
 - **실험실 제품 및 바이오파마 서비스**: 실험실 제품, 연구 및 안전 시장 채널, 제약 서비스 및 임상 연구
 #### 주요 판매국가 (Major Sales Countries)
-
-{{< adsense-infeed >}}
-
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **아시아:** 특히 중국과 일본에서 강력한 시장 입지
@@ -60,9 +57,6 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
 - **Illumina** (US, [ILMN](/company-analysis/ilmn/)): 유전자 분석 및 시퀀싱 기기
 
 #### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
-
-{{< adsense-infeed >}}
-
 - **FDA 승인**: SeCore HLA Typing Kit의 510(k) 승인 (2024)
 - **매출 감소**: 2024년 상반기 매출 1.4% 감소 (2024)
 - **인수 합병**: Olink 인수 (2024)

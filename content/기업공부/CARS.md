@@ -84,9 +84,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 - **CreditIQ**: 소비자 금융 옵션 제공 플랫폼
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. 자동차 구매자 (개인 소비자)
     
 2. 자동차 판매자 (개인 및 딜러)
@@ -105,16 +102,10 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 2. CarMax Inc.(US, [KMX](/company-analysis/kmx/)): 중고차 판매 및 구매 전문 기업
     
 3. CarGurus Inc.(US, [CARG](/company-analysis/carg/)): 온라인 자동차 가격 비교 플랫폼
-
-{{< adsense-infeed >}}
-
 4. Edmunds.com(US): 차량 리뷰 및 가격 비교 플랫폼
 5. TrueCar Inc.(US, TRUE): 온라인 자동차 가격 비교 플랫폼
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Cars.com은 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약 15%의 점유율을 보유하고 있으며, 중고차 거래 부문에서 강세를 보이고 있습니다. 글로벌 시장에서는 캐나다에서도 안정적인 입지를 확보하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -126,9 +117,6 @@ Cars.com은 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 3. AccuTrade 기반 차량 평가 솔루션 출시 (2022년 3월)
     
 4. AI 기반 추천 시스템 도입으로 사용자 경험 개선 (2023년)
-
-{{< adsense-infeed >}}
-
 5. ESG 목표 강화: 지속 가능한 비즈니스 모델 구축 발표 (2024년)
 
 ## 주요주주(지분율)

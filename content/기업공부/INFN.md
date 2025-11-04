@@ -80,9 +80,6 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 - **글로벌 지원 네트워크**: 15개국 20개 서비스 센터, 24×7 현장 대응
 
 - **혁신 R&D**: 연간 매출의 12% 투자, 1,500여 건 특허 포트폴리오
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 핵심 기술
@@ -112,9 +109,6 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 3단계: **모듈 조립**
 
 - DSP 보드 결합 → 열 관리 히트싱크 장착 → 광섬유 커넥터 통합  
-
-{{< adsense-infeed >}}
-
 4단계: **시스템 통합**
 
 - Line card 삽입 → 전원·냉각·소프트웨어 로딩  
@@ -174,9 +168,6 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 - **Deutsche Telekom(DE, DTE.DE)** – 유럽 도시권 DWDM
 - **Google Cloud(US, [GOOGL](/company-analysis/googl/))** – 데이터센터 상호 연결
 - **Australian NBN(AS, NBN.AX)** – 광 액세스 네트워크
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가

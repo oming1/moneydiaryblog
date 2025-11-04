@@ -27,9 +27,6 @@ weight: 718
 ## 후방산업
 - 섬유 제조업체: 의류 생산을 위한 원자재 공급
 - 물류 및 유통업체: 제품 배송 및 유통 지원
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 소매업체: 백화점, 전문점 등 (예: JCPenney(US, JCP), Macy's(US, [M](/company-analysis/m/)))
@@ -47,15 +44,9 @@ weight: 718
 - Van Heusen: 드레스 셔츠 및 비즈니스 캐주얼 의류
 - IZOD: 스포츠웨어 및 골프 의류
 - Warner's, Olga: 여성 속옷
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 캐나다, 유럽, 아시아
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Ralph Lauren Corporation(US, [RL](/company-analysis/rl/)): 프리미엄 의류 및 액세서리
 - VF Corporation(US, VFC): 다양한 의류 브랜드 보유
@@ -65,9 +56,6 @@ weight: 718
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 - Stefan Larsson이 새로운 CEO로 취임 (2021)
 - PVH+ 계획 발표: 지속 가능한 수익성 있는 성장 추구 (2022)

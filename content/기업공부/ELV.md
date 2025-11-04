@@ -19,13 +19,7 @@ weight: 312
 - **Industry:** 관리 의료 (Managed Healthcare)
 
 **영위사업** 
-
-{{< adsense-infeed >}}
-
 Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입니다. 주요 사업 부문은 의료 보험, 약국 혜택 관리, 행동 건강 서비스, 장기 요양 및 장애 보험 등을 포함합니다.
-
-{{< adsense-infeed >}}
-
 **전방/후방산업**
 
 - **전방산업:** 의료 서비스 제공자, 약국, 병원
@@ -42,9 +36,6 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - IT 서비스: Accenture (미국, [ACN](/company-analysis/acn/))
 **밸류체인**
-
-{{< adsense-infeed >}}
-
 - **보험 상품 개발:** 보험 상품 설계 및 개발
     - **대표 회사:** MetLife (미국, MET), Prudential Financial (미국, PRU)
 - **데이터 분석:** 데이터 수집 및 분석
@@ -61,9 +52,6 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 **주요 판매국가**
 
 - **미국:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
 
 - **UnitedHealth Group (미국, [UNH](/company-analysis/unh/)):** 의료 보험 및 관련 서비스
@@ -71,6 +59,7 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 - **Cigna (미국, [CI](/company-analysis/ci/)):** 의료 보험 및 관련 서비스
 
 **산업 내 글로벌 시장 점유율**
+- Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
 - Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**
 

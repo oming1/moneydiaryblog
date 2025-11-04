@@ -23,13 +23,7 @@ weight: 229
 Copart는 온라인 차량 경매 및 재마케팅 서비스를 제공하는 글로벌 기업입니다. 주로 보험사, 렌터카 회사, 딜러십, 개인 등에게 중고차, 도매차량, 수리 가능한 차량을 온라인 경매를 통해 판매합니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 자동차 재판매, 중고차 딜러
     - 역할: 차량 공급
     - 주요 기업: CarMax (미국, [KMX](/company-analysis/kmx/)), AutoNation (미국, [AN](/company-analysis/an/))
@@ -39,6 +33,11 @@ Copart는 온라인 차량 경매 및 재마케팅 서비스를 제공하는 글
     - 핵심 산업: 보험, 렌터카
     - 역할: 차량 공급원
     - 주요 기업: Allstate (미국, ALL), Enterprise Holdings (미국, 비상장)
+## 밸류체인
+
+- 온라인 경매 플랫폼:
+    - Copart는 자체 VB3 기술을 통해 온라인 경매를 운영합니다.
+    - 대표 기업: KAR Auction Services (미국, KAR), Ritchie Bros. Auctioneers (캐나다, [RBA](/industry-study/1경제매크로3금리rba/))
 ## 밸류체인
 
 - 온라인 경매 플랫폼:
@@ -58,13 +57,7 @@ Copart는 온라인 차량 경매 및 재마케팅 서비스를 제공하는 글
 ## 주요 판매 국가
 
 미국, 캐나다, 영국, 독일, 아일랜드, 브라질, 스페인, UAE, 바레인, 오만, 핀란드
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - KAR Auction Services (미국, KAR) - 온라인 및 오프라인 차량 경매
 - Ritchie Bros. Auctioneers (캐나다, [RBA](/industry-study/1경제매크로3금리rba/)) - 산업 장비 및 차량 경매
 - IAA (미국, IAA) - 손상 차량 경매

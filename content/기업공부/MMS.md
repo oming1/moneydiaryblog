@@ -36,22 +36,13 @@ Maximus는 Medicaid, Medicare, 건강보험 개혁, 복지에서 일자리로의
 5. 학자금 대출 관리 시스템
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Maximus는 주로 미국, 캐나다, 영국, 호주, 뉴질랜드, 사우디아라비아, 싱가포르 등에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. Jack Henry & Associates (US, JKHY) - 금융 기술 솔루션
 2. Genpact (US, G) - 비즈니스 프로세스 관리
 3. ExlService (US, EXLS) - 운영 관리 및 분석 솔루션
 4. WEX (US, WEX) - 결제 처리 및 정보 관리 서비스
 5. Euronet Worldwide (US, EEFT) - 전자 결제 및 거래 처리 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Maximus는 정부 서비스 분야에서 주요 공급업체 중 하나로 인식되고 있습니다.

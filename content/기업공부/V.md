@@ -24,10 +24,9 @@ weight: 926
 
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 마스터카드 (미국, [MA](/company-analysis/ma/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
-
-{{< adsense-infeed >}}
-
 **후방산업**
+- **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
+- **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
 **밸류체인**
@@ -37,9 +36,6 @@ weight: 926
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
     - **WPP (영국, WPP)**: 광고 및 PR 서비스.
 2. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
-
-{{< adsense-infeed >}}
-
     - **Equifax (미국, EFX):** 신용 평가 서비스.
     - **Experian (영국, [EXPN](/company-analysis/expn/))**: 신용 정보 및 분석.
 3. **결제 처리 (Payment Processing):**
@@ -47,9 +43,6 @@ weight: 926
     - **Mastercard (미국, [MA](/company-analysis/ma/))**: 결제 네트워크.
     - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/))**: 결제 처리 서비스.
 4. **고객 서비스 및 지원 (Customer Service and Support):**
-
-{{< adsense-infeed >}}
-
     - **Concentrix (미국, CNXC)**: 고객 서비스 아웃소싱.
     - **Teleperformance (프랑스, TEP)**: 고객 지원 서비스.
 
@@ -65,9 +58,6 @@ weight: 926
 - **캐나다:** 주요 매출 국가.
 - **영국:** 주요 매출 국가.
 - **독일:** 주요 매출 국가.
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
 
 - **Mastercard (미국, [MA](/company-analysis/ma/)):** 글로벌 결제 네트워크.

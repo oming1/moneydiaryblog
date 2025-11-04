@@ -84,9 +84,6 @@ weight: 523
 		티르제파타이드를 기본 치료제로, 오르포글리프론을 통해 더 많은 환자에게 접근성을 높이고, 레타트루타이드와 아밀린 작용제로 추가적인 체중 감량이 필요하거나 다른 기전이 필요한 환자군을 공략하는 포트폴리오 전략 구사.
 		
 		환자와 의사의 선호에 따라 추가(add-on) 또는 전환(switching) 시나리오 모두에서 릴리의 약물이 사용될 수 있도록 포트폴리오를 구성.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## **산업 섹터 (Sector)**
@@ -191,9 +188,6 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - 품질 관리 시스템 운영
 
 **3. 포장 및 라벨링:**
-
-{{< adsense-infeed >}}
-
 - 자동화된 포장 시스템 운영
 - 다국가 규제 요구사항 준수
 - 추적 가능한 공급망 관리
@@ -239,9 +233,6 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)) - 합성 생물학 플랫폼
 - Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)) - 단백질 동역학 기반 신약 개발
 **전임상 및 임상 단계:** 안전성 및 효능 검증
-
-{{< adsense-infeed >}}
-
 - Charles River Laboratories(US, [CRL](/company-analysis/crl/)) - 전임상 연구 서비스, 시장점유율 약 15%
 - Covance/LabCorp(US, LH) - 임상시험 운영 서비스, 글로벌 CRO 시장 2위
 - IQVIA(US, [IQV](/company-analysis/iqv/)) - 임상시험 및 데이터 분석 서비스, 시장점유율 약 20%
@@ -309,9 +300,6 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - 주요 공급 업체: Schott Schott, Gerresheimer GXI
 
 **생물학적 배양 원료:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 생물학적 제제 생산
 - 주요 공급 지역: 미국, 유럽
 - 주요 공급 업체: Thermo Fisher Scientific [TMO](/company-analysis/tmo/), Merck KGaA [MRK](/company-analysis/mrk/)

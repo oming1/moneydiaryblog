@@ -20,9 +20,6 @@ weight: 332
 
 **영위사업** Exelon Corporation은 미국에서 전기 및 가스 유틸리티 서비스를 제공하는 기업입니다. 주요 사업 부문은 전기 유틸리티 및 인프라(EU&I)와 가스 유틸리티 및 인프라(GU&I)로 나뉩니다.
 **전방/후방산업**
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 전력 소비자, 산업 및 상업 고객
     - **핵심 산업:** 전력 소비자 (가정 및 상업용 전력 공급), 산업 고객 (산업용 전력 공급)
     - **관련 기업:**
@@ -43,9 +40,6 @@ weight: 332
     - **대표 회사:** American Electric Power (미국, [AEP](/company-analysis/aep/)), Dominion Energy (미국, [D](/company-analysis/d/))
 - **배포:** 전력 및 가스 배포
     - **대표 회사:** Southern Company (미국, [SO](/company-analysis/so/)), Consolidated Edison (미국, [ED](/company-analysis/ed/))
-
-{{< adsense-infeed >}}
-
 **주요제품**
 
 - **전기:** 가정, 상업 및 산업용 전력 공급
@@ -60,9 +54,6 @@ weight: 332
 - **NextEra Energy (미국, [NEE](/company-analysis/nee/)):** 전력 및 재생 에너지 공급
 - **Southern Company (미국, [SO](/company-analysis/so/)):** 전력 및 가스 공급
 - **Duke Energy (미국, [DUK](/company-analysis/duk/)):** 전력 및 가스 공급
-
-{{< adsense-infeed >}}
-
 **산업 내 글로벌 시장 점유율**
 
 - [Exelon은 미국 전력 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준)](https://en.wikipedia.org/wiki/Exelon)[1](https://en.wikipedia.org/wiki/Exelon).

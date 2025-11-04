@@ -122,9 +122,6 @@ VisionWave Holdings는 주로 소프트웨어 및 시스템 통합에 중점을 
 ## 전방산업 / 후방산업
 
 **전방산업 (제품 사용 산업):**
-
-{{< adsense-infeed >}}
-
 - 군사 및 방위: 미 국방부(US, DOD), 미 육군(US Army), 미 해군(US Navy), 미 공군(US Air Force)
 - 정보 기관: 국가안보국(NSA), 중앙정보국(CIA), 국방정보국(DIA)
 - 국토안보: 국토안보부(DHS), 연방수사국(FBI), 국경 순찰대
@@ -156,9 +153,6 @@ VisionWave Holdings는 주로 소프트웨어 및 시스템 통합에 중점을 
 - 센서 및 레이더: Teledyne Technologies(US, [TDY](/company-analysis/tdy/)), Raytheon(RTX 소유, US, [RTX](/company-analysis/rtx/))
 - 통신 시스템: L3Harris Technologies(US, [LHX](/company-analysis/lhx/)), Viasat(US, [VSAT](/company-analysis/vsat/))
 - 전력 시스템: Eaton Corporation(US, [ETN](/company-analysis/etn/)), Honeywell(US, [HON](/company-analysis/hon/))
-
-{{< adsense-infeed >}}
-
 **시스템 통합 및 테스트 단계:**
 
 - VisionWave Holdings(US, [VWAV](/company-analysis/vwav/)): 자체 시스템 통합 및 테스트 수행
@@ -237,9 +231,6 @@ _참고: 방위 산업의 특성상, 많은 계약과 판매 정보는 기밀로
 ## 경쟁업체
 
 - **Palantir Technologies(US, [PLTR](/company-analysis/pltr/))**: AI 및 데이터 분석 기술을 군사 및 정보 기관에 제공하는 소프트웨어 기업. 시장점유율은 공개되지 않았으나, 미 정부 계약에서 강세를 보입니다.
-
-{{< adsense-infeed >}}
-
 - **Anduril Industries(비상장)**: 자율 무인 시스템 및 AI 기반 방위 기술을 개발하는 스타트업. 급속히 성장 중이며 미 국방부와 다수의 계약을 체결했습니다.
     
 - **Shield AI(비상장)**: 자율 비행 및 AI 기반 군사 드론 기술 전문 기업. V-BAT 드론 및 Hivemind 자율 소프트웨어로 알려져 있습니다.
@@ -312,9 +303,6 @@ _참고: 방위 산업의 특성상 많은 계약 정보가 기밀로 유지되�
 ---
 
 ## 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 VisionWave Holdings, Inc.의 주요 주주 및 지분율에 대한 정확한 정보는 제한적이지만, 공개된 자료에서 다음과 같은 정보를 확인할 수 있습니다:
 
 **경영진 및 이사회**:

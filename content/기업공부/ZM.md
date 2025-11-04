@@ -32,9 +32,6 @@ Zoom은 비디오, 음성, 채팅 및 콘텐츠 공유를 통해 사람들을 �
 
 - 클라우드 인프라: Amazon Web Services (국가:US, [AMZN](/company-analysis/amzn/))
 - 네트워크 장비: Cisco Systems (국가:US, [CSCO](/company-analysis/csco/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Zoom Meetings (화상 회의, 매출 비중: 약 70%, 2023년 기준)
@@ -44,9 +41,6 @@ Zoom은 비디오, 음성, 채팅 및 콘텐츠 공유를 통해 사람들을 �
 
 ## 주요 판매국가
 Zoom은 전 세계적으로 서비스를 제공하고 있지만, 구체적인 국가별 매출 비중은 제공된 정보에 없습니다. 주요 시장으로는 미국, 유럽, 아시아 태평양 지역이 포함됩니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Microsoft (국가:US, [MSFT](/company-analysis/msft/)) - Teams (화상 회의 및 협업 도구)
@@ -56,7 +50,4 @@ Zoom은 전 세계적으로 서비스를 제공하고 있지만, 구체적인 �
 
 각 경쟁사의 정확한 시장점유율 데이터는 제공된 정보에 없습니다.
 ## 자세한 종목 정보 링크
-
-{{< adsense-infeed >}}
-
 [https://finviz.com/quote.ashx?t=ZM](https://finviz.com/quote.ashx?t=ZM)

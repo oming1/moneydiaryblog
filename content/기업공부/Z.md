@@ -22,9 +22,6 @@ Industry: 인터넷 콘텐츠 및 정보 (Internet Content & Information)
 Zillow Group은 [부동산](/industry-study/2산업부동산/) 및 주택 관련 정보, 마케팅 및 기술 솔루션을 제공하는 온라인 플랫폼을 운영합니다
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 부동산 중개: Redfin (국가:US, [RDFN](/company-analysis/rdfn/))
@@ -42,18 +39,13 @@ Zillow Group은 [부동산](/industry-study/2산업부동산/) 및 주택 관련
 - HotPads (임대 부동산 리스팅 서비스, 매출 비중 정보 없음)
 - Zillow Home Loans (주택 대출 서비스, 매출 비중 정보 없음)[](https://www.zillowgroup.com/about-us/business/)
 ## 주요 판매국가
+## 주요 판매국가
 Zillow Group은 주로 미국 시장에서 서비스를 제공합니다[](https://finance.yahoo.com/quote/Z/profile/?guccounter=1). 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Redfin (국가:US, [RDFN](/company-analysis/rdfn/)) - 온라인 부동산 중개 서비스
 - Realtor.com (News Corp 소유) - 부동산 리스팅 및 정보 플랫폼
 - Opendoor Technologies (국가:US, [OPEN](/company-analysis/open/)) - iBuyer 서비스 및 온라인 부동산 거래 플랫폼
-
-{{< adsense-infeed >}}
-
 경쟁사들의 정확한 시장점유율 데이터는 제공된 정보에 없습니다.
 ## 자세한 종목 정보 링크
 

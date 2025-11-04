@@ -47,22 +47,13 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 - **서비스**: 제품의 유지보수 및 애프터서비스 제공. 대표 기업: Yaskawa Electric (JP, 6506), Schneider Electric (FR, [SU](/company-analysis/su/)).
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 서보 모터 및 앰프
 - AC 인버터 드라이브
 - 모션 컨트롤러
 - 산업용 로봇 (Motoman 시리즈)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 일본, 미국, 중국, 유럽 등 전 세계 29개국에 사업장을 운영하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - [Fanuc](/company-analysis/fanuc/) Corporation (JP, 6954.T)
@@ -71,9 +62,6 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 
 ## 산업 내 글로벌 시장 점유율
 AC 인버터 드라이브, 서보 및 모션 제어, 로봇 자동화 시스템 분야에서 세계 최대 제조업체 중 하나입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 2023년: 아스텔라스 제약과 로봇 기술을 활용한 세포 치료 플랫폼 구축 파트너십 체결

@@ -20,9 +20,6 @@ weight: 657
 산업: [광고](/industry-study/2산업광고/)(Advertising)
 
 ## 영위사업  
-
-{{< adsense-infeed >}}
-
 Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 서비스를 제공하는 지주회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 광고 서비스 (53.7% 매출 비중): 광고 제작, 미디어 컨설팅, 광고 공간 구매 등
@@ -42,9 +39,6 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 - 데이터 분석 기업: Adobe(US, [ADBE](/company-analysis/adbe/))
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 ### 전방산업:
-
-{{< adsense-infeed >}}
-
 - 소비재 기업: PepsiCo(US, [PEP](/company-analysis/pep/)), Unilever(UK, ULVR.L)
 - 자동차 제조업체: Volkswagen(DE, VOW3.DE), Nissan(JP, 7201.T)
 - 통신 기업: AT&T(US, [T](/company-analysis/t/))
@@ -67,9 +61,6 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 - 체험 마케팅 서비스
 
 ## 주요 판매국가  
-
-{{< adsense-infeed >}}
-
 북미(54.2%), 유럽(29%), 아시아/태평양(12.1%), 라틴아메리카(2.6%), 중동 및 아프리카(2.1%)경쟁업체
 - WPP(UK, WPP.L)
 - Publicis Groupe(FR, PUB.PA)
@@ -78,9 +69,6 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 
 ## 산업 내 글로벌 시장 점유율  
 2014년 기준 월스트리트 저널에 의해 세계 2위 광고 지주회사로 평가되었으나, 최근의 정확한 시장 점유율 데이터는 제공되지 않았습니다.최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Adobe와 파트너십 체결하여 창의적 콘텐츠 제작 및 전달 방식 혁신 (2023)
 - 공급망 기반 미디어 활성화 도구인 Supply Chain IQ Score 출시 (2022)
 - LeapPoint 인수를 통해 엔드투엔드 콘텐츠 공급망 솔루션 강화 (2024)

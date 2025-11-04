@@ -77,9 +77,6 @@ Maxim Integrated Products의 핵심 경쟁력은 다음과 같습니다:
 3. General Motors (US, [GM](/company-analysis/gm/))
 4. Ford (US, [F](/company-analysis/f/))
 5. Siemens (DE, [SIE](/company-analysis/sie/))
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Maxim Integrated Products는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
@@ -103,17 +100,8 @@ Maxim Integrated Products는 글로벌 기업으로, 구체적인 국가별 매�
 3. 0.09 마이크론 프로세스 개발 및 양산 준비 (2024년)
 4. 통합 솔루션 제품 라인업 확대 (2022-2024년)
 5. 전기차 및 자율주행차 관련 제품 개발 강화 (2023-2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 Maxim Integrated Products는 2021년 Analog Devices([ADI](/company-analysis/adi/))에 인수되어 현재는 상장폐지된 상태입니다.
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 - SPDR S&P Semiconductor ETF XSD
 - iShares PHLX Semiconductor ETF SOXX

@@ -19,9 +19,6 @@ weight: 907
 ## 영위사업
 
 Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 제공 기업입니다. 1979년 설립되어 현재 뉴욕 증권거래소(NYSE)에 상장되어 있습니다. UHS는 주로 두 가지 핵심 사업 부문을 운영하고 있습니다:
-
-{{< adsense-infeed >}}
-
 1. 급성 치료 병원 서비스: 종합 의료 서비스, 응급 치료, 수술, 진단 등을 제공합니다.
 2. 행동 건강 관리 서비스: 정신 건강 및 중독 치료 서비스를 제공합니다.
 
@@ -48,9 +45,6 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 1. 의료 IT: Cerner Corporation(US, CERN), Epic Systems Corporation(Epic Systems)
 2. 의료 장비: Siemens Healthineers(DE, SHL)
 3. 의료 소모품: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 의료 시설 개발: UHS, HCA Healthcare(US, [HCA](/company-analysis/hca/))
@@ -60,9 +54,6 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 5. 의료 인력 공급: AMN Healthcare Services(US, AMN)
 6. 환자 치료: UHS
 7. 보험 청구 및 수익 관리: UHS, Optum(US, [UNH](/company-analysis/unh/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스, 수술, 응급 치료 (매출 비중: 약 55%, 2023년 기준)
@@ -94,9 +85,6 @@ UHS는 주로 미국 내에서 사업을 영위하고 있으며, 일부 시설�
 3. 디지털 헬스케어 및 원격 의료 서비스 확대 (2022-2024)
 4. 행동 건강 서비스 수요 증가에 따른 시설 확장 (2022-2024)
 5. ESG 이니셔티브 강화 및 지속가능성 보고서 발행 (2023)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. Vanguard Group Inc. (12.18%)

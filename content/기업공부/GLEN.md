@@ -40,9 +40,6 @@ Glencore plc는 스위스에 본사를 둔 다국적 상품 거래 및 광업 �
 - 역할: 채굴 장비 및 서비스 제공
 - 채굴 장비 제조업체: Caterpillar (US, [CAT](/company-analysis/cat/))
 - 엔지니어링 서비스: Fluor Corporation (US, [FLR](/company-analysis/flr/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [아연](/industry-study/아연/), [니켈](/industry-study/니켈/) 등의 금속
 - [석탄](/industry-study/석탄/) 및 석유 제품
@@ -57,16 +54,13 @@ Glencore는 전 세계적으로 사업을 운영하며, 50개 이상의 국가�
 - 전 세계적인 광산 및 생산 시설 네트워크
 - 글로벌 물류 및 저장 인프라
 - 다양한 천연자원 매장지
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - BHP Group (AU, [BHP](/company-analysis/bhp/)) - 다국적 광업 회사
 - Rio Tinto (UK, [RIO](/company-analysis/rio/)) - 다국적 광업 및 금속 회사
 - Vale (BR, [Vale](/company-analysis/vale/)) - 브라질 광업 회사
+## 산업 내 글로벌 시장 점유율
+
+Glencore는 2022년 7월 기준 세계 최대의 상품 거래업체로 알려져 있습니다. 특히 아연, 구리, 곡물 시장에서 높은 점유율을 보유하고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 Glencore는 2022년 7월 기준 세계 최대의 상품 거래업체로 알려져 있습니다. 특히 아연, 구리, 곡물 시장에서 높은 점유율을 보유하고 있습니다.

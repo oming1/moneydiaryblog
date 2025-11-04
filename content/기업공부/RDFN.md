@@ -38,18 +38,12 @@ Redfin은 주거용 부동산 중개 서비스와 모기지 개시 서비스를 
 - **부동산 중개**: Redfin의 주거용 부동산 중개 서비스
     - **대표 회사**: Keller Williams Realty (US, 비상장) - 부동산 중개 서비스
     - **대표 회사**: Coldwell Banker(US, 비상장) - 부동산 중개 서비스
-
-{{< adsense-infeed >}}
-
 - **모기지 서비스**: Redfin의 모기지 대출 서비스
 
     - **대표 회사**: Quicken Loans (US, 비상장) - 모기지 대출 서비스
     - **대표 회사**: Wells Fargo Home Mortgage (US, [WFC](/company-analysis/wfc/)) - 주택 담보 대출 서비스
     
 - **기타 서비스**: 타이틀 및 정착 서비스
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: First American Title (US, 비상장) - 타이틀 보험 및 서비스
     - **대표 회사**: Old Republic Title (US, 비상장) - 타이틀 보험 및 서비스
 ## 주요제품
@@ -60,12 +54,15 @@ Redfin은 주거용 부동산 중개 서비스와 모기지 개시 서비스를 
 - **렌탈 서비스** (매출의 약 10%)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Redfin은 미국과 캐나다의 100개 이상의 시장에서 운영되며, 주요 시장은 미국입니다.
 
 ## 경쟁업체
+- **Zillow Group (US, ZG)** - 부동산 정보 및 중개 서비스
+- **RE/MAX (US, RMAX)** - 부동산 중개 서비스
+- Keller Williams Realty (US, 비상장) - 부동산 중개 서비스
+## 산업 내 글로벌 시장 점유율
+
+Redfin은 미국에서 약 0.76%의 시장 점유율을 보유하고 있으며, 이는 판매된 주택 수 기준입니다 (2023년 기준).
 - **Zillow Group (US, ZG)** - 부동산 정보 및 중개 서비스
 - **RE/MAX (US, RMAX)** - 부동산 중개 서비스
 - Keller Williams Realty (US, 비상장) - 부동산 중개 서비스

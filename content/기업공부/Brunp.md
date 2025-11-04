@@ -19,20 +19,18 @@ Sector: Materials ([원자재](/industry-study/원자재/))
 Industry: Waste Management (폐기물관리)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고급 [배터리](/industry-study/배터리/) 소재 생산에 전문화된 하이테크 기업입니다. 주요 사업은 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 재활용, 배터리 소재 생산, 폐차 해체 및 재활용입니다.
 ## 전방/후방산업
+## 전방/후방산업
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 재활용 배터리 소재 사용
 - 배터리 제조: Contemporary Amperex Technology ([CATL](/company-analysis/catl/)) (CN, 300750)
 - 전기차 제조: [BYD](/company-analysis/byd/) (CN, 002594)
 
 후방산업:
+- 역할: 폐배터리 공급
+- 전기차 제조업체: Tesla (US, [TSLA](/company-analysis/tsla/))
+- 전자기기 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
 - 역할: 폐배터리 공급
 - 전기차 제조업체: Tesla (US, [TSLA](/company-analysis/tsla/))
 - 전자기기 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
@@ -51,9 +49,6 @@ Brunp는 [폐배터리](/industry-study/폐배터리/) 및 폐차 재활용, 고
 - GEM Co., Ltd. (CN, 002340) - 배터리 재활용 및 소재 생산
 - [Ganfeng Lithium](/company-analysis/ganfeng-lithium/) (CN, 002460) - 리튬 관련 제품 및 재활용
 - Umicore (BE, UMI) - 배터리 재활용 및 소재 생산
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Brunp는 세계 최대 규모의 배터리 재활용 기업 중 하나로 알려져 있으나, 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.

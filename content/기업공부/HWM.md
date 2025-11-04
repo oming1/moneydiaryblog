@@ -40,13 +40,7 @@ Howmet Aerospace는 항공기 엔진 및 구조물, 산업 가스 터빈, 그리
     - **주요 기업**: Alcoa Corporation (미국, [AA](/company-analysis/aa/)), Nucor Corporation (미국, [NUE](/company-analysis/nue/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **부품 제조**:
-
-{{< adsense-infeed >}}
-
     - Howmet은 항공기 엔진 부품과 구조물 부품을 제조하여 고객에게 제공합니다.
     - 대표 기업: General Electric Aviation (미국, [GE](/company-analysis/ge/)) - 경쟁 제품: 항공기 엔진 부품
     
@@ -67,9 +61,6 @@ Howmet Aerospace는 항공기 엔진 및 구조물, 산업 가스 터빈, 그리
     - 산업용 가스 터빈에 사용되는 부품으로, 에너지 효율성을 높입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 Howmet Aerospace는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
 
 ## 경쟁업체

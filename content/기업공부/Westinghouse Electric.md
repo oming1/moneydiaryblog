@@ -66,9 +66,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
     주요 원자재로는 [우라늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속우라늄/)(핵연료), 지르코늄(피복관), 특수강(원자로 용기)이 있으며, 공급망은 글로벌 우라늄 광산(캐나다, 카자흐스탄 등), 농축 서비스 제공업체, 특수 부품 제조사(터빈, 발전기 등)로 구성됩니다. 엄격한 품질 관리와 보안이 필수적입니다.
     
 - **최근 주요 이슈**
-
-{{< adsense-infeed >}}
-
     - 2024년: AP1000 원자로의 글로벌 확장(예: 폴란드, 우크라이나 등), eVinci SMR 개발 가속화.
 
     - 2025년: 기존 원전의 수명 연장 서비스 계약 증가 및 디지털 솔루션 도입.
@@ -183,9 +180,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 - **핵연료 집합체:** PWR 원자로 연료, 매출 비중 40% (2024 추정), 경쟁사 Framatome, Rosatom, Global Nuclear Fuel (GE Hitachi).
 
 - **발전소 서비스:** 기존 원전 유지보수 및 업그레이드, 매출 비중 35% (2024 추정), 경쟁사 Framatome, GE Hitachi, KHNP.
-
-{{< adsense-infeed >}}
-
 - **SMR 기술 (eVinci, AP300):** 차세대 원자로 개발, 매출 비중 5% (2024 추정), 경쟁사 NuScale Power (US, [SMR](/industry-study/smr/)), Rolls-Royce SMR, TerraPower (비상장).
 
 ---
@@ -234,9 +228,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 - **글로벌 핵연료 시장:** 약 20-25% (PWR 연료 공급 기준).
 - **글로벌 원전 서비스 시장:** 약 15-20% (기존 원전 서비스 기준).
 - **SMR 시장:** 개발 초기 단계로 점유율 산정 불가하나, 핵심 기술 보유.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 기업 특징 및 성장성

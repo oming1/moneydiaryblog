@@ -29,20 +29,11 @@ weight: 610
     - **광산 장비 제조**: 광산 채굴에 필요한 장비 공급. 예: 캐터필러 (미국, [CAT](/company-analysis/cat/)).
     - **화학 제품 제조**: 광산 채굴에 필요한 화학 제품 공급. 예: 듀폰 (미국, [DD](/company-analysis/dd/)).
 **밸류체인**:
-
-{{< adsense-infeed >}}
-
 - **탐사 및 개발**: 새로운 광산 자원 탐사 및 개발. 대표 회사: Newmont Exploration.
 - **채굴 및 생산**: 금속 자원의 채굴 및 생산. 대표 회사: Newmont Mining.
 - **정제 및 가공**: 채굴된 금속의 정제 및 가공. 대표 회사: Newmont Refining.
 - **판매 및 유통**: 글로벌 시장에서의 금속 판매 및 유통. 대표 회사: Newmont Global Markets.
-
-{{< adsense-infeed >}}
-
 **주요제품**:
-
-{{< adsense-infeed >}}
-
 - **금**: 주로 주얼리, 투자, 산업용으로 사용.
 - **구리**: 전기 및 전자 제품, 건설 자재로 사용.
 - **은**: 주얼리, 전자 제품, 산업용으로 사용.

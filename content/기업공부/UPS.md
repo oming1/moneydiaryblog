@@ -21,15 +21,9 @@ weight: 915
 **영위사업** UPS는 주로 패키지 배송 및 물류 서비스를 제공합니다. 이 회사는 전 세계적으로 소포와 화물을 운송하며, 공급망 관리 및 물류 솔루션을 제공합니다.
 
 **전방/후방산업**
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 전자상거래, 제조업, 소매업
     - **핵심 산업:** 전자상거래 (Amazon (US, [AMZN](/company-analysis/amzn/))), 제조업 (Apple (US, [AAPL](/company-analysis/aapl/))), 소매업 (Walmart (US, [WMT](/company-analysis/wmt/)))
     - **역할:** 제품 생산 및 판매, 물류 서비스 수요 창출
-
-{{< adsense-infeed >}}
-
 - **후방산업:** 운송 장비 제조, 연료 공급, IT 서비스
     - **핵심 산업:** 운송 장비 제조 (Boeing (US, [BA](/company-analysis/ba/))), 연료 공급 (ExxonMobil (US, [XOM](/company-analysis/xom/))), IT 서비스 (IBM (US, [IBM](/company-analysis/ibm/)))
     - **역할:** 물류 서비스 제공을 위한 장비 및 서비스 공급
@@ -46,16 +40,10 @@ weight: 915
 
 - **패키지 배송 서비스:** 소포 및 화물의 국내 및 국제 운송
 - **물류 솔루션:** 공급망 관리, 창고 관리, 배송 최적화 서비스
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
 - **미국:** 전체 매출의 약 60% (2023년 기준)
 - **유럽:** 전체 매출의 약 20% (2023년 기준)
 - **아시아:** 전체 매출의 약 15% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
 
 - **FedEx (US, [FDX](/company-analysis/fdx/)):** 패키지 및 화물 운송 서비스

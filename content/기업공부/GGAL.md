@@ -21,9 +21,6 @@ weight: 375
 ## 영위사업
 
 Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회사로, 다음과 같은 사업 부문을 운영하고 있습니다:
-
-{{< adsense-infeed >}}
-
 1. 은행(Banks): 개인 및 기업 고객을 위한 종합 은행 서비스 제공
 2. NaranjaX: 신용카드 및 디지털 금융 서비스
 3. 보험(Insurance): 생명보험, 퇴직연금, 주택소유자 보험 등
@@ -43,9 +40,6 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 - 금융 기술(Fintech): Fiserv (US, FISV)
 - 결제 시스템: Visa (US, [V](/company-analysis/v/)), Mastercard (US, [MA](/company-analysis/ma/))
 - 데이터 분석: IBM (US, [IBM](/company-analysis/ibm/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 자금 조달: 예금 및 투자 유치
@@ -61,6 +55,7 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 3. 예금 및 당좌계좌
 4. 보험 상품 (생명보험, 퇴직연금 등)
 5. 투자 및 자산관리 서비스
+## 주요 판매국가
 ## 주요 판매국가
 아르헨티나를 중심으로 사업을 영위하고 있으며, 우루과이에도 일부 사업을 운영하고 있습니다
 

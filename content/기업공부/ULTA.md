@@ -33,9 +33,6 @@ Ulta Beauty는 미국 내에서 [화장품](/industry-study/화장품/), 향수,
 ## 전방/후방산업
 
 - **전방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 화장품 및 뷰티 제품 소비
     - **관련 기업**: Sephora (LVMH, FR), Macy's (US, [M](/company-analysis/m/))
 
@@ -52,9 +49,6 @@ Ulta Beauty는 미국 내에서 [화장품](/industry-study/화장품/), 향수,
 - **소매 운영**: 오프라인 매장 및 온라인 플랫폼 운영
     - **대표 회사**: Amazon (US, [AMZN](/company-analysis/amzn/)) - 온라인 소매
     - **대표 회사**: Target (US, [TGT](/company-analysis/tgt/)) - 대형 소매업체
-
-{{< adsense-infeed >}}
-
 - **고객 서비스**: 뷰티 서비스 및 고객 지원 제공
     
     - **대표 회사**: Sally Beauty (US, SBH) - 뷰티 제품 소매 및 서비스
@@ -68,9 +62,6 @@ Ulta Beauty는 미국 내에서 [화장품](/industry-study/화장품/), 향수,
 - **향수 및 기타 뷰티 서비스** (매출의 약 10%)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Ulta Beauty는 주로 미국에서 운영되며, 온라인 쇼핑을 통해 전 세계 고객에게도 제품을 제공합니다.
 
 ## 경쟁업체
@@ -79,9 +70,6 @@ Ulta Beauty는 주로 미국에서 운영되며, 온라인 쇼핑을 통해 전 
 - **Sally Beauty (US, SBH)** - 뷰티 제품 및 서비스 제공
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Ulta Beauty는 미국 내 뷰티 소매 시장에서 중요한 위치를 차지하고 있으며, 특히 화장품 및 스킨케어 부문에서 강력한 브랜드 인지도를 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

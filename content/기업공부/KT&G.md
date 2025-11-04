@@ -49,16 +49,10 @@ KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회�
 - **홍삼 제품:** 정관장 (매출 비중: 2023년 기준 20%)
 - **건강 기능 식품:** 홍삼 기반 건강 식품 (매출 비중: 2023년 기준 10%)
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - 대한민국 (주요 매출 국가)
 - 중동
 - 중앙아시아
 - 러시아
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 - **Philip Morris International (US, [PM](/company-analysis/pm/)):** 담배 제품 (시장 점유율 15%)
 - **British American Tobacco (GB, [BATS](/company-analysis/bats/)):** 담배 제품 (시장 점유율 10%)

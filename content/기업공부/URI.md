@@ -50,9 +50,6 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 - 이벤트 및 엔터테인먼트: Live Nation(US, LYV)
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 장비 제조: Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301)
 - 부품 공급: Parker-Hannifin(US, PH), Eaton Corporation(IE, [ETN](/company-analysis/etn/))
 - 물류 및 운송: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
@@ -64,9 +61,6 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 4. 렌탈 서비스: United Rentals(US, [URI](/company-analysis/uri/)) (다양한 장비 렌탈)
 5. 고객 지원: United Rentals(US, [URI](/company-analysis/uri/)) (안전 교육 및 기술 지원)
 6. 중고 장비 판매: Ritchie Bros. Auctioneers(CA, [RBA](/industry-study/1경제매크로3금리rba/)) (장비 경매)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - 건설 장비 렌탈: 굴삭기, 불도저 등, 매출의 약 40% (2024년 기준)
 - 항공 작업 플랫폼: 리프트, 붐 등, 매출의 약 30% (2024년 기준)
@@ -86,9 +80,6 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 미국, 캐나다, 유럽(영국, 독일, 프랑스 등), 호주, 뉴질랜드
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Ashtead Group(GB, AHT) - 장비 렌탈
 - Herc Holdings(US, HRI) - 장비 렌탈
 - H&E Equipment Services(US, [HEES](/company-analysis/hees/)) - 장비 렌탈 및 판매
@@ -96,9 +87,6 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 - McGrath RentCorp(US, MGRC) - 모듈식 건물 및 장비 렌탈
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 United Rentals는 2024년 기준 북미 장비 렌탈 시장에서 약 16%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈

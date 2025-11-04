@@ -38,9 +38,6 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 5. 전략적 인수: 핵심 기술 및 시장 확대를 위한 적극적인 M&A 전략
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 스마트폰 제조: Apple(US, [AAPL](/company-analysis/aapl/)), Samsung Electronics(KR, 005930)
@@ -58,9 +55,6 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 - RF 솔루션: 모바일 기기용 RF 프론트엔드 모듈, 매출의 약 60% (2024년 기준)
 - 인프라 및 국방: 기지국, 레이더 시스템용 솔루션, 매출의 약 25% (2024년 기준)
 - IoT 및 기타: 커넥티비티, 센서 솔루션, 매출의 약 15% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 중국, 대만, 한국, 일본, 유럽 주요국
@@ -89,9 +83,6 @@ Qorvo의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았�
 - The Vanguard Group (12.37%)
 - BlackRock Fund Advisors (7.38%)
 - SSgA Funds Management, Inc. (4.84%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 - VanEck Semiconductor ETF - SMH
 - iShares Semiconductor ETF - SOXX

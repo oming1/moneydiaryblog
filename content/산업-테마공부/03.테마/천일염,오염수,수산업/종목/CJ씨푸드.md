@@ -25,17 +25,13 @@ weight: 2
 					- D리포트"소금 품절"…가격 폭등에 품귀 현상까지  https://news.sbs.co.kr/news/endPage.do?news_id=N1007228454
 - 기업 기본정보
 	- 
-
-{{< adsense-infeed >}}
-
  - 기업전망(트렌드/향후전망)
 	- 
 - 비즈니스모델 / 밸류체인 / 전후방산업관계
 	- 
-
-{{< adsense-infeed >}}
-
 - 세부정보
+	- 
+- 리스크요인
 	- 
 - 리스크요인
 	- 

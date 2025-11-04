@@ -33,13 +33,7 @@ weight: 987
 - **전방산업 (Downstream Industry)**:
     - **핵심 산업**: 정제 및 석유화학 제품 제조
     - **핵심 기업**: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP)
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **탐사 및 생산 (Exploration & Production)**:
     - **설명**: 원유 및 천연가스의 탐사 및 생산
     - **대표회사**: Exxon Mobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/))
@@ -61,15 +55,9 @@ weight: 987
 - **캐나다, 영국, 싱가포르**: 주요 매출 국가
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Chevron (미국, [CVX](/company-analysis/cvx/))**: 원유 및 천연가스 탐사, 생산, 정제
 - **BP (영국, BP)**: 원유 및 천연가스 탐사, 생산, 정제
 - **Royal Dutch Shell (네덜란드, RDS.A)**: 원유 및 천연가스 탐사, 생산, 정제
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
 
 엑슨모빌은 글로벌 시장에서 약 19.97%의 점유율을 차지하고 있습니다 (2024년 기준).

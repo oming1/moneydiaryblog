@@ -19,9 +19,6 @@ weight: 566
 - **Industry**: Medical Devices (의료기기), [바이오테크](/industry-study/바이오테크/)
 
 ### 영위사업 (Business Activities)
-
-{{< adsense-infeed >}}
-
 MGI는 유전체 시퀀싱 기기, 시약 및 관련 제품을 연구, 개발, 생산 및 판매하는 생명공학 회사입니다. 주요 활동으로는 정밀 의학, 농업, 헬스케어 등 다양한 산업에서 사용되는 DNA 시퀀싱 기기와 시약을 제공하는 것입니다. 또한, [CDMO](/industry-study/cdmo/)로서 제약 및 생명공학 회사들에게 유전체 데이터 분석 및 시퀀싱 서비스를 제공합니다.
 
 ### 전방/후방산업 (Upstream/Downstream Industries)
@@ -29,9 +26,6 @@ MGI는 유전체 시퀀싱 기기, 시약 및 관련 제품을 연구, 개발, �
 - **전방산업 (Upstream Industries)**:
     - **유전체 샘플링 및 시퀀싱**: 유전체 샘플을 수집하고 시퀀싱하는 과정. 주요 기업: Illumina (US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
     - **유전체 데이터 분석**: 시퀀싱된 데이터를 분석하여 유전적 변이를 탐지. 주요 기업: Bio-Rad Laboratories (US, BIO), Agilent Technologies (US, [A](/company-analysis/a/))
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Downstream Industries)**:
     - **의료 및 진단**: 유전체 데이터를 활용하여 질병 진단 및 치료법 개발. 주요 기업: Roche (CH, [ROG](/company-analysis/rog/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - **제약 및 생명공학**: 유전체 데이터를 기반으로 신약 개발 및 맞춤형 치료법 연구. 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Novartis (CH, [NVS](/company-analysis/nvs/))
@@ -52,13 +46,7 @@ MGI는 유전체 시퀀싱 기기, 시약 및 관련 제품을 연구, 개발, �
 - **DNBSEQ-G99**: 중속 DNA 시퀀싱 플랫폼.
 - **DNBSEQ-E25**: 휴대용 DNA 시퀀싱 플랫폼.
 ### 주요 판매국가 (Major Sales Countries)
-
-{{< adsense-infeed >}}
-
 MGI는 전 세계적으로 제품을 판매하고 있으며, 주요 판매국가는 미국, 중국, 유럽 국가들입니다.
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체 (Competitors)
 - **Illumina (US, [ILMN](/company-analysis/ilmn/))**: 유전체 시퀀싱 및 분석 플랫폼.
 - **Oxford Nanopore Technologies (GB, ONT)**: 나노포어 기반 유전체 분석 시스템.

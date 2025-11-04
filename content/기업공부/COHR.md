@@ -119,9 +119,6 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 - **Gap Fiber C Series**: 펄스 파이버 레이저 (매출비중 35%, 경쟁사 IPGP)
 - **FemtoLas Series**: 초단펄스 레이저 (매출비중 15%, 경쟁사 [LITE](/company-analysis/lite/))
 - **Excimer 6600 Series**: UV 레이저 (매출비중 10%, 경쟁사 MDRX)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -186,9 +183,6 @@ Coherent Corp.는 1966년 설립된 **레이저 및 광학 솔루션 전문 기�
 ---
 
 ### 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 - Vanguard Group: 8.0% (10.5M주)
 - BlackRock, Inc.: 7.5% (9.8M주)
 - State Street Corp.: 5.0% (6.6M주)

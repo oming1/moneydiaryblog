@@ -64,18 +64,12 @@ Antrim 풍력 프로젝트, Ardenville 풍력 시설, Old Town 풍력 프로젝�
 4. 고객 서비스: TransAlta
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 전기
 - 재생에너지 솔루션
 - 에너지 효율 서비스
 ## 주요 판매국가
 
 캐나다(80%), 미국(14%), 호주(6%)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Calpine Corporation

@@ -44,9 +44,6 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
     - 전문가 리뷰: 여행 전문가들이 작성한 리뷰와 평가.
       
 - **플랫폼 운영:**
-
-{{< adsense-infeed >}}
-
     - TripAdvisor (미국, [TRIP](/company-analysis/trip/)): 웹사이트 및 모바일 앱 운영.
     - Expedia Group (미국, [EXPE](/company-analysis/expe/)): 여행 예약 플랫폼 운영.
       
@@ -54,20 +51,11 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
     
     - Alphabet Inc. (미국, [GOOGL](/company-analysis/googl/)): 디지털 광고 플랫폼.
     - Meta Platforms Inc. (미국, [META](/company-analysis/meta/)): 소셜 미디어 광고 플랫폼.
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 - **호텔 리뷰 및 예약 서비스:** 사용자 리뷰를 기반으로 한 호텔 검색 및 예약.
 - **음식점 리뷰 및 예약 서비스:** 음식점 리뷰 및 예약 기능.
 - **관광명소 리뷰:** 전 세계 관광명소에 대한 사용자 리뷰 제공.
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 시장으로 전체 매출의 상당 부분을 차지.
 - **유럽:** 주요 여행지에 대한 리뷰와 예약 서비스 제공.
 - **아시아:** 특히 한국, 일본, 중국 등에서 높은 사용자 수를 보유.

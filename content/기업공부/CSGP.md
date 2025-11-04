@@ -22,9 +22,6 @@ CoStar Group, Inc.는 상업용 부동산, 환대, 주거 및 관련 전문 산�
 ### 전방/후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 부동산 중개업체: Zillow (US, [Z](/company-analysis/z/)), Redfin (US, [RDFN](/company-analysis/rdfn/))
 - 건축 및 엔지니어링: Autodesk (US, [ADSK](/company-analysis/adsk/)), Trimble (US, [TRMB](/company-analysis/trmb/))
 
@@ -40,9 +37,6 @@ CoStar Group, Inc.는 상업용 부동산, 환대, 주거 및 관련 전문 산�
 - **CoStar Tenant:** 임차인 정보를 제공하는 온라인 비즈니스-to-비즈니스 도구
 
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - 미국 (주요 매출 국가)
 - 캐나다
 - 유럽

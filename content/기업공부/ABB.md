@@ -34,22 +34,13 @@ ABB Ltd는 스위스에 본사를 둔 다국적 기술 기업으로, 전력 및 
 ## 밸류체인
 
 - **기술 개발**: 전력 및 자동화 기술 혁신
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: Rockwell Automation (US, [ROK](/company-analysis/rok/)) - 산업 자동화 및 정보 솔루션
     
 - **제조**: 전력 장비, 자동화 시스템 및 로봇 생산
     - **대표 회사**: Mitsubishi Electric(JP, 6503.T) - 전기 및 전자 장비 제조
     
 - **판매 및 서비스**: 글로벌 판매 네트워크 및 기술 지원 제공
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: Honeywell (US, [HON](/company-analysis/hon/)) - 자동화 및 제어 솔루션 제공
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - **전력 제품**: [변압기](/industry-study/변압기/), 스위치기어, 전력 전자 장치

@@ -30,9 +30,6 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 - 쇼핑몰: Simon Property Group (미국, [SPG](/company-analysis/spg/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 원자재 및 물류 공급
 - 섬유 제조: Unifi (미국, [UFI](/company-analysis/ufi/))
 - 물류: FedEx (미국, [FDX](/company-analysis/fdx/))
@@ -52,9 +49,6 @@ Abercrombie & Fitch는 전 세계적으로 운영되며, 주요 시장은 미국
 - Urban Outfitters (미국, [URBN](/company-analysis/urbn/)) - 젊은 성인 대상 의류 및 라이프스타일 제품
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Abercrombie & Fitch의 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다. 그러나 미국 의류 소매 시장에서 약 1.3%의 점유율을 보유하고 있는 것으로 추정됩니다(2023년 기준). 최근 3년간의 추이는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크

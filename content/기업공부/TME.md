@@ -75,9 +75,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 - **QQ Music, Kugou Music, Kuwo Music**: 디지털 음악 스트리밍 플랫폼 (매출의 약 55%)
     
 - **WeSing**: 온라인 카라오케 및 소셜 엔터테인먼트 서비스 (매출의 약 35%)
-
-{{< adsense-infeed >}}
-
 - **콘텐츠 라이선싱 및 제작** (매출의 약 10%)
 
 ## 주요 고객
@@ -120,9 +117,6 @@ Tencent Music Entertainment는 2024년 기준 중국 디지털 음악 시장에�
 
 ## 주요주주(지분율)
 - Tencent Holdings Limited (58%)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (3%)
     
 - BlackRock (2%)

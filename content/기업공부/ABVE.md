@@ -238,9 +238,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **- Ingredion Incorporated (US, INGR)**  
 전분 및 식물성 단백질 가공업체
-
-{{< adsense-infeed >}}
-
 **- Puris Holdings (US, Private)**  
 완두콩 단백질 전문 제조업체
 
@@ -335,9 +332,6 @@ _주: Palm Global과의 합병 완료 후 주주 구조 대폭 변경 예정_
 ## 📈 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - ETFMG Alternative Harvest ETF MJ (대체 농업 관련)
 - VanEck Agribusiness ETF MOO (농업 관련)
 

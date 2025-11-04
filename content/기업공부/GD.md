@@ -22,9 +22,6 @@ weight: 367
 ## 영위사업
 
 General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 및 항공우주 기업입니다. 회사는 크게 4개의 사업 부문으로 구성되어 있습니다:
-
-{{< adsense-infeed >}}
-
 1. 항공우주: Gulfstream 비즈니스 제트기 설계, 제조 및 서비스
 2. 해양 시스템: 핵추진 잠수함, 수상함 설계 및 건조
 3. 전투 시스템: 전차, 장갑차, 무기 시스템, 탄약 등 생산
@@ -41,9 +38,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 5. 재무적 안정성: 안정적인 현금 흐름과 강력한 재무구조를 바탕으로 한 지속적인 투자 및 성장 가능성
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 국방부: 미국 국방부, 외국 정부 국방부
 - 항공사: Delta Air Lines(US, [DAL](/company-analysis/dal/)), Emirates Airlines
@@ -56,9 +50,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 - 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)), Carpenter Technology(US, [CRS](/company-analysis/crs/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: General Dynamics(US, [GD](/company-analysis/gd/)) (첨단 방위 기술 개발)
 2. 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)) (항공우주용 알루미늄)
 3. 부품 제조: Honeywell(US, [HON](/company-analysis/hon/)) (항공전자 시스템)
@@ -72,9 +63,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 - 전투 차량: Abrams 전차, Stryker 장갑차, 매출의 약 20% (2024년 기준)
 - IT 및 C4ISR 솔루션: 사이버 보안, 클라우드 서비스 등, 매출의 약 30% (2024년 기준)  
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다, 영국, 독일, 호주, 일본, 한국, 사우디아라비아
 
 ## 경쟁업체

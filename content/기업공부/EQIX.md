@@ -21,15 +21,9 @@ weight: 320
 #### 영위사업
 
 에퀴닉스는 글로벌 데이터 센터 운영 기업으로, [데이터센터](/industry-study/데이터센터/) 및 인터넷 교환 서비스를 제공하여 기업들이 디지털 인프라를 구축하고 관리할 수 있도록 지원합니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 
 - **전방산업:** 클라우드 서비스, 통신, 금융 서비스
-
-{{< adsense-infeed >}}
-
     - **클라우드 서비스:** 클라우드 컴퓨팅 및 스토리지 제공. 주요 기업: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/)).
     - **통신:** 네트워크 및 인터넷 서비스 제공. 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Verizon (미국, [VZ](/company-analysis/vz/)).
     - **금융 서비스:** 금융 데이터 관리 및 거래. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
@@ -65,10 +59,8 @@ weight: 320
 #### 경쟁업체
 - **데이터 센터:** Digital Realty (미국, [DLR](/company-analysis/dlr/)), CoreSite Realty (미국, [COR](/company-analysis/cor/)).
 - **인터넷 교환:** Interxion (네덜란드, [INXN](/company-analysis/inxn/)), CyrusOne (미국, [CONE](/company-analysis/cone/)).
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
+- **데이터 센터:** 글로벌 시장 점유율 약 10% (2023년 기준)
 - **데이터 센터:** 글로벌 시장 점유율 약 10% (2023년 기준)
 #### 최근 3년 내 주요 이슈
 

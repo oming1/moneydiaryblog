@@ -51,9 +51,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
     - 다양한 치료 영역의 성숙 의약품
 
 **지역별 매출 분포 (2024년 기준):**
-
-{{< adsense-infeed >}}
-
 - 미국: 약 47% (바이오시밀러 사업의 핵심 시장)
 - 유럽: 약 30%
 - 아시아태평양: 약 15%
@@ -213,9 +210,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - Merck KGaA(DE, MRK-DE) - Gonal-F 불임치료제, 점유율 20%
 - AbbVie(US, [ABBV](/company-analysis/abbv/)) - 자궁내막증 치료제 Orilissa, 점유율 12%
 - Pfizer(US, [PFE](/company-analysis/pfe/)) - 호르몬 대체 요법, 점유율 8%
-
-{{< adsense-infeed >}}
-
 **바이오시밀러 분야:**
 
 - Sandoz(CH, SAND) - 다양한 바이오시밀러 포트폴리오, 점유율 18%

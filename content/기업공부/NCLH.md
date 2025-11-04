@@ -41,9 +41,6 @@ weight: 607
 - **Norwegian Cruise Line**: 다양한 크루즈 여행 상품 제공.
 - **Oceania Cruises**: 고급 요리 및 목적지 중심의 크루즈 여행 상품 제공.
 - **Regent Seven Seas Cruises**: 럭셔리 크루즈 여행 상품 제공.
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**:
 
 - 미국: Norwegian Cruise Line Holdings의 최대 시장.
@@ -57,9 +54,6 @@ weight: 607
 
 **산업 내 글로벌 시장 점유율**: Norwegian Cruise Line Holdings는 글로벌 크루즈 시장에서 약 9%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**:
-
-{{< adsense-infeed >}}
-
 - **COVID-19 팬데믹 영향**: 크루즈 산업 전반에 걸쳐 큰 타격을 입었으며, 운영 중단 및 재개 과정에서 많은 도전 과제를 겪었습니다 (2020-2021).
 - **환경 지속 가능성 프로그램**: Sail & Sustain 프로그램을 통해 환경 보호 및 지속 가능성 강화 (2022).
 - **재무 성과 회복**: 팬데믹 이후 재무 성과 회복을 위한 다양한 전략적 조치 시행 (2023).

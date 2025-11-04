@@ -23,10 +23,11 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
 - **신용카드**: Visa 및 Mastercard 신용카드 발급
 - **은행업무**: 체크 및 저축 계좌, 대출 서비스
 - **자동차 금융**: 자동차 대출 및 리스 서비스
+Capital One Financial Corporation은 신용카드사로 다양한 금융 제품과 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
+- **신용카드**: Visa 및 Mastercard 신용카드 발급
+- **은행업무**: 체크 및 저축 계좌, 대출 서비스
+- **자동차 금융**: 자동차 대출 및 리스 서비스
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **소비자 금융**: Capital One의 신용카드 및 대출 서비스를 사용하는 주요 산업. 주요 기업: Discover Financial Services (미국, [DFS](/company-analysis/dfs/)), American Express (미국, [AXP](/company-analysis/axp/)).
 - **후방산업**:
@@ -42,9 +43,6 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
 - **신용카드**: 다양한 혜택과 리워드를 제공하는 신용카드 (매출 비중: 60%, 2023년 기준).
 - **자동차 대출**: 자동차 구매를 위한 대출 서비스 (매출 비중: 20%, 2023년 기준).
 - **저축 및 체크 계좌**: 다양한 저축 및 체크 계좌 상품 (매출 비중: 15%, 2023년 기준).
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 - **주요 판매국가**: 미국

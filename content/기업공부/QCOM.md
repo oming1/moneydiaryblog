@@ -39,17 +39,11 @@ Qualcomm은 무선 통신 및 모바일 기술을 개발하고 상용화하는 �
     
     - **대표 회사**: Broadcom (US, [AVGO](/company-analysis/avgo/)) - 반도체 및 통신 솔루션
     - **대표 회사**: MediaTek (TWSE: 2454) - 모바일 칩셋 제조업체
-
-{{< adsense-infeed >}}
-
 - **제조**: 반도체 및 시스템 소프트웨어의 생산
     - **대표 회사**: [Samsung](/industry-study/samsung/) (KR, KRX: 005930) - 반도체 제조
     - **대표 회사**: GlobalFoundries (US, [GFS](/company-analysis/gfs/)) - 파운드리 서비스
     
 - **마케팅 및 유통**: 글로벌 파트너십을 통한 제품 판매 및 라이센스 제공
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: IBM (US, [IBM](/company-analysis/ibm/)) - 기술 및 솔루션 제공
     - **대표 회사**: Hewlett-Packard (US, [HPQ](/company-analysis/hpq/)) - 하드웨어 및 소프트웨어 솔루션
 
@@ -63,9 +57,6 @@ Qualcomm은 무선 통신 및 모바일 기술을 개발하고 상용화하는 �
 Qualcomm은 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 유럽, 아시아태평양 지역입니다
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Broadcom (US, [AVGO](/company-analysis/avgo/))** - 반도체 및 통신 솔루션
 - **MediaTek (TWSE: 2454)** - 모바일 칩셋 제조업체
 - **NVIDIA (US, [1.Study/☆ 개별종목/NVDA](/company-analysis/nvda/))** - 그래픽 및 AI 칩 제조
@@ -75,9 +66,6 @@ Qualcomm은 전 세계적으로 운영되며, 주요 시장은 미국, 중국, �
 Qualcomm은 모바일 반도체 시장에서 약 30%의 점유율을 보유하고 있으며, 특히 5G 기술 분야에서 강력한 입지를 차지하고 있습니다
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **5G 기술 상용화**: 5G 네트워크의 상용화 및 관련 제품 출시로 시장 점유율 확대 (2020-2023)
 - **NVIDIA와의 협력**: AI 및 머신러닝 기술을 위한 협력 강화 (2022)
 - **반도체 공급망 문제**: 글로벌 반도체 공급망 문제로 인한 생산 차질 및 가격 상승 (2021-2022

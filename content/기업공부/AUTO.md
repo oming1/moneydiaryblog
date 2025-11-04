@@ -19,14 +19,8 @@ Sector: Industrials (산업재)
 Industry: Industrial Machinery & Equipment (산업용 기계 및 장비, [로봇](/industry-study/로봇/))
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study/로봇/) 및 소프트웨어 기술 회사입니다. 회사는큐브 저장 자동화 기술을 발명하고 지속적으로 개척하고 있습니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 역할: 자동화 시스템 사용
@@ -37,9 +31,6 @@ AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study
 - 역할: 부품 및 기술 공급
 - 로봇 부품: ABB (CH, ABBN)
 - 센서 기술: SICK AG (DE, SIK)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 ![](/images/Pasted%20image%2020230629150014.png)
@@ -58,6 +49,7 @@ AutoStore는 전 세계적으로 제품을 판매하고 있습니다. 주요 시
 - 아시아: 5.2% (2023년 기준)
 - 기타: 5.1% (2023년 기준)
 - 노르웨이: 2.1% (2023년 기준)
+## 경쟁업체
 ## 경쟁업체
 - Ocado Group (UK, [OCDO](/company-analysis/ocdo/)) - 온라인 식료품 및 창고 자동화 기술
 - Körber AG (비상장) - 공급망 소프트웨어 및 자동화 솔루션

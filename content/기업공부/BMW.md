@@ -24,17 +24,11 @@ BMW는 고급 [자동차](/industry-study/자동차/) 및 오토바이를 설계
 
 ## 전방/후방산업
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 자동차 및 오토바이 판매
 - 자동차 판매: Mercedes-Benz (DE, MBG)
 - 전기차 제조: Tesla (US, [TSLA](/company-analysis/tsla/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 부품 및 원자재 공급
 - 자동차 부품: Bosch (DE, BOSCH)
 - 금속 공급: ArcelorMittal (LU, [MT](/company-analysis/mt/))
@@ -55,19 +49,15 @@ BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 �
 - 아시아: 약 30%
 - 기타: 약 5%
 ## 경쟁업체
+## 경쟁업체
 - Daimler AG (DE, DAI) - Mercedes-Benz 브랜드
 - Volkswagen AG (DE, [Volkswagen](/company-analysis/volkswagen/)) - Volkswagen, Audi, Porsche 브랜드
 - Ford Motor Company (US, [F](/company-analysis/f/)) - 다양한 자동차 모델
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 2023년 기준 BMW는 프리미엄 자동차 시장에서 약 15%의 점유율을 보유하고 있으며, 전 세계 고급 자동차 브랜드 중 상위 3위에 위치하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 자세한 종목 정보 링크
+[FINVIZ - BMW](https://www.marketscreener.com/quote/stock/BAYERISCHE-MOTOREN-WERKE-AG-436103/)
 [FINVIZ - BMW](https://www.marketscreener.com/quote/stock/BAYERISCHE-MOTOREN-WERKE-AG-436103/)
 - 세부정보
 	- [실리콘 음극재](/industry-study/실리콘-음극재/)

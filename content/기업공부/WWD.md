@@ -38,9 +38,6 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
 ## 밸류체인
 
 - **제품 개발**:
-
-{{< adsense-infeed >}}
-
     - Woodward는 항공기 및 산업용 엔진 제어 시스템을 개발합니다.
     - 대표 기업: Rockwell Automation (미국, [ROK](/company-analysis/rok/)) - 경쟁 제품: 자동화 솔루션
     
@@ -48,9 +45,6 @@ Woodward는 항공기 엔진, 산업용 엔진 및 산업용 터빈, 발전 및 
     
     - 다양한 엔진 및 제어 시스템을 제조합니다.
     - 대표 기업: Parker Hannifin (미국, PH) - 경쟁 제품: 유체 제어 장비
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - **항공기 엔진 제어 시스템**:

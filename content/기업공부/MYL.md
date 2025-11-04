@@ -40,9 +40,6 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 4. 규제 전문성: 다양한 국가의 규제 환경에 대한 이해와 대응 능력
 5. 수직 통합된 생산 체계: API부터 완제품까지 일관된 생산 능력 보유
 6. 바이오시밀러 포트폴리오: 성장하는 바이오시밀러 시장에 대한 준비
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 전방산업:
@@ -58,9 +55,6 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
     - McKesson Corporation(US, [MCK](/company-analysis/mck/))
 
 ## 후방산업:
-
-{{< adsense-infeed >}}
-
 1. 화학 원료 공급: API 생산을 위한 원료 공급
     
     - BASF(DE, BAS)
@@ -88,9 +82,6 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
     - Viatris(US, [VTRS](/company-analysis/vtrs/)) (다양한 제형의 의약품 생산)
     
 4. 유통: 도매 및 소매 유통
-
-{{< adsense-infeed >}}
-
     - AmerisourceBergen(US, [ABC](/company-analysis/abc/)) (의약품 도매 유통)
 5. 소매: 약국을 통한 최종 소비자 판매
     

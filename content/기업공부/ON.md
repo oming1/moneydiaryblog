@@ -23,6 +23,8 @@ weight: 659
 ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 설계, 제조, 공급하는 반도체 기업입니다. 주로 [자동차](/industry-study/자동차/) 및 산업 분야에 초점을 맞추고 있습니다.
 ## 전방/후방산업
 ## 후방산업
+## 전방/후방산업
+## 후방산업
 - 반도체 제조 장비: 반도체 생산 장비 제조업체 (예: Applied Materials(US, [AMAT](/company-analysis/amat/)))
 - 원자재 공급: 실리콘 웨이퍼, 화학물질 공급업체 (예: Entegris(US, [ENTG](/company-analysis/entg/)))
 
@@ -31,9 +33,6 @@ ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 �
 - 자동차: 전기차, 자율주행차 제조업체 (예: Tesla(US, [TSLA](/company-analysis/tsla/)))
 - 산업 자동화: 로봇 및 자동화 장비 제조업체 (예: ABB(스위스, ABBN))
 - 5G 및 클라우드 인프라: 통신장비 제조업체 (예: Cisco Systems(US, [CSCO](/company-analysis/csco/)))
-
-{{< adsense-infeed >}}
-
 ## 주요제품 및 서비스
 
 - [아날로그 반도체](/industry-study/아날로그-반도체/)
@@ -52,9 +51,6 @@ ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 �
 전 세계적으로 사업을 영위하며, 북미, 유럽, 아시아 태평양 지역에 주요 시장을 두고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Texas Instruments(US, [TXN](/company-analysis/txn/))
 - Microchip Technology(US, [MCHP](/company-analysis/mchp/))
 - STMicroelectronics(스위스, [STM](/company-analysis/stm/))

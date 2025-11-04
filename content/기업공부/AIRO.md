@@ -29,9 +29,6 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 드론(Drones) 부문에서는 전투검증된 RQ-35 하이드런을 비롯한 군용 및 상업용 무인항공기를 개발·제조·판매하며, 우크라이나 분쟁에서 실전 운용되어 그 성능을 입증받았습니다.
 
 아비오닉스(Avionics) 부문은 군용 및 일반 항공기, 드론, eVTOL용 항공전자시스템을 개발하며, 비행 디스플레이, 연결 패널, GPS/GNSS 센서 등을 제공합니다. 
-
-{{< adsense-infeed >}}
-
 훈련(Training) 부문은 미군 파일럿 훈련을 포함해 적기훈련, 근접항공지원, ISR, 항공기 리스, 파일럿 훈련, 지상연락 서비스 등을 제공하며, 미 국방부로부터 최대 84억 달러 규모의 무기한 납품계약(IDIQ) 참여 자격을 획득했습니다. 
 
 전기항공모빌리티(Electric Air Mobility) 부문은 화물 및 승객 운송용 회전익 eVTOL을 개발하고 있으며, Jaunt Journey 항공기를 통해 시속 175마일로 순항하며 단일 조종사와 4명 승객을 수용할 수 있습니다. 
@@ -43,9 +40,6 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 ## 비즈니스 모델 (수익 모델)
 
 **수익 구조 세분화:**
-
-{{< adsense-infeed >}}
-
 - **드론 부문**: RQ-35 하이드런 등 군용 드론 판매, 드론 서비스(DaaS), 화물 운송 서비스
 - **아비오닉스 부문**: 항공전자시스템 제조·판매, 600개 이상 FAA 인증 보유, 전 세계 1만 4천 대 항공기 설치 기반
 - **훈련 부문**: 미군 계약 기반 훈련 서비스, 일일 정액 요금제(드론+조종사+관측자), FAR 141 인증 비행학교 운영
@@ -148,9 +142,6 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 - 미 국방부(US, DoD) - 군사훈련 서비스, IDIQ 계약 84억 달러 규모
 - 미 해군 특수전사령부(US, NSW) - 훈련 임무 완료
 - 미 공군(US, USAF) - 적기훈련 및 CAS 훈련
-
-{{< adsense-infeed >}}
-
 **NATO 국가**:
 
 - 독일 연방군(DE, Bundeswehr) - RQ-35 하이드런 20대 우크라이나 지원
@@ -189,6 +180,9 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 - Textron(US, TXT) - 군용 헬기 및 무인 시스템, 시장점유율 3.8%
 
 **eVTOL 경쟁사**:
+- Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/)) - 승객용 eVTOL, 44억 달러 시가총액
+- Archer Aviation(US, [ACHR](/company-analysis/achr/)) - 도시항공모빌리티, 15억 달러 시가총액
+- EHang(CN, [EH](/company-analysis/eh/)) - 자율 항공기, 중국 시장 선도
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/)) - 승객용 eVTOL, 44억 달러 시가총액
 - Archer Aviation(US, [ACHR](/company-analysis/achr/)) - 도시항공모빌리티, 15억 달러 시가총액
 - EHang(CN, [EH](/company-analysis/eh/)) - 자율 항공기, 중국 시장 선도
@@ -256,9 +250,6 @@ _정보 없음_ - IPO 이후 상세한 주주 구성 정보 미공개
 
 - XAR - SPDR S&P Aerospace & Defense ETF XAR
 - VDC - Vanguard Consumer Staples ETF VDC
-
-{{< adsense-infeed >}}
-
 **테마 관련 ETF:**
 
 - UAVS - Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares [UAVS](/company-analysis/uavs/)

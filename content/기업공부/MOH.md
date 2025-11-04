@@ -21,9 +21,6 @@ weight: 580
 **영위사업**: Molina Healthcare Inc는 주로 Medicaid(메디케이드)와 Medicare(메디케어) 프로그램을 통해 관리 의료 서비스를 제공하며, 주 보험 시장을 통해서도 서비스를 제공합니다.
 
 **전방/후방산업**:
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **병원 및 의료 서비스**: 병원과 의료 기관에 보험 서비스를 제공. 예: HCA Healthcare (미국, [HCA](/company-analysis/hca/)).
     - **약국 및 약국 혜택 관리자**: 약국과 약국 혜택 관리자에게 보험 서비스를 제공. 예: CVS Health (미국, [CVS](/company-analysis/cvs/)).
@@ -40,6 +37,10 @@ weight: 580
 - **Medicaid 관리 의료 계획**: 저소득층을 위한 건강 보험.
 - **Medicare 관리 의료 계획**: 노인 및 장애인을 위한 건강 보험.
 - **Marketplace 보험 계획**: 주 보험 시장을 통해 제공되는 건강 보험.
+**주요제품**:
+- **Medicaid 관리 의료 계획**: 저소득층을 위한 건강 보험.
+- **Medicare 관리 의료 계획**: 노인 및 장애인을 위한 건강 보험.
+- **Marketplace 보험 계획**: 주 보험 시장을 통해 제공되는 건강 보험.
 **주요 판매국가**:
 
 - 미국: Molina Healthcare의 모든 서비스는 미국 내에서 제공됩니다.
@@ -49,9 +50,6 @@ weight: 580
 - **유나이티드헬스 그룹 (미국, [UNH](/company-analysis/unh/))**: 관리 의료 서비스 (Medicaid, Medicare).
 - **안섬 (미국, [ANTM](/company-analysis/antm/))**: 관리 의료 서비스 (Medicaid, Medicare).
 - **센테네 (미국, CNC)**: 관리 의료 서비스 (Medicaid, Medicare).
-
-{{< adsense-infeed >}}
-
 **산업 내 글로벌 시장 점유율**: Molina Healthcare는 미국 내 Medicaid 관리 의료 시장에서 약 4%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**:
 

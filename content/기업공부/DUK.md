@@ -19,9 +19,6 @@ weight: 294
 - **Industry:** 규제 전기 유틸리티 (Regulated Electric Utilities)
 
 **영위사업** 
-
-{{< adsense-infeed >}}
-
 Duke Energy는 미국에서 전기 및 가스 유틸리티 서비스를 제공하는 기업입니다. 주요 사업 부문은 전기 유틸리티 및 인프라(EU&I)와 가스 유틸리티 및 인프라(GU&I)로 나뉩니다.
 
 **전방/후방산업**
@@ -45,13 +42,7 @@ Duke Energy는 미국에서 전기 및 가스 유틸리티 서비스를 제공�
     - **대표 회사:** American Electric Power (미국, [AEP](/company-analysis/aep/)), Dominion Energy (미국, [D](/company-analysis/d/))
 - **배포:** 전력 및 가스 배포
     - **대표 회사:** Southern Company (미국, [SO](/company-analysis/so/)), Consolidated Edison (미국, [ED](/company-analysis/ed/))
-
-{{< adsense-infeed >}}
-
 **주요제품**
-
-{{< adsense-infeed >}}
-
 - **전기:** 가정, 상업 및 산업용 전력 공급
 - **천연가스:** 가정 및 상업용 천연가스 공급
 **주요 판매국가**
@@ -67,6 +58,7 @@ Duke Energy는 미국에서 전기 및 가스 유틸리티 서비스를 제공�
 **산업 내 글로벌 시장 점유율**
 
 - Duke Energy는 미국 전력 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
+**최근 3년 내 주요 이슈**
 **최근 3년 내 주요 이슈**
 - **2022년:** 허리케인 밀턴으로 인한 전력 복구 작업 (2022)
 - **2023년:** 새로운 재생 에너지 프로젝트 발표 (2023)

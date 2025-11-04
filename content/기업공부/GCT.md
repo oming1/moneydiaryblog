@@ -99,9 +99,6 @@ weight: 366
 - **IoT 플랫폼:**  
 
     다양한 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원하며, 고객의 비즈니스 모델에 맞춘 솔루션을 제공합니다.
-
-{{< adsense-infeed >}}
-
 - **보안 솔루션:**  
 
     클라우드 및 데이터 센터의 보안을 강화하는 기술로, 고객의 데이터 보호를 최우선으로 합니다.
@@ -168,9 +165,6 @@ weight: 366
     - **주요 경쟁사:** Microsoft Azure [MSFT](/company-analysis/msft/)
 
 - **IoT 플랫폼:**
-
-{{< adsense-infeed >}}
-
     - **설명:** 데이터 수집 및 분석 플랫폼
     - **매출비중:** 20% (2023년)
     - **주요 경쟁사:** IBM Cloud [IBM](/company-analysis/ibm/)

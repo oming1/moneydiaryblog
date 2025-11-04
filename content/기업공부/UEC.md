@@ -55,9 +55,6 @@ Uranium Energy Corp(UEC)는 **미국 텍사스주**에 본사를 둔 우라늄 
 - 원자력 발전소 (Exelon [EXC](/company-analysis/exc/), Duke Energy [DUK](/company-analysis/duk/))
     
 - 우라늄 정제소 (Orano 프랑스, Orano)  
-
-{{< adsense-infeed >}}
-
 **후방산업**:
     
 - 광산 장비 (Caterpillar [CAT](/company-analysis/cat/), Komatsu 6301)
@@ -65,18 +62,12 @@ Uranium Energy Corp(UEC)는 **미국 텍사스주**에 본사를 둔 우라늄 
 - 화학 처리제 공급 (Chemours CC)
 
 ## **밸류체인**
-
-{{< adsense-infeed >}}
-
 11. **탐사**: 자체 지질학자 팀 + 위성 데이터 활용.
 12. **채굴**: ISR 기술 기반 친환경 추출.
     
 13. **정제**: 호바스 시설에서 U3O8 농축.
     
 14. **유통**: 물리적 우라늄 판매 + 장기 공급 계약.
-
-{{< adsense-infeed >}}
-
 15. **재활용**: 사용후 핵연료 재처리 연구 진행 중.
 
 ## **주요제품**
@@ -143,9 +134,6 @@ UEC는 글로벌 우라늄 시장의 약 **2%** 점유 (2024년 기준)[2](htt
 20. **North Shore Global Uranium Mining ETF URNJ**[7](https://finviz.com/quote.ashx?t=URNJ).
 
 ## **투자 포인트**
-
-{{< adsense-infeed >}}
-
 - **장점**: 미국의 원자력 재부각 + 친환경 에너지 수요 증가.
     
 - **리스크**: 우라늄 가격 변동성(현재 파운드당 $65 → 최고점 $140 대비 저평가).

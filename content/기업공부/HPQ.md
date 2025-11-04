@@ -61,9 +61,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
     • 중소·중견 기업: 25%  
     • 대기업·공공기관: 30%  
     • 리셀러·유통업체: 10%
-
-{{< adsense-infeed >}}
-
 - 지역별 매출 분포  
     • 미국: 60%  
     • EMEA(유럽·중동·아프리카): 25%  
@@ -176,9 +173,6 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 
 - PC 시장(2024 Q1 기준): HP 22% (2위), Lenovo 25%, Dell 19% (출처: IDC)
 - 프린터 시장(2023 기준): HP 28% (1위), Canon 24%, Epson 18% (출처: Gartner)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 기업 특징 및 성장성

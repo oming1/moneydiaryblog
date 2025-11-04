@@ -25,13 +25,12 @@ DoorDash는 온라인 음식 주문 및 배달 플랫폼을 운영하는 기업�
 ## 전방/후방산업
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 음식점 및 소매점: 주문 및 배달 서비스 이용
 - 기술 인프라 제공업체: 클라우드 서비스, 결제 시스템 등
 
 ## 전방산업
+- 소비자: 음식 및 상품 주문 및 배달 서비스 이용
+- 기업: 직원 식사 제공 서비스 이용
 - 소비자: 음식 및 상품 주문 및 배달 서비스 이용
 - 기업: 직원 식사 제공 서비스 이용
 ## 밸류체인
@@ -48,19 +47,10 @@ DoorDash는 온라인 음식 주문 및 배달 플랫폼을 운영하는 기업�
 - 편의점 상품 배달 서비스
 - DoorDash for Work (기업용 식사 제공 서비스)
 - DashPass (구독 서비스)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 캐나다, 호주, 일본, 독일, 뉴질랜드 등 30개국 이상
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Uber Technologies(US, [UBER](/company-analysis/uber/)) (Uber Eats)
 - Just Eat Takeaway.com(네덜란드, TKWY.AS)
 - Delivery Hero(독일, DHER.DE)

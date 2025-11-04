@@ -27,6 +27,7 @@ weight: 4
 		 - 아무리 GPU/CPU의 성능이 좋아도, 도로가 막히면 도로묵 => 고성능 도로를 깔아줘야 하는 것
 		 - 실제 [NVDA](/company-analysis/nvda/)(엔비디아)의 AI 서버 제품인 H100에는 GPU 내에 HBM이 기본 탑재됨
 	-  HBM 시장점유율과 경쟁?![](/images/https://i.imgur.com/UJT5kqK.png)
+	-  HBM 시장점유율과 경쟁?![](/images/https://i.imgur.com/UJT5kqK.png)
 		 - SK하이닉스 50%, 삼성전자 40%, 마이크론 10% (2022년 기준)
 		 - HBM도 2013년 첫 개발 이후, 계속 기술이 발전해 1세대부터 4세대까지 등장
 		 - SK하이닉스는 현재 HBM3 (4세대) 제품의 유일한 양산 가능플레이어로 엔비디아에 탑재

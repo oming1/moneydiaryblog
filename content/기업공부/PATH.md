@@ -19,9 +19,6 @@ weight: 676
 
 섹터: 정보기술
 산업: 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI 소프트웨어를 개발하는 글로벌 기업입니다. 2005년 루마니아에서 설립되어 현재 뉴욕에 본사를 두고 있습니다. UiPath의 주요 제품은 반복적인 업무를 자동화하는 RPA 소프트웨어로, 기업의 생산성과 효율성을 향상시키는 데 중점을 두고 있습니다.
@@ -49,9 +46,6 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 - 데이터 분석: Splunk(US, [SPLK](/company-analysis/splk/)), Palantir Technologies(US, [PLTR](/company-analysis/pltr/))
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - UiPath Platform: 종합 자동화 플랫폼, 매출의 약 90% (2024년 기준)
 - UiPath Document Understanding: 문서 처리 자동화 솔루션
 - UiPath Process Mining: 비즈니스 프로세스 분석 및 최적화 도구

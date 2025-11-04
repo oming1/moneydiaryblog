@@ -28,6 +28,7 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
     - 핵심 산업 및 역할: 전기 자동차 제조, 운송 서비스
     - 관련 기업: General Motors (US, [GM](/company-analysis/gm/)), Tesla (US, [TSLA](/company-analysis/tsla/))
 - 후방산업:
+- 후방산업:
     - 핵심 산업 및 역할: 전력 공급, 충전 장비 제조
     - 관련 기업: ChargePoint (US, [CHPT](/company-analysis/chpt/)), Blink Charging (US, [BLNK](/company-analysis/blnk/))
 
@@ -36,9 +37,6 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
 - 충전 인프라 구축: EV 충전소 설계 및 설치
 - 네트워크 운영: 충전소 관리 및 유지보수
 - 서비스 제공: EV 운전자에게 충전 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 공용 EV 충전 서비스
@@ -56,9 +54,6 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
 - ChargePoint (US, [CHPT](/company-analysis/chpt/)) - EV 충전 네트워크 운영
 - Blink Charging (US, [BLNK](/company-analysis/blnk/)) - EV 충전 장비 및 서비스 제공
 - Tesla (US, [TSLA](/company-analysis/tsla/)) - 자체 Supercharger 네트워크 운영
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 구체적인 시장 점유율 데이터는 제공되지 않았지만, EVgo는 미국 내 주요 EV 충전 네트워크 중 하나로 평가받고 있습니다.

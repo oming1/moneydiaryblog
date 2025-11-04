@@ -25,6 +25,7 @@ weight: 617
 - **화학 및 소재 (Chemicals and Materials):** 석탄 기반 화학 제품, 석유화학 제품, 전자 재료, 반도체 및 전자 부품용 소재
 - **시스템 솔루션 (System Solutions):** 컴퓨터 시스템 엔지니어링 및 컨설팅, IT 아웃소싱
 **전방/후방산업 (Upstream/Downstream Industries)**
+**전방/후방산업 (Upstream/Downstream Industries)**
 - **전방산업 (Downstream Industries):**
     - **핵심 산업:** 자동차, 건설, 가전제품
     - **핵심 기업:** Toyota (일본, 7203), 현대차 (한국, 005380)
@@ -46,17 +47,11 @@ weight: 617
     - **대표 회사:** [Nippon Steel](/company-analysis/nippon-steel/) Trading (일본, 9810), Marubeni-Itochu Steel (일본, 8002)
 
 **주요제품 (Main Products)**
-
-{{< adsense-infeed >}}
-
 - **철강판 (Steel Plates):** 건설 및 조선용
 - **강관 (Steel Pipes):** 에너지 및 건설용
 - **철근 (Rebars):** 건설용
 - **구조용 강재 (Structural Steel):** 건설 및 인프라용
 - **티타늄 및 스테인리스 제품 (Titanium and Stainless Products):** 항공우주 및 의료용
-
-{{< adsense-infeed >}}
-
 **주요 판매국가 (Major Sales Countries)**
 
 - **일본:** 주요 매출 국가

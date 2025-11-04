@@ -42,9 +42,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 1. **통합 라이프스타일 플랫폼**: 체중감량, 영양, 운동, 심리상담 등을 통합 제공
     
 2. **강력한 글로벌 브랜드 파워**: 오랜 업력과 신뢰도 높은 브랜드 인지도
-
-{{< adsense-infeed >}}
-
 3. **개인 맞춤형 솔루션**: AI 및 데이터 기반의 맞춤형 식단/운동/행동 변화 제안
     
 4. **커뮤니티 기반 지원**: 유저 커뮤니티와 동기부여 시스템
@@ -60,9 +57,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 - **피트니스 및 웰빙**: Peloton(US, [PTON](/company-analysis/pton/)), Planet Fitness(US, [PLNT](/company-analysis/plnt/))
     
 - **식품/음료**: Nestlé(CH, [NESN](/company-analysis/nesn/)), Unilever(UK, ULVR)
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 - **IT·모바일 서비스 개발**: Google(US, [GOOGL](/company-analysis/googl/)), Apple(US, [AAPL](/company-analysis/aapl/))
     
@@ -121,9 +115,6 @@ WW International은 2024년 기준 글로벌 다이어트 구독 및 건강관�
 ## 최근 3년 내 주요 이슈
 
 1. AI 기반 개인화 플랫폼 및 코칭 추천 시스템 도입 (2023년)
-
-{{< adsense-infeed >}}
-
 2. 행태 변화 및 심리상담 프로그램 확대 (2022~2024년)
     
 3. 유럽·호주 등 글로벌 시장 디지털 서비스 론칭 (2022~2023년)

@@ -125,9 +125,6 @@ Northrop Grumman은 고도의 정밀도와 보안이 요구되는 첨단 방위�
 ## 전방산업 / 후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 미국 국방부: 전략폭격기, 전투기, 미사일 방어 시스템 구매 - US Department of Defense(US, US DoD)
 - 미국 공군: B-21 레이더, F-35 부품 구매 - US Air Force(US, USAF)
 - 미국 해군: 무인항공기, 전자전 시스템 구매 - US Navy(US, US Navy)
@@ -151,9 +148,6 @@ Northrop Grumman은 고도의 정밀도와 보안이 요구되는 첨단 방위�
 - Hexcel(US, [HXL](/company-analysis/hxl/)) - 항공기 구조재용 복합재
 - Analog Devices(US, [ADI](/company-analysis/adi/)) - 레이더 및 센서용 반도체
 - Intel(US, [INTC](/company-analysis/intc/)) - 처리 장치용 반도체
-
-{{< adsense-infeed >}}
-
 **부품 제조 단계:** 핵심 부품 및 서브시스템 제조
 
 - Pratt & Whitney(US, [RTX](/company-analysis/rtx/)) - F-35 엔진 공급
@@ -177,9 +171,6 @@ Northrop Grumman은 고도의 정밀도와 보안이 요구되는 첨단 방위�
 **센티널 ICBM:** 지상 기반 전략 억제력 프로그램, 총 사업규모 1330억 달러 (2024년 기준), 관련 경쟁사 Boeing, [RTX](/company-analysis/rtx/)
 
 **글로벌 호크:** 고고도 장기체공 무인 정찰기, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 General Atomics, Boeing
-
-{{< adsense-infeed >}}
-
 **F-35 센터 동체:** F-35 전투기 중앙 동체 부분, 매출 비중 약 8% (2024년 기준), 관련 경쟁사 [LMT](/company-analysis/lmt/), BAE Systems
 
 **MQ-4C 트리톤:** 해상 감시용 무인항공기, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 General Atomics, Boeing
@@ -299,9 +290,6 @@ Northrop Grumman은 차세대 전투 플랫폼과 우주 시스템에 특화된 
 - 2024년: 우주 시스템 부문 매출 13% 감소, NGI 프로그램 종료 (2024)
 - 2025년: 2025년 실적 가이던스 하향 조정, 주가 12% 하락 (2025)
 - 2025년: 센티널 ICBM 프로그램 일정 조정, 추가 투자 필요 (2025)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요주주 (지분율)

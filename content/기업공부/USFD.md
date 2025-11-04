@@ -21,9 +21,6 @@ weight: 922
 ### 영위사업
 
 US Foods Holding Corp.는 신선, 냉동, 건조 식품 및 비식품 제품을 식품 서비스 고객에게 마케팅, 판매 및 유통하는 회사입니다. 주요 고객은 독립 레스토랑, 지역 및 전국 레스토랑 체인, 병원, 요양원, 호텔, 모텔, 컨트리 클럽, 정부 및 군사 조직, 대학 및 소매점입니다
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
 
 - **전방산업**:
@@ -32,9 +29,6 @@ US Foods Holding Corp.는 신선, 냉동, 건조 식품 및 비식품 제품을 
 - **후방산업**:
     - **식품 제조**: 식품을 생산하고 가공하는 산업. 주요 기업: Tyson Foods (미국, [TSN](/company-analysis/tsn/)), Conagra Brands (미국, [CAG](/company-analysis/cag/)).
     - **포장 및 물류**: 식품 및 비식품 제품의 포장 및 유통을 담당하는 산업. 주요 기업: UPS (미국, [UPS](/company-analysis/ups/)), FedEx (미국, [FDX](/company-analysis/fdx/)).
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 - **식품 제조**: 식품을 생산하고 가공. 대표 기업: Tyson Foods (미국, [TSN](/company-analysis/tsn/)), Conagra Brands (미국, [CAG](/company-analysis/cag/)).
 - **포장 및 물류**: 제품의 포장 및 유통. 대표 기업: UPS (미국, [UPS](/company-analysis/ups/)), FedEx (미국, [FDX](/company-analysis/fdx/)).
@@ -47,16 +41,10 @@ US Foods Holding Corp.는 신선, 냉동, 건조 식품 및 비식품 제품을 
 - **냉동 식품**: 냉동 야채, 냉동 육류, 냉동 해산물 등.
 - **건조 식품**: 곡물, 파스타, 스낵 등.
 - **비식품 제품**: 주방 용품, 청소 용품 등.
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 US Foods Holding Corp.는 주로 미국 내에서 제품을 판매하고 있으며, 주요 시장은 미국 전역입니다
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Sysco Corporation (미국, [SYY](/company-analysis/syy/))**: 식품 및 비식품 제품의 유통.
 - **Performance Food Group (미국, [PFGC](/company-analysis/pfgc/))**: 식품 서비스 유통.
 - **The Chefs’ Warehouse (미국, CHEF)**: 고급 식품 유통.

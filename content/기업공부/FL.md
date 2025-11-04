@@ -28,9 +28,6 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 - 스포츠웨어
 - 스포츠 액세서리
 ## 주요 브랜드
-
-{{< adsense-infeed >}}
-
 - Foot Locker
 - Kids Foot Locker
 - Lady Foot Locker
@@ -62,9 +59,6 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 ## 재무 정보
 
 2017년 1월 기준으로 3,363개의 매장을 운영하고 있으며, 취급 제품의 약 70%가 Nike 제품입니다.
-
-{{< adsense-infeed >}}
-
 ## 역사적 배경
 - 1974년: 첫 Foot Locker 매장 오픈
 - 2001년: Venator Group에서 Foot Locker, Inc.로 사명 변경

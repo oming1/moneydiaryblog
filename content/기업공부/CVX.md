@@ -19,9 +19,6 @@ weight: 252
 - **Industry (산업)**: 통합 오일 및 가스 (Oil & Gas Integrated)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 쉐브론은 [원유](/industry-study/원유/)와 [천연가스](/industry-study/천연가스/)의 탐사 및 생산, 정제,화학제품] 제조, 그리고 특수 제품 제조를 포함한 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Upstream**: 원유 및 천연가스 탐사 및 생산
@@ -52,15 +49,9 @@ weight: 252
 - **화학 제품**: [올레핀](/industry-study/올레핀/), [폴리올레핀](/industry-study/폴리올레핀/)
 - **특수 제품**: 윤활유, 기초유, 왁스
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 전체 매출의 대부분을 차지하며, 북미, 남미, 유럽, 아시아, 아프리카 등 다양한 지역에서 판매
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Exxon Mobil (미국, [XOM](/company-analysis/xom/))**: 원유 및 천연가스 탐사, 생산, 정제
 - **BP (영국, BP)**: 원유 및 천연가스 탐사, 생산, 정제
 - **Royal Dutch Shell (네덜란드, RDS.A)**: 원유 및 천연가스 탐사, 생산, 정제

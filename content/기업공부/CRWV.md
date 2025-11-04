@@ -97,9 +97,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 1. **데이터센터 구축**: Dell([DELL](/company-analysis/dell/)), Supermicro([SMCI](/company-analysis/smci/)) 서버 장비 조달
     
 2. **GPU 통합**: Nvidia([NVDA](/company-analysis/nvda/)) H100/A100 가속기 설치
-
-{{< adsense-infeed >}}
-
 3. **소프트웨어 배포**: 자체 개발 플랫폼 롤아웃
     
 4. **모니터링 시스템**: Prometheus/Grafana 기반 실시간 감시
@@ -158,9 +155,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
     - 공급업체: Nvidia([NVDA](/company-analysis/nvda/))
         
 2. **서버 랙**: 고밀도 컴퓨팅 장비
-
-{{< adsense-infeed >}}
-
     - 주요 공급 지역: 미국, 중국
         
     - 공급업체: Dell([DELL](/company-analysis/dell/))

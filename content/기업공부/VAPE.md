@@ -194,9 +194,6 @@ VAPE(전자담배) 산업은 기존 연초담배의 대안으로 등장한 차�
 ---
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 **궐련형 전자담배 기기:**
 
 - IQOS(필립모리스): 전 세계 70개국 이상 판매, 매출비중 25%(2024), 주요 경쟁사 BAT [BTI](/company-analysis/bti/)
@@ -235,9 +232,6 @@ VAPE(전자담배) 산업은 기존 연초담배의 대안으로 등장한 차�
 - 프로필렌글리콜: 액상 베이스, 미국/독일, Dow Chemical(US, [DOW](/company-analysis/dow/))
 - 베지터블글리세린: 액상 베이스, 말레이시아/인도네시아, IOI Corporation(MY, IOI)
 - 니코틴: 담배 추출 또는 합성, 중국/인도, Siegfried Holding(CH, [SFZN](/company-analysis/sfzn/))
-
-{{< adsense-infeed >}}
-
 **담배 원료:**
 
 - 담배 잎: 궐련형 전자담배 스틱 제조, 브라질/중국/미국, Universal Corp(US, [UVV](/company-analysis/uvv/))

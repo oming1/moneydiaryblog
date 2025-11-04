@@ -27,13 +27,7 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 - 할인 소매점 운영 (Dollar Tree, Family Dollar 브랜드)
 - 다양한 소비재, 계절 상품, 가정용품 판매
 - 온라인 판매 (dollartree.com)
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 역할: 소비자에게 직접 판매
@@ -54,17 +48,11 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 
 ## 주요 판매국가
 Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 
 - 15,115개의 매장 (미국 48개 주와 캐나다)
 - 24개의 물류 센터
 - 온라인 판매 플랫폼 (dollartree.com)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Dollar General (US, [DG](/company-analysis/dg/)) - 할인 소매점 체인
 - Walmart (US, [WMT](/company-analysis/wmt/)) - 대형 할인점 체인
@@ -75,6 +63,9 @@ Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 �
 Dollar Tree는 미국 할인 소매점 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
+[Dollar Tree 공식 웹사이트](https://corporate.dollartree.com/)
+
+공유
 [Dollar Tree 공식 웹사이트](https://corporate.dollartree.com/)
 
 공유

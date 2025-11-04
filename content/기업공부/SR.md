@@ -39,15 +39,9 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 5. 에너지 효율 프로그램: 고객들에게 에너지 효율 프로그램을 제공하여 비용 절감과 환경 보호에 기여합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 전방산업:
 
 1. 주거용 에너지: 가정용 난방 및 조리
-
-{{< adsense-infeed >}}
-
     - 주택 건설업체: Lennar Corporation(US, [LEN](/company-analysis/len/))
 2. 상업용 에너지: 사무실, 상점 등의 난방 및 에너지 사용
     
@@ -59,6 +53,9 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 ## 후방산업:
 
 1. 천연가스 생산: 원료 공급
+## 후방산업:
+
+1. 천연가스 생산: 원료 공급
     - ExxonMobil(US, [XOM](/company-analysis/xom/))
     
 2. 파이프라인 인프라: 가스 운송
@@ -66,9 +63,6 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/))
     
 3. 가스 저장 시설: 수요 변동 대응
-
-{{< adsense-infeed >}}
-
     - Cheniere Energy(US, [LNG](/industry-study/lng/))
 
 ## 밸류체인
@@ -110,9 +104,6 @@ SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다�
 4. 지방 정부 및 공공기관
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국 (미주리주, 앨라배마주, 미시시피주 등)
 ## 경쟁업체
 

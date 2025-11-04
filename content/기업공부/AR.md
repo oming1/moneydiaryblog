@@ -20,9 +20,6 @@ weight: 83
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀러스 셰일과 유티카 셰일에서 [천연가스](/industry-study/천연가스/), 천연가스 액체([NGL](/industry-study/ngl/)) 및 석유의 탐사, 개발, 생산에 주력하는 독립 에너지 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -42,6 +39,7 @@ Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀�
 4. 통합 사업 모델: 상류 및 미드스트림 사업의 수직 계열화
 5. 유연한 생산 조정: 시장 상황에 따른 효율적인 생산량 조절 능력
 6. 재무 건전성: 강력한 대차대조표와 충분한 유동성
+## 전방/후방산업
 ## 전방/후방산업
 1. 후방산업:
     
@@ -106,9 +104,6 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 5. Paul Rady: 5.415%
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. SPDR S&P Oil & Gas Exploration & Production ETF - XOP
 2. iShares U.S. Oil & Gas Exploration & Production ETF - IEO
 3. Invesco S&P 500 Equal Weight Energy ETF - RYE

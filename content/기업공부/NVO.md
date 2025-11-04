@@ -20,9 +20,6 @@ weight: 640
 - **Industry**: [바이오테크](/industry-study/바이오테크/) (Biotechnology)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제조 및 유통하는 글로벌 헬스케어 기업입니다. 주요 사업 부문은 당뇨병 및 [비만 치료제](/industry-study/비만-치료제/)와 희귀질환 치료제(인슐린, 성장 호르몬, 혈우병 치료제)로 나뉩니다.
 [노보노디스크는 주요 파이프라인 중 여전히 비만과 당뇨를 우선순위로 두고 개발하고 있다. 제품 차별화를 위한 제형 변경 시도는 지속될 전망이다.](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.9_모두가%20기다린%20마법의%20약.pdf#page=48&selection=188,1,227,1&color=yellow))
 
@@ -33,9 +30,6 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
     - **의료 서비스**: 병원, 클리닉, 약국 등에서 Novo Nordisk의 제품을 사용합니다.
 	- **의료 서비스 제공업체:** UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
 	- **약국 체인:** CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Upstream Industry)**:
     - **원료 공급**: 의약품 제조에 필요한 원료를 공급하는 산업입니다.
     - **주요 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
@@ -76,9 +70,6 @@ Novo Nordisk는 당뇨병, 비만, 희귀질환 치료제를 연구, 개발, 제
 - **Eli Lilly (미국, [LLY](/company-analysis/lly/))**: Trulicity® (당뇨병 치료제)
 - **Sanofi (프랑스, [SAN](/company-analysis/san/))**: Lantus® (인슐린 치료제)
 - **AstraZeneca (영국, [AZN](/company-analysis/azn/))**: Farxiga® (당뇨병 치료제)
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
 - **당뇨병 치료제**: 글로벌 시장 점유율 약 30% (2023년 기준)
 - **비만 치료제**: 글로벌 시장 점유율 약 20% (2023년 기준)

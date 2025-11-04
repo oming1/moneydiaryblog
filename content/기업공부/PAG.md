@@ -34,9 +34,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 - 성장 자본 투자
 - 부동산 개발 및 운용
 - 특수 상황 투자
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 1. 아시아 태평양 지역에 대한 깊이 있는 이해와 네트워크
     
@@ -46,9 +43,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
     
     - 다각화된 투자 접근법
     - 신속한 투자 기회 대응 능력
-
-{{< adsense-infeed >}}
-
 3. 경험 많은 투자 전문가 팀
     
     - 글로벌 금융기관 출신 전문가
@@ -106,9 +100,6 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 5. Baring Private Equity Asia(HK, Baring Private Equity Asia)
 6. Hillhouse Capital(CN, Hillhouse Capital)
 7. EQT(SE, [EQT](/company-analysis/eqt/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 - 아시아 태평양 지역 주요 대체투자 운용사 중 하나

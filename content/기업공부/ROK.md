@@ -91,9 +91,6 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 - **ControlLogix PLCs**: 프로그래머블 로직 컨트롤러 (매출의 약 40%)
     
 - **FactoryTalk 소프트웨어**: SCADA 및 MES 플랫폼 (매출의 약 30%)
-
-{{< adsense-infeed >}}
-
 - **PowerFlex 드라이브**: 모션 제어 시스템 (매출의 약 20%)
     
 - **서비스 및 컨설팅** (매출의 약 10%)
@@ -114,18 +111,12 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 ## 경쟁업체
 
 1. Siemens AG(DE): 글로벌 자동화 및 디지털 솔루션 제공 업체
-
-{{< adsense-infeed >}}
-
 2. ABB(CH): 산업 자동화 및 로봇 기술 전문 기업
 3. Schneider Electric(FR): 에너지 관리 및 자동화 솔루션 제공 업체
     
 4. Honeywell International Inc.(US, [HON](/company-analysis/hon/)): 산업용 자동화 시스템 전문 기업
     
 5. Emerson Electric Co.(US, [EMR](/company-analysis/emr/)): 프로세스 제어 및 자동화 시스템 제공 업체
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 약 10%의 점유율을 보유하고 있으며 특히 북미 시장에서 강력한 입지를 가지고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며 IoT와 클라우드 기술을 활용한 디지털 전환 솔루션으로 점유율 확대를 목표로 하고 있습니다.
@@ -133,9 +124,6 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 ## 최근 3년 내 주요 이슈
 
 1. Plex Systems 인수 완료 ($22억 달러)로 클라우드 기반 MES 플랫폼 강화 (2022년)
-
-{{< adsense-infeed >}}
-
 2. AI 기반 FactoryTalk 소프트웨어 업데이트 발표 (2023년)
     
 3. 지속 가능성 목표 강화로 탄소 배출량 감축 계획 발표 (2024년)
@@ -149,6 +137,9 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 - BlackRock (9%)
     
 - State Street Corporation (5%)
+## 관련 ETF
+
+- Industrial Select Sector SPDR Fund - XLI
 ## 관련 ETF
 
 - Industrial Select Sector SPDR Fund - XLI

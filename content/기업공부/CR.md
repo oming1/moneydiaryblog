@@ -24,6 +24,9 @@ Crane Holdings는 엔지니어링된 산업 제품을 제조하는 다각화된 
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
+## 전방/후방 산업
+
+- **전방 산업 (Downstream Industry)**:
     - **핵심 산업**: 항공 우주 및 방산, 화학 및 석유화학
     - **역할**: 최종 소비자에게 고품질 제품 및 솔루션 제공
     - **주요 기업**: Honeywell International (미국, [HON](/company-analysis/hon/)), Emerson Electric (미국, [EMR](/company-analysis/emr/))
@@ -42,9 +45,6 @@ Crane Holdings는 엔지니어링된 산업 제품을 제조하는 다각화된 
     - 대표 기업: Parker Hannifin (미국, PH) - 경쟁 제품: 유압 및 공압 시스템
     
 - **제조 및 조립**:
-
-{{< adsense-infeed >}}
-
     - 다양한 산업에 필요한 기계 및 장비를 제조합니다.
     - 대표 기업: Rockwell Automation (미국, [ROK](/company-analysis/rok/)) - 경쟁 제품: 자동화 솔루션
     
@@ -61,9 +61,6 @@ Crane Holdings는 엔지니어링된 산업 제품을 제조하는 다각화된 
     - 매출 비중: 전체 매출의 약 30% 차지.
       
 - **결제 시스템**:
-
-{{< adsense-infeed >}}
-
     - 자동화된 결제 솔루션으로 소매업체에 제공됩니다.
     - 매출 비중: 전체 매출의 약 25% 차지.
       

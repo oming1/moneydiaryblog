@@ -19,9 +19,6 @@ weight: 450
 
 섹터: 정보기술
 산업: 전자장비및부품
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 Innoviz Technologies Ltd.(NASDAQ: INVZ)는 자동차 및 자율주행 산업을 위한 고성능 LiDAR 센서와 인식 소프트웨어를 개발하는 이스라엘 기업입니다. 주요 제품으로는 InnovizOne, InnovizTwo 등의 LiDAR 센서와 관련 인식 소프트웨어가 있습니다.
 
@@ -55,9 +52,6 @@ Innoviz의 핵심 경쟁력은 독자적인 LiDAR 기술과 소프트웨어 플�
 - InnovizTwo: 차세대 고성능 자동차용 LiDAR 센서
 - InnovizOne: 자동차 등급 대량 생산 가능 LiDAR 센서
 - Perception Software: LiDAR 데이터 처리 및 객체 인식 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 BMW, Volkswagen, Mobileye, NVIDIA, Continental AG
@@ -67,9 +61,6 @@ BMW, Volkswagen, Mobileye, NVIDIA, Continental AG
 미국, 독일, 중국, 일본, 한국, 이스라엘
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Velodyne Lidar(US, VLDR) - 자동차 및 산업용 LiDAR
 - Luminar Technologies(US, [LAZR](/company-analysis/lazr/)) - 자동차용 LiDAR
 - Ouster(US, [OUST](/company-analysis/oust/)) - 다목적 LiDAR
@@ -77,6 +68,9 @@ BMW, Volkswagen, Mobileye, NVIDIA, Continental AG
 - Cepton(US, [CPTN](/company-analysis/cptn/)) - 자동차 및 스마트 인프라용 LiDAR
 
 ## 산업 내 글로벌 시장 점유율
+Innoviz의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. LiDAR 시장은 빠르게 성장하고 있으며, 여러 기업들이 경쟁하고 있는 상황입니다.
+
+## 최근 3년 내 주요 이슈
 Innoviz의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. LiDAR 시장은 빠르게 성장하고 있으며, 여러 기업들이 경쟁하고 있는 상황입니다.
 
 ## 최근 3년 내 주요 이슈
@@ -92,9 +86,6 @@ Innoviz의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았
 - Sonic Field Ltd. (5.6%)
 - Magma Venture Partners (5.2%)
 - Vertex Ventures Israel (4.8%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Global X Autonomous & Electric Vehicles ETF - DRIV

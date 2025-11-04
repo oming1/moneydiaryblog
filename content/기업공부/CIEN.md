@@ -66,9 +66,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 
 ## **핵심 경쟁력**
 **1. WaveLogic 코히런트 광학 기술 우위** WaveLogic 6 Extreme은 업계 최고 수준인 1.6Tbps 전송 용량을 구현하며, 경쟁사 대비 30% 이상 높은 성능을 제공합니다. 이는 단일 파장에서 구현 가능한 최대 용량으로, 네트워크 운영비용을 대폭 절감시킵니다.
-
-{{< adsense-infeed >}}
-
 **2. 종합 네트워킹 솔루션 제공 능력** 하드웨어부터 소프트웨어, 서비스까지 통합된 엔드투엔드 솔루션을 제공하여 고객의 복합적 요구사항을 원스톱으로 해결합니다. 이는 고객 락인 효과와 높은 전환비용을 창출합니다.
 
 **3. 혁신적 R&D 투자 및 특허 포트폴리오** 연간 매출의 15% 이상을 R&D에 투자하며, 광통신 분야 핵심 특허 1,000여 건을 보유하고 있습니다. 특히 코히런트 광학 기술 분야에서 선도적 지위를 확보했습니다.
@@ -113,9 +110,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 - **통신 서비스**: Verizon(US, [VZ](/company-analysis/vz/)), AT&T(US, [T](/company-analysis/t/)) - 5G 백홀 및 네트워크 인프라
 - **인터넷 서비스**: Lumen(US, [LUMN](/company-analysis/lumn/)), CenturyLink - 장거리 네트워크 연결
 - **해저케이블**: Southern Cross Cable - 대양간 통신 연결
-
-{{< adsense-infeed >}}
-
 **후방산업 (원자재/부품 공급 산업):**
 
 - **반도체**: Broadcom(US, [AVGO](/company-analysis/avgo/)), Marvell(US, [MRVL](/company-analysis/mrvl/)) - DSP 칩 및 프로세서
@@ -197,9 +191,6 @@ Ciena Corporation은 1992년 설립된 미국 기반의 [글로벌 네트워킹 
 ---
 
 ## **경쟁업체**
-
-{{< adsense-infeed >}}
-
 **Nokia(FI, NOK)** - 광통신 장비 2위, 시장점유율 18.5%, 5G 인프라 강점  
 **Huawei(CN, Huawei)** - 글로벌 1위, 시장점유율 28.2%, 중국 내수 기반 강화  
 **Cisco Systems(US, [CSCO](/company-analysis/csco/))** - 네트워킹 장비 종합, 시장점유율 12.8%, 엔터프라이즈 강점  

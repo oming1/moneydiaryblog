@@ -32,9 +32,6 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 부동산 개발 및 운영: Caesars Entertainment
@@ -51,9 +48,6 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 - 엔터테인먼트 공연
 - 회의 및 컨벤션 시설
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국 (오하이오, 루이지애나, 인디애나, 네바다, 미시시피, 플로리다, 미주리, 콜로라도, 메릴랜드 등)
 ## 경쟁업체
 
@@ -65,9 +59,6 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 ## 산업 내 글로벌 시장 점유율
 
 Caesars Entertainment는 미국 최대의 게임 회사 중 하나로, 정확한 시장 점유율은 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Eldorado Resorts와 Caesars Entertainment의 합병 완료 (2020)

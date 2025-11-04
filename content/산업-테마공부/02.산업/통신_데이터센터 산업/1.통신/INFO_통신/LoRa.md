@@ -73,9 +73,6 @@ LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기�
     - 생태계(칩·게이트웨이·모듈·클라우드)가 넓고 기성품 다양
 
 - 한계
-
-{{< adsense-infeed >}}
-
     - 낮은 데이터율: 수~수백 바이트 레벨 텔레메트리용. 영상·음성·펌웨어 대용량 전송엔 부적합
     - 지연(latency)·규제: 지역별 송신 의무 휴지(duty cycle) 등으로 실시간 제어엔 제약
     - 혼잡/용량 설계 필요: 단말 밀집 환경에서는 게이트웨이 수, 채널 계획, ADR 최적화가 중요
@@ -117,9 +114,6 @@ LoRa는 Semtech([SMTC](/company-analysis/smtc/))가 개발한 비면허 대역 �
 - Reyax(REYAX) - 손쉬운 통합을 위한 LoRa 무선 모듈·안테나 솔루션 공급.
     
 - HopeRF(HopeRF) - 저가·저전력 LoRa RF 모듈 라인업으로 대량 IoT 단말 적용 지원.
-
-{{< adsense-infeed >}}
-
 - AcSiP(AcSiP) - MCU·LoRa 일체형 SiP 모듈로 소형화·저전력 제품 설계 지원.
     
 - Ebyte(Ebyte) - 다양한 주파수·폼팩터의 LoRa 모듈 및 장거리 무선 통신 솔루션 공급.
@@ -131,9 +125,6 @@ LoRa는 Semtech([SMTC](/company-analysis/smtc/))가 개발한 비면허 대역 �
 - Senet(Senet) - 북미 LoRaWAN 공용/사설망 운영사, 유틸리티·자산추적 등 대규모 배치 지원.
     
 - MachineQ([CMCSA](/company-analysis/cmcsa/)) - Comcast 산하 LoRaWAN 네트워크·디바이스 관리 플랫폼 제공, 엔터프라이즈 IoT 서비스 전개.
-
-{{< adsense-infeed >}}
-
 - LORIOT(LORIOT) - 글로벌 LoRaWAN 네트워크 서버/매니지드 서비스 제공, 다중 리전 사설망 구축 지원.
     
 - ChirpStack(ChirpStack) - 오픈소스 LoRaWAN 네트워크 서버 스택 제공, 기업·통신사 맞춤 사설망 구축에 활용.

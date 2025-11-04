@@ -50,9 +50,6 @@ Toast는 매장 내 식사, 테이크아웃, 배달, 케이터링 등 다양한 
 5. 고객 지원: Toast, Inc. (US, [TOST](/company-analysis/tost/)) (기술 지원 및 교육)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. Toast POS: 레스토랑용 포인트 오브 세일 시스템
 2. Toast Online Ordering: 온라인 주문 플랫폼
 3. Toast Takeout 앱: 테이크아웃 주문 관리 앱
@@ -62,9 +59,6 @@ Toast는 매장 내 식사, 테이크아웃, 배달, 케이터링 등 다양한 
 ## 주요 판매국가
 
 Toast는 주로 미국 시장에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. Square (US, [SQ](/company-analysis/sq/)) (결제 및 POS 시스템)
 2. Lightspeed (캐나다, LSPD) (POS 및 e-커머스 솔루션)

@@ -24,9 +24,6 @@ weight: 713
 ## 영위사업
 
 Phillips 66(PSX)는 미국의 대표적인 통합 에너지 기업으로, 미드스트림, 화학, 정유, 마케팅 및 특수제품 부문에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 1. 미드스트림: 원유 및 정제 석유제품의 운송, 저장, 처리 서비스와 [천연가스](/industry-study/천연가스/) 및 [NGL](/industry-study/ngl/)(Natural Gas Liquids) 관련 서비스를 제공합니다.
 2. 화학: Chevron Phillips Chemical Company LLC와의 합작 투자를 통해 전 세계적으로 [석유화학](/industry-study/석유화학/) 제품과 플라스틱을 제조 및 판매합니다.
 3. [정유](/industry-study/정유/): 미국과 유럽에서 12개의 정유소를 운영하며, 가솔린, 디젤, 항공유 등 다양한 석유 제품을 생산합니다.
@@ -61,9 +58,6 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 ## 후방산업:
 
 1. 원유 생산: 석유 탐사 및 생산 기업
-
-{{< adsense-infeed >}}
-
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 파이프라인 및 저장: 원유 및 석유제품 운송, 저장 인프라

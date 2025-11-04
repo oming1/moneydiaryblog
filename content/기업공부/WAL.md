@@ -50,9 +50,6 @@ Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스�
 ## 전방산업
 
 - **중소기업 및 법인**: Walmart(US, [WMT](/company-analysis/wmt/)), Real estate developers
-
-{{< adsense-infeed >}}
-
 - **부동산 개발**: Lennar(US, [LEN](/company-analysis/len/)), KB Home(US, [KBH](/company-analysis/kbh/))
     
 - **개인 금융 소비자**: 고액예금, 자산관리 등
@@ -94,9 +91,6 @@ Western Alliance Bancorporation(NYSE: WAL)은 미국 애리조나주 피닉스�
 2. 부동산 개발업체 및 건설사
     
 3. 개인 고액자산가
-
-{{< adsense-infeed >}}
-
 4. 국가·지방정부 및 공공기관
 
 ## 주요 판매국가
@@ -130,9 +124,6 @@ Western Alliance Bancorp은 미국 중대형 상업은행 시장에서 약 1~2% 
 ## 주요주주(지분율)
 
 - The Vanguard Group (11%)
-
-{{< adsense-infeed >}}
-
 - BlackRock (9%)
 - State Street Corporation (5%)
 
@@ -143,7 +134,4 @@ Western Alliance Bancorp은 미국 중대형 상업은행 시장에서 약 1~2% 
 - iShares U.S. Regional Banks ETF - IAT
     
 - Invesco KBW Regional Banking ETF - KBWR
-
-{{< adsense-infeed >}}
-
 - SPDR S&P Bank ETF - KBE

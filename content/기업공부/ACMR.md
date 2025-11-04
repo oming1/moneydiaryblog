@@ -35,9 +35,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
     
     - 세정과 동시에 극박막 코팅 또는 도핑 전처리 기능 통합
     - 선폭 미세화 공정에 필요한 표면 에너지·이온 컨트롤
-
-{{< adsense-infeed >}}
-
 3. **메가소닉·열분해 세정 솔루션**
     
     - 초음파(메가소닉) 진동으로 박막·오염층을 물리적으로 분리
@@ -124,9 +121,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 4단계: **공장 테스트 및 교정**
 - 누수·안전·성능 시험(유량·온도·압력·진동), 공정 반복 테스트  
-
-{{< adsense-infeed >}}
-
 5단계: **출하·현장 설치**
 - 포장·운송→고객 팹에 설치 후 시운전·레시피 튜닝→O&M 계약 개시
 
@@ -141,9 +135,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - 연구기관·국책연구소: IMEC(BE), CEA(FR), SEMATECH(US) – 공정개발·장비평가
 
 **후방산업 (부품·재료 공급)**
-
-{{< adsense-infeed >}}
-
 - ChemCut Solutions(US, 비상장) – 세정 화학약품
 - Pall Corp.(US, PLL) / Sartorius(DE, SRT.DE) – 필터·멤브레인
 - Ingur Instruments(TW, 비상장) – 메가소닉 트랜스듀서
@@ -245,9 +236,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - **XSD** – SPDR S&P Semiconductor ETF XSD
 
 **섹터 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - **IGV** – iShares Expanded Tech-Software ETF IGV
 - **XLK** – Technology Select Sector SPDR Fund XLK
 - **XBI** – SPDR S&P Biotech ETF XBI (웻케미칼 솔루션 일부 포함)

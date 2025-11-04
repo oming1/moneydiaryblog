@@ -84,9 +84,6 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, 2022년 1분기 기준 Vroom은 미국 중고차 시장에서 약 3%의 점유율을 보유했던 것으로 보고되었습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. eCommerce 및 중고차 딜러십 사업 중단 발표 (2024)
 2. United Auto Credit Corporation(UACC) 인수 (2022)
 3. COVID-19 팬데믹으로 인한 온라인 중고차 수요 증가 (2020-2021)
@@ -100,9 +97,6 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 3. Fidelity Management & Research Co. LLC (8.10%)
 4. T. Rowe Price Associates, Inc. (7.85%)
 5. Invesco Ltd. (5.30%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 1. First Trust NASDAQ Transportation ETF - FTXR
 2. Invesco S&P SmallCap Consumer Discretionary ETF - PSCD

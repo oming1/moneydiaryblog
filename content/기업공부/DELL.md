@@ -21,11 +21,9 @@ weight: 272
 #### 영위사업
 
 Dell Technologies는 다양한 기술 솔루션을 설계, 개발, 제조, 마케팅, 판매 및 지원합니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **인프라 솔루션 그룹 (Infrastructure Solutions Group, ISG)**: 스토리지 솔루션, 서버, 네트워킹 제품 및 서비스 제공.
 - **클라이언트 솔루션 그룹 (Client Solutions Group, CSG)**: 데스크탑, 노트북, 워크스테이션, 모니터, 주변기기 제공
+#### 전방/후방산업
 #### 전방/후방산업
 - **전방산업**: Dell의 제품을 사용하는 주요 기업들
 	-  Microsoft (US, [MSFT](/company-analysis/msft/)), Amazon (US, [AMZN](/company-analysis/amzn/)), Google (US, [GOOGL](/company-analysis/googl/)) 등이 있습니다.
@@ -37,9 +35,6 @@ Dell Technologies는 다양한 기술 솔루션을 설계, 개발, 제조, 마�
 - **데스크탑**: OptiPlex, Precision (워크스테이션)
 - **서버**: PowerEdge
 - **스토리지 솔루션**: Dell EMC 스토리지
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 Dell은 전 세계 180개국에서 운영되며, 주요 판매국가는 미국, 중국, 인도, 브라질, 아일랜드 등이 있습니다
 
@@ -50,13 +45,7 @@ Dell은 전 세계 180개국에서 운영되며, 주요 판매국가는 미국, 
 - **Apple (US, [AAPL](/company-analysis/aapl/))**: 개인용 컴퓨터, 태블릿, 스마트폰
 - **Acer (TW, 2353)**: 개인용 컴퓨터, 모니터
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Dell은 2023년 2분기 기준으로 전 세계 PC 출하량의 17.4%를 차지하며, Lenovo와 HP에 이어 3위를 기록하고 있습니다
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
 
 1. [**공급망 문제**: COVID-19 팬데믹으로 인한 공급망 문제로 인해 부품 부족과 물류비 증가 (2022)](https://finance.yahoo.com/quote/DELL/)[10](https://www.theregister.com/2022/02/25/dell_q4_2022/).

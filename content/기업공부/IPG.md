@@ -19,15 +19,9 @@ Interpublic Group of Companies, Inc.(IPG)는 글로벌 광고 및 마케팅 서�
 
 섹터: 커뮤니케이션 서비스(Communication Services)  
 산업: [광고](/industry-study/2산업광고/)(Advertising)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
-
-{{< adsense-infeed >}}
-
 1. 미디어, 데이터 및 참여 솔루션(MD&E): IPG Mediabrands, Acxiom, Kinesso 등을 포함하며 글로벌 미디어 및 커뮤니케이션 서비스, 디지털 서비스, 광고 기술, 전자상거래 서비스 등을 제공합니다.
 2. 통합 광고 및 창의성 주도 솔루션(IA&C): McCann Worldgroup, IPG Health, MullenLowe Group, FCB 등을 포함하며 광고, 기업 및 브랜드 아이덴티티 서비스, 전략 컨설팅 등을 제공합니다.
 3. 전문 커뮤니케이션 및 체험 솔루션(SC&E): Weber Shandwick, Golin 등을 포함하며 글로벌 PR, 스포츠 및 엔터테인먼트 마케팅, 전략 컨설팅 등을 제공합니다.
@@ -38,9 +32,6 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 
 - 데이터 분석 기업: Adobe(US, [ADBE](/company-analysis/adbe/))
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 소비재 기업: Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))

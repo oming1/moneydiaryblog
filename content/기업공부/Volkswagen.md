@@ -22,13 +22,7 @@ Industry: Auto Manufacturers (자동차 제조업)
 
 [Volkswagen](/company-analysis/volkswagen/) AG([Volkswagen](/company-analysis/volkswagen/))는 [자동차](/industry-study/자동차/) 제조 및 판매를 주요 사업으로 하며, 승용차, 상용차, 전기차, 금융 서비스 등을 제공합니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 자동차 딜러: AutoNation (국가:US, [AN](/company-analysis/an/))
 - 자동차 부품 유통: LKQ Corporation (국가:US, LKQ)
 

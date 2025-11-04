@@ -29,9 +29,6 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 - **후방산업:** 생명공학 연구 및 원료 공급
     - **핵심 산업:** 연구소, 원료 공급업체
     - **핵심 기업:** Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)), Merck KGaA (독일, [MRK](/company-analysis/mrk/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **연구 및 개발:** Regeneron은 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
     - **대표 회사:** Sanofi (프랑스, [SAN](/company-analysis/san/)), Bayer (독일, BAYN)
@@ -40,9 +37,6 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 - **유통:** 글로벌 시장에 의약품을 유통합니다.
     - **대표 회사:** McKesson (미국, [MCK](/company-analysis/mck/)), Cardinal Health (미국, CAH)
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **EYLEA:** 습성 연령 관련 황반변성 및 당뇨병성 황반부종 치료 (2023년 매출 비중: 40%)
 - **Dupixent:** 아토피 피부염 및 천식 치료 (2023년 매출 비중: 35%)
 - **Libtayo:** 전이성 또는 국소 진행성 피부 편평세포암 치료 (2023년 매출 비중: 10%)
@@ -58,13 +52,7 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 - **Amgen (미국, [AMGN](/company-analysis/amgn/)):** 생명공학 의약품
 - **Vertex Pharmaceuticals (미국, [VRTX](/company-analysis/vrtx/)):** 유전자 치료제
 - **Gilead Sciences (미국, [GILD](/company-analysis/gild/)):** 항바이러스제
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **COVID-19 치료제 개발 및 승인 (2021)**
 - **Dupixent의 새로운 적응증 승인 (2022)**
 - **FDA의 혈액암 치료제 승인 거부 (2024)**

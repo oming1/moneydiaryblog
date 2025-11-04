@@ -48,18 +48,12 @@ Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기�
 5. 임상 개발: 파트너 기업
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. AI 기반 신약 설계 플랫폼
 2. SoluPro 기술 (다중 합성 생물학 접근법)
 3. ABS-101 (염증성 장질환 치료제 후보)
 4. ABS-201 (안드로겐성 탈모증 치료제 후보)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Absci Corporation은 주로 미국에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 
@@ -69,12 +63,10 @@ Absci Corporation은 주로 미국에서 사업을 영위하고 있습니다.
 4. Relay Therapeutics (US, [RLAY](/company-analysis/rlay/)) (컴퓨터 기반 신약 발견)
 5. Ginkgo Bioworks (US, [DNA](/company-analysis/dna/)) (합성 생물학 플랫폼)
 ## 산업 내 글로벌 시장 점유율
+## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. AstraZeneca와의 협력에서 첫 번째 마일스톤 달성, AI 설계 항체 서열 전달 (2024년)
 2. Twist Bioscience와 생성형 AI를 사용한 새로운 항체 설계 협력 체결 (2024년)
 3. ABS-101의 비인간 영장류 연구 결과 발표, 임상 개발 중인 항체 대비 2-3배 연장된 반감기 입증 (2024년)

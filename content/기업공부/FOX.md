@@ -19,9 +19,6 @@ weight: 351
 
 섹터: 커뮤니케이션 서비스
 산업: 미디어엔터테인먼트
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테인먼트 기업으로, 뉴스, 스포츠, 엔터테인먼트 콘텐츠를 제작하고 배포합니다. 주요 사업 부문은 다음과 같습니다:
 
@@ -53,9 +50,6 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 - 스포츠 리그: NFL, MLB, NASCAR
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - FOX News: 24시간 뉴스 채널, 매출의 약 40% (2025년 1분기 기준)
 - FOX Sports: 스포츠 중계 및 관련 콘텐츠, 매출의 약 30% (2025년 1분기 기준)
 - FOX 방송 네트워크: 지상파 TV 프로그래밍, 매출의 약 20% (2025년 1분기 기준)
@@ -71,9 +65,6 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 - Comcast Corporation(US, [CMCSA](/company-analysis/cmcsa/)): NBCUniversal 소유
 - Warner Bros. Discovery(US, [WBD](/company-analysis/wbd/)): CNN, TNT 등 보유
 - Nexstar Media Group(US, NXST): 지역 TV 방송국 네트워크 운영
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Fox Corporation의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 미국 케이블 뉴스 시장에서 FOX News는 2025년 초 기준으로 약 45%의 시청자 점유율을 보유하고 있어 업계 선두를 유지하고 있습니다.
@@ -84,9 +75,6 @@ Fox Corporation의 정확한 글로벌 시장 점유율 데이터는 제공되�
 - 2024년 미국 대선 관련 정치 광고 수익 약 1억 2천만 달러 기록 (2024년)
 - FOX Bet 스포츠 베팅 서비스 확대 및 The Stars Group과의 파트너십 강화 (2023년)
 - ESG 이니셔티브 강화: 2030년까지 탄소 중립 목표 설정 (2023년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - Murdoch 가족 신탁 (약 39.6%)

@@ -26,9 +26,6 @@ weight: 898
 - **후방산업:**
     - **반도체 제조:** Unity의 플랫폼을 지원하는 하드웨어를 제조하는 업체 (예: NVIDIA (US, [NVDA](/company-analysis/nvda/)), AMD (US, [AMD](/company-analysis/amd/)))
     - **클라우드 서비스:** Unity의 클라우드 기반 서비스를 제공하는 업체 (예: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/)))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **설계 및 개발:**
     - Unity는 자체적으로 실시간 3D 콘텐츠 제작 플랫폼을 설계 및 개발합니다.
@@ -38,15 +35,13 @@ weight: 898
     - Unity의 소프트웨어는 내부적으로 테스트 및 검증 과정을 거칩니다.
 - **유통:**
     - Unity의 소프트웨어는 온라인 스토어 및 독립 배급사를 통해 유통됩니다.
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **Unity Editor:** 실시간 3D 콘텐츠 제작 도구
 - **Unity Pro:** 고급 기능을 제공하는 Unity의 프리미엄 버전
 - **Unity Ads:** 게임 내 광고 플랫폼
 - **Unity Analytics:** 사용자 행동 분석 도구
+#### 주요 판매국가
 #### 주요 판매국가
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (영국, 독일, 프랑스 등)

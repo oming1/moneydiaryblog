@@ -39,13 +39,7 @@ Williams-Sonoma는 주방용품, 가구, 홈 인테리어 제품 등을 판매�
 - 아동용 가구 및 용품
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다, 푸에르토리코, 호주, 영국을 중심으로 중동, 필리핀, 멕시코 등에서도 프랜차이즈 형태로 사업을 전개하고 있습니다
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Crate and Barrel
 - The Home Depot

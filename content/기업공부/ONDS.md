@@ -158,9 +158,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 **구리:** 통신 장비 및 안테나용, 주요 공급지 칠레/페루, 주요 공급업체 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/))
 
 **실리콘:** 반도체 칩셋용, 주요 공급지 중국/브라질, 주요 공급업체 다양한 반도체 파운드리
-
-{{< adsense-infeed >}}
-
 **복합소재:** 드론 프레임용 탄소섬유, 주요 공급지 일본/미국, 주요 공급업체 Hexcel(US, [HXL](/company-analysis/hxl/))
 
 ---
@@ -189,9 +186,6 @@ Ondas Networks 사업부는 철도, 유틸리티, 석유가스, 교통, 항공 �
 - 미국 연방기관(US, Federal Agencies) - 다양한 자율 드론 시스템
 
 **산업/기업 고객:**
-
-{{< adsense-infeed >}}
-
 - HHLA 함부르크(DE, HHLA) - 항만 보안 및 물류 모니터링
 - 중동 스마트시티 프로젝트(ME, Smart City Projects) - 도시 인프라 감시
 - 미국 데이터센터(US, Data Centers) - 시설 보안 및 모니터링

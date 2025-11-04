@@ -61,9 +61,6 @@ Encompass Health는 미국 전역에 150개 이상의 병원과 250개 이상의
 6. 환자 후속 관리: Kindred Healthcare
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 입원 재활 서비스 (뇌졸중, 신경계 장애 치료 등)
 2. 가정 건강 서비스 (전문 간호, 물리치료 등)
 3. 호스피스 서비스
@@ -76,9 +73,6 @@ Encompass Health는 미국 전역에 150개 이상의 병원과 250개 이상의
 3. 노인 환자
 4. 보험회사: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
 5. 정부 기관: Medicare, Medicaid
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니다.
@@ -108,9 +102,6 @@ Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니�
 3. BlackRock Fund Advisors: 7.89%
 4. SSgA Funds Management, Inc.: 4.98%
 5. Dimensional Fund Advisors LP: 3.03%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares U.S. Healthcare Providers ETF - IHF

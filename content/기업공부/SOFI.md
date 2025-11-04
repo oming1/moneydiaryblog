@@ -55,9 +55,6 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
     - Charles Schwab(US, [SCHW](/company-analysis/schw/)), E*TRADE(US, ETFC)
 
 ## 후방산업:
-
-{{< adsense-infeed >}}
-
 1. 클라우드 컴퓨팅: 금융 서비스 플랫폼 운영을 위한 인프라 제공
     
     - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -78,9 +75,6 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 2. 자금 조달: 대출 상품을 위한 자금 확보
     
     - SoFi Technologies(US, [SOFI](/company-analysis/sofi/)), LendingClub(US, LC)
-
-{{< adsense-infeed >}}
-
 3. 리스크 관리: 신용평가 및 리스크 분석
     
     - Equifax(US, EFX), TransUnion(US, TRU)
@@ -112,9 +106,6 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 ## 주요 판매국가
 
 미국을 중심으로 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Robinhood Markets(US, [HOOD](/company-analysis/hood/)): 주식 거래 및 투자 플랫폼

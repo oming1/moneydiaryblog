@@ -21,9 +21,6 @@ Industry: Semiconductors ([반도체](/industry-study/반도체/))
 ## 영위사업
 
 Analog Devices, Inc.는 고성능 아날로그, 혼합 신호, 디지털 신호 처리 집적 회로를 설계, 제조, 마케팅하는 기업입니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -40,9 +37,6 @@ Analog Devices, Inc.는 고성능 아날로그, 혼합 신호, 디지털 신호 
 - 전력 관리 및 참조 제품 (매출 비중: 약 20%, 2023년 기준)
 - 센서 및 MEMS 제품 (매출 비중: 약 15%, 2023년 기준)
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Analog Devices는 전 세계적으로 제품을 판매하고 있으며, 주요 시장으로는 미국, 중국, 유럽, 일본이 포함됩니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 
 ## 경쟁업체
@@ -55,7 +49,4 @@ Analog Devices는 전 세계적으로 제품을 판매하고 있으며, 주요 �
 2023년 기준 Analog Devices는 아날로그반도체 시장에서 약 10%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간의 정확한 추이는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
-
-{{< adsense-infeed >}}
-
 [FINVIZ - ADI](https://finviz.com/quote.ashx?t=ADI)

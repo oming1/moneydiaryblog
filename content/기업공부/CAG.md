@@ -88,9 +88,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 ### 7. 핵심 기술
 
 **기술별 분류:**
-
-{{< adsense-infeed >}}
-
 - 식품 보존 기술: 냉동 식품의 맛과 영양을 유지하면서 유통기한을 연장하는 기술로, 특히 Birds Eye 냉동 채소 제품에 적용됩니다.
     
 - 식품 가공 기술: 대규모로 균일한 품질의 제품을 생산하기 위한 자동화 및 표준화된 공정 기술을 사용합니다.
@@ -312,9 +309,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - Vanguard Group: 12.02% (57.6M주)
     
 - BlackRock: 9.48% (45.4M주)
-
-{{< adsense-infeed >}}
-
 - State Street Corporation: 5.67% (27.2M주)
 - Capital World Investors: 3.21% (15.4M주)
     

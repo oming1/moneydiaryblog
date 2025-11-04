@@ -178,9 +178,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 **매출 규모:** 2024년 기준 0.41M달러 (전년 대비 -97.40% 감소) 
 
 **순이익:** 108.82M달러 (2024년, 일회성 요인 포함 추정) 
-
-{{< adsense-infeed >}}
-
 **주요 성장 동력:** 방산 시장 진출, 트럼프 정부 방산 정책, 드론 시장 확대 
 
 **위험 요소:** 극도의 주가 변동성, 소규모 매출, 신규 사업 불확실성, 정부 정책 의존성
@@ -192,9 +189,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 ## 최근 3년 내 주요 이슈
 
 **2024년:** BladeRanger 독점 유통 계약 체결, 방산 자회사 설립, Star 26 지배 지분 인수, 1,000만 달러 자금 조달, Russell Microcap Index 편입 
-
-{{< adsense-infeed >}}
-
 **2023년:** NASDAQ 상장 폐지 위기 해결, 사업 구조 조정
 
 **2022년:** 역주식분할 실시, 사업 모델 재편
@@ -202,9 +196,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 ---
 
 ## 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 **내부자 지분:** 36.22% (높은 내부자 지분율) 
 
 **기관투자자:** 3.04% (낮은 기관 투자자 지분) 
@@ -223,9 +214,6 @@ Nukkleus Inc은 핀테크와 방산 기술 혁신을 결합한 독특한 비즈�
 - PPA - Invesco Aerospace & Defense ETF [PPA](/industry-study/ppa/)
 
 **소형주 ETF:**
-
-{{< adsense-infeed >}}
-
 - IWC - iShares Russell Microcap ETF IWC
 - VTI - Vanguard Total Stock Market ETF VTI
 - VXF - Vanguard Extended Market ETF VXF

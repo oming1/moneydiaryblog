@@ -25,6 +25,10 @@ NIO는 스마트 전기차를 설계, 개발, 제조 및 판매하는 [중국](/
 - **전방산업 (Forward Industries)**:
     - **자동차 판매업체**: NIO의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594.SZ)
     - **충전 인프라 제공업체**: NIO의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
+#### 전방/후방산업 (Forward/Backward Industries)
+- **전방산업 (Forward Industries)**:
+    - **자동차 판매업체**: NIO의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국, 002594.SZ)
+    - **충전 인프라 제공업체**: NIO의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
 - **후방산업 (Backward Industries)**:
     - **배터리 제조업체**: NIO의 전기차에 필요한 배터리를 제공합니다. 주요 기업: [CATL](/company-analysis/catl/) (중국,300750.SZ), [LG화학](/industry-study/lg화학/) (한국, 051910.KS)
     - **반도체 제조업체**: NIO의 전기차에 필요한 반도체를 제공합니다. 주요 기업: NVIDIA (미국, [NVDA](/company-analysis/nvda/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/))
@@ -36,17 +40,11 @@ NIO는 스마트 전기차를 설계, 개발, 제조 및 판매하는 [중국](/
 - **서비스 및 유지보수**: 전기차의 서비스 및 유지보수를 제공합니다. 주요 기업: NIO (중국, [NIO](/company-analysis/nio/)), Tesla (미국, [TSLA](/company-analysis/tsla/))
 
 #### 주요제품 (Key Products)
-
-{{< adsense-infeed >}}
-
 - **ES8**: 프리미엄 전기 SUV
 - **ES6**: 중형 전기 SUV
 - **EC6**: 쿠페형 전기 SUV
 - **ET7**: 프리미엄 전기 세단
 - **ET5**: 중형 전기 세단
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가 (Major Sales Countries)
 
 NIO의 주요 판매국가는 중국입니다. 최근 몇 년 동안 유럽 시장으로도 확장하고 있으며, 독일, 노르웨이, 네덜란드 등에서 판매를 시작했습니다.

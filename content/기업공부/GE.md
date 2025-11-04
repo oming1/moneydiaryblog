@@ -22,15 +22,15 @@ weight: 369
 GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에서 사업을 영위합니다. 주요 사업 부문으로는 GE Aerospace(항공), GE Vernova (에너지), GE HealthCare([헬스케어](/industry-study/2산업헬스케어/)) 등이 있습니다.
 
 ### 전방/후방산업
+GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에서 사업을 영위합니다. 주요 사업 부문으로는 GE Aerospace(항공), GE Vernova (에너지), GE HealthCare([헬스케어](/industry-study/2산업헬스케어/)) 등이 있습니다.
+
+### 전방/후방산업
 - **전방산업:** 항공, 에너지, 헬스케어
     - **핵심 산업:** 항공기 제조, 전력 생산, 의료 서비스
     - **핵심 기업:** Boeing (미국, [BA](/company-analysis/ba/)), Siemens (독일, [SIE](/company-analysis/sie/)), Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))
 - **후방산업:** 전자 부품 제조, 연구 개발
     - **핵심 산업:** 전자 부품 생산, 기술 연구
     - **핵심 기업:** Intel (미국, [INTC](/company-analysis/intc/)), IBM (미국, [IBM](/company-analysis/ibm/))
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 
 - **부품 제조:** 전자 부품 및 기계 부품 제조
@@ -41,9 +41,6 @@ GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에�
     - **대표 회사:** DHL (독일, 비상장), FedEx (미국, [FDX](/company-analysis/fdx/))
 - **판매 및 서비스:** 최종 소비자에게 제품 판매 및 서비스 제공
     - **대표 회사:** GE HealthCare (미국, [GE](/company-analysis/ge/)), Philips (네덜란드, [PHG](/company-analysis/phg/))
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **항공기 엔진:** GE9X, LEAP (항공기 엔진)

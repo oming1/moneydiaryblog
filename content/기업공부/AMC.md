@@ -31,23 +31,14 @@ AMC는 미국과 유럽에서 약 900개의 극장과 10,000개의 스크린을 
 - 영화 배급사: Universal Pictures, Paramount Pictures
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 소비자
 - 영화 관람객
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 콘텐츠 확보: 영화 제작사 및 배급사로부터 영화 라이선스 획득
 2. 극장 운영: AMC, AMC CLASSIC 등의 브랜드로 극장 체인 운영
 3. 부가 서비스: 식음료 판매, 프리미엄 좌석 제공
 4. 마케팅 및 고객 관리: 충성도 프로그램, 모바일 앱 운영
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - 영화 상영 서비스
 - 프리미엄 좌석 (Signature power-recliner seats)

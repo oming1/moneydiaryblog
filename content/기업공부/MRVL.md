@@ -26,9 +26,6 @@ Marvell Technology, Inc.는 데이터 인프라 반도체 솔루션을 제공하
 
 - 데이터 센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
 - 통신사: AT&T (US, [T](/company-analysis/t/)), Verizon (US, [VZ](/company-analysis/vz/))
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 
 - 반도체 제조업체: Taiwan Semiconductor Manufacturing Company (TW, [TSM](/company-analysis/tsm/)), GlobalFoundries (US, [GFS](/company-analysis/gfs/))
@@ -46,13 +43,7 @@ Marvell Technology, Inc.는 데이터 인프라 반도체 솔루션을 제공하
 - 일본
 - 한국
 - 대만
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Broadcom (US, [AVGO](/company-analysis/avgo/)):** 반도체 솔루션 (시장 점유율 15%)
 - **Intel (US, [INTC](/company-analysis/intc/)):** 반도체 솔루션 (시장 점유율 10%)
 - **NVIDIA (US, [NVDA](/company-analysis/nvda/)):** 반도체 솔루션 (시장 점유율 8%)

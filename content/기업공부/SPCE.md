@@ -22,9 +22,6 @@ weight: 818
 Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 제공하는 회사입니다. 이 회사는 우주선 설계, 제조, 지상 및 비행 테스트, 우주 비행 운영, 비행 후 유지보수 등을 수행합니다
 
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **우주 관광**: 민간인을 대상으로 한 우주 관광 서비스. 주요 기업: [Blue Origin](/company-analysis/blue-origin/)(미국), [SpaceX](/company-analysis/spacex/) (미국).
     - **우주 연구 및 실험**: 연구 기관 및 대학을 대상으로 한 우주 실험 서비스. 주요 기업: NASA (미국), ESA (유럽우주국).
@@ -32,9 +29,6 @@ Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 �
 - **후방산업**:
     - **로켓 엔진 제조**: 로켓 엔진을 설계하고 제조하는 산업. 주요 기업: Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)), Rocket Lab USA (미국, [RKLB](/company-analysis/rklb/)).
     - **우주선 제조**: 우주선을 설계하고 제조하는 산업. 주요 기업: Lockheed Martin (미국, [LMT](/company-analysis/lmt/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/)).
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 
 - **연구 및 개발**: 우주선 및 관련 기술의 연구 개발. 대표 기업: Virgin Galactic (미국, [SPCE](/company-analysis/spce/)), SpaceX (미국).
@@ -48,9 +42,6 @@ Virgin Galactic Holdings, Inc.는 우주 관광 및 우주 비행 서비스를 �
 - **VSS Enterprise**: 초기 테스트 및 개발을 위한 우주선.
 
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Virgin Galactic은 주로 미국 내에서 우주 관광 서비스를 제공하고 있으며, 주요 시장은 미국입니다
 ### 경쟁업체
 

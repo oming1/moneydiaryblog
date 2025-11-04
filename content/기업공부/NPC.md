@@ -20,6 +20,7 @@ weight: 627
 
 **산업 (Industry):** 알루미늄 제품 (Aluminum Products)
 ### 영위사업
+### 영위사업
 NPC는 알루미늄 압출 및 가공 제품을 제조하는 회사입니다. 주요 제품으로는 알루미늄 프로파일, 알루미늄 판재, 알루미늄 코일 등이 있으며, 건축, 자동차, 전자, 항공 등 다양한 산업에 사용됩니다
 
 ### 전방/후방산업
@@ -28,9 +29,6 @@ NPC는 알루미늄 압출 및 가공 제품을 제조하는 회사입니다. �
 
 - 건축업체: Skanska (SE, SKA-B), Vinci (FR, [DG](/company-analysis/dg/))
 - 자동차 제조업체: Toyota (JP, 7203), Ford (US, [F](/company-analysis/f/))
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 
 - 원료 공급업체: Rio Tinto (AU, [RIO](/company-analysis/rio/)), Alcoa (US, [AA](/company-analysis/aa/))
@@ -48,9 +46,6 @@ NPC는 알루미늄 압출 및 가공 제품을 제조하는 회사입니다. �
 - 중국
 - 미국
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Novelis (US, NVL):** 알루미늄 제품 (시장 점유율 15%)
 - **Hydro (NO, NHY):** 알루미늄 제품 (시장 점유율 10%)
 - **Alcoa (US, [AA](/company-analysis/aa/)):** 알루미늄 제품 (시장 점유율 8%)

@@ -19,15 +19,9 @@ weight: 283
 산업: 특수 소매(Specialty Retail)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서리를 판매하는 미국 최대의 스포츠 용품 소매업체입니다.
 
 ## 주요제품 및 서비스
-
-{{< adsense-infeed >}}
-
 - 스포츠 용품
 - 운동화 및 스포츠웨어
 - 아웃도어 용품
@@ -54,6 +48,8 @@ Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서
 - Foot Locker
 
 ## 산업 내 글로벌 시장 점유율
+미국 내 최대 스포츠 용품 소매업체입니다.
+## 최근 주요 이슈
 미국 내 최대 스포츠 용품 소매업체입니다.
 ## 최근 주요 이슈
 - 2023년 2월: Moosejaw을 Walmart로부터 인수

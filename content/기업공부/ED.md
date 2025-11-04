@@ -22,6 +22,7 @@ weight: 305
 
 Consolidated Edison(Con Edison 또는 ConEd)은 전기, [천연가스](/industry-study/천연가스/), 증기 유틸리티 서비스를 제공하는 에너지 기업입니다. 주요 사업으로는 전기 및 가스 유통, 증기 서비스, 에너지 관련 제품 및 서비스 제공 등이 있습니다.
 ## 전방/후방산업
+## 전방/후방산업
 ## 후방산업
 
 - 에너지 생산: 발전소, 천연가스 생산업체
@@ -34,9 +35,6 @@ Consolidated Edison(Con Edison 또는 ConEd)은 전기, [천연가스](/industry
 - 도매 전력 구매자 (지방자치단체, 전력 협동조합 등)
 
 ## 주요제품 및 서비스
-
-{{< adsense-infeed >}}
-
 - 전기 유통
 - 천연가스 유통
 - 증기 서비스 (맨해튼 지역)
@@ -53,7 +51,4 @@ Consolidated Edison(Con Edison 또는 ConEd)은 전기, [천연가스](/industry
 - Southern Company(US, [SO](/company-analysis/so/))
 - PG&E Corporation(US, [PCG](/company-analysis/pcg/))
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Consolidated Edison은 미국 내 최대 투자자 소유 에너지 기업 중 하나로, 2023년 기준 약 150억 달러의 연간 매출과 663억 달러의 자산을 보유하고 있습니다.

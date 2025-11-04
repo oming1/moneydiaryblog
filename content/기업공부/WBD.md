@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WBD"
 date: 2024-09-13T10:26:04+09:00
 lastmod: 2025-11-03T21:50:36+09:00
@@ -25,6 +25,10 @@ weight: 954
 - **Networks**: 국내 및 국제 텔레비전 네트워크 운영
 - **Direct-to-Consumer (DTC)**: 프리미엄 유료 TV 및 스트리밍 서비스 제공
 #### 전방/후방산업
+- **Studio**: 극장 개봉을 위한 장편 영화 제작 및 개봉, 텔레비전 프로그램 제작 및 라이선스
+- **Networks**: 국내 및 국제 텔레비전 네트워크 운영
+- **Direct-to-Consumer (DTC)**: 프리미엄 유료 TV 및 스트리밍 서비스 제공
+#### 전방/후방산업
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 콘텐츠 제작 및 배급
     - **핵심 기업**: Netflix (미국, [NFLX](/company-analysis/nflx/)), Disney (미국, [DIS](/company-analysis/dis/))
@@ -33,9 +37,6 @@ weight: 954
     - **핵심 기업**: Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/)), Hulu (미국, [DIS](/company-analysis/dis/))
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **콘텐츠 제작 (Content Creation)**:
     - **설명**: 영화, 텔레비전 프로그램, 게임 등 다양한 콘텐츠 제작
     - **대표회사**: Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/)), Disney (미국, [DIS](/company-analysis/dis/))
@@ -45,9 +46,6 @@ weight: 954
 - **스트리밍 서비스 (Streaming Services)**:
     - **설명**: 스트리밍 플랫폼을 통한 콘텐츠 제공
     - **대표회사**: Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/)), Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **HBO Max**: 프리미엄 스트리밍 서비스

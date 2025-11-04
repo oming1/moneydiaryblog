@@ -46,9 +46,6 @@ BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반�
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Goldman Sachs(US, [GS](/industry-study/gs/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 데이터 저장: Seagate Technology(US, [STX](/company-analysis/stx/)), Western Digital(US, [WDC](/company-analysis/wdc/))
@@ -77,9 +74,6 @@ BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반�
 - Alteryx(US, AYX): 데이터 분석 및 과학 플랫폼
 - Databricks(비상장): 통합 데이터 및 AI 플랫폼
 - Cloudera(비상장): 엔터프라이즈 데이터 클라우드 플랫폼
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 BigBear.ai는 신생 기업으로, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 기준 정부 계약 AI 솔루션 시장에서 약 2-3%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 국방 및 정보 분야에서 강세를 나타내고 있습니다.

@@ -25,9 +25,6 @@ weight: 2
 
 ---
 ## 주요 성장 품목
-
-{{< adsense-infeed >}}
-
 1. **Nintendo Switch 2**:
     - 신제품 출시로 게임 부문 매출 급증.
     - 관련 액세서리(헤드셋, 컨트롤러 등)와 함께 높은 수요를 기록.
@@ -40,9 +37,6 @@ weight: 2
 
 ---
 ## 전략적 이니셔티브
-
-{{< adsense-infeed >}}
-
 - **[Best Buy Marketplace](/industry-study/best-buy-marketplace/)**:
     - 온라인 제품 수 6배 확대.
     - 새로운 카테고리(가구, 스포츠 용품, 계절 장식 등) 추가.

@@ -26,9 +26,6 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 우주 탐사, 위성 통신, 지구 관측
     - 역할: 우주 인프라 및 기술 솔루션 제공
     - 주요 기업: NASA, SpaceX (미국, 비상장), Blue Origin (미국, 비상장)
@@ -50,9 +47,6 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
     - 대표 기업: Relativity Space (미국, 비상장), Velo3D (미국, VLD)
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - 태양 전지 어레이 시스템 (ROSA)
 - 우주용 3D 프린터
 - 위성 부품 및 서브시스템
@@ -62,9 +56,6 @@ Redwire는 우주 인프라 기술 및 솔루션을 제공하는 기업입니다
 Redwire의 주요 고객은 미국 정부 기관(NASA, 국방부 등)과 상업 우주 기업들입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)) - 위성 및 우주 시스템
 - Rocket Lab (미국, [RKLB](/company-analysis/rklb/)) - 소형 발사체 및 위성 시스템
 - Momentus (미국, MNTS) - 우주 인프라 및 운송 서비스
@@ -72,9 +63,6 @@ Redwire의 주요 고객은 미국 정부 기관(NASA, 국방부 등)과 상업 
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 없으나, Redwire는 우주 인프라 기술 분야에서 빠르게 성장하고 있는 기업 중 하나입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Boom Supersonic의 Symphony 엔진 설계팀으로 선정 (2024년)

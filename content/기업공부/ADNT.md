@@ -37,17 +37,11 @@ Adient plc(NYSE: ADNT)는 세계 최대의 자동차 시트 제조업체로, 자
 8. 맞춤형 설계 능력: 다양한 차종과 브랜드에 맞는 맞춤형 시트 및 인테리어 솔루션 제공
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 자동차 제조: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/)), Volkswagen(DE, VOW3)
 - 전기차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), NIO(CN, [NIO](/company-analysis/nio/))
 - 상용차 제조: Daimler Truck(DE, DTG), Volvo Group(SE, VOLV-B)
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 원자재 공급: BASF(DE, BAS), DuPont(US, [DD](/company-analysis/dd/))
@@ -87,12 +81,10 @@ Adient plc(NYSE: ADNT)는 세계 최대의 자동차 시트 제조업체로, 자
 - Magna International(CA, [MGA](/company-analysis/mga/)): 다양한 자동차 부품 및 시스템 제조
 - Toyota Boshoku(JP, 3116): 자동차 시트 및 인테리어 부품 제조
 - Grupo Antolin(ES): 자동차 인테리어 솔루션 제공 (비상장)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Adient는 2024년 기준 글로벌 자동차 시트 시장에서 약 33%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 북미 및 유럽 시장에서 강세를 보이고 있습니다.
+## 최근 3년 내 주요 이슈
 ## 최근 3년 내 주요 이슈
 - 전기차 전용 시트 플랫폼 'EV Plus' 출시 (2024년)
 - 자율주행 차량용 회전식 시트 'Revolve' 개발 완료 (2023년)

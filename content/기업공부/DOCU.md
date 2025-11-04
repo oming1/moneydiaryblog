@@ -49,16 +49,11 @@ weight: 287
 - **DocuSign eSignature:** 전자 서명 솔루션 (계약 체결 시 사용)
 - **DocuSign CLM:** 계약 수명 주기 관리 (계약 관리 시 사용)
 - **DocuSign Gen for Salesforce:** Salesforce 내 계약 생성 도구 (영업 활동 시 사용)
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
+**경쟁업체**
 **경쟁업체**
 - **Adobe Sign (미국, [ADBE](/company-analysis/adbe/)):** 전자 서명 솔루션
 - **HelloSign (미국, DBX):** 전자 서명 솔루션

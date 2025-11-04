@@ -18,14 +18,12 @@ SoundHound AI, Inc.(SOUN)는 음성 인공지능(AI) 기술을 개발하는 기�
 ## 영위사업
 
 SoundHound AI, Inc.(NASDAQ: SOUN)는 2005년 설립된 음성 인공지능 기업으로, 기업들이 맞춤형 대화형 경험을 제공할 수 있도록 하는 음성 AI 플랫폼을 제공합니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 음성 AI 플랫폼: [자동차](/industry-study/자동차/), TV, IoT, 레스토랑, 고객 서비스 등 다양한 산업에 음성 기반 솔루션 제공
 2. 음악 인식 앱: SoundHound 앱을 통한 음악 검색 및 인식 서비스
 3. 자동차 인포테인먼트: 현대, 메르세데스-벤츠, 혼다 등과 파트너십을 통한 차량용 음성 인터페이스 제공
 4. AI 기반 제품: Smart Answering, Smart Ordering, Dynamic Interaction 등 AI 기반 고객 서비스 솔루션
 5. SoundHound Chat AI: 생성형 AI가 통합된 음성 비서 기술
+최근 1년 내 주요 이슈로는 White Castle, Jersey Mike's Subs 등과의 AI 주문 시스템 파트너십 체결, Allset 인수를 통한 레스토랑 주문 플랫폼 확장, 그리고 Amelia AI 인수를 통한 금융, 보험, 헬스케어 분야로의 진출 등이 있습니다.
 최근 1년 내 주요 이슈로는 White Castle, Jersey Mike's Subs 등과의 AI 주문 시스템 파트너십 체결, Allset 인수를 통한 레스토랑 주문 플랫폼 확장, 그리고 Amelia AI 인수를 통한 금융, 보험, 헬스케어 분야로의 진출 등이 있습니다.
 ## 핵심 경쟁력
 
@@ -59,9 +57,6 @@ SoundHound AI의 핵심 경쟁력은 다음과 같습니다:
 - Smart Answering: AI 기반 고객 응대 솔루션
 - Smart Ordering: 음성 기반 주문 시스템
 - SoundHound Chat AI: 생성형 AI 통합 음성 비서
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 - Hyundai(KR, 005380) - 차량용 음성 인터페이스
 - Mercedes-Benz(DE, MBG) - 차량용 음성 제어 시스템
@@ -83,9 +78,6 @@ SoundHound AI의 핵심 경쟁력은 다음과 같습니다:
 - Amazon(US, [AMZN](/company-analysis/amzn/)) - Alexa
 - Apple(US, [AAPL](/company-analysis/aapl/)) - Siri
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - Cortana
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 SoundHound AI의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 음성 AI 및 대화형 AI 시장에서 성장하고 있는 기업으로 인식되고 있습니다.
@@ -102,9 +94,6 @@ SoundHound AI의 정확한 글로벌 시장 점유율 데이터는 제공되지 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Global X Robotics & Artificial Intelligence ETF - BOTZ

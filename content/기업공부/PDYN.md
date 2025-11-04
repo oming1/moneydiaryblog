@@ -21,15 +21,9 @@ weight: 681
 산업: 소프트웨어
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Palladyne AI Corp.(NASDAQ: PDYN)는 로봇 및 무인 시스템을 위한 인공지능 소프트웨어를 개발하는 기업입니다. 주요 제품인 Palladyne AI/ML 소프트웨어 플랫폼은 [산업용 로봇](/industry-study/산업용-로봇/)과 [협동 로봇](/industry-study/협동-로봇/)(코봇)이 동적이고 복잡한 환경에서도 빠르게 자율 능력을 갖출 수 있도록 지원합니다.회사의 소프트웨어는 최소한의 로봇 훈련으로 정밀한 결과를 달성하도록 설계되었으며, 자동차, 항공, 건설, 국방, 제조, 물류 등 다양한 산업에 적용 가능합니다. 
 
 또한 전통적인 로봇 외에도 무인 항공기(UAV), 무인 지상 차량(UGV), 원격 조종 차량(ROV) 등에도 적용할 수 있습니다.최근 1년 내 주요 이슈로는 미 공군 연구소와의 드론 소프트웨어 계약 체결, Red Cat Holdings와의 파트너십 확대, 그리고 첫 번째 소형 드론 자율 추적 비행 성공 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
@@ -38,9 +32,6 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 3. 저전력, 고효율: 기존 솔루션 대비 낮은 전력 요구사항과 높은 효율성
 4. 다양한 적용 분야: 산업용 로봇부터 드론, 자율주행차량까지 폭넓은 응용 가능성
 5. 국방 분야 전문성: 미 공군 등 국방 기관과의 협력을 통한 군사용 AI 소프트웨어 개발 경험
-
-{{< adsense-infeed >}}
-
 이러한 경쟁력을 바탕으로 Palladyne AI는 빠르게 성장하는 AI 로보틱스 시장에서 선도적 위치를 확보하고 있습니다.
 
 ## 전방/후방산업
@@ -56,9 +47,6 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 센서 기술: Velodyne Lidar(US, VLDR), Luminar Technologies(US, [LAZR](/company-analysis/lazr/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Palladyne IQ: 산업용 로봇 AI 소프트웨어 플랫폼, 매출의 약 60% (2024년 기준)

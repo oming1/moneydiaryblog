@@ -19,27 +19,19 @@ NetApp, Inc.(NTAP)는 데이터 인프라 솔루션을 제공하는 미국 기�
 
 섹터: 정보기술(Information Technology)  
 산업: 컴퓨터 하드웨어(Computer Hardware)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라우드](/industry-study/2산업클라우드/) 운영(CloudOps) 솔루션을 제공합니다. 주요 제품으로는 올플래시 어레이, 하이브리드 클라우드 스토리지 시스템, 소프트웨어 정의 오브젝트 스토리지 플랫폼 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 후방산업
+- 반도체 제조업체
 - 반도체 제조업체
 ## 전방산업
 
 - 데이터 센터
 - 클라우드 서비스 제공업체
 - 엔터프라이즈 고객
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 연구개발: NetApp (자체 R&D)
@@ -54,9 +46,6 @@ NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라�
 - FAS Series (하이브리드 플래시)
 - StorageGRID (오브젝트 스토리지)
 - FlexPod (컨버지드 인프라)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 전 세계 150개 이상 국가

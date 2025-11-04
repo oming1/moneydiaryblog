@@ -22,9 +22,6 @@ weight: 862
 산업: 제약(Pharmaceuticals)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Teva Pharmaceutical Industries Ltd.는 제네릭 및 특수 의약품을 발견, 개발, 제조 및 상용화하는 글로벌 제약 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 제네릭 의약품: 캡슐, 정제, 주사제, 흡입제, 액체, 크림 등 다양한 형태로 제공
@@ -65,13 +62,7 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 3. Sanofi(FR, SNY)
 4. GlaxoSmithKline(UK, [GSK](/company-analysis/gsk/))
 5. Mylan(US, [MYL](/company-analysis/myl/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 점유율을 보유하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈

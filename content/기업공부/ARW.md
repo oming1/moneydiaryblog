@@ -28,9 +28,6 @@ Arrow Electronics는 전 세계 기업 및 산업 고객에게 전자 부품과 
 Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달하여 전 세계 고객에게 공급하고 있으며, 특히 사물인터넷(IoT), 인공지능(AI), 5G 등 신기술 분야에서의 성장에 주력하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/)), Texas Instruments (US, [TXN](/company-analysis/txn/))
     - 전자부품 제조: TE Connectivity (CH, TEL), Amphenol (US, APH)
@@ -46,9 +43,6 @@ Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달
 2. 유통: Arrow Electronics (주요 사업 영역)
 3. 솔루션 제공: Arrow Electronics (엔터프라이즈 컴퓨팅 솔루션)
 4. 고객: 다양한 전자제품 제조업체 및 기업 고객
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 반도체 (데이터 처리, 통신, 산업용)
@@ -59,13 +53,7 @@ Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달
 ## 주요 판매국가
 
 Arrow Electronics는 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아 태평양 지역에서 사업을 영위하고 있습니다. 구체적인 국가별 매출 비중은 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Avnet (US, [AVT](/company-analysis/avt/)) - 전자부품 유통
 2. WPG Holdings (TW, 3702) - 반도체 유통
 3. Future Electronics (비상장) - 전자부품 유통

@@ -47,9 +47,6 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 - 자동차 부품 제조업체
 - 센서 및 반도체 제조업체
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업체: Toyota(JP, 7203.T)
 - 운송 및 물류 기업: FedEx(US, [FDX](/company-analysis/fdx/))
 
@@ -79,9 +76,6 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Toyota 및 Denso와 자율주행 택시 개발 파트너십 체결 (2021)
 - Uber의 자율주행 부문 인수 및 4억 달러 투자 유치 (2020)
 - PACCAR와 자율주행 트럭 개발 파트너십 체결 (2021)

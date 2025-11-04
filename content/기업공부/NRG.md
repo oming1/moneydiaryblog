@@ -26,6 +26,9 @@ NRG Energy, Inc.(NYSE: NRG)는 미국의 주요 통합 전력 및 홈 서비스 
 발전 부문에서는 [천연가스](/industry-study/천연가스/), [석탄](/industry-study/석탄/), 원자력, 석유, 바이오매스, [풍력](/industry-study/풍력/), [태양광](/industry-study/태양광/) 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
 
 ## 핵심 경쟁력
+발전 부문에서는 [천연가스](/industry-study/천연가스/), [석탄](/industry-study/석탄/), 원자력, 석유, 바이오매스, [풍력](/industry-study/풍력/), [태양광](/industry-study/태양광/) 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
+
+## 핵심 경쟁력
 NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
 1. 통합 사업 모델: 발전에서 소매까지 수직 계열화된 구조로 안정적인 수익 창출이 가능합니다.
@@ -43,9 +46,6 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 - 스마트 홈: 일반 가정
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 발전 설비 제조: General Electric(US, [GE](/company-analysis/ge/)), Siemens Energy(DE, ENR)
 - 연료 공급: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 재생에너지 장비: First Solar(US, [FSLR](/company-analysis/fslr/)), Vestas Wind Systems(DK, VWS)
@@ -76,9 +76,6 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 미국, 캐나다
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - NextEra Energy(US, [NEE](/company-analysis/nee/)) - 재생에너지 발전
 - Duke Energy(US, [DUK](/company-analysis/duk/)) - 통합 전력 유틸리티
 - Southern Company(US, [SO](/company-analysis/so/)) - 전력 및 천연가스 유틸리티
@@ -103,9 +100,6 @@ NRG Energy는 2023년 기준 미국 전력 유틸리티 산업에서 약 5-6%의
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Utilities Select Sector SPDR Fund - XLU
 - iShares U.S. Utilities ETF - IDU
 - Vanguard Utilities ETF - VPU
@@ -113,7 +107,4 @@ NRG Energy는 2023년 기준 미국 전력 유틸리티 산업에서 약 5-6%의
 - Invesco S&P 500 Equal Weight Utilities ETF - RYU
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

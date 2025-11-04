@@ -25,9 +25,6 @@ Mosa Meat은 네덜란드에 본사를 둔 식품 기술 회사로, 배양육(cu
 	- 2013년 세계 최초로 연구실에서 버거를 만들었던 마스트리흐트 대학의 마크 포스트 교수와 식품 기술자 피터 베르스트라트가 2016년 창업한 네덜란드 배양육 기업
 	- 무혈청배지, 지지체, 배양기 모두 연구개발 중이며, 배양육을 식육과 유사하게 만들기 위해 노력 중
 	- 2021년 시리즈 B 85M$ 자금조달(2018년 시리즈 A 40M$ 밸류 추정)
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
 
 **전방산업:**
@@ -36,14 +33,8 @@ Mosa Meat은 네덜란드에 본사를 둔 식품 기술 회사로, 배양육(cu
 - 레스토랑 체인: McDonald’s (US, [MCD](/company-analysis/mcd/)), Burger King (US, QSR)
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - 원료 공급업체: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)), Merck KGaA (DE, [MRK](/company-analysis/mrk/))
 - 연구기관: Maastricht University, Wageningen University & Research
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **배양육:** 소 근육 세포에서 배양한 고기 (매출 비중: 2023년 기준 100%)

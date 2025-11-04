@@ -20,9 +20,6 @@ weight: 768
 ## 핵심 키워드
 
 #보수언론 #기독교미디어 #토크라디오 #보수방송 #종교방송 #정치라디오 #디지털미디어 #팟캐스트 #출판사업 #Townhall #CharlieKirk #DennisPrager #TrumpJr #보수콘텐츠 #기독교콘텐츠 #커뮤니케이션서비스 #방송 #정치미디어 #종교출판 #RedState
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 섹터 (Sector)
@@ -90,9 +87,6 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - 기독교 콘텐츠 제작사
 - 방송 장비 및 기술 제공업체
 - 위성 서비스 제공업체
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인
@@ -105,9 +99,6 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 - Eric Metaxas - 기독교 프로그래밍
 
 **방송 및 배급 단계**: 라디오 방송 및 디지털 플랫폼을 통한 콘텐츠 배급
-
-{{< adsense-infeed >}}
-
 - SiriusXM(US, [SIRI](/company-analysis/siri/)) - Family Talk 채널 프로그래밍 제공
 - Apple(US, [AAPL](/company-analysis/aapl/)) - Apple Podcasts 플랫폼 배급
 - Spotify(US, [SPOT](/company-analysis/spot/)) - 팟캐스트 배급
@@ -147,9 +138,6 @@ Salem Media Group의 핵심 경쟁력은 미국 내 [기독교 및 보수 성향
 ---
 
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 - 보수 성향 지역 광고주 - 지역 비즈니스, 로컬 서비스업
 - 기독교 관련 기업 - 종교 서적, 기독교 이벤트, 교회 관련 서비스
 - 정치 광고주 - 보수 정치인, 정치 단체, 선거 캠페인

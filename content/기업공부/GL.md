@@ -29,9 +29,6 @@ Globe Life Inc.는 생명보험, 연금, 보충 건강보험 상품을 제공하
     - 관련 기업: 보험 중개 회사, 금융 자문 회사
     
 - 후방산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업 및 역할: 재보험, 투자 서비스
     - 관련 기업: Reinsurance Group of America (US, RGA), BlackRock (US, [BLK](/company-analysis/blk/))
 
@@ -57,12 +54,10 @@ Globe Life Inc.는 생명보험, 연금, 보충 건강보험 상품을 제공하
 - Aflac (US, AFL) - 보충 보험 전문
 - Primerica (US, PRI) - 생명보험 및 금융 서비스
 - Torchmark Corporation (US, TMK) - 생명 및 건강 보험
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 구체적인 시장 점유율 데이터는 제공되지 않았지만, Globe Life는 미국 생명보험 시장에서 중요한 위치를 차지하고 있습니다.
+## 최근 3년 내 주요 이슈
 ## 최근 3년 내 주요 이슈
 - Torchmark Corporation에서 Globe Life Inc.로 회사명 변경 (2019)
 - COVID-19 팬데믹 대응 및 디지털 판매 채널 강화 (2020-2022)

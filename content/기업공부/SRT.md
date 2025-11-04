@@ -36,20 +36,15 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
     - **관련 기업:** Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)), Danaher (미국, [DHR](/company-analysis/dhr/))
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발 (R&D):**
     
     - **설명:** 새로운 바이오 의약품 및 치료법 개발
     - **대표회사:** Sartorius (독일, SRT3), Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))
       
 - **제조:**
-
-{{< adsense-infeed >}}
-
     - **설명:** 바이오프로세스 솔루션 및 실험실 제품 생산
     - **대표회사:** Sartorius (독일, SRT3), Danaher (미국, [DHR](/company-analysis/dhr/))
+- **유통:**
 - **유통:**
     - **설명:** 바이오프로세스 솔루션 및 실험실 제품을 도매업체 및 소매업체에 공급
     - **대표회사:** Sartorius (독일, SRT3), Agilent Technologies (미국, [A](/company-analysis/a/))
@@ -58,9 +53,6 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
     
     - **설명:** 바이오프로세스 솔루션 및 실험실 제품을 최종 소비자에게 판매
     - **대표회사:** Sartorius (독일, SRT3), Merck & Co. (미국, [MRK](/company-analysis/mrk/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **[바이오리액터](/industry-study/바이오리액터/) (Bioreactors)**
@@ -74,9 +66,6 @@ Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제�
 - **독일:** 주요 매출 국가
 - **중국:** 주요 매출 국가
 - **일본:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))**

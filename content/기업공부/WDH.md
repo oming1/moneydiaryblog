@@ -96,9 +96,6 @@ weight: 959
 ---
 
 ## 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (서비스 이용 고객):**
 
 - 개인 소비자: 건강보험, 생명보험 구매 고객
@@ -135,9 +132,6 @@ weight: 959
 ---
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 **온라인 보험 중개 서비스:** 건강보험, 생명보험 등 다양한 보험 상품 중개 (매출 비중 87%, 2025년 Q1 기준)
 
 **의료 크라우드펀딩 플랫폼:** 의료비 모금을 위한 크라우드펀딩 서비스 (퍼포먼스 서비스 포함)
@@ -293,9 +287,6 @@ weight: 959
 - Global X China Consumer ETF CHIQ - 중국 소비 관련 기업
 
 **섹터 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - Financial Select Sector SPDR Fund XLF - 금융 섹터 ETF
 - iShares MSCI China ETF MCHI - 중국 전체 시장 ETF
 - Invesco China Technology ETF CQQQ - 중국 기술 기업 ETF

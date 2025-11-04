@@ -30,9 +30,6 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
     주요 기업: Texas Instruments(US, [TXN](/company-analysis/txn/)), Analog Devices(US, [ADI](/company-analysis/adi/))
 - 소프트웨어 개발: 시스템 운영 및 데이터 분석 소프트웨어 제공  
     주요 기업: Microsoft(US, [MSFT](/company-analysis/msft/)), Palantir Technologies(US, [PLTR](/company-analysis/pltr/))
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 국방부 및 군대: 주요 고객으로 방위 시스템 구매
@@ -58,10 +55,10 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 ## 주요 판매국가
 
 미국이 주요 시장이며, 76%의 매출이 미국 정부와의 계약에서 발생합니다. 그 외 100개 이상의 국가에 제품과 서비스를 제공하고 있습니다.
+## 주요 판매국가
+
+미국이 주요 시장이며, 76%의 매출이 미국 정부와의 계약에서 발생합니다. 그 외 100개 이상의 국가에 제품과 서비스를 제공하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Lockheed Martin(US, [LMT](/company-analysis/lmt/)) (방위 시스템)
 - Northrop Grumman(US, [NOC](/company-analysis/noc/)) (항공우주 및 방위 시스템)
 - Raytheon Technologies(US, [RTX](/company-analysis/rtx/)) (방위 및 항공우주 기술)

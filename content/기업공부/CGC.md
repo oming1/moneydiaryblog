@@ -23,9 +23,6 @@ weight: 191
 Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 대마초 및 대마 제품 생산, 유통 기업입니다.
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 의료용 및 성인용 대마초 제품
 - CBD 오일 및 관련 제품
 - 대마 기반 음료 및 식품
@@ -40,9 +37,6 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 - Cronos Group(캐나다, CRON)
 
 ## 산업 내 위치
-
-{{< adsense-infeed >}}
-
 2019년 4월 기준 시가총액으로 세계 최대의 대마초 회사였으나, 이후 주가 하락을 겪었습니다.
 
 ## 최근 주요 이슈

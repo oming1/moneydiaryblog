@@ -51,18 +51,12 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 - **Hotels.com:** 숙박 예약 플랫폼
 - **Vrbo:** 대체 숙박 예약 플랫폼
 - **trivago:** 호텔 메타검색 플랫폼
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
 
 **경쟁업체**
-
-{{< adsense-infeed >}}
-
 - **Booking Holdings (미국, [BKNG](/company-analysis/bkng/)):** 종합 여행 예약 서비스
 - **TripAdvisor (미국, [TRIP](/company-analysis/trip/)):** 여행 리뷰 및 예약 서비스
 - **Airbnb (미국, [ABNB](/company-analysis/abnb/)):** 대체 숙박 예약 서비스
@@ -71,9 +65,6 @@ Expedia Group는 온라인 여행 예약 서비스를 제공하는 기업입니�
 **산업 내 글로벌 시장 점유율**
 
 - Expedia Group은 글로벌 온라인 여행 예약 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈**
 
 - **2022년:** Uber의 Expedia 인수 시도 (2022)

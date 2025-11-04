@@ -62,9 +62,6 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 - **수직 통합 니코틴 사업**: Fat Panda의 소매점, 온라인 플랫폼, 제조 시설을 아우르는 수직 통합된 사업 모델
 - **규제 시장 내 지위**: 캐나다 중부 지역에서 50% 이상의 시장 점유율을 가진 니코틴 베이핑 사업 운영
 - **상장 기업 지위**: NASDAQ 상장사로서의 유동성, 투명성 및 기관 투자자 접근성
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 7. 핵심 기술
@@ -133,9 +130,6 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 - DeFi 프로토콜: PancakeSwap(비상장), Venus Protocol(비상장) 등 바이낸스 체인 기반 DeFi 서비스
 
 **니코틴 사업 단계:**
-
-{{< adsense-infeed >}}
-
 - Fat Panda(캐나다, CEA 자회사): 전자담배 소매, 전자상거래, 제조 사업 운영
 - 33개 소매점: 마니토바, 온타리오, 서스캐처원 지역의 오프라인 유통망
 - 전국 전자상거래 플랫폼: 캐나다 전역 온라인 판매 채널
@@ -193,9 +187,6 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 ## 15. 경쟁업체 
 
 **경쟁사별 상세 정보:**
-
-{{< adsense-infeed >}}
-
 - MicroStrategy(US, [MSTR](/company-analysis/mstr/)) - 비트코인 중심 재무 전략 기업, 시장점유율 약 60%
 - Marathon Digital(US, [MARA](/company-analysis/mara/)) - 비트코인 채굴 및 보유 기업, 시장점유율 약 10%
 - Bitmine Immersion(US, BTMI) - 암호화폐 트레저리 기업, 시장점유율 약 5%
@@ -248,9 +239,6 @@ CEA Industries Inc는 최근 전략적 전환을 거친 기업으로, 원래는 
 - 2024년 12월: 전문 소매업체 인수 협상 발표, 전략적 방향 전환 시작
 - 2023년 8월: 전략적 대안 검토 개시 발표, 비즈니스 모델 재평가 시작
 - 2023년 4월: Surna Cultivation Technologies, 회사 역사상 최대 규모의 설계 계약 수주
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 19. 주요 주주 (지분율)

@@ -38,18 +38,12 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 
 - 반도체 제조업체: NVIDIA (US, [NVDA](/company-analysis/nvda/))
 - 전력 공급업체
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 하드웨어 제조: NVIDIA (US, [NVDA](/company-analysis/nvda/)), AMD (US, [AMD](/company-analysis/amd/))
 2. 인프라 구축: CleanSpark (US, [CLSK](/company-analysis/clsk/))
 3. 비트코인 채굴: CleanSpark (US, [CLSK](/company-analysis/clsk/))
 4. 거래 및 유통: Coinbase (US, [COIN](/company-analysis/coin/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 비트코인 채굴 서비스
@@ -57,9 +51,6 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 3. 에너지 관리 시스템 (과거 사업)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
@@ -73,9 +64,6 @@ CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 CleanSpark은 미국 내 주요 비트코인 채굴 기업 중 하나로 인식되고 있습니다.
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2024 회계연도 기록적인 실적 달성, 매출 3억 7900만 달러 기록 (2024년)
 2. GRIID Infrastructure Inc. 인수 완료, 채굴 용량 확대 (2024년)
 3. 해시레이트 33.5 EH/s 이상 달성, 37 EH/s 목표 설정 (2024년)

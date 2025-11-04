@@ -20,9 +20,6 @@ weight: 669
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주요 자산을 보유한 국제 에너지 기업입니다. 주요 사업 부문은 다음과 같습니다:
@@ -51,13 +48,7 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 탐사 및 생산: Occidental Petroleum (주요 사업 영역)
 2. 수집 및 처리: Occidental Petroleum (주요 사업 영역)
 3. 수송: Occidental Petroleum, Western Midstream(US, WES)

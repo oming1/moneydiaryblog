@@ -25,15 +25,9 @@ Campbell's Company(이전 Campbell Soup Company)는 미국의 식품 제조 기�
 2. 베이커리 제품 제조
 3. 음료 생산
 4. 스낵 제조
-
-{{< adsense-infeed >}}
-
 Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등의 브랜드를 보유하고 있습니다.
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. Campbell's 수프 (농축 수프, 즉석 수프 등)
 2. Pepperidge Farm 제품 (빵, 쿠키, 크래커)
 3. V8 채소 주스
@@ -43,6 +37,9 @@ Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등�
 7. Goldfish 크래커
 
 ## 주요 판매국가
+Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
+
+## 경쟁업체
 Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
 
 ## 경쟁업체

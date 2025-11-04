@@ -28,9 +28,6 @@ NVR은 미국의 주택 건설([부동산](/industry-study/2산업부동산/)) �
 - 건설자재 공급업체: 목재, 콘크리트 등 자재 공급
 - 가전제품 제조업체: 주택에 설치될 가전제품 공급
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 부동산 중개업: 주택 판매 지원
 - 모기지 금융: NVR 자체 모기지 서비스 제공
 
@@ -53,15 +50,13 @@ NVR은 미국의 주택 건설([부동산](/industry-study/2산업부동산/)) �
 미국 (주로 동부 및 중서부 지역)
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - D.R. Horton(US, [DHI](/company-analysis/dhi/)) (주택 건설)
 - Lennar Corporation(US, [LEN](/company-analysis/len/)) (주택 건설)
 - PulteGroup(US, [PHM](/company-analysis/phm/)) (주택 건설)
 - KB Home(US, [KBH](/company-analysis/kbh/)) (주택 건설)
 
 ## 산업 내 글로벌 시장 점유율
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, NVR은 미국 주요 주택 건설업체 중 하나로 평가받고 있습니다.
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, NVR은 미국 주요 주택 건설업체 중 하나로 평가받고 있습니다.
 ## 최근 3년 내 주요 이슈
 

@@ -45,18 +45,12 @@ weight: 626
     
     - **ServiceNow (미국, [NOW](/company-analysis/now/)):** IT 서비스 관리 플랫폼.
     - **IBM (미국, [IBM](/company-analysis/ibm/)):** IT 인프라 관리 솔루션.
-
-{{< adsense-infeed >}}
-
 **주요제품**
 
 - **Now Platform:** 디지털 워크플로우 자동화 플랫폼.
 - **IT Service Management (ITSM):** IT 서비스 관리 솔루션.
 - **IT Operations Management (ITOM):** IT 운영 관리 솔루션.
 - **Customer Service Management (CSM):** 고객 서비스 관리 솔루션.
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
 
 - **미국:** 주요 매출 국가.

@@ -27,24 +27,19 @@ weight: 171
 - **후방 산업:** 연구기관 및 CRO, 원료 의약품 공급업체
     - **핵심 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
 **주요 제품**
+**주요 제품**
 - **KORSUVA (디펠리케팔린) 주사제:** 만성 신장 질환(CKD) 환자의 중등도에서 중증 가려움증 치료 (2023년 기준 매출의 주요 부분)
 - **Oral difelikefalin:** 만성 가려움증 치료를 위한 경구용 약물 (임상 시험 중)
-
-{{< adsense-infeed >}}
-
 **주요 판매 국가**
 - **미국:** 주요 시장으로 전체 매출의 대부분을 차지
 - **일본:** Maruishi Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
 - **한국:** Chong Kun Dang Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
+- **미국:** 주요 시장으로 전체 매출의 대부분을 차지
+- **일본:** Maruishi Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
+- **한국:** Chong Kun Dang Pharmaceutical과의 라이선스 계약을 통해 개발 및 상업화 진행
 **경쟁 업체**
-
-{{< adsense-infeed >}}
-
 - **Pfizer (미국, [PFE](/company-analysis/pfe/)):** 다양한 치료제 포트폴리오
 - **Merck & Co. (미국, [MRK](/company-analysis/mrk/)):** 다양한 치료제 포트폴리오
 - **Regeneron Pharmaceuticals (미국, [REGN](/company-analysis/regn/)):** 생명공학 치료제
-
-{{< adsense-infeed >}}
-
 **산업 내 글로벌 시장 점유율** 
 - Cara Therapeutics는 만성 가려움증 치료제 시장에서 중요한 위치를 차지하고 있으며, 특히 KORSUVA 주사제는 만성 신장 질환 환자들 사이에서 높은 수요를 보이고 있습니다. [2023년 기준, 글로벌 만성 가려움증 치료제 시장에서 약 5%의 점유율을 차지하고 있습니다](https://www.google.com/finance/quote/CARA:NASDAQ)[2](https://www.google.com/finance/quote/CARA:NASDAQ).

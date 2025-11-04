@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
+                "file": "content/기업공부/AMD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-04 미국 시황 정리"
+              "title": "AMD"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AMD",
+                "query": "{{< adsens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,18 +194,22 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "eda38c5f539216e8",
+  "active": "ba266883493ccdf8",
   "lastOpenFiles": [
+    "content/투자아이디어/아이디어 스케치/엔비디아의 어두운 그림자, 순환 투자로 매출을 부풀리고 있다는 의혹.md",
+    "content/투자아이디어/아이디어 스케치/미국 금리 하락과 모기지 금리 하락시 투자 아이디어.md",
+    "content/투자아이디어/아이디어 스케치/교과서적인 매크로 상황별 투자 아이디어.md",
+    "content/투자아이디어/아이디어 스케치/FCX의 구리 가격 변동으로 뭘 사볼까.md",
+    "content/Earning/ORCL/Oracle(ORCL) 2026 Q1 실적발표.md",
+    "content/Earning/PLTR/2025년 11월 3일, 팔란티어 주주 서한.md",
+    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-01 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/_index.md",
     "content/Daily시황정리/2025년/10월/2025-10-31 미국 시황 정리.md",
     "content/Daily시황정리/2025년/10월/2025-10-30 미국 시황 정리.md",
     "content/Daily시황정리/2025년/10월/2025-10-29 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
-    "content/Earning/ORCL/Oracle(ORCL) 2026 Q1 실적발표.md",
     "content/Earning/ORCL/_index.md",
     "content/Earning/PLTR/Palantir Technologies (PLTR) 2025년 3분기 실적 요약.md",
-    "content/Earning/PLTR/2025년 11월 3일, 팔란티어 주주 서한.md",
     "코드/통합 코드(광고+시간등)_11.04.md",
     "코드/광고추가 코드.md",
     "코드/코드_11.03.md",
@@ -217,11 +222,7 @@
     "content/Daily시황정리/과거/2024/09월/2024-09-27.md",
     "content/Daily시황정리/과거/2024/09월/2024-09-07.md",
     "content/Daily시황정리/과거/2024/09월/2024-09-05.md",
-    "company-analysis/amd.md",
-    "content/Daily시황정리/과거/2023/07월/2023-07-12.md",
     "company-analysis",
-    "content/Daily시황정리/과거/2023/06월/2023-06-28.md",
-    "content/Earning/AFRM/Affirm 2025 Q4 실적발표.md",
     "static/images/Pasted image 20251104064920.png",
     "static/images/Pasted image 20251104064818.png",
     "static/images/Pasted image 20251104064810.png",

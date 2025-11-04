@@ -23,22 +23,13 @@ weight: 949
 Verizon Communications Inc.는 미국의 다국적 통신 회사로, 무선 및 유선 통신 서비스, 인터넷 서비스, TV 서비스 및 기타 관련 서비스를 제공합니다. Verizon은 미국 내에서 가장 큰 무선 통신망을 운영하며, 2024년 3월 기준으로 약 1억 1천 4백만 명의 가입자를 보유하고 있습니다. 회사는 또한 Fios라는 브랜드로 고속 인터넷과 TV 서비스를 제공합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 모바일 및 고정 통신 서비스 소비
     - **관련 기업**: AT&T (US, [T](/company-analysis/t/)), T-Mobile US (US, [TMUS](/company-analysis/tmus/))
 - **후방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 네트워크 장비 제조 및 기술 제공
     - **관련 기업**: Cisco Systems (US, [CSCO](/company-analysis/csco/)), Nokia (FI, NOKIA.HE)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 - **네트워크 인프라 구축**: 무선 및 유선 네트워크 구축 및 유지 관리
@@ -54,9 +45,6 @@ Verizon Communications Inc.는 미국의 다국적 통신 회사로, 무선 및 
     
     - **대표 회사**: Sprint (US, 비상장) - 통신 서비스 제공
     - **대표 회사**: Charter Communications (US, [CHTR](/company-analysis/chtr/)) - 케이블 및 인터넷 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - **무선 통신 서비스** (모바일 요금제 및 데이터 플랜)

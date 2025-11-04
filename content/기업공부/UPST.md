@@ -30,16 +30,13 @@ weight: 916
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
 **밸류체인**
+- **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
+- **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
+**밸류체인**
 1. **데이터 수집 및 저장 (Data Collection and Storage):**
-
-{{< adsense-infeed >}}
-
     - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)):** 클라우드 스토리지 서비스.
     - **Microsoft Azure (미국, [MSFT](/company-analysis/msft/)):** 클라우드 인프라 제공.
 2. **데이터 분석 및 인텔리전스 (Data Analytics and Intelligence):**
-
-{{< adsense-infeed >}}
-
     - **Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)):** 데이터 분석 플랫폼.
     - **Snowflake (미국, [SNOW](/company-analysis/snow/)):** 데이터 웨어하우징 서비스.
 3. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
@@ -58,13 +55,7 @@ weight: 916
 - **Upstart Home Loans:** 주택 자산 대출 서비스.
 
 **주요 판매국가**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가.
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
 - **LendingClub (미국, LC):** 개인 대출 및 금융 서비스.
 - **SoFi (미국, [SOFI](/company-analysis/sofi/)):** 개인 대출, 주택 대출, 투자 서비스.

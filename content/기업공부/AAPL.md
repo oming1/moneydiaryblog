@@ -19,9 +19,6 @@ weight: 7
 
 섹터: 정보기술 (Information Technology)
 ## 산업 (Industry)
-
-{{< adsense-infeed >}}
-
 산업: 컴퓨터 하드웨어 및 소프트웨어 (Computer Hardware & Software)
 
 ---
@@ -174,9 +171,6 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 **iPhone:** 스마트폰 시장 프리미엄 세그먼트, **매출** 비중 약 51% (2024년 기준), 관련 경쟁사 [Samsung](/industry-study/samsung/), [GOOGL](/company-analysis/googl/)
 
 **Services:** App Store, iCloud, Apple Music 등 서비스, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 [GOOGL](/company-analysis/googl/), [MSFT](/company-analysis/msft/)
-
-{{< adsense-infeed >}}
-
 **Mac:** 데스크톱 및 노트북 컴퓨터, 매출 비중 약 8% (2024년 기준), 관련 경쟁사 [MSFT](/company-analysis/msft/), [DELL](/company-analysis/dell/)
 
 **iPad:** 태블릿 컴퓨터, 매출 비중 약 7% (2024년 기준), 관련 경쟁사 [Samsung](/industry-study/samsung/), [AMZN](/company-analysis/amzn/)
@@ -289,9 +283,6 @@ Apple은 세계 최대 시가총액 기업으로 프리미엄 기술 제품과 �
 AI 기술 도입을 통한 차세대 성장 동력 확보도 주목할 점입니다. 2024년 Apple Intelligence를 발표하며 iPhone, Mac, iPad에 AI 기능을 통합하기 시작했습니다. 이는 기기 교체 주기를 단축시키고 프리미엄 가격을 유지하는 데 기여할 것으로 예상됩니다.
 
 Vision Pro를 통한 AR/VR 시장 진출도 미래 성장 동력입니다. 비록 초기 단계이지만 Apple의 기술력과 생태계를 바탕으로 한 차세대 컴퓨팅 플랫폼으로의 가능성을 보여주고 있습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 최근 3년 내 주요 이슈

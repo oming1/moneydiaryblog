@@ -45,9 +45,6 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 - 천연가스 생산: EQT Corporation(US, [EQT](/company-analysis/eqt/)), Chesapeake Energy(US, CHK)
 - 파이프라인 장비: Caterpillar(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 천연가스 처리 기술: Honeywell(US, [HON](/company-analysis/hon/)), Schlumberger(US, [SLB](/company-analysis/slb/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 천연가스 생산: EQT Corporation(US, [EQT](/company-analysis/eqt/)), Chesapeake Energy(US, CHK)
@@ -92,6 +89,7 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - 저탄소 수소 운송을 위한 파이프라인 네트워크 개발 계획 발표 (2021)
 - COVID-19 팬데믹으로 인한 일시적 수요 감소 극복 및 실적 회복 (2021)
 ## 주요주주(지분율)
+## 주요주주(지분율)
 - Vanguard Group (9.8%)
 - BlackRock (8.7%)
 - State Street Corporation (5.1%)
@@ -99,9 +97,6 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - Geode Capital Management (1.9%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Energy Select Sector SPDR Fund - XLE
 - Alerian MLP ETF - AMLP
 - Global X MLP & Energy Infrastructure ETF - MLPX

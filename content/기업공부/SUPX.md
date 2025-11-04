@@ -128,17 +128,11 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 ---
 
 ### 11. 주요 제품
-
-{{< adsense-infeed >}}
-
 **고성능 AI 서버:**
 
 - 사용처: 기업용 AI 모델 학습 및 추론, 데이터 센터
 - 매출비중: 정확한 수치 미공개
 - 주요 경쟁사: Super Micro Computer(US, [SMCI](/company-analysis/smci/)), Dell Technologies(US, [DELL](/company-analysis/dell/)), HPE(US, [HPE](/company-analysis/hpe/))
-
-{{< adsense-infeed >}}
-
 **HVDC 전력 솔루션:**
 
 - 사용처: 데이터 센터 전력 인프라, 에너지 효율화
@@ -252,17 +246,11 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 - 기관 투자자: 정확한 지분율 미공개
 - 개인 투자자: 정확한 지분율 미공개
 - 경영진 및 임원: 정확한 지분율 미공개
-
-{{< adsense-infeed >}}
-
 ※ 정확한 주주 구성 정보는 제한적으로 공개됨
 
 ---
 
 ### 20. 관련 ETF
-
-{{< adsense-infeed >}}
-
 **직접 관련 ETF:**
 
 - WCLD - WisdomTree Cloud Computing Fund WCLD

@@ -26,18 +26,12 @@ Opendoor Technologies Inc.는 미국에서 주거용 부동산 거래를 위한 
 **전방산업:**
 - **부동산 중개업체:** Zillow (US, [Z](/company-analysis/z/)), Redfin (US, [RDFN](/company-analysis/rdfn/))
 - **부동산 개발업체:** Lennar Corporation (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/))
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - **건설 장비 제조업체:** Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301)
 
 ### 밸류체인
-
-{{< adsense-infeed >}}
-
 Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플랫폼 운영을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
 
 - **소프트웨어 개발:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 부동산 거래 플랫폼 개발

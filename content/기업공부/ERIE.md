@@ -25,9 +25,6 @@ weight: 322
 - **언더라이팅 서비스 (Underwriting Services):** 언더라이팅 및 정책 처리
 - **기타 서비스 (Other Services):** 고객 서비스, 행정 지원, 정보 기술 서비스
 **전방/후방산업 (Upstream Industries)**
-
-{{< adsense-infeed >}}
-
 - **전방산업 ( Industries):**
     - **핵심 산업:** 자동차, 주택, 상업 부동산
     - **핵심 기업:** State Farm (미국, 비상장), Allstate (미국, ALL)
@@ -35,9 +32,6 @@ weight: 322
 - **후방산업 (Downstream  Industries):**
     - **핵심 산업:** 재보험, 금융 기술 (Fintech)
     - **핵심 기업:** Swiss Re (스위스, SREN), Munich Re (독일, MUV2)
-
-{{< adsense-infeed >}}
-
 **밸류체인 (Value Chain)**
 
 - **내부 물류 (Inbound Logistics):** 보험 데이터 수집 및 분석
@@ -51,9 +45,6 @@ weight: 322
 - **서비스 (Service):** 고객 서비스 및 지원
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Deloitte (미국, 비상장)
 **주요제품 (Main Products)**
-
-{{< adsense-infeed >}}
-
 - **자동차 보험 (Auto Insurance):** 개인 및 상업용 차량 보험
 - **주택 보험 (Home Insurance):** 주택 소유자 및 임차인 보험
 - **사업 보험 (Business Insurance):** 상업용 재산 및 책임 보험

@@ -38,9 +38,6 @@ weight: 902
 - 난연제 제조업 (Albemarle Corporation (US, [ALB](/company-analysis/alb/)))
 
 ## 밸류체인:
-
-{{< adsense-infeed >}}
-
 1. 채굴: United States Antimony Corporation (US, [UAMY](/company-analysis/uamy/))
 2. 정제 및 가공: 5N Plus Inc. (캐나다, VNP.TO)
 3. 제품 제조: Campine NV (벨기에, CAMB.BR)
@@ -61,9 +58,6 @@ weight: 902
 - 
 
 ## 산업 내 글로벌 시장 점유율: 
-
-{{< adsense-infeed >}}
-
 정확한 수치는 확인되지 않으나, [미국 내 유일한 안티모니 생산업체]로 알려져 있음
 ## 최근 3년 내 주요 이슈:
 

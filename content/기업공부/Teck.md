@@ -24,9 +24,6 @@ weight: 858
 - **Industry**: Metals & Mining (금속 및 광업)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐나다 기반의 [비철금속](/industry-study/비철금속/)기업입니다. 주요 사업 영역은 제강용 [석탄](/industry-study/석탄/), [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [아연](/industry-study/아연/)의 채굴 및 생산이며, 에너지 부문에서도 활동하고 있습니다. 회사는 북미와 남미에서 광산을 운영하고 있으며, 전 세계 시장에 제품을 공급하고 있습니다.
 ## 전방/후방산업
 
@@ -56,9 +53,6 @@ Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐�
     - **대표 회사**: Nyrstar (BE, NYR.BR) - 아연 정제
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - **제강용 [석탄](/industry-study/석탄/)** (매출의 약 44%)
 - **[구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/)** (매출의 약 21%)
 - **[아연](/industry-study/아연/)** (매출의 약 34%)
@@ -71,6 +65,9 @@ Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐�
 Teck Resources는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 아시아 태평양 지역(특히 중국), 북미, 유럽입니다.
 
 ## 경쟁업체
+- **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 다양한 광물 자원 생산
+- **Rio Tinto (UK, [RIO](/company-analysis/rio/))** - 글로벌 광산 개발 및 생산
+- **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산
 - **BHP Group (AU, [BHP](/company-analysis/bhp/))** - 다양한 광물 자원 생산
 - **Rio Tinto (UK, [RIO](/company-analysis/rio/))** - 글로벌 광산 개발 및 생산
 - **Vale S.A. (BR, [Vale](/company-analysis/vale/))** - 철광석 및 니켈 생산

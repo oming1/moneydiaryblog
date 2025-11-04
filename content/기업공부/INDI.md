@@ -28,9 +28,6 @@ Indie Semiconductor, Inc.(NASDAQ: INDI)는 자동차 및 IoT 애플리케이션�
 ## 핵심 경쟁력
 
 Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 맞춤형 SoC 설계 능력: 고객 요구사항에 맞는 고성능, 저전력 SoC 솔루션 제공
 2. 자동차 전자 전문성: ADAS, 인포테인먼트, 전기화 등 자동차 산업의 핵심 트렌드에 부합하는 제품 라인업
 3. 다양한 기술 포트폴리오: RF, 아날로그, 혼합 신호, 전력 관리 등 다양한 기술 보유
@@ -42,9 +39,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), General Motors(US, [GM](/company-analysis/gm/))
 - 자동차 부품: Bosch(DE, Bosch), Continental(DE, CON)
 - 통신 장비: Ericsson(SE, ERIC), Nokia(FI, NOKIA)
@@ -78,9 +72,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - BMW(DE, [BMW](/company-analysis/bmw/)) - 차량 네트워킹 솔루션
 - Volkswagen(DE, VOW3) - 배터리 관리 시스템
 - Ford(US, [F](/company-analysis/f/)) - 무선 충전 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 미국, 독일, 중국, 일본, 한국
 
@@ -91,9 +82,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - STMicroelectronics(CH, [STM](/company-analysis/stm/)) - 자동차 및 산업용 반도체
 - Texas Instruments(US, [TXN](/company-analysis/txn/)) - 아날로그 및 임베디드 프로세서
 - ON Semiconductor(US, [ON](/company-analysis/on/)) - 전력 및 센서 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 빠르게 성장하고 있으며, 특히 ADAS 및 사용자 경험 솔루션 분야에서 주목받고 있습니다.
@@ -107,6 +95,10 @@ Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정
 - 주요 유럽 자동차 OEM으로부터 1억 달러 규모의 ADAS 플랫폼 계약 수주 (2022년)
 
 ## 주요주주(지분율)
+- The Vanguard Group (8.17%)
+- BlackRock (7.38%)
+- State Street Corporation (4.55%)
+## 관련 ETF
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)

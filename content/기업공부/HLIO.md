@@ -297,9 +297,6 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 ## 최근 3년 내 주요 이슈
 
 **2024년:**
-
-{{< adsense-infeed >}}
-
 - 2분기 실적 발표 후 주가 13.5% 급등 (8월 5일)
 - 멕시코 Balboa 신규 생산 시설 가동으로 전자 부문 생산능력 확대
 - 호주 유압 유체 파워 솔루션 사업 매각 계약 체결
@@ -362,9 +359,6 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 - IJH - iShares Core S&P Mid-Cap ETF IJH (중형주 ETF)
 - MDY - SPDR S&P MidCap 400 ETF Trust MDY
 - VO - Vanguard Mid-Cap ETF VO
-
-{{< adsense-infeed >}}
-
 **배당 관련 ETF:**
 
 - VYM - Vanguard High Dividend Yield ETF VYM (고배당 주식)

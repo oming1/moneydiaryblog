@@ -72,15 +72,9 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 - Chevron(US, [CVX](/company-analysis/cvx/)) - 지능형 문서 처리 시스템
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국 (매출의 약 60%), 유럽 (매출의 약 30%), 기타 국가 (매출의 약 10%)
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 프린터 및 PC
 - Canon(JP, 7751) - 카메라 및 프린터
 - Ricoh(JP, 7752) - 복합기 및 사무기기
@@ -94,9 +88,6 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 ## 산업 내 글로벌 시장 점유율
 
 Xerox는 글로벌 프린터 및 복합기 시장에서 약 10%의 점유율을 보유하고 있습니다 (2023년 기준). 최근 3년간 시장 점유율은 소폭 하락 추세를 보이고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Lexmark International 인수 계획 발표 (2024년 12월)

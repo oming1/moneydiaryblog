@@ -73,9 +73,6 @@ CCaaS(Contact Center as a Service)는 기업이 고객과의 상호작용을 관
 6. 다중 채널 통합 관리 능력
     
 7. 실시간 확장성 제공 능력
-
-{{< adsense-infeed >}}
-
 ## 관련 산업
 
 1. 클라우드 컴퓨팅
@@ -83,9 +80,6 @@ CCaaS(Contact Center as a Service)는 기업이 고객과의 상호작용을 관
     - Amazon Web Services(US - [AMZN](/company-analysis/amzn/)): 클라우드 인프라 및 서비스
         
     - Microsoft Azure(US - [MSFT](/company-analysis/msft/)): 클라우드 플랫폼 및 서비스
-
-{{< adsense-infeed >}}
-
 2. 고객관계관리(CRM)
     
     - Salesforce(US - [CRM](/company-analysis/crm/)): CRM 플랫폼 및 고객 관리 솔루션
@@ -320,9 +314,6 @@ CCaaS는 소프트웨어 서비스 산업으로, 전통적인 제조 공정은 �
     - 링크: [https://www.grandviewresearch.com/industry-analysis/contact-center-software-market](https://www.grandviewresearch.com/industry-analysis/contact-center-software-market)
         
 - 고객만족도 지수(CSAT)
-
-{{< adsense-infeed >}}
-
     - 지표 개념 설명: CCaaS 사용 기업의 고객 만족도를 측정하는 지수
         
     - 지표 오를 때 의미: CCaaS 솔루션의 효과성 증가, 고객 경험 개선

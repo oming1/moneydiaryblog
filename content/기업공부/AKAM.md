@@ -22,15 +22,13 @@ weight: 48
 
 Akamai는 콘텐츠 전송 네트워크(CDN) 및 클라우드 서비스 제공업체로, 고객이 자신의 콘텐츠를 더 빠르고 안전하게 전송할 수 있도록 돕습니다.
 ## 전방/후방 산업
+## 전방/후방 산업
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 디지털 콘텐츠 배포 및 온라인 서비스
     - **역할**: 최종 소비자에게 콘텐츠를 신속하고 안전하게 전달
     - **주요 기업**: Netflix (미국, [NFLX](/company-analysis/nflx/)), YouTube (구글 소속, 미국, [GOOGL](/company-analysis/googl/))
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 클라우드 컴퓨팅 및 데이터 센터 관리
     - **역할**: Akamai의 서비스 운영을 지원하는 인프라 제공
     - **주요 기업**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
@@ -45,23 +43,14 @@ Akamai는 콘텐츠 전송 네트워크(CDN) 및 클라우드 서비스 제공�
     
     - 고객의 웹사이트와 애플리케이션을 보호하는 보안 솔루션을 제공합니다.
     - 대표 기업: Fastly (미국, [FSLY](/company-analysis/fsly/)) - 경쟁 제품: CDN 및 보안 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - **CDN 서비스**:
     - Akamai의 핵심 제품으로, 웹사이트와 애플리케이션의 성능을 향상시키는 데 사용됩니다.
     - 매출 비중: 전체 매출의 약 70% 차지.
 - **클라우드 보안 솔루션**:
-
-{{< adsense-infeed >}}
-
     - 고객의 데이터 보호 및 사이버 공격 방어에 사용됩니다.
     - 매출 비중: 전체 매출의 약 20% 차지.
-
-{{< adsense-infeed >}}
-
 ## 주요 판매 국가
 
 Akamai는 미국을 포함하여 유럽(특히 독일과 영국), 아시아(일본과 한국)에서 주요 매출을 올리고 있습니다.

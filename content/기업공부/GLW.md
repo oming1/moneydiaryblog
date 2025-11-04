@@ -97,9 +97,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 **세라믹 허니컴 기술**: 자동차 배기가스 정화용 세라믹 필터 제조 기술
 
 **바이오리액터 기술**: 생명과학 연구 및 바이오의약품 생산용 특수 유리 용기 기술
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 제조 공정
@@ -132,9 +129,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - 화학원료: Dow Chemical(US, [DOW](/company-analysis/dow/)), BASF(DE, BASF) - 각종 화학첨가제
 - 에너지: 천연가스, 전력 공급업체 - 고온 용융 공정용
 - 제조장비: Applied Materials(US, [AMAT](/company-analysis/amat/)) - 반도체 및 디스플레이 제조장비
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인
@@ -340,9 +334,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - 디스플레이 시장 회복 및 가격 안정화 정책 추진
 
 **2022년:**
-
-{{< adsense-infeed >}}
-
 - 코로나19 회복 및 공급망 정상화
 - 자동차 전동화 트렌드 대응 특수소재 개발 가속
 - ESG 경영 강화 및 탄소중립 목표 설정
@@ -352,9 +343,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 ## 주요 주주 (지분율)
 
 **기관투자자 (2024년 3월 기준):**
-
-{{< adsense-infeed >}}
-
 - Vanguard Group: 11.25% (9,637만주)
 - Samsung Electronics: 8.29% (7,100만주, 전략적 파트너십)
 - BlackRock Inc.: 7.34% (6,284만주)

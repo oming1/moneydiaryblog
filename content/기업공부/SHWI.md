@@ -29,9 +29,6 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 화학 원료: 접착제, 코팅제 등 (예: 다우(US, [DOW](/company-analysis/dow/)))
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 건설 및 리모델링: 주거용 및 상업용 건물 시공 (예: DR 호튼(US, [DHI](/company-analysis/dhi/)), 레나(US, [LEN](/company-analysis/len/)))
 - 소매: 홈 임프루브먼트 및 바닥재 전문점 (예: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/)))
 
@@ -48,13 +45,7 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 강화마루
 - 타일 및 석재
 - 인조잔디
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - 미국 (주요 시장)
 - 호주
 - 캐나다
@@ -62,13 +53,14 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 기타 해외 시장
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - 모호크 인더스트리즈(US, [MHK](/company-analysis/mhk/)) (바닥재 전문 기업)
 - 인터페이스(US, [TILE](/company-analysis/tile/)) (상업용 카펫 타일)
 - 타켓트(프랑스, [TKTT](/company-analysis/tktt/)) (비닐 바닥재, 카펫)
 - 암스트롱 월드 인더스트리즈(US, [AWI](/company-analysis/awi/)) (천장재, 바닥재)
+## 산업 내 글로벌 시장 점유율
+
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Shaw Industries Group은 북미 바닥재 시장에서 주요 기업 중 하나로 평가받고 있습니다.
+## 최근 3년 내 주요 이슈
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Shaw Industries Group은 북미 바닥재 시장에서 주요 기업 중 하나로 평가받고 있습니다.

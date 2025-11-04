@@ -22,24 +22,20 @@ weight: 441
 Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐련형 전자담배](/industry-study/궐련형-전자담배/), [액상 전자담배](/industry-study/액상-전자담배/), [구강형 무연담배](/industry-study/구강형-무연담배/) 등의 제품을 제조하고 판매합니다.
 
 ### 전방산업 및 후방산업
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Upstream Industry)**:
     
     - **농업**: 담배 잎 재배 및 수확. 주요 기업: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
     - **원자재 공급**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급. 주요 기업: Schweitzer-Mauduit International (미국, [SWM](/company-analysis/swm/)), Glatfelter (미국, GLT).
 
 - **전방산업 (Downstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
     - **마케팅 및 광고**: 담배 제품의 마케팅 및 광고. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), [Japan Tobacco](/company-analysis/japan-tobacco/) International (일본, 2914).
 
 ### 밸류체인
 
 1. **농업 (Agriculture)**:
+    - **설명**: 담배 잎 재배 및 수확.
+    - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
     - **설명**: 담배 잎 재배 및 수확.
     - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
 1. **1차 가공 (Primary Processing)**:

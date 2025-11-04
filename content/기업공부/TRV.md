@@ -21,25 +21,16 @@ weight: 888
 #### 영위사업
 
 Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 서비스를 제공하는 글로벌 보험 회사입니다. 주요 사업 부문은 비즈니스 보험, 채권 및 전문 보험, 개인 보험으로 나뉩니다
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 
 - **전방산업:**
     
     - **기업 및 개인:** 보험 서비스 이용. 예: Amazon.com, Inc. (미국, [AMZN](/company-analysis/amzn/)), Apple Inc. (미국, [AAPL](/company-analysis/aapl/)).
     - **부동산 개발업체:** 건물 및 자산 보험. 예: CBRE Group, Inc. (미국, CBRE), Jones Lang LaSalle Incorporated (미국, JLL).
-
-{{< adsense-infeed >}}
-
 - **후방산업:**
     
     - **재보험사:** 보험 리스크 분산. 예: Munich Re (독일, MUV2), Swiss Re (스위스, SREN).
     - **IT 및 소프트웨어:** 보험 관리 시스템 제공. 예: IBM (미국, [IBM](/company-analysis/ibm/)), Oracle Corporation (미국, [ORCL](/company-analysis/orcl/)).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **보험 인수:**
     

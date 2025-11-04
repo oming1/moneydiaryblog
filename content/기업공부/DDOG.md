@@ -23,9 +23,6 @@ weight: 267
 ## 영위사업
 
 Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫폼을 제공하는 기업입니다.
-
-{{< adsense-infeed >}}
-
 2010년 설립된 이 회사는 인프라스트럭처 모니터링, 애플리케이션 성능 모니터링(APM), 로그 관리, 사용자 경험 모니터링, 보안 모니터링 등을 통합한 종합적인 관찰 가능성(observability) 플랫폼을 제공합니다.
 주요 제품으로는 인프라스트럭처 모니터링, APM, 로그 관리, 네트워크 성능 모니터링, 보안 모니터링, 실시간 사용자 모니터링(RUM) 등이 있습니다. 이러한 제품들은 Datadog 플랫폼을 통해 통합되어 제공됩니다.최근 1년 내 주요 이슈로는 AI 기반 모니터링 및 분석 기능 강화, 클라우드 보안 포지셔닝 확대, Cloudcraft 인수를 통한 클라우드 인프라 시각화 기능 강화 등이 있습니다.
 
@@ -38,9 +35,6 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 5. 사용 편의성: 직관적인 대시보드 및 쉬운 설정
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -81,9 +75,6 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 ## 산업 내 글로벌 시장 점유율
 
 Datadog은 2024년 기준 APM 및 인프라스트럭처 모니터링 시장에서 약 15%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Cloudcraft 인수로 클라우드 인프라 시각화 기능 강화 (2022년)
@@ -106,7 +97,4 @@ Datadog은 2024년 기준 APM 및 인프라스트럭처 모니터링 시장에�
 - Invesco Dynamic Software ETF - PSJ
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

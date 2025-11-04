@@ -42,21 +42,12 @@ Experian PLC는 아일랜드에 본사를 둔 글로벌 정보 서비스 회사�
 - 데이터 관리: Oracle (US, [ORCL](/company-analysis/orcl/))
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 비즈니스 데이터 및 의사결정 솔루션
 - 소비자 신용 보고서 및 점수
 - 마케팅 서비스
 - 사기 방지 및 신원 관리 도구
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Experian은 전 세계 30개국에서 사업을 운영하고 있습니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 
 - 글로벌 데이터베이스
@@ -64,9 +55,6 @@ Experian은 전 세계 30개국에서 사업을 운영하고 있습니다. 구�
 - 소프트웨어 플랫폼
 - 특허 포트폴리오
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Equifax (US, EFX) - 신용 정보 서비스
 - TransUnion (US, TRU) - 신용 정보 및 분석
 - FICO (US, FICO) - 신용 점수 및 분석 솔루션

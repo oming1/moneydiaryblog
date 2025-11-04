@@ -25,9 +25,6 @@ weight: 466
     - **핵심 기업**: Lennar Corporation (미국, [LEN](/company-analysis/len/)), D.R. Horton (미국, [DHI](/company-analysis/dhi/))
 - **후방산업**: 전자 부품 제조업, 전력 공급업체
     - **핵심 기업**: Schneider Electric (프랑스, [SU](/company-analysis/su/)), Siemens (독일, [SIE](/company-analysis/sie/))
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 
 - **제품 개발 및 제조**: HVAC 시스템, 보안 시스템, 화재 감지 시스템, 빌딩 자동화 솔루션을 개발 및 제조
@@ -35,9 +32,6 @@ weight: 466
 - **설치 및 유지보수**: 제품 설치 및 유지보수 서비스 제공
     - **대표 회사**: Carrier Global (미국, [CARR](/company-analysis/carr/)), Trane Technologies (미국, TT)
 **주요제품**:
-
-{{< adsense-infeed >}}
-
 - **HVAC 시스템**: 난방, 환기 및 공기 조화 시스템
 - **[보안](/industry-study/2산업보안/) 시스템**: 접근 제어, 침입 탐지, 비디오 감시 시스템
 - **화재 감지 시스템**: 센서, 제어 패널, 통합 시스템

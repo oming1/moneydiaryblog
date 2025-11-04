@@ -20,17 +20,8 @@ FuelCell Energy, Inc.(FCEL)는 청정 에너지 기술 분야의 글로벌 리�
 섹터: 산업재(Industrials)  
 산업: 전기 장비(Electrical Equipment)
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조, 설치, 운영 및 유지보수하는 통합 연료전지 기업입니다
-
-{{< adsense-infeed >}}
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 발전 및 열병합 시스템
 - 분산형 [수소](/industry-study/수소/) 생산 시스템
 - 탄소 포집 기술
@@ -38,9 +29,6 @@ FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조,
 
 ## 주요 판매국가
 미국, 한국, 독일, 스페인, 영국, 캐나다
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Bloom Energy([BE](/company-analysis/be/))

@@ -64,9 +64,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 2. 파이프라인 및 저장: 원유 및 석유제품 운송, 저장 인프라
     
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
-
-{{< adsense-infeed >}}
-
 3. 정유 설비 제조: 정유소 장비 및 기술 공급업체
     
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
@@ -86,6 +83,7 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     - Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
     
 4. 화학 제품 생산: 석유화학 제품 제조
+    - LyondellBasell(US, [LYB](/company-analysis/lyb/)), Dow Inc.(US, [DOW](/company-analysis/dow/))
     - LyondellBasell(US, [LYB](/company-analysis/lyb/)), Dow Inc.(US, [DOW](/company-analysis/dow/))
 5. 유통 및 마케팅: 주유소 네트워크, 직접 판매
     
@@ -130,9 +128,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 7. TotalEnergies(FR, TTE): 프랑스 기반 글로벌 에너지 기업
 8. PBF Energy(US, PBF): 미국 독립 정유회사
 9. HollyFrontier(US, HFC): 미국 중소형 정유회사
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Marathon Petroleum은 미국 정유 산업에서 약 15-20%의 시장 점유율을 보유하고 있는 것으로 추정됩니다 (2023년 기준).
@@ -151,9 +146,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 3. State Street Corporation (6.74%)
 4. Wellington Management Group LLP (4.91%)
 5. JPMorgan Chase & Co. (3.91%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. Energy Select Sector SPDR Fund - XLE

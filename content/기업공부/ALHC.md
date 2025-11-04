@@ -19,9 +19,6 @@ weight: 53
 - Industry: Managed Health Care(관리형 의료)
 
 ## 영위 사업
-
-{{< adsense-infeed >}}
-
 Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기업입니다. 주로 노인을 대상으로 맞춤형 건강 관리 서비스를 제공하며, 자체 개발한 기술 플랫폼인 AVA(Alignment's Virtual Application)를 통해 24/7 원격 의료 서비스를 제공합니다.
 
 ## 전방/후방 산업
@@ -39,6 +36,9 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 ## 밸류체인
 
 - Medicare Advantage 플랜 제공:
+## 밸류체인
+
+- Medicare Advantage 플랜 제공:
     - Alignment Healthcare는 다양한 Medicare Advantage 플랜을 직접 제공합니다.
     - 대표 기업: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Humana (미국, [HUM](/company-analysis/hum/))
     
@@ -46,9 +46,6 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
     
     - AVA 플랫폼을 통해 맞춤형 의료 서비스를 제공합니다.
     - 대표 기업: Teladoc Health (미국, TDOC), Amwell (미국, AMWL)
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - Medicare Advantage 플랜 (HMO, PPO, 특수 요구 플랜 등)
@@ -66,15 +63,9 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 - Centene Corp (미국, CNC) - 정부 후원 의료 프로그램
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 제공되지 않았지만, Alignment Healthcare는 빠르게 성장하는 Medicare Advantage 시장에서 주요 플레이어로 자리잡고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Instacart와 파트너십을 통해 만성 질환 노인을 위한 식품 배달 서비스 제공 시작 (2024년)
 - 2023년 3분기 실적 발표: 전년 대비 총 수익 26.7% 증가, Medicare Advantage 가입자 18% 증가 (2023년)
 - U.S. News & World Report의 2025년 '최고의 Medicare Advantage 보험사' 선정 (2024년)

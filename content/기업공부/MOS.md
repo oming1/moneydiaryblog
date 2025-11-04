@@ -32,9 +32,6 @@ The Mosaic Company(NYSE: MOS)는 미국 플로리다주 탬파에 본사를 둔 
 Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/industry-study/4국가중국/), [인도](/industry-study/4국가인도/), 파라과이에 광산, 생산 시설, 블렌딩 및 유통 시설을 보유하고 있으며, 페루의 바요바르 인산염 광산과 사우디아라비아의 인산염 광산 및 화학 복합체 개발을 위한 합작 투자를 포함하고 있습니다. 회사는 북미, 남미, 아시아 태평양 및 중동 지역의 농업 영양소 제조업체와 산업 고객을 대상으로 서비스를 제공합니다.
 
 2023년 기준으로 Mosaic은 136.9억 달러의 매출을 기록했으며, 영업 이익은 13.38억 달러, 순이익은 11.65억 달러, 총 자산은 230.3억 달러, 총 자본은 122.9억 달러입니다. 회사는 약 14,049명의 직원을 고용하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. **글로벌 리더십**: Mosaic은 세계 최대의 인산염 및 칼륨 비료 생산업체 중 하나로, 북미 시장에서 73%의 인산염과 40%의 칼륨 생산을 담당하고 있습니다.
@@ -55,9 +52,6 @@ Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/
 - 동물 사료 산업: 동물 사료 성분 사용 (Tyson Foods(US, [TSN](/company-analysis/tsn/)), Cargill(Cargill))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 광산 장비: 채굴 및 가공 장비 (Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301))
     
 - 화학 원료: 인산염 및 칼륨 생산에 필요한 원료 (BASF(DE, BAS), Dow Chemical(US, [DOW](/company-analysis/dow/)))
@@ -89,17 +83,11 @@ Mosaic은 미국, 캐나다, [브라질](/industry-study/브라질/), [중국](/
 ## 주요 고객
 
 Mosaic의 주요 고객은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. **대형 농업 기업**: John Deere(US, [DE](/company-analysis/de/)), Corteva(US, [CTVA](/company-analysis/ctva/))
     
 2. **중소형 농업 운영**: 다양한 농업인
     
 3. **동물 사료 제조업체**: Tyson Foods(US, [TSN](/company-analysis/tsn/)), Cargill(Cargill)
-
-{{< adsense-infeed >}}
-
 4. **산업 고객**: 물 연화제 및 제빙제 사용 기업
 
 ## 주요 판매국가

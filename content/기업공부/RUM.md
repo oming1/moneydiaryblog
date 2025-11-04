@@ -40,9 +40,6 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 5. 전략적 파트너십: 주요 미디어 기업들과의 제휴를 통한 콘텐츠 확보 및 유통 채널 다각화
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. Rumble Video: 비디오 공유 및 시청 플랫폼 (매출 비중: 약 60%, 2023년 기준)
 2. Rumble Streaming Market Place: 라이브 스트리밍 서비스 (매출 비중: 약 15%, 2023년 기준)
 3. Rumble Advertising Center: 광고 플랫폼 (매출 비중: 약 14%, 2023년 기준)
@@ -56,6 +53,7 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 4. 미디어 기업
 5. 정치인 및 정치 단체
 ## 주요 판매국가
+## 주요 판매국가
 미국을 중심으로 글로벌 서비스 제공
 
 ## 경쟁업체
@@ -65,13 +63,7 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 3. Meta Platforms Inc.(US, [META](/company-analysis/meta/))
 4. Twitter(X Corp., 비상장)
 5. Twitch(Amazon.com Inc. 자회사, US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 테더로부터 7억7500만 달러 투자 유치, 주가 81% 급등 (2024년 12월)
 2. 비트코인 매수 계획 발표 (2024년 11월)
 3. 나스닥 상장 (2022년 9월)
@@ -86,9 +78,6 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 4. BlackRock Inc.
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. VanEck Social Sentiment ETF - BUZZ
 2. Roundhill IO Digital Infrastructure ETF - BYTE
 3. Global X Social Media ETF - SOCL

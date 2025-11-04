@@ -19,9 +19,6 @@ weight: 800
 산업(Industry): 주택건설(Homebuilding)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Champion Homes, Inc.는 북미 최대의 공장제작 주택 생산업체중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 미국 공장제작 주택: 제조 및 소매 주택 사업
@@ -38,20 +35,15 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 주택 구매자 및 임대인
 - 다세대 주택 개발업자
 - 호스피탈리티 산업
+## 후방산업
 ## 후방산업
 - 건축 자재 공급업체: Masco Corporation (US, [MAS](/company-analysis/mas/))
 - 가구 및 가전제품 제조업체: Whirlpool Corporation (US, [WHR](/company-analysis/whr/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구 개발: Champion Homes (US, [SKY](/company-analysis/sky/)) (주택 설계 및 혁신)
 2. 원자재 조달: 건축 자재 공급업체
 3. 제조: Champion Homes (US, [SKY](/company-analysis/sky/)) (48개 제조 시설)
@@ -67,9 +59,6 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 5. SRI Homes 브랜드 주택 (서부 캐나다)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국과 서부 캐나다를 중심으로 사업을 영위하고 있습니다
 
 ## 경쟁업체

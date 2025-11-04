@@ -31,9 +31,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 비즈니스 모델은 채광부터 정제까지의 수직통합구조를 기반으로 하며, [자동차](/industry-study/자동차/) 산업의 배출가스 촉매제, [전기차 배터리](/industry-study/전기차-배터리/), [수소연료전지](/industry-study/수소연료전지/) 등 성장하는 친환경 에너지 시장에 핵심 원자재를 공급합니다. 2024년 총 매출은 ZAR 121억 8,300만으로, 고객과의 계약을 통한 매출이 ZAR 70억 6,800만을 차지했습니다.
 
 최근 주요 위험요소로는 PGM 가격 변동성, 운영비용 상승, 노동 분쟁, 지정학적 리스크 등이 있으며, 특히 미국 몬타나 운영부문의 구조조정으로 인한 생산량 감축이 단기적 과제로 작용하고 있습니다. 2025년 7월 22일 현재 주가는 $9.58로, 연초 대비 약 160% 상승하여 골드러시와 PGM 수요 증가에 힘입은 강세를 보이고 있습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 비즈니스 모델 (수익 모델)
@@ -125,9 +122,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - Sandvik(SE, SAND): 광산용 절삭공구 및 장비 (프리미엄 품질, 15% 시장점유율)
 
 **제조 및 조립 단계:**
-
-{{< adsense-infeed >}}
-
 - Sibanye Stillwater(ZA, [SBSW](/company-analysis/sbsw/)): 통합 PGM 및 금 생산, 정제 운영
 - Anglo American Platinum(ZA, [AMS](/company-analysis/ams/)): 남아프리카 PGM 생산 경쟁업체
 
@@ -173,9 +167,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - General Motors(US, [GM](/company-analysis/gm/)) - 배출가스 저감 시스템용 PGM
 - Toyota Motor(JP, [TM](/company-analysis/tm/)) - 하이브리드 차량용 촉매제
 - Stellantis(US, [STLA](/company-analysis/stla/)) - 디젤 엔진 촉매제용 백금
-
-{{< adsense-infeed >}}
-
 **촉매제 제조업체:**
 
 - Johnson Matthey(UK, JMAT) - PGM 기반 산업촉매제 (전략적 파트너)
@@ -229,9 +220,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 ## 산업 내 글로벌 시장 점유율
 
 **PGM 시장 점유율 추이:**
-
-{{< adsense-infeed >}}
-
 - 2024년: 23.5% (세계 3위)
 - 2023년: 22.8% (세계 3위)
 - 2022년: 21.9% (세계 3위)

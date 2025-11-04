@@ -35,16 +35,10 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
     - **연구 개발:** 신제품 개발 및 혁신. 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)).
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **설계 및 개발:** 반도체 제품 설계 및 개발
     - 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)).
 - **제조:** 반도체 칩 제조
     - 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (한국,005930).
-
-{{< adsense-infeed >}}
-
 - **테스트 및 패키징:** 반도체 제품 테스트 및 패키징
     - 주요 기업: ASE Technology (대만, ASX), Amkor Technology (미국, [AMKR](/company-analysis/amkr/)).
 - **유통 및 판매:** 반도체 제품 유통 및 판매
@@ -65,9 +59,6 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
 
 - **반도체:** Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)), Texas Instruments (미국, [TXN](/company-analysis/txn/)).
 - **자동차 반도체:** Infineon Technologies (독일, [IFX](/company-analysis/ifx/)), STMicroelectronics (스위스, [STM](/company-analysis/stm/)).
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
 
 - **반도체:** 글로벌 시장 점유율 약 5% (2023년 기준)

@@ -72,9 +72,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **고객 유형별 수익 구조:**
     - 글로벌 금속 제련소: 농축된 광물 판매.
     - 금속 트레이더: 스팟 및 장기 계약 판매.
-
-{{< adsense-infeed >}}
-
 - **지역별 매출 분포 (2024년 추정):**
     - 아시아 (주로 중국): 40% (구리 및 아연 수요).
     - 유럽: 30% (금, 은, 구리).
@@ -110,9 +107,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 채굴 및 가공 프로세스
-
-{{< adsense-infeed >}}
-
 1단계: **탐사:** 지질 조사, 시추를 통한 광물 자원 확인 및 매장량 평가.  
 
 2단계: **개발:** 광산 설계, 인허가 취득, 인프라(도로, 전력, 수자원) 구축, 채굴 장비 도입.  
@@ -252,16 +246,10 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - **COPX** - Global X Copper Miners ETF COPX (주요 구리 광산 기업 집중).
 - **PICK** - iShares MSCI Global Metals & Mining Producers ETF PICK (광범위한 금속 및 광산 생산 기업).
 
 **섹터 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - **XLB** - Materials Select Sector SPDR Fund XLB (재료 섹터 전반).
 - **VAW** - Vanguard Materials ETF VAW (재료 섹터 전반).
 - **GDX** - VanEck Gold Miners ETF GDX (금 광산 기업, Hudbay는 금도 생산).

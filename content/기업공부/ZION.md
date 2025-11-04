@@ -29,9 +29,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 1. **중소기업·상업 대출**: 운영자금, 장비, 건설 및 상업용 부동산 대출
     
 2. **예금 상품**: 기업·개인 대상 다양한 예금 계좌 및 현금 관리
-
-{{< adsense-infeed >}}
-
 3. **부동산 금융**: 주택, 건설, 상업용 부동산 프로젝트 파이낸싱
 4. **자산관리 및 신탁**: 투자 상품, 자산운용, 신탁 서비스
     
@@ -48,9 +45,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 3. **포트폴리오 다각화**: 상업·중소기업 대출, 부동산, 자산관리 등 다양한 상품군
     
 4. **리스크 관리**: 보수적 자본운용, 엄격한 심사 및 건전성 유지
-
-{{< adsense-infeed >}}
-
 5. **디지털 혁신**: 자체 모바일뱅킹, 온라인 계좌관리 등 첨단 서비스
 
 ## 전방/후방산업
@@ -68,9 +62,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 - **핀테크 솔루션**: Fiserv(US, FISV), Jack Henry & Associates(US, JKHY)
     
 - **IT인프라/데이터센터**: Cisco(US, [CSCO](/company-analysis/csco/)), Dell(US, [DELL](/company-analysis/dell/))
-
-{{< adsense-infeed >}}
-
 - **금융정보/신용평가**: Equifax(US, EFX), Experian(UK, [EXPN](/company-analysis/expn/))
 
 ## 밸류체인
@@ -121,9 +112,6 @@ Zions Bancorporation N.A.(NASDAQ: ZION)은 미국 유타주 솔트레이크시�
 ## 산업 내 글로벌 시장 점유율
 
 Zions Bancorp은 미국 내 지역 상업은행 시장에서 약 2~3% 점유율을 보유하고 있습니다. 유타/서부 지역특화 중소·상업은행 부문에서는 상위권입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. 2023년 미국 지역은행 위기, 예금 유출 및 신뢰도 회복 노력

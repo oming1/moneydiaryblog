@@ -21,9 +21,6 @@ weight: 465
 #### 영위사업 (Business Operations)
 
 JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해, 라틴 아메리카, 캐나다 및 유럽의 100개 이상의 목적지에 항공 운송 서비스를 제공합니다. 주요 서비스로는 [여객 운송](/industry-study/여객-운송/), [화물 운송](/industry-study/화물-운송/), 항공기 임대, [항공 운송](/industry-study/항공-운송/) 및 기타 관련 서비스가 포함됩니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업 (Forward/Backward Industries)
 - **전방산업 (Forward Industries)**:
     
@@ -41,9 +38,6 @@ JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해
 - **여객 및 화물 운송 서비스**: 여객 및 화물 운송 서비스를 제공합니다. 주요 기업: Delta Air Lines (미국, [DAL](/company-analysis/dal/)), American Airlines (미국, [AAL](/company-analysis/aal/))
 - **고객 서비스 및 지원**: 고객 서비스 및 지원을 담당합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), Accenture (미국, [ACN](/company-analysis/acn/))
 #### 주요제품 (Key Products)
-
-{{< adsense-infeed >}}
-
 - **여객 운송 서비스**: 미국 및 국제선 항공편을 통한 여객 운송 서비스
 - **화물 운송 서비스**: 항공 화물 운송 서비스
 - **항공기 임대 서비스**: 항공기 임대 및 관련 서비스

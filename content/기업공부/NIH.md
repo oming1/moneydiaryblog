@@ -57,9 +57,6 @@ NIH는 직접적인 수익을 창출하는 기업이 아니라 정부 예산을 
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 제약 산업: NIH 연구를 기반으로 한 신약 개발 (Pfizer(US, [PFE](/company-analysis/pfe/)), Merck(US, [MRK](/company-analysis/mrk/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)))
     
 - 생명공학: NIH 발견을 상업화하는 바이오텍 기업 (Amgen(US, [AMGN](/company-analysis/amgn/)), Gilead Sciences(US, [GILD](/company-analysis/gild/)), Moderna(US, [MRNA](/company-analysis/mrna/)))
@@ -137,9 +134,6 @@ NIH는 정부 기관이므로 직접적인 경쟁자는 없지만, 유사한 역
 1. Medical Research Council UK(Medical Research Council UK): 영국의 의학 연구 지원 기관
     
 2. European Research Council(European Research Council): EU의 연구 지원 기관
-
-{{< adsense-infeed >}}
-
 3. Japan Science and Technology Agency(Japan Science and Technology Agency): 일본의 과학기술 연구 지원 기관
     
 4. National Natural Science Foundation of China(National Natural Science Foundation of China): 중국의 과학 연구 지원 기관
@@ -162,9 +156,6 @@ NIH는 세계 최대의 생물의학 연구 자금 제공 기관으로, 2024년 
     
 2. 임무 선언문 변경 검토 시작 - 장애 감소 언급 제거 고려 (2025년)
 3. 연방 정부 지속 결의(Continuing Resolution)에 따라 2025년 9월 30일까지 약 $486억 달러 규모의 예산 유지 (2024년)
-
-{{< adsense-infeed >}}
-
 4. 암 연구를 위한 캔서 문샷(Cancer Moonshot) 이니셔티브에 $14억 달러 의무 리소스 배정 (2024년)
     
 5. 국립 암 연구소(NCI)에 $7.16억 달러 추가 할당 (2024년)

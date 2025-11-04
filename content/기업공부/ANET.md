@@ -25,9 +25,6 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 회사의 핵심 제품인 Extensible Operating System(EOS)은 모든 Arista 제품에 탑재되어 있으며, 개방형 프로그래밍 인터페이스를 제공하여 고객 맞춤형 네트워크 솔루션 구현을 가능하게 합니다. CloudVision 플랫폼은 네트워크 관리 및 자동화를 위한 종합적인 솔루션을 제공합니다.
 
 최근에는 AI/ML 워크로드를 위한 고성능 네트워킹 솔루션과 800G 이더넷 스위치 등 차세대 제품 개발에 주력하고 있습니다. 또한 엔터프라이즈 및 캠퍼스 네트워킹 시장 진출을 확대하여 사업 다각화를 추진하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 혁신적인 소프트웨어 기술: EOS를 통한 차별화된 네트워크 운영체제 제공
@@ -45,17 +42,16 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - 통신사업자: AT&T(US, [T](/company-analysis/t/)), Verizon(US, [VZ](/company-analysis/vz/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체 제조: Broadcom(US, [AVGO](/company-analysis/avgo/)), Intel(US, [INTC](/company-analysis/intc/))
 - 전자부품 제조: Flex(US, FLEX), Jabil(US, [JBL](/company-analysis/jbl/))
 - 소프트웨어 개발: Red Hat([IBM](/company-analysis/ibm/)), VMware([DELL](/company-analysis/dell/))
+## 주요제품
 ## 주요제품
 - 데이터센터 스위치: 7000 시리즈, 매출의 약 60% (2024년 기준)
 - 캠퍼스 네트워킹 솔루션: 720XP 시리즈, 매출의 약 15% (2024년 기준)
 - 네트워크 소프트웨어: EOS, CloudVision, 매출의 약 20% (2024년 기준)
 - 서비스 및 지원: 전문 서비스, 교육, 매출의 약 5% (2024년 기준)
+## 주요 판매국가
 ## 주요 판매국가
 미국, 캐나다, 영국, 독일, 일본, 호주, 인도, 중국
 
@@ -66,9 +62,6 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - Huawei Technologies(CN, Huawei): 종합 ICT 솔루션
 - Extreme Networks(US, EXTR): 엔터프라이즈 네트워킹 솔루션
 - Nokia(FI, NOKIA): 통신 인프라 및 네트워크 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Arista Networks는 2024년 기준 고속(100G 이상) 데이터센터 스위치 시장에서 약 35%의 점유율을 보유하고 있습니다. 이는 2022년의 30%에서 꾸준히 상승한 수치입니다. 전체 데이터센터 스위치 시장에서는 약 20%의 점유율로 Cisco에 이어 2위를 차지하고 있습니다.

@@ -66,14 +66,15 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
     
 2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, J) (인프라 설계 및 엔지니어링)
 3. **프로젝트 관리**: Fluor Corporation(US, [FLR](/company-analysis/flr/)) (프로젝트 관리 및 건설 감독)
+1. **프로젝트 기획 및 컨설팅**: AECOM(US, [ACM](/company-analysis/acm/)) (프로젝트 계획 및 컨설팅)
+    
+2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, J) (인프라 설계 및 엔지니어링)
+3. **프로젝트 관리**: Fluor Corporation(US, [FLR](/company-analysis/flr/)) (프로젝트 관리 및 건설 감독)
 4. **건설 및 시공**: Bechtel(US, BCT) (건설 및 시공)
     
 5. **자재 및 장비 공급**: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 장비), Vulcan Materials(US, [VMC](/company-analysis/vmc/)) (건설 자재)
     
 6. **기술 및 디지털 솔루션**: Autodesk(US, [ADSK](/company-analysis/adsk/)) (BIM 소프트웨어), Trimble(US, [TRMB](/company-analysis/trmb/)) (건설 기술)
-
-{{< adsense-infeed >}}
-
 7. **유지보수 및 운영**: AECOM(US, [ACM](/company-analysis/acm/)) (인프라 유지보수 및 운영)
 
 ## 주요제품
@@ -87,17 +88,11 @@ PAVE는 다음과 같은 주요 섹터와 산업에 투자합니다:
 3. **유틸리티**: 전력, 가스, 물 등의 공급 및 관리 (2024년 11월 기준 3.1%의 비중)
     
 4. **기술 및 디지털 인프라**: 5G, AI, 클라우드 컴퓨팅, 스마트 시티 솔루션 등 (2024년 11월 기준 2.1%의 비중)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 PAVE의 주요 고객은 다음과 같습니다:
 
 1. **개인 투자자**: 인프라 개발에 관심 있는 투자자
-
-{{< adsense-infeed >}}
-
 2. **기관 투자자**: 인프라 테마에 투자하는 펀드 및 기관
     
 3. **정부 및 공공 기관**: 인프라 프로젝트 자금 조달 및 관리
@@ -152,7 +147,4 @@ PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투�
 3. **SPDR S&P Global Infrastructure ETF - GII**
     
 4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - GRID**
-
-{{< adsense-infeed >}}
-
 5. **Invesco Water Resources ETF - PHO**

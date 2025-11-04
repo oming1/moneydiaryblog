@@ -35,10 +35,8 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 3. 규모의 경제: 대규모 포트폴리오를 통한 운영 효율성 및 협상력
 4. 고객 다각화: 다양한 산업 분야의 6,700여 고객 기반
 5. 혁신 역량: 첨단 기술을 활용한 스마트 물류 솔루션 개발
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
+전방산업:
 전방산업:
 - 전자상거래: Amazon(US, [AMZN](/company-analysis/amzn/)), Alibaba(CN, [BABA](/company-analysis/baba/))
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Target(US, [TGT](/company-analysis/tgt/))
@@ -68,9 +66,6 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 미국, 중국, 일본, 영국, 독일, 프랑스, 캐나다, 멕시코, 브라질, 네덜란드
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Duke Realty Corporation(US, DRE): 산업용 부동산
 - Goodman Group(AU, GMG): 산업 및 비즈니스 공간
 - Segro(GB, SGRO): 유럽 중심 물류 REIT

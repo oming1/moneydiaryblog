@@ -50,9 +50,6 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
     • 애니멀 헬스: 반려/축산 균형 포트폴리오
 - 고객 유형  
     • 병원·클리닉·암센터, 도매유통(미국: Cencora/카디널/맥케슨), 정부·기관(백신), 수의병원/농장(애니멀 헬스)
-
-{{< adsense-infeed >}}
-
 - 지역 매출(방향성)  
     • 미국 비중이 가장 크고, 중국 포함 아시아 및 유럽이 뒤를 잇는다. 가다실 9은 중국 기여도가 빠르게 상승.
 
@@ -68,9 +65,6 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 - 백신 기술·제조 스케일: HPV·폐구균·MMR/수두/로타 등 다수 백신 라인과 원부자재/충전·완제까지 수직 통합된 제조·품질 시스템.
 
 - 글로벌 상업화·공급망 역량: 주요 시장에서의 도매·병원·정부 조달 채널과 콜드체인 운영.
-
-{{< adsense-infeed >}}
-
 - 파이프라인·BD 역량: 항체·ADC·면역·염증(anti‑TL1A) 등 차세대 모달리티 강화, 전략적 제휴(예: Daiichi Sankyo ADC 다자 협업)로 ‘포스트 키트루다’ 대비.
 
 - 규제·품질·안전성 트랙레코드: 다수 블록버스터의 글로벌 허가/시판 후 관리 경험.
@@ -82,9 +76,6 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 - 면역항암(PD‑1) 플랫폼: 다양한 암종에서 단독·병용·선행/보조요법 임상 운용, 바이오마커 기반 환자 선별.
 
 - 백신 플랫폼: HPV L1 VLP, 폐구균 다당-단백 접합(PCV), 생백신·불활화 백신, 제형/보존제 최적화.
-
-{{< adsense-infeed >}}
-
 - 항체/ADC/이중특이: 외부 파트너와의 DXd 기반 ADC 등 차세대 항암 모달리티 개발.
 
 - 고도화 제형·전달: 정맥주사(IV)에서 피하(SC) 제형 전환 시도(투여 편의성/병원 체류시간 단축).
@@ -157,9 +148,6 @@ Merck & Co., Inc.(미국 외 지역명: MSD)는 글로벌 톱티어 제약사로
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - 종합 제약: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)), Novartis(CH, [NVS](/company-analysis/nvs/)), Roche(CH, RHHBY), Sanofi(FR, SNY), GSK(UK, [GSK](/company-analysis/gsk/)), AstraZeneca(UK, [AZN](/company-analysis/azn/))
 - 면역항암: Bristol Myers Squibb(US, [BMY](/company-analysis/bmy/)), Roche, AstraZeneca 등
 - 백신: Pfizer, GSK, Sanofi

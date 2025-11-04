@@ -42,9 +42,6 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - 대표 기업: Aetna (미국, [AET](/company-analysis/aet/)) - 경쟁 제품: 건강 보험
     
 - **서비스 제공**:
-
-{{< adsense-infeed >}}
-
     - 고객에게 의료 서비스와 관련된 다양한 솔루션을 제공합니다.
     - 대표 기업: Humana (미국, [HUM](/company-analysis/hum/)) - 경쟁 제품: 관리형 헬스케어 서비스
 
@@ -56,9 +53,6 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - 매출 비중: 전체 매출의 약 50% 차지.
     
 - **정부 건강 계획**:
-
-{{< adsense-infeed >}}
-
     - Medicare(메디케어) 및 Medicaid(메디케이드)와 같은 정부 주도의 건강 보험 프로그램입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
@@ -73,13 +67,7 @@ Cigna는 미국을 주요 시장으로 하며, 유럽, 아시아 태평양 지�
 ## 산업 내 글로벌 시장 점유율
 
 Cigna는 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **Express Scripts 인수**: Cigna가 Express Scripts를 인수하여 약국 관리 사업을 강화한 사건 (2018)
 - **Medicare Advantage 사업 매각 발표**: Medicare Advantage 사업 부문을 Health Care Service Corporation에 매각하기로 결정한 사건 (2024)
 - **Evernorth 브랜드 런칭**: Cigna의 헬스 서비스 포트폴리오를 Evernorth라는 이름으로 재브랜딩한 사건 (2020)

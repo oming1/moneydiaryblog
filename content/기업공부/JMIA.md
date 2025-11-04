@@ -168,9 +168,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 케냐 모바일 사용자.
 - 모로코 바이어.
 - 남아프리카 파트너.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가
@@ -215,15 +212,9 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 2023년: JumiaPay 확장, 사용자 증가.
 - 2022년: 물류 네트워크 강화.
 - 2021년: 새로운 국가 진출.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 - Rocket Internet: 10%.
 - Vanguard Group: 5%.
 - BlackRock: 4%.
@@ -238,9 +229,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 
 - ONLN - ProShares Online Retail ETF ONLN.
 - IBUY - Amplify Online Retail ETF IBUY.
-
-{{< adsense-infeed >}}
-
 **섹터 관련 ETF:**
 
 - XLY - Consumer Discretionary Select Sector SPDR Fund XLY.

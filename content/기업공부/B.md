@@ -212,9 +212,6 @@ Barrick은 금과 구리 광물의 채굴에서 최종 제품 생산까지의 �
 - 주요 공급 업체: DuPont [DD](/company-analysis/dd/), Evonik Evonik
 
 **황산:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 구리 추출을 위한 침출 공정
 - 주요 공급 지역: 각 광산 인근 화학공장
 - 주요 공급 업체: 지역 화학 공급업체
@@ -332,9 +329,6 @@ Barrick은 세계 2위 금 생산업체로서 업계 최고 품질의 자산 포
 
 기관 투자자: 63.2% 내부자: 0.01% 개인 투자자: 36.8%
 **주요 기관 투자자:**
-
-{{< adsense-infeed >}}
-
 - BlackRock Inc.: 8.0% (1억 3천 8백만 주)
 - Vanguard Group Inc.: 4.3% (7천 4백만 주)
 - Royal Bank of Canada: 3.8% (6천 5백만 주)

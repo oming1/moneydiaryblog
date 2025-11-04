@@ -31,23 +31,14 @@ Nabtesco Corporation은 항공기 및 유압 제품, 정밀 기기, 운송 장�
 - 철도 차량 제조업체: Siemens (DE, [SIE](/company-analysis/sie/)), Alstom (FR, ALO)
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - 원료 공급업체: Nippon Steel (JP, 5401), JFE Holdings (JP, 5411)
 - 부품 공급업체: NSK Ltd. (JP, 6471), NTN Corporation (JP, 6472)
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 - **항공기 착륙 장치 시스템:** 항공기 착륙 장치 (매출 비중: 2023년 기준 30%)
 - **철도 차량 제동 시스템:** 철도 차량용 제동 시스템 (매출 비중: 2023년 기준 25%)
 - **정밀 감속기:** 산업용 로봇용 정밀 감속기 (매출 비중: 2023년 기준 20%)
 - **자동문 및 플랫폼 스크린 도어:** 자동문 및 플랫폼 스크린 도어 (매출 비중: 2023년 기준 15%)
 - **포장 기계:** 포장 기계 (매출 비중: 2023년 기준 10%)
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 
 - 일본 (주요 매출 국가)
@@ -55,14 +46,13 @@ Nabtesco Corporation은 항공기 및 유압 제품, 정밀 기기, 운송 장�
 - 미국
 - 독일
 - 한국
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 
 - **Bosch Rexroth (DE, BOSCH):** 유압 제품 및 자동화 솔루션 (시장 점유율 10%)
 - **Parker Hannifin (US, PH):** 모션 및 제어 기술 (시장 점유율 8%)
 - **FANUC (JP, 6954):** 산업용 로봇 및 자동화 솔루션 (시장 점유율 12%)
+### 산업 내 글로벌 시장 점유율
+[Nabtesco Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.bloomberg.com/profile/company/NCTKF:US)[2](https://craft.co/nabtesco).
 ### 산업 내 글로벌 시장 점유율
 [Nabtesco Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.bloomberg.com/profile/company/NCTKF:US)[2](https://craft.co/nabtesco).
 ### 최근 3년 내 주요 이슈

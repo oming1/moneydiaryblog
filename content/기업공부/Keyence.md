@@ -23,9 +23,6 @@ Industry: Electronic Equipment, Instruments & Components (전자 장비, 기기 
 Keyence Corporation은 1974년에 설립된 일본의 산업자동화 및 검사장비 제조 기업입니다. 본사는 일본 오사카에 위치해 있으며, 센서, 측정 시스템, 레이저 마커, 마이크로스코프, 머신 비전 시스템 등을 개발 및 제조합니다.
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 - 산업 자동화 및 검사 장비 개발 및 제조
 - 센서, 코드 리더, 마이크로스코프, 머신 비전 시스템, 측정 시스템, 레이저 마커, 정전기 제거장치 등 제공
 - 기술 영업 및 고객 지원 서비스
@@ -36,9 +33,6 @@ Keyence Corporation은 1974년에 설립된 일본의 산업자동화 및 검사
 
 - 역할: 자동화 및 검사 장비 사용
 - 반도체, 전자부품, 포장, 자동차, 가전제품, 공작기계 및 자동화 장비 산업
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 역할: 부품 및 원자재 공급
@@ -68,13 +62,7 @@ Keyence는 전 세계 110개국에서 350,000개 고객사를 보유하고 있�
 - Omron Corporation (JP, 6645)
 - Cognex Corporation (US, [CGNX](/company-analysis/cgnx/))
 - Mitsubishi Electric Corporation (JP, 6503)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Keyence는 산업 자동화 및 검사 장비 시장에서 선도적인 위치를 차지하고 있으며, 특히 센서 및 머신 비전 시스템 분야에서 강세를 보이고 있습니다.
 ## 최근 뉴스 및 재무 성과
 

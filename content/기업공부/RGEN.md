@@ -28,9 +28,6 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 2. 크로마토그래피(Chromatography): 단백질 정제용 제품
 3. 공정 분석(Process Analytics): 단백질 농도 모니터링 시스템
 4. 단백질(Proteins): Protein A 친화성 수지 및 리간드
-
-{{< adsense-infeed >}}
-
 주요 제품으로는 XCell ATF 시스템, OPUS 사전 포장 컬럼, KrosFlo TFF 시스템, Protein A 친화성 수지 등이 있습니다.
 
 ## 전방/후방산업
@@ -40,13 +37,11 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 - 바이오제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 계약 제조기업: Lonza (스위스, LONN.SW)
 ## 후방산업
+## 후방산업
 - 원자재 공급: Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
 - 장비 제조: Sartorius (독일, SRT.DE)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: Repligen (US, [RGEN](/company-analysis/rgen/)) (바이오프로세싱 기술 개발)
 2. 제조: Repligen (US, [RGEN](/company-analysis/rgen/)) (바이오프로세싱 제품 생산)
 3. 유통: 직접 판매 및 유통 파트너
@@ -72,9 +67,6 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 4. Merck KGaA (독일, MRK.DE)
 5. Pall Corporation (Danaher 소유)
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2024년 3분기 기준, Repligen의 시장 점유율은 0.84%로 추정됩니다
 
 ## 최근 3년 내 주요 이슈

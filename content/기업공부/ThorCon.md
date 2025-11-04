@@ -23,6 +23,10 @@ ThorCon은 [4세대 SMR](/industry-study/4세대-smr/) 기술인 용융염 원�
 
 에너지로는 용융염(HALEU) 사용
 - 감속재 : [흑연](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속흑연/) / 냉각재 : 용융염 (불화염 염화염)
+ThorCon은 [4세대 SMR](/industry-study/4세대-smr/) 기술인 용융염 원자로(MSR) 기술을 개발하는 회사입니다. 주로 토륨 기반의 액체 연료 원자로 설계에 중점을 두고 있으며, 안전하고 경제적인 원자력 발전 솔루션을 제공하는 것을 목표로 합니다.
+
+에너지로는 용융염(HALEU) 사용
+- 감속재 : [흑연](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속흑연/) / 냉각재 : 용융염 (불화염 염화염)
 ## 전방/후방 산업
 
 - 전방 산업:
@@ -40,9 +44,6 @@ ThorCon은 [4세대 SMR](/industry-study/4세대-smr/) 기술인 용융염 원�
 ## 밸류체인
 
 - 원자로 설계 및 개발:
-
-{{< adsense-infeed >}}
-
     - ThorCon은 자체적으로 MSR 기술을 개발합니다.
     - 대표 기업: [TerraPower](/company-analysis/terrapower/) (미국, 비상장), Terrestrial Energy (캐나다, 비상장)
     
@@ -52,14 +53,8 @@ ThorCon은 [4세대 SMR](/industry-study/4세대-smr/) 기술인 용융염 원�
     - 대표 기업: 대형 조선사들
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - ThorCon 원자로 (500MWe 출력)
 - 해상 원자력 발전소 플랫폼
-
-{{< adsense-infeed >}}
-
 ## 주요 판매 국가
 인도네시아를 중심으로 개발도상국 시장을 타겟으로 하고 있습니다.
 

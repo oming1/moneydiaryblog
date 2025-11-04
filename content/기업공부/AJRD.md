@@ -39,15 +39,9 @@ Rocketdyne는 미국의 로켓 엔진 설계 및 생산 회사로, NASA의 주�
 ## 밸류체인
 
 - 로켓 엔진 설계 및 제조:
-
-{{< adsense-infeed >}}
-
     - Rocketdyne는 다양한 로켓 엔진을 설계하고 생산합니다.
     - 대표 기업: Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)), [Blue Origin](/company-analysis/blue-origin/) (미국, 비상장)
 - 우주 발사체 시스템:
-
-{{< adsense-infeed >}}
-
     - Rocketdyne의 엔진은 다양한 우주 발사체에 사용됩니다.
     - 대표 기업: United Launch Alliance (미국, 비상장), [SpaceX](/company-analysis/spacex/) (미국, 비상장)
 
@@ -56,9 +50,6 @@ Rocketdyne는 미국의 로켓 엔진 설계 및 생산 회사로, NASA의 주�
 - F-1 엔진 (Saturn V 로켓용, 1960년대 주력 제품)
 - J-2 엔진 (Saturn V 로켓 상단용)
 - RS-25 엔진 (우주왕복선 및 Space Launch System용, 현재 주력 제품)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매 국가
 
 Rocketdyne의 주요 고객은 미국 정부와 NASA입니다.

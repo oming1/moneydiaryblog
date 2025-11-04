@@ -125,9 +125,6 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 **제조 및 조립 단계:**
 
 - Lumentum Holdings(US, [LITE](/company-analysis/lite/)): 자체 제조 및 조립
-
-{{< adsense-infeed >}}
-
 **유통 및 판매 단계:**
 
 - Arrow Electronics(US, [ARW](/company-analysis/arw/)): 전자부품 유통
@@ -146,9 +143,6 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 **산업용 레이저:** 제조업용, 매출비중 10% (2024년), 주요 경쟁사 [COHR](/company-analysis/cohr/), IPGP 
 
 **옵티컬 스위치:** AI 데이터센터용 (개발 단계), 매출비중 미미, 경쟁사 ADTN
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -195,9 +189,6 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 - Innolight(CN, Innolight) - 광트랜시버, 시장점유율 15.2%
 - Source Photonics(CN, Source Photonics) - 광통신 모듈, 시장점유율 5.9%
 - Oclaro(현재 Lumentum에 합병) - 광통신 부품
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -213,9 +204,6 @@ AI와 머신러닝의 급속한 성장으로 데이터센터 간 고속 연결 �
 ---
 
 ## 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 **구체적 수치 및 성장 동력:**
 
 - 매출 성장률: 3년 CAGR -8.5% (2024년 역성장 후 2025년부터 회복 전망)

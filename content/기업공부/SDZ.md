@@ -60,9 +60,6 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 - **Pyzchiva (ustekinumab) (염증성 질환 치료제)**
 - **Lisdexamfetamine (ADHD 치료제)**
 - **Denosumab 바이오시밀러 (골다공증 치료제)**
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 
 - **미국:** 주요 매출 국가
@@ -71,9 +68,6 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 - **영국:** 주요 매출 국가
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Teva Pharmaceutical Industries (이스라엘, [TEVA](/company-analysis/teva/))**
     - **경쟁 제품:** Copaxone (다발성 경화증 치료제)
 - **Pfizer (미국, [PFE](/company-analysis/pfe/))**

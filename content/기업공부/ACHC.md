@@ -18,9 +18,6 @@ weight: 17
 [헬스케어](/industry-study/2산업헬스케어/)
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 의료시설(Medical Care Facilities)
 
 ## 영위사업
@@ -34,9 +31,6 @@ Acadia Healthcare Company Inc는 행동 건강 및 중독 치료 서비스를 �
 회사는 미국 40개 주와 영국에서 약 250개의 행동 건강 시설을 운영하고 있으며, 약 11,100개의 병상을 보유하고 있습니다. Acadia는 급성 입원 정신과 병원, 특수 치료 시설, 주거 치료 센터, 외래 클리닉 등 다양한 형태의 시설을 통해 포괄적인 행동 건강 서비스를 제공합니다.주요 치료 영역으로는 우울증, 불안장애, 약물 남용, 섭식 장애, 외상 후 스트레스 장애(PTSD) 등이 있습니다. 회사는 지속적인 시설 확장과 인수를 통해 성장을 추구하고 있으며, 특히 미충족 수요가 높은 지역에서의 서비스 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 1. 규모의 경제: 미국 최대의 독립 행동 건강 서비스 제공업체로서, 광범위한 시설 네트워크를 통해 운영 효율성과 비용 절감을 실현합니다.
@@ -51,9 +45,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료 IT: Cerner Corporation CERN
@@ -126,9 +117,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 3. Blackrock Inc: 8.69%
 4. T Rowe Price Investment Management Inc: 6.59%
 5. Waud Capital Partners III LLC: 6.58%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares U.S. Healthcare Providers ETF - IHF

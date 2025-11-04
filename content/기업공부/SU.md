@@ -19,9 +19,6 @@ weight: 839
 - **Industry**: Specialty Industrial Machinery (특수 산업 기계)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 글로벌 리더입니다. 주요 사업 영역은 다음과 같습니다:
 - **전력 관리**: 전력 분배, 스마트 그리드, 전력 모니터링 시스템 등
 - **산업 자동화**: 공장 자동화, 프로세스 제어 시스템, 로봇 공학 등
@@ -35,9 +32,6 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 
 - **전자 부품 산업**: Schneider Electric의 제품에 필요한 전자 부품을 공급합니다. 주요 기업: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/)).
 - **기계 부품 산업**: 자동화 시스템에 필요한 기계 부품을 공급합니다. 주요 기업: SKF (SE, SKF), Timken (US, TKR).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 1. **부품 공급**
@@ -55,13 +49,7 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 - **산업 자동화 솔루션**: 프로세스 제어 시스템, 로봇 공학
 - **스마트 빌딩 솔루션**: HVAC 제어 시스템, 조명 제어 시스템
 - **[데이터센터](/industry-study/데이터센터/) 솔루션**: 전력 및 냉각 시스템
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **유럽**: 전체 매출의 약 30%
 - **북미**: 전체 매출의 약 25%
 - **아시아 태평양**: 전체 매출의 약 20%

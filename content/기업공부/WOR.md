@@ -42,9 +42,6 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
     
     - **대표 회사**: Bechtel (US, 비상장) - 건설 및 프로젝트 관리
     - **대표 회사**: AECOM (US, [ACM](/company-analysis/acm/)) - 인프라 및 환경 서비스
-
-{{< adsense-infeed >}}
-
 - **운영 및 유지보수**: 프로젝트 운영 지원 및 유지보수
     
     - **대표 회사**: KBR, Inc. (US, KBR) - 기술 및 엔지니어링 솔루션
@@ -57,18 +54,12 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
 - **프로젝트 관리 및 컨설팅**
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Worley는 아메리카, 유럽, 중동, 아프리카, 아시아 태평양 지역 등 전 세계적으로 운영되고 있습니다.
 
 ## 경쟁업체
 - **Fluor Corporation (US, [FLR](/company-analysis/flr/))** - 글로벌 엔지니어링 및 건설 회사
 - **Jacobs Engineering Group (US, J)** - 기술 및 전문 서비스 제공업체
 - **AECOM (US, [ACM](/company-analysis/acm/))** - 인프라 및 환경 서비스 제공업체
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Worley는 에너지, 화학 및 자원 분야의 글로벌 엔지니어링 및 프로젝트 서비스 시장에서 중요한 위치를 차지하고 있습니다.

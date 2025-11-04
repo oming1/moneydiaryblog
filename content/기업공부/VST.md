@@ -40,17 +40,11 @@ Vistra의 핵심 경쟁력은 통합 사업 모델과 포괄적인 헤징 프로
 - 전력 소매: 가정, 상업, 산업 고객
 - 전력 도매: 다른 유틸리티 기업, 전력 중개업체
 - 그리드 서비스: 송전 시스템 운영자(TSO), 배전 시스템 운영자(DSO)
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 연료 공급: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 발전 설비 제조: General Electric(US, [GE](/company-analysis/ge/)), Siemens Energy(DE, ENR)
 - 재생에너지 장비: First Solar(US, [FSLR](/company-analysis/fslr/)), Vestas Wind Systems(DK, VWS)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 연료 조달: Vistra(US, [VST](/company-analysis/vst/)), ExxonMobil(US, [XOM](/company-analysis/xom/)) (천연가스 공급)
@@ -60,9 +54,6 @@ Vistra의 핵심 경쟁력은 통합 사업 모델과 포괄적인 헤징 프로
 5. 소매: Vistra(US, [VST](/company-analysis/vst/)) (전력 및 가스 소매)
 6. 에너지 관리: Vistra(US, [VST](/company-analysis/vst/)), Schneider Electric(FR, [SU](/company-analysis/su/)) (에너지 효율 솔루션)
 7. 고객 서비스: Vistra(US, [VST](/company-analysis/vst/)) (고객 지원 및 서비스)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 소매 전기 공급: 가정 및 상업용 전기, 매출의 약 65% (2023년 기준)

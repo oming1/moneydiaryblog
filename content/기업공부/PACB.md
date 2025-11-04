@@ -71,13 +71,7 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
     - Pfizer(US, [PFE](/company-analysis/pfe/)), Roche(CH, [ROG](/company-analysis/rog/))
     
 2. 농업 및 식품: 작물 개량, 가축 육종
-
-{{< adsense-infeed >}}
-
     - Bayer(DE, BAYN), Corteva(US, [CTVA](/company-analysis/ctva/))
-
-{{< adsense-infeed >}}
-
 3. 환경 및 생태학: 생물다양성 연구, 환경 모니터링
     
     - Illumina(US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
@@ -106,9 +100,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
     - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Oxford Nanopore Technologies(GB, ONT)
     
 3. 소모품 및 시약 공급: 시퀀싱 키트 및 시약 제조
-
-{{< adsense-infeed >}}
-
     - Agilent Technologies(US, [A](/company-analysis/a/)), Bio-Rad Laboratories(US, BIO)
     
 4. 데이터 분석 및 저장: 생물정보학 소프트웨어 및 클라우드 서비스

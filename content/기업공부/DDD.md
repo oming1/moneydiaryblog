@@ -46,9 +46,6 @@ weight: 266
 - 자동차: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 소재 공급: BASF(DE, BAS), Evonik Industries(DE, EVK)
 - 레이저 시스템: IPG Photonics(US, IPGP), Coherent(US, [COHR](/company-analysis/cohr/))
 - 소프트웨어: Autodesk(US, [ADSK](/company-analysis/adsk/)), Dassault Systèmes(FR, DSY)
@@ -61,9 +58,6 @@ weight: 266
 - 온디맨드 제조 서비스: 맞춤형 부품 제작, 매출의 약 15% (2024년 기준)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 독일, 영국, 프랑스, 일본, 중국, 한국, 이탈리아, 캐나다, 호주
 
 ## 경쟁업체
@@ -84,9 +78,6 @@ weight: 266
 - 치과용 3D 프린팅 솔루션 포트폴리오 확대 (2022년)
 - 항공우주 분야 인증 획득으로 부품 생산 확대 (2023년)
 - 지속가능성 이니셔티브 발표: 2030년까지 탄소 배출량 50% 감축 목표 설정 (2022년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (10.54%)

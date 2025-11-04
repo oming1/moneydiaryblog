@@ -24,15 +24,9 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 사이버 보안, 클라우드 컴퓨팅
     - 역할: 암호화 솔루션 제공
     - 주요 기업: SoftIron (비상장), Babcock International Group (영국, BAB)
-
-{{< adsense-infeed >}}
-
 - 후방 산업:
     
     - 핵심 산업: 양자 컴퓨팅, 데이터 센터
@@ -42,9 +36,6 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
 ## 밸류체인
 
 - 암호화 소프트웨어 개발:
-
-{{< adsense-infeed >}}
-
     - Arqit는 자체적으로 양자 안전 암호화 기술을 개발합니다.
     - 대표 기업: Quantum Computing Inc. (미국, [QUBT](/company-analysis/qubt/)), Intellicheck (미국, IDN)
     
@@ -69,9 +60,6 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
 - Intellicheck (미국, IDN) - 신원 확인 기술
 - Stronghold Digital Mining (미국, SDIG) - 암호화폐 채굴 및 전력 생성
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 제공되지 않았지만, Arqit Quantum은 양자 안전 암호화 기술 분야에서 선도적인 위치를 차지하고 있습니다.
 ## 최근 3년 내 주요 이슈
 

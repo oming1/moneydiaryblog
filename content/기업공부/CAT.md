@@ -22,10 +22,8 @@ Industry: Farm & Heavy Construction Machinery (농업 및 중장비 기계)
 
 Caterpillar Inc.는 세계 최대의 [건설](/industry-study/건설/) 및 광산 장비 제조업체로, 엔진 및 산업용 기계의 설계, 제조 및 판매를 전문으로 합니다. 1925년에 설립되어 미국 일리노이주에 본사를 두고 있습니다.
 ## 영위사업
+## 영위사업
 Caterpillar는 건설, 광산, 농업 및 에너지 산업을 위한 다양한 중장비 및 엔진을 제공합니다. 또한, 고객에게 서비스 및 부품 공급을 통해 지속적인 지원을 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 전방산업:
 
@@ -54,9 +52,6 @@ Caterpillar는 전 세계적으로 제품을 판매하고 있으며, 주요 시�
 - 유럽: 약 20%
 - 기타: 약 15%
 ## 주요 자산
-
-{{< adsense-infeed >}}
-
 - 제조 시설: 미국, 캐나다, 유럽, 아시아에 위치한 여러 생산 공장
 - 연구개발 센터: 혁신적인 기계 및 엔진 기술 개발을 위한 시설
 
@@ -65,15 +60,9 @@ Caterpillar는 전 세계적으로 제품을 판매하고 있으며, 주요 시�
 - Komatsu Ltd. (JP, 6301) - 건설 및 광산 장비
 - Volvo Construction Equipment (SE, VOLV-A) - 건설 장비
 - Hitachi Construction Machinery (JP, 6305) - 건설 장비
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Caterpillar는 건설 및 광산 장비 시장에서 약 15%의 점유율을 보유하고 있으며, 2023년 기준으로 세계 최대의 중장비 제조업체로 알려져 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 자세한 종목 정보 링크
 
 [FINVIZ - CAT](https://finviz.com/quote.ashx?t=CAT)

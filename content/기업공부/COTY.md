@@ -39,9 +39,6 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 5. 디지털 혁신: 2023년에는 디지털 제품 혁신에 7,800만 달러를 투자하며 e-커머스와 디지털 마케팅 플랫폼에 집중하는 디지털 우선 접근 방식을 채택하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 리테일: 뷰티 제품 유통 및 판매 (Sephora(Sephora), Ulta Beauty(US, [ULTA](/company-analysis/ulta/)))
@@ -61,9 +58,6 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 1. 연구개발: Coty(US, [COTY](/company-analysis/coty/)) (원료 연구, 포뮬러 개발)
     
 2. 원료 조달: BASF(DE, BAS) (화학 원료), International Flavors & Fragrances(US, IFF) (향료)
-
-{{< adsense-infeed >}}
-
 3. 제품 제조: Coty(US, [COTY](/company-analysis/coty/)) (자체 생산), Fareva(Fareva) (계약 제조)
 4. 브랜드 관리: Coty(US, [COTY](/company-analysis/coty/)) (브랜드 포트폴리오 관리)
     
@@ -134,17 +128,11 @@ Coty의 주요 고객은 개인 소비자와 소매업체가 주를 이루지만
 1. Agnaten SE (51.82%)
     
 2. BlackRock Advisors LLC (4.562%)
-
-{{< adsense-infeed >}}
-
 3. Vanguard Fiduciary Trust Co. (4.081%)
     
 4. BNP Paribas Arbitrage SA (3.992%)
     
 5. Sue Nabi (CEO) (3.655%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. Consumer Staples Select Sector SPDR Fund - XLP

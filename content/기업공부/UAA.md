@@ -20,9 +20,6 @@ weight: 899
 
 #### 영위사업 (Business Operations)
 Under Armour는 성능 향상을 위한 의류, 신발 및 액세서리를 개발, 마케팅 및 유통하는 회사입니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **의류**: 압축, 피팅, 루즈 핏 타입의 의류 제공
 - **신발**: 러닝, 트레이닝, 농구, 클리트 스포츠, 회복 및 야외 활동용 신발
 - **액세서리**: 장갑, 가방, 모자 및 양말
@@ -35,9 +32,6 @@ Under Armour는 성능 향상을 위한 의류, 신발 및 액세서리를 개�
     - 주요 기업: Walmart (US, [WMT](/company-analysis/wmt/)), Amazon (US, [AMZN](/company-analysis/amzn/))
 
 #### 밸류체인 (Value Chain)
-
-{{< adsense-infeed >}}
-
 1. **디자인 및 개발 (Design & Development)**
     - 대표 기업: Under Armour, Nike (US, [NKE](/company-analysis/nke/))
 2. **제조 (Manufacturing)**
@@ -46,20 +40,15 @@ Under Armour는 성능 향상을 위한 의류, 신발 및 액세서리를 개�
     - 대표 기업: Under Armour, Foot Locker (US, [FL](/company-analysis/fl/))
 
 #### 주요제품 (Key Products)
-
-{{< adsense-infeed >}}
-
 - **HeatGear**: 더운 날씨에 착용하는 의류
 - **ColdGear**: 추운 날씨에 착용하는 의류
 - **HOVR**: 러닝 및 트레이닝용 신발
 - **UA RUSH**: 운동 성능 향상을 위한 의류
 #### 주요 판매국가 (Major Sales Countries)
-
-{{< adsense-infeed >}}
-
 - **미국:** 매출의 70% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **아시아:** 특히 중국과 일본에서 강력한 시장 입지
+#### 경쟁업체 (Competitors)
 #### 경쟁업체 (Competitors)
 - **Nike** (US, [NKE](/company-analysis/nke/)): 스포츠 의류 및 신발
 - **Adidas** (DE, [ADS](/company-analysis/ads/)): 스포츠 의류 및 신발

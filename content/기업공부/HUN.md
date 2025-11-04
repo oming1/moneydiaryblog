@@ -38,9 +38,6 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 4. 지속가능성 중심의 혁신
 5. 고객 맞춤형 솔루션 제공 능력
 6. 전략적 인수합병을 통한 성장
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 1. 후방산업:
     
@@ -48,9 +45,6 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 항공우주: Boeing(US, [BA](/company-analysis/ba/))
     - 건설: Lennar(US, [LEN](/company-analysis/len/))
@@ -68,17 +62,11 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 3. 에폭시 및 아크릴 기반 폴리머 제품 (첨단 소재)
 
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 1. BMW
 2. General Electric
 3. Chevron
 4. Procter & Gamble
 5. Unilever
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 Huntsman Corporation은 글로벌 기업으로, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 

@@ -23,9 +23,6 @@ weight: 278
 Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계, 제조 및 판매하는 글로벌 기업입니다. 이 회사는 생명 과학, 진단, 환경 및 산업 분야에서 다양한 솔루션을 제공합니다. Danaher는 지속적인 개선과 효율성을 추구하는 일본의 카이젠 원칙을 채택한 최초의 북미 기업 중 하나입니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 의료 서비스 및 진단
@@ -49,9 +46,6 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
     
     - Danaher는 다양한 진단 장비와 기술을 개발하여 의료 기관에 제공합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Abbott Laboratories (미국, [ABT](/company-analysis/abt/)) - 진단 기기 및 테스트 시스템 제공
         - Roche Diagnostics (스위스, 비상장) - 진단 솔루션 제공
 

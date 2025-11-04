@@ -112,15 +112,9 @@ Interparfums의 주요 고객은 다음과 같은 유통업체 및 소매점입�
 2. Estée Lauder Companies(US, [EL](/company-analysis/el/)): 럭셔리 향수 및 뷰티 제품 (시장점유율 약 14.07%)
     
 3. L'Oréal(FR, OR): 프레스티지 및 대중 향수 브랜드 포트폴리오
-
-{{< adsense-infeed >}}
-
 4. Puig(Puig): Carolina Herrera, Paco Rabanne 등 럭셔리 향수 브랜드
     
 5. Shiseido(JP, 4911): 프레스티지 향수 및 뷰티 제품
-
-{{< adsense-infeed >}}
-
 6. Avon Products(US, AVP): 다양한 향수 및 뷰티 제품 (시장점유율 약 2.07%)
     
 7. Procter & Gamble(US, [PG](/company-analysis/pg/)): 다양한 향수 브랜드 포트폴리오 (시장점유율 약 76.87%)
@@ -148,17 +142,11 @@ Interparfums의 주요 고객은 다음과 같은 유통업체 및 소매점입�
 2. Philippe Bénacin & Jean Madar (공동 창업자, 상당한 지분)
     
 3. 기관 투자자 및 기타 주주 (27.66%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares Global Consumer Staples ETF - KXI
     
 2. Consumer Staples Select Sector SPDR Fund - XLP
-
-{{< adsense-infeed >}}
-
 3. Vanguard Consumer Staples ETF - VDC
 4. First Trust Consumer Staples AlphaDEX Fund - FXG
     

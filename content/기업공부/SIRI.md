@@ -45,9 +45,6 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
     - SES S.A. (룩셈부르크, SESG): 위성 통신 서비스.
       
 - **배포 및 스트리밍:**
-
-{{< adsense-infeed >}}
-
     - Sirius XM Holdings Inc. (미국, [SIRI](/company-analysis/siri/)): 위성 라디오 및 스트리밍 서비스.
     - Pandora Media (미국, P) (Sirius XM 자회사): 음악 스트리밍 서비스.
 
@@ -56,9 +53,6 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
 - **SiriusXM 구독 서비스:** 음악, 스포츠, 엔터테인먼트, 뉴스 등 다양한 채널 제공.
 - **Pandora 스트리밍 서비스:** 개인 맞춤형 음악 및 팟캐스트 스트리밍.
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 시장으로 전체 매출의 대부분을 차지.
 - **캐나다:** 북미 지역 내 주요 시장.
 
@@ -67,9 +61,6 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
 - **Spotify Technology S.A. (룩셈부르크, [SPOT](/company-analysis/spot/)):** 음악 스트리밍 서비스.
 - **Apple Inc. (미국, [AAPL](/company-analysis/aapl/)):** Apple Music 스트리밍 서비스.
 - **Amazon.com, Inc. (미국, [AMZN](/company-analysis/amzn/)):** Amazon Music 스트리밍 서비스.
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
 
 Sirius XM Holdings Inc.는 북미 지역에서 위성 라디오 및 오디오 스트리밍 시장의 주요 플레이어로 자리잡고 있습니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 주요 경쟁사들과 비교해 높은 점유율을 유지하고 있습니다

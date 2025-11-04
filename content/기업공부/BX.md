@@ -43,9 +43,6 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 5. 트랙레코드: 장기간에 걸친 우수한 투자 성과
 6. 혁신적 투자 상품: 시장 트렌드에 맞춘 새로운 투자 상품 개발 능력
 이러한 경쟁력을 바탕으로 Blackstone은 변화하는 글로벌 투자 환경에서 지속적인 성장을 이어가고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -53,17 +50,11 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 기관투자자: 연금펀드, 보험사, 국부펀드 등
 - 고액자산가: 개인 투자자, 패밀리오피스
 - 금융중개업: 투자은행, 자산관리사
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 투자대상 기업: 다양한 산업의 비상장 및 상장 기업
 - 부동산 개발 및 관리: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 금융 데이터 제공업체: Bloomberg L.P., Refinitiv
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 자금조달: Blackstone(US, [BX](/company-analysis/bx/)) (투자자로부터 자금 모집)

@@ -18,9 +18,6 @@ weight: 2
 ## 개념
 
 CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하여 전자를 생성하고 이를 전류로 변환합니다.
-
-{{< adsense-infeed >}}
-
 ## 유사한 제품 및 주요 기업
 
 1. 단결정 실리콘 태양전지
@@ -38,10 +35,11 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
     - 미국: First Solar [FSLR](/company-analysis/fslr/)
     - 중국: Hanergy Thin Film Power Group
     - 한국: SDN 
+3. 박막 태양전지
+    - 미국: First Solar [FSLR](/company-analysis/fslr/)
+    - 중국: Hanergy Thin Film Power Group
+    - 한국: SDN 
 ## 제조공정
-
-{{< adsense-infeed >}}
-
 1. 실리콘 정제: 고순도 실리콘 생산
 2. 잉곳 생성: 단결정 또는 다결정 실리콘 잉곳 제조
 3. 웨이퍼 제조: 잉곳을 얇게 절단하여 웨이퍼 생산
@@ -50,9 +48,6 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
     - 불순물 확산을 통한 PN 접합 형성
     - 반사방지막 증착
     - 전극 형성
-
-{{< adsense-infeed >}}
-
 5. 모듈 조립:
     
     - 셀 연결 및 배열

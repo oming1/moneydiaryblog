@@ -62,14 +62,8 @@ Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 �
 - Amazon CloudFront(US, [AMZN](/company-analysis/amzn/))
 - Google Cloud CDN(US, [GOOGL](/company-analysis/googl/))
 - Microsoft Azure CDN(US, [MSFT](/company-analysis/msft/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 기준 CDN 및 엣지 컴퓨팅 시장에서 중요한 플레이어로 자리잡고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 2024년 3분기 매출 7% 증가, 순이익 $2.4백만 달러 기록 (2024년)
@@ -83,9 +77,6 @@ Fastly, Inc.(NYSE: FSLY)는 엣지 클라우드 플랫폼및 콘텐츠 전송 �
 - The Vanguard Group (8.91%)
 - BlackRock (7.38%)
 - Legal & General Investment Management (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - First Trust Cloud Computing ETF - SKYY

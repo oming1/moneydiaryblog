@@ -161,9 +161,6 @@ ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은
 - 전자 부품: Texas Instruments(US, [TXN](/company-analysis/txn/)), Analog Devices(US, [ADI](/company-analysis/adi/))
 - 기계 부품: 컨베이어 시스템, 프레임 구조물 제조업체
 - 소프트웨어 개발: 이미지 처리, AI/ML 알고리즘 개발 전문기업
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인
@@ -264,9 +261,6 @@ ScanTech AI Systems Inc의 SENTINEL CT 및 ALL SECURE 시스템 제조 공정은
 - **Rapiscan Systems(OSI Systems 자회사, US, OSIS)**: X선 보안 검색 장비 제조업체, 다양한 보안 스캐닝 솔루션 제공, 시장점유율 약 15%
     
 - **Nuctech Company(CN, 002065.SZ)**: 중국 기반 보안 검사 장비 제조업체, 국제 시장에서 저가 솔루션으로 경쟁, 시장점유율 약 8%
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율

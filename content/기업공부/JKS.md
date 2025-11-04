@@ -28,9 +28,6 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 회사는 중국을 비롯해 미국, 유럽, 아시아 태평양, 중동 등 전 세계 시장에서 사업을 전개하고 있으며, JinkoSolar 브랜드로 제품을 판매하고 있습니다.최근 1년 내 주요 이슈로는 페로브스카이트 탠덤 태양전지의 변환 효율 33.84% 달성, 중국 상하이 증권거래소에 자회사 Jinko Solar Co., Ltd. 상장 추진 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 수직 계열화: 실리콘 웨이퍼부터 모듈까지 전 과정 통합 관리로 비용 효율성 확보
 2. 대규모 생산 능력: 글로벌 최대 규모의 생산 설비 보유
 3. 기술 혁신: 고효율 모듈 및 차세대 태양전지 기술 개발에 주력
@@ -60,9 +57,6 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 
 중국, 미국, 일본, 독일, 인도, 브라질, 호주, 스페인
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - LONGi Green Energy Technology(CN, 601012)
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/))
 - First Solar(US, [FSLR](/company-analysis/fslr/))

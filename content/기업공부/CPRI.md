@@ -19,10 +19,8 @@ weight: 228
 산업: 의류, 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 럭셔리 의류, 신발, 액세서리, 향수 등의 디자인, 마케팅, 유통 및 소매
+## 전방/후방산업
 ## 전방/후방산업
 ## 후방산업
 
@@ -40,9 +38,6 @@ weight: 228
 3. 유통: 자사 매장, 온라인 채널, 라이선스 파트너
 4. 마케팅 및 판매: Capri Holdings (자체 마케팅)
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Versace: 럭셔리 의류, 액세서리, 신발
 - Jimmy Choo: 럭셔리 신발, 핸드백, 소가죽 제품
 - Michael Kors: 의류, 액세서리, 신발, 시계, 향수

@@ -36,9 +36,6 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 ## 밸류체인
 
 - **반도체 설계**: 고객의 반도체 설계를 기반으로 제조
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: NVIDIA (US, [NVDA](/company-analysis/nvda/)) - 그래픽 처리 장치 설계
     - **대표 회사**: AMD (US, [AMD](/company-analysis/amd/)) - 반도체 설계
     
@@ -49,20 +46,17 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
 - **판매 및 유통**: 고객에게 반도체 제품 공급
     - **대표 회사**: Digi-Key Electronics (US, 비상장) - 전자 부품 유통
     - **대표 회사**: Mouser Electronics (US, 비상장) - 전자 부품 유통
+- **판매 및 유통**: 고객에게 반도체 제품 공급
+    - **대표 회사**: Digi-Key Electronics (US, 비상장) - 전자 부품 유통
+    - **대표 회사**: Mouser Electronics (US, 비상장) - 전자 부품 유통
 ## 주요제품
 
 - **고급 반도체 제품** (매출의 약 90%)
 - **IoT 및 모바일 기기용 칩** (매출의 약 10%)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 TSMC는 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 일본, 유럽 등입니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **[Samsung](/industry-study/samsung/) (KR, 005930.KS)** - 반도체 제조 및 설계
 - **GlobalFoundries (US, [GFS](/company-analysis/gfs/))** - 반도체 제조
 - **Intel Corporation (US, [INTC](/company-analysis/intc/))** - 반도체 설계 및 제조

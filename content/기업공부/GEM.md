@@ -19,9 +19,6 @@ Sector: Financial Services (금융 서비스)
 Industry: Cryptocurrency ([암호화폐](/industry-study/2산업암호화폐/))
 
 ## 회사 개요
-
-{{< adsense-infeed >}}
-
 Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 설립된 미국의 암호화폐 거래소 및 수탁 은행입니다. 본사는 뉴욕에 위치하며, 고객에게 [비트코인](/company-analysis/비트코인/), 이더리움 등 다양한 디지털 자산을 사고팔고 보관할 수 있는 플랫폼을 제공합니다.
 
 ## 영위사업
@@ -34,6 +31,8 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 ## 전방/후방산업
 
 전방산업:
+- 역할: 암호화폐 거래 및 투자
+- 개인 투자자 및 기관 투자자
 - 역할: 암호화폐 거래 및 투자
 - 개인 투자자 및 기관 투자자
 후방산업:
@@ -50,18 +49,15 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 ## 주요 판매국가
 
 Gemini는 미국을 중심으로 운영되며, 최근에는 유럽(아일랜드, 프랑스 등)으로 서비스 영역을 확장하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 
 - 보안 및 규제 준수를 위한 인프라
 - 디지털 자산 보관을 위한 기술
 - 고객 자산에 대한 보험
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
+- Coinbase (US, [COIN](/company-analysis/coin/)) - 미국의 주요 암호화폐 거래소
+- Binance (비상장) - 글로벌 암호화폐 거래소
+- Kraken (비상장) - 암호화폐 거래소 및 스테이킹 서비스
 - Coinbase (US, [COIN](/company-analysis/coin/)) - 미국의 주요 암호화폐 거래소
 - Binance (비상장) - 글로벌 암호화폐 거래소
 - Kraken (비상장) - 암호화폐 거래소 및 스테이킹 서비스

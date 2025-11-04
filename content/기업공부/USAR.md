@@ -55,9 +55,6 @@ USA Rare Earth의 비즈니스 모델은 수직 통합형 희토류 공급망 �
 - 환경 친화적 공정: 기존 중국 방식 대비 환경 영향 최소화
 
 **3. 자석 제조 단계:**
-
-{{< adsense-infeed >}}
-
 - 영구자석 생산: 네오디뮴-철-붕소(NdFeB) 자석
 - 맞춤형 솔루션: 전기차, 풍력발전, 국방 분야별 특화 제품
 - 2026년 첫 납품: 이미 첫 고객과 MOU 체결 완료
@@ -181,9 +178,6 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 **NdFeB 영구자석:** 최종 제품, 2026년 첫 납품 예정, 관련 경쟁사 SHIN-ETSU, VAC
 
 **리사이클 희토류:** 폐자석 재활용 제품, 순환경제 기여, 관련 경쟁사 URC, REM
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -205,9 +199,6 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - 사용처: 채굴, 정제, 제조 전 과정
 - 주요 공급 지역: 텍사스주
 - 주요 공급 업체: Oncor Electric [EXC](/company-analysis/exc/), CenterPoint Energy [CNP](/company-analysis/cnp/)
-
-{{< adsense-infeed >}}
-
 **물:**
 
 - 사용처: 희토류 정제 공정

@@ -195,9 +195,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Teladoc Health, Inc. (US, TDOC):** 원격 의료 서비스, 시장점유율 12%
 - **Amwell (US, AMWL):** 원격 의료 서비스, 시장점유율 8%
 - **Health Catalyst (US, HCAT):** 데이터 분석 및 헬스케어 솔루션, 시장점유율 5%
@@ -242,9 +239,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 ---
 
 ### 관련 ETF
-
-{{< adsense-infeed >}}
-
 **직접 관련 ETF:**
 
 - **XHE:** SPDR S&P Health Care Equipment ETF XHE

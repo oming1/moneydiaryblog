@@ -19,13 +19,7 @@ weight: 663
 - **산업 (Industry)**: Renewable Energy (재생 에너지)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Ormat Technologies는 주로 지열 에너지 및 회수 에너지를 이용한 전력 생산을 주요 사업으로 하고 있습니다. 이 회사는 전 세계적으로 지열 발전소를 운영하며, 산업 공정에서 발생하는 폐열을 이용한 회수 에너지 시스템도 제공합니다.
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
 
 - **전방산업**:
@@ -42,12 +36,10 @@ Ormat Technologies는 주로 지열 에너지 및 회수 에너지를 이용한 
 - **소비자 서비스**: 전력 소비자에게 서비스 제공. 대표 기업: NextEra Energy (미국, [NEE](/company-analysis/nee/)), Southern Company (미국, [SO](/company-analysis/so/)).
 
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **지열 발전소**: 지열 자원을 이용한 전력 생산.
 - **회수 에너지 시스템**: [산업 공정에서 발생하는 폐열을 이용한 전력 생산].
 - **에너지 저장 시스템**: 재생 에너지의 저장 및 관리.
+### 주요 판매국가
 ### 주요 판매국가
 Ormat Technologies는 주로 미국, 케냐, 뉴질랜드, 필리핀 등에서 전력을 판매하고 있습니다. 주요 시장은 미국과 케냐입니다.
 

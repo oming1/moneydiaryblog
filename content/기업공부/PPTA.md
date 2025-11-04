@@ -20,9 +20,6 @@ weight: 708
 영위사업: 
 
 - 금과 안티모니 광산 개발 및 생산, 26년을 목표로 미국 정부와 안티모니 채굴 프로젝트 진행 중인 기업
-
-{{< adsense-infeed >}}
-
 전방/후방산업:  
 
 후방산업: 
@@ -46,16 +43,10 @@ weight: 708
 - [안티모니](/industry-study/안티모니/) (전략적 부산물, 반도체, 배터리, 국방산업 원료)
 
 주요 판매국가: 미국 (예정)경쟁업체:
-
-{{< adsense-infeed >}}
-
 - Barrick Gold Corporation (캐나다, [B](/company-analysis/b/)) (금 생산)
 - Newmont Corporation (US, [NEM](/company-analysis/nem/)) (금 생산)
 - United States Antimony Corporation (US, [UAMY](/company-analysis/uamy/)) (안티모니 생산) 
 - [Hunan Gold](/company-analysis/hunan-gold/)Corporation(002155 CH)
-
-{{< adsense-infeed >}}
-
 산업 내 글로벌 시장 점유율: 
 
 - 아직 생산 단계에 진입하지 않아 시장 점유율 없음

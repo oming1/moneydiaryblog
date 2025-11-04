@@ -23,6 +23,9 @@ weight: 652
 ## 영위사업
 
 ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 사업 영역은 다음과 같습니다:
+## 영위사업
+
+ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 사업 영역은 다음과 같습니다:
 1. 천연가스 유통: 오클라호마, 캔자스, 텍사스 주에서 약 230만 고객에게 천연가스 공급
 2. 파이프라인 운영 및 유지보수
 3. 천연가스 저장 서비스
@@ -73,14 +76,8 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
 5. 도매 및 공공기관 고객
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 ONE Gas는 미국 시장에서만 사업을 영위하고 있으며, 특히 오클라호마, 캔자스, 텍사스 주에서 서비스를 제공하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Atmos Energy(US, [ATO](/company-analysis/ato/))
 2. Southwest Gas Holdings(US, [SWX](/company-analysis/swx/))
 3. Spire Inc.(US, [SR](/company-analysis/sr/))

@@ -18,9 +18,6 @@ weight: 921
 #에너지자산운영 #석유가스생산 #헬륨개발 #산업용가스 #탄소격리 #자산매각 #부채청산 #주주환원 #KevinDome #몬타나 #자산포트폴리오 #저감소생산 #자유현금흐름 #주식환매 #운영효율성 #탐사및생산 #유전개발 #에너지전환 #에너지 #석유가스탐사및생산
 
 ## 산업섹터
-
-{{< adsense-infeed >}}
-
 섹터: 에너지
 산업: 석유가스탐사및생산
 
@@ -44,9 +41,6 @@ U.S. Energy Corp.(NASDAQ: USEG)는 미국 내 고품질 에너지 및 산업용 
 6. 주주 환원 정책: 적극적인 자사주 매입 프로그램 실행
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 정유 및 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 산업용 가스: Air Products(US, APD), Linde(IE, LIN)
@@ -57,9 +51,6 @@ U.S. Energy Corp.(NASDAQ: USEG)는 미국 내 고품질 에너지 및 산업용 
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: National Oilwell Varco(US, [NOV](/company-analysis/nov/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 파이프라인 운영: Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Energy Transfer(US, [ET](/company-analysis/et/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - [원유](/industry-study/원유/): 로키산맥, 중부대륙, 텍사스 지역 생산, 매출의 약 60% (2024년 기준)
@@ -80,9 +71,6 @@ U.S. Energy Corp.(NASDAQ: USEG)는 미국 내 고품질 에너지 및 산업용 
 ## 산업 내 글로벌 시장 점유율
 
 U.S. Energy Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 회사는 중소형 독립계 석유/가스 생산업체로, 미국 내 특정 지역에 집중하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Kevin Dome 지역에서 첫 산업용 가스정 시추 및 최대 1.5% 헬륨 농도 확인 (2024년)

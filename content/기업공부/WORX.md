@@ -20,13 +20,7 @@ weight: 972
 
 #### 영위사업
 WORX는 정원 및 전동 공구를 설계, 제조 및 유통하는 브랜드로, Positec Tool Corporation에 의해 소유 및 운영됩니다. 주요 제품군에는 잔디 깎기, 전동 톱, 잔디 트리머, 송풍기 등이 포함됩니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **소매**: 대형 소매업체 (예: Lowe’s, Walmart, The Home Depot, Canadian Tire, Costco)
     - **전자상거래**: 온라인 플랫폼 (예: Amazon, WORX 자체 전자상거래 사이트)

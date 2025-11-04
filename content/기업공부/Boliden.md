@@ -34,9 +34,6 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 - 광산 장비: Epiroc AB (SE, EPI-A)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/) (매출 비중 정보 없음)
 - [아연](/industry-study/아연/) (매출 비중 정보 없음)
 - [납](/industry-study/납/) (매출 비중 정보 없음)
@@ -51,9 +48,6 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 - Glencore (CH, [GLEN](/company-analysis/glen/)) - 다양한 금속 및 광물
 - Rio Tinto (UK/AU, [RIO](/company-analysis/rio/)) - 다양한 금속 및 광물
 - BHP Group (AU, [BHP](/company-analysis/bhp/)) - 다양한 금속 및 광물
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 구체적인 시장 점유율 정보는 제공된 자료에 없습니다.

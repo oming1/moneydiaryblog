@@ -154,9 +154,6 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Atmus Filtration Technologies(US, ATMU) — 내연기관·모바일 필터
 - Parker-Hannifin(US, PH) — 공정/유압·공압 필터
 - Danaher(Pall)(US, [DHR](/company-analysis/dhr/)) — 고청정/생명과학
@@ -183,9 +180,6 @@ Donaldson은 1915년 설립, 미국 미네소타주 블루밍턴에 본사를 �
 ---
 
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 공급망/운임 급등 구간 이후 가격·믹스 개선과 비용 정상화 진행.
 - 고청정·생명과학 및 전자/배터리 공정 관련 투자 확대, 포트폴리오 보강.
 - 일부 지역·채널 디스톡킹 이후 애프터마켓 정상화와 산업 프로젝트 수주 회복.

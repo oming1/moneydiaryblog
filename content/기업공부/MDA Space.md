@@ -22,9 +22,6 @@ weight: 556
 MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 등을 제공하는 캐나다의 우주 기술 기업입니다. 주요 사업 영역으로는 지구 관측, 우주 로보틱스, 위성 통신 시스템 등이 있습니다.
 
 - NASA, ISS 대상 위성 부착 로봇팔 ‘Canadarm’ 제조 및 위성 영상과 이미지 분석 서비스
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - 전방 산업:
@@ -50,9 +47,6 @@ MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 �
     - Canadarm 시리즈 등 우주 로봇 기술을 개발하고 제공합니다.
     - 대표 기업: Northrop Grumman (미국, [NOC](/company-analysis/noc/)), Astrobotic Technology (미국, 비상장)
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - RADARSAT [인공위성](/industry-study/인공위성/) 시리즈 (지구 관측용)
 - Canadarm3 (달 궤도 정거장용 로봇 팔)
 - [통신 위성](/industry-study/통신-위성/) 시스템

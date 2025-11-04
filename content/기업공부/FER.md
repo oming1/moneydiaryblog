@@ -25,9 +25,6 @@ Ferrovial SE는 글로벌 인프라 운영 기업입니다.
 Ferrovial SE는 4개의 주요 사업 부문을 운영하고 있습니다:
 
 1. 유료도로(Toll Roads):
-
-{{< adsense-infeed >}}
-
     - 전 세계적으로 유료도로 개발, 투자 및 운영
     - 주요 자산: 407 ETR(캐나다), North Tarrant Express(미국), LBJ Express(미국) 등
 2. 공항(Airports):
@@ -39,14 +36,8 @@ Ferrovial SE는 4개의 주요 사업 부문을 운영하고 있습니다:
     - 토목 공사, 건물 및 산업 시설 설계 및 건설
     - 주요 프로젝트: 구겐하임 미술관(스페인), 마드리드 바라하스 공항 터미널 4 등
 4. 에너지 및 모빌리티 인프라(Energy and Mobility Infrastructure):
-
-{{< adsense-infeed >}}
-
     - 재생 에너지, 지속 가능한 모빌리티, 순환 경제 프로젝트 관리
     - 도시 항공 모빌리티(UAM) 및 첨단 항공 모빌리티(AAM) 사업 진출
-
-{{< adsense-infeed >}}
-
 Ferrovial SE는 15개국 이상에서 사업을 영위하고 있으며, 주로 미국, 스페인, 영국, 캐나다, 폴란드에 집중되어 있습니다
 
 ## 전방/후방산업

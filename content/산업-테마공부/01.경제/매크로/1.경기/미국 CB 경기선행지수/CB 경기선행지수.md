@@ -21,6 +21,9 @@ weight: 2
 **관련 링크:**
 - 컨퍼런스보드 웹사이트: [https://www.conference-board.org/](https://www.conference-board.org/)
 - 경기선행지수 데이터: [https://www.conference-board.org/data/economic-indicators/leading-economic-index.html](https://www.conference-board.org/data/economic-indicators/leading-economic-index.html)
+**관련 링크:**
+- 컨퍼런스보드 웹사이트: [https://www.conference-board.org/](https://www.conference-board.org/)
+- 경기선행지수 데이터: [https://www.conference-board.org/data/economic-indicators/leading-economic-index.html](https://www.conference-board.org/data/economic-indicators/leading-economic-index.html)
 **이슈**
 - 코로나 이후 서비스가 강해지면서 설명력이 약해진 선행지수의 수정을 통해 경기를 다시 예측해보고자 하는 움직임이 있음
 	-[수정 선행지수 통한 경기 전망, 24.8.27, NH투자증권](content/산업-테마공부/01.경제/매크로/1.경기/미국%20컨퍼런스보드%20경기선행지수/Report/2024/8.27_수정%20선행지수%20통한%20경기%20전망.pdf#page=1&selection=17,0,25,2&color=yellow))

@@ -20,17 +20,11 @@ weight: 958
 섹터: 정보기술
 산업: 컴퓨터하드웨어
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계, 제조, 판매하는 글로벌 선도 기업입니다. 1970년에 설립된 이 회사는 하드 디스크 드라이브(HDD), 솔리드 스테이트 드라이브(SSD), 낸드 플래시 메모리 등 다양한 제품을 통해 개인, 기업 및 데이터 센터 고객에게 서비스를 제공합니다.주요 사업 부문은 다음과 같습니다:
 
 1. HDD 사업: 클라이언트, 엔터프라이즈, 데이터 센터용 HDD 제공
 2. 플래시 사업: SSD 및 낸드 플래시 메모리 기반 솔루션
 3. 데이터 센터 솔루션: Zoned Storage 및 OpenFlex 아키텍처 기반 제품
-
-{{< adsense-infeed >}}
-
 2024년 기준, Western Digital은 전 세계 18개국에 법인을 두고 있으며 약 51,000명의 직원을 보유하고 있습니다. 최근에는 HDD와 플래시 사업을 각각 독립적인 상장 회사로 분리하려는 계획을 발표하며 전략적 재편을 진행 중입니다.
 
 ## 핵심 경쟁력
@@ -46,9 +40,6 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 데이터 센터: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
 - 소비자 전자제품: Dell Technologies(US, [DELL](/company-analysis/dell/)), HP Inc.(US, [HPQ](/company-analysis/hpq/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 반도체 제조: Micron Technology(US, [MU](/company-analysis/mu/)), SK hynix(KR, 000660)
@@ -76,9 +67,6 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 개인용 컴퓨터 및 프린터
 - Lenovo Group(HK, [992]) - 개인용 컴퓨터 및 서버
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 클라우드 및 데이터 센터 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 중국, 일본, 한국, 대만, 유럽 주요국

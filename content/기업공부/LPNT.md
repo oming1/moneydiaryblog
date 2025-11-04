@@ -25,9 +25,6 @@ LifePoint Health는 미국의 성장 지역, 농촌 지역 및 소도시에서 �
 3. 외래 진료: 170개 이상의 추가 진료 시설 (외래 재활 유닛, 외래 센터, 급성기 이후 치료 시설 등) 운영
 
 LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고용 의료진을 보유하고 있으며, 지역사회 중심의 의료 서비스 제공에 주력하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 다각화된 의료 서비스 네트워크: 지역사회 병원, 재활 및 행동 건강 시설, 외래 진료 센터 등 다양한 의료 서비스를 제공하여 종합적인 의료 케어 가능
@@ -49,9 +46,6 @@ LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고�
 1. 의료 IT 솔루션: Cerner Corporation(US, CERN), Epic Systems Corporation(Epic Systems)
 2. 의료 장비 제조: Siemens Healthineers(DE, SHL)
 3. 의료 소모품 공급: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 의료 시설 개발 및 운영: LifePoint Health, HCA Healthcare(US, [HCA](/company-analysis/hca/))
@@ -61,9 +55,6 @@ LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고�
 5. 의료 IT 및 데이터 관리: Cerner Corporation(US, CERN)
 6. 원격 의료 서비스: Teladoc Health(US, TDOC)
 7. 혁신 및 기술 파트너십: Google Cloud(US, [GOOGL](/company-analysis/googl/)), Health Catalyst(US, HCAT)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스 제공
@@ -78,10 +69,8 @@ LifePoint Health의 주요 고객은 의료 서비스를 필요로 하는 지역
 
 ## 주요 판매국가
 미국이 주요 판매국가입니다. LifePoint Health는 미국 내 29개 주에서 의료 서비스를 제공하고 있습니다.
+미국이 주요 판매국가입니다. LifePoint Health는 미국 내 29개 주에서 의료 서비스를 제공하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. HCA Healthcare(US, [HCA](/company-analysis/hca/)) - 종합 병원 및 외래 시설 운영
 2. Universal Health Services(US, [UHS](/company-analysis/uhs/)) - 행동 건강 및 급성 치료 시설 운영
 3. Community Health Systems(US, [CYH](/company-analysis/cyh/)) - 지역 병원 네트워크 운영

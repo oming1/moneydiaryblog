@@ -26,9 +26,6 @@ Amkor Technology는 세계 최대의 반도체 패키징 및 테스트 아웃소
 3. 턴키 솔루션: 설계부터 최종 테스트까지 종합 서비스 제공
 
 주요 시장 분야:
-
-{{< adsense-infeed >}}
-
 - 통신 (스마트폰, 5G 인프라)
 - 컴퓨팅 (데이터센터, AI)
 - 자동차 및 산업용 전자기기
@@ -48,9 +45,6 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
     - 스마트폰: Apple (US, [AAPL](/company-analysis/aapl/)), Samsung Electronics (KR, 005930)
     - 데이터센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
     - 자동차: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 설계: Amkor Technology (자체 설계 및 고객 설계)
@@ -58,6 +52,7 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 3. 패키징 및 테스트: Amkor Technology (주요 사업 영역)
 4. 유통: Arrow Electronics (US, [ARW](/company-analysis/arw/)), Avnet (US, [AVT](/company-analysis/avt/))
 5. 최종 사용자: 다양한 전자기기 제조업체
+## 주요제품
 ## 주요제품
 1. 고급 패키징 솔루션 (플립칩, 웨이퍼 레벨 패키지 등)
 2. 주류 패키징 솔루션 (리드프레임, 와이어본드 등)
@@ -70,9 +65,6 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 3. 한국 (2024년 3분기 매출 비중: 8.36%)
 4. 유럽 (2024년 3분기 매출 비중: 4.06%)
 5. 미국 (2024년 3분기 매출 비중: 2.23%)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. ASE Technology Holding (TW, ASX)
@@ -82,6 +74,9 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 5. ChipMOS Technologies (TW, 8150)
 
 ## 산업 내 글로벌 시장 점유율
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Amkor는 세계 최대 반도체 패키징 및 테스트 아웃소싱 서비스 제공업체 중 하나로 알려져 있습니다.
+
+## 최근 3년 내 주요 이슈
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Amkor는 세계 최대 반도체 패키징 및 테스트 아웃소싱 서비스 제공업체 중 하나로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈

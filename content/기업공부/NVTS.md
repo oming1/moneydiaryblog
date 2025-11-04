@@ -19,10 +19,10 @@ weight: 643
 산업: [반도체](/industry-study/반도체/)(Semiconductors)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Navitas Semiconductor Corp는 초고효율 갈륨 나이트라이드([GaN](/industry-study/gan/)) 반도체를 개발하는 기업입니다. GaN 파워 IC를 통해 GaN 전력을 구동, 제어, 보호 기능과 통합하여 고속 충전, 고전력 밀도, 에너지 절약을 가능하게 합니다. 주요 사업 영역은 모바일 기기, 소비자 가전, 기업용 장비, 전기 이동성(eMobility) 및 신에너지 시장을 위한 반도체 설계, 개발, 제조 및 마케팅입니다. 회사는 단일 보고 세그먼트로 운영되며, 혁신적인 GaN 기술을 통해 전력 전자 산업의 변혁을 주도하고 있습니다.
+## 전방/후방산업
+
+## 후방산업
 ## 전방/후방산업
 
 ## 후방산업
@@ -49,9 +49,6 @@ Navitas Semiconductor Corp는 초고효율 갈륨 나이트라이드([GaN](/indu
 - GaNSense 기술: 과전류, 과전압 보호 기능이 통합된 GaN IC
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 중국, 유럽, 미국, 아시아 기타 지역
 ## 경쟁업체
 

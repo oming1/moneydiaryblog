@@ -43,9 +43,6 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 정유: Imperial Oil(CA, IMO), Suncor Energy(CA, [SU](/company-analysis/su/))
 - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/)), LyondellBasell(US, [LYB](/company-analysis/lyb/))
 - 전력 생산: TransAlta Corporation(CA, [TAC](/company-analysis/tac/)), Enbridge Inc.(CA, ENB)
@@ -54,9 +51,6 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Caterpillar Inc.(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 파이프라인: TC Energy(CA, TRP), Enbridge Inc.(CA, ENB)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 6. 탐사: Canadian Natural Resources(CA, [CNQ](/company-analysis/cnq/)) (석유 및 가스 탐사)

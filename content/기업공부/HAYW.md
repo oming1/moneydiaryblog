@@ -20,9 +20,6 @@ weight: 399
 
 **영위사업:** Hayward Holdings Inc.는 주로 수영장 장비 및 관련 제품을 제조하고 판매합니다. 주요 제품으로는 펌프, 필터, 히터, 자동 청소기, 조명, 소금 염소화 시스템 등이 있습니다.
 **전방/후방산업:**
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 건축 및 건설 산업
     - **핵심 산업:** 주택 및 상업용 건축
     - **관련 기업:** Lennar Corporation (미국, [LEN](/company-analysis/len/)), D.R. Horton (미국, [DHI](/company-analysis/dhi/))
@@ -30,19 +27,14 @@ weight: 399
     - **핵심 산업:** 플라스틱 제조, 금속 가공
     - **관련 기업:** Dow Inc. (미국, [DOW](/company-analysis/dow/)), BASF SE (독일, BAS)
 **밸류체인:**
+**밸류체인:**
 - **원자재 공급:** 플라스틱, 금속, 전자 부품
     - **대표 회사:** Dow Inc. (미국, [DOW](/company-analysis/dow/)) - 플라스틱, BASF SE (독일, BAS) - 화학 제품
 - **제조:** 수영장 장비 및 부품 제조
     - **대표 회사:** Hayward Holdings Inc. (미국, [HAYW](/company-analysis/hayw/))
 - **유통:** 제품 유통 및 판매
     - **대표 회사:** Pool Corporation (미국, POOL) - 수영장 제품 유통, Leslie’s Inc. (미국, LESL) - 수영장 용품 소매
-
-{{< adsense-infeed >}}
-
 **주요제품:**
-
-{{< adsense-infeed >}}
-
 - **펌프:** 수영장 물 순환 및 여과
 - **필터:** 물의 불순물 제거
 - **히터:** 수영장 물 온도 조절
@@ -51,9 +43,6 @@ weight: 399
 - **소금 염소화 시스템:** 소금을 이용한 물 소독
 
 **주요 판매국가:**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 시장
 - **캐나다:** 북미 시장 확대
 - **유럽:** 주요 수출 지역

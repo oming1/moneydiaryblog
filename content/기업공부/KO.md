@@ -19,9 +19,6 @@ weight: 493
 - **산업(Industry)**: 음료 - 청량음료(Beverages - Soft Drinks)
 
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**: 소매업, 레스토랑 및 외식업
     - **핵심 산업 및 역할**: 소매업체와 레스토랑은 Coca-Cola 제품을 최종 소비자에게 판매합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), McDonald’s Corporation (미국, [MCD](/company-analysis/mcd/))
@@ -29,6 +26,7 @@ weight: 493
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 음료 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: Archer Daniels Midland Company (미국, ADM), Ball Corporation (미국, [BALL](/company-analysis/ball/))
+#### 밸류체인
 #### 밸류체인
 - **원재료 조달**: 음료 제조에 필요한 원재료 조달
     - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, INGR)
@@ -43,9 +41,6 @@ weight: 493
 - **스포츠 음료**: Powerade
 - **물**: Dasani, Smartwater
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지
 - **멕시코**: 큰 시장 중 하나로, 높은 매출 비중
 - **중국**: 빠르게 성장하는 시장
@@ -56,15 +51,9 @@ weight: 493
 - **Keurig Dr Pepper Inc. (미국, [KDP](/company-analysis/kdp/))**: 탄산음료, 커피
 - **Nestlé S.A. (스위스, [NESN](/company-analysis/nesn/))**: 물, 유제품 음료
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **Coca-Cola**: 글로벌 청량음료 시장에서 약 45%의 점유율 (2023년 기준)
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **COVID-19 팬데믹**: 외식업 감소로 인한 매출 하락 (2020년)
 - **지속 가능성 강화**: 재활용 가능한 포장재 사용 확대 (2021년)
 - **신제품 출시**: 다양한 무설탕 음료 출시 (2022년)

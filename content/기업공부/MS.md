@@ -22,9 +22,6 @@ weight: 593
 Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 투자은행 서비스, 자산 관리, 증권 거래 및 투자 관리 서비스를 제공합니다. 고객층은 기업, 정부 및 개인 투자자 등으로 다양합니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 기업 재무 및 자본 조달
@@ -39,9 +36,6 @@ Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 
     - **핵심 산업**: 금융 시장 및 데이터 분석
     - **역할**: Morgan Stanley의 서비스에 필요한 데이터 및 자본 공급
     - **주요 기업**:
-
-{{< adsense-infeed >}}
-
         - BlackRock (미국, [BLK](/company-analysis/blk/))
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 
@@ -63,6 +57,9 @@ Morgan Stanley는 글로벌 투자은행 및 금융 서비스 회사로, 주로 
         - Charles Schwab (미국, [SCHW](/company-analysis/schw/)) - 자산 관리
 
 ## 주요 제품
+- **투자은행 서비스**: M&A 및 자본 조달을 위한 금융 자문.
+    
+    - 매출 비중: 전체 매출의 약 42.6% 차지.
 - **투자은행 서비스**: M&A 및 자본 조달을 위한 금융 자문.
     
     - 매출 비중: 전체 매출의 약 42.6% 차지.

@@ -68,9 +68,6 @@ weight: 106
 ---
 
 ### 핵심 기술
-
-{{< adsense-infeed >}}
-
 - **경량화 기술:** 차량의 연비 개선 및 성능 향상을 위한 경량화 부품 개발
 
 - **전기차 부품 기술:** 전기차에 최적화된 구동계 및 서스펜션 시스템 설계
@@ -94,9 +91,6 @@ weight: 106
 - General Motors(US, [GM](/company-analysis/gm/)) - 자동차 제조
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - ArcelorMittal(US, [MT](/company-analysis/mt/)) - 강철 제조
 - Alcoa(US, [AA](/company-analysis/aa/)) - 알루미늄 제조
 
@@ -130,9 +124,6 @@ weight: 106
 
 - **강철:** 자동차 부품 제조, 주요 공급지: 미국, 주요 공급업체: ArcelorMittal(US, [MT](/company-analysis/mt/))
 - **알루미늄:** 경량화 부품 제조, 주요 공급지: 미국, 주요 공급업체: Alcoa(US, [AA](/company-analysis/aa/))
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 고객

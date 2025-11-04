@@ -31,9 +31,6 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
     - **핵심 산업:** 물 처리 및 에너지 관리
     - **역할:** 물 처리 장비 및 기술 제공, 에너지 최적화
     - **관련 기업:** Xylem Inc. (미국, XYL), Suez (프랑스, SEV)
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **연구 및 개발 (R&D):**
     - **설명:** 새로운 물 처리 및 폐기물 관리 기술 개발
@@ -49,9 +46,6 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **판매 및 마케팅:**
     - **설명:** 물 처리 및 폐기물 관리 솔루션을 최종 소비자에게 판매
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Republic Services (미국, [RSG](/company-analysis/rsg/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **물 처리 장비 및 기술**
@@ -65,9 +59,6 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **미국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
 - **영국:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Waste Management (미국, [WM](/company-analysis/wm/))**

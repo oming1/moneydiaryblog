@@ -27,13 +27,12 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 - **전방산업:**
     - **석유 및 가스 생산업체:** 원유 및 천연가스 생산. 예: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron Corporation (미국, [CVX](/company-analysis/cvx/)).
     - **정유 및 석유화학 업체:** 원유 정제 및 석유화학 제품 생산. 예: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP).
+    - **석유 및 가스 생산업체:** 원유 및 천연가스 생산. 예: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron Corporation (미국, [CVX](/company-analysis/cvx/)).
+    - **정유 및 석유화학 업체:** 원유 정제 및 석유화학 제품 생산. 예: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP).
 - **후방산업:**
     
     - **기술 및 장비 공급업체:** 시추 장비 및 기술 제공. 예: Baker Hughes (미국, [BKR](/company-analysis/bkr/)), Halliburton (미국, [HAL](/company-analysis/hal/)).
     - **데이터 분석 및 소프트웨어:** 지하 데이터 분석 및 소프트웨어 솔루션 제공. 예: IBM (미국, [IBM](/company-analysis/ibm/)), Microsoft (미국, [MSFT](/company-analysis/msft/)).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **탐사 및 시추:**
@@ -42,9 +41,6 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
     - Baker Hughes (미국, [BKR](/company-analysis/bkr/)): 시추 장비 및 서비스.
       
 - **유정 완성 및 생산:**
-
-{{< adsense-infeed >}}
-
     - Halliburton (미국, [HAL](/company-analysis/hal/)): 유정 완성 및 생산 서비스.
     - Weatherford International (미국, [WFRD](/company-analysis/wfrd/)): 유정 완성 및 생산 서비스.
       
@@ -52,9 +48,6 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
     
     - IBM (미국, [IBM](/company-analysis/ibm/)): 데이터 분석 및 소프트웨어 솔루션.
     - Microsoft (미국, [MSFT](/company-analysis/msft/)): 데이터 관리 및 클라우드 솔루션.
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **지하 데이터 처리 서비스:** 지하 구조 분석 및 데이터 처리.

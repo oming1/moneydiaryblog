@@ -32,9 +32,6 @@ weight: 26
 - **전방산업 (Downstream Industry)**:
     - **핵심 산업**: 디지털 마케팅, 콘텐츠 배포
     - **핵심 기업**: Salesforce (미국, [CRM](/company-analysis/crm/)), HubSpot (미국, HUBS)
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **소프트웨어 개발 (Software Development)**:
@@ -59,9 +56,6 @@ weight: 26
 - **아시아 태평양 (APAC)**: 전체 매출의 15.15% (2020년 기준)
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Microsoft (미국, [MSFT](/company-analysis/msft/))**: 소프트웨어 개발 및 클라우드 서비스
 - **Salesforce (미국, [CRM](/company-analysis/crm/))**: 고객 관계 관리 (CRM) 소프트웨어
 - **Autodesk (미국, [ADSK](/company-analysis/adsk/))**: 3D 디자인 및 엔지니어링 소프트웨어

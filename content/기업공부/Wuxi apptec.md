@@ -31,9 +31,6 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
     - 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 - **후방산업:** 화학 물질 및 원료 공급업체 (연구 및 제조에 필요한 원료 제공)
     - 주요 기업: BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인 (Value Chain)
 
 1. **연구 및 개발 (R&D)**
@@ -56,14 +53,8 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
 - **중국:** 본사 위치 및 주요 시장
 
 #### 경쟁업체 (Competitors)
-
-{{< adsense-infeed >}}
-
 - **Pharmaron** (CN, 300759): CRO 및 CDMO 서비스 제공
 - **Charles River Laboratories** (US, [CRL](/company-analysis/crl/)): 전임상 및 임상 연구 서비스 제공
 - **Lonza Group** (CH, [LONN](/company-analysis/lonn/)): 제약 및 바이오테크 제조 서비스 제공
 #### 산업 내 글로벌 시장 점유율 (Global Market Share)
-
-{{< adsense-infeed >}}
-
 - WuXi AppTec는 글로벌 제약 및 생명과학 산업에서 중요한 역할을 하고 있으며, 특히 CRDMO 및 CTDMO 서비스에서 강력한 입지를 가지고 있습니다.

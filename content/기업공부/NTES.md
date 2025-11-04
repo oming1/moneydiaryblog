@@ -32,14 +32,14 @@ weight: 631
 3. **클라우드 음악**: 다양한 콘텐츠 및 서비스 패키지의 멤버십 구독, 소셜 엔터테인먼트 서비스, 가상 아이템 판매를 통해 온라인 음악 서비스를 제공합니다.
     
 4. **혁신 및 기타 사업**: 이커머스(Yanxuan), 광고 서비스 및 기타 부가가치 서비스를 포함합니다.
+3. **클라우드 음악**: 다양한 콘텐츠 및 서비스 패키지의 멤버십 구독, 소셜 엔터테인먼트 서비스, 가상 아이템 판매를 통해 온라인 음악 서비스를 제공합니다.
+    
+4. **혁신 및 기타 사업**: 이커머스(Yanxuan), 광고 서비스 및 기타 부가가치 서비스를 포함합니다.
 NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 중국에서 가장 큰 온라인 서비스 제공업체 중 하나로 성장했습니다. 회사는 게임, 클라우드 음악, 미디어, 광고, 이메일, 라이브 스트리밍, 온라인 교육 및 이커머스 등 다양한 서비스를 제공합니다.
 
 ## 핵심 경쟁력
 
 1. **다양한 서비스 포트폴리오**: 게임, 음악, 교육, 미디어 등 다양한 분야에서의 서비스 제공으로 고객의 다양한 요구를 충족시킵니다.
-
-{{< adsense-infeed >}}
-
 2. **강력한 R&D 역량**: 지속적인 연구개발 투자를 통해 혁신적인 제품과 서비스를 개발하고 있습니다.
     
 3. **글로벌 확장**: 중국을 넘어 일본, 미국, 유럽, 동남아시아 등으로 사업을 확장하고 있습니다.
@@ -73,17 +73,11 @@ NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 중국�
 - **콘텐츠 창작자 및 IP 라이센서**: 게임 및 콘텐츠 개발 협력 (Blizzard Entertainment(Blizzard Entertainment), Mojang Studios(Mojang Studios))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. **게임/콘텐츠 개발**: NetEase(US, [NTES](/company-analysis/ntes/)) (자체 게임 개발), Blizzard Entertainment(Blizzard Entertainment) (IP 제공 및 협력 개발)
     
 2. **기술 인프라**: Alibaba Cloud(US, [BABA](/company-analysis/baba/)) (클라우드 서비스), Tencent Cloud(HK, 0700) (네트워크 인프라)
     
 3. **출판 및 배포**: Apple App Store(Apple App Store) (iOS 앱 배포), Google Play(US, [GOOGL](/company-analysis/googl/)) (안드로이드 앱 배포)
-
-{{< adsense-infeed >}}
-
 4. **마케팅 및 사용자 확보**: ByteDance([ByteDance](/company-analysis/bytedance/)) (디지털 광고 플랫폼), Tencent(HK, 0700) (소셜 미디어 마케팅)
     
 5. **결제 처리**: Alipay(Alipay) (디지털 결제), WeChat Pay(WeChat Pay) (모바일 결제 솔루션)
@@ -178,9 +172,6 @@ NetEase의 주요 주주와 지분율은 다음과 같습니다:
 2. **BlackRock Inc.** (9.17%)
     
 3. **State Street Corporation** (4.47%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. **Global X Social Media ETF - SOCL** (NetEase 5.31% 비중)

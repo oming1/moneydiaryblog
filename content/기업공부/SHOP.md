@@ -76,6 +76,9 @@ weight: 791
 ---
 
 ### 제조 공정
+---
+
+### 제조 공정
 해당 없음 – SaaS 및 서비스 모델
 
 ---
@@ -131,9 +134,6 @@ weight: 791
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - WooCommerce (오픈소스)
 - Adobe Commerce (Magento)
 - BigCommerce
@@ -174,9 +174,6 @@ weight: 791
 - T. Rowe Price: 약 6.2%
 - SoftBank Vision Fund: 약 4.7%
 - Tobias Lütke(창업자·CEO): 약 7.1%
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 관련 ETF

@@ -42,13 +42,11 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 ## 전방/후방산업
 1. 후방산업:
+1. 후방산업:
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
     - 건설: Lennar(US, [LEN](/company-analysis/len/))
@@ -59,9 +57,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 2. 생산: Dow Inc. (주요 사업 영역)
 3. 유통: Brenntag(DE, BNR) - 화학제품 유통
 4. 최종 소비자: Procter & Gamble(US, [PG](/company-analysis/pg/)) - 소비재 제조
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 폴리에틸렌 (포장재, 2023년 매출 비중: 약 30%)
@@ -91,9 +86,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 4. Covestro(DE, 1COV) - 폴리머 소재
 5. Huntsman(US, [HUN](/company-analysis/hun/)) - 특수 화학제품
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Dow는 세계 3대 화학기업 중 하나로 평가받고 있습니다.
 
 ## 최근 3년 내 주요 이슈

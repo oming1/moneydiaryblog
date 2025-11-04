@@ -117,9 +117,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **인테그리스 (Entegris, [ENTG](/company-analysis/entg/))** 
     
     - 반도체 제조에 필요한 핵심 소재 및 공정 솔루션을 제공하는 기업으로, 칩스법의 직접 수혜 기업입니다. 콜로라도주에 제조 센터를 건설하기 위해 7,700만 달러의 지원금을 받았습니다. 이는 반도체 제조의 필수적인 소재 공급망 강화에 기여합니다.
-
-{{< adsense-infeed >}}
-
 - **HP (HP Inc., [HPQ](/company-analysis/hpq/))**
     
     - 개인용 컴퓨터, 프린터 등을 생산하는 기업으로, 반도체 수요의 주요 축을 담당하며 칩스법의 간접적인 수혜가 예상됩니다.
@@ -150,9 +147,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **울프스피드 (Wolfspeed, [WOLF](/company-analysis/wolf/))**
     
     - 실리콘 카바이드(SiC) 및 질화갈륨(GaN) 반도체를 제조하는 기업으로, 칩스법 수혜 기업 목록에 있습니다.
-
-{{< adsense-infeed >}}
-
 - **앱솔릭스 (Absolics)**
     
     - SKC의 계열사로, 첨단 패키징용 글래스 기판 기술 개발을 위해 7,500만 달러의 직접 지원을 받았습니다. 이는 미국 내 첨단 패키징 생태계 구축에 기여하며, 반도체 후공정 분야의 중요한 발전으로 평가됩니다.

@@ -21,9 +21,6 @@ Industry: 자동차 소매(Auto & Truck Dealerships)
 ## 영위사업
 
 AutoNation, Inc.는 미국 최대의 [자동차](/industry-study/자동차/) 소매업체로, 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 신차 및 중고차 판매
 2. 부품 및 서비스 (차량 수리, 유지보수, 부품 판매, 충돌 수리 서비스)
 3. 금융 및 보험 (F&I) 상품 제공
@@ -39,27 +36,21 @@ AutoNation은 미국 전역, 특히 Sunbelt 지역의 대도시 지역에 252개
 ## 전방/후방산업
 
 ## 전방산업
+## 전방/후방산업
+
+## 전방산업
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
 - 보험회사: 차량 보험 상품 제공
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 차량 공급: 자동차 제조업체 (예: Ford Motor Company (US, [F](/company-analysis/f/)))
 2. 부품 공급: 자동차 부품 제조업체
 3. 소매 판매 및 서비스: AutoNation (US, [AN](/company-analysis/an/))
 4. 금융 서비스: AutoNation의 F&I 부문
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 신차 및 중고차

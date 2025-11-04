@@ -22,9 +22,6 @@ weight: 820
 Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 수집하고 분석하는 우주 기반 데이터 및 분석 회사입니다. 주로 해양, 항공, 기상 패턴 추적 등의 서비스를 제공합니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - 전방 산업:
     - 핵심 산업: 기상 예측, 해양 운송, 항공 교통 관리
     - 역할: 위성 데이터 및 분석 서비스 제공
@@ -48,9 +45,6 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
     - 대표 기업: BlackSky (미국, [BKSY](/company-analysis/bksy/)), Satellogic (미국, [SATL](/company-analysis/satl/))
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - 해양 데이터 서비스 (AIS 선박 추적 등)
 - 항공 데이터 서비스 (ADS-B 항공기 추적 등)
 - 기상 및 기후 데이터 서비스
@@ -66,13 +60,7 @@ Spire Global은 전 세계적으로 서비스를 제공하며, 특히 미국, �
 - BlackSky (미국, [BKSY](/company-analysis/bksy/)) - 실시간 지리공간 정보 제공
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 없으나, Spire Global은 나노위성 기반 데이터 서비스 분야에서 선도적인 위치를 차지하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 - 해양 사업부를 Kpler에 $241백만에 매각 계획 발표 (2024년)
 - LEMUR 위성 7기를 SpaceX Transporter-11 미션으로 발사 (2024년)

@@ -19,10 +19,8 @@ weight: 85
 - **Industry**: Semiconductors ([반도체](/industry-study/반도체/))
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Arm Holdings는 영국에 본사를 둔 반도체 및 소프트웨어 설계 회사로, 주로 모바일 및 임베디드 시스템에서 사용되는 프로세서 아키텍처를 제공합니다. Arm의 기술은 스마트폰, 태블릿, IoT 장치, [자동차](/industry-study/자동차/) 및 기타 전자제품에 널리 사용됩니다. Arm은 프로세서 설계에 대한 라이센스를 제공하여 다양한 제조업체가 Arm 아키텍처를 기반으로 한 칩을 개발할 수 있도록 지원합니다.
+## 전방/후방산업
 ## 전방/후방산업
 - **전방산업:**
     - **자동차 산업:** ARM의 기술은 자동차의 전자 시스템에 사용됩니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), Toyota (일본, 7203).
@@ -47,21 +45,12 @@ Arm Holdings는 영국에 본사를 둔 반도체 및 소프트웨어 설계 회
     - Avnet (미국, [AVT](/company-analysis/avt/)): 전자 부품 유통.
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - **Cortex-A 시리즈:** 고성능 애플리케이션 프로세서.
 - **Cortex-M 시리즈:** 저전력 [마이크로컨트롤러](/industry-study/마이크로컨트롤러/).
 - **Mali GPU:** 그래픽 처리 장치.
 - **Neoverse:** 서버 및 인프라용 프로세서.
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Arm은 전 세계적으로 운영되며, 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다.
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Advanced Micro Devices (AMD) (미국, [AMD](/company-analysis/amd/)):** CPU 및 GPU 설계.

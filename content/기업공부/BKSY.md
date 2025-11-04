@@ -26,15 +26,9 @@ BlackSky는 실시간 지리공간 정보 및 글로벌 모니터링 서비스�
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 국방, 정보기관, 환경 모니터링, 도시계획
     - 역할: 실시간 위성 이미지 및 분석 데이터 제공
     - 주요 기업: Esri (미국, 비상장), Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
-
-{{< adsense-infeed >}}
-
 - 후방 산업:
     
     - 핵심 산업: 위성 제조 및 발사
@@ -47,9 +41,6 @@ BlackSky는 실시간 지리공간 정보 및 글로벌 모니터링 서비스�
     - BlackSky는 LeoStella와 협력하여 자체 위성을 설계 및 제조합니다.
     - 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Planet Labs (미국, [PL](/company-analysis/pl/))
 - 위성 이미지 분석 및 서비스:
-
-{{< adsense-infeed >}}
-
     - Spectra AI 플랫폼을 통해 수집된 이미지를 분석하고 고객에게 제공합니다.
     - 대표 기업: Spire Global (미국, [SPIR](/company-analysis/spir/)), Satellogic (미국, [SATL](/company-analysis/satl/))
 
@@ -69,6 +60,7 @@ BlackSky는 주로 미국 정부 및 기업을 대상으로 서비스를 제공�
 - Spire Global (미국, [SPIR](/company-analysis/spir/)) - 위성 기반 데이터 및 분석 서비스
 
 ## 산업 내 글로벌 시장 점유율
+정확한 시장 점유율 데이터는 없으나, BlackSky는 실시간 지리공간 정보 분야에서 빠르게 성장하고 있는 기업 중 하나입니다.
 정확한 시장 점유율 데이터는 없으나, BlackSky는 실시간 지리공간 정보 분야에서 빠르게 성장하고 있는 기업 중 하나입니다.
 ## 최근 3년 내 주요 이슈
 

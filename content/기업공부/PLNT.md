@@ -30,9 +30,6 @@ Planet Fitness는 미국 최대의 저가 헬스클럽 체인으로, "Judgement 
 Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공하여 초보자와 캐주얼 운동족을 주요 타겟으로 합니다. 회사는 지속적인 회원 증가와 신규 지점 확장을 통해 성장하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 강력한 브랜드 인지도: "Judgement Free Zone" 컨셉으로 차별화
 2. 저가 모델: 월 $10의 저렴한 기본 회원권으로 넓은 고객층 확보
 3. 프랜차이즈 모델: 빠른 확장과 안정적인 수익 창출
@@ -62,9 +59,6 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 3. Anytime Fitness(비상장): 24시간 운영 헬스클럽 프랜차이즈
 4. Crunch Fitness(비상장): 그룹 피트니스 중심의 헬스클럽
 5. Gold's Gym(비상장): 전통적인 보디빌딩 중심 헬스클럽
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. COVID-19 팬데믹 영향 및 회복 (2021-2022)
@@ -79,9 +73,6 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 3. State Street Corporation (6.74%)
 4. JPMorgan Chase & Co. (3.91%)
 5. Geode Capital Management LLC (2.05%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 1. Global X Health & Wellness ETF - BFIT
 2. Invesco Dynamic Leisure and Entertainment ETF - PEJ

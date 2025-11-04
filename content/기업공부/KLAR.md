@@ -23,6 +23,9 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 ### 전방/후방산업
 
 **전방산업:**
+### 전방/후방산업
+
+**전방산업:**
 - 제약회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 - 의료기기회사: Medtronic (US, [MDT](/company-analysis/mdt/)), Boston Scientific (US, [BSX](/company-analysis/bsx/))
 
@@ -35,9 +38,6 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 - **수마트립탄 (Sumatriptan):** 편두통 치료제 (매출 비중: 2023년 기준 60%)
 - **에피네프린/아드레날린 (Epinephrine/Adrenaline):** 급성 알레르기 반응 치료제 (매출 비중: 2023년 기준 30%)
 - **시롤리무스 (Sirolimus):** 장기 이식 거부 반응 예방제 (매출 비중: 2023년 기준 10%)
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 
 - 스웨덴
@@ -54,13 +54,7 @@ Klaria Pharma Holding AB는 주로 편두통 치료를 위한 수마트립탄(Su
 ### 산업 내 글로벌 시장 점유율
 
 Klaria Pharma Holding AB의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **임상 1상 실패:** 에피네프린/아드레날린 임상 1상 실패 (2022년)
 - **신제품 출시:** 시롤리무스 상업화 성공 (2023년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

@@ -21,9 +21,6 @@ ADC Therapeutics SA(ADCT)는 항체-약물 접합체(ADC) 개발 분야의 선�
 산업: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 ADC Therapeutics는 혈액암과 고형암 치료를 위한 항체-약물 접합체(ADC)를 개발하고 있습니다. 주력 제품인 ZYNLONTA®(loncastuximab tesirine-lpyl)는 미국 FDA와 유럽 위원회로부터 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 치료제로 승인을 받았습니다. 회사는 다양한 임상 및 전임상 단계의 ADC 파이프라인을 보유하고 있으며, 독자적인 PBD 기반 ADC 기술을 통해 혈액암과 고형암 치료 패러다임을 변화시키는 것을 목표로 하고 있습니다
 
 ## 전방/후방산업
@@ -44,9 +41,6 @@ ADC Therapeutics는 혈액암과 고형암 치료를 위한 항체-약물 접합
 4. 유통 및 판매: 직접 판매 및 파트너십
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - ZYNLONTA®(loncastuximab tesirine-lpyl): 재발성 또는 불응성 DLBCL 치료제
 - Cami(camidanlumab tesirine): 개발 중인 CD25 표적 ADC
 - ADCT-601: AXL 표적 ADC (개발 중단)

@@ -19,15 +19,9 @@ weight: 179
 - **Industry:** 보험 (Insurance)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 생명 보험, 건강 보험, 재보험 등을 제공합니다
 
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 금융 서비스업
     - **핵심 산업:** 금융 서비스업은 Chubb의 보험 상품을 사용하여 다양한 금융 솔루션을 제공합니다.
     - **관련 기업:** JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/))
@@ -59,15 +53,9 @@ Chubb는 글로벌 보험 및 재보험 기업으로, 재산 및 상해 보험, 
 - **캐나다:** 주요 매출 국가
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **AIG (미국, [AIG](/company-analysis/aig/)):** 재산 및 상해 보험, 생명 보험
 - **Allianz (독일, ALV):** 재산 및 상해 보험, 생명 보험
 - **AXA (프랑스, CS):** 재산 및 상해 보험, 생명 보험
-
-{{< adsense-infeed >}}
-
 ### 산업 내 글로벌 시장 점유율
 
 - **Chubb:** 약 5% (2023년 기준)

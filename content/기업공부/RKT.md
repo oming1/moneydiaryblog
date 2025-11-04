@@ -97,9 +97,6 @@ Rocket Companies, Inc.은 1985년에 미국 미시간주 디트로이트에서 �
 ---
 
 ### 핵심 기술
-
-{{< adsense-infeed >}}
-
 - **AI 신용 평가:** 대출 승인 자동화.
 - **모바일 앱:** 실시간 추적.
 - **블록체인 문서:** 보안 강화.
@@ -137,9 +134,6 @@ Rocket은 금융 서비스 회사로 직접 제조 공정이 없습니다. 대�
 **부품 공급 단계:**
 - Microsoft(US, [MSFT](/company-analysis/msft/)): 클라우드.
 - Equifax(US, EFX): 신용 데이터.
-
-{{< adsense-infeed >}}
-
 **제조 및 조립 단계:**
 
 - 해당 없음.
@@ -233,9 +227,6 @@ Rocket은 금융 서비스 회사로 직접 제조 공정이 없습니다. 대�
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - FINX - Global X FinTech ETF FINX.
 - IPAY - ETFMG Prime Mobile Payments ETF IPAY.
 

@@ -28,10 +28,9 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 
 - 건설 및 인테리어 업체: 리조트 및 카지노 시설 건설
 - 식음료 공급업체: 레스토랑 및 바 운영을 위한 재료 공급
-
-{{< adsense-infeed >}}
-
 ## 전방산업
+- 관광 및 여행 산업: 고객 유치를 위한 협력
+- 엔터테인먼트 산업: 공연 및 이벤트 제공
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
 ## 밸류체인
@@ -58,15 +57,9 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 - Las Vegas Sands(US, [LVS](/company-analysis/lvs/))
 - Wynn Resorts(US, [WYNN](/company-analysis/wynn/))
 - Caesars Entertainment(US, [CZR](/company-analysis/czr/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, MGM Resorts는 세계 2위의 카지노 호텔 체인으로 알려져 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 코로나19 팬데믹으로 인한 영업 중단 및 회복 과정 (2020-2022)

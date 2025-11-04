@@ -417,17 +417,11 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - iShares Core S&P Small-Cap ETF(IJR) - 소형주 코어 ETF
 - Vanguard Small-Cap Value ETF(VBR) - 소형 가치주 ETF
 - iShares Russell 2000 Value ETF(IWN) - 러셀 2000 가치주 ETF
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 💡 투자 포인트 및 전망
 
 ### 긍정적 요인:
-
-{{< adsense-infeed >}}
-
 1. **희토류 개발 잠재력**: Brook Mine 프로젝트를 통한 신성장 동력 확보
 2. **강력한 재무구조**: 사상 최대 유동성과 낮은 부채비율
 3. **비용 경쟁력**: 업계 최고 수준의 생산비용 효율성

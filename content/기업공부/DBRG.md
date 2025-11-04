@@ -33,9 +33,6 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 통신사: AT&T(US, [T](/company-analysis/t/)), Verizon(US, [VZ](/company-analysis/vz/))
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Oracle(US, [ORCL](/company-analysis/orcl/))
@@ -65,13 +62,7 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 ## 산업 내 글로벌 시장 점유율
 
 DigitalBridge Group은 2024년 기준 글로벌 디지털 인프라 투자 시장에서 약 5%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 데이터센터와 셀타워 부문에서 강세를 나타내고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Vantage Data Centers에 92억 달러 규모의 지분 투자 주도 (2024년)
 - Vertical Bridge의 33억 달러 규모 타워 거래 완료 (2024년)
 - ADIA와 함께 Landmark Dividend의 40% 지분 인수 (2024년)
@@ -91,9 +82,6 @@ DigitalBridge Group은 2024년 기준 글로벌 디지털 인프라 투자 시�
 - iShares U.S. Telecommunications ETF - IYZ
 - First Trust Cloud Computing ETF - SKYY
 - Invesco Alerian Galaxy Crypto Economy ETF - SATO
-
-{{< adsense-infeed >}}
-
 공유
 
 다시 쓰기

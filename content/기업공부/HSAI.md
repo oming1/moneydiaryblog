@@ -49,9 +49,6 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
     - 대형 OEM 프로그램의 SOP 지연/변경, 가격 인하 압력, 경쟁사 기술 추격.
     - 광학·포토닉스 부품 수율 및 생산 스케일업 리스크.
     - IP/데이터 보안 이슈와 해외 조달 제한 가능성.
-
-{{< adsense-infeed >}}
-
 - 공급망
     
     - 레이저광원(VCSEL/LD), 수광기(InGaAs/Si APD), 광학부품(렌즈·필터), 스캐닝 모듈, 제어보드/펌웨어 등. 일부는 외부 파운드리/EMS와 협력.
@@ -166,9 +163,6 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Luminar(US, [LAZR](/company-analysis/lazr/)) – 장거리 1550nm ToF, 북미·유럽 양산 프로그램
 - Innoviz(IL, [INVZ](/company-analysis/invz/)) – 솔리드스테이트 ToF, 독일 OEM 프로그램
 - Ouster(US, [OUST](/company-analysis/oust/)) – 디지털 라이다, 산업/스마트시티 강점
@@ -180,15 +174,9 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 ### 산업 내 글로벌 시장 점유율
 
 - 차량용 라이다는 채택률 초기 구간으로 OEM·차종별 편차가 큼. 중국 내 ADAS 양산 기준 상위권 점유로 평가되나, 글로벌 정량 점유율은 출처별 상이
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 - 중국 내 대량 양산·가격 경쟁력과 박형 폼팩터로 ADAS 채택 확대에 레버리지.
 - 로보틱스·산업 응용 다변화로 수요 사이클 완충.
 - 원가 하향(부품 집적·자동화)과 수율 개선이 마진의 핵심.

@@ -49,16 +49,10 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 - 의료 서비스 제공자: 병원, 클리닉
 - 제약 회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 연구 기관: 대학, 연구소
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 
 - 데이터 센터 및 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
 - 반도체 제조: NVIDIA (US, [NVDA](/company-analysis/nvda/)), Intel (US, [INTC](/company-analysis/intc/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 데이터 수집: Tempus AI (US, [TEM](/company-analysis/tem/)) (임상 및 유전체 데이터 수집)
@@ -75,9 +69,6 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 5. AI 기반 데이터 분석 플랫폼
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 
@@ -91,9 +82,6 @@ Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 뉴욕증권거래소(NYSE) 상장 완료 (2024년)
 2. Ambry Genetics 인수 계약 체결 (2024년)
 3. 2024년 3분기 매출 33% 증가, 1억 8090만 달러 기록 (2024년)

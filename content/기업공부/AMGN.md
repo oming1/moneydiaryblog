@@ -19,9 +19,6 @@ weight: 61
 - **Industry**: 제약 제조 - 일반 (Drug Manufacturers - General)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제공하는 생명공학 회사입니다. 주요 제품으로는 자가면역 질환, 암, 신경과학, 바이러스학, 골다공증 및 심혈관 질환 치료제가 있습니다.
 #### 전방/후방산업
 
@@ -29,17 +26,11 @@ Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제�
     - **핵심 산업**: 병원, 클리닉, 약국
     - **역할**: Amgen의 의약품을 사용하여 환자 치료
     - **관련 기업**: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/)), McKesson (US, [MCK](/company-analysis/mck/))
-
-{{< adsense-infeed >}}
-
 - **후방산업**: 원료 의약품 및 화학 물질 제조
     - **핵심 산업**: 의약품 원료 및 화학 물질 제조
     - **역할**: Amgen의 의약품 제조에 필요한 원료 공급
     - **관련 기업**: BASF (독일), Lonza Group (스위스)
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구개발 (R&D)**: 새로운 의약품 및 치료법 개발
     - **대표 회사**: Amgen (US, [AMGN](/company-analysis/amgn/)), Pfizer (US, [PFE](/company-analysis/pfe/))
 - **원료 제조**: 의약품 제조에 필요한 원료 생산

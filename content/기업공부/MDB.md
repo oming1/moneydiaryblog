@@ -19,9 +19,6 @@ weight: 557
 
 섹터: 정보기술
 산업: 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 MongoDB, Inc.(NASDAQ: MDB)는 오픈 소스 데이터베이스 관리 시스템인 MongoDB를 개발 및 제공하는 기업입니다. 
@@ -98,9 +95,6 @@ MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유
 - ESG 목표 설정 및 지속 가능한 비즈니스 모델 강화 (2023년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (9.65%)
 - Fidelity Management & Research Co. LLC (5.80%)
 - BlackRock Fund Advisors (4.50%)

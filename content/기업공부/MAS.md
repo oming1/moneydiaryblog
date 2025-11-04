@@ -20,9 +20,6 @@ weight: 547
 섹터: 산업재 (Industrials)
 
 ## 산업 (Industry)
-
-{{< adsense-infeed >}}
-
 산업: 건축자재 및 피팅 (Building Materials & Fittings)
 
 ---
@@ -112,9 +109,6 @@ Masco는 브랜드 중심의 제조 및 조립 모델을 채택하고 있습니�
 - 주조 및 가공: 수전 본체, 밸브 등 정밀 부품 제조
 - 표면 처리: 도금, 코팅 등 마감 처리
 - 페인트 제조: 배합, 혼합, 품질 검사
-
-{{< adsense-infeed >}}
-
 **3. 조립 및 완성:**
 - 수전 조립: 본체, 밸브, 핸들 등 조립
 - 포장 및 브랜딩: 제품별 브랜드 포장
@@ -196,9 +190,6 @@ Masco는 브랜드 중심의 제조 및 조립 모델을 채택하고 있습니�
 - 사용처: 수전 도금, 부식 방지 코팅
 - 주요 공급 지역: 중국, 호주, 페루
 - 주요 공급 업체: Teck Resources [Teck](/company-analysis/teck/), Glencore [GLEN](/company-analysis/glen/)
-
-{{< adsense-infeed >}}
-
 **스테인리스 스틸:**
 
 - 사용처: 프리미엄 수전, 싱크대, 배관 부품

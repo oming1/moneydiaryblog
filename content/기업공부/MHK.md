@@ -19,9 +19,6 @@ weight: 570
 산업: 가구 및 비품(Furnishings, Fixtures & Appliances)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 모호크 인더스트리즈는 바닥재 제품의 설계, 제조, 마케팅 및 유통을 전문으로 하는 기업입니다.
 
 ## 전방/후방산업
@@ -31,9 +28,6 @@ weight: 570
 - 제조 장비: 바닥재 생산 기계 및 장비 제조 (예: 지멘스(독일, [SIE](/company-analysis/sie/)))
 
 ### 전방산업
-
-{{< adsense-infeed >}}
-
 - 건설 및 리모델링: 주거용 및 상업용 건물 시공 (예: DR 호튼(US, [DHI](/company-analysis/dhi/)), 레나(US, [LEN](/company-analysis/len/)))
 - 소매: 홈 임프루브먼트 및 바닥재 전문점 (예: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/)))
 
@@ -53,9 +47,6 @@ weight: 570
 - 미국 (매출 비중 약 60%, 2022년 기준)
 - 유럽 (매출 비중 약 25%)
 - 기타 국가 (매출 비중 약 15%)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - 쇼 인더스트리즈(US, [SHWI](/company-analysis/shwi/)) (카펫, 목재 바닥재)
@@ -64,6 +55,7 @@ weight: 570
 - 타켓트(프랑스, [TKTT](/company-analysis/tktt/)) (비닐 바닥재, 카펫)
 
 ## 산업 내 글로벌 시장 점유율
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, 모호크는 북미 바닥재 시장에서 선두 기업 중 하나로 평가받고 있습니다.
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, 모호크는 북미 바닥재 시장에서 선두 기업 중 하나로 평가받고 있습니다.
 ## 최근 3년 내 주요 이슈
 

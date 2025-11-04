@@ -19,9 +19,6 @@ weight: 240
 - **Industry:** 소프트웨어 - 인프라 (Software - Infrastructure)
 
 **영위사업 (Business Operations)** CrowdStrike Holdings, Inc.는 사이버 보안 솔루션을 제공하는 회사로, 클라우드 기반의 통합 플랫폼을 통해 엔드포인트, 클라우드 워크로드, 아이덴티티 및 데이터를 보호합니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **엔드포인트 보안 (Endpoint Security):** 클라우드 기반의 차세대 안티바이러스 및 엔드포인트 탐지 및 대응 (EDR)
 - **클라우드 워크로드 보안 (Cloud Workload Security):** 클라우드 환경에서의 워크로드 보호
 - **아이덴티티 보호 (Identity Protection):** 사용자 및 시스템의 아이덴티티 보호
@@ -29,9 +26,6 @@ weight: 240
 - **보안 오케스트레이션 및 자동화 (Security Orchestration and Automation):** 보안 작업의 자동화 및 통합
 
 **전방/후방산업 (Upstream/Downstream Industries)**
-
-{{< adsense-infeed >}}
-
 - **전방산업 (Downstream Industries):**
     - **핵심 산업:** 금융, 헬스케어, 정부
     - **핵심 기업:** JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), UnitedHealth Group (미국, [UNH](/company-analysis/unh/))
@@ -59,17 +53,11 @@ weight: 240
 - **Falcon Complete:** 관리형 탐지 및 대응 (MDR)
 
 **주요 판매국가 (Major Sales Countries)**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 시장 (영국, 독일, 프랑스)
 - **아시아:** 주요 시장 (일본, 한국, 중국)
 
 **경쟁업체 (Competitors)**
-
-{{< adsense-infeed >}}
-
 - **Palo Alto Networks (미국, [PANW](/company-analysis/panw/)):** 엔드포인트 및 클라우드 보안
 - **Microsoft (미국, [MSFT](/company-analysis/msft/)):** Microsoft Defender 제품군
 - **Fortinet (미국, [FTNT](/company-analysis/ftnt/)):** 엔드포인트 보안 및 위협 인텔리전스

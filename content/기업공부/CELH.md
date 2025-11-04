@@ -44,24 +44,18 @@ Celsius Holdings Inc. (CELH)는 건강 및 피트니스 음료를 생산하는 �
     - **대표회사:** Celsius Holdings Inc. (미국, [CELH](/company-analysis/celh/)), Red Bull (오스트리아, REDBULL)
 
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **CELSIUS Originals:** 다양한 맛의 탄산 및 비탄산 기능성 에너지 음료
 - **CELSIUS Heat:** 고강도 운동을 위한 고카페인 음료
 - **CELSIUS BCAA+ Energy:** 운동 후 회복을 위한 아미노산 음료
 - **CELSIUS On-the-Go:** 휴대용 파우더 형태의 기능성 음료
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 - **미국:** 주요 매출 국가
 - **캐나다:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
+- **미국:** 주요 매출 국가
+- **캐나다:** 주요 매출 국가
+- **유럽:** 주요 매출 국가
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Monster Beverage (미국, [MNST](/company-analysis/mnst/)):** 기능성 에너지 음료
 - **Red Bull (오스트리아, REDBULL):** 기능성 에너지 음료
 - **PepsiCo (미국, [PEP](/company-analysis/pep/)):** 기능성 음료
@@ -70,10 +64,10 @@ Celsius Holdings Inc. (CELH)는 건강 및 피트니스 음료를 생산하는 �
 - **Celsius Holdings Inc.:** 약 11% (2024년 기준)
 - **Monster Beverage:** 약 35% (2024년 기준)
 - **Red Bull:** 약 30% (2024년 기준)
+- **Celsius Holdings Inc.:** 약 11% (2024년 기준)
+- **Monster Beverage:** 약 35% (2024년 기준)
+- **Red Bull:** 약 30% (2024년 기준)
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **에너지 음료 시장의 경쟁 심화 (2022년)**
 - **글로벌 확장 및 새로운 시장 진출 (2023년)**
 - **주가 변동성 증가 (2024년)**

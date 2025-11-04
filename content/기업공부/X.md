@@ -48,10 +48,11 @@ weight: 984
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (독일, 영국, 프랑스 등)
 - **아시아:** 주요 매출 국가 (중국, 일본, 한국 등)
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
+- **ArcelorMittal (LU, [MT](/company-analysis/mt/)):** 글로벌 철강 제조업체
+- **Nucor Corporation (US, [NUE](/company-analysis/nue/)):** 미국 철강 제조업체
+- **Cleveland-Cliffs Inc. (US, [CLF](/company-analysis/clf/)):** 미국 철강 제조업체
+#### 산업 내 글로벌 시장 점유율
 - **ArcelorMittal (LU, [MT](/company-analysis/mt/)):** 글로벌 철강 제조업체
 - **Nucor Corporation (US, [NUE](/company-analysis/nue/)):** 미국 철강 제조업체
 - **Cleveland-Cliffs Inc. (US, [CLF](/company-analysis/clf/)):** 미국 철강 제조업체
@@ -59,9 +60,6 @@ weight: 984
 - **철강 산업 시장 점유율:** 약 5% (2024년 기준)
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **Nippon Steel 인수 제안:** Nippon Steel의 인수 제안 및 관련 논의 (2023-2024)
 - **미국 내 철강 산업 부흥:** 미국 내 철강 산업의 부흥을 위한 노력 (2023-2024)
 - **환경 규제 강화:** 환경 규제 강화에 따른 대응 전략 수립 (2022-2024)

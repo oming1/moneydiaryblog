@@ -59,9 +59,6 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 5. **고객 지원**: CACI(US, [CACI](/company-analysis/caci/)) (지속적인 기술 지원 제공)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 사이버 보안 솔루션: 군사 및 정부 기관을 위한 보안 시스템
 - 데이터 분석 플랫폼: 정보 수집 및 분석 도구
 - 클라우드 기반 IT 솔루션: 고객 맞춤형 클라우드 서비스
@@ -85,6 +82,7 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - Science Applications International Corporation(US, SAIC): 방산 및 IT 솔루션 제공
 - General Dynamics Corporation(US, [GD](/company-analysis/gd/)): 방산 및 정보 기술 서비스 제공
 ## 산업 내 글로벌 시장 점유율
+## 산업 내 글로벌 시장 점유율
 CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 국방 분야에서 강세를 나타내고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -101,9 +99,6 @@ CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 
 - State Street Corporation (4.47%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares U.S. Aerospace & Defense ETF - ITA
 - SPDR S&P Aerospace & Defense ETF - XAR
 - Invesco Aerospace & Defense ETF - [PPA](/industry-study/ppa/)

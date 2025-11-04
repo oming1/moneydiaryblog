@@ -140,6 +140,9 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 ---
 
 ## 전방산업 / 후방산업
+---
+
+## 전방산업 / 후방산업
 **전방산업:**
 
 - 석유화학 업체: NGL을 원료로 플라스틱, 화학제품 생산 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron Phillips(US, Chevron Phillips)
@@ -159,9 +162,6 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 ## 밸류체인
 
 **원료 공급 단계:** 원유, 천연가스, NGL 생산 및 공급
-
-{{< adsense-infeed >}}
-
 - EOG Resources(US, [EOG](/company-analysis/eog/)) - 셰일 오일 및 천연가스 생산, 주요 원료 공급업체
 - Pioneer Natural Resources(US, PXD) - 페름 분지 생산, NGL 원료 공급
 - Continental Resources(US, CLR) - 바겐 셰일 생산, 원유 및 천연가스 공급
@@ -175,9 +175,6 @@ ONEOK는 제조업체가 아닌 에너지 미드스트림 서비스 제공업체
 - Energy Transfer(US, [ET](/company-analysis/et/)) - 천연가스 파이프라인, 경쟁사
 - Kinder Morgan(US, [KMI](/company-analysis/kmi/)) - 천연가스 파이프라인, 경쟁사
 - Williams Companies(US, [WMB](/company-analysis/wmb/)) - 천연가스 인프라, 경쟁사
-
-{{< adsense-infeed >}}
-
 **최종 사용 단계:** 정제 및 화학 제품 생산
 
 - Valero Energy(US, [VLO](/company-analysis/vlo/)) - 정제제품 생산, 주요 고객

@@ -28,9 +28,6 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
 
 **후방산업:**
-
-{{< adsense-infeed >}}
-
 - 원료 공급업체: BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
 - 제조업체: Flex (US, FLEX), Foxconn (TW, 2354)
 
@@ -48,9 +45,6 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 - 브라질
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Adidas (DE, [ADS](/company-analysis/ads/)):** 스포츠웨어 (시장 점유율 20%)
 - **Puma (DE, [PUM](/company-analysis/pum/)):** 스포츠웨어 (시장 점유율 10%)
 - **Under Armour (US, UA):** 스포츠웨어 (시장 점유율 8%)
@@ -59,9 +53,6 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 NIKE, Inc.의 글로벌 시장 점유율은 약 43.7% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **비밀번호 공유 제한:** 비밀번호 공유 제한 정책 도입 (2023년)
 - **오리지널 콘텐츠 제작:** 오리지널 콘텐츠 제작에 대한 대규모 투자 (2022년)
 - **광고 매출 증가:** 광고 매출 증가로 인한 주가 상승 (2024년)

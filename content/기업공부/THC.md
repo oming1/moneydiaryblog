@@ -29,9 +29,6 @@ Tenet Healthcare Corporation(THC)은 미국 전역에서 의료 서비스를 제
 HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/)), Community Health Systems(US, [CYH](/company-analysis/cyh/)) 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 광범위한 의료 시설 네트워크: THC는 미국 전역에 걸쳐 약 50개의 병원과 500개 이상의 외래 수술 센터를 운영하고 있어, 다양한 지역에서 의료 서비스를 제공할 수 있는 능력을 갖추고 있습니다.
 2. 외래 수술 센터(ASC) 중심 전략: United Surgical Partners International과의 파트너십을 통해 ASC 네트워크를 확장하고 운영을 최적화하여 수익성을 개선하고 있습니다.
 3. 효율적인 운영: 2017년 말 새로운 경영진 취임 이후 운영 효율성과 수익성이 크게 개선되었습니다. 비용 관리와 자원 최적화를 통해 재무 성과를 향상시켰습니다.
@@ -52,9 +49,6 @@ HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US,
 3. 의료 소모품 공급: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 의료 시설 개발 및 운영: THC, HCA Healthcare(US, [HCA](/company-analysis/hca/)) - 병원 및 외래 시설 운영
 2. 의료 인력 공급: AMN Healthcare Services(US, AMN) - 의료 인력 파견 및 관리
 3. 의료 장비 및 기술: GE Healthcare(US, [GE](/company-analysis/ge/)) - 의료 영상 장비 및 솔루션
@@ -70,9 +64,6 @@ HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US,
 3. 수익 주기 관리 서비스: Conifer 부문을 통한 의료기관 수익 관리 솔루션 (매출 비중: 약 5%, 2023년 기준)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 THC의 주요 고객은 의료 서비스를 필요로 하는 일반 대중, 의료보험 회사, 정부 기관(Medicare, Medicaid) 등입니다.
 
 ## 주요 판매국가
@@ -88,6 +79,9 @@ THC의 주요 고객은 의료 서비스를 필요로 하는 일반 대중, 의�
 5. Acadia Healthcare(US, [ACHC](/company-analysis/achc/)) - 행동 건강 시설 운영
 6. Select Medical Holdings(US, SEM) - 장기 급성 치료 병원 및 재활 시설 운영
 7. Surgery Partners(US, SGRY) - 외래 수술 센터 운영
+## 산업 내 글로벌 시장 점유율
+
+THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 THC는 2023년 기준 미국 내 급성 치료 병원 및 외래 수술 센터 시장에서 상위 5위 안에 드는 기업으로 평가받고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 THC는 2023년 기준 미국 내 급성 치료 병원 및 외래 수술 센터 시장에서 상위 5위 안에 드는 기업으로 평가받고 있습니다.

@@ -23,9 +23,6 @@ Industry: Telehealth (원격의료)
 Hims & Hers Health, Inc.는 2017년에 설립된 미국의 원격의료 회사로, 본사는 캘리포니아주 샌프란시스코에 위치하고 있습니다. 이 회사는 소비자 중심의 건강 및 웰니스 플랫폼으로, 처방약과 비처방약, 개인 관리 제품을 온라인으로 판매합니다.
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 - 원격 의료 플랫폼 운영
 - 소비자와 면허가 있는 의료 전문가 연결
 - 다양한 건강 문제에 대한 치료 제공 (성 건강, 탈모, 피부과, 정신 건강 등)
@@ -38,9 +35,6 @@ Hims & Hers Health, Inc.는 2017년에 설립된 미국의 원격의료 회사�
 - 주요 고객: 개인 소비자
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 원자재 및 제약 제품 공급
 - 제약 제조업체: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
 

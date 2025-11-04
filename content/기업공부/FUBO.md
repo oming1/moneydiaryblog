@@ -31,9 +31,6 @@ FuboTV Inc.(NYSE: FUBO)는 스포츠 중심의 라이브 TV 스트리밍 플랫�
 FuboTV는 미국, 캐나다, 스페인에서 서비스를 제공하고 있으며, 최근에는 프랑스의 Molotov 인수를 통해 유럽 시장 진출을 가속화하고 있습니다.최근 1년 내 주요 이슈로는 Disney, Fox, Warner Bros. Discovery와의 소송 합의, Hulu + Live TV와의 합병 계획 발표, 그리고 AI 기반 산업 지속가능성 소프트웨어 출시 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 FuboTV의 핵심 경쟁력은 다음과 같습니다:
 
 1. 스포츠 중심 콘텐츠: 다양한 스포츠 리그와 이벤트에 대한 광범위한 중계권 확보
@@ -46,9 +43,6 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 이러한 경쟁력을 바탕으로 FuboTV는 빠르게 성장하는 OTT 시장에서 차별화된 포지션을 구축하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 스포츠 리그: NFL(US, NFL), NBA(US, NBA), MLB(US, MLB)
@@ -95,9 +89,6 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 - DirecTV Stream(US, [T](/company-analysis/t/))
 - Philo(비상장)
 - Vidgo(비상장)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 FuboTV의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 3분기 기준 북미 지역에서 161만 명의 유료 구독자를 보유하고 있으며, 가상 MVPD 시장에서 주요 플레이어로 자리잡고 있습니다.
 

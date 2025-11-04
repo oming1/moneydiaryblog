@@ -32,23 +32,14 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 
 ## 전방/후방산업
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 자동차 부품 제조업체
 - 물류 및 유통 기업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 개인 소비자
 - 자동차 수리점 및 정비소
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 제품 소싱: 자동차 부품 제조업체로부터 구매
 2. 물류 및 재고 관리: Advance Auto Parts
 3. 판매 및 유통: 매장, 온라인 플랫폼
@@ -70,9 +61,6 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 - O'Reilly Auto Parts(US, [ORLY](/company-analysis/orly/))
 - NAPA Auto Parts
 - Pep Boys
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 2022년 기준 미국 자동차 부품 소매 시장에서 약 17%의 점유율을 보유하고 있습니다[

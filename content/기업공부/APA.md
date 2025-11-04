@@ -47,17 +47,11 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 정유: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 탐사: APA Corporation (주요 사업 영역)
 2. 시추: Helmerich & Payne(US, [HP](/company-analysis/hp/)) - 육상 시추 서비스
 3. 생산: APA Corporation (주요 사업 영역)
@@ -69,6 +63,9 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 1. 원유 (2023년 매출 비중: 81.2%)
 2. 천연가스 (2023년 매출 비중: 11.9%)
 3. 천연가스 액체 (2023년 매출 비중: 6.9%)
+1. 원유 (2023년 매출 비중: 81.2%)
+2. 천연가스 (2023년 매출 비중: 11.9%)
+3. 천연가스 액체 (2023년 매출 비중: 6.9%)
 ## 주요고객
 
 1. 정유 회사
@@ -76,9 +73,6 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 3. 전력 회사
 4. 천연가스 유통 업체
 5. 산업용 에너지 소비자
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 1. 이집트 (2023년 매출 비중: 41%)

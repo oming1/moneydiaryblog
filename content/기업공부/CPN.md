@@ -21,13 +21,7 @@ weight: 226
 ### 영위사업
 
 Calpine Corporation은 주로 [천연가스](/industry-study/천연가스/)와 지열 자원을 이용한 전력 생산을 주요 사업으로 하고 있습니다. 이 회사는 북미 전역에 걸쳐 77개의 발전소를 운영하고 있으며, 전력, 증기, 재생 에너지 크레딧 및 부가 서비스를 판매합니다
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **전력 유통 및 판매**: 전력을 소비자에게 공급하는 산업. 주요 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), Exelon Corporation (미국, [EXC](/company-analysis/exc/)).
     - **산업용 전력 소비**: 제조업체 및 대형 산업체. 주요 기업: General Electric (미국, [GE](/company-analysis/ge/)), Siemens (독일, [SIE](/company-analysis/sie/)).

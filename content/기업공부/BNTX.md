@@ -27,9 +27,6 @@ weight: 151
 - **후방산업**: 화학 및 원료 공급 산업
     - **핵심 산업**: 원료 공급업체, 화학회사
     - **관련 기업**: Merck KGaA (독일, [MRK](/company-analysis/mrk/)), Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 
 - **연구 및 개발**: BioNTech은 자체 연구소와 협력 연구기관을 통해 신약 개발을 진행합니다.
@@ -40,9 +37,6 @@ weight: 151
     - **대표 회사**: BioNTech (독일, [BNTX](/company-analysis/bntx/)), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
 - **유통 및 판매**: 글로벌 네트워크를 통해 제품을 유통하고 판매합니다.
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), McKesson Corporation (미국, [MCK](/company-analysis/mck/))
-
-{{< adsense-infeed >}}
-
 **주요제품**:
 
 - **Comirnaty (BNT162b2)**: COVID-19 백신 (2020년 매출 비중: 90% 이상)
@@ -51,15 +45,14 @@ weight: 151
 **주요 판매국가**:
 
 - 미국, 독일, 영국, 중국
-
-{{< adsense-infeed >}}
-
 **경쟁업체**:
 - **Moderna (미국, [MRNA](/company-analysis/mrna/))**: mRNA 백신 및 치료제
 - **Pfizer (미국, [PFE](/company-analysis/pfe/))**: 다양한 백신 및 제약 제품
 - **CureVac (독일, CVAC)**: mRNA 기반 백신 및 치료제
 
 **산업 내 글로벌 시장 점유율**:
+- BioNTech은 COVID-19 백신 시장에서 주요 플레이어 중 하나로, 2021년 기준 글로벌 시장 점유율 약 20%를 차지했습니다.
+**최근 3년 내 주요 이슈**:
 - BioNTech은 COVID-19 백신 시장에서 주요 플레이어 중 하나로, 2021년 기준 글로벌 시장 점유율 약 20%를 차지했습니다.
 **최근 3년 내 주요 이슈**:
 - **COVID-19 백신 개발 및 긴급 사용 승인** (2020년)

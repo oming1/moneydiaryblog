@@ -174,12 +174,10 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 뉴어크 리버티 국제공항 - 동부 허브 공항
 - Swissport International - 지상 조업 및 화물 처리 서비스
 - SATS Ltd.(SG, [SATS](/company-analysis/sats/)) - 기내식 및 공항 서비스
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요제품
+**국내선 승객 운송:** 미국 내 주요 도시 간 항공 운송 서비스, 매출 비중 약 65% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
 **국내선 승객 운송:** 미국 내 주요 도시 간 항공 운송 서비스, 매출 비중 약 65% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
 **국제선 승객 운송:** 6개 대륙 연결 국제 노선 항공 운송, 매출 비중 약 26% (2024년 기준), 관련 경쟁사 [DAL](/company-analysis/dal/), [AAL](/company-analysis/aal/)
 
@@ -206,9 +204,6 @@ United Airlines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 주요 공급 업체: Boeing [BA](/company-analysis/ba/), Airbus Airbus
 
 **항공기 부품:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 항공기 정비 및 교체 부품
 - 주요 공급 지역: 미국, 유럽, 아시아
 - 주요 공급 업체: GE Aerospace [GE](/company-analysis/ge/), Raytheon Technologies [RTX](/company-analysis/rtx/)
@@ -306,9 +301,6 @@ United Airlines는 세계 최대 규모의 글로벌 항공사로서 광범위�
 글로벌 네트워크 확장은 회사의 핵심 강점입니다. 가용 좌석 마일(ASM) 기준 세계 최대 항공사이며, 7개 주요 허브를 통해 효율적인 허브 앤 스포크 시스템을 운영하고 있습니다. 특히 태평양 횡단 노선에서 강력한 시장 지위를 확보하여 아시아태평양 지역과의 연결에서 경쟁우위를 보유하고 있습니다.
 
 플릿 현대화 및 확장이 미래 성장의 핵심 동력입니다. 2025년 1월 1,000번째 항공기를 도입하며 업계 최대 규모의 플릿을 운영하고 있습니다. Boeing 787 Dreamliner, Airbus A321neo 등 연료 효율적인 신형 항공기 도입을 통해 운영 비용 절감과 승객 경험 개선을 동시에 추진하고 있습니다.
-
-{{< adsense-infeed >}}
-
 MileagePlus 로열티 프로그램은 단순한 마일리지 프로그램을 넘어 금융 서비스 플랫폼으로 진화하고 있습니다. Chase 신용카드와의 파트너십을 통해 고마진 수익을 창출하며, 프로그램 가치는 220억 달러로 평가받고 있습니다. 이는 항공 운송 외의 안정적인 수익원으로 기능하고 있습니다.
 
 Star Alliance 동맹을 통한 글로벌 연결성 강화도 경쟁력 확보 요소입니다. 25개 파트너 항공사와의 협력을 통해 1,150개 이상의 목적지를 연결하는 글로벌 네트워크를 구축하여 고객에게 광범위한 여행 옵션을 제공하고 있습니다.

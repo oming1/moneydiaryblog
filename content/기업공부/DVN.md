@@ -58,9 +58,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 12. 운송: Energy Transfer(US, [ET](/company-analysis/et/)) (파이프라인 운영)
 13. 정제: Phillips 66(US, [PSX](/company-analysis/psx/)) (석유 정제)
 14. 유통: Murphy USA(US, MUSA) (주유소 네트워크)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - [원유](/industry-study/원유/): 주요 셰일 분지에서 생산, 매출의 약 65% (2024년 기준)
@@ -89,9 +86,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 ## 산업 내 글로벌 시장 점유율
 
 Devon Energy는 2024년 기준 미국 내 독립 석유·가스 생산업체 중 생산량 기준으로 약 3%의 시장 점유율을 보유하고 있습니다. 글로벌 시장에서는 약 0.7%의 점유율을 차지하고 있으며, 최근 3년간 미국 내 시장 점유율은 안정적으로 유지되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 델라웨어 베이슨 내 신규 고생산성 구역 발견 및 개발 착수 (2024년)

@@ -19,9 +19,6 @@ weight: 874
 ## 영위사업
 
 Toyota Motor Corporation은 세계 최대 자동차 제조업체 중 하나로, 승용차, 버스, 미니밴, 트럭, 특수차량, 레저용 차량 등을 설계, 제조 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. [자동차](/industry-study/자동차/) 사업: 승용차, 상용차 등 다양한 차종 생산 및 판매
 2. 금융 서비스: 딜러 및 고객을 위한 자동차 구매/리스 금융 제공
 3. 기타 사업: 주택, 정보통신, 해양, 바이오테크놀로지 등 다각화된 사업 영위
@@ -42,9 +39,6 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 1. 자동차 부품: Denso Corporation(JP, Denso)
 2. 타이어: Bridgestone Corporation(JP, Bridgestone)
 3. 자동차 판매 및 정비: AutoNation, Inc.(US, [AN](/company-analysis/an/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 1. 철강: Nippon Steel Corporation(JP, [Nippon Steel](/company-analysis/nippon-steel/))
@@ -96,9 +90,6 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 3. 탄소중립 목표 설정 및 지속가능성 전략 발표 (2021)
 4. 자율주행 기술 개발을 위한 투자 확대 (2022-2023)
 5. COVID-19 팬데믹 영향 및 공급망 재구축 (2020-2022)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. Toyota Industries Corp. (7.55%)
@@ -115,7 +106,4 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 5. iShares Global Consumer Discretionary ETF - RXI
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

@@ -47,6 +47,9 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 5. 비용 효율성: GPU 소유 및 운영 비용 우위
 
 ## 전방/후방산업
+5. 비용 효율성: GPU 소유 및 운영 비용 우위
+
+## 전방/후방산업
 전방산업:
 
 - AI 개발 기업: OpenAI, DeepMind
@@ -93,15 +96,9 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 - Baidu(US, [BIDU](/company-analysis/bidu/))
     
 - GoDaddy(US, GDDY)
-
-{{< adsense-infeed >}}
-
 - Samsara(US, IOT)
     
 - Zoom Video Communications(US, [ZM](/company-analysis/zm/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Nebius Group는 AI 인프라 시장의 신흥 기업으로, 정확한 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 빠르게 성장하고 있으며, 특히 AI 특화 클라우드 서비스 분야에서 경쟁력을 갖추고 있습니다.

@@ -28,9 +28,6 @@ weight: 414
 		 • 주식 거래 (Equities Trading): $61M (예상: $55.15M) 🟢 전년 대비 +144% 증가
 		 • 순이자 수익 (Net Interest Revenue): $296M (예상: $283.32M) 🟢 전년 대비 +25% 증가
 		 • 기타 수익 (Other Revenue): $46M 전년 대비 +31% 증가
-
-{{< adsense-infeed >}}
-
 		기타 핵심 지표
 		 • 순 예치금 (Net Deposits): $16.1B (사상 최고, 연간 +42% 성장률)
 		 • 평균 사용자당 수익 (ARPU): $164 전년 대비 +102% 증가
@@ -52,9 +49,6 @@ weight: 414
 		경영진 코멘트
 		
 		🔸 블라드 테네프(Vlad Tenev), CEO
-
-{{< adsense-infeed >}}
-
 		 “2024년은 사상 최대 실적을 기록한 해였습니다. 매출, 순 예치금, 수익성 모두 신기록을 경신했으며, Robinhood를 글로벌 금융 거래의 중심 플랫폼으로 만들기 위한 기회가 무궁무진합니다.”
 		
 		🔸 제이슨 워닉(Jason Warnick), CFO

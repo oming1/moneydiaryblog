@@ -46,6 +46,7 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 
 ## 전방/후방산업
 ## 전방산업
+## 전방산업
 - 모바일 앱 개발: Electronic Arts (US, EA), Ubisoft (프랑스, UBI.PA)
 - 디지털 광고: Facebook (US, [META](/company-analysis/meta/)), Google (US, [GOOGL](/company-analysis/googl/))
 
@@ -55,9 +56,6 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 - 데이터 분석: Palantir (US, [PLTR](/company-analysis/pltr/)), Snowflake (US, [SNOW](/company-analysis/snow/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 앱 개발: Electronic Arts (US, EA) (게임 개발)
 2. 광고 플랫폼: AppLovin (US, [APP](/company-analysis/app/)) (앱 마케팅 및 수익화)
 3. 광고주: Procter & Gamble (US, [PG](/company-analysis/pg/)) (브랜드 광고)
@@ -70,13 +68,7 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 2. MAX: 앱 수익화 플랫폼
 3. Adjust: 마케팅 측정 및 분석 도구
 4. Wurl: CTV 스트리밍 및 광고 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국을 중심으로 전 세계적으로 서비스를 제공하고 있습니다. 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 
 ## 경쟁업체
@@ -92,9 +84,6 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 AppLovin은 모바일 마케팅 및 광고 기술 분야에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. AI 광고 엔진 AXON 2.0 출시로 성장 가속화 (2023년)
 2. 주가 급등으로 2024년 최고 성과 기술 주식으로 부상 (2024년)
 3. 모바일 게임 시장의 성장과 함께 수익 증가 (2022-2024년)

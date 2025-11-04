@@ -28,9 +28,6 @@ AmerisourceBergen은 글로벌 헬스케어 솔루션 기업으로, 주요 사�
 6. 물류 서비스: World Courier를 통한 특수 의약품 운송
 
 AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 주요 기업 중 하나로, 병원, 약국, 의료기관 등 다양한 고객에게 서비스를 제공하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 규모의 경제: 미국 의약품 유통 시장의 약 30% 점유
@@ -98,9 +95,6 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 5. 특수 의약품 및 바이오테크 분야 강화 전략 지속 (2022-2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. Vanguard Fiduciary Trust Co.: 11.02%
 2. Walgreens Boots Alliance, Inc.: 10.34%
 3. BlackRock Advisors LLC: 6.88%

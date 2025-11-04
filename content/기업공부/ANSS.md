@@ -23,9 +23,6 @@ Ansys, Inc.(ANSS)는 엔지니어링 시뮬레이션 소프트웨어 및 서비�
 ## 영위사업
 
 제품 개발을 위한 엔지니어링 시뮬레이션 소프트웨어 개발 및 마케팅
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 ## 후방산업
 
@@ -60,15 +57,9 @@ Ansys, Inc.(ANSS)는 엔지니어링 시뮬레이션 소프트웨어 및 서비�
 북미, 유럽, 중동, 아프리카, 아시아-태평양
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Synopsys(US, [SNPS](/company-analysis/snps/))
 - Cadence Design Systems(US, [CDNS](/company-analysis/cdns/))
 - Siemens EDA(DE, SIE.DE)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았으나, Ansys는 엔지니어링 시뮬레이션 소프트웨어 시장의 선두 기업 중 하나입니다.
 

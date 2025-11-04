@@ -21,6 +21,8 @@ weight: 824
 #### 영위사업
 SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업으로는 태양광 패널, 에너지 저장 솔루션([ESS](/industry-study/ess/)), 스마트 에너지 관리 소프트웨어 등이 있습니다
 #### 전방/후방산업
+SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업으로는 태양광 패널, 에너지 저장 솔루션([ESS](/industry-study/ess/)), 스마트 에너지 관리 소프트웨어 등이 있습니다
+#### 전방/후방산업
 - **전방산업**:
     - **태양광 설치**: 태양광 패널 및 시스템 설치 (예: Sunrun (US, [RUN](/company-analysis/run/)))
     - **에너지 저장**: 에너지 저장 시스템 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)))
@@ -39,23 +41,11 @@ SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을
 - **태양광 패널**: 주거용 및 상업용 태양광 패널
 - **에너지 저장 솔루션**: 가정용 및 상업용 에너지 저장 솔루션
 - [**스마트 에너지 관리 소프트웨어**: 에너지 모니터링 및 제어 소프트웨어](https://investors.sunpower.com/)[1](https://investors.sunpower.com/)[2](https://en.wikipedia.org/wiki/SunPower)
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 전체 매출의 약 67% (2023년 기준)
 - **캐나다**: 주요 판매국가로 포함됨
 - [**유럽**: 주요 판매국가로 독일, 프랑스, 영국 등이 포함됨](https://investors.sunpower.com/)[3](https://www.marketbeat.com/stocks/NASDAQ/SPWR/institutional-ownership/)
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Sunrun (US, [RUN](/company-analysis/run/))**: 주거용 태양광 시스템
 - **Vivint Solar (US, [VSLR](/company-analysis/vslr/))**: 주거용 태양광 시스템
 - **Tesla (US, [TSLA](/company-analysis/tsla/))**: 에너지 저장 시스템 및 태양광 솔루션

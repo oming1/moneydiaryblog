@@ -38,9 +38,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 ---
 
 ## 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 **수익 구조 세분화:**
 
 - **주요 수익원:** 에너지 저장 시스템([ESS](/industry-study/ess/)) 판매 계약에서 발생하는 매출 (2023년 1,640만 달러)
@@ -157,9 +154,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - Wattmore - 에너지 관리 시스템 통합
 
 **인프라 펀드:**
-
-{{< adsense-infeed >}}
-
 - Large North American Infrastructure Fund - 텍사스 오처드 프로젝트
 
 ---
@@ -183,9 +177,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - Form Energy (US, Private) - 철-공기 배터리, 장시간 저장
 - RedFlow (AU, RFX) - 아연-브로마이드 흐름 배터리
 - e-Zinc (CA, Private) - 아연 기반 그리드 저장
-
-{{< adsense-infeed >}}
-
 **전통적 경쟁사:**
 
 - BYD (CN, [BYD](/company-analysis/byd/)) - 리튬인산철 배터리, 시장점유율 10%
@@ -240,9 +231,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 ## 주요 주주 (지분율)
 
 **최근 데이터 기준 (2025년 3월):**
-
-{{< adsense-infeed >}}
-
 - Vanguard Group: 4.0% (10.36M주)
 - Electron Capital Partners: 1.9% (4.99M주)
 - Stifel Financial: 1.8% (4.69M주)

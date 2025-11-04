@@ -193,9 +193,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 ---
 
 ## 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (제품 사용 산업):**
 
 - 상업 위성 서비스: Planet Labs(US, [PL](/company-analysis/pl/)), Spire Global(US, [SPIR](/company-analysis/spir/)), BlackSky(US, [BKSY](/company-analysis/bksy/))
@@ -386,9 +383,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 ---
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 **미국:** 65.0% (2024년 기준, 3년간 +8.0%p)  
 주요 고객: NASA, 국방부, 상업 위성 기업들. 정부 계약 및 국가 안보 임무 증가로 비중 확대.
 

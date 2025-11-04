@@ -27,16 +27,13 @@ Antofagasta는 구리와 금 채굴 회사로, 구리, 금, 몰리브덴, 은 �
 - 역할: 구리 및 금속 제품 사용
 - 인프라: Caterpillar (미국, [CAT](/company-analysis/cat/))
 - 자동차: Tesla (미국, [TSLA](/company-analysis/tsla/))
+- 역할: 구리 및 금속 제품 사용
+- 인프라: Caterpillar (미국, [CAT](/company-analysis/cat/))
+- 자동차: Tesla (미국, [TSLA](/company-analysis/tsla/))
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 채굴 장비 및 서비스 공급
 - 채굴 장비: Sandvik (스웨덴, SAND)
 - 엔지니어링 서비스: Worley (호주, [WOR](/company-analysis/wor/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/) 
@@ -46,15 +43,15 @@ Antofagasta는 구리와 금 채굴 회사로, 구리, 금, 몰리브덴, 은 �
 ## 주요 판매국가
 
 Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴 아메리카, 북미, 아시아 태평양 지역에서도 사업을 운영하고 있습니다.
+## 주요 판매국가
+
+Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴 아메리카, 북미, 아시아 태평양 지역에서도 사업을 운영하고 있습니다.
 ## 경쟁업체
 
 - Glencore Plc (스위스, [GLEN](/company-analysis/glen/))
 - Rio Tinto (영국, [RIO](/company-analysis/rio/))
 - BHP Group Ltd (호주, [BHP](/company-analysis/bhp/))
 - Anglo American Plc (영국, AAL.UK)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Antofagasta의 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.

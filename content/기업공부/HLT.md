@@ -27,13 +27,7 @@ weight: 410
 - **후방산업**: 건설 및 유지보수, 식음료 공급업체
     - **핵심 산업 및 역할**: 호텔 건설 및 유지보수, 식음료 공급 등. 이들은 호텔 운영에 필요한 인프라와 자원을 제공합니다.
     - **관련 기업**: Caterpillar Inc. (미국, [CAT](/company-analysis/cat/)), Sysco Corporation (미국, [SYY](/company-analysis/syy/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **개발 및 건설**: 호텔 개발 및 건설
     - **대표 회사**: Marriott International (미국, [MAR](/company-analysis/mar/)), InterContinental Hotels Group (영국, IHG)
 - **운영 및 관리**: 호텔 운영 및 관리
@@ -58,13 +52,7 @@ weight: 410
 
 #### 산업 내 글로벌 시장 점유율
 - **Hilton Worldwide**: 글로벌 호텔 시장에서 약 5%의 점유율 (2023년 기준)
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **COVID-19 팬데믹**: 여행 수요 급감으로 인한 매출 감소 (2020년)
 - **디지털 전환**: 온라인 예약 시스템 강화 및 모바일 앱 개선 (2021년)
 - **환경 지속 가능성**: 탄소 배출 감소 및 친환경 정책 강화 (2022년)

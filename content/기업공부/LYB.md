@@ -19,9 +19,6 @@ weight: 540
 
 **섹터(Sector):** Materials - 재료  
 **산업(Industry):** Chemicals - 화학 (특히 Commodity Chemicals - 범용 화학)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 영위사업
@@ -58,9 +55,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 - **주된 원자재 및 공급망**  
     주요 원자재는 천연가스액(NGLs, 특히 에탄), 나프타, 원유 등이며, 공급처는 미국, 중동 등 주요 산유국 및 가스 생산국입니다. 공급망은 원자재 수입, 자체 생산 시설에서의 가공, 글로벌 유통망을 통한 판매로 구성됩니다.
-
-{{< adsense-infeed >}}
-
 - **최근 주요 이슈**
     
     - 2024년: 화학적 재활용 플라스틱 생산 능력 확대 및 파트너십 강화.
@@ -174,9 +168,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **[폴리에틸렌](/industry-study/폴리에틸렌/) (Polyethylene - PE):** HDPE, LDPE, LLDPE, 매출 비중 35% (2024 추정), 경쟁사 Dow Inc.(US, [DOW](/company-analysis/dow/)), ExxonMobil(US, [XOM](/company-analysis/xom/)), Sinopec (CN, SNP).
 
 - **[폴리프로필렌](/industry-study/폴리프로필렌/) (Polypropylene - PP):** homopolymer, copolymer, random copolymer, 매출 비중 25% (2024 추정), 경쟁사 Braskem (BR, BAK), Formosa Plastics (TW).
-
-{{< adsense-infeed >}}
-
 - **[프로필렌 옥사이드](/industry-study/프로필렌-옥사이드/) (Propylene Oxide - PO):** 매출 비중 10% (2024 추정), 경쟁사 Dow Inc.(US, [DOW](/company-analysis/dow/)), BASF(DE, BASFY).
 
 - **첨단 고분자 솔루션:** 자동차, 의료용 특수 플라스틱, 매출 비중 15% (2024 추정), 경쟁사 DuPont(US, [DD](/company-analysis/dd/)), Covestro (DE, 1COV.DE).
@@ -211,9 +202,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Dow Inc. (US, [DOW](/company-analysis/dow/)):** 글로벌 화학 대기업, 에틸렌, 폴리에틸렌, 특수 화학.
 - **ExxonMobil Chemical (US, [XOM](/company-analysis/xom/)):** 글로벌 석유화학 대기업, 올레핀, 폴리올레핀.
 - **BASF SE (DE, BASFY):** 글로벌 화학 대기업, 다양한 화학 제품 및 특수 화학.

@@ -22,13 +22,7 @@ weight: 835
 산업: 반도체 및 반도체 장비(Semiconductors & Semiconductor Equipment)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 STMicroelectronics는 유럽 최대의 [반도체](/industry-study/반도체/) 기업으로, 다양한 산업 분야에 걸쳐 광범위한 반도체 제품을 설계, 개발, 제조 및 판매합니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 아날로그 제품, MEMS 및 센서 (AM&S)
 2. 전력 및 개별 반도체 제품 (P&D)
 3. [마이크로컨트롤러](/industry-study/마이크로컨트롤러/) (MCU)
@@ -68,9 +62,6 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 유럽, 중동 및 아프리카(EMEA), 미주, 아시아 태평양 지역
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Infineon Technologies(DE, [IFX](/company-analysis/ifx/)): 자동차 및 산업용 반도체
 2. NXP Semiconductors(NL, [NXPI](/company-analysis/nxpi/)): 자동차 및 보안 솔루션
 3. Texas Instruments(US, [TXN](/company-analysis/txn/)): 아날로그 및 임베디드 프로세싱

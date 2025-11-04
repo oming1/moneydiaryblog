@@ -24,9 +24,6 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
 ## 전방/후방산업
 
 - 전방산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업 및 역할: 의료 서비스, 약국
     - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), UnitedHealth Group (US, [UNH](/company-analysis/unh/))
     
@@ -44,9 +41,6 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
     - 대표 회사: Novartis (CH, [NVS](/company-analysis/nvs/)) - 다양한 치료 영역의 의약품 생산
     
 - 유통 및 판매: 의약품 유통 및 마케팅
-
-{{< adsense-infeed >}}
-
     - 대표 회사: McKesson (US, [MCK](/company-analysis/mck/)) - 의약품 유통
 
 ## 주요제품

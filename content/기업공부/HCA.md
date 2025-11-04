@@ -29,9 +29,6 @@ HCA Healthcare는 미국 최대의 민간 의료시설 운영 기업으로, 주�
 6. 행동 건강 병원 운영
 
 HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 의료 시설을 운영하고 있습니다. 회사는 입원 치료, 중환자 치료, 심장 치료, 진단 및 응급 서비스 등 다양한 의료 서비스를 제공하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 규모의 경제: 미국 최대 민간 의료시설 네트워크 보유
@@ -60,9 +57,6 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 3. 의료 서비스 제공: HCA Healthcare (주요 사업 영역)
 4. 의약품 공급: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 보험 청구: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 입원 치료 서비스
@@ -78,6 +72,7 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 2. 보험회사
 3. 정부 기관 (Medicare, Medicaid)
 4. 기업 건강보험 가입자
+## 주요 판매국가
 ## 주요 판매국가
 1. 미국 (주요 시장)
 2. 영국 (일부 시설 운영)
@@ -107,9 +102,6 @@ HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42
 3. SSgA Funds Management, Inc.: 4.98%
 4. Dimensional Fund Advisors LP: 3.03%
 5. Pzena Investment Management LLC: 2.91%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares U.S. Healthcare Providers ETF IHF

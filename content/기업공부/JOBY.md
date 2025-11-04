@@ -19,17 +19,8 @@ weight: 472
 산업: 항공우주 및 방위(Aerospace & Defense)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조하는 기업으로, 도시 항공 모빌리티([UAM](/industry-study/2산업항공우주방위-산업3모빌리티uam/)) 시장을 목표로 하고 있습니다
-
-{{< adsense-infeed >}}
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - S4 eVTOL: 1명의 조종사와 4명의 승객을 태울 수 있는 5인승 전기 수직 이착륙 항공기
     - 최대 속도: 200mph(약 322km/h)
     - 비행 거리: 150마일(약 241km)

@@ -19,16 +19,10 @@ weight: 796
 
 섹터: 임의소비재
 산업: 특수소매
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 Signet Jewelers Limited(NYSE: SIG)는 세계 최대의 다이아몬드 주얼리 소매업체입니다. 주요 사업 부문은 북미, 국제, 기타로 나뉩니다. 북미 부문에서는 Kay, Zales, Jared, Diamonds Direct, Banter by Piercing Pagoda, Rocksbox 등의 브랜드로 미국과 캐나다에서 오프라인 매장과 온라인 판매를 운영합니다. 
 
 국제 부문에서는 영국, 아일랜드, 채널 제도에서 H. Samuel과 Ernest Jones 브랜드로 매장을 운영합니다. 기타 부문은 원석 다이아몬드 구매 및 연마 사업을 포함합니다.최근 1년 내 주요 이슈로는 디지털 전환 가속화, 지속가능성 이니셔티브 강화, 그리고 Blue Nile과 Diamonds Direct 인수를 통한 사업 확장 등이 있습니다. 특히 온라인 판매 강화와 옴니채널 전략 구축에 주력하고 있으며, 고객 경험 개선을 위한 AI 기반 기술 도입도 진행 중입니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 Signet Jewelers의 핵심 경쟁력은 다음과 같습니다:
@@ -78,9 +72,6 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 미국, 캐나다, 영국, 아일랜드, 채널 제도
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Tiffany & Co.(US, TIF) - 고급 주얼리
 - Pandora(DK, PNDORA) - 패션 주얼리
 - Richemont(CH, CFR) - 럭셔리 주얼리 및 시계
@@ -102,9 +93,6 @@ Signet Jewelers는 2024년 기준 글로벌 주얼리 시장에서 약 7%의 점
 - COVID-19 팬데믹 영향에서의 회복 및 실적 개선 (2022-2023년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - BlackRock (15.8%)
 - The Vanguard Group (11.2%)
 - Select Equity Group (7.5%)

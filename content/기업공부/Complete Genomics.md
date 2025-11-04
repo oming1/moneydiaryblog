@@ -19,15 +19,12 @@ weight: 216
 - **Industry**: Biotechnology ([바이오테크](/industry-study/바이오테크/))
 
 ### 영위사업 (Business Activities)
-
-{{< adsense-infeed >}}
-
 Complete Genomics는 인간 유전체 시퀀싱 및 분석을 위한 DNA 시퀀싱 플랫폼을 개발하고 상용화하는 생명과학 회사입니다. 주요 활동으로는 고품질, 저비용의 DNA 시퀀싱을 통해 약물 반응 및 복잡한 질병의 유전적 메커니즘을 연구하는 것입니다. 또한, [CDMO](/industry-study/cdmo/)로서 제약 및 생명공학 회사들에게 유전체 데이터 분석 및 시퀀싱 서비스를 제공합니다.
 ### 전방/후방산업 (Upstream/Downstream Industries)
-
-{{< adsense-infeed >}}
-
 - **전방산업 (Upstream Industries)**:
+    - **유전체 샘플링 및 시퀀싱**: 유전체 샘플을 수집하고 시퀀싱하는 과정. 주요 기업: Illumina (US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
+    - **유전체 데이터 분석**: 시퀀싱된 데이터를 분석하여 유전적 변이를 탐지. 주요 기업: Bio-Rad Laboratories (US, BIO), Agilent Technologies (US, [A](/company-analysis/a/))
+- **후방산업 (Downstream Industries)**:
     - **유전체 샘플링 및 시퀀싱**: 유전체 샘플을 수집하고 시퀀싱하는 과정. 주요 기업: Illumina (US, [ILMN](/company-analysis/ilmn/)), Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
     - **유전체 데이터 분석**: 시퀀싱된 데이터를 분석하여 유전적 변이를 탐지. 주요 기업: Bio-Rad Laboratories (US, BIO), Agilent Technologies (US, [A](/company-analysis/a/))
 - **후방산업 (Downstream Industries)**:
@@ -56,9 +53,6 @@ Complete Genomics는 인간 유전체 시퀀싱 및 분석을 위한 DNA 시퀀�
 - **Oxford Nanopore Technologies (GB, ONT)**: 나노포어 기반 유전체 분석 시스템.
 - **PacBio (US, [PACB](/company-analysis/pacb/))**: 고정확도 장기 시퀀싱 플랫폼.
 - **Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))**: 다양한 생명과학 연구 장비 및 솔루션.
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
 
 - **COVID-19 팬데믹**: 유전체 시퀀싱 기술을 활용한 코로나바이러스 변이 추적 및 연구 (2020-2022).

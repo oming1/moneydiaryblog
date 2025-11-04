@@ -27,9 +27,6 @@ Carvana Co.(CVNA)는 미국의 선도적인 온라인 중고차 판매 플랫폼
 Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들에게 편리하고 투명한 온라인 구매 경험을 제공하는 것을 목표로 합니다.최근 주요 이슈로는 코로나19 팬데믹 이후 급격한 성장과 이에 따른 운영 확장, 그리고 최근의 시장 환경 변화에 따른 비용 절감 및 효율성 개선 노력 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 혁신적인 비즈니스 모델: 완전한 온라인 구매 프로세스와 7일 반품 정책으로 고객 신뢰 구축
 2. 독특한 차량 인도 시스템: "자동차 자판기" 개념의 차량 인도 타워로 브랜드 차별화
 3. 통합 물류 네트워크: 자체 검사, 재조정, 운송 능력으로 품질 관리 및 비용 효율성 확보
@@ -68,16 +65,10 @@ Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들
 4. 차량 검사 및 품질 보증 서비스
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 Carvana의 주요 고객은 온라인으로 중고차를 구매하거나 판매하려는 개인 소비자들입니다.
 
 ## 주요 판매국가
 Carvana는 주로 미국 시장에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. CarMax, Inc.(US, [KMX](/company-analysis/kmx/)) - 중고차 소매 및 도매
 2. AutoNation, Inc.(US, [AN](/company-analysis/an/)) - 자동차 소매 및 서비스
@@ -104,9 +95,6 @@ Carvana는 주로 미국 시장에서 사업을 영위하고 있습니다.
 3. State Street Corp (4.23%)
 4. FMR LLC (3.59%)
 5. Wellington Management Group LLP (3.35%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. First Trust NASDAQ Transportation ETF - FTXR

@@ -19,17 +19,8 @@ weight: 145
 - **산업 (Industry)**: Aerospace & Defense ([항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/))
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공하는 회사입니다. 이 회사는 소형 및 중형 로켓을 설계, 제조하며, 위성 구성 요소, 우주선 설계 및 제조, 궤도 관리 솔루션 등을 제공합니다. 주요 제품으로는 New Shepard, New Glenn, Blue Moon 등이 있습니다
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **위성 통신**: 위성을 이용한 통신 서비스 제공. 주요 기업: SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)), Intelsat (미국, [I](/company-analysis/i/)).
     - **우주 탐사 및 연구**: 우주 탐사 및 연구를 수행하는 기관. 주요 기업: NASA (미국), ESA (유럽우주국).
@@ -48,9 +39,6 @@ Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공�
 - **New Shepard**: 소형 우주 관광 및 과학 실험용 재사용 가능한 서브오비탈 로켓.
 - **New Glenn**: 중형 페이로드를 운반할 수 있는 재사용 가능한 궤도급 로켓.
 - **Blue Moon**: NASA의 Artemis 프로그램을 위한 인간 달 착륙선.
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 Blue Origin은 주로 미국 내에서 발사 서비스를 제공하고 있으며, 주요 시장은 미국입니다
 

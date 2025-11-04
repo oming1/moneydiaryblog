@@ -20,13 +20,7 @@ weight: 66
 
 ## 영위사업
 TD Ameritrade는 개인 및 기관 투자자를 위한 온라인 중개 및 금융 서비스를 제공하는 회사입니다. 2020년 Charles Schwab Corporation에 인수되었습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요제품 및 서비스
-
-{{< adsense-infeed >}}
-
 - 주식, ETF, 옵션, 뮤추얼 펀드 거래
 - 퇴직 연금 계좌 (IRA)
 - 자산 관리 서비스
@@ -34,18 +28,13 @@ TD Ameritrade는 개인 및 기관 투자자를 위한 온라인 중개 및 금�
 - thinkorswim 트레이딩 플랫폼
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 주로 미국 시장에서 서비스를 제공하고 있습니다.
+## 경쟁업체
 ## 경쟁업체
 - Charles Schwab(US, [SCHW](/company-analysis/schw/))
 - Fidelity Investments
 - E*TRADE (Morgan Stanley의 자회사)
 - Robinhood Markets(US, [HOOD](/company-analysis/hood/))
-
-{{< adsense-infeed >}}
-
 ## 주요 특징
 - 주식 및 ETF 무료 거래
 - 강력한 thinkorswim 트레이딩 플랫폼 제공

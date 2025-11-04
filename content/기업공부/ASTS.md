@@ -19,9 +19,6 @@ weight: 91
 - Industry: Satellite Communication(위성 통신)
 
 ## 영위 사업
-
-{{< adsense-infeed >}}
-
 AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작동하는 세계 최초의 우주 기반 셀룰러 광대역 네트워크를 구축하고 있습니다.
 
 - [저궤도 위성](/industry-study/저궤도-위성/)을 활용해 별도 단말기 없이 기존 스마트폰 단말기 활용 위성 통신망 서비스 제공
@@ -60,16 +57,10 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
 AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특히 연결성이 부족한 지역을 대상으로 합니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Starlink (SpaceX의 자회사, 비상장) - 위성 인터넷 서비스
 - OneWeb (영국, 비상장) - 위성 통신 네트워크
 - Iridium Communications (미국, [IRDM](/company-analysis/irdm/)) - 위성 전화 및 데이터 서비스
 - [RKLB](/company-analysis/rklb/)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 AST SpaceMobile은 아직 상용 서비스를 시작하지 않았기 때문에 현재 시장 점유율은 없습니다.
 

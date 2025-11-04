@@ -54,9 +54,6 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 - 제약산업: 신약 개발 및 임상시험을 위한 영상 진단 활용
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체 산업: X선 센서 및 처리 칩 제조 (TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/)))
     
 - 소프트웨어 개발: AI 및 클라우드 기술 (NVIDIA(US, [NVDA](/company-analysis/nvda/)), Microsoft(US, [MSFT](/company-analysis/msft/)))
@@ -68,9 +65,6 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 7. 부품 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/)) (반도체 칩)
     
 8. 시스템 조립: Foxconn(TW, Foxconn) (계약 제조)
-
-{{< adsense-infeed >}}
-
 9. 소프트웨어 개발: Nano-X Imaging Ltd, 외부 AI 파트너
     
 10. 유통 및 마케팅: Nano-X Imaging Ltd, 지역 파트너
@@ -102,9 +96,6 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 19. Fujifilm Holdings(JP, 4901): 의료 영상 및 정보 시스템
     
 20. Canon Medical Systems(JP, 7751): 의료 영상 장비 및 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 글로벌 시장 점유율은 미미한 수준입니다. 그러나 냉음극 X선 기술과 AI 기반 솔루션을 통해 빠르게 성장하고 있으며, 특히 비용 효율적인 의료 영상 시장에서 잠재력을 인정받고 있습니다.
