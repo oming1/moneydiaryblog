@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드/코드_11.03.md",
+                "file": "content/기업공부/SPG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "코드_11.03"
+              "title": "SPG"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adsense-infee",
+                "query": "adsense",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,10 +194,10 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "f9d5df884ef589ef",
+  "active": "cdf13c337a99d2c1",
   "lastOpenFiles": [
-    "코드/통합 코드(광고+시간등)_11.04.md",
     "코드/코드_11.03.md",
+    "코드/통합 코드(광고+시간등)_11.04.md",
     "코드/광고추가 코드.md",
     "content/Daily시황정리/2025년/05월/2025-05-03 미국 시황 정리.md",
     "static/images/2025-10-29 미국 시황 정리.md",
