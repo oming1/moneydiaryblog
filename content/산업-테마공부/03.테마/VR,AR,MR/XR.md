@@ -22,9 +22,6 @@ weight: 2
 		- HeT : Head Tracking 카메라로 사람의 머리 움직임을 실시간으로 추적하여 가상의 세계와 실제 현실의 자연스러운 상호작용이 가능하게 하는 목적으로 사용됩니다.
 		- ToF : Depth 추출 용도의 카메라로 증강 및 가상현실 구현 목적으로 사용됩니다.
 		- [VST](/company-analysis/vst/) : Video See Through 카메라로 전방 주시 및 Video를 기록하는 목적의 일반적으로 알고 계시는 2D 카메라 모듈입니다.
-
-{{< adsense-infeed >}}
-
 3. 관련기업
 	1. XR 기기 판매
 		1. [1.Study/★ 테마/VR,AR,MR/종목/AAPL](/company-analysis/aapl/)
@@ -33,8 +30,5 @@ weight: 2
 		1. 애플향
 		2. 삼성향
 			1. [나무가](/industry-study/나무가/)
-
-{{< adsense-infeed >}}
-
 4. 뉴스
 	1. [23.6.6] APPL, VR '비전 프로' 발표

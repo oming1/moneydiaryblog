@@ -21,13 +21,7 @@ Efruxifermin(EFX)는 대사기능장애 연관 지방간염(MASH, 구 NASH) 치�
     1. SYNCHRONY Histology: 전간경변 MASH 환자 대상
     2. SYNCHRONY Outcomes: MASH로 인한 보상성 간경변 환자 대상
     3. SYNCHRONY Real-World: MASH 또는 MASLD 환자 대상
-
-{{< adsense-infeed >}}
-
 - 2b상 SYMMETRY 연구에서 MASH로 인한 보상성 간경변의 유의미한 개선 효과 입증
 - 간 섬유화, 지방간염, 인슐린 감수성, 지질 프로필 등을 개선하는 광범위한 효과 보임
 - 주 1회 투여로 환자 편의성이 높음
-
-{{< adsense-infeed >}}
-
 EFX는 현재 승인된 치료제가 없는 MASH 시장을 겨냥한 유망한 신약 후보물질로 평가받고 있습니다.
