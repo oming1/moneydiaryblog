@@ -1,7 +1,7 @@
 ﻿---
 title: "SISI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 798
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #의료진단기기 #POCT #체외진단시약 #의료기기 #생명과학 #바이오기술 #헬스케어서비스 #건강식품 #줄기세포기술 #심장질환진단 #체외진단 #바이오윈 #제약 #중국바이오기업 #나스닥상장 #인피니클론 #정밀의료 #빠른진단 #의료이미징 #급성진단 #헬스케어솔루션 #일회용의료기기 #바이오제약 #미국FDA승인 #CE인증 #글로벌특허 #영양식품 #대사질환 #노령인구 #심혈관질환
 

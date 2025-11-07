@@ -1,7 +1,7 @@
 ﻿---
 title: "Vale"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 927
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #비철금속 #광산 #소재 #금속및광업 #브라질 #비료 #구리 #철광석 #니켈 #망간 #코발트 
 

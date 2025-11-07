@@ -1,7 +1,7 @@
 ﻿---
 title: "GPRE"
 date: 2024-09-13T17:43:39+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 387
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T08:43:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #바이오디젤 #바이오에탄올 #바이오리액터 #기초소재 #화학
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "PUM"
 date: 2024-10-28T21:42:14+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 717
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:42:14Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #의류 
 

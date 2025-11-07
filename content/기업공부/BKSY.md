@@ -1,7 +1,7 @@
 ﻿---
 title: "BKSY"
 date: 2024-11-17T23:12:14+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 139
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-17T14:12:14Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #항공우주및방위산업 #정보기술 #위성 #위성이미지 #인공위성 #위성운영 #위성설계 #관측위성 
 

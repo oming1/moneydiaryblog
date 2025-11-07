@@ -1,7 +1,7 @@
 ﻿---
 title: "LCC"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 3
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
 </div>
 #항공 #항공운송 #화물운송 #여객운송 #LCC #화물 
 

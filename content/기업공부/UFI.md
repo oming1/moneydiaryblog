@@ -1,7 +1,7 @@
 ﻿---
 title: "UFI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 906
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #섬유제조 #재활용섬유 #합성섬유 #폴리에스터 #나일론 #지속가능성 #REPREVE #기술혁신 #글로벌공급망 #의류산업 #자동차산업 #산업용섬유 #가정용품 #의료용섬유 #텍스타일 #재생원료 #섬유과학 #제품다각화 #임의소비재 #섬유제품
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "INOD"
 date: 2024-12-17T21:14:04+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 447
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-17T12:14:04Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #IT서비스 #정보기술 #데이터엔지니어링
 

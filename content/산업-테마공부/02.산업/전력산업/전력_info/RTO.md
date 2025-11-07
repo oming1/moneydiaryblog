@@ -1,7 +1,7 @@
 ﻿---
 title: "RTO"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T06:50:33+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 9
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
+  <meta property="article:modified_time" content="2025-11-03T21:50:33Z" />
 </div>
 #전력 #광역송전망 #다중지역송전망 
 

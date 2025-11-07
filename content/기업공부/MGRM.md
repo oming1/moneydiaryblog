@@ -1,7 +1,7 @@
 ﻿---
 title: "MGRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 569
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #정형외과로봇 #AI수술로봇 #완전자율수술 #무릎관절수술 #개인맞춤형임플란트 #3D프린팅임플란트 #ZimmerBiomet인수 #의료로봇 #수술로봇 #로보틱수술 #인공지능의료 #정형외과기술 #무릎치환술 #자율절삭로봇 #정밀수술 #의료기기 #바이오메드 #수술정확도 #환자맞춤형 #미래수술 #스마트수술 #로봇보조수술 #수술혁신 #의료자동화 #첨단의료 #디지털헬스케어 #수술플랫폼 #정형외과임플란트 #인공관절 #수술효율성 #임상시험 #FDA승인 #의료테크 #헬스테크 #바이오테크 #mBôs시스템 #독일산업로봇 #1로봇암 #절삭정밀도 #limb_alignment #cadaver_testing #Indian_clinical_trial #Shalby_hospital #ZBH인수합병 #orthopedic_innovation
 

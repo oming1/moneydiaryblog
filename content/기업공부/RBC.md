@@ -1,7 +1,7 @@
 ﻿---
 title: "RBC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 728
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #리쇼어링 #정밀베어링 #항공우주 #산업기계 #모션제어 #고성능부품 #에너지효율 #전기차 #방위산업 #OEM파트너십 #애프터마켓 #고온환경 #저마찰기술 #기어박스 #항공엔진부품 #철도산업 #풍력발전 #지속가능성 #미국제조업 #고객맞춤형솔루션
 

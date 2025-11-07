@@ -1,7 +1,7 @@
 ﻿---
 title: "CPNG"
 date: 2024-12-04T10:17:02+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 227
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-04T01:17:02Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #인터넷소매 #임의소비재 #전자상거래 
 

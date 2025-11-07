@@ -1,7 +1,7 @@
 ﻿---
 title: "HUSQ B"
 date: 2024-09-19T14:36:49+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 428
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T05:36:49Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #로봇 #소비자재량주 #가정용내구재 #로봇 #가정용로봇 #산업재 #도구및액세서리 #로봇잔디깎기 #가전제품
 

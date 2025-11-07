@@ -1,7 +1,7 @@
 ﻿---
 title: "PTNM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 715
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #피타니움 #PTNM #홍콩뷰티 #스킨케어 #개인용품 #헤어케어 #화장품 #자체브랜드 #BIGPI #나스닥상장 #IPO2025 #옴니채널 #뷰티리테일 #아시아뷰티 #직영매장 #온라인판매 #홍콩소매 #개인관리용품 #뷰티테크 #소비재 #헬스케어 #바디케어 #뷰티트렌드 #아시아마켓 #소매혁신
 

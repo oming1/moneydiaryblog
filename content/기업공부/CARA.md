@@ -1,7 +1,7 @@
 ﻿---
 title: "CARA"
 date: 2024-09-02T12:23:01+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 171
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-02T03:23:01Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #헬스케어 #바이오테크 #디펠리케팔린 #만성신장질환 #만성가려움증
 

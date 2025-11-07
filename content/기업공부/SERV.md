@@ -1,7 +1,7 @@
 ﻿---
 title: "SERV"
 date: 2024-12-17T21:14:01+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 782
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-17T12:14:01Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #로봇공학 #자율주행 #배달서비스 #인공지능 #테크놀로지 #스타트업 #라스트마일배송 #자동화 #모빌리티 #스마트시티 #서비스로봇 #도시물류 #임의소비재 #전문소매 #로봇 #자율주행로봇 #배달 
 

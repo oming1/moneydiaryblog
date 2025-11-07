@@ -1,7 +1,7 @@
 ﻿---
 title: "IDXX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 436
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #수의학진단 #반려동물헬스케어 #동물병원 #진단장비 #수의사 #펫케어 #동물진단 #레퍼런스랩 #수의학소프트웨어 #수질검사 #축산검사 #동물의료 #수의학검사 #반려동물시장 #애니멀헬스 #진단시약 #수의학이미징 #동물건강관리 #펫헬스케어 #바이오진단 #수의학기술 #동물검사 #헬스케어진단 #의료진단장비 #수의학혁신 #반려동물 
 #헬스케어 

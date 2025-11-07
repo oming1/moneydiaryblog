@@ -1,7 +1,7 @@
 ﻿---
 title: "GEM"
 date: 2023-06-03T08:57:32+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 370
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-02T23:57:32Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #테크 #핀테크 #코인 #금융서비스 #자본시장 #암호화폐
 

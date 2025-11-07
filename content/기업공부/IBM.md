@@ -1,7 +1,7 @@
 ﻿---
 title: "IBM"
 date: 2024-10-25T13:42:20+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 435
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-25T04:42:20Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #테크 #정보기술
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "INCY"
 date: 2024-11-20T11:06:41+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 443
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-20T02:06:41Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #헬스케어 #바이오테크 
 

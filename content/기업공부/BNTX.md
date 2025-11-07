@@ -1,7 +1,7 @@
 ﻿---
 title: "BNTX"
 date: 2024-11-18T13:42:39+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 151
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-18T04:42:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #바이오테크 #헬스케어 #mRNA백신
 

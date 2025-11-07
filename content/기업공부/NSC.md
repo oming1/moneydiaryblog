@@ -1,7 +1,7 @@
 ﻿---
 title: "NSC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 629
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #NorfolkSouthern #NSC #철도운송 #화물철도 #인터모달 #석탄운송 #화학물질운송 #자동차운송 #철도인프라 #동부철도 #운송물류 #복합운송 #소비재운송 #금속건설자재 #농업제품 #철도네트워크 #화물운송 #산업철도 #철도합병 #UnionPacific #배당주 #운송주 #인프라투자 #로지스틱스 #공급망 
 

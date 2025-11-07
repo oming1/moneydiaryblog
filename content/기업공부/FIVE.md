@@ -1,7 +1,7 @@
 ﻿---
 title: "FIVE"
 date: 2024-12-06T10:44:09+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 344
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-06T01:44:09Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #할인점 #소비재 #소매 #블랙프라이데이 #10대 #청소년 #임의소비재 #전문소매
 

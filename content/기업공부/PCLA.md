@@ -1,7 +1,7 @@
 ﻿---
 title: "PCLA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 679
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #무선메시네트워크 #엔터프라이즈Wi-Fi #PBE백홀엔진 #무선중계기술 #일본테크 #도쿄기반 #무선인프라 #메시액세스포인트 #무선백홀 #기업용네트워크 #무선통신솔루션 #Wi-Fi확장 #무선랜 #다단계중계 #케이블프리 #무선연결 #엔터프라이즈급 #특허기술 #하드웨어제조 #설치서비스 #무선네트워크구축 #백홀솔루션 #텔레콤서비스 #무선통신장비 #PCWL시리즈 #IoT연결 #스마트빌딩 #무선커버리지 #네트워크확장 #디지털인프라 #5G백홀 #무선브리지 #기업네트워크 #무선솔루션 #메시네트워킹 #NASDAQ상장 #IPO2025 #주가1달러미만 #상장폐지위험 #180일유예 #특허PBE #후루카와히로시 #도쿄본사 #매출550만달러 #순손실340만달러
 

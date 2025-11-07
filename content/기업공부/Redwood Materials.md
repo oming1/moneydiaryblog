@@ -1,7 +1,7 @@
 ﻿---
 title: "Redwood Materials"
 date: 2024-09-12T11:29:37+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 738
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-12T02:29:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #폐배터리 #배터리재활용 #기초소재 #화학
 

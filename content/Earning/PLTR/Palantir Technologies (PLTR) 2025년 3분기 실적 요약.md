@@ -1,8 +1,7 @@
 ﻿---
-﻿---
 title: "Palantir Technologies (PLTR) 2025년 3분기 실적 요약"
 date: 2025-11-04T06:44:27+09:00
-lastmod: 2025-11-04T06:46:18+09:00
+lastmod: 2025-11-04T11:00:37+09:00
 type: docs
 sidebar:
   open: false
@@ -10,7 +9,7 @@ weight: 3
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-11-03T21:44:27Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:46:18Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
 </div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 
 

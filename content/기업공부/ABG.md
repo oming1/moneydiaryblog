@@ -1,7 +1,7 @@
 ﻿---
 title: "ABG"
 date: 2024-12-25T21:20:51+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 12
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-25T12:20:51Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #자동차소매 #임의소비재 #자동차 #신차 #중고차 
  

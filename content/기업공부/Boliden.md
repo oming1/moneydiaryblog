@@ -1,7 +1,7 @@
 ﻿---
 title: "Boliden"
 date: 2023-06-04T17:05:22+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 153
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-04T08:05:22Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #비철금속 #아연 #광산 #2차전지 #정제련업 #기초소재 #금속및광업
 

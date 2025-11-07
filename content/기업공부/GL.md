@@ -1,7 +1,7 @@
 ﻿---
 title: "GL"
 date: 2024-09-30T11:07:45+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 378
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-30T02:07:45Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #금융서비스 #생명보험
 

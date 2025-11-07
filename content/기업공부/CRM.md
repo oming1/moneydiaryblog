@@ -1,7 +1,7 @@
 ﻿---
 title: "CRM"
 date: 2023-07-12T11:47:21+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 236
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-07-12T02:47:21Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #테크 #소프트웨어 #클라우드
 

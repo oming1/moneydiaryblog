@@ -1,7 +1,7 @@
 ﻿---
 title: "ORLY"
 date: 2024-12-10T21:24:39+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 665
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-10T12:24:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #임의소비재 #전문소매 #자동차부품 
 

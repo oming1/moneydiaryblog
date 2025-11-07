@@ -1,7 +1,7 @@
 ﻿---
 title: "DUOL"
 date: 2024-12-11T08:46:53+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 296
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-10T23:46:53Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #교육 #모바일언어학습플랫폼 #테크 #소프트웨어
 

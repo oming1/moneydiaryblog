@@ -1,7 +1,7 @@
 ﻿---
 title: "TSM"
 date: 2024-08-29T21:47:48+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 890
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-29T12:47:48Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #테크 #반도체 #파운드리
 

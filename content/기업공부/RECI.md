@@ -1,7 +1,7 @@
 ﻿---
 title: "RECI"
 date: 2024-09-11T10:53:09+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 737
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-11T01:53:09Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #헬스케어 #의약품제조 #바이오테크 #CDMO
 

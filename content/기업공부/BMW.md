@@ -1,7 +1,7 @@
 ﻿---
 title: "BMW"
 date: 2023-06-20T14:09:13+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 149
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-06-20T05:09:13Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #자동차 #소비재 #전기차 #자동차제조업체  #임의소비재 
 

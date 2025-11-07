@@ -1,7 +1,7 @@
 ﻿---
 title: "PLTR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 697
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #빅데이터 #AI #데이터분석 #정부계약 #국방 #정보분석 #고담 #파운드리 #AIP #아폴로 #기업소프트웨어 #플랫폼 #의사결정 #예측분석 #머신러닝 #사이버보안 #인텔리전스 #클라우드 #엔터프라이즈 #디지털트랜스포메이션 #정보기술 #소프트웨어
 

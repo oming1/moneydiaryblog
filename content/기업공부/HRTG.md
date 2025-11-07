@@ -1,7 +1,7 @@
 ﻿---
 title: "HRTG"
 date: 2024-10-12T00:23:36+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 419
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-11T15:23:36Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #금융서비스 #보험 #허리케인 #플로리다 
 

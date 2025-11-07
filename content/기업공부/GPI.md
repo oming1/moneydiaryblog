@@ -1,7 +1,7 @@
 ﻿---
 title: "GPI"
 date: 2024-12-25T21:20:49+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 386
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-25T12:20:49Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #자동차소매 #임의소비재 #자동차 #신차 #중고차 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "U"
 date: 2024-09-04T13:34:13+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 898
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-04T04:34:13Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #테크 #소프트웨어
 

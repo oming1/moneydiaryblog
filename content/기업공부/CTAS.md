@@ -1,7 +1,7 @@
 ﻿---
 title: "CTAS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 245
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #유니폼렌탈 #시설관리서비스 #안전제품 #청소용품 #화재보호 #기업정체성 #B2B서비스 #산업세탁 #직접판매 #ESG #글로벌확장 #운영효율성 #고객다양성 #공급망관리 #비용효율성 #디지털전환 #혁신기술 #지속가능성 #규제준수
 

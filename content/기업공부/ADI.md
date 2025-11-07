@@ -1,7 +1,7 @@
 ﻿---
 title: "ADI"
 date: 2024-08-22T14:41:40+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 28
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-22T05:41:40Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #반도체 #테크 #아날로그반도체
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "HEICO"
 date: 2024-11-06T21:21:05+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 405
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-06T12:21:05Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #산업재 #항공우주및방위산업 #항공우주 #제트엔진 #부품 #우주 #항공 
 

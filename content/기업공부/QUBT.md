@@ -1,7 +1,7 @@
 ﻿---
 title: "QUBT"
 date: 2024-11-26T15:12:31+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 726
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-11-26T06:12:31Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #정보기술 #소프트웨어 #양자 #양자컴퓨팅 #사이버보안
 

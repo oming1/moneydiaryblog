@@ -1,7 +1,7 @@
 ﻿---
 title: "MMYT"
 date: 2024-12-13T22:02:44+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 574
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #여행 #임의소비재 #호텔레스토랑및레저 #인도 #온라인여행서비스
 

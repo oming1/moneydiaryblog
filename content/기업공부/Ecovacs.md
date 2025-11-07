@@ -1,7 +1,7 @@
 ﻿---
 title: "Ecovacs"
 date: 2024-09-19T14:36:55+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 304
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T05:36:55Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #소비자재량주 #가정용내구재 #가전제품 #로봇 #청소로봇 #가정용로봇 #서비스로봇 #임의소비재
 

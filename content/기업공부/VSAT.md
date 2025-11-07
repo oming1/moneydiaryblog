@@ -1,7 +1,7 @@
 ﻿---
 title: "VSAT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 942
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #위성 #우주 #통신 #위성통신 #커뮤니케이션서비스 #위성인터넷
 

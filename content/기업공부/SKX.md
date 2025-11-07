@@ -1,7 +1,7 @@
 ﻿---
 title: "SKX"
 date: 2024-09-20T09:15:50+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 799
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-20T00:15:50Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #운동화 #임의소비재 #신발및액세서리 #신발
 

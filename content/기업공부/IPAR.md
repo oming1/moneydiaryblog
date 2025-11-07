@@ -1,7 +1,7 @@
 ﻿---
 title: "IPAR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 454
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #프레스티지향수 #브랜드라이센싱 #글로벌유통 #디자이너프래그런스 #럭셔리브랜드 #코치향수 #지미추향수 #유럽미국이원화 #라이센스계약 #장기파트너십 #프래그런스제조 #향수마케팅 #뷰티산업 #120개국유통망 #향수포트폴리오 #브랜드확장 #고급향수시장 #옴니채널유통 #장기성장전략 #선택적유통
 

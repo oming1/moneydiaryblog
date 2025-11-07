@@ -1,7 +1,7 @@
 ﻿---
 title: "DOOO"
 date: 2024-12-07T12:42:23+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 289
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-07T03:42:23Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #캐나다 #스포츠차 #해양제품 #보트 #스노모빌 
 

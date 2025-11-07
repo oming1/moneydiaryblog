@@ -1,7 +1,7 @@
 ﻿---
 title: "DUK"
 date: 2024-10-24T10:26:56+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 294
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-24T01:26:56Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #전기 #유틸리티 #전기유틸리티 
 

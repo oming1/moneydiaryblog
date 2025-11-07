@@ -1,7 +1,7 @@
 ﻿---
 title: "AIRO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 44
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #항공우주 #국방 #드론 #무인항공기 #군용드론 #아비오닉스 #전기수직이착륙기 #eVTOL #항공훈련 #ISR #정찰감시 #RQ35하이드런 #NATO공급 #미국국방부 #우크라이나지원 #도시항공모빌리티 #UAM #자율비행 #군사항공훈련 #첨단항공기술 #전투검증드론 #미니UAV #GNSS저항 #항공전자시스템 #수직통합
 

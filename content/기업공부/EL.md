@@ -1,7 +1,7 @@
 ﻿---
 title: "EL"
 date: 2024-09-27T18:36:31+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 309
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-27T09:36:31Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #소비자방어주 #가정용및개인용품 #화장품 
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "ZS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 1002
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #테크 #소프트웨어 #보안관리 #데이터센터 #클라우드 
 

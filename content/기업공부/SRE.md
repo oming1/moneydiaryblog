@@ -1,7 +1,7 @@
 ﻿---
 title: "SRE"
 date: 2024-10-28T21:16:17+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 828
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-28T12:16:17Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #전기및가스유틸리티 #유틸리티 #송배전 #전기 #천연가스 #전기 #전기유통 
 

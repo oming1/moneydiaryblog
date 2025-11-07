@@ -1,7 +1,7 @@
 ﻿---
 title: "JWN"
 date: 2024-12-24T15:08:57+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 476
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-24T06:08:57Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #임의소비재 #백화점 #의류 #소매 #고급백화점
 

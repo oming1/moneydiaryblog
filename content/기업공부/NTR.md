@@ -1,7 +1,7 @@
 ﻿---
 title: "NTR"
 date: 2024-09-13T17:43:48+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 632
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-13T08:43:48Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #농업 #종자 #비료 #기초소재 #농업투입재 #인산염 
 

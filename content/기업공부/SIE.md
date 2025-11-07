@@ -1,7 +1,7 @@
 ﻿---
 title: "SIE"
 date: 2024-09-10T10:24:06+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 795
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-10T01:24:06Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #산업재 #특수산업기계 #변압기 #전력기기
 

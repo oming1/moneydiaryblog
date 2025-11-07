@@ -1,7 +1,7 @@
 ﻿---
 title: "TXN"
 date: 2024-10-04T23:04:49+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 897
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-04T14:04:49Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #반도체 #아날로그반도체 #마이크로컨트롤러 #테크 
 

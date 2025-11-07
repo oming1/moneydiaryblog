@@ -1,7 +1,7 @@
 ﻿---
 title: "Waymo"
 date: 2024-09-20T14:25:45+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 952
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-20T05:25:45Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #자율주행차 #테크 #로봇택시 #자율주행트럭
 

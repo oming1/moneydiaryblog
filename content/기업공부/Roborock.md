@@ -1,7 +1,7 @@
 ﻿---
 title: "Roborock"
 date: 2024-09-19T14:36:53+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 754
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-09-19T05:36:53Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #로봇 #소비자재량주 #가정용내구재 #로봇 #가정용로봇 #가전제품 #로봇청소기 
 

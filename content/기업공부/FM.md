@@ -1,7 +1,7 @@
 ﻿---
 title: "FM"
 date: 2023-05-31T11:06:33+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 348
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2023-05-31T02:06:33Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #구리 #광산 #원자재
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "ATNF"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 92
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #바이오테크놀로지 #임상단계 #뒤피트랑병 #안티TNF치료제 #아달리무맙 #CBD제형 #섬유화질환 #만성염증 #만성통증 #옥스퍼드대학 #180라이프사이언스 #아이게이밍피벗 #블록체인게임 #전략적전환 #지적재산권 #특허포트폴리오 #임상시험 #규제승인 #나스닥상장폐지위험 #재무어려움 #바이오테크투자 #소형주
 

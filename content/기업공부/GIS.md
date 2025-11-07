@@ -1,7 +1,7 @@
 ﻿---
 title: "GIS"
 date: 2024-08-30T22:16:55+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 377
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-30T13:16:55Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #포장식품 #소비자방어주 #소비재 #식료품 
 

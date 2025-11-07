@@ -1,7 +1,7 @@
 ﻿---
 title: "PODD"
 date: 2024-08-28T14:20:14+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 704
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-08-28T05:20:14Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #헬스케어 #의료기기 #당뇨병 
 

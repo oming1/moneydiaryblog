@@ -1,7 +1,7 @@
 ﻿---
 title: "Westinghouse Electric"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 960
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
 </div>
 #웨스팅하우스일렉트릭 #원자력발전 #핵연료 #원자력서비스 #AP1000 #SMR #소형모듈원자로 #eVinci #AP300 #탈탄소화 #에너지안보 #원전수명연장 #원전해체 #핵폐기물관리 #차세대원전 #원자력기술 #글로벌원전시장 #탄소중립 #에너지전환 #규제리스크 #방사능안전 #원전건설 #원전연료 #원전부품 #원자력발전소 #핵융합에너지 #지정학적리스크 #원자력투자 #그린에너지 #에너지솔루션
 

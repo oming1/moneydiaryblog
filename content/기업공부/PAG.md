@@ -1,7 +1,7 @@
 ﻿---
 title: "PAG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 671
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #프라이빗에쿼티 #대체투자 #자산운용 #글로벌투자 #아시아태평양 #사모펀드 #벤처캐피탈 #부동산투자 #인수합병 #기업구조조정 #금융
 

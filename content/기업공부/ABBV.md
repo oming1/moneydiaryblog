@@ -1,7 +1,7 @@
----
+﻿---
 title: "ABBV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T15:08:43+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 9
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
+  <meta property="article:modified_time" content="2025-11-04T06:08:43Z" />
 </div>
 #헬스케어 #제약 #자가면역질환 #암 #조현병 
 

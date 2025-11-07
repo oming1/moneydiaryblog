@@ -1,7 +1,7 @@
 ﻿---
 title: "BIDU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 131
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #인터랙티브미디어및서비스 #커뮤니케이션서비스 #중국 #전자상거래 #광고 #클라우드컴퓨팅 #자율주행 #AI #검색엔진 
 

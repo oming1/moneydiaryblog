@@ -1,7 +1,7 @@
 ﻿---
 title: "PNR"
 date: 2024-10-23T21:55:54+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 702
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-23T12:55:54Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
 </div>
 #기초소재 #수영장 #수처리 #물관리솔루션
 

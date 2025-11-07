@@ -1,7 +1,7 @@
 ﻿---
 title: "DHI"
 date: 2024-10-30T17:33:51+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 276
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-10-30T08:33:51Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
 </div>
 #임의소비재 #건축건설 #부동산
 

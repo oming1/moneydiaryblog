@@ -1,7 +1,7 @@
 ﻿---
 title: "META"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 563
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #페이스북 #인스타그램 #왓츠앱 #메신저 #소셜미디어 #디지털광고 #메타버스 #VR #AR #리얼리티랩스 #소셜네트워킹 #온라인광고 #모바일앱 #커뮤니케이션 #인공지능 #개인화추천 #데이터분석 #스마트글래스 #가상현실 #증강현실 #커뮤니케이션서비스
 

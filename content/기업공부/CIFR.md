@@ -1,7 +1,7 @@
 ﻿---
 title: "CIFR"
 date: 2025-11-03T21:22:45+09:00
-lastmod: 2025-11-03T21:50:37+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 198
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-11-03T12:22:45Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:37Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
 </div>
 #사이퍼마이닝 #CIFR #비트코인채굴 #암호화폐채굴 #블록체인 #디지털자산 #채굴데이터센터 #해시레이트 #에너지효율 #텍사스채굴 #재생에너지 #지속가능채굴 #ASIC마이너 #데이터처리 #디지털통화 #암호화폐경제 #비트코인반감기 #BTC가격 #운영비용 #전력비용 #채굴풀 #클라우드컴퓨팅 #인프라투자 #기술혁신 #규제환경 #시장변동성 #사이버보안 #글로벌경쟁 #에너지관리 #디지털인프라 #IT인프라 #데이터센터 #파워그리드 #ESG마이닝
 

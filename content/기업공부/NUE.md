@@ -1,7 +1,7 @@
 ﻿---
 title: "NUE"
 date: 2024-12-16T17:33:31+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 635
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2024-12-16T08:33:31Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #소재 #철강
 

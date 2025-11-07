@@ -1,7 +1,7 @@
 ﻿---
 title: "MXIM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
@@ -9,7 +9,7 @@ weight: 603
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
+  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
 </div>
 #반도체 #아날로그IC #혼합신호IC #자동차 #산업용전자 #통신 #정보기술 #전기차
 
