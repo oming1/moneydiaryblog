@@ -35,6 +35,8 @@ Peloton Interactive, Inc.는 2012년 설립되어 2019년 나스닥에 상장된
 
 NordicTrack, Echelon, SoulCycle, Tonal 등이 있으며, 최근 Apple Fitness+, Nike Training Club 등 대형 테크/스포츠 기업들의 진출로 경쟁이 더욱 치열해지고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 Peloton의 핵심 경쟁력은 다음과 같습니다:
@@ -63,6 +65,8 @@ Peloton의 핵심 경쟁력은 다음과 같습니다:
 - 콘텐츠 제작 산업
 - 물류 및 배송 산업
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 연구 개발: 혁신적인 피트니스 장비와 소프트웨어 개발
@@ -81,6 +85,8 @@ Peloton의 핵심 경쟁력은 다음과 같습니다:
 - Peloton Row: 실내 로잉머신
 - 디지털 구독 서비스: 라이브 및 온디맨드 피트니스 클래스 (매출 비중 약 20%, 2022년 기준)
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 Peloton의 주요 고객층은 중상위 소득의 건강과 피트니스에 관심이 많은 25-65세 사이의 성인입니다. 특히 바쁜 전문직 종사자, 젊은 부모, 홈 피트니스를 선호하는 밀레니얼 세대가 주요 타겟입니다.
 ## 주요 판매국가
@@ -115,6 +121,8 @@ Peloton의 주요 고객층은 중상위 소득의 건강과 피트니스에 관
 7. 구독 모델 개편 및 가격 정책 변경 (2023)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. Eaton Vance Management (11.23%)
 2. Vanguard Fiduciary Trust Co. (9.197%)

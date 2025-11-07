@@ -25,11 +25,17 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 병원 및 의료기관
 - 의사 및 의료 전문가
@@ -57,6 +63,8 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))
 - Smith & Nephew(UK, [SNN](/company-analysis/snn/))
 - Zimmer Biomet(US, [ZBH](/company-analysis/zbh/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.

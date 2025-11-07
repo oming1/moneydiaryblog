@@ -45,6 +45,8 @@ Melco Resorts & Entertainment은 아시아와 유럽에서 엔터테인먼트 �
 - 엔터테인먼트 공연
 - 회의 및 컨벤션 시설
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 마카오, 필리핀, 키프로스, 스리랑카
@@ -56,8 +58,12 @@ Melco Resorts & Entertainment은 아시아와 유럽에서 엔터테인먼트 �
 - MGM Resorts International(US, [MGM](/company-analysis/mgm/))
 - Galaxy Entertainment Group(홍콩, 0027)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Melco Resorts는 아시아 카지노 리조트 시장에서 주요 플레이어 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -66,6 +72,8 @@ Melco Resorts & Entertainment은 아시아와 유럽에서 엔터테인먼트 �
 - City of Dreams Mediterranean 개장 (2021)
 - City of Dreams Sri Lanka 개장 (2024)
 - 지속가능성 및 ESG 이니셔티브 강화 (2021-2024)
+
+{{< adsense-infeed >}}
 
 공유
 다시 쓰기

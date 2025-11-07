@@ -40,6 +40,8 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - IoT 기업: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Intel(US, [INTC](/company-analysis/intc/))
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 통신장비 제조업체: Ericsson(SE, ERIC), Nokia(FI, NOK)
@@ -47,6 +49,8 @@ Crown Castle Inc.(NYSE: CCI)는 미국 최대의 통신 인프라 제공업체 �
 - 전력 공급업체: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 부지 확보: Crown Castle(US, [CCI](/company-analysis/cci/)) (타워 및 소형 셀 부지 선정 및 임대)
 2. 인프라 구축: American Tower(US, [AMT](/company-analysis/amt/)) (타워 및 소형 셀 설치)
@@ -88,6 +92,8 @@ Crown Castle은 2024년 3분기 기준으로 미국 통신 타워 시장에서 �
 - 운영 효율성 개선 및 자본 지출 최적화 노력 지속 (2023-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - Vanguard Group Inc. (13.02%)
 - BlackRock Advisors LLC (7.331%)

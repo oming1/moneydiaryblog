@@ -28,20 +28,28 @@ weight: 902
 
 ## 전방/후방산업:  
 
+{{< adsense-infeed >}}
+
 ## 후방산업: 
 
 - 광산 장비 제조업 (Caterpillar Inc. (US, [CAT](/company-analysis/cat/)))  
 ## 전방산업:
 
+{{< adsense-infeed >}}
+
 - 반도체 산업 (Intel Corporation (US, [INTC](/company-analysis/intc/)))
 - 배터리 제조업 (Tesla, Inc. (US, [TSLA](/company-analysis/tsla/)))
 - 난연제 제조업 (Albemarle Corporation (US, [ALB](/company-analysis/alb/)))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인:
 1. 채굴: United States Antimony Corporation (US, [UAMY](/company-analysis/uamy/))
 2. 정제 및 가공: 5N Plus Inc. (캐나다, VNP.TO)
 3. 제품 제조: Campine NV (벨기에, CAMB.BR)
 4. 유통 및 판매: Traxys Group (비상장)
+
+{{< adsense-infeed >}}
 
 ## 주요제품:
 - [안티모니](/industry-study/안티모니/) 금속 및 산화물 (반도체, 배터리, 난연제 원료)
@@ -56,6 +64,8 @@ weight: 902
 - Nihon Seiko Co., Ltd. (일본, 5729.T) (안티모니 제품 제조)
 - Perpetua Resources ([PPTA](/company-analysis/ppta/) US)
 - 
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율: 
 정확한 수치는 확인되지 않으나, [미국 내 유일한 안티모니 생산업체]로 알려져 있음

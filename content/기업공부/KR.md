@@ -27,6 +27,8 @@ The Kroger Co.는 미국에서 식료품 및 약국 소매업체로 운영됩니
   이 회사의 브랜드 제품은 주로 Private Selection, The Kroger, Big K, Smart Way, Heritage Farm 등의 세 가지 티어에서 생산 및 판매된다.  
   Simple Truth 및 Simple Truth Organic 브랜드를 통해 고객에게 다양한 천연 및 유기농 제품을 제공한다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 **전방산업:**
 
@@ -34,6 +36,8 @@ The Kroger Co.는 미국에서 식료품 및 약국 소매업체로 운영됩니
 - **전자상거래:** Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
 
 **후방산업:**
+
+{{< adsense-infeed >}}
 
 - **물류업체:** FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
 - **식품 제조업체:** General Mills (US, [GIS](/company-analysis/gis/)), Kellogg’s (US, [K](/company-analysis/k/))

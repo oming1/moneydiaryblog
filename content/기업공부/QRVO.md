@@ -31,6 +31,8 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 기술 리더십: RF 및 전력 관리 분야에서의 강력한 기술력과 혁신
 2. 다양한 제품 포트폴리오: 모바일, 인프라, IoT, 국방/항공우주 등 다양한 시장 대응
 3. 맞춤형 ASIC 설계 능력: 고객 요구에 맞는 특화된 솔루션 제공
@@ -59,6 +61,8 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 
 미국, 중국, 대만, 한국, 일본, 유럽 주요국
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Broadcom Inc.(US, [AVGO](/company-analysis/avgo/))
@@ -66,6 +70,8 @@ Qorvo, Inc.(NASDAQ: QRVO)는 무선 통신, 유선 및 전력 시장을 위한 �
 - Analog Devices Inc.(US, [ADI](/company-analysis/adi/))
 - Murata Manufacturing Co.(JP, 6981)
 - Qualcomm Inc.(US, [QCOM](/company-analysis/qcom/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

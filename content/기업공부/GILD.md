@@ -23,6 +23,8 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
 
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 의료 서비스, 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 서비스 제공
     - **핵심 기업:** CVS Health (미국, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (미국, [WBA](/company-analysis/wba/))
@@ -47,6 +49,8 @@ Gilead Sciences는 주로 항바이러스제, 항암제, 항염증제 등을 개
 - **Yescarta:** 항암제 (CAR-T 세포 치료제)
 ### 주요 판매국가
 Gilead Sciences는 주로 미국, 유럽, 아시아 등에서 제품을 판매하고 있으며, 주요 매출 국가는 미국입니다. 최근 3년간의 매출 추이는 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - **2021년:** 미국 60%, 유럽 25%, 아시아 10%
 - **2022년:** 미국 62%, 유럽 23%, 아시아 11%

@@ -55,6 +55,8 @@ BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배�
 
 
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 
@@ -73,6 +75,8 @@ BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배�
 #### 산업 내 글로벌 시장 점유율
 
 [BYD는 글로벌 전기차 시장에서 약 17.1%의 점유율을 보유하고 있으며, 이는 2023년 기준으로 세계 2위입니다](https://www.visualcapitalist.com/visualizing-global-electric-vehicle-sales-in-2023-by-market-share/)[1](https://www.visualcapitalist.com/visualizing-global-electric-vehicle-sales-in-2023-by-market-share/)[2](https://www.statista.com/statistics/541390/global-sales-of-plug-in-electric-vehicle-manufacturers/).
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 - **전방산업**:

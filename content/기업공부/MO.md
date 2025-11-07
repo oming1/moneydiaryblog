@@ -38,11 +38,15 @@ Altria Group, Inc.는 주로 담배 제품을 제조 및 판매하는 회사입�
 
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - 미국 (주요 매출 국가)
 ### 경쟁업체
 - **Philip Morris International (US, [PM](/company-analysis/pm/)):** 담배 제품 (시장 점유율 15%)
 - **British American Tobacco (GB, [BATS](/company-analysis/bats/)):** 담배 제품 (시장 점유율 10%)
 - **[Japan Tobacco](/company-analysis/japan-tobacco/) (JP, 2914):** 담배 제품 (시장 점유율 8%)
+
+{{< adsense-infeed >}}
 
 ### 산업 내 글로벌 시장 점유율
 [Altria Group, Inc.의 글로벌 시장 점유율은 약 6% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.morningstar.com/stocks/XNYS/MO/quote)[3](https://www.morningstar.com/stocks/XNYS/MO/quote).

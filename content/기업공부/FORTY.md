@@ -130,6 +130,8 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 - 금융: 보험 시스템.
 - 헬스케어: 데이터 관리.
 
+{{< adsense-infeed >}}
+
 **후방산업 (원자재/부품 공급 산업):**
 
 - 클라우드: Microsoft(US, [MSFT](/company-analysis/msft/)).
@@ -141,12 +143,16 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 
 **부품 공급 단계:**
 
+{{< adsense-infeed >}}
+
 - Microsoft(US, [MSFT](/company-analysis/msft/)): 클라우드 인프라.
 - Oracle(US, [ORCL](/company-analysis/orcl/)): 데이터베이스.
 
 **제조 및 조립 단계:**
 
 - 자회사: 소프트웨어 개발.
+
+{{< adsense-infeed >}}
 
 **유통 및 판매 단계:**
 - 직접 영업: 기업 계약.
@@ -234,6 +240,8 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 
 ### 관련 ETF
 **직접 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - IGV - iShares Expanded Tech-Software ETF IGV.
 - SKYY - First Trust Cloud Computing ETF SKYY.

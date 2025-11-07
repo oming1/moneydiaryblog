@@ -21,8 +21,12 @@ weight: 281
 #### 영위사업
 Trump Media & Technology Group는 소셜 미디어 플랫폼인 Truth Social을 개발 및 운영하며, 주로 미국 내에서 소셜 네트워킹 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 Trump Media & Technology Group는 소셜 미디어 플랫폼인 Truth Social을 개발 및 운영하며, 주로 미국 내에서 소셜 네트워킹 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 - **전방산업**:
@@ -38,7 +42,11 @@ Trump Media & Technology Group는 소셜 미디어 플랫폼인 Truth Social을 
 - **데이터 분석**: 사용자 데이터 분석 및 마케팅 솔루션 제공 (Palantir Technologies (US, [PLTR](/company-analysis/pltr/)), IBM (US, [IBM](/company-analysis/ibm/)))
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **Truth Social**: 소셜 네트워킹 플랫폼
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 - **미국**: 주요 시장으로 전체 매출의 대부분을 차지

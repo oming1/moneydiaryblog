@@ -32,6 +32,8 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 - 물류: Amazon (US, [AMZN](/company-analysis/amzn/)), Walmart (US, [WMT](/company-analysis/wmt/))
 - 자동차: Renault (FR, RNO.PA)
 
+{{< adsense-infeed >}}
+
 후방산업:
 - 수소 생산: Air Liquide (FR, AI.PA)
 - 연료전지 부품: Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/))
@@ -46,6 +48,8 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 - **소매**: 최종 소비자에게 판매
     - **대표 회사**: Amazon.com Inc. (미국, [AMZN](/company-analysis/amzn/)), Walmart Inc. (미국, [WMT](/company-analysis/wmt/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 - GenDrive (물류용 연료전지 시스템, 매출의 약 60%)
 - GenFuel (수소 공급 인프라, 매출의 약 20%)
@@ -55,13 +59,19 @@ Plug Power는 [수소](/industry-study/수소/) 연료전지 시스템을 개발
 주로 미국 시장에 집중되어 있으며, 유럽과 아시아 시장 진출을 확대 중입니다.
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Ballard Power Systems (CA, [BLDP](/company-analysis/bldp/)) - 연료전지 시스템
 - FuelCell Energy (US, [FCEL](/company-analysis/fcel/)) - 고정형 연료전지 발전
 - Bloom Energy (US, [BE](/company-analysis/be/)) - 고정형 연료전지 발전
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 없으나, 물류용 연료전지 시장에서 선도적 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

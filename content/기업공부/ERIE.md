@@ -20,6 +20,8 @@ weight: 322
 
 **영위사업 (Business Operations)** Erie Indemnity Company는 Erie Insurance Exchange의 가입자를 위한 관리 대리인 역할을 합니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **보험 발행 및 갱신 서비스 (Issuance and Renewal Services):** 보험 증권 발행 및 갱신
 - **판매 관련 서비스 (Sales Related Services):** 대리인 보상, 판매 및 광고 지원
 - **언더라이팅 서비스 (Underwriting Services):** 언더라이팅 및 정책 처리
@@ -28,11 +30,15 @@ weight: 322
 - **전방산업 ( Industries):**
     - **핵심 산업:** 자동차, 주택, 상업 부동산
     - **핵심 기업:** State Farm (미국, 비상장), Allstate (미국, ALL)
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업 (Downstream  Industries):**
     - **핵심 산업:** 재보험, 금융 기술 (Fintech)
     - **핵심 기업:** Swiss Re (스위스, SREN), Munich Re (독일, MUV2)
 **밸류체인 (Value Chain)**
+
+{{< adsense-infeed >}}
 
 - **내부 물류 (Inbound Logistics):** 보험 데이터 수집 및 분석
     - **대표 회사:** Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)), Snowflake (미국, [SNOW](/company-analysis/snow/))
@@ -55,6 +61,8 @@ weight: 322
 - **Travelers Companies (미국, [TRV](/company-analysis/trv/)):** 상업 및 개인 보험
 - **Progressive (미국, [PGR](/company-analysis/pgr/)):** 자동차 및 주택 보험
 - **State Farm (미국, 비상장):** 개인 및 상업용 보험
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)**
 - **기후 변화:** 자연 재해로 인한 보험 청구 증가 (2023)

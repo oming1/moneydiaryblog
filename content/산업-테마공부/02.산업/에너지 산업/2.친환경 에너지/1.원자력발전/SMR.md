@@ -43,7 +43,11 @@ weight: 2
 ---
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설계하고 판매하는 미국의 상장 기업입니다. 본사는 오레곤주 포틀랜드에 있으며, 2023년 1월에 50 MWe 버전의 설계를 미국 원자력 규제 위원회(NRC)로부터 인증받았습니다. 현재 77 MWe SMR VOYGR 디자인이 NRC 검토 중에 있으며, 이 설계는 향후 전 세계의 전력 수요를 충족시키기 위한 솔루션으로 주목받고 있습니다.
+
+{{< adsense-infeed >}}
 
 뉴스케일 파워는 3.5세대 SMR를 만드는 기업. 뉴스케일 파워의 Nuscale Power Module(NPM)은 가압 경수로 기술에 기반하고 있어 안정성이 높다는 특징을 가짐
 
@@ -57,6 +61,8 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
 
 ---
 ## 전방/후방 산업
+
+{{< adsense-infeed >}}
 
 - **전방 산업 (Downstream Industry)**:
     
@@ -77,6 +83,8 @@ NuScale Power는 소형 모듈식 원자로([SMR](/industry-study/smr/))를 설�
 ---
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **SMR 설계 및 제조**:
     

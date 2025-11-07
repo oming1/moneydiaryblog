@@ -27,12 +27,16 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 3. 데이터 센터 솔루션: Zoned Storage 및 OpenFlex 아키텍처 기반 제품
 2024년 기준, Western Digital은 전 세계 18개국에 법인을 두고 있으며 약 51,000명의 직원을 보유하고 있습니다. 최근에는 HDD와 플래시 사업을 각각 독립적인 상장 회사로 분리하려는 계획을 발표하며 전략적 재편을 진행 중입니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 1. 수직 통합 모델: 설계, 제조, 유통까지 모든 과정을 통합하여 비용 효율성과 품질 제어 강화
 2. 혁신 기술: HAMR, Zoned Storage, RISC-V 등 첨단 기술 도입
 3. 글로벌 시장 점유율: HDD 시장에서 Seagate와의 듀오폴리 형성 및 낸드 시장에서 Kioxia와의 협력
 4. 폭넓은 제품 포트폴리오: 개인용부터 데이터 센터용까지 다양한 스토리지 솔루션 제공
 5. 지속가능성 노력: 2030년까지 100% 재생 에너지 사용 목표 설정
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -54,7 +58,11 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 4. 유통 및 판매: Amazon(US, [AMZN](/company-analysis/amzn/)), Best Buy(US,[BBY](/company-analysis/bby/)])
 5. 애플리케이션 통합: Dell Technologies(US, [DELL](/company-analysis/dell/)) (스토리지 솔루션 통합)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - HDD: 개인용 PC 및 데이터 센터용 하드 디스크 드라이브, 매출의 약 50% (2024년 기준)
 - SSD: 고성능 솔리드 스테이트 드라이브, 매출의 약 30% (2024년 기준)
@@ -68,6 +76,8 @@ Western Digital Corporation(NASDAQ: WDC)은 데이터 저장 솔루션을 설계
 - Lenovo Group(HK, [992]) - 개인용 컴퓨터 및 서버
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 클라우드 및 데이터 센터 솔루션
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 중국, 일본, 한국, 대만, 유럽 주요국
 

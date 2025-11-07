@@ -56,10 +56,14 @@ ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 �
 - STMicroelectronics(스위스, [STM](/company-analysis/stm/))
 - Infineon Technologies(독일, [IFX](/company-analysis/ifx/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, ON Semiconductor는 2022년 Fortune 500 리스트에서 483위를 차지했으며, 2021년 매출 기준으로 세계 주요 반도체 기업 중 하나로 평가받고 있습니다.
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2024년 8월: Entegris와 실리콘 카바이드(SiC) 응용을 위한 화학기계적 평탄화 솔루션 확보 계약 체결
 - 2024년 7월: SWIR Vision Systems 인수 (콜로이드 양자점 기반 단파장 적외선 기술 제공업체)

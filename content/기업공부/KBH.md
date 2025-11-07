@@ -46,6 +46,8 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 - 주택 맞춤 설계 서비스
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국 (주로 서부, 남서부, 중부 지역)
 
 ## 경쟁업체
@@ -56,6 +58,8 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 - NVR, Inc.(US, [NVR](/company-analysis/nvr/)) (주택 건설)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, KB Home은 미국 주요 주택 건설업체 중 하나로 평가받고 있습니다.
 

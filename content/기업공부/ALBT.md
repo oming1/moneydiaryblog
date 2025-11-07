@@ -25,6 +25,8 @@ Avalon GloboCare는 독점 기술을 활용한 유전자 기반 정밀 진단 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 의료 장비 제조업체
@@ -35,6 +37,8 @@ Avalon GloboCare는 독점 기술을 활용한 유전자 기반 정밀 진단 �
 - 제약회사
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 연구개발: Avalon GloboCare (자체 R&D)
 2. 진단 기술 개발: Avalon GloboCare
 3. 임상 검사 서비스 제공: Laboratory Services MSO, LLC (40% 지분 보유)
@@ -44,6 +48,8 @@ Avalon GloboCare는 독점 기술을 활용한 유전자 기반 정밀 진단 �
 - 독성학 및 웰니스 검사 서비스
 - 유전자 기반 정밀 진단 검사
 - KetoAir 호흡 측정기 시스템 (개발 중)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 미국

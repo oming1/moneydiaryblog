@@ -23,6 +23,8 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
 
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 기업 재무 및 자본 조달
@@ -40,6 +42,8 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
         - Vanguard Group (미국, 비상장)
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **투자은행 서비스**:
     
@@ -66,6 +70,8 @@ Goldman Sachs는 글로벌 투자은행 및 증권 회사로, 주로 투자은�
     
     - 매출 비중: 전체 매출의 약 30% 차지.
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 Goldman Sachs는 미국을 주요 시장으로 하며, 유럽과 아시아에서도 중요한 매출을 올리고 있습니다.
 

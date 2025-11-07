@@ -59,9 +59,13 @@ Rocketdyne의 주요 고객은 미국 정부와 NASA입니다.
 - [Blue Origin](/company-analysis/blue-origin/) (미국, 비상장) - 재사용 가능한 로켓 엔진
 - [SpaceX](/company-analysis/spacex/) (미국, 비상장) - 로켓 엔진 및 우주 발사체
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 없으나, Rocketdyne는 미국 로켓 엔진 시장에서 주요 공급업체 중 하나입니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 - L3Harris Technologies에 의해 인수 완료 (2023년)

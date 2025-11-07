@@ -36,13 +36,17 @@ Spire Global은 나노위성 군집 위성을 통해 지구 관측 데이터를 
 ## 밸류체인
 
 - 위성 설계 및 제조:
-    
+
+{{< adsense-infeed >}}
+
     - Spire Global은 자체적으로 CubeSat을 설계하고 제조합니다.
     - 대표 기업: Planet Labs (미국, [PL](/company-analysis/pl/)), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/))
 - 데이터 수집 및 분석:
     
     - 수집된 데이터를 AI 기반으로 분석하고 고객에게 제공합니다.
     - 대표 기업: BlackSky (미국, [BKSY](/company-analysis/bksy/)), Satellogic (미국, [SATL](/company-analysis/satl/))
+
+{{< adsense-infeed >}}
 
 ## 주요 제품
 - 해양 데이터 서비스 (AIS 선박 추적 등)

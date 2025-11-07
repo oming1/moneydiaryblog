@@ -43,9 +43,13 @@ FMC Corporation은 주로 농업용 화학 제품, 특히 살충제, 제초제, 
 - **Capture:** 살충제 (해충 방제)
 - **Command:** 제초제 (작물 보호)
 
+{{< adsense-infeed >}}
+
 ### 주요 판매국가
 FMC Corporation은 주로 미국, 브라질, 인도, 중국 등에서 제품을 판매하고 있으며, 주요 매출 국가는 미국입니다.
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Bayer CropScience (독일, BAYN):** 다양한 농업 화학 제품
 - **Syngenta (스위스, 비상장):** 다양한 농업 화학 제품

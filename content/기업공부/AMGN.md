@@ -48,6 +48,8 @@ Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제�
 - **Otezla (아프레밀라스트)**: 판상 건선 및 건선성 관절염 치료 (2023년 매출 비중: 약 8%)
 - **XGEVA (데노수맙)**: 골격 관련 사건 예방 (2023년 매출 비중: 약 7%)
 
+{{< adsense-infeed >}}
+
  - MariTide(이전 명칭 AMG 133, [비만 치료제](/industry-study/비만-치료제/)): 임상 시험 중. [이 약물은 월 1회 주사로 투여되며, 비만 쥐와 원숭이에서 체중 감소와 대사 마커 개선을 보여주었습니다](https://thehealthcaretechnologyreport.com/amgens-maritide-shows-promise-as-monthly-obesity-treatment-in-preclinical-trials/)[1](https://thehealthcaretechnologyreport.com/amgens-maritide-shows-promise-as-monthly-obesity-treatment-in-preclinical-trials/). 
  - AMG-786이라는 다른 [비만 치료제](/industry-study/비만-치료제/)를 개발 중이며, 현재 임상 1상 단계에 있습니다
 #### 경쟁업체
@@ -59,6 +61,8 @@ Amgen은 전 세계적으로 인간 치료제를 발견, 개발, 제조 및 제�
 - **Biogen (US, [BIIB](/company-analysis/biib/))**: 신경과학 치료제
 
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Horizon Therapeutics 인수**: 희귀 질환 치료제 포트폴리오 강화 (2023년)
 - **코로나19 팬데믹**: 의약품 수요 증가 및 공급망 문제 (2021년)

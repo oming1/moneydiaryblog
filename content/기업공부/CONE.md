@@ -28,7 +28,9 @@ weight: 217
     - **금융 서비스:** 금융 데이터 관리 및 거래. 주요 기업: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/)), Goldman Sachs (미국, [GS](/industry-study/gs/)).
       
 - **후방산업:** 건설, 전력 공급, 냉각 시스템
-    
+
+{{< adsense-infeed >}}
+
     - **건설:** 데이터 센터 건설 및 인프라 개발. 주요 기업: Bechtel Corporation, Turner Construction.
     - **전력 공급:** 데이터 센터에 필요한 전력 공급. 주요 기업: Duke Energy (미국, [DUK](/company-analysis/duk/)), NextEra Energy (미국, [NEE](/company-analysis/nee/)).
     - **냉각 시스템:** 데이터 센터 냉각 솔루션 제공. 주요 기업: Johnson Controls (미국, [JCI](/company-analysis/jci/)), Schneider Electric (프랑스, [SU](/company-analysis/su/)).
@@ -62,6 +64,8 @@ weight: 217
 
 #### 산업 내 글로벌 시장 점유율
 - **데이터 센터:** 글로벌 시장 점유율 약 5% (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 

@@ -24,6 +24,8 @@ Sector: Industrials (산업재)
 Industry: Integrated Freight & Logistics (통합화물및물류)
 ## 회사 개요
 
+{{< adsense-infeed >}}
+
 FedEx Corporation은 1971년에 설립된 미국의 글로벌 운송 및 물류 회사입니다. 본사는 테네시주 멤피스에 위치하고 있으며, 전 세계 220개국에 서비스를 제공합니다. FedEx는 항공 및 육상 운송 서비스를 포함한 다양한 물류 솔루션을 제공합니다.
 
 ## 영위사업
@@ -66,6 +68,8 @@ FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음�
 - 차량: 41,000대
 - 글로벌 물류 네트워크 및 허브
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - UPS (United Parcel Service) (US, [UPS](/company-analysis/ups/)) - 글로벌 물류 및 운송 서비스
@@ -73,6 +77,8 @@ FedEx는 전 세계적으로 서비스를 제공하며, 주요 시장은 다음�
 - USPS (United States Postal Service) - 미국의 우편 서비스
 - [AMZN](/company-analysis/amzn/): 미국의 전자상거래 업체로 미국 물류 운송 1위
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 FedEx는 글로벌 물류 및 운송 시장에서 주요 플레이어 중 하나로, 시장 점유율은 약 20%로 추정됩니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 ## 자세한 종목 정보 링크

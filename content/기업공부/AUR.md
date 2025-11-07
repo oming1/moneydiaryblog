@@ -40,6 +40,8 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 3. 자율주행 기술 연구 및 개발
 4. 자동차 제조사 및 운송 기업과의 파트너십
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
@@ -59,6 +61,8 @@ Aurora Innovation은 [자율 주행](/industry-study/자율-주행/) 시스템�
 5. 고객 서비스: Aurora Innovation, 파트너 기업
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Aurora Driver: 자율주행 시스템
 - FirstLight 라이다: 자체 개발한 FMCW 라이다(LiDAR) 기술

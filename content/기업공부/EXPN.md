@@ -28,6 +28,8 @@ Experian PLC는 아일랜드에 본사를 둔 글로벌 정보 서비스 회사�
 - 사기 방지 및 신원 관리 솔루션
 - 비즈니스 및 소비자 대상 신용 교육 서비스
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -35,6 +37,8 @@ Experian PLC는 아일랜드에 본사를 둔 글로벌 정보 서비스 회사�
 - 역할: 신용 정보 및 분석 서비스 이용
 - 금융기관: JPMorgan Chase (US, [JPM](/company-analysis/jpm/))
 - 소매업체: Walmart (US, [WMT](/company-analysis/wmt/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 - 역할: 데이터 및 기술 제공
@@ -62,6 +66,10 @@ Experian은 전 세계 30개국에서 사업을 운영하고 있습니다. 구�
 
 Experian은 글로벌 신용 정보 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
+{{< adsense-infeed >}}
+
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [Experian PLC - Reuters](https://www.reuters.com/markets/companies/EXPN.L)

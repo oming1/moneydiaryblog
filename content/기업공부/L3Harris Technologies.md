@@ -24,6 +24,8 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 - 전자부품 제조: 센서, 통신장비 등 핵심 부품 공급  
@@ -37,6 +39,8 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
     주요 기업: Boeing(US, [BA](/company-analysis/ba/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/))
 - 정부 기관: 보안 및 통신 시스템 구매
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구 개발: L3Harris (자체 R&D)
 2. 부품 조달: 다양한 전자부품 및 소프트웨어 공급업체
@@ -69,6 +73,8 @@ L3Harris는 방위 및 상업용 기술을 제공하는 기업으로, 항공, �
 2022년 기준 세계 12위 방위산업체로, 정확한 시장 점유율은 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Palantir Technologies와 디지털 전환을 위한 파트너십 체결 (2024)
 - Diamondback, 새로운 자율 정찰 및 보안 차량 시스템 출시 (2024)

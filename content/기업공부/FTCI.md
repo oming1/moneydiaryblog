@@ -39,7 +39,9 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 2. 빠른 설치 속도: 경쟁사 대비 설치 시간 및 비용 절감
     
 3. 소프트웨어 통합: SunDAT 및 Atlas 플랫폼을 통한 프로젝트 최적화
-    
+
+{{< adsense-infeed >}}
+
 4. 글로벌 확장: 다양한 지역에서의 프로젝트 경험 및 현지화 전략
 5. 원가 절감 노력: 지속적인 제품 개선을 통한 LCOE(균등화발전비용) 감소
 
@@ -85,6 +87,8 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Array Technologies(US, ARRY): 단축 트래커 시스템
     
 2. NEXTracker(US, NXTR): 고급 트래킹 솔루션
@@ -121,7 +125,9 @@ FTC Solar의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 ## 관련 ETF
 
 1. Invesco Solar ETF - TAN
-    
+
+{{< adsense-infeed >}}
+
 2. Global X Renewable Energy Producers ETF - RNRG
     
 3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN

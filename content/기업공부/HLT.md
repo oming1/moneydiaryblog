@@ -23,7 +23,9 @@ weight: 410
 - **전방산업**: 여행 및 관광 산업
     - **핵심 산업 및 역할**: 여행사, 항공사, 온라인 여행사(OTA) 등. 이들은 고객을 호텔로 유치하는 역할을 합니다.
     - **관련 기업**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**: 건설 및 유지보수, 식음료 공급업체
     - **핵심 산업 및 역할**: 호텔 건설 및 유지보수, 식음료 공급 등. 이들은 호텔 운영에 필요한 인프라와 자원을 제공합니다.
     - **관련 기업**: Caterpillar Inc. (미국, [CAT](/company-analysis/cat/)), Sysco Corporation (미국, [SYY](/company-analysis/syy/))
@@ -35,6 +37,8 @@ weight: 410
 - **마케팅 및 판매**: 호텔 마케팅 및 판매
     - **대표 회사**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 - **호텔 및 리조트 운영**: Hilton Hotels & Resorts, Waldorf Astoria, Conrad Hotels & Resorts 등
 - **브랜드 포트폴리오**: Hilton Garden Inn, Hampton by Hilton, DoubleTree by Hilton 등
@@ -45,6 +49,8 @@ weight: 410
 - **유럽**: 다양한 국가에서 매출 발생
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Marriott International (미국, [MAR](/company-analysis/mar/))**: 호텔 및 리조트 운영
 - **Hyatt Hotels Corporation (미국, H)**: 호텔 및 리조트 운영

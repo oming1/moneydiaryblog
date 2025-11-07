@@ -23,6 +23,8 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 - 암호화폐 거래소 운영
 - 디지털 자산의 안전한 보관 및 관리
 - 암호화폐 대출 및 수익 프로그램 제공 (Gemini Earn)
@@ -42,6 +44,8 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 - 결제 처리 서비스: Stripe (US, [STRP](/company-analysis/strp/))
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - Gemini Exchange (암호화폐 거래 플랫폼)
 - Gemini Earn (암호화폐 대출 및 수익 프로그램)
 - Nifty Gateway (NFT 마켓플레이스)
@@ -50,6 +54,8 @@ Gemini Trust Company, LLC는 2014년에 Cameron과 Tyler Winklevoss에 의해 �
 
 Gemini는 미국을 중심으로 운영되며, 최근에는 유럽(아일랜드, 프랑스 등)으로 서비스 영역을 확장하고 있습니다.
 ## 주요 자산
+
+{{< adsense-infeed >}}
 
 - 보안 및 규제 준수를 위한 인프라
 - 디지털 자산 보관을 위한 기술
@@ -62,5 +68,7 @@ Gemini는 미국을 중심으로 운영되며, 최근에는 유럽(아일랜드,
 - Binance (비상장) - 글로벌 암호화폐 거래소
 - Kraken (비상장) - 암호화폐 거래소 및 스테이킹 서비스
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Gemini는 미국 내 주요 암호화폐 거래소 중 하나로, 시장 점유율은 약 10%로 추정됩니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.

@@ -24,6 +24,8 @@ weight: 999
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-study/이스라엘/)에서 설립된 [글로벌 컨테이너 선박 회사]로, 세계 최대 규모의 컨테이너 운송 사업자 중 하나입니다. 초기에는 중동 지역 무역에 집중했으나, 2021년 NYSE 상장 이후 글로벌 네트워크를 확대하여 아시아-유럽, 북미-아시아, 지중해 노선을 주요로 운영합니다. 회사는 약 150척의 선박(자체 보유 및 임대)을 보유하며, 연간 수백만 TEU(20피트 컨테이너 단위)의 화물을 운송합니다. ZIM은 디지털화와 지속 가능성을 강조하며, [LNG](/industry-study/lng/)(액화천연가스) 추진 선박 도입과 AI 기반 경로 최적화를 통해 효율성을 높이고 있습니다. 최근에는 공급망 위기(예: 수에즈 운하 막힘, 판데믹 영향)를 극복하기 위해 유연한 노선 조정과 디지털 플랫폼을 강화하고 있으며, 이스라엘의 기술 생태계를 활용해 [스마트 쉬핑 솔루션]을 개발합니다. 회사의 강점은 비용 효과적인 운영과 지역별 전문성에 있으며, 이는 글로벌 무역 증가와 연계되어 장기적인 성장을 지원합니다.
 
 - **주요 제품 및 서비스**
@@ -87,6 +89,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 - **글로벌 노선 네트워크:** 주요 무역 루트 커버리지로 안정적 운송.
 - **디지털 혁신:** ZIMonitor로 실시간 추적과 효율화.
@@ -177,6 +181,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 - 이스라엘: 10% (2023년 기준, 3년간 -1%p).
 - 유럽: 20% (2023년 기준, 3년간 +1%p).
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 경쟁업체
@@ -232,6 +238,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 
 - BOAT - SonicShares Global Shipping ETF BOAT.
 - SEA - U.S. Global Sea to Sky Cargo ETF SEA.
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

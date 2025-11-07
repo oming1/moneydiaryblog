@@ -19,9 +19,13 @@ weight: 89
 
 ## 산업섹터
 
+{{< adsense-infeed >}}
+
 - **Sector**: Technology (테크)
 - **Industry**: Semiconductor Equipment & Materials (반도체 장비 및 재료)
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 ASML은 네덜란드에 본사를 둔 세계적인 반도체 장비 제조업체로, 주로 반도체 제조에 필요한 노광 장비(리소그래피)를 설계 및 생산합니다. ASML의 기술은 반도체 칩의 미세 패턴을 실리콘 웨이퍼에 대량 생산하는 데 필수적이며, 이는 컴퓨터 칩을 더 작고 빠르며 효율적으로 만드는 데 기여합니다.
 ## 전방/후방산업
@@ -47,6 +51,8 @@ ASML은 네덜란드에 본사를 둔 세계적인 반도체 장비 제조업체
 - **제조**: 고급 노광 장비 생산
     - **대표 회사**: KLA Corporation (US, [KLAC](/company-analysis/klac/)) - 공정 제어 및 수율 관리 솔루션
 
+{{< adsense-infeed >}}
+
 - **판매 및 서비스**: 고객 맞춤형 솔루션 제공 및 기술 지원
     - **대표 회사**: Tokyo Electron (JP, 8035.T),  Applied Materials (US, [AMAT](/company-analysis/amat/)) - 반도체 제조 장비
 
@@ -65,10 +71,14 @@ ASML은 전 세계적으로 운영되며, 주요 시장은 아시아(특히 대�
 - **Applied Materials (US, [AMAT](/company-analysis/amat/))** - 반도체 장비 및 재료 공급업체
 - **Lam Research (US, [LRCX](/company-analysis/lrcx/))**: 웨이퍼 제조 장비
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 ASML은 EUV 노광 장비 시장에서 독점적인 위치를 차지하고 있으며, 전 세계 반도체 제조 장비 시장에서 중요한 역할을 하고 있습니다.
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **EUV 기술 상용화**: EUV 노광 기술의 상용화를 통해 반도체 제조업체의 미세 공정 지원 (2020-2023).
 - **글로벌 공급망 문제**: 반도체 공급망의 불안정성에 대응하기 위한 전략적 조치 강화 (2021-2023).

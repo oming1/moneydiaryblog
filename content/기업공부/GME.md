@@ -26,14 +26,20 @@ GameStop은 새로운 및 중고 게임 플랫폼, 액세서리(컨트롤러, �
 ## 전방/후방산업
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 게임 개발사: Electronic Arts(US, EA), Activision Blizzard(US, [ATVI](/company-analysis/atvi/))
 - 게임 콘솔 제조업체: [SONY](/company-analysis/sony/)(JP), Microsoft(US, [MSFT](/company-analysis/msft/))
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 소비자
 - 게임 커뮤니티
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 제품 소싱: 게임 개발사 및 제조업체로부터 구매
 2. 유통: GameStop 매장 및 온라인 플랫폼
@@ -56,6 +62,8 @@ GameStop은 새로운 및 중고 게임 플랫폼, 액세서리(컨트롤러, �
 - Target(US, [TGT](/company-analysis/tgt/))
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 

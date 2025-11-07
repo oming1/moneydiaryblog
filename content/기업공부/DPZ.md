@@ -56,6 +56,8 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
 
 **경쟁업체**
 
+{{< adsense-infeed >}}
+
 - **Pizza Hut (미국, YUM):** 피자 및 다양한 음식 배달 서비스
 - **Papa John’s (미국, PZZA):** 피자 및 다양한 음식 배달 서비스
 - **Little Caesars:** 피자 및 다양한 음식 배달 서비스
@@ -63,6 +65,8 @@ Domino’s Pizza는 피자 및 다양한 음식 배달 서비스를 제공하는
 **산업 내 글로벌 시장 점유율**
 
 - Domino’s Pizza는 글로벌 피자 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**
 

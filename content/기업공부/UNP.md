@@ -31,6 +31,8 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 
 2024년 기준 총 매출은 약 255억 달러에 달하며, 북미 공급망의 핵심 축 역할을 합니다. 최근에는 디지털화, 자동화, 지속 가능성 강화에 집중하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. **광범위한 철도 네트워크**: 미국 서부/중서부 전역 연결 및 주요 항구 연계
@@ -126,9 +128,13 @@ Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 �
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (9%)
 - BlackRock (7%)
-    
+
+{{< adsense-infeed >}}
+
 - State Street Corporation (4%)
 
 ## 관련 ETF

@@ -19,8 +19,12 @@ weight: 652
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 규제 가스(Utilities - Regulated Gas)
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 사업 영역은 다음과 같습니다:
 ## 영위사업
@@ -35,6 +39,8 @@ ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 �
 ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 제공하며, 지속가능한 에너지 솔루션 개발에도 주력하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 규제 산업의 안정성: 규제 환경에서의 예측 가능한 수익 구조
 2. 지리적 다각화: 3개 주에 걸친 사업 영역으로 리스크 분산
@@ -51,7 +57,9 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 발전: NextEra Energy(US, [NEE](/company-analysis/nee/))
     - 산업용 가스 소비: Dow Inc.(US, [DOW](/company-analysis/dow/))
 

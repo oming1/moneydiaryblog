@@ -20,6 +20,8 @@ Industry: 자본 시장(Capital Markets)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 CleanSpark, Inc.는 미국을 중심으로 [비트코인](/company-analysis/비트코인/) 채굴 사업을 영위하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 비트코인 채굴: 자체 소유 및 운영하는 데이터 센터를 통해 비트코인을 채굴합니다.
@@ -27,6 +29,8 @@ CleanSpark, Inc.는 미국을 중심으로 [비트코인](/company-analysis/비�
 3. 에너지 관리 솔루션: 과거에는 마이크로그리드 및 에너지 관리 솔루션을 제공했으나, 현재는 비트코인 채굴에 주력하고 있습니다.
 
 CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미국 전역에 데이터 센터를 보유하고 있으며, 2024년 기준 33.5 EH/s 이상의 해시레이트를 달성했습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -46,12 +50,18 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 4. 거래 및 유통: Coinbase (US, [COIN](/company-analysis/coin/))
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 비트코인 채굴 서비스
 2. 지속 가능한 에너지 인프라 솔루션
 3. 에너지 관리 시스템 (과거 사업)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 1. Riot Platforms (US, [RIOT](/company-analysis/riot/))

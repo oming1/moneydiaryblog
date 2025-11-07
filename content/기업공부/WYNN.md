@@ -24,6 +24,8 @@ Wynn Resorts는 고급 호텔과 카지노를 개발하고 운영하는 기업�
 ## 전방/후방산업
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 건설 및 인테리어 업체: 호텔 및 카지노 시설 건설
 - 식음료 공급업체: 레스토랑 및 바 운영을 위한 재료 공급
 
@@ -34,12 +36,16 @@ Wynn Resorts는 고급 호텔과 카지노를 개발하고 운영하는 기업�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 부동산 개발: Wynn Design & Development
 2. 호텔 및 카지노 운영: Wynn Las Vegas, Encore, Wynn Macau 등
 3. 식음료 서비스: 다수의 레스토랑 및 바
 4. 엔터테인먼트: 공연장, 나이트클럽 운영
 5. 소매: 고급 브랜드 매장 임대
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 호텔 숙박 서비스
 - [카지노](/industry-study/카지노/) 게임 운영

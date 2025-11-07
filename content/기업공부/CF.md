@@ -43,6 +43,8 @@ CF Industries Holdings Inc.는 1946년 설립된 미국의 세계 최대 [질소
 
 CF Industries의 비즈니스 모델은 세계 최대 [암모니아](/industry-study/암모니아/) 생산 능력을 바탕으로 한 통합 질소비료 제조 및 유통 플랫폼입니다.
 
+{{< adsense-infeed >}}
+
 **1. 제품별 수익 구조 (2024년 기준):**
 
 - 암모니아(Ammonia): 주력 제품, 매출 약 35% - 농업용 비료 및 산업용 원료
@@ -198,6 +200,8 @@ CF Industries는 대규모 통합 화학 제조 공정을 통해 천연가스를
 - 사용처: 암모니아 생산의 주요 원료 및 연료
 - 주요 공급 지역: 미국 텍사스, 루이지애나, 오클라호마
 - 주요 공급 업체: ExxonMobil [XOM](/company-analysis/xom/), Chevron [CVX](/company-analysis/cvx/)
+
+{{< adsense-infeed >}}
 
 **전력:**
 

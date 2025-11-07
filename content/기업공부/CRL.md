@@ -36,11 +36,15 @@ Charles River Laboratories는 생명 과학 및 제약 산업을 위한 다양�
     - **핵심 산업**: 실험 동물 공급 및 연구 모델
     - **역할**: Charles River의 서비스에 필요한 동물 모델 및 재료 공급
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - Envigo (영국, 비상장) - 실험 동물 및 관련 서비스 제공
         - Charles River 자체 동물 생산 시설
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **전임상 연구 서비스**:
     - Charles River는 약물 개발 초기 단계에서 필요한 다양한 연구 서비스를 제공합니다.

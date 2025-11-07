@@ -5,7 +5,7 @@ lastmod: 2025-11-04T06:50:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
+weight: 2078
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
@@ -14,3 +14,4 @@ weight: 1
 # 호텔,숙박,카지노 산업
 
 이 섹션의 내용입니다.
+

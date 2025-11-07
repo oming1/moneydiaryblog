@@ -34,6 +34,8 @@ Deckers는 [제품을 직접 제조하지 않고, 독립적인 제조업체에 �
 
 2025년 회계연도(2025년 3월 31일 종료)에 Deckers는 약 50억 달러의 매출을 기록했으며, HOKA와 UGG 브랜드는 각각 24%와 13%의 매출 성장을 보였습니다. 특히 HOKA 브랜드는 회사의 성장을 이끄는 핵심 동력으로 자리 잡았으며, 최근에는 UGG 브랜드도 다시 성장세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 2026 회계연도 1분기(2025년 6월 29일 종료) 실적에서 Deckers는 계절성이 낮은 시기임에도 불구하고 9억 6450만 달러의 매출을 기록하며 전년 대비 16.9% 성장했습니다. 이는 HOKA 브랜드의 19.8% 성장과 UGG 브랜드의 18.9% 성장에 힘입은 것으로, 회사의 강력한 브랜드 포트폴리오와 효과적인 전략 실행을 보여주고 있습니다.
 
 ---
@@ -277,7 +279,9 @@ Deckers는 [제품을 직접 제조하지 않고, 독립적인 제조업체에 �
 - 국제 시장 확장: 특히 중국 및 유럽 시장에서의 성장 기회
     
 - DTC 채널 강화: 직접 소비자 판매 비중 확대를 통한 마진 개선
-    
+
+{{< adsense-infeed >}}
+
 - 위험 요소: 공급망 제약, 원자재 비용 상승, 관세 인상, 경쟁 심화
 
 ---
@@ -301,7 +305,9 @@ Deckers는 [제품을 직접 제조하지 않고, 독립적인 제조업체에 �
 - Vanguard Group: 10.5% (267만주)
     
 - BlackRock: 8.2% (209만주)
-    
+
+{{< adsense-infeed >}}
+
 - Fidelity Management & Research: 6.3% (161만주)
     
 - State Street Corporation: 4.1% (104만주)
@@ -320,7 +326,9 @@ Deckers는 [제품을 직접 제조하지 않고, 독립적인 제조업체에 �
 - Invesco S&P 500 Equal Weight Consumer Discretionary ETF RSPE
     
 - SPDR S&P Retail ETF XRT
-    
+
+{{< adsense-infeed >}}
+
 - Global X Millennial Consumer ETF MILN
 
 **섹터 관련 ETF:**

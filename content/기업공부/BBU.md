@@ -169,6 +169,8 @@ BBU의 포트폴리오 기업들이 직접적으로 사용하는 원자재:
 
 ### 주요 고객
 
+{{< adsense-infeed >}}
+
 BBU 자체는 투자자들을 고객으로 합니다. BBU의 포트폴리오 기업들의 주요 고객:
 
 - 자동차 제조사 (예: Ford, GM, Toyota).
@@ -202,6 +204,8 @@ BBU 자체는 상장된 사모펀드 운용사이므로, 직접적인 경쟁사�
 ### 산업 내 글로벌 시장 점유율
 
 BBU는 다양한 산업의 운영 기업들을 보유하고 있어 단일 시장 점유율을 측정하기 어렵습니다. 다만, 주요 포트폴리오 기업들은 각자의 핵심 시장에서 선두적인 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 - **Clarios:** 글로벌 자동차 배터리 시장에서 선두권.
 - **GrafTech:** 글로벌 흑연 전극 시장에서 주요 플레이어.
@@ -237,11 +241,15 @@ BBU는 다양한 산업의 운영 기업들을 보유하고 있어 단일 시장
 - Brookfield Asset Management Ltd. (US, BAM)가 BBU의 General Partner (GP)로서 경영을 통제합니다.
 - Publicly Traded LP Units의 경우, Vanguard Group, BlackRock, State Street 등 대형 기관 투자자들이 주요 주주로 포진해 있습니다 (세부 지분율은 최신 공시를 확인).
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 관련 ETF
 
 BBU는 다양한 산업에 걸친 운영 기업을 포트폴리오로 가지고 있으므로, 직접적인 ETF는 찾기 어렵습니다. 그러나 BBU가 투자하는 산업 섹터 또는 Brookfield의 다른 상장 법인과 관련된 ETF를 통해 간접적인 노출이 가능합니다.
+
+{{< adsense-infeed >}}
 
 **간접 관련 ETF (산업재, 유틸리티, 자산운용 등):**
 

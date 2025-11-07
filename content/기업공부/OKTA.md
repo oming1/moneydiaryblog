@@ -29,11 +29,17 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 - Access Gateway
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 북미, 아시아-태평양, 유럽
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 북미, 아시아-태평양, 유럽
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Microsoft(US, [MSFT](/company-analysis/msft/))
 - Ping Identity(US, PING)

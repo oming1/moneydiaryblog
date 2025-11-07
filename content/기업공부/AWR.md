@@ -33,15 +33,23 @@ American States Water Company는 미국 내에서 수도 및 전기 서비스를
 - **생산:** 물 처리 및 공급, 전기 공급 (대표 기업: American States Water Company (US, [AWR](/company-analysis/awr/)), California Water Service Group (US, [CWT](/company-analysis/cwt/)))
 - **유통:** 수도 및 전기 서비스 제공 (대표 기업: American States Water Company (US, [AWR](/company-analysis/awr/)), Essential Utilities (US, [WTRG](/company-analysis/wtrg/)))
 
+{{< adsense-infeed >}}
+
 ### 주요제품
 
 - **수도 서비스:** 주거, 상업, 산업용 물 공급
 - **전기 서비스:** 주거 및 상업용 전기 공급
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 미국 내 10개 주에서 약 263,265명의 고객에게 서비스 제공
 
+{{< adsense-infeed >}}
+
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **California Water Service Group (US, [CWT](/company-analysis/cwt/)):** 수도 및 전기 서비스
 - **SJW Group (US, SJW):** 수도 및 전기 서비스

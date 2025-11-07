@@ -152,6 +152,8 @@ Viking Therapeutics의 비즈니스 모델은 임상 시험을 통해 약물 후
 - **잠재적 블록버스터 파이프라인:**  
     비만과 NASH 시장은 수십 조 원 규모로 성장할 것으로 예상되는 블록버스터 시장입니다. VK2735와 VK2809의 긍정적인 임상 데이터는 이 시장에서 중요한 플레이어가 될 수 있는 잠재력을 의미합니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -210,6 +212,8 @@ Viking Therapeutics의 비즈니스 모델은 임상 시험을 통해 약물 후
 **연구 개발 및 전임상 단계:**
 
 - **화학물질/시약 기업:** Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)): 연구용 시약 및 장비 공급 (시장점유율 N/A, 바이오 연구 필수 재료)
+
+{{< adsense-infeed >}}
 
 - **Viking Therapeutics(US, [VKTX](/company-analysis/vktx/)):** 질병 타겟 발굴, 신약 후보 물질 설계 및 합성, 전임상 시험 진행 (역할 및 특징: R&D 역량, 핵심 IP 보유)
 

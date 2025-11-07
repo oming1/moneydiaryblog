@@ -29,6 +29,8 @@ Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 - 역할: CRM 솔루션 사용
 - 금융 서비스: JPMorgan Chase (US, [JPM](/company-analysis/jpm/))
@@ -48,16 +50,22 @@ Salesforce는 CRM 소프트웨어를 중심으로 다양한 산업에 맞춤형 
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Salesforce는 전 세계적으로 운영되며, 주요 시장은 다음과 같습니다:
 - 북미: 약 60%
 - 유럽: 약 25%
 - 아시아 태평양: 약 10%
 - 기타: 약 5%
 
+{{< adsense-infeed >}}
+
 ## 주요 자산
 - 클라우드 인프라: Salesforce 플랫폼을 지원하는 데이터 센터 및 서버
 - 지적 재산권: 다양한 소프트웨어 및 기술에 대한 특허
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Microsoft Dynamics 365 (US, [MSFT](/company-analysis/msft/)) - CRM 및 ERP 솔루션
 - Oracle CRM (US, [ORCL](/company-analysis/orcl/)) - 통합 비즈니스 솔루션

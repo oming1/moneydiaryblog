@@ -22,10 +22,14 @@ weight: 648
 ## 영위사업
 Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산 리츠(REIT)입니다. 1969년 설립되어 1994년 뉴욕 증권거래소에 상장되었습니다. 주로 소매, 산업, 사무실, 농업 등 다양한 유형의 단일 세입자 상업용 부동산을 소유하고 운영합니다.회사의 주요 특징은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 월배당: "The Monthly Dividend Company®"라는 별칭으로 유명하며, 매월 배당금을 지급합니다.
 2. 트리플넷리스(NNN): 세입자가 세금, 보험, 유지보수 비용을 부담하는 계약 구조를 주로 활용합니다.
 3. 다각화된 포트폴리오: 2025년 1월 기준으로 미국, 영국, 스페인 등 11개국에 걸쳐 15,450개 이상의 부동산을 보유하고 있습니다.
 4. 우량 세입자: Walgreens, Dollar General, FedEx 등 신용도 높은 기업들이 주요 임차인입니다.
+
+{{< adsense-infeed >}}
 
 최근 1년간 주요 이슈로는 Spirit Realty Capital 인수 완료, 카지노 부동산 투자 확대, 유럽 시장 진출 가속화 등이 있었습니다. 회사는 지속적인 자산 인수와 글로벌 확장을 통해 성장을 추구하고 있습니다.
 
@@ -46,6 +50,8 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 건설/개발: Lennar Corporation(US, [LEN](/company-analysis/len/)), D.R. Horton(US, [DHI](/company-analysis/dhi/))
 - 부동산 서비스: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 금융: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
@@ -61,6 +67,8 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 상업용 부동산
 - FedEx(US, [FDX](/company-analysis/fdx/)): 물류 서비스
 - 7-Eleven: 편의점 체인
 - LA Fitness: 피트니스 센터 체인
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 미국, 영국, 스페인, 이탈리아, 아일랜드, 독일, 네덜란드, 포르투갈, 프랑스
@@ -87,6 +95,8 @@ Realty Income은 2024년 기준 미국 상업용 부동산 REIT 시장에서 약
 - ESG 이니셔티브 강화: 2040년까지 탄소중립 목표 설정 (2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)

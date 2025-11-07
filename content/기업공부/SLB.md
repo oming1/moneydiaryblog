@@ -39,7 +39,9 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
     
     - Schlumberger Ltd. (미국, [SLB](/company-analysis/slb/)): 지하 데이터 처리 및 시추 서비스.
     - Baker Hughes (미국, [BKR](/company-analysis/bkr/)): 시추 장비 및 서비스.
-      
+
+{{< adsense-infeed >}}
+
 - **유정 완성 및 생산:**
     - Halliburton (미국, [HAL](/company-analysis/hal/)): 유정 완성 및 생산 서비스.
     - Weatherford International (미국, [WFRD](/company-analysis/wfrd/)): 유정 완성 및 생산 서비스.
@@ -64,6 +66,8 @@ Schlumberger Ltd.는 전 세계적으로 석유 및 가스 산업에 기술 및 
 - **Baker Hughes (미국, [BKR](/company-analysis/bkr/)):** 시추 장비 및 서비스.
 - **Halliburton (미국, [HAL](/company-analysis/hal/)):** 유정 완성 및 생산 서비스.
 - **Weatherford International (미국, [WFRD](/company-analysis/wfrd/)):** 유정 완성 및 생산 서비스.
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율
 

@@ -45,13 +45,19 @@ Ormat Technologies는 주로 미국, 케냐, 뉴질랜드, 필리핀 등에서 �
 
 ### 경쟁업체
 
+{{< adsense-infeed >}}
+
 - **Calpine Corporation (미국)**: 천연가스 및 지열 자원을 이용한 전력 생산.
 - **Enel Green Power (이탈리아, EGPW)**: 재생 에너지를 이용한 전력 생산.
 - **NextEra Energy (미국, [NEE](/company-analysis/nee/))**: 재생 에너지 및 천연가스를 이용한 전력 생산.
 
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Ormat Technologies는 지열 에너지 및 회수 에너지 분야에서 글로벌 시장의 주요 기업 중 하나입니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 지열 에너지 분야에서 중요한 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 - **케냐의 Olkaria III 지열 발전소 확장** (2023년)

@@ -33,6 +33,8 @@ weight: 718
 - 소비자: 최종 제품 구매자
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 디자인 및 제품 개발: PVH Corp (자체 디자인)
 2. 제조: 외주 생산업체 (인도, 스리랑카, 방글라데시, 중국 등)
 3. 유통: 자사 매장, 백화점, 온라인 채널
@@ -46,6 +48,8 @@ weight: 718
 - Warner's, Olga: 여성 속옷
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 캐나다, 유럽, 아시아
 ## 경쟁업체
 - Ralph Lauren Corporation(US, [RL](/company-analysis/rl/)): 프리미엄 의류 및 액세서리
@@ -54,6 +58,8 @@ weight: 718
 - Capri Holdings(US, [CPRI](/company-analysis/cpri/)): 럭셔리 패션 브랜드
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 ## 최근 3년 내 주요 이슈

@@ -20,6 +20,8 @@ weight: 750
 **섹터(Sector):** Financial Services - 금융 서비스
 **산업(Industry):** Mortgage Finance - 모기지 금융, [부동산](/industry-study/2산업부동산/)
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -65,6 +67,8 @@ Rocket Companies, Inc.은 1985년에 미국 미시간주 디트로이트에서 �
 ---
 
 ### 비즈니스 모델 (수익 모델)
+
+{{< adsense-infeed >}}
 
 **수익 구조 세분화:**
 
@@ -138,6 +142,8 @@ Rocket은 금융 서비스 회사로 직접 제조 공정이 없습니다. 대�
 
 - 해당 없음.
 
+{{< adsense-infeed >}}
+
 **유통 및 판매 단계:**
 
 - 앱/웹: 직접 서비스.
@@ -155,12 +161,16 @@ Rocket은 금융 서비스 회사로 직접 제조 공정이 없습니다. 대�
 
 ### 주된 영향을 미치는 원자재
 
+{{< adsense-infeed >}}
+
 - **데이터 및 소프트웨어:** 디지털 운영, 공급지: 미국, 공급업체 Microsoft(US, [MSFT](/company-analysis/msft/)).
 - **신용 정보:** 평가 도구, 공급지: 미국, 공급업체 Equifax(US, EFX).
 
 ---
 
 ### 주요 고객
+
+{{< adsense-infeed >}}
 
 - 첫 주택 구매자.
 - 재융자 고객.

@@ -20,6 +20,8 @@ weight: 49
 섹터: [헬스케어](/industry-study/2산업헬스케어/)
 산업: 생명공학
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 개발하는 임상 단계 생명공학 기업입니다. 회사의 주력 제품인 efruxifermin(EFX)은 대사기능장애 연관 지방간염(MASH, 구 NASH) 치료를 위한 FGF21 유사체입니다.EFX는 현재 세 가지 진행 중인 3상 임상시험에서 평가되고 있습니다:
 
@@ -31,6 +33,8 @@ Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 혁신적 치료제: EFX는 FGF21의 생물학적 활성을 모방하여 간 섬유화, 지방간염, 인슐린 감수성, 지질 프로필 등을 개선
 2. 광범위한 효과: 간 건강 개선뿐만 아니라 심혈관 위험 인자 개선 등 MASH의 복합적 증상에 대응
 3. 강력한 임상 데이터: 2b상 연구에서 간경변 개선에 대한 유의미한 결과 도출
@@ -40,9 +44,15 @@ Akero Therapeutics, Inc.(NASDAQ: AKRO)는 심각한 대사 질환 치료제를 �
 
 - [Efruxifermin](/industry-study/efruxifermin/) (EFX): MASH 치료를 위한 FGF21 유사체, 3상 임상 진행 중
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 현재 제품 판매 단계는 아니며, 미국 FDA 승인을 1차 목표로 임상 진행 중
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 - Madrigal Pharmaceuticals(US, MDGL) - MASH 치료제 개발

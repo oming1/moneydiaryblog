@@ -47,6 +47,8 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - **여행 및 관광**: Expedia Group(US, [EXPE](/company-analysis/expe/)), Booking Holdings(US, [BKNG](/company-analysis/bkng/))
@@ -56,6 +58,8 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 - **물류 및 운송**: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
 
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - **자동차 제조사**: General Motors(US, [GM](/company-analysis/gm/)), Ford Motor Company(US, [F](/company-analysis/f/))
     
@@ -77,7 +81,9 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 ## 주요제품
 
 - **Avis 차량 렌탈 서비스**: 프리미엄 차량 렌탈 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 - **Budget 차량 렌탈 서비스**: 가격 경쟁력을 갖춘 경제형 렌탈 서비스 제공
     
 - **Zipcar 자동차 공유 서비스**: 도시 지역 및 대학 캠퍼스를 중심으로 한 자동차 공유 서비스
@@ -119,6 +125,8 @@ Avis Budget Group는 2024년 기준 글로벌 차량 렌탈 시장에서 약 26%
 3. McNicoll Vehicle Hire 인수로 스코틀랜드 시장 확장 (2023년)
     
 4. ESG 목표 강화: 2030년까지 탄소 배출량 30% 감축 계획 발표 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

@@ -24,13 +24,17 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
 ## 전방/후방산업
 
 - 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 전기 자동차 제조, 운송 서비스
     - 관련 기업: General Motors (US, [GM](/company-analysis/gm/)), Tesla (US, [TSLA](/company-analysis/tsla/))
 - 후방산업:
 - 후방산업:
     - 핵심 산업 및 역할: 전력 공급, 충전 장비 제조
     - 관련 기업: ChargePoint (US, [CHPT](/company-analysis/chpt/)), Blink Charging (US, [BLNK](/company-analysis/blnk/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -46,10 +50,16 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
 - 차량 전용 충전 서비스
 - PlugShare (EV 충전소 위치 앱)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 미국 (35개 주에 950개 이상의 충전소 운영)
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - ChargePoint (US, [CHPT](/company-analysis/chpt/)) - EV 충전 네트워크 운영
 - Blink Charging (US, [BLNK](/company-analysis/blnk/)) - EV 충전 장비 및 서비스 제공

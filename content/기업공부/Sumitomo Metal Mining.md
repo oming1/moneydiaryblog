@@ -22,6 +22,8 @@ weight: 840
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Sumitomo Metal Mining은 광산 개발, [비철금속](/industry-study/비철금속/) 제련 및 정제, 그리고 첨단 소재 사업을 영위하는 글로벌 기업입니다. 주요 사업 영역은 광물 자원 개발, 제련 및 정제, 그리고 첨단 소재 제조입니다.
 
 ## 전방/후방산업
@@ -42,7 +44,9 @@ Sumitomo Metal Mining은 광산 개발, [비철금속](/industry-study/비철금
     - **대표 회사**: BHP Group (AU, [BHP](/company-analysis/bhp/))
     - **대표 회사**: Rio Tinto (UK, [RIO](/company-analysis/rio/))
 - **제련 및 정제**: 비철금속 제련 및 정제
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: Glencore (CH, [GLEN](/company-analysis/glen/))
     - **대표 회사**: Vale S.A. (BR, [Vale](/company-analysis/vale/))
 

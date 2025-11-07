@@ -29,8 +29,12 @@ Credo는 네트워크 케이블 사업자로 데이터 인프라 시장을 위�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 하이퍼스케일러: 데이터 센터용 고속 연결 솔루션 수요 (예: Amazon(US, [AMZN](/company-analysis/amzn/)), Google(US, [GOOGL](/company-analysis/googl/)))
 - 통신장비 제조업체: 네트워크 인프라용 고속 연결 솔루션 수요
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 

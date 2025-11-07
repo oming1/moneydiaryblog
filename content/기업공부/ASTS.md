@@ -30,7 +30,9 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     - 핵심 산업: 통신 서비스 및 모바일 네트워크
     - 역할: 최종 소비자에게 위성 기반 모바일 서비스 제공
     - 주요 기업: AT&T (미국, [T](/company-analysis/t/)), Vodafone (영국, VOD)
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     - 핵심 산업: 위성 제조 및 발사
     - 역할: AST SpaceMobile의 서비스에 필요한 위성 및 장비 공급
@@ -52,9 +54,13 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
 - BlueWalker 3 프로토타입 위성
 - BlueBird 운영 위성 (계획 중)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특히 연결성이 부족한 지역을 대상으로 합니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 - Starlink (SpaceX의 자회사, 비상장) - 위성 인터넷 서비스
@@ -64,7 +70,11 @@ AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특
 ## 산업 내 글로벌 시장 점유율
 AST SpaceMobile은 아직 상용 서비스를 시작하지 않았기 때문에 현재 시장 점유율은 없습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - Google 및 AT&T와 새로운 파트너십 발표 (2024년)
 - Verizon과 미국 내 원격 지역 커버리지 확장을 위한 파트너십 체결 (2024년)

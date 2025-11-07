@@ -20,6 +20,8 @@ weight: 737
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Manufacturing Organization)로서 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제, 고형제, 무균제 및 기타 의약품 제조로 나뉩니다.
 #### 전방/후방산업
 - **전방산업**: 제약 및 바이오테크 산업
@@ -35,6 +37,8 @@ Recipharm은 글로벌 [CDMO](/industry-study/cdmo/)(Contract Development and Ma
     - **대표 회사**: Recipharm (스웨덴), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
 - **유통 (Distribution)**: 완제품의 전 세계 유통
     - **대표 회사**: McKesson (미국, [MCK](/company-analysis/mck/)), AmerisourceBergen (미국, [ABC](/company-analysis/abc/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 - **ATMPs**: 세포 및 유전자 치료제, 바이럴 벡터, 마이크로바이옴 등

@@ -45,12 +45,18 @@ weight: 279
     - **대표회사**: Walt Disney Company (미국, [DIS](/company-analysis/dis/)), Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))
 
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Disney+**: 프리미엄 스트리밍 서비스
 - **Hulu**: 다양한 콘텐츠를 제공하는 스트리밍 서비스
 - **ESPN**: 스포츠 관련 콘텐츠 제공
 - **Disney Parks**: 테마파크 및 리조트 운영(디즈니파크)
+
+{{< adsense-infeed >}}
 
 #### 주요 판매국가
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매

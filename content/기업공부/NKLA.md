@@ -29,6 +29,8 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - 물류 및 운송업체: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/))
 - 에너지 공급업체: Chevron (US, [CVX](/company-analysis/cvx/)), ExxonMobil (US, [XOM](/company-analysis/xom/))
 
+{{< adsense-infeed >}}
+
 **후방산업:**
 
 - 반도체 제조업체: Intel (US, [INTC](/company-analysis/intc/)), NVIDIA (US, [NVDA](/company-analysis/nvda/))
@@ -51,6 +53,8 @@ Nikola Corporation은 미국 및 국제적으로 에너지 및 운송 솔루션�
 - **General Motors (US, [GM](/company-analysis/gm/)):** 자동차 제조 (시장 점유율 15%)
 - **Ford Motor Company (US, [F](/company-analysis/f/)):** 자동차 제조 (시장 점유율 10%)
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Nikola Corporation의 글로벌 시장 점유율은 약 2% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 ### 산업 내 글로벌 시장 점유율

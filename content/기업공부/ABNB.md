@@ -24,20 +24,28 @@ weight: 13
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 관광 및 여행 서비스
     - **역할**: 최종 소비자에게 숙박 및 여행 경험을 제공
     - **주요 기업**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
-    
+
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 부동산 개발 및 관리
     - **역할**: 숙박 시설의 물리적 공간 제공
     - **주요 기업**: Marriott International (미국, [MAR](/company-analysis/mar/)), Hilton Worldwide (미국, [HLT](/company-analysis/hlt/))
 ## 밸류체인
 
 - **서비스 제공**:
-    
+
+{{< adsense-infeed >}}
+
     - 에어비앤비는 사용자에게 숙소 예약 서비스를 제공하며, 고객과 호스트를 직접 연결합니다.
     - 대표 기업: Vrbo (미국, [EXPE](/company-analysis/expe/)) - 경쟁 제품: 휴가 임대 서비스
 - **마케팅 및 광고**:

@@ -86,6 +86,8 @@ Oscar Health, Inc.은 2012년에 미국 뉴욕에서 설립된 디지털 헬스�
 - **지역별 매출 분포:**
     - 미국: 100% (2023년 기준, 3년간 변동 없음).
 
+{{< adsense-infeed >}}
+
 - **성장 동력 및 수익성 개선 요인:**
     - 회원 확대, AI 비용 관리, 메디케어 시장 진입.
 
@@ -135,6 +137,8 @@ Oscar Health, Inc.은 2012년에 미국 뉴욕에서 설립된 디지털 헬스�
 ### 밸류체인
 
 **부품 공급 단계:**
+
+{{< adsense-infeed >}}
 
 - Amazon(US, [AMZN](/company-analysis/amzn/)): 클라우드 인프라.
 - Google(US, [GOOGL](/company-analysis/googl/)): 데이터 분석 도구.

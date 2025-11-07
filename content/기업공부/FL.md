@@ -20,9 +20,13 @@ weight: 345
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소매업체입니다.
 
 ## 주요제품 및 서비스
+
+{{< adsense-infeed >}}
 
 - 운동화
 - 스포츠웨어
@@ -39,7 +43,11 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 
 미국, 캐나다, 유럽, 아시아 등 40개국 이상에서 사업을 영위하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Nike(US, [NKE](/company-analysis/nke/))
 - Adidas(독일, [ADS](/company-analysis/ads/))
@@ -47,6 +55,8 @@ Foot Locker는 운동화와 스포츠웨어를 전문으로 하는 다국적 소
 - Finish Line(JD Sports의 자회사)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율은 제공되지 않았으나, Foot Locker는 운동화 및 스포츠웨어 소매 시장에서 주요 플레이어 중 하나입니다.
 

@@ -45,13 +45,17 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 후방산업:
 
 - 반도체: 전력 관리 칩 (Texas Instruments(US, [TXN](/company-analysis/txn/)), Infineon(DE, [IFX](/company-analysis/ifx/)))
-    
+
+{{< adsense-infeed >}}
+
 - 원자재: 구리, 알루미늄 (Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), Alcoa(US, [AA](/company-analysis/aa/)))
 
 ## 밸류체인
 
 1. R&D: Shoals 내부 연구팀, 대학 협력
-    
+
+{{< adsense-infeed >}}
+
 2. 원자재 조달: 구리, 알루미늄 공급업체
     
 3. 제조: Shoals 생산 시설 (테네시, 앨라배마)
@@ -97,12 +101,16 @@ Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차
 2. 사우디아라비아 UUES와 태양광 EBOS 제조 파트너십 체결 (2024년)
     
 3. 역대 최다 신제품 출시로 신규 시장 및 지역 확대 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 4. 3분기 실적 부진으로 주가 하락 (2024년)
     
 5. 국제 시장 진출 가속화 전략 발표 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. The Vanguard Group (11.66%)
     

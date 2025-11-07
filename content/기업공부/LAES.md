@@ -45,7 +45,9 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
     
     - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/))
     - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
     - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
@@ -100,6 +102,8 @@ SEALSQ Corp의 정확한 시장 점유율 데이터는 제공되지 않았습니
 21. 클라우드 보안 서비스 강화 (2022-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 구체적인 주요 주주 정보는 제공되지 않았습니다.
 

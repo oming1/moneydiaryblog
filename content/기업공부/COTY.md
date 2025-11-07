@@ -62,7 +62,9 @@ Coty Inc.는 글로벌 뷰티 제조업체로, 향수(59%), 컬러 코스메틱(
 4. 브랜드 관리: Coty(US, [COTY](/company-analysis/coty/)) (브랜드 포트폴리오 관리)
     
 5. 마케팅 및 광고: 디지털 마케팅 에이전시, 인플루언서 네트워크
-    
+
+{{< adsense-infeed >}}
+
 6. 유통: Sephora(Sephora) (프레스티지 라인), Walmart(US, [WMT](/company-analysis/wmt/)) (매스 라인)
     
 7. 소매: Ulta Beauty(US, [ULTA](/company-analysis/ulta/)) (뷰티 전문 리테일), Amazon(US, [AMZN](/company-analysis/amzn/)) (온라인 유통)
@@ -89,7 +91,9 @@ Coty의 주요 고객은 개인 소비자와 소매업체가 주를 이루지만
 3. 온라인 리테일러: e-커머스 플랫폼을 통한 모든 브랜드 판매
     
 4. 전문 뷰티 체인: Sephora, Ulta 등을 통한 프레스티지 및 매스 브랜드 유통
-    
+
+{{< adsense-infeed >}}
+
 5. 면세점: 프레스티지 향수 라인 유통
 ## 주요 판매국가
 

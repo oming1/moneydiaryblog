@@ -33,6 +33,8 @@ NVR은 미국의 주택 건설([부동산](/industry-study/2산업부동산/)) �
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 토지 확보: NVR (토지 매입 및 개발)
 2. 주택 설계: NVR (자체 설계팀)
 3. 자재 조달: 다양한 공급업체
@@ -46,6 +48,8 @@ NVR은 미국의 주택 건설([부동산](/industry-study/2산업부동산/)) �
 - 타운하우스
 - 모기지 금융 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 미국 (주로 동부 및 중서부 지역)
 
@@ -54,6 +58,8 @@ NVR은 미국의 주택 건설([부동산](/industry-study/2산업부동산/)) �
 - Lennar Corporation(US, [LEN](/company-analysis/len/)) (주택 건설)
 - PulteGroup(US, [PHM](/company-analysis/phm/)) (주택 건설)
 - KB Home(US, [KBH](/company-analysis/kbh/)) (주택 건설)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, NVR은 미국 주요 주택 건설업체 중 하나로 평가받고 있습니다.

@@ -27,6 +27,8 @@ General Motors Company는 1908년에 설립된 미국의 다국적 자동차 제
 - 전기차 및 자율주행차 개발
 - 자동차 금융 서비스 제공
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -40,6 +42,8 @@ General Motors Company는 1908년에 설립된 미국의 다국적 자동차 제
 - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/))
 - 금속 공급: Alcoa (US, [AA](/company-analysis/aa/))
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Chevrolet Silverado (픽업 트럭)
 - Cadillac Escalade (고급 SUV)
@@ -61,6 +65,8 @@ GM은 북미, 남미, 유럽, 아시아 및 아프리카에서 운영되고 있�
 - Toyota Motor Corporation (JP, 7203) - 글로벌 자동차 제조업체
 - Volkswagen Group (DE, VOW) - 유럽의 주요 자동차 제조업체
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 General Motors는 2022년 기준으로 세계에서 여섯 번째로 큰 자동차 제조업체로 평가받고 있으며, 미국 내에서 약 17%의 시장 점유율을 보유하고 있습니다.
 

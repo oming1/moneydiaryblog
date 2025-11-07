@@ -42,11 +42,15 @@ CenterPoint Energy는 전기 송배전 및 [천연가스](/industry-study/천연
 3. 소비자 서비스: CenterPoint Energy 고객 서비스 부서
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 전기 송배전 서비스
 - [천연가스](/industry-study/천연가스/) 유통 서비스
 - 주거용 가전제품 수리 및 유지보수
 - HVAC 장비 판매
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국 (인디애나, 오하이오, 루이지애나, 미네소타, 미시시피, 텍사스 주 등)
 
@@ -55,6 +59,8 @@ CenterPoint Energy는 전기 송배전 및 [천연가스](/industry-study/천연
 - Southern Company(US, [SO](/company-analysis/so/)) (전기 및 가스 유틸리티)
 - Exelon Corporation(US, [EXC](/company-analysis/exc/)) (전기 및 가스 유틸리티)
 - Sempra Energy(US, [SRE](/company-analysis/sre/)) (전기 및 가스 유틸리티)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

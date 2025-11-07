@@ -27,6 +27,8 @@ weight: 591
 - **Autoimmune Diseases**: 자가면역 질환 치료제
 - **Cardiovascular Diseases**: 심혈관 질환 치료제
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **후방산업 (Upstream Industry)**:
@@ -45,6 +47,8 @@ weight: 591
 - **유통 및 판매 (Distribution & Sales)**:
     - **설명**: 치료제 및 백신의 유통 및 판매
     - **대표회사**: Moderna (미국, [MRNA](/company-analysis/mrna/)), Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품
 

@@ -33,6 +33,8 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 단백질 이상 관련 질환에 대한 전문성
 2. 다양한 임상 단계의 파이프라인 보유
 3. 주요 제약회사들과의 전략적 파트너십
@@ -55,6 +57,8 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 3. ESG 투자 전략 강화 및 관련 펀드 출시 (2023년)
 
 ## 주요 경쟁사
+
+{{< adsense-infeed >}}
 
 1. Biogen(US, [BIIB](/company-analysis/biib/))
 2. Roche(CH, [ROG](/company-analysis/rog/))

@@ -24,6 +24,8 @@ Carrier Global Corporation은 난방, 환기 및 공기 조절(HVAC), 냉장, �
 
 
 
+{{< adsense-infeed >}}
+
 - **HVAC**: 주거 및 상업 고객의 난방, 냉방 및 환기 요구를 충족하는 제품, 제어 장치, 서비스 및 솔루션.
 	-[다양한 형태의 HVAC 솔루션으로 구성된 사업 모델](content/산업-테마공부/02.산업/전력산업/Report/2024/7.1_전력에%20묻는%20네%20개의%20질문들.pdf#page=31&selection=6,0,18,2&color=yellow))
 - **냉장**: 운송 냉장 및 모니터링 제품 및 서비스, 상업용 냉장 솔루션.
@@ -33,12 +35,16 @@ Carrier Global Corporation은 난방, 환기 및 공기 조절(HVAC), 냉장, �
 
 
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 건축, 상업 및 주거용 건물, 식품 유통 및 보관.
     - **핵심 기업**: Lennox International (US, LII), Trane Technologies (US, TT), Daikin Industries (JP, 6367.T)
 - **후방산업**: 전자 부품 제조업체, 금속 및 플라스틱 가공업체.
     - **핵심 기업**: Texas Instruments (US, [TXN](/company-analysis/txn/)), Dow Inc. (US, [DOW](/company-analysis/dow/)), Nucor (US, [NUE](/company-analysis/nue/))
 
 
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -54,7 +60,11 @@ Carrier Global Corporation은 난방, 환기 및 공기 조절(HVAC), 냉장, �
     - **대표 회사**: Lennox International (US, LII), Trane Technologies (US, TT)
 
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **HVAC 시스템**: 에어컨, 난방 시스템, 히트 펌프, 제어 장치.
 - **냉장 솔루션**: 운송 냉장, 상업용 냉장 캐비닛, 냉동고.

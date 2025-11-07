@@ -25,6 +25,8 @@ Industry: 식품 제품(Food Products)
 
 Kraft Heinz Company는 식품 및 음료 제조 기업으로, 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 조미료 및 소스 생산
 2. 유제품 및 치즈 제조
 3. 냉장 및 냉동식품 생산
@@ -41,9 +43,13 @@ Kraft Heinz Company는 식품 및 음료 제조 기업으로, 주요 사업 영�
 7. Kool-Aid 음료
 8. Plasmon 유아식 (이탈리아)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Kraft Heinz는 전 세계 40개국 이상에서 사업을 영위하고 있으며, 특히 북미, 유럽, 아시아 지역이 주요 시장입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -54,7 +60,11 @@ Kraft Heinz는 전 세계 40개국 이상에서 사업을 영위하고 있으며
 5. Mondelez International (US)
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Kraft Heinz는 2023년 기준 전 세계 식품 및 음료 기업 중 5위를 차지하고 있습니다. 2023년 연간 매출액은 약 270억 달러를 기록했습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 1. 2023년 조미료 및 소스 부문 글로벌 매출 89억 달러 달성 (2024년)

@@ -23,6 +23,8 @@ weight: 219
 ## 영위사업
 ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 석유와 천연가스의 탐사, 생산, 운송 및 마케팅에 종사합니다. 회사는 전 세계 14개국에서 사업을 운영하고 있으며, 특히 북미, 아시아, 유럽, 호주 지역에 집중되어 있습니다.주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 알래스카: 북극 지역 석유 및 가스 생산
 2. 하부 48개주: 미국 본토의 셰일 오일 및 가스 생산
 3. 캐나다: 오일샌드 및 [천연가스](/industry-study/천연가스/) 생산
@@ -70,6 +72,8 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - 정유사: ExxonMobil(US, [XOM](/company-analysis/xom/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
 - 석유화학 기업: Dow Inc.(US, [DOW](/company-analysis/dow/)), BASF(DE, BAS)
 - 전력 회사: NextEra Energy(US, [NEE](/company-analysis/nee/)), Dominion Energy(US, [D](/company-analysis/d/))
@@ -98,6 +102,8 @@ ConocoPhillips는 2024년 기준 글로벌 석유 및 가스 생산량 기준으
 - 디지털 기술 도입 가속화: AI 및 빅데이터 활용한 생산 효율성 향상 (2022-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.91%)
 - BlackRock (8.20%)

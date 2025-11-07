@@ -30,13 +30,19 @@ SunPower Corporation은 주거용 및 상업용 태양광 에너지 시스템을
     - **반도체 제조**: 태양광 인버터용 반도체 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)))
     - **배터리 제조**: 에너지 저장 배터리 공급 (예: Panasonic (JP, 6752))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 - **원료 공급**: 반도체 및 배터리 원료 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)),  Panasonic (JP, 6752)
 - **제품 제조**: 태양광 패널 및 배터리 시스템 제조 (SunPower Corporation)
 - **시스템 통합**: 태양광 시스템 통합 및 설치 (Sunrun (US, [RUN](/company-analysis/run/)), Tesla (US, [TSLA](/company-analysis/tsla/)))
 - **서비스 제공**: 에너지 관리 소프트웨어 및 유지보수 서비스 제공 (SunPower Corporation)
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **태양광 패널**: 주거용 및 상업용 태양광 패널
 - **에너지 저장 솔루션**: 가정용 및 상업용 에너지 저장 솔루션

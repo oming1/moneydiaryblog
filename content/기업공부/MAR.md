@@ -23,6 +23,8 @@ weight: 545
 메리어트 인터내셔널은 전 세계적으로 호텔, 레지던스, 타임쉐어 및 기타 숙박 시설을 운영, 프랜차이즈 및 라이선스하는 글로벌 호텔 체인입니다. 주요 브랜드로는 JW 메리어트, 리츠칼튼, 메리어트 호텔, 쉐라톤, 웨스틴 등이 있습니다.
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 여행 및 관광, 부동산 개발
     
     - **여행 및 관광:** 여행 서비스 제공. 주요 기업: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/)).
@@ -51,6 +53,8 @@ weight: 545
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 - **중국:** 호텔 및 리조트 운영
 - **유럽:** 다양한 브랜드의 호텔 운영
@@ -58,6 +62,8 @@ weight: 545
 #### 경쟁업체
 - **호텔 체인:** Hilton Worldwide (미국, [HLT](/company-analysis/hlt/)), Hyatt Hotels (미국, H).
 - **온라인 여행사:** Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/)).
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율
 

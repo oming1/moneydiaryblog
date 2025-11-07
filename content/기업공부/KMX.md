@@ -20,7 +20,11 @@ Industry: 자동차 소매(Auto & Truck Dealerships)
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 이 회사는 중고차 소매업체다. 이 회사의 사업 부문에는 CarMax 판매 운영 및 CarMax [자동차](/industry-study/자동차/) 금융(CAF)이 포함된다.  
+
+{{< adsense-infeed >}}
 
 CarMax 판매 운영 부문은 자동차 머천다이징 및 서비스 운영의 모든 측면으로 구성된다.  
 CAF 부문은 CarMax에서 소매 차량을 구매하는 고객에게 금융을 제공하는 자체 금융 운영으로 구성된다.  
@@ -46,7 +50,11 @@ CarMax는 온라인과 오프라인을 통합한 옴니채널 플랫폼을 운�
 ## 주요 판매국가
 CarMax는 주로 미국 시장에서 사업을 영위하고 있으며, 전국에 걸쳐 매장을 운영하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. AutoNation (US, [AN](/company-analysis/an/))
 2. Lithia Motors (US, [LAD](/company-analysis/lad/))
@@ -55,6 +63,8 @@ CarMax는 주로 미국 시장에서 사업을 영위하고 있으며, 전국에
 5. Vroom (US, [VRM](/company-analysis/vrm/))
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 CarMax는 미국 중고차 소매 시장에서 선도적인 위치를 차지하고 있습니다.
 ## 최근 3년 내 주요 이슈

@@ -32,6 +32,8 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 항공 서비스 이용
 - 여행사: Expedia Group (US, [EXPE](/company-analysis/expe/))
 - 기업 출장 관리: American Express Global Business Travel (US, AMEX)
@@ -68,6 +70,10 @@ American Airlines Group은 전 세계 50개국 350개 목적지에 서비스를 
 ## 산업 내 글로벌 시장 점유율
 American Airlines Group은 승객 수, 항공기 규모, 예약된 승객-킬로미터 기준으로 세계 최대 항공사입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
+{{< adsense-infeed >}}
+
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [FINVIZ - AAL](https://finviz.com/quote.ashx?t=AAL)

@@ -25,10 +25,14 @@ AEP는 전기 공익사업 지주회사로, 전기의 생산, 송배전 사업�
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 에너지 생산 장비: 발전소 설비 제조업체
 - 원자재 공급: 석탄, 천연가스 생산업체
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 주거용, 상업용, 산업용 전기 소비자
 - 도매 전력 구매자 (지방자치단체, 전력 협동조합 등)
@@ -44,16 +48,22 @@ AEP는 전기 공익사업 지주회사로, 전기의 생산, 송배전 사업�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Duke Energy(US, [DUK](/company-analysis/duk/))
 - NextEra Energy(US, [NEE](/company-analysis/nee/))
 - Southern Company(US, [SO](/company-analysis/so/))
 - Berkshire Hathaway Energy Co
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
 AEP는 미국 최대 전력 회사 중 하나로, 약 560만 고객에게 서비스를 제공하고 있습니다. 미국 동부 상호연계 시스템의 전력 수요의 약 10%, 텍사스 전력신뢰성위원회(ERCOT) 시스템의 전력 수요의 약 11%를 담당하고 있습니다
 
 ## 최근 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 2024년 10월: Dominion Energy Virginia 및 FirstEnergy Corp와 함께 PJM 지역 내 새로운 전력 송전 프로젝트 제안을 위한 계획 협약 체결
 - 2024년 9월: 분산 자원 사업부인 OnSite Partners를 Basalt Infrastructure Partners LLC에 매각

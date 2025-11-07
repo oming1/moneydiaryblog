@@ -68,6 +68,8 @@ Axogen은 말초신경 손상 환자의 신경 기능 회복을 돕는 수복용
 - 고객 유형별 수익
     - 병원·외래수술센터(ASC), 외과의 그룹(수부·성형·재건·구강악안면).
 
+{{< adsense-infeed >}}
+
 - 지역별 매출 분포
     - 미국 비중이 절대적(해외는 초기–중기 확장 단계).
 
@@ -128,6 +130,8 @@ Axogen은 말초신경 손상 환자의 신경 기능 회복을 돕는 수복용
 ---
 
 ### 주요 제품
+
+{{< adsense-infeed >}}
 
 - Avance Nerve Graft: 신경 결손 이식, 경쟁사 대체 옵션은 자가이식 및 콜라겐/합성 신경관(Integra 등).
 - Axoguard Nerve Connector/Protector: 봉합 보조·유착 방지, 경쟁사 IART(NeuraGen/NeuraWrap), [SYK](/company-analysis/syk/) 일부 신경관/연부조직 제품.

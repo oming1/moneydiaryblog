@@ -48,6 +48,8 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
     - **설명**: 담배 제품의 제조 및 가공.
     - **대표회사**: Philip Morris International (미국, [PM](/company-analysis/pm/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
 
+{{< adsense-infeed >}}
+
 1. **유통 (Distribution)**:
     
     - **설명**: 담배 제품의 유통 및 판매.
@@ -60,6 +62,8 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **담배용 종이**: 담배 제조에 사용되는 특수 종이.
 - **필터**: 담배 필터.
 - **포장재**: 담배 제품의 포장재.
@@ -69,6 +73,8 @@ Schweitzer-Mauduit International은 주로 담배 제조에 필요한 종이, �
 - **주요 판매국가**: 미국, 유럽, 아시아 (2023년 기준)
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. **International Paper (미국, [IP](/company-analysis/ip/))**
     

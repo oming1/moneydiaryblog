@@ -24,6 +24,8 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 - 역할: 금속 사용
 - 자동차 제조: Volvo Group (SE, VOLV-B)
@@ -39,6 +41,8 @@ Boliden AB는 구리, 아연, 납, 금, 은 등의 금속을 채굴, 제련, 재
 - [납](/industry-study/납/) (매출 비중 정보 없음)
 - [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) (매출 비중 정보 없음)
 - [은](/industry-study/은/) (매출 비중 정보 없음)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

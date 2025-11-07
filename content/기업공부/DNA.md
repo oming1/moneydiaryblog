@@ -32,6 +32,8 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - **제약 및 바이오테크 기업**: Merck (US, [MRK](/company-analysis/mrk/)), Bayer (독일, BAYN.DE)
 - **식품 및 소비재 산업**: Ajinomoto (일본), Cargill (미국)
 ## 후방산업
@@ -43,13 +45,17 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 1. **연구개발**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
     
     - 자동화된 실험실과 AI 기술로 유기체 설계 및 최적화.
-    
+
+{{< adsense-infeed >}}
+
 2. **생산 및 상용화**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
     
     - 발효 및 대량 생산 지원.
 3. **응용 및 협력**: 제약회사 및 산업 파트너와 협력하여 제품 개발.
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. **세포 프로그래밍 플랫폼**
 2. **효소 발견 및 최적화 서비스**
@@ -68,6 +74,8 @@ Ginkgo Bioworks는 주로 미국 시장에서 사업을 영위하며 글로벌 �
 5. Amyris (US)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았지만 Ginkgo Bioworks는 세포 프로그래밍 분야에서 선도적인 기업으로 평가받고 있습니다.
 

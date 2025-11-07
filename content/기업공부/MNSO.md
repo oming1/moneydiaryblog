@@ -28,6 +28,8 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
     
 3. **글로벌 네트워크**: 4,200개 이상의 매장 운영 (중국 내 약 2,500개, 해외 약 1,680개)
 
+{{< adsense-infeed >}}
+
 2024년 기준 총 매출은 약 22억 달러이며, 주요 수익원은 MINISO 브랜드에서 발생합니다. 최근에는 글로벌 시장 확장과 IP 기반 제품 포트폴리오 강화에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -62,7 +64,9 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 ## 밸류체인
 
 1. **제품 설계 및 개발**: MINISO와 TOP TOY 브랜드를 중심으로 IP 기반 제품 디자인
-    
+
+{{< adsense-infeed >}}
+
 2. **제조 및 조달**: OEM/ODM 방식으로 비용 효율적인 생산
     
 3. **물류 및 유통**: 글로벌 물류 네트워크를 통해 매장 및 온라인 플랫폼 공급
@@ -90,6 +94,8 @@ MINISO Group Holding Ltd(NYSE: MNSO)는 [중국](/industry-study/4국가중국/)
 3. 팝 컬처 팬 및 컬렉터 (TOP TOY 고객)
     
 4. 글로벌 시장 내 중산층 소비자
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -127,7 +133,9 @@ MINISO는 라이프스타일 소매 시장에서 중국 내 선두 기업 중 �
 
 ## 관련 ETF
 - iShares MSCI China ETF - MCHI
-    
+
+{{< adsense-infeed >}}
+
 - KraneShares CSI China Internet ETF - KWEB
     
 - Global X MSCI SuperDividend Emerging Markets ETF - SDEM``

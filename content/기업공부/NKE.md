@@ -22,6 +22,8 @@ weight: 619
 NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 서비스를 설계, 개발, 마케팅 및 판매하는 회사입니다. 주요 브랜드로는 NIKE, Jumpman, Converse, Chuck Taylor, All Star, One Star, Star Chevron, Jack Purcell 등이 있습니다. 또한, 가방, 스포츠 볼, 양말, 안경, 시계, 디지털 장치, 배트, 장갑, 보호 장비 등 다양한 스포츠 활동을 위한 장비와 액세서리를 판매합니다
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 소매업체: Foot Locker (US, [FL](/company-analysis/fl/)), Dick’s Sporting Goods (US, [DKS](/company-analysis/dks/))
@@ -38,11 +40,15 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 - **스포츠 장비:** 골프 장비, 가방, 볼 등 (매출 비중: 2023년 기준 3.4%)
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - 미국 (주요 매출 국가)
 - 중국
 - 일본
 - 유럽
 - 브라질
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 - **Adidas (DE, [ADS](/company-analysis/ads/)):** 스포츠웨어 (시장 점유율 20%)
@@ -50,7 +56,11 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 - **Under Armour (US, UA):** 스포츠웨어 (시장 점유율 8%)
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 NIKE, Inc.의 글로벌 시장 점유율은 약 43.7% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
+
+{{< adsense-infeed >}}
 
 ### 최근 3년 내 주요 이슈
 - **비밀번호 공유 제한:** 비밀번호 공유 제한 정책 도입 (2023년)

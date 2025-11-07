@@ -28,6 +28,8 @@ weight: 392
     - **관련 기업**: Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))
 **밸류체인**:
 
+{{< adsense-infeed >}}
+
 - **연구 및 개발**: 신약 및 백신 개발을 위한 연구
     - **대표 회사**: GSK (영국, [GSK](/company-analysis/gsk/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 - **임상 시험**: 신약의 안전성과 효능을 검증하기 위한 임상 시험
@@ -41,7 +43,11 @@ weight: 392
 - **Trelegy Ellipta**: 만성 폐쇄성 폐질환(COPD) 치료제 (2023년 매출 비중: 약 15%)
 - **HIV 치료제**: 다양한 HIV 치료제 (2023년 매출 비중: 약 25%)
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**:
+
+{{< adsense-infeed >}}
 
 - 미국, 영국, 독일, 중국
 **경쟁업체**:
@@ -51,8 +57,12 @@ weight: 392
 - **Sanofi (프랑스, [SAN](/company-analysis/san/))**: 백신 및 제약 제품
 **산업 내 글로벌 시장 점유율**:
 
+{{< adsense-infeed >}}
+
 - GSK는 글로벌 제약 시장에서 주요 플레이어 중 하나로, 2023년 기준 약 5%의 시장 점유율을 차지했습니다.
 **최근 3년 내 주요 이슈**:
+
+{{< adsense-infeed >}}
 
 - **COVID-19 백신 개발 및 협력** (2021년)
 - **Haleon 분사 및 독립 운영** (2022년)

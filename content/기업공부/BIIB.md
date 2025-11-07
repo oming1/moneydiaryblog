@@ -30,6 +30,8 @@ Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개�
     - **화학산업:** 신약 개발을 위한 원료 제공. 주요 기업: 다우케미컬 (미국, [DOW](/company-analysis/dow/)), 듀폰 (미국, [DD](/company-analysis/dd/)).
     - **바이오테크 연구기관:** 기초 연구 및 임상 시험 지원. 주요 기관: NIH (미국), FDA (미국).
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
 - **연구 및 개발:**
     - **대표회사:** 암젠 (미국, [AMGN](/company-analysis/amgn/)), 길리어드 사이언스 (미국, [GILD](/company-analysis/gild/)).
@@ -54,6 +56,8 @@ Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개�
 - **유럽:** 2023년 매출 비중 25%
 - **아시아:** 2023년 매출 비중 15%
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **암젠 (미국, [AMGN](/company-analysis/amgn/)):** 경쟁 제품: 다발성 경화증 치료제.
 - **길리어드 사이언스 (미국, [GILD](/company-analysis/gild/)):** 경쟁 제품: 면역 치료제.

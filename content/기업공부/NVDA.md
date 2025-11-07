@@ -51,7 +51,9 @@ weight: 639
 		• 잉여현금흐름: Mid-$20Bs (이전 $26.1B)
 		• 상반기 주주환원: $24.3B
 		• 자사주 매입 한도 $60B 확대
-		
+
+{{< adsense-infeed >}}
+
 		🗣️ CEO 코멘트
 		• “Blackwell은 세계가 기다려온 AI 플랫폼으로, 추론 AI 수요 급증이 학습과 추론 성능을 대폭 끌어올리고 있습니다.” – Jensen Huang, CEO
 				
@@ -126,6 +128,8 @@ NVIDIA Corporation은 1993년 설립된 미국의 기술 기업으로, 그래픽
 
 NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니다. NVIDIA는 GPU 시장에서 선도적 위치를 차지하고 있으며, 지속적인 R&D 투자를 통해 기술 우위를 유지하고 있습니다.특히 CUDA 플랫폼은 NVIDIA의 독보적인 경쟁력입니다. CUDA를 통해 개발자들은 GPU의 병렬 처리 능력을 AI, 과학 계산 등 다양한 분야에 활용할 수 있게 되었습니다. 이는 NVIDIA GPU가 단순한 그래픽 처리를 넘어 AI와 고성능 컴퓨팅 시장으로 영역을 확장하는 데 큰 역할을 했습니다.또한 NVIDIA는 데이터 센터, 자율주행, 로보틱스 등 다양한 분야에서 파트너십을 구축하며 AI 생태계를 확장하고 있습니다. 이러한 전략은 NVIDIA의 기술이 다양한 산업에 깊이 침투하게 만들어, 장기적인 성장 동력을 확보하는 데 기여하고 있습니다.NVIDIA의 또 다른 강점은 소프트웨어 역량입니다. 하드웨어뿐만 아니라 CUDA, cuDNN 등의 소프트웨어 도구를 제공함으로써, 개발자들이 NVIDIA 플랫폼에서 효율적으로 작업할 수 있는 환경을 조성하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -184,7 +188,11 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - Graphcore(UK, Graphcore) - IPU (Intelligence Processing Unit)
 - Cerebras Systems(US, Cerebras Systems) - 웨이퍼 스케일 AI 칩
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 NVIDIA는 독립형 GPU 시장에서 2024년 2분기 기준 약 80%의 점유율을 보유하고 있습니다. 최근 3년간 AI 붐으로 인해 시장 점유율이 꾸준히 상승하는 추세입니다.
 

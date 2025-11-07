@@ -30,7 +30,11 @@ Kinder Morgan Inc.(KMI)는 북미 최대의 에너지 인프라 기업 중 하�
 3. 터미널: 액체 및 벌크 터미널 운영
 4. CO2: CO2 생산, 수송 및 EOR(Enhanced Oil Recovery) 사업
 
+{{< adsense-infeed >}}
+
 KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 보유하고 있으며, 미국 천연가스 소비량의 약 40%를 수송합니다. 회사는 장기 계약을 통해 안정적인 현금흐름을 창출하며, 지속가능한 에너지 솔루션 개발에도 주력하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 1. 광범위한 인프라 네트워크: 북미 최대 규모의 파이프라인 및 터미널 자산 보유
@@ -51,6 +55,8 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -76,6 +82,8 @@ KMI는 83,000마일 이상의 파이프라인과 140개 이상의 터미널을 �
 5. 산업용 에너지 소비자
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, 특히 미국이 주요 시장입니다.
 
 ## 경쟁업체
@@ -96,6 +104,8 @@ Kinder Morgan은 주로 북미 시장에서 사업을 영위하고 있으며, �
 5. 지속가능성 보고서 발표: 메탄 배출량 8% 감소 등 ESG 성과 강조 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. Richard Kinder: 11.57%
 2. Vanguard Fiduciary Trust Co.: 9.064%

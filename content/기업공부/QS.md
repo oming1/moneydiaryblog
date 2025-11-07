@@ -19,6 +19,8 @@ weight: 725
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 산업: 자동차 부품(Auto Parts)
 
 ## 영위사업
@@ -78,10 +80,14 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
     - QuantumScape(US, [QS](/company-analysis/qs/)), 향후 파트너사와 합작 법인
     
 4. 배터리 팩 조립: 셀을 조립하여 배터리 팩 제작
-    
+
+{{< adsense-infeed >}}
+
     - 자동차 제조사 또는 전문 배터리 팩 제조업체
 5. 전기차 제조: 배터리 팩을 탑재한 전기차 생산
-    
+
+{{< adsense-infeed >}}
+
     - Volkswagen(DE, VOW3), 기타 자동차 제조사
     
 6. 재활용: 사용 후 배터리의 재활용 및 재사용
@@ -95,6 +101,8 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 
 현재 제품 상용화 전 단계로, 구체적인 매출 비중은 제공되지 않습니다.
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 1. Volkswagen Group(DE, VOW3)
@@ -105,6 +113,8 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 현재 제품 상용화 전 단계로, 구체적인 판매 국가 정보는 제공되지 않습니다. 향후 주요 전기차 시장인 미국, 유럽, 중국 등을 대상으로 할 것으로 예상됩니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Solid Power(US, SLDP): 고체 전해질 배터리 개발
 2. Toyota Motor Corporation(JP): 자체 고체 전해질 배터리 개발

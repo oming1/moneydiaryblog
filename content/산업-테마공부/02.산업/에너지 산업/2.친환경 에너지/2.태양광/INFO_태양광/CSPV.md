@@ -21,13 +21,19 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
 ## 유사한 제품 및 주요 기업
 
 1. 단결정 실리콘 태양전지
-    
+
+{{< adsense-infeed >}}
+
     - 미국: Suniva SNNVF
     - 중국: LONGi Green Energy Technology 601012.SS
     - 한국: [한화솔루션](/industry-study/한화솔루션/) 
-    
+
+{{< adsense-infeed >}}
+
 2. 다결정 실리콘 태양전지
-    
+
+{{< adsense-infeed >}}
+
     - 미국: First Solar [FSLR](/company-analysis/fslr/)
     - 중국: JinkoSolar
     - 한국: OCI
@@ -49,7 +55,9 @@ CSPV는 고순도 실리콘 웨이퍼를 기반으로 하며, 빛을 흡수하�
     - 반사방지막 증착
     - 전극 형성
 5. 모듈 조립:
-    
+
+{{< adsense-infeed >}}
+
     - 셀 연결 및 배열
     - 봉지재 및 백시트 적용
     - 프레임 조립 및 정션박스 부착

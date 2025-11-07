@@ -33,11 +33,15 @@ Vertical Aerospace는 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산�
 
 - 항공사 및 운송 서비스 기업: 도심 및 지역 간 이동을 위한 eVTOL 항공기 도입 (예: American Airlines(US, [AAL](/company-analysis/aal/)), Virgin Atlantic)
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 1. 연구 개발: Vertical Aerospace (자체 R&D)
 2. 제조: Vertical Aerospace (eVTOL 항공기 제조)
 3. 판매 및 유통: Vertical Aerospace, 파트너십을 통한 글로벌 판매 네트워크 구축
 4. 최종 사용자: 항공사, 운송 서비스 제공업체
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -47,6 +51,8 @@ Vertical Aerospace는 전기 수직 이착륙(eVTOL, [UAM](/industry-study/2산�
 현재 개발 단계에 있으며, 영국을 중심으로 미국, 유럽 등에서 사업을 추진하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Joby Aviation(US, [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/)): eVTOL 항공기
 - Lilium(US, [LILM](/company-analysis/lilm/)): eVTOL 항공기

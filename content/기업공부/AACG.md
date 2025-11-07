@@ -45,6 +45,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 - 해외 예술대학 진학 희망 중고등학생: 85%
 - 대학생 및 성인 학습자: 15%
 
+{{< adsense-infeed >}}
+
 **지역별 매출 분포:**
 
 - 중국 본토: 95% 이상
@@ -67,6 +69,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 **해외 대학 네트워크**: 영국, 미국, 유럽 등 주요 해외 예술 대학들과 긴밀한 관계를 유지하며, BTEC International Level 3 자격 인증을 받아 교육의 질을 보장합니다.
 
 **중국 주요 도시 진출**: 베이징, 상하이, 우한, 청두 등 중국 주요 도시에 교육센터를 운영하며 지역별 맞춤 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -140,6 +144,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 
 **개인 고객 중심의 B2C 비즈니스 모델**
 
+{{< adsense-infeed >}}
+
 - 중국 내 해외 예술대학 진학 희망 중고등학생 및 학부모
 - 포트폴리오 제작 및 유학 준비 서비스 수요자
 - 주로 중산층 이상의 경제적 여유가 있는 가정
@@ -171,6 +177,8 @@ ATA Creativity Global은 1999년 [중국](/industry-study/4국가중국/) 헤페
 - Bright Scholar Education(US, BEDU) - 국제 교육 서비스, 프리미엄 교육 시장
 
 **간접 경쟁사:**
+
+{{< adsense-infeed >}}
 
 - Sunlands Technology Group(US, STG) - 온라인 성인 교육
 - Classover(US, KIDZ) - 청소년 교육 서비스

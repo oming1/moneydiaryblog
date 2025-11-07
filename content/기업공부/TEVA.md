@@ -21,6 +21,8 @@ weight: 862
 
 산업: 제약(Pharmaceuticals)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 Teva Pharmaceutical Industries Ltd.는 제네릭 및 특수 의약품을 발견, 개발, 제조 및 상용화하는 글로벌 제약 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
@@ -44,7 +46,11 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 3. OTC 제품: 일반의약품 (매출 비중: 약 5%, 2023년 기준)
 4. API: 원료의약품 (매출 비중: 약 5%, 2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 1. 소매 약국 체인
 2. 병원 및 의료기관
@@ -73,6 +79,8 @@ Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 
 4. 지속가능성 및 ESG 이니셔티브 강화 (2022-2024)
 5. 코로나19 팬데믹 대응 및 회복 (2022-2023)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 1. BlackRock Inc. (3.79%)
@@ -82,6 +90,8 @@ Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 
 5. Migdal Insurance & Financial Holdings Ltd. (2.57%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares MSCI Israel ETF - EIS
 2. VanEck Pharmaceutical ETF - PPH

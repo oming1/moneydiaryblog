@@ -27,6 +27,8 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 4. 분자 진단용 효소 개발
 5. RNA 제조 서비스: 핵산 치료제 개발을 위한 효소 기술 제공
 
+{{< adsense-infeed >}}
+
 회사의 핵심 기술은 CodeEvolver®라는 독점 단백질 엔지니어링 플랫폼으로, 기계 학습과 고처리량 실험을 통해 단백질 기능을 최적화합니다.
 ## 전방/후방산업
 
@@ -34,6 +36,8 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 - 제약 산업: Merck & Co. (US, [MRK](/company-analysis/mrk/))
 - 식품 산업: Tate & Lyle (UK, TATE.L)
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 생명공학 연구 장비 제조업체: Illumina (US, [ILMN](/company-analysis/ilmn/))
 - 유전자 합성 서비스 제공업체: Twist Bioscience (US, [TWST](/company-analysis/twst/))
@@ -50,6 +54,8 @@ Codexis, Inc.는 효소 엔지니어링 기업으로, 제약, 식품, 의료 분
 4. 생물치료제용 효소 (예: 페닐알라닌 암모니아 분해효소)
 5. ECO Synthesis™ RNA 제조 플랫폼
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 Codexis는 글로벌 시장에서 사업을 영위하고 있으며, 2022년 기준 지역별 매출 비중은 다음과 같습니다:
 
@@ -65,6 +71,8 @@ Codexis는 글로벌 시장에서 사업을 영위하고 있으며, 2022년 기�
 5. BASF (독일, BAS.DE)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 ## 최근 3년 내 주요 이슈

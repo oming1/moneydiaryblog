@@ -23,6 +23,8 @@ weight: 924
 Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, 마케팅 및 인수합니다. 이 회사는 주택 소유자, 임차인, 콘도 소유자 등을 위한 보험을 제공합니다. 또한, 보험 관련 서비스와 클레임 관리, 재보험 협상 등을 수행합니다.
 **전방/후방산업**
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 부동산, 건설업, 금융 서비스
     - **핵심 산업:** 부동산 (Zillow (US, [Z](/company-analysis/z/))), 건설업 (Lennar (US, [LEN](/company-analysis/len/))), 금융 서비스 (JPMorgan Chase (US, [JPM](/company-analysis/jpm/)))
     - **역할:** 보험 수요 창출, 보험 가입자 제공
@@ -30,6 +32,8 @@ Universal Insurance Holdings Inc는 주로 개인 주거용 보험을 개발, �
     - **핵심 산업:** 재보험 (Munich Re (DE, MUV2)), IT 서비스 (IBM (US, [IBM](/company-analysis/ibm/))), 클레임 관리 (Sedgwick (US, 비상장))
     - **역할:** 리스크 관리, 기술 지원, 클레임 처리
 **밸류체인**
+
+{{< adsense-infeed >}}
 
 - **입력:** 보험 상품 개발, 리스크 평가
     - **대표회사:** Munich Re (DE, MUV2) - 재보험, IBM (US, [IBM](/company-analysis/ibm/)) - IT 서비스

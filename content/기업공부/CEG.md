@@ -29,12 +29,16 @@ Constellation Energy Corporation(NASDAQ: CEG)은 미국 최대의 탄소중립 �
 
 .회사의 발전 설비는 원자력, 수력, 풍력, 태양광 발전소로 구성되어 있으며, 약 1,600만 가구에 전력을 공급할 수 있는 발전 용량을 보유하고 있습니다. 
 
+{{< adsense-infeed >}}
+
 이는 미국 전체 탄소중립 에너지의 약 10%를 차지합니다.Constellation은 전기, 천연가스 및 기타 에너지 관련 제품과 지속 가능한 솔루션을 다양한 고객에게 판매합니다. 
 
 주요 고객으로는 유틸리티 기업, 지방자치단체, 협동조합, 상업/산업 부문, 공공 부문 및 일반 가정이 있습니다.최근 1년 내 주요 이슈로는 24/7 탄소중립 에너지 매칭 제품 출시 계획, 기후 변화 대응을 위한 야심찬 목표 설정, 그리고 지속 가능성 원칙에 대한 깊은 헌신 등이 있습니다.
 
 ## 핵심 경쟁력
 Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 탄소중립 에너지 생산 리더십: 미국 최대의 탄소중립 에너지 생산업체로, 전체 발전량의 90% 가까이를 탄소중립 방식으로 생산합니다.
 2. 다양한 발전 포트폴리오: 원자력, 수력, 풍력, 태양광 등 다양한 발전 방식을 통해 안정적이고 지속 가능한 전력 공급이 가능합니다.
@@ -52,9 +56,13 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 발전 설비 제조: General Electric(US, [GE](/company-analysis/ge/)), Siemens Energy(DE, ENR)
 - 연료 공급: Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
 - 송배전 장비: ABB(CH, ABBN), Schneider Electric(FR, [SU](/company-analysis/su/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -78,6 +86,8 @@ Constellation Energy의 핵심 경쟁력은 다음과 같습니다:
 - 상업/산업 고객: Walmart(US, [WMT](/company-analysis/wmt/)), Amazon(US, [AMZN](/company-analysis/amzn/))
 - 일반 가정 고객
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국
 

@@ -35,7 +35,9 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **연구 및 개발 (R&D):**
     - **설명:** 새로운 물 처리 및 폐기물 관리 기술 개발
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Suez (프랑스, SEV)
-      
+
+{{< adsense-infeed >}}
+
 - **제조:**
     - **설명:** 물 처리 장비 및 폐기물 관리 시스템 생산
     - **대표회사:** Veolia Environnement (프랑스, [VEOEY](/company-analysis/veoey/)), Xylem Inc. (미국, XYL)
@@ -53,6 +55,8 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **에너지 관리 솔루션**
 - **재활용 제품 판매**
 
+{{< adsense-infeed >}}
+
 #### 주요 판매국가
 
 - **프랑스:** 주요 매출 국가
@@ -60,6 +64,8 @@ Veolia Environnement SA는 전 세계적으로 물, 폐기물, 에너지 관리 
 - **독일:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Waste Management (미국, [WM](/company-analysis/wm/))**
     - **경쟁 제품:** 폐기물 수집 및 처리 서비스

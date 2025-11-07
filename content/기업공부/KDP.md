@@ -37,6 +37,8 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 음료 제조 및 유통 
 5. 파트너십 전략: 다양한 브랜드와의 라이선싱 및 협력 관계
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Kroger(US, [KR](/company-analysis/kr/))
@@ -59,6 +61,8 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 음료 제조 및 유통 
 미국, 캐나다, 멕시코, 카리브해 지역, 유럽 일부 국가
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - The Coca-Cola Company(US, [KO](/company-analysis/ko/)): 글로벌 탄산음료 시장 선두
 - PepsiCo(US, [PEP](/company-analysis/pep/)): 음료 및 스낵 제조 기업

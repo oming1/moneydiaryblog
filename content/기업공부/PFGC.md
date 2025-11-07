@@ -34,6 +34,8 @@ weight: 687
 
 **주요제품**:
 
+{{< adsense-infeed >}}
+
 - **신선 식품**: 고기, 해산물, 과일, 채소
 - **가공 식품**: 냉동 식품, 통조림 식품, 유제품
 - **비식품 제품**: 주방 장비, 테이블웨어, 청소 용품
@@ -45,6 +47,8 @@ weight: 687
 - **Sysco Corporation (미국, [SYY](/company-analysis/syy/))**: 식품 유통 서비스 제공
 - **US Foods (미국, [USFD](/company-analysis/usfd/))**: 식품 유통 및 가공 서비스 제공
 **산업 내 글로벌 시장 점유율**:
+
+{{< adsense-infeed >}}
 
 - [PFGC는 미국에서 세 번째로 큰 식품 서비스 유통업체로, 시장 점유율은 약 9%입니다](https://alphasquare.co.kr/home/stock-summary?code=PFGC)[3](https://alphasquare.co.kr/home/stock-summary?code=PFGC).
 **최근 3년 내 주요 이슈**:

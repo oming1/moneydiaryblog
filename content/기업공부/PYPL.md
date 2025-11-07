@@ -22,6 +22,8 @@ weight: 719
 
 PayPal은 디지털 결제 플랫폼을 운영하며, 소비자와 상인 간의 온라인 및 오프라인 결제를 지원합니다. PayPal은 개인 및 기업 고객에게 안전하고 간편한 결제 솔루션을 제공하며, Venmo, Braintree, Xoom 등 여러 브랜드를 통해 다양한 금융 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 - **전방산업**:
     
@@ -35,6 +37,8 @@ PayPal은 디지털 결제 플랫폼을 운영하며, 소비자와 상인 간의
     - **관련 기업**: FIS (US, FIS), Mastercard (US, [MA](/company-analysis/ma/)),  Amazon Web Services (미국, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **원재료 공급**: 소프트웨어, 데이터 센터
     - **대표 회사**: Amazon Web Services (미국, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/)), Microsoft Azure (미국, [MSFT](/company-analysis/msft/))
 - **제조**: 결제 플랫폼 개발 및 유지보수
@@ -45,6 +49,8 @@ PayPal은 디지털 결제 플랫폼을 운영하며, 소비자와 상인 간의
     - **대표 회사**: eBay Inc. (미국, [EBAY](/company-analysis/ebay/)), Shopify Inc. (캐나다, [SHOP](/company-analysis/shop/))
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - **PayPal** (디지털 결제 플랫폼, 매출의 약 70%)
 - **Venmo** (P2P 결제 서비스, 매출의 약 15%)
@@ -62,6 +68,8 @@ PayPal은 전 세계 200개국 이상에서 운영되며, 주요 시장은 미�
 
 ## 산업 내 글로벌 시장 점유율
 PayPal은 글로벌 디지털 결제 시장에서 약 12%의 시장 점유율을 보유하고 있으며, 특히 P2P 결제 및 전자상거래 결제 분야에서 강력한 입지를 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 - **Venmo의 성장**: Venmo의 사용자 수와 거래량이 급증하며 PayPal의 매출 증대에 기여 (2021-2023)

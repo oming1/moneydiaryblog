@@ -46,7 +46,9 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
     - 세정용 화학약품·필터 등 소모품 판매(반복 매출)
 
 5. **고객 맞춤 개발**
-    
+
+{{< adsense-infeed >}}
+
     - 파운드리·IDM(Integrated Device Manufacturer)·첨단 팹(Fab) 요구에 최적화된 공정 설계
     - 현장 파라미터 튜닝, 레시피 수정, 공정 교육
 
@@ -113,6 +115,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 - 펌프·밸브·센서·초음파 트랜스듀서·세라믹 부품 검수  
 
+{{< adsense-infeed >}}
+
 2단계: **모듈 및 시스템 조립**
 - 스테인리스·세라믹 모듈 낸드→프레임·배관 결합→배선·제어부 통합  
 
@@ -133,6 +137,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - TSMC(TW, [TSM](/company-analysis/tsm/)), Samsung Electronics(KR, 005930.KS), UMC(TW, UMC) – 7nm~3nm 팹 공정
 - Intel(US, [INTC](/company-analysis/intc/)), GlobalFoundries(US, [GFS](/company-analysis/gfs/)) – 고급 로직·메모리 공정
 - 연구기관·국책연구소: IMEC(BE), CEA(FR), SEMATECH(US) – 공정개발·장비평가
+
+{{< adsense-infeed >}}
 
 **후방산업 (부품·재료 공급)**
 - ChemCut Solutions(US, 비상장) – 세정 화학약품
@@ -196,6 +202,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 - **Wet Cleaning 장비 시장:** ACMR 12% (5위권), Tokyo Electron 30%, SCREEN 18%, Applied 15%, Lam 일부
 - **Batch Cleaning 시장:** ACMR 8% (니치 플레이어), 경쟁사 분산
 - **3년간 추이:** 기술적 수율 요구 상승으로 시장 점유율 소폭 증가
@@ -234,6 +242,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 - **SOXX** – iShares PHLX Semiconductor Sector ETF SOXX
 - **XSD** – SPDR S&P Semiconductor ETF XSD
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 - **IGV** – iShares Expanded Tech-Software ETF IGV

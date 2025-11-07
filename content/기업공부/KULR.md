@@ -23,6 +23,8 @@ weight: 499
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 KULR Technology Group, Inc.는 고성능 열 관리 기술을 개발 및 상용화하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 전자기기, 배터리 및 기타 부품을 위한 열 관리 솔루션 개발
@@ -33,6 +35,8 @@ KULR Technology Group, Inc.는 고성능 열 관리 기술을 개발 및 상용�
 6. 내부 단락(ISC) 장치 개발
 7. CRUX 음극 생산
 
+{{< adsense-infeed >}}
+
 KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산업전기차/), 에너지 저장([ESS](/industry-study/ess/)), 5G 통신, 클라우드 컴퓨팅 등 다양한 산업 분야에 솔루션을 제공하고 있습니다.
 
 ## 핵심 경쟁력
@@ -42,6 +46,8 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 3. 다양한 산업 적용: 전기차, 항공우주, 5G, 클라우드 컴퓨팅 등 성장 산업에 솔루션 제공
 4. 전략적 파트너십: NASA 및 주요 자동차 제조업체와의 협력 관계 구축
 5. 지속적인 R&D: 새로운 열 관리 기술 및 소재 개발에 주력
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -83,6 +89,8 @@ KULR는 항공우주, 국방, [전기차](/industry-study/2산업자동차-산�
 ## 주요 판매국가
 
 KULR Technology Group은 주로 미국 시장에서 사업을 영위하고 있으며, 글로벌 확장을 추진 중입니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 1. Honeywell International(US, [HON](/company-analysis/hon/)) - 열 관리 시스템

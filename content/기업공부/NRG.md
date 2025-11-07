@@ -28,6 +28,8 @@ NRG Energy, Inc.(NYSE: NRG)는 미국의 주요 통합 전력 및 홈 서비스 
 ## 핵심 경쟁력
 발전 부문에서는 [천연가스](/industry-study/천연가스/), [석탄](/industry-study/석탄/), 원자력, 석유, 바이오매스, [풍력](/industry-study/풍력/), [태양광](/industry-study/태양광/) 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
@@ -37,9 +39,13 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 4. 혁신적인 에너지 솔루션: 스마트 홈, 에너지 관리, 마이크로그리드 등 첨단 기술을 활용한 서비스를 제공합니다.
 5. 지속가능성 리더십: 재생에너지 투자와 탄소 중립 목표 설정 등을 통해 미래 성장 동력을 확보하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 전력 소매: 가정, 상업, 산업 고객
 - 에너지 관리 서비스: 기업 고객
@@ -49,6 +55,8 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 - 발전 설비 제조: General Electric(US, [GE](/company-analysis/ge/)), Siemens Energy(DE, ENR)
 - 연료 공급: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 재생에너지 장비: First Solar(US, [FSLR](/company-analysis/fslr/)), Vestas Wind Systems(DK, VWS)
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -83,6 +91,8 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 - Vistra Corp(US, [VST](/company-analysis/vst/)) - 통합 전력 회사
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 NRG Energy는 2023년 기준 미국 전력 유틸리티 산업에서 약 5-6%의 시장 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 

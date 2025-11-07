@@ -5,7 +5,7 @@ lastmod: 2025-11-05T18:04:58+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
+weight: 2057
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-08T14:21:28Z" />
@@ -14,3 +14,4 @@ weight: 1
 # 2025년
 
 이 섹션의 내용입니다.
+

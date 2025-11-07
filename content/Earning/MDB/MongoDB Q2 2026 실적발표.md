@@ -40,6 +40,8 @@ weight: 2
 - FY26: 매출 23.4~23.6억달러(직전 대비 +7,000만달러 상향), Non-GAAP EPS 3.64~3.73달러, Non-GAAP 영업이익 3.21~3.31억달러.
 - CFO는 상반기 호실적과 Atlas 성장 자신감을 근거로 연간 매출·마진 가이던스 상향(마진 가이던스 +150bp)했다고 언급.
 
+{{< adsense-infeed >}}
+
 ---
 ## 4. CEO/CFO 코멘트 핵심
 
@@ -49,9 +51,13 @@ weight: 2
 ---
 ## 5. 기타(운영/조직/공공부문)
 
+{{< adsense-infeed >}}
+
 - 구조조정: 전체 인력의 2% 미만 대상, 일회성 비용 약 500만달러(Non-GAAP에서 제외).
 - 공공부문 확장: Atlas for Government에 대해 FedRAMP High·미 국방부 IL5 인증 취득 추진 발표(정부·국방 수요 타깃).
 - AI 에코시스템·제품: Voyage AI(컨텍스트 임베딩·리랭크 모델) 통합, LangChain·Temporal·Galileo 등과 파트너 생태계 확대, MCP(Model Context Protocol) Server 공개 프리뷰로 개발자·에이전트 워크플로우 연결성 강화.
+
+{{< adsense-infeed >}}
 
 ---
 ## 6. 시장 반응(주가/심리)과 이번 실적의 의미
@@ -67,6 +73,8 @@ weight: 2
 
 - 개발자·생태계: LangChain 연동, MCP Server(에이전트·IDE·툴과의 연결) 등으로 AI 앱 개발 효율·생산성 강화. Voyage AI 임베딩/리랭크 모델을 통한 검색 정확도·비용효율 개선으로 엔드투엔드 AI 워크로드 지원.
 
+{{< adsense-infeed >}}
+
 - 공공·보안: FedRAMP High·IL5 추진으로 보안·컴플라이언스 요구가 높은 공공부문 진입장벽을 낮출 포지션 확보.  
     결론적으로 MongoDB는 “운영 데이터베이스+검색+벡터”의 단일화된 데이터 계층을 강점으로, RAG/에이전틱(Agentic) 애플리케이션에서 데이터 일관성·성능·운영 단순화 측면에서 차별화 포인트를 강화 중.
 
@@ -78,6 +86,8 @@ weight: 2
 
 - Microsoft(Azure, [MSFT](/company-analysis/msft/) - 클라우드 2위, Cosmos DB): Azure는 AI 워크로드 확장으로 점유율을 높이는 중. Cosmos DB와의 경쟁 구도 속에서도 
 - Alphabet(Google Cloud, [GOOGL](/company-analysis/googl/) - Firestore 등): GCP 생태계와의 결합력은 강점. MongoDB는 멀티클라우드·크로스클라우드 일관성으로 차별화.
+
+{{< adsense-infeed >}}
 
 - Oracle([ORCL](/company-analysis/orcl/) - 엔터프라이즈 DB·자율 데이터웨어하우스): 전통 강자이자 클라우드 전환 속도 가속. 하지만 MongoDB는 비정형·유연 스키마·앱 속도/민첩성·AI 하이브리드 검색 측면에서 다른 장점을 제시.  
     요약하면, MongoDB는 “운영 데이터+검색/벡터” 통합과 개발

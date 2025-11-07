@@ -50,6 +50,8 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 의료시설 건설: Turner Construction (비상장)
@@ -103,6 +105,8 @@ HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42
 4. Dimensional Fund Advisors LP: 3.03%
 5. Pzena Investment Management LLC: 2.91%
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares U.S. Healthcare Providers ETF IHF
 2. Vanguard Health Care ETF VHT

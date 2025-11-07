@@ -23,6 +23,8 @@ weight: 266
 ## 영위사업
 3D Systems Corporation(NYSE: DDD)은 3D 프린팅 및 적층 제조 솔루션을 제공하는 글로벌 기업입니다. 1986년 설립된 이 회사는 3D 프린팅 기술의 선구자로, 산업용 및 전문가용 3D 프린터, 프린팅 재료, 소프트웨어 솔루션을 개발 및 제공합니다.주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 하드웨어: 산업용 및 전문가용 3D 프린터 제조
 2. 재료: 플라스틱, 금속, 세라믹 등 다양한 3D 프린팅 소재 개발 및 공급
 3. 소프트웨어: 3D 모델링, 시뮬레이션, 프린팅 관리 소프트웨어 제공
@@ -38,6 +40,8 @@ weight: 266
 5. 글로벌 네트워크: 전 세계적인 판매 및 서비스 네트워크 구축
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -85,6 +89,8 @@ weight: 266
 - State Street Corporation (3.81%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - 3D Printing ETF - PRNT
 - ARK Autonomous Technology & Robotics ETF - ARKQ

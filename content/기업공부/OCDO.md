@@ -19,6 +19,8 @@ weight: 649
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Ocado Group PLC는 영국 및 국제적으로 온라인 식료품 소매업체로 운영됩니다. 이 회사는 세 가지 주요 부문인 기술 솔루션, Ocado 물류, Ocado 소매로 구성되어 있습니다. 주요 사업으로는 온라인 식료품 및 일반 상품 판매, 고객 주문 처리 센터 및 물류 서비스 제공, 소프트웨어 및 로봇 플랫폼 제공 등이 있습니다.
 
 - 기업 기본정보
@@ -31,6 +33,8 @@ Ocado Group PLC는 영국 및 국제적으로 온라인 식료품 소매업체�
 
 - **소매업체:** Tesco (UK, TSCO), Sainsbury’s (UK, SBRY)
 - **물류업체:** DHL (DE, DPW), FedEx (US, [FDX](/company-analysis/fdx/))
+
+{{< adsense-infeed >}}
 
 **후방산업:**
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))

@@ -27,6 +27,8 @@ weight: 259
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Delta Air Lines Inc.는 1924년 설립된 미국의 대형 항공사로, 전 세계 승객([여객 운송](/industry-study/여객-운송/)) 및 [화물 운송](/industry-study/화물-운송/) 서비스를 제공하는 글로벌 항공 운송 기업입니다. 회사는 애틀랜타를 주요 허브로 하여 미국 전역과 전 세계 6개 대륙 300여 개 도시를 연결하는 광범위한 노선 네트워크를 운영하고 있으며, SkyTeam 항공동맹의 창립 멤버로서 글로벌 파트너십을 구축하고 있습니다.
 
 주요 사업부문으로는 항공 운송(Airline)과 정유 사업(Refinery)으로 구성됩니다. 2024년 총 매출 616억 달러를 기록했으며, 항공 운송이 전체 매출의 약 92%를 차지하는 항공 운송 중심 비즈니스 모델을 운영하고 있습니다.
@@ -44,6 +46,8 @@ Delta Air Lines Inc.는 1924년 설립된 미국의 대형 항공사로, 전 세
 Delta Air Lines의 비즈니스 모델은 프리미엄 포지셔닝을 기반으로 한 다각화된 항공 운송 플랫폼입니다.
 
 **1. 승객 운송 서비스 (매출 82% 비중):**
+
+{{< adsense-infeed >}}
 
 - 항공료 수익: 국내선 및 국제선 승객 운송 서비스
 - 프리미엄 서비스: 델타원(Delta One), 퍼스트클래스, 컴포트+ 등 고부가가치 서비스
@@ -147,6 +151,8 @@ Delta Air Lines는 항공 운송 서비스 회사로 전통적인 제조공정�
 - 항공 연료 공급업: 제트유 및 연료 공급 - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 공항 운영업: 공항 시설 이용 - 각국 공항공사 및 민간 공항 운영사
 - 항공기 리스업: 항공기 임차 서비스 - AerCap(IE, AER), Air Lease(US, AL)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -346,6 +352,8 @@ SkyMiles 로열티 프로그램과 American Express와의 파트너십은 Delta�
 - SPDR S&P Transportation ETF - XTN
 - iShares Transportation Average ETF - IYT
 - First Trust Nasdaq Transportation ETF - FTXR
+
+{{< adsense-infeed >}}
 
 산업재 관련 ETF:
 

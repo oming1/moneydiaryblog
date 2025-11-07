@@ -30,11 +30,17 @@ Group 1 Automotive, Inc.는 미국과 영국에서 [자동차](/industry-study/�
 6. 충돌 수리 센터 운영
 회사는 미국과 영국에서 260개의 자동차 딜러십, 338개의 프랜차이즈, 44개의 충돌 센터를 운영하며 35개 브랜드의 자동차를 취급합니다
 
+{{< adsense-infeed >}}
+
 2. AcceleRide® 디지털 플랫폼을 통해 온라인 판매 및 서비스 예약도 제공하고 있습니다
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
 - 보험회사: 차량 보험 상품 제공
@@ -68,6 +74,8 @@ Group 1 Automotive는 주로 미국과 영국에서 사업을 영위하고 있�
 4. CarMax (US, [KMX](/company-analysis/kmx/))
 5. Asbury Automotive Group (US, [ABG](/company-analysis/abg/))
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Group 1 Automotive는 2021년 기준 미국에서 4번째로 큰 자동차 소매업체로 평가되고 있습니다
 

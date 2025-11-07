@@ -19,6 +19,8 @@ weight: 919
 
 섹터: 소재 (Materials)
 
+{{< adsense-infeed >}}
+
 ## 산업 (Industry)
 
 산업: 기타 산업용 금속 및 광물 (Other Industrial Metals & Mining)
@@ -68,6 +70,8 @@ USA Rare Earth의 비즈니스 모델은 수직 통합형 희토류 공급망 �
 
 핵심 경쟁력은 미국 내 유일한 수직 통합 공급망, 정부 정책 지원, 국가 안보 중요성입니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 핵심 경쟁력
@@ -93,6 +97,8 @@ USA Rare Earth의 핵심 경쟁력은 미국 내 독립적인 희토류 공급�
 ---
 
 ## 제조공정
+
+{{< adsense-infeed >}}
 
 USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습니다.
 
@@ -150,6 +156,8 @@ USA Rare Earth는 "Mine to Magnet" 통합 제조 공정을 구축하고 있습�
 - BASF(DE, BAS) - 용매 추출용 화학물질 공급
 - Air Products(US, APD) - 공정용 가스 공급
 - Honeywell(US, [HON](/company-analysis/hon/)) - 자동화 및 제어 시스템
+
+{{< adsense-infeed >}}
 
 **가공 및 제조 단계:** 희토류 정제 및 자석 제조
 
@@ -284,6 +292,8 @@ USA Rare Earth는 미국 희토류 자급자족을 위한 국가 전략적 중�
 사업 모델의 차별화 요소는 미국 내 유일한 수직 통합형 희토류 공급망 구축에 있습니다. Round Top 광산은 17개 희토류 원소 중 16개를 보유한 세계적 수준의 매장지이며, 특히 중희토류가 풍부하여 전기차, 풍력발전, 국방 분야의 핵심 수요를 충족할 수 있습니다.
 
 정부 정책 지원이 강력한 성장 동력을 제공합니다. 미국 정부는 희토류를 국가 안보 핵심 광물로 지정하고 Defense Production Act, CHIPS Act 등을 통해 국내 생산을 적극 지원하고 있습니다. 이는 USA Rare Earth에게 안정적인 수요 기반과 정책적 후원을 보장합니다.
+
+{{< adsense-infeed >}}
 
 기술적 실현 가능성도 검증되고 있습니다. 2024년 99.1% 순도의 디스프로슘 산화물 생산에 성공했으며, 2026년 첫 고객 납품을 위한 MOU를 체결하여 상업화 계획이 구체화되고 있습니다.
 

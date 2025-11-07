@@ -20,9 +20,13 @@ Quantum Corporation(QMCO)는 데이터 저장, 데이터 관리, 데이터 보�
 섹터: 정보기술(Information Technology)  
 산업: 컴퓨터 하드웨어(Computer Hardware)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Quantum은 비디오 및 비정형 데이터의 저장, 관리, 보호, 아카이빙을 위한 기술을 제공합니다. 주요 제품으로는 고성능 올플래시 스토리지, 엔터프라이즈 백업 및 데이터 보호 솔루션, 공유 파일 스토리지, 비디오 감시 스토리지, 장기 저비용 아카이빙 솔루션 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 ## 후방산업

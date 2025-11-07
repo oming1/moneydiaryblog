@@ -21,6 +21,8 @@ Industry: 전자장비 및 부품(Electronic Equipment & Parts)
 ## 영위사업
 Ouster, Inc.는 자동차, 산업, 로봇공학, 스마트 인프라 산업을 위한 고해상도 스캐닝 및 솔리드 스테이트 디지털 라이다 센서(LiDAR), Velodyne Lidar 센서, 소프트웨어 솔루션을 제공하는 기업입니다. 주요 제품은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. OS 제품 라인의 4가지 센서 모델:
     
     - OSDome (반구형 시야각)
@@ -51,6 +53,8 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 4. 소프트웨어 개발: Ouster, Inc. (US, [OUST](/company-analysis/oust/))
 5. 시스템 통합: 자동차 OEM 및 로봇 제조업체
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. OS 제품 라인 (OSDome, OS0, OS1, OS2)
@@ -61,6 +65,8 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 2023년 기준 지역별 매출 비중:
 
 - 미주: 54.7%
@@ -68,6 +74,8 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 - 아시아 태평양: 15.5%
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Velodyne Lidar (US, VLDR) (라이다 센서) - 2023년에 합병함
 2. Luminar Technologies (US, [LAZR](/company-analysis/lazr/)) (라이다 센서 및 소프트웨어)

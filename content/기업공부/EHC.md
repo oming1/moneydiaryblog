@@ -23,6 +23,8 @@ weight: 307
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Encompass Health Corporation은 미국의 주요 의료 서비스 제공업체로, 주로 급성기 후 재활치료 및 가정 건강관리 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
 1. 입원 재활 서비스: 뇌졸중, 신경계 장애, 척수 손상, 절단, 복합 정형외과 상태 등에 대한 치료
 2. 가정 건강 및 호스피스 서비스: 전문 간호, 물리치료, 작업치료, 언어치료 등 제공
@@ -53,6 +55,8 @@ Encompass Health는 미국 전역에 150개 이상의 병원과 250개 이상의
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 의료시설 건설: Turner Construction
 2. 의료기기 공급: Medtronic (IE, [MDT](/company-analysis/mdt/)), Stryker (US, [SYK](/company-analysis/syk/))
 3. 의료 서비스 제공: Encompass Health (주요 사업 영역)
@@ -79,6 +83,8 @@ Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Select Medical Holdings (US, SEM)
 2. Kindred Healthcare KND
 3. Amedisys (US, AMED)
@@ -87,8 +93,12 @@ Encompass Health는 주로 미국 시장에서 사업을 영위하고 있습니�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Encompass Health는 미국 급성기 후 치료 시장에서 주요 기업 중 하나입니다.
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024년 3분기 매출 11.9% 증가, 순이익 26% 증가 (2024년)
 2. 가정 건강 및 호스피스 사업부 분사 완료 (2022년)

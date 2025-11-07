@@ -29,6 +29,8 @@ Coterra Energy Inc.는 미국의 독립 석유 및 [천연가스](/industry-stud
 2. 천연가스 및 석유 생산
 3. 천연가스 및 석유 개발
 
+{{< adsense-infeed >}}
+
 Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점을 두고 있으며, 첨단 기술과 운영 효율성을 활용하여 다양한 지역에서 사업을 영위하고 있습니다.
 ## 핵심 경쟁력
 
@@ -47,6 +49,8 @@ Coterra Energy는 고품질 석유 및 가스 자산을 개발하는 데 중점�
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -77,6 +81,8 @@ Coterra Energy는 주로 미국 시장에서 사업을 영위하고 있습니다
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Coterra Energy는 미국 내 주요 천연가스 및 석유 생산업체 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -93,6 +99,8 @@ Coterra Energy는 주로 미국 시장에서 사업을 영위하고 있습니다
 3. SSgA Funds Management, Inc.: 4.98%
 4. Geode Capital Management LLC: 2.13%
 5. Charles Schwab Investment Management, Inc.: 1.51%
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

@@ -45,6 +45,8 @@ Caterpillar는 건설, 광산, 농업 및 에너지 산업을 위한 다양한 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Caterpillar는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 다음과 같습니다:
 
 - 북미: 약 40%
@@ -64,5 +66,7 @@ Caterpillar는 전 세계적으로 제품을 판매하고 있으며, 주요 시�
 
 Caterpillar는 건설 및 광산 장비 시장에서 약 15%의 점유율을 보유하고 있으며, 2023년 기준으로 세계 최대의 중장비 제조업체로 알려져 있습니다.
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [FINVIZ - CAT](https://finviz.com/quote.ashx?t=CAT)

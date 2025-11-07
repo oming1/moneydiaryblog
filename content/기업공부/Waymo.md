@@ -21,6 +21,8 @@ weight: 952
 #### 영위사업
 Waymo는 [자율 주행](/industry-study/자율-주행/) 기술을 개발하고 상용화하는 회사로, 자율주행차 및 자율주행 트럭을 통해 사람과 물건을 안전하고 효율적으로 이동시키는 서비스를 제공합니다. Waymo One이라는 [로보택시](/industry-study/로보택시/) 서비스를 운영하고 있으며, Waymo Via라는 자율주행 트럭 및 배송 서비스를 제공합니다.
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 - **전방산업**:
     - **운송 및 물류**: 물류 및 배송 서비스 제공업체 (예: FedEx (US, [FDX](/company-analysis/fdx/)), UPS (US, [UPS](/company-analysis/ups/)))
@@ -36,11 +38,17 @@ Waymo는 [자율 주행](/industry-study/자율-주행/) 기술을 개발하고 
 - **제조**: 자율주행차 제조 (예: Waymo 자체 생산, 협력사와의 공동 생산)
 - **유통 및 서비스**: 자율주행차 및 트럭 서비스 제공 (예: Waymo One, Waymo Via)
 
+{{< adsense-infeed >}}
+
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **Waymo One**: 자율주행 로봇택시 서비스
 - **Waymo Via**: 자율주행 트럭 및 배송 서비스
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Tesla (US, [TSLA](/company-analysis/tsla/))**: 자율주행차 및 전기차
 - **Cruise (US, [GM](/company-analysis/gm/))**: 자율주행차 서비스

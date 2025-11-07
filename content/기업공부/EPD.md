@@ -24,6 +24,8 @@ weight: 319
 
 Enterprise Products Partners L.P.는 북미 최대의 미드스트림 에너지 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. NGL 파이프라인 및 서비스: [천연가스](/industry-study/천연가스/) 처리 및 관련 NGL 마케팅 서비스 제공
 2. [원유](/industry-study/원유/) 파이프라인 및 서비스: 원유 파이프라인, 저장 및 터미널 운영
 3. 천연가스 파이프라인 및 서비스: 천연가스 수집, 처리, 운송 및 저장
@@ -61,6 +63,8 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 5. 정제: Valero Energy(US, [VLO](/company-analysis/vlo/)) - 석유 정제
 6. 석유화학 가공: Dow Inc.(US, [DOW](/company-analysis/dow/)) - NGL을 원료로 사용
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. 천연가스 액체(NGL)
@@ -69,6 +73,8 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 4. 석유화학 제품
 5. 정제 제품
 ## 주요고객
+
+{{< adsense-infeed >}}
 
 1. 석유 및 가스 생산 기업
 2. 정유사
@@ -81,6 +87,8 @@ Enterprise는 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품�
 Enterprise Products Partners는 주로 북미 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Energy Transfer(US, [ET](/company-analysis/et/))
@@ -103,6 +111,8 @@ Enterprise Products Partners는 주로 북미 시장에서 사업을 영위하�
 3. SSgA Funds Management, Inc.: 4.98%
 4. Geode Capital Management LLC: 2.13%
 5. Charles Schwab Investment Management, Inc.: 1.51%
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

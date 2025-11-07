@@ -28,6 +28,8 @@ Huntsman Corporation은 다양한 유기 화학 제품을 제조하는 글로벌
 2. 성능 제품: 아민, 말레산 무수물 등 제조 및 판매
 3. 첨단 소재: 에폭시, 아크릴, 폴리우레탄 기반 폴리머 제품 개발
 
+{{< adsense-infeed >}}
+
 Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, 의료, 포장 등 다양한 산업 분야에 제품을 공급하고 있습니다. 지속가능성과 혁신에 중점을 두고 있으며, 전 세계 25개국 이상에서 60개 이상의 제조 및 R&D 시설을 운영하고 있습니다.
 
 ## 핵심 경쟁력
@@ -48,6 +50,8 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 항공우주: Boeing(US, [BA](/company-analysis/ba/))
     - 건설: Lennar(US, [LEN](/company-analysis/len/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -77,6 +81,8 @@ Huntsman Corporation은 글로벌 기업으로, 구체적인 국가별 매출 �
 3. DuPont(US, [DD](/company-analysis/dd/))
 4. Eastman Chemical(US, EMN)
 5. Covestro(DE, 1COV)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

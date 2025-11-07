@@ -30,6 +30,8 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 
 2024년 기준 월간 활성 사용자 수는 약 4억 5천만 명이며, 주 수익원은 광고 수익입니다. 최근에는 AI 기술을 활용한 개인화 추천 강화와 e커머스 기능 확대에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 1. 독특한 비주얼 검색 경험: 이미지 중심의 직관적인 사용자 인터페이스
@@ -37,6 +39,8 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 3. AI 및 머신러닝 기술: 개인화된 콘텐츠 추천 및 광고 타겟팅 능력
 4. 브랜드 안전성: 긍정적이고 영감을 주는 콘텐츠 중심의 플랫폼 이미지
 5. 구매 의도가 높은 사용자 기반: 제품 검색 및 구매에 적극적인 사용자 확보
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 전방산업:
@@ -47,9 +51,13 @@ Pinterest Inc.(NYSE: PINS)는 이미지 기반의 소셜 미디어 플랫폼을 
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
 - AI 및 머신러닝: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 콘텐츠 제작 도구: Adobe(US, [ADBE](/company-analysis/adbe/)), Canva(비상장)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -94,6 +102,8 @@ Pinterest는 2024년 기준 글로벌 소셜 미디어 광고 시장에서 약 2
 - State Street Corporation (3.81%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Global X Social Media ETF - SOCL
 - Invesco NASDAQ Internet ETF - PNQI

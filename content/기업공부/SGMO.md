@@ -30,6 +30,8 @@ Sangamo Therapeutics, Inc.는 유전체 편집및 유전자 조절 기술을 이
 3. CAR-Treg 세포 치료제: 자가면역질환 및 장기이식 거부반응 예방을 위한 세포 치료제 개발
 4. 협력 연구 개발: 주요 제약사들과의 파트너십을 통한 공동 연구 및 기술 라이선싱
 
+{{< adsense-infeed >}}
+
 Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계를 맺고 있으며, 다양한 임상 단계의 파이프라인을 보유하고 있습니다.
 ## 핵심 경쟁력
 
@@ -56,7 +58,9 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 1. 생명공학 연구 기관: 기초 연구 및 기술 개발
     
     - Broad Institute, Salk Institute
-    
+
+{{< adsense-infeed >}}
+
 2. 의약품 원료 공급업체: 치료제 생산을 위한 원료 공급
     
     - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Lonza Group(CH, [LONN](/company-analysis/lonn/))
@@ -79,12 +83,16 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     - Lonza Group(CH, [LONN](/company-analysis/lonn/)), Catalent(US, [CTLT](/company-analysis/ctlt/))
     
 4. 규제 승인: FDA, EMA 등 규제기관 승인 획득
-    
+
+{{< adsense-infeed >}}
+
     - Regulatory 컨설팅 기업들
     
 5. 마케팅 및 판매: 치료제 상업화 및 유통
     
     - Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 

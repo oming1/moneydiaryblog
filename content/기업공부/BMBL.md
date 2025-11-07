@@ -20,6 +20,8 @@ weight: 147
 섹터: 커뮤니케이션 서비스  
 산업: 인터넷콘텐츠및정보
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하는 기업입니다. 주요 앱으로는 Bumble, Badoo, Fruitz 등이 있습니다. Bumble 앱은 여성이 먼저 대화를 시작하는 특징을 가진 데이팅 앱으로, 데이팅(Date), 친구 찾기(BFF), 비즈니스 네트워킹(Bizz) 모드를 제공합니다. 2023년 기준으로 전 세계 150개 이상의 국가에서 서비스를 제공하고 있으며, 월간 활성 사용자 수는 약 5,000만 명에 달합니다. 주요 수익원은 프리미엄 구독 모델과 인앱 구매입니다. 최근에는 AI 기술을 활용한 매칭 알고리즘 개선과 글로벌 시장 확대에 주력하고 있습니다.
@@ -54,7 +56,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
     
 2. 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 3. 결제 처리: Stripe(Stripe), PayPal(US, [PYPL](/company-analysis/pypl/))
-    
+
+{{< adsense-infeed >}}
+
 4. 사용자 인증: Twilio(US, [TWLO](/company-analysis/twlo/)), Okta(US, [OKTA](/company-analysis/okta/))
     
 5. 마케팅 및 광고: Facebook(US, [META](/company-analysis/meta/)), Google(US, [GOOGL](/company-analysis/googl/))
@@ -64,7 +68,9 @@ Bumble Inc는 온라인 데이팅 및 소셜 네트워킹 플랫폼을 제공하
 ## 주요제품
 
 1. Bumble 앱: 데이팅, 친구 찾기, 비즈니스 네트워킹 (매출의 약 70%, 2023년 기준)
-    
+
+{{< adsense-infeed >}}
+
 2. Badoo 앱: 글로벌 데이팅 플랫폼 (매출의 약 25%, 2023년 기준)
 3. Fruitz 앱: 젊은 층 대상 데이팅 앱 (매출의 약 5%, 2023년 기준)
 

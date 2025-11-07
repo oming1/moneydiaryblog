@@ -39,7 +39,9 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, 스포츠 및 피트�
 전방산업:
 
 - 건강 및 웰니스: 소비자 건강 관리 제품 (Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)), Procter & Gamble(US, [PG](/company-analysis/pg/)))
-    
+
+{{< adsense-infeed >}}
+
 - 스포츠 영양: 운동 선수 및 피트니스 애호가 대상 제품 (Glanbia(IE, GLB), Optimum Nutrition(US, [ON](/company-analysis/on/)))
 
 후방산업:
@@ -63,6 +65,8 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, 스포츠 및 피트�
 7. 고객 서비스: Herbalife 고객 지원 센터, 독립 판매원 지원
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. Formula 1 영양 쉐이크 믹스: 체중 관리용 식사 대용 쉐이크 (2023년 매출의 약 30%)
     
@@ -96,7 +100,9 @@ Herbalife는 글로벌 영양 보충제 시장에서 약 4.2%의 점유율을 �
 ## 최근 3년 내 주요 이슈
 
 1. 인도 IIT 마드라스와 식물 세포 발효 기술 연구소 설립 파트너십 체결 (2025년)
-    
+
+{{< adsense-infeed >}}
+
 2. 새로운 단백질 칩 제품 출시 (2024년)
     
 3. 세계식량계획(WFP)과의 파트너십 갱신을 통한 글로벌 식량 안보 지원 강화 (2024년)

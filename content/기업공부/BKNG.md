@@ -22,8 +22,12 @@ weight: 137
 
 Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서비스를 제공하는 기업입니다. 이 회사는 호텔, 항공편, 렌터카, 크루즈, 레스토랑 예약 등을 포함한 다양한 여행 서비스를 제공합니다
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
+
+{{< adsense-infeed >}}
 
 - **전방산업:** 여행 및 관광업
     - **핵심 산업:** 여행 및 관광업은 Booking Holdings의 플랫폼을 통해 고객에게 다양한 여행 옵션을 제공합니다.
@@ -65,6 +69,8 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 ### 경쟁업체
 
 
+
+{{< adsense-infeed >}}
 
 - **Expedia (미국, [EXPE](/company-analysis/expe/)):** 온라인 여행 예약 서비스
 - **TripAdvisor (미국, [TRIP](/company-analysis/trip/)):** 여행 리뷰 및 예약 서비스

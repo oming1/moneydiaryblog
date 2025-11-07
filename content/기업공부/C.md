@@ -20,6 +20,8 @@ weight: 167
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 씨티그룹은 글로벌 금융 서비스 기업으로, 주요 사업 영역은 투자은행, 상업은행, 자산관리, 신용카드, 보험 등입니다.
 #### 전방/후방산업
 
@@ -43,6 +45,8 @@ weight: 167
 - **데이터 분석 및 관리:** 금융 데이터 분석 및 관리
     - 주요 기업: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)), Splunk (미국, [SPLK](/company-analysis/splk/)).
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **투자은행 서비스:** 기업 금융, 자문 서비스
 - **상업은행 서비스:** 대출, 예금, 자산관리

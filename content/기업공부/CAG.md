@@ -34,6 +34,8 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 
 최근 1년간 CAG의 주가는 하락세를 보였으며, 2025년 7월 25일 기준으로 19.21달러에 마감했습니다. 이는 52주 고점인 33.24달러에서 상당히 하락한 수준입니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 5. 비즈니스 모델 (수익 모델)
@@ -334,6 +336,8 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - IYK - iShares U.S. Consumer Goods ETF IYK
     
 - PSCC - Invesco S&P SmallCap Consumer Staples ETF PSCC
+
+{{< adsense-infeed >}}
 
 **배당 관련 ETF:**
 

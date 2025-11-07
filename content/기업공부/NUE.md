@@ -22,6 +22,8 @@ Industry: 철강(Steel)
 
 Nucor Corporation은 북미 최대의 철강 및 철강 제품 제조업체입니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 철강 제조: 판재, 구조용강, 봉강 등 다양한 철강 제품 생산
 2. 철강 제품: 강관, 철근, 철망, 지붕 데크 등 제조
 3. 원자재: 직접환원철(DRI) 생산, 철 및 비철금속 중개
@@ -30,6 +32,8 @@ Nucor는 미국, 캐나다, 멕시코에 300개 이상의 시설을 운영하고
 ## 전방/후방산업
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 건설업
 - 자동차 산업
@@ -42,6 +46,8 @@ Nucor는 미국, 캐나다, 멕시코에 300개 이상의 시설을 운영하고
 - 에너지 공급업체
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 원자재 조달: Nucor Corporation (US, [NUE](/company-analysis/nue/))
 2. 제강: Nucor Corporation (US, [NUE](/company-analysis/nue/))
@@ -67,6 +73,8 @@ Nucor는 주로 북미 시장에서 사업을 영위하고 있으며, 미국이 
 4. Cleveland-Cliffs (US, [CLF](/company-analysis/clf/))
 5. Commercial Metals Company (US, CMC)
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Nucor는 미국 내 최대 철강 생산업체로, 미국 전체 조강 생산량의 약 25%를 차지하고 있습니다.
 ## 최근 3년 내 주요 이슈

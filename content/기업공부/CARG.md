@@ -43,6 +43,8 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
     
 5. **투명성과 신뢰성**: 소비자 리뷰와 딜러 평판 데이터를 통한 신뢰 구축
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 전방산업
@@ -73,7 +75,9 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 ## 주요제품
 
 - **CarGurus Marketplace**: 신차 및 중고차 거래 플랫폼, 매출의 약 82% (2024년 기준)
-    
+
+{{< adsense-infeed >}}
+
 - **CarOffer Digital Wholesale Platform**: 딜러 간 도매 거래 플랫폼, 매출의 약 11% (2024년 기준)
     
 - **Autolist & PistonHeads 브랜드 운영**: 지역별 맞춤형 자동차 거래 서비스 제공, 매출의 약 7% (2024년 기준)
@@ -85,13 +89,17 @@ CarGurus Inc.(NASDAQ: CARG)는 미국 매사추세츠주 케임브리지에 본�
 2. 자동차 판매자 (개인 및 딜러)
     
 3. 자동차 딜러 (B2B 고객)
-    
+
+{{< adsense-infeed >}}
+
 4. 금융 기관 (자동차 금융 및 보험 제공자)
 
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 이탈리아, 스페인
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. AutoNation Inc.(US, [AN](/company-analysis/an/)): 미국 최대 자동차 소매업체
     
@@ -122,7 +130,9 @@ CarGurus는 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 ## 주요주주(지분율)
 
 - The Vanguard Group (11%)
-    
+
+{{< adsense-infeed >}}
+
 - BlackRock (9%)
 - State Street Corporation (5%)
 

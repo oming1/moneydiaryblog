@@ -46,8 +46,12 @@ Enabot는 주로 가정용 로봇, 특히 반려동물 및 가족을 위한 동�
 - **EBO SE:** 가정용 동반자 로봇 (엔터테인먼트 및 소셜 기능)
 ### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Enabot는 주로 중국, 미국, 유럽 등에서 제품을 판매하고 있으며, 주요 매출 국가는 중국과 미국입니다.
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **iRobot (미국, [IRBT](/company-analysis/irbt/)):** Roomba 시리즈 (로봇 진공 청소기)
 - **[Roborock](/company-analysis/roborock/) (중국, 688169):** Roborock 시리즈 (로봇 진공 청소기)

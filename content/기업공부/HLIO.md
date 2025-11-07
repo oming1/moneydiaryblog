@@ -186,6 +186,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 
 **유통업체:**
 
+{{< adsense-infeed >}}
+
 - Motion Industries(US) - 산업용 MRO 부품 유통
 - Applied Industrial Technologies(US, AIT) - 유압 제품 전문 유통
 - Kaman Corporation(US, KAMN) - 산업 유통 서비스
@@ -318,6 +320,8 @@ Helios Technologies Inc.는 1970년 Sun Hydraulics로 설립되어 50년 이상�
 ---
 
 ## 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 **기관 투자자 (2024년 2분기 기준):**
 

@@ -121,7 +121,9 @@ VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약
 ## 주요주주(지분율)
 
 1. Berkshire Hathaway (13.8%)
-    
+
+{{< adsense-infeed >}}
+
 2. Vanguard Group (11.7%)
 3. BlackRock (9.2%)
     
@@ -138,5 +140,7 @@ VeriSign은 .com 도메인 시장에서 약 62%, .net 도메인 시장에서 약
 3. First Trust Dow Jones Internet Index Fund - FDN
     
 4. Invesco NASDAQ Internet ETF - PNQI
-    
+
+{{< adsense-infeed >}}
+
 5. Global X Cybersecurity ETF - BUG

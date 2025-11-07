@@ -43,6 +43,8 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 - e커머스: Amazon(US, [AMZN](/company-analysis/amzn/)), Alibaba(CN, [BABA](/company-analysis/baba/))
 - 엔터테인먼트: Walt Disney Company(US, [DIS](/company-analysis/dis/)), Netflix(US, [NFLX](/company-analysis/nflx/))
 
+{{< adsense-infeed >}}
+
 후방산업:
 
 - 원자재 공급: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
@@ -50,6 +52,8 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [완구](/industry-study/완구
 - 패키징: International Paper(US, [IP](/company-analysis/ip/)), WestRock(US, WRK)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - Barbie: 인형 및 관련 제품, 매출의 약 30% (2024년 기준)
 - Hot Wheels: 미니카 및 트랙 세트, 매출의 약 20% (2024년 기준)

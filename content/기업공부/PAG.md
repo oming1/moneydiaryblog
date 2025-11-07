@@ -60,6 +60,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 2. 부동산 개발 및 운용
 3. 인프라 투자
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 
 1. 금융 서비스
@@ -67,6 +69,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 3. 시장 조사 및 컨설팅
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 자금 조달: BlackRock(US, [BLK](/company-analysis/blk/)), Fidelity Investments(US, Fidelity)
 2. 투자 대상 발굴 및 실사: Bain & Company(US, Bain), McKinsey & Company(US, McKinsey)

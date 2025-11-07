@@ -28,6 +28,8 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 
 2025년 1분기(2024년 9월 30일 기준) 총 수익은 35억 6400만 달러로, 전년 동기 대비 11% 증가했습니다. 최근에는 Tubi 스트리밍 서비스의 성장, 정치 광고 수익 증가, 그리고 스포츠 베팅 사업 확대에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 4. 강력한 브랜드 포트폴리오: FOX News, FOX Sports 등 인지도 높은 브랜드 보유
@@ -60,6 +62,8 @@ Fox Corporation(NASDAQ: FOX, FOXA)은 미국의 주요 미디어 및 엔터테�
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Walt Disney Company(US, [DIS](/company-analysis/dis/)): ABC, ESPN 등 보유
 - Paramount Global(US, [PARA](/company-analysis/para/)): CBS, Paramount+ 등 운영
 - Comcast Corporation(US, [CMCSA](/company-analysis/cmcsa/)): NBCUniversal 소유
@@ -81,6 +85,8 @@ Fox Corporation의 정확한 글로벌 시장 점유율 데이터는 제공되�
 - The Vanguard Group (약 10%)
 - Dodge & Cox (약 5%)
 - BlackRock (약 4%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

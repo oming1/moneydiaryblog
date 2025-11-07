@@ -22,6 +22,8 @@ weight: 738
 Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배터리/) 및 전자 폐기물의 재활용을 전문으로 하며, 주요 사업으로는 배터리 재활용, 금속 정제 및 재제조가 있습니다. 또한, 배터리 제조 파트너에게 음극재 및 양극재를 공급합니다.
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     - **전기차 제조**: 재활용된 배터리 재료 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)), Ford (US, [F](/company-analysis/f/)))
     - **에너지 저장**: 에너지 저장 시스템 공급 (예: NextEra Energy (US, [NEE](/company-analysis/nee/)))
@@ -34,15 +36,21 @@ Redwood Materials는 [리튬이온 배터리](/industry-study/리튬이온-배�
 - **배터리 생산**: [CATL](/company-analysis/catl/) (CN, 300750), [LG에너지솔루션](/industry-study/lg에너지솔루션/) (KR,373220)
 - **배터리 재활용**: Redwood Materials, Li-Cycle (CA, [LICY](/company-analysis/licy/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 - **리튬이온 배터리 재활용**: 전기차 및 전자 제품에서 사용된 배터리 재활용
 - **음극 및 양극 재료**: [배터리](/industry-study/배터리/) 제조에 필요한 핵심 재료
 - **금속 정제**: [니켈](/industry-study/니켈/), 코발트, 리튬 등의 금속 정제
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 주요 시장으로 전체 매출의 대부분을 차지
 - **유럽**: 독일, 프랑스, 영국 등 주요 판매국가 포함
 - **아시아**: 일본 및 한국 등 주요 판매국가 포함
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 

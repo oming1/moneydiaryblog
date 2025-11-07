@@ -23,6 +23,8 @@ weight: 323
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Energy Transfer LP는 북미 최대의 미드스트림 에너지 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. NGL 파이프라인 및 서비스: 천연가스 처리 및 관련 NGL 마케팅 서비스 제공
@@ -31,6 +33,8 @@ Energy Transfer LP는 북미 최대의 미드스트림 에너지 서비스 제�
 4. [석유화학](/industry-study/석유화학/) 및 정제 제품 서비스: 프로필렌 분류, 부탄 이성질화, 옥탄 향상 등
 
 Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유하고 있으며, 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품의 생산자와 소비자를 연결하는 통합 에너지 인프라 네트워크를 운영하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -44,10 +48,14 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
@@ -64,6 +72,8 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 6. 석유화학 가공: Dow Inc.(US, [DOW](/company-analysis/dow/)) - NGL을 원료로 사용
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 천연가스 액체([NGL](/industry-study/ngl/))
 2. 원유

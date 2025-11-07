@@ -20,6 +20,8 @@ weight: 877
 
 #### 영위사업 (Business Operations)
 
+{{< adsense-infeed >}}
+
 Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단 및 실험실 제품과 바이오파마 서비스를 제공하는 글로벌 기업입니다. 주요 사업 영역은 다음과 같습니다:
 - **생명과학 솔루션** (Life Sciences Solutions)
 - **분석 기기** (Analytical Instruments)
@@ -34,6 +36,8 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
 
 #### 밸류체인 (Value Chain)
 
+{{< adsense-infeed >}}
+
 1. **연구 및 개발 (R&D)**
     - 대표 기업: Thermo Fisher Scientific, Charles River Laboratories (US, [CRL](/company-analysis/crl/))
 2. **임상 시험 (Clinical Trials)**
@@ -41,6 +45,8 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
 3. **제조 (Manufacturing)**
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
 #### 주요제품 (Key Products)
+
+{{< adsense-infeed >}}
 
 - **생명과학 솔루션**: 생물학 및 의학 연구, 약물 및 백신 생산, 감염 및 질병 진단을 위한 시약, 기기 및 소모품
 - **분석 기기**: 제약, 바이오테크, 학계, 정부 및 환경 연구를 위한 기기, 소모품, 소프트웨어 및 서비스
@@ -55,6 +61,8 @@ Thermo Fisher Scientific는 생명과학 솔루션, 분석 기기, 특수 진단
 - **Agilent Technologies** (US, [A](/company-analysis/a/)): 생명과학 및 분석 기기
 - **Mettler-Toledo International** (US, MTD): 정밀 기기 및 분석 기기
 - **Illumina** (US, [ILMN](/company-analysis/ilmn/)): 유전자 분석 및 시퀀싱 기기
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)
 - **FDA 승인**: SeCore HLA Typing Kit의 510(k) 승인 (2024)

@@ -121,6 +121,8 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 **NexNav 아비오닉스**: GPS 솔루션 및 디스플레이 시스템, 전 세계 1만 4천 대 설치
 - 경쟁사 Garmin [GRMN](/company-analysis/grmn/)  
 
+{{< adsense-infeed >}}
+
 **Jaunt Journey**: eVTOL 항공기, 497대 주문 12억 달러 규모
 - 경쟁사 Joby [JOBY](/industry-study/2산업항공우주방위-산업3모빌리티uam종목joby/), Archer [ACHR](/company-analysis/achr/)
 
@@ -136,6 +138,8 @@ AIRO Group Holdings Inc.는 2021년 설립된 첨단 항공우주 및 국방 전
 ---
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 **미국 정부 기관**:
 

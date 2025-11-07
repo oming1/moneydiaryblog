@@ -22,6 +22,8 @@ weight: 291
 
 산업: [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/)(Aerospace & Defense)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Draganfly Inc.는 상업용 드론 및 무인 항공 시스템(UAS) 솔루션을 설계, 개발, 제조, 판매하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -78,6 +80,8 @@ Draganfly는 정부 기관, 법 집행 기관, 기업 고객 등을 대상으로
 3. State Street Corporation (6.74%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. SPDR S&P Aerospace & Defense ETF - XAR
 2. iShares U.S. Aerospace & Defense ETF - ITA

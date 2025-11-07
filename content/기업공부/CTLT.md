@@ -20,8 +20,12 @@ weight: 246
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레이어로, 의약품, 생물학적 제제, 세포 및 유전자 치료제, 소비자 건강 제품의 개발 및 제조 솔루션을 제공합니다. 주요 사업 부문은 생물학적 제제와 제약 및 소비자  건강 부문으로 나뉩니다.
 -[미국 최대의 CDMO 기업](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=32&selection=22,0,28,2&color=yellow))
+
+{{< adsense-infeed >}}
 
 #### 전방/후방산업
 - **전방산업**: 제약 및 바이오테크 산업
@@ -31,6 +35,8 @@ Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레�
     - **핵심 산업**: 원료 의약품(API) 및 화학 물질 공급
     - **핵심 기업**: BASF (독일, BAS), Lonza Group (스위스, [LONN](/company-analysis/lonn/))
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구개발 (R&D)**: 새로운 의약품 및 치료제 개발
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), Merck (미국, [MRK](/company-analysis/mrk/))
@@ -46,7 +52,11 @@ Catalent는 [CDMO](/industry-study/cdmo/) 사업을 영위하는 주요 플레�
 #### 주요 판매국가
 Catalent의 주요 판매국가는 미국, 유럽, 아시아 태평양 지역입니다. 국가별 매출액 비중은 공개된 자료가 없으나, 주된 매출 국가는 미국과 유럽입니다.
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Moderna (미국, [MRNA](/company-analysis/mrna/))**: mRNA 백신 및 치료제
 - **Teva Pharmaceutical Industries (이스라엘, [TEVA](/company-analysis/teva/))**: 일반 의약품 및 전문 의약품

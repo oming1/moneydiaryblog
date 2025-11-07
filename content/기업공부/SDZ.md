@@ -27,6 +27,8 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업 (Downstream Industry):**
     - **핵심 산업:** 제약 유통 및 소매업
     - **역할:** 최종 소비자에게 의약품을 제공
@@ -61,6 +63,8 @@ Sandoz Group AG는 전 세계적으로 제네릭 의약품 및 [바이오시밀�
 - **Lisdexamfetamine (ADHD 치료제)**
 - **Denosumab 바이오시밀러 (골다공증 치료제)**
 #### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 - **독일:** 주요 매출 국가

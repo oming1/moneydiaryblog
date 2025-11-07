@@ -27,7 +27,11 @@ weight: 705
     - **반도체 제조**: 반도체 칩 및 구성 요소 생산. 주요 기업: TSMC (TW, 2330), Intel (US, [INTC](/company-analysis/intc/)).
     - **광학 부품**: 광학 장치 및 구성 요소 제조. 주요 기업: Lumentum (US, [LITE](/company-analysis/lite/)), II-VI (US, IIVI).
 
+{{< adsense-infeed >}}
+
 **밸류체인**:
+
+{{< adsense-infeed >}}
 
 - **설계 및 개발**: 광전자 솔루션 설계 및 개발. 주요 기업: POET Technologies (CA, [POET](/company-analysis/poet/)).
 - **제조**: 반도체 칩 및 광학 부품 제조. 주요 기업: TSMC (TW, 2330), Intel (US, [INTC](/company-analysis/intc/)).
@@ -38,12 +42,16 @@ weight: 705
 - **광학 엔진**: 100G, 200G, 400G, 800G 트랜시버용 광학 엔진.
 - **광원**: O-밴드 및 C-밴드 엔진.
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**:
 - **캐나다**
 - **미국**
 - **싱가포르**
 - **중국**
 **경쟁업체**:
+
+{{< adsense-infeed >}}
 
 - **Everspin Technologies (US, MRAM)**: 반도체 메모리 솔루션 제공.
 - **Resonant (US, RESN)**: RF 필터 설계 및 개발.

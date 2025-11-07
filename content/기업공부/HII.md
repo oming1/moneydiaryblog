@@ -27,7 +27,9 @@ Huntington Ingalls Industries(HII)는 미국 최대의 군함 건조 회사이�
 1. Newport News Shipbuilding: 핵추진 항공모함과 잠수함 건조
     
 2. Ingalls Shipbuilding: 비핵추진 함정 건조
-    
+
+{{< adsense-infeed >}}
+
 3. Mission Technologies: 무인 시스템, AI, 머신러닝, 사이버보안, 정보/감시/정찰(ISR) 솔루션 제공
 
 HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업으로, 미 해군을 위한 다양한 함정 클래스를 건조해왔습니다. 최근에는 디지털 설계 및 건조 기술을 도입하고 첨단 제조 시설에 투자하는 등 혁신에 주력하고 있습니다.
@@ -103,7 +105,9 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 1. General Dynamics(US, [GD](/company-analysis/gd/)): 잠수함 및 수상함 건조
     
 2. Lockheed Martin(US, [LMT](/company-analysis/lmt/)): 항공우주 및 방위 시스템
-    
+
+{{< adsense-infeed >}}
+
 3. Northrop Grumman(US, [NOC](/company-analysis/noc/)): 항공우주 및 방위 기술
 4. BAE Systems(UK, BA.L): 함정 및 잠수함 건조
     

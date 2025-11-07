@@ -3,12 +3,8 @@ title: 머니다이어리 블로그
 toc: false
 ---
 
-<div class="hx:mt-12 hx:mb-12">
-<h1 class="hx:text-4xl hx:font-bold hx:text-center">시장의 흐름을 읽고 투자 기회를 발견하다</h1>
-</div>
-
 <div class="hx:mb-12 hx:text-center">
-<p class="hx:text-xl hx:text-gray-600 hx:dark:text-gray-400">데이터 기반의 정확한 분석과 깊이 있는 통찰로 여러분의 투자 여정에 함께합니다</p>
+<p class="hx:text-xl hx:text-gray-600 hx:dark:text-gray-400">오늘을 기록하고 내일의 투자를 준비하는 블로그, 머니다이어리(Moneydiary)</p>
 </div>
 
 ## 주요 카테고리
@@ -49,13 +45,5 @@ toc: false
     section="투자아이디어" 
     count="3" >}}
 
-  {{< card link="about" title="블로그 소개" subtitle="머니 다이어리 블로그에 대한 자세한 소개입니다." >}}
+  {{< card link="about" title="블로그 소개" subtitle="시황과 산업, 종목을 공부하며 투자 기회를 찾고 있습니다." >}}
 {{< /cards >}}
-
----
-
-### 📱 실시간 업데이트
-
-최신 시장 동향과 분석 글을 텔레그램 채널을 통해 빠르게 받아보세요!
-
-[📢 머니 다이어리 텔레그램 채널](https://t.me/moneydiary_ko)

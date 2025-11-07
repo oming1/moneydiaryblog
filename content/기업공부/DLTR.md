@@ -38,6 +38,8 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 - 소비재 제조업체: Procter & Gamble (US, [PG](/company-analysis/pg/))
 - 식품 제조업체: General Mills (US, [GIS](/company-analysis/gis/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 소비재 (식품, 청소용품, 건강 및 미용 제품 등)
@@ -50,6 +52,8 @@ Dollar Tree, Inc.는 미국의 다중 가격대 할인 소매점 체인입니다
 Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 ## 주요 자산
 
+{{< adsense-infeed >}}
+
 - 15,115개의 매장 (미국 48개 주와 캐나다)
 - 24개의 물류 센터
 - 온라인 판매 플랫폼 (dollartree.com)
@@ -57,6 +61,8 @@ Dollar Tree는 주로 미국과 캐나다에서 운영됩니다. 구체적인 �
 - Dollar General (US, [DG](/company-analysis/dg/)) - 할인 소매점 체인
 - Walmart (US, [WMT](/company-analysis/wmt/)) - 대형 할인점 체인
 - Target (US, [TGT](/company-analysis/tgt/)) - 대형 할인점 체인
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

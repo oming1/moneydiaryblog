@@ -33,6 +33,8 @@ BMW는 고급 [자동차](/industry-study/자동차/) 및 오토바이를 설계
 - 자동차 부품: Bosch (DE, BOSCH)
 - 금속 공급: ArcelorMittal (LU, [MT](/company-analysis/mt/))
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - BMW 차량 (고급 세단 및 SUV, 매출 비중: 약 70%, 2023년 기준)
@@ -41,6 +43,8 @@ BMW는 고급 [자동차](/industry-study/자동차/) 및 오토바이를 설계
 - 오토바이 (BMW Motorrad, 매출 비중: 약 10%, 2023년 기준)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 다음과 같습니다:
 

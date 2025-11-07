@@ -27,6 +27,8 @@ Lululemon Athletica Inc.는 고급 기능성 운동복, 신발 및 액세서리�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 혁신적 제품 개발: 지속적인 R&D 투자를 통해 고품질의 기능성 소재와 디자인을 개발합니다. 예를 들어, 무선 피트니스 트래커 'Luup'를 개발하여 기술과 피트니스를 접목시켰습니다.
 2. 강력한 브랜드 이미지: 프리미엄 요가웨어 및 애슬레저 브랜드로서의 확고한 포지셔닝을 가지고 있습니다.
 3. 고객 충성도: 고품질 제품과 차별화된 매장 경험을 통해 강력한 고객 기반을 구축했습니다.
@@ -41,7 +43,9 @@ Lululemon Athletica Inc.는 고급 기능성 운동복, 신발 및 액세서리�
     
 2. 스포츠 용품 소매: 스포츠 의류 및 장비 판매
     - Dick's Sporting Goods(US, [DKS](/company-analysis/dks/))
-    
+
+{{< adsense-infeed >}}
+
 3. 전자상거래: 온라인 의류 판매 플랫폼
     
     - Amazon(US, [AMZN](/company-analysis/amzn/))
@@ -50,7 +54,9 @@ Lululemon Athletica Inc.는 고급 기능성 운동복, 신발 및 액세서리�
 1. 섬유 제조: 기능성 원단 생산
     
     - Unifi(US, [UFI](/company-analysis/ufi/))
-    
+
+{{< adsense-infeed >}}
+
 2. 의류 제조: 의류 생산 및 조립
     
     - Gildan Activewear(CA, GIL)
@@ -74,6 +80,8 @@ Lululemon Athletica Inc.는 고급 기능성 운동복, 신발 및 액세서리�
 3. 남성용 운동복: 다양한 스포츠 활동용 (매출 비중: 약 15%, 2023년 기준)
 4. 스포츠 브라: 여성 운동용 내의 (매출 비중: 약 10%, 2023년 기준)
 5. 액세서리: 가방, 모자 등 (매출 비중: 약 10%, 2023년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 고객
 

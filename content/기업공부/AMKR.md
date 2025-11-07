@@ -33,6 +33,8 @@ Amkor Technology는 세계 최대의 반도체 패키징 및 테스트 아웃소
 
 Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종합 솔루션 제공업체로 전환하고 있으며, 특히 AI와 5G 관련 제품에서 높은 성장을 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 1. 후방산업:
@@ -41,7 +43,9 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 스마트폰: Apple (US, [AAPL](/company-analysis/aapl/)), Samsung Electronics (KR, 005930)
     - 데이터센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
     - 자동차: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/))
@@ -58,6 +62,8 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 2. 주류 패키징 솔루션 (리드프레임, 와이어본드 등)
 3. 테스트 서비스 (웨이퍼, 패키지, 시스템 레벨)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 1. 중국 (2024년 3분기 매출 비중: 50.12%)
@@ -73,6 +79,8 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 4. UTAC Holdings (비상장)
 5. ChipMOS Technologies (TW, 8150)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Amkor는 세계 최대 반도체 패키징 및 테스트 아웃소싱 서비스 제공업체 중 하나로 알려져 있습니다.
 
@@ -87,6 +95,8 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 5. 고급 패키징 기술에 대한 지속적인 투자 확대 (2022-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. 기관투자자: 27.29%
 2. 내부자 및 기타 주주: 72.71%

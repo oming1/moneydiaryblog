@@ -28,6 +28,8 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
 
 - [관측 위성](/industry-study/관측-위성/)용 고해상도 광학 카메라, 이미지 센서, 방사선 내성 전자 부품 생산
 
+{{< adsense-infeed >}}
+
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -48,7 +50,9 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
 - **제품 개발**:
     - Teledyne은 첨단 센서 및 데이터 수집 시스템을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 기술
-    
+
+{{< adsense-infeed >}}
+
 - **제조 및 조립**:
     
     - 다양한 전자기기 및 환경 모니터링 장비를 제조합니다.
@@ -60,14 +64,20 @@ Teledyne Technologies는 고급 기술 솔루션을 제공하는 다각화된 �
     
     - 다양한 환경 및 산업 응용 분야에서 사용되는 센서입니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
-    
+
+{{< adsense-infeed >}}
+
 - **데이터 수집 시스템**:
-    
+
+{{< adsense-infeed >}}
+
     - 항공우주 및 방산 분야에서 사용되는 데이터 수집 장비입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 ## 주요 판매 국가
 
 Teledyne Technologies는 주로 미국에서 매출을 올리며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

@@ -36,6 +36,8 @@ weight: 954
     - **핵심 산업**: 스트리밍 서비스, 광고
     - **핵심 기업**: Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/)), Hulu (미국, [DIS](/company-analysis/dis/))
 
+{{< adsense-infeed >}}
+
 #### 밸류체인
 - **콘텐츠 제작 (Content Creation)**:
     - **설명**: 영화, 텔레비전 프로그램, 게임 등 다양한 콘텐츠 제작
@@ -54,7 +56,11 @@ weight: 954
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -62,6 +68,10 @@ weight: 954
 - **Disney (미국, [DIS](/company-analysis/dis/))**: 콘텐츠 제작 및 스트리밍 서비스
 - **Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))**: 스트리밍 서비스
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 워너 브라더스 디스커버리는 글로벌 미디어 및 엔터테인먼트 시장에서 약 15%의 점유율을 차지

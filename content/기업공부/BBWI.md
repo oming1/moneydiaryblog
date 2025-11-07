@@ -50,6 +50,8 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 - 핸드 소프 및 핸드 크림
 - 홈 프래그런스 (캔들, 월플라워)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 미국과 캐나다를 중심으로 전 세계 6개 대륙에서 사업을 전개하고 있습니다.
@@ -59,7 +61,11 @@ Bath & Body Works는 개인용품 및 홈 프래그런스 제품을 전문으로
 - The Body Shop (영국, 비상장) - 바디 케어 및 화장품
 - Ulta Beauty (미국, [ULTA](/company-analysis/ulta/)) - 뷰티 제품 소매
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았지만, Bath & Body Works는 미국 내 최대 규모의 바디 케어 전문점 체인으로 알려져 있습니다.
 ## 최근 3년 내 주요 이슈

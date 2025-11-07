@@ -123,6 +123,8 @@ AECOM은 전 세계 52개국에서 사업을 운영하고 있으며, 주요 매�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 
 - 물 인프라: 2024년 기준 시장 점유율 1위
@@ -147,6 +149,8 @@ AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 
 AECOM의 주요 주주와 지분율은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. **Vanguard Group Inc.** (11.66%)
     
 2. **BlackRock Inc.** (9.17%)
@@ -162,5 +166,7 @@ AECOM의 주요 주주와 지분율은 다음과 같습니다:
 3. **Global X U.S. Infrastructure Development ETF - [PAVE](/company-analysis/pave/)**
     
 4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - GRID**
-    
+
+{{< adsense-infeed >}}
+
 5. **Invesco Water Resources ETF - PHO**

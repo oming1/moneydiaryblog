@@ -20,11 +20,17 @@ weight: 579
 
 ## 영위 사업
 
+{{< adsense-infeed >}}
+
 Moog Inc.는 정밀 모션 제어 제품, 시스템 및 서보밸브를 설계, 제조 및 통합하는 글로벌 기업입니다. 주요 사업 영역으로는 항공기 제어, 우주 및 방위 제어, 산업 제어, 의료 기기 등이 있습니다.
+
+{{< adsense-infeed >}}
 
 - 우주방산, 산업재 제작사로 발사체, [인공위성](/industry-study/인공위성/),우주선용 추진 시스템 및 [액추에이터](/industry-study/액추에이터/) 제조
 
 ## 전방/후방 산업
+
+{{< adsense-infeed >}}
 
 - 전방 산업:
     
@@ -39,8 +45,12 @@ Moog Inc.는 정밀 모션 제어 제품, 시스템 및 서보밸브를 설계, 
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 항공기 제어 시스템:
-    
+
+{{< adsense-infeed >}}
+
     - Moog는 항공기용 비행 제어 시스템을 설계 및 제조합니다.
     - 대표 기업: Parker Hannifin (미국, PH), Woodward (미국, [WWD](/company-analysis/wwd/))
 - 산업용 로봇 및 자동화:

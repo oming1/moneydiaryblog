@@ -41,6 +41,8 @@ Cloudflare, Inc.(NYSE: NET)는 전 세계 기업들에게 콘텐츠 전송 네�
 - Cloudflare for Teams: 제로 트러스트 보안 솔루션, 매출의 약 15% (2024년 기준)
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 영국, 독일, 일본, 호주, 싱가포르, 중국, 인도
 ## 경쟁업체
 - Akamai Technologies(US, [AKAM](/company-analysis/akam/)) - CDN 및 보안 서비스
@@ -53,7 +55,11 @@ Cloudflare, Inc.(NYSE: NET)는 전 세계 기업들에게 콘텐츠 전송 네�
 
 Cloudflare는 2024년 기준 전 세계 CDN 시장에서 약 15%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 중소기업 시장에서 강세를 보이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - AI 기반 보안 솔루션 'Cloudflare AI' 출시 (2024년)
 - 글로벌 네트워크 확장: 300개 이상의 도시에 데이터 센터 구축 완료 (2023년)
@@ -61,7 +67,11 @@ Cloudflare는 2024년 기준 전 세계 CDN 시장에서 약 15%의 점유율을
 - Zero Trust 보안 솔루션 강화를 위한 Area 1 Security 인수 (2022년)
 - 연간 반복 수익(ARR) 10억 달러 달성 (2024년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)

@@ -29,10 +29,14 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
     - **역할:** 최종 소비자에게 의약품을 제공
     - **관련 기업:** CVS Health (미국, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (미국, [WBA](/company-analysis/wba/))
 
+{{< adsense-infeed >}}
+
 - **후방산업 (Upstream Industry):**
     - **핵심 산업:** 원료 의약품 제조
     - **역할:** 의약품 제조에 필요한 원료 제공
     - **관련 기업:** Lonza Group (스위스, [LONN](/company-analysis/lonn/)), Catalent (미국, [CTLT](/company-analysis/ctlt/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 - **연구 및 개발 (R&D):**
@@ -52,6 +56,8 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
     - **설명:** 의약품을 최종 소비자에게 판매
     - **대표회사:** CVS Health (미국, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (미국, [WBA](/company-analysis/wba/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 - **Lyrica (신경통 치료제)**
 - **Lipitor (고지혈증 치료제)**
@@ -66,6 +72,8 @@ Viatris Inc.는 전 세계적으로 헬스케어 제품을 제공하는 기업�
 - **독일:** 주요 매출 국가
 
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Takeda Pharmaceutical (일본, TAK)**
     - **경쟁 제품:** Entyvio (염증성 장질환 치료제)

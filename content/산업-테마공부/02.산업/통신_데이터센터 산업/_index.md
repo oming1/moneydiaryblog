@@ -5,7 +5,7 @@ lastmod: 2025-11-04T06:50:28+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
+weight: 2003
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
@@ -14,3 +14,4 @@ weight: 1
 # 통신_데이터센터 산업
 
 이 섹션의 내용입니다.
+

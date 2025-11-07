@@ -33,12 +33,18 @@ Stitch Fix는 데이터 과학과 인공지능(AI)을 활용하여 고객의 체
   
 픽스는 알고리즘에 의해 정보를 제공하고 StitchFix 스타일리스트가 고객에게 배송하는 맞춤형 의류, 신발, 액세서리 모음이 들어 있는 Stitch Fix 브랜드 상자다.
 
+{{< adsense-infeed >}}
+
 1. 개인화된 스타일링 서비스 (Fix)
 2. 직접 구매 옵션 (Shop Your Looks)
 3. 자체 브랜드 의류 판매 (Hybrid Designs)
 4. 구독 기반 서비스 (Style Pass)
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 - 의류 제조업체
@@ -71,6 +77,8 @@ Stitch Fix는 데이터 과학과 인공지능(AI)을 활용하여 고객의 체
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

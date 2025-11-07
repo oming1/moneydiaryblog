@@ -42,12 +42,16 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 2. 신약 후보 물질: 전임상 및 임상 단계의 다양한 파이프라인 (매출 비중: 약 30%, 2023년 기준)
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 1. 제약 회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NOVN](/company-analysis/novn/))
 2. 바이오테크 기업: Moderna(US, [MRNA](/company-analysis/mrna/)), BioNTech(US, [BNTX](/company-analysis/bntx/))
 3. 학술 기관: Harvard University, MIT
 4. 정부 연구소: National Institutes of Health(NIH)
 5. 재료 과학 기업: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 유럽, 일본, 중국, 한국 등 글로벌 시장
 
@@ -59,6 +63,8 @@ Schrödinger, Inc.는 물리학 기반의 컴퓨터 플랫폼을 개발하여 �
 5. Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)): 컴퓨터 기반 약물 발견
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. Novartis AG와의 연구 협력 및 라이선스 계약 체결, 복수의 개발 후보 물질 진전 (2022)
 2. 신규 임상 단계 프로그램 진입으로 파이프라인 확장 (2023)

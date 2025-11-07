@@ -34,6 +34,8 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 - **자동차 산업**: Yaskawa의 로봇과 모션 제어 시스템은 자동차 제조 공정에서 사용됩니다. 주요 기업: Toyota (JP, 7203), Ford (US, [F](/company-analysis/f/)).
 - **전자 산업**: 반도체 제조 공정에서 Yaskawa의 모션 제어 시스템이 사용됩니다. 주요 기업: [Samsung](/industry-study/samsung/) (KR, 005930), Intel (US, [INTC](/company-analysis/intc/)).
 
+{{< adsense-infeed >}}
+
 #### 후방산업
 
 - **전자 부품 산업**: Yaskawa의 제품에 필요한 전자 부품을 공급합니다. 주요 기업: TDK (JP, 6762), Murata Manufacturing (JP, 6981).
@@ -45,6 +47,8 @@ Yaskawa Electric Corporation은 일본의 다국적 전기 장비 제조업체�
 - **제조**: 제품을 조립하고 생산. 대표 기업: Yaskawa Electric (JP, 6506), [Fanuc](/company-analysis/fanuc/) (JP, 6954).
 - **마케팅 및 판매**: 제품을 시장에 출시하고 판매. 대표 기업: Siemens (DE, [SIE](/company-analysis/sie/)), ABB (CH, ABBN).
 - **서비스**: 제품의 유지보수 및 애프터서비스 제공. 대표 기업: Yaskawa Electric (JP, 6506), Schneider Electric (FR, [SU](/company-analysis/su/)).
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 - 서보 모터 및 앰프

@@ -135,6 +135,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 희토류: MP Materials(US, [MP](/company-analysis/mp/)).
 - 반도체: TSMC(TW, [TSM](/company-analysis/tsm/)).
 
@@ -169,6 +171,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 - **희토류 자석:** HDD 헤드, 공급지: 중국, 공급업체 MP Materials(US, [MP](/company-analysis/mp/)).
 - **알루미늄 플래터:** 디스크, 공급지: 미국, 공급업체 Alcoa(US, [AA](/company-analysis/aa/)).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -212,6 +216,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 ### 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 - 매출 성장률: 3년 CAGR 5% (2021-2023).
 - 영업 이익률: 10% (2023년).
 - 주요 성장 동력: 고용량 HDD 수요, 클라우드 확대.
@@ -224,6 +230,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 - 2023년: HAMR 30TB HDD 출시.
 - 2022년: Lyve Cloud 론칭.
 - 2021년: SMR 기술 확대.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -238,6 +246,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 ---
 
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 **직접 관련 ETF:**
 

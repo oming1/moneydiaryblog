@@ -55,7 +55,11 @@ Unusual Machines의 핵심 경쟁력은 다음과 같습니다:
 ## 주요 판매국가
 미국, 캐나다
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - DJI(CN, DJI) - 상업용 및 소비자용 드론
 - Parrot(FR, PARRO) - 상업용 및 소비자용 드론
@@ -80,6 +84,8 @@ Unusual Machines의 정확한 글로벌 시장 점유율 데이터는 제공되�
 - Knighthead Capital Management (59.30%)
 - BlackRock, Inc. (6.40%)
 - The Vanguard Group (4.57%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

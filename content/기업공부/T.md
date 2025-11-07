@@ -76,7 +76,9 @@ AT&T Inc.는 1885년 설립된 [미국 최대 통신 서비스 기업] 중 하�
 4. **전략적 기술 파트너십**: Ericsson과의 140억 달러 5년 계약으로 차세대 Open RAN 기술 확보 및 네트워크 현대화
     
 5. **융합 서비스 모델**: 40% 이상의 광섬유 가정이 AT&T 무선 서비스도 함께 이용하는 번들링 효과로 고객 이탈률 감소
-    
+
+{{< adsense-infeed >}}
+
 6. **안정적 배당 정책**: 4% 배당수익률과 분기별 배당 지급으로 수익 추구 투자자들의 지속적 관심 확보
 
 ---
@@ -112,6 +114,8 @@ AT&T는 제조업체가 아닌 서비스 제공업체로서 다음과 같은 서
 ## 전방산업 / 후방산업
 
 **전방산업 (서비스 사용 고객):**
+
+{{< adsense-infeed >}}
 
 - 소비자: 개인 무선, 인터넷, TV 서비스 사용자
 - 기업: Apple(US, [AAPL](/company-analysis/aapl/)), Microsoft(US, [MSFT](/company-analysis/msft/)), Amazon(US, [AMZN](/company-analysis/amzn/)) - 기업용 통신 서비스

@@ -26,6 +26,8 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 2. 통합 광고 및 창의성 주도 솔루션(IA&C): McCann Worldgroup, IPG Health, MullenLowe Group, FCB 등을 포함하며 광고, 기업 및 브랜드 아이덴티티 서비스, 전략 컨설팅 등을 제공합니다.
 3. 전문 커뮤니케이션 및 체험 솔루션(SC&E): Weber Shandwick, Golin 등을 포함하며 글로벌 PR, 스포츠 및 엔터테인먼트 마케팅, 전략 컨설팅 등을 제공합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 ## 후방산업
@@ -38,11 +40,15 @@ Interpublic Group은 세 개의 주요 사업 부문을 운영합니다:
 - 스포츠 용품 제조업체: Nike(US, [NKE](/company-analysis/nke/))
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 전략 및 기획: Interpublic Group
 2. 크리에이티브 개발: McCann Worldgroup, FCB
 3. 미디어 구매 및 계획: IPG Mediabrands
 4. 데이터 및 분석: Acxiom
 5. PR 및 커뮤니케이션: Weber Shandwick, Golin
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 - 광고 및 마케팅 서비스

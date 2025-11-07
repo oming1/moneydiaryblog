@@ -22,7 +22,9 @@ weight: 507
 - **전방산업**: 소매업, 자동차 판매 및 서비스
     - **핵심 산업 및 역할**: 자동차 딜러, 온라인 자동차 판매 플랫폼 등. 이들은 Lucid 차량을 최종 소비자에게 판매합니다.
     - **관련 기업**: AutoNation Inc. (미국, [AN](/company-analysis/an/)), Carvana Co. (미국, [CVNA](/company-analysis/cvna/))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**: 배터리 제조, 전자 부품 공급업체
     - **핵심 산업 및 역할**: 배터리 제조업체와 전자 부품 공급업체는 Lucid 차량의 핵심 부품을 제공합니다.
     - **관련 기업**: Panasonic Corporation (일본, 6752), [LG에너지솔루션](/industry-study/lg에너지솔루션/) (한국, 373220)
@@ -50,6 +52,8 @@ weight: 507
 - **Tesla Inc. (미국, [TSLA](/company-analysis/tsla/))**: 전기차
 - **Rivian Automotive Inc. (미국, [RIVN](/company-analysis/rivn/))**: 전기차
 - **NIO Inc. (중국, [NIO](/company-analysis/nio/))**: 전기차
+
+{{< adsense-infeed >}}
 
 #### 산업 내 글로벌 시장 점유율
 - **Lucid Group**: 글로벌 전기차 시장에서 약 1%의 점유율 (2023년 기준)

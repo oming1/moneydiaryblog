@@ -21,12 +21,18 @@ weight: 953
 Sector: Consumer Defensive (소비자 방어주)  
 Industry: Pharmaceutical Retailers (제약소매업)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방약 판매, 일반 의약품 및 건강 관련 제품 판매, 헬스케어 서비스 제공 등의 사업을 영위하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 소비자: Amazon (국가:US, [AMZN](/company-analysis/amzn/))
 - 헬스케어 서비스: UnitedHealth Group (국가:US, [UNH](/company-analysis/unh/))
@@ -40,6 +46,8 @@ Walgreens Boots Alliance는 미국 최대의 약국 체인 중 하나로, 처방
 - 일반 의약품 및 건강 관련 제품
 - 뷰티 제품
 - 헬스케어 서비스
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 

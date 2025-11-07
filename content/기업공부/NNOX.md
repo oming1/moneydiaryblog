@@ -49,6 +49,8 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 의료서비스: 병원, 진단센터, 원격의료 서비스 제공업체
     
 - 제약산업: 신약 개발 및 임상시험을 위한 영상 진단 활용
@@ -73,6 +75,8 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 12. Nanox.ARC: 디지털 멀티소스 3D 토모신테시스 영상 시스템 (의료 영상 진단용)
     
 13. Nanox.AI: 심장, 뼈, 간 질환 진단을 위한 AI 솔루션
@@ -94,13 +98,17 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 의료 영상 기술을 개발�
 18. Philips Healthcare(NL, [PHG](/company-analysis/phg/)): 의료 영상 및 정보 시스템
     
 19. Fujifilm Holdings(JP, 4901): 의료 영상 및 정보 시스템
-    
+
+{{< adsense-infeed >}}
+
 20. Canon Medical Systems(JP, 7751): 의료 영상 장비 및 솔루션
 ## 산업 내 글로벌 시장 점유율
 
 Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 글로벌 시장 점유율은 미미한 수준입니다. 그러나 냉음극 X선 기술과 AI 기반 솔루션을 통해 빠르게 성장하고 있으며, 특히 비용 효율적인 의료 영상 시장에서 잠재력을 인정받고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 21. Nanox.ARC 시스템 47대 배포 진행 중 (2024년)
     

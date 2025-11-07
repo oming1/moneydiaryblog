@@ -64,6 +64,8 @@ Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주
 5. Hologic(US, HOLX)
 ## 최근 주요 이슈
 
+{{< adsense-infeed >}}
+
 1. 수면 및 호흡기 케어 사업부 리콜 문제 해결 진행 중 (2021-2023)
 2. 디지털 헬스케어 솔루션 강화 (2022-2023)
 3. 지속가능성 및 순환경제 이니셔티브 추진 (2023)
@@ -73,6 +75,8 @@ Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주
 2. Vanguard Group Inc. (6.44%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares Global Healthcare ETF - IXJ
 2. Vanguard Health Care ETF - VHT

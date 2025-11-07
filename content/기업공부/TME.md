@@ -35,6 +35,8 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. **광범위한 사용자 기반**: 중국 내 8억 명 이상의 MAU를 보유한 강력한 플랫폼
     
 2. **다양한 서비스 포트폴리오**: 음악 스트리밍부터 소셜 엔터테인먼트까지 폭넓은 서비스 제공
@@ -47,6 +49,8 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 ## 전방/후방산업
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - **음악 제작 및 배급**: Universal Music Group(NL), Sony Music Entertainment(JP), Warner Music Group(US, WMG)
     

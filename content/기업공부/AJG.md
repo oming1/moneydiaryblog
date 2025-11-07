@@ -35,7 +35,11 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 7. 고액 자산가 대상 서비스: 특화된 보험 상품 및 자문 제공
 8. 기술 기반 서비스: AI 및 데이터 분석을 활용한 보험 서비스 개선
 
+{{< adsense-infeed >}}
+
 회사는 중형 시장 기업에 중점을 두고 있으며, 52,000명 이상의 직원을 고용하고 있습니다. 지속적인 인수 전략을 통해 사업 영역을 확장하고 있으며, 최근에는 Shepard Insurance Group과 Risk International 등을 인수했습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 ## 전방산업
@@ -44,8 +48,12 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 - 개인 보험 수요 산업: 부동산, 자동차, 의료 등
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 보험 상품 공급 산업: AIG (US, [AIG](/company-analysis/aig/)), Chubb (US, [CB](/company-analysis/cb/)), Allianz (독일, ALV.DE)
 - 리스크 평가 및 데이터 분석 산업: Verisk Analytics (US, VRSK), Moody's (US, MCO)
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -77,6 +85,8 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 8. AssuredPartners (비상장) (보험 중개)
 9. Lockton Companies (비상장) (보험 중개 및 리스크 관리)
 10. NFP Corp (비상장) (보험 중개 및 컨설팅)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Arthur J. Gallagher & Co.는 세계 3대 보험 중개 회사 중 하나로 알려져 있습니다.

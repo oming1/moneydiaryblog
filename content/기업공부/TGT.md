@@ -24,6 +24,8 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 ## 영위사업
 Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본사는 미네소타주 미니애폴리스에 위치하고 있습니다. 미국에서 여덟 번째로 큰 유통업체이며, 할인점과 하이퍼마켓 체인을 운영합니다. Target은 고급스러운 트렌드 상품을 저렴한 가격에 제공하는 데 중점을 두고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 - 일반 상품 및 식료품 소매
 - 온라인 쇼핑 및 배송 서비스
@@ -36,6 +38,8 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 - 역할: 소비자에게 직접 판매
 - 주요 경쟁사: Walmart (US, [WMT](/company-analysis/wmt/)), Amazon (US, [AMZN](/company-analysis/amzn/))
 
+{{< adsense-infeed >}}
+
 후방산업:
 - 역할: 제품 공급
 - 제조업체: Procter & Gamble (US, [PG](/company-analysis/pg/)), Unilever (UK, UL)
@@ -47,12 +51,16 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 - 식료품 및 건강/미용 제품
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Target은 미국 전역에서 운영되며, 2023년 기준으로 1,948개의 매장을 보유하고 있습니다.
 ## 주요 자산
 
 - 1,948개의 매장 (2023년 기준)
 - 41개의 물류 센터
 - 강력한 온라인 쇼핑 플랫폼
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -62,6 +70,8 @@ Target은 미국 전역에서 운영되며, 2023년 기준으로 1,948개의 매
 - Dollar Tree (US, [DLTR](/company-analysis/dltr/)) - 할인 소매점 체인
 - Family Dollar (Dollar Tree의 자회사) - 할인 소매점 체인
 - Dollar General (US, [DG](/company-analysis/dg/)) - 할인 소매점 체인
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

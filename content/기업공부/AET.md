@@ -24,7 +24,9 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
 
 ## 전방/후방 산업
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 의료 서비스 및 보험 제공
     - **역할**: 최종 소비자에게 건강 관리 및 보험 솔루션 제공
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Cigna (미국, [CI](/company-analysis/ci/))
@@ -62,12 +64,16 @@ Aetna는 건강 보험 및 관련 서비스 제공업체로, 의료, 치과, 약
 
 Aetna는 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중요한 매출을 올리고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Cigna** (미국, [CI](/company-analysis/ci/)) - 경쟁 제품: 건강 보험
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Aetna는 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 ## 최근 3년 내 주요 이슈

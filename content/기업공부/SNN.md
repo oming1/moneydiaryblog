@@ -37,6 +37,8 @@ Smith & Nephew는 정형외과, 스포츠 의학 및 이비인후과(ENT), 고�
 - 병원 및 의료기관
 - 의사 및 의료 전문가
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 연구개발: Smith & Nephew (자체 R&D)
@@ -51,10 +53,14 @@ Smith & Nephew는 정형외과, 스포츠 의학 및 이비인후과(ENT), 고�
 - 스포츠 의학 및 관절경 기술
 - 고급 상처 관리 제품
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국, 유럽, 아시아 태평양, 중동, 아프리카
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Medtronic(US, [MDT](/company-analysis/mdt/))
 - Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))

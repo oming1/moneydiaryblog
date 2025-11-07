@@ -20,6 +20,8 @@ LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기�
 마치 우체통에 넣는 엽서처럼 작고 간단한 메시지를 아주 멀리, 자주가 아니라 ‘가끔’ 보내는 데 특화된 우편 서비스”입니다. 대용량 택배(영상/음성)는 못 보내지만, 전기·수도 미터값, 온도/진동 같은 상태 알림은 배터리를 아끼며 수년간 꾸준히 보냅니다.
 이러한 LoRa는 평지나 도심 장애물 너머까지 원격 계측·원격제어(telemetry)에 잘 쓰이며, 시계(視界) 밖 거리에서도 신뢰성 있게 센서 데이터를 전송할 수 있다는 점이 강점입니다.
 
+{{< adsense-infeed >}}
+
 - LoRa = 반도체/무선 물리계층(칩·전파 방식)
 - LoRaWAN = LoRa를 이용해 장치-게이트웨이-네트워크 서버-앱 서버까지 이어주는 개방형 네트워크 프로토콜(표준 규격)
 
@@ -77,6 +79,8 @@ LoRa는 Long Range의 줄임말로, 아주 [적은 전력으로도 센서·기�
     - 지연(latency)·규제: 지역별 송신 의무 휴지(duty cycle) 등으로 실시간 제어엔 제약
     - 혼잡/용량 설계 필요: 단말 밀집 환경에서는 게이트웨이 수, 채널 계획, ADR 최적화가 중요
 
+{{< adsense-infeed >}}
+
 ---
 ## 다른 기술과의 비교·선정 팁
 
@@ -123,10 +127,14 @@ LoRa는 Semtech([SMTC](/company-analysis/smtc/))가 개발한 비면허 대역 �
 - Actility(Actility) - ThingPark 기반 LoRaWAN 네트워크 서버·플랫폼 제공, 사업자·기업 사설망 운영 지원.
     
 - Senet(Senet) - 북미 LoRaWAN 공용/사설망 운영사, 유틸리티·자산추적 등 대규모 배치 지원.
-    
+
+{{< adsense-infeed >}}
+
 - MachineQ([CMCSA](/company-analysis/cmcsa/)) - Comcast 산하 LoRaWAN 네트워크·디바이스 관리 플랫폼 제공, 엔터프라이즈 IoT 서비스 전개.
 - LORIOT(LORIOT) - 글로벌 LoRaWAN 네트워크 서버/매니지드 서비스 제공, 다중 리전 사설망 구축 지원.
     
 - ChirpStack(ChirpStack) - 오픈소스 LoRaWAN 네트워크 서버 스택 제공, 기업·통신사 맞춤 사설망 구축에 활용.
-    
+
+{{< adsense-infeed >}}
+
 - Netmore Group(Netmore Group) - 유럽 중심 LoRaWAN 네트워크 운영·로밍 제공, 스마트미터·도시 인프라 적용 확대.

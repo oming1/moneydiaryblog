@@ -21,13 +21,19 @@ weight: 744
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Rigetti는 초전도 큐비트 기술을 활용한 통합 [양자컴퓨팅](/industry-study/양자컴퓨팅/) 시스템을 개발하고 배포하는 기업입니다.
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 - Ankaa 시리즈 양자 프로세서
 - Forest 클라우드 컴퓨팅 플랫폼
 - Quil (Quantum Instruction Language) 프로그래밍 언어
 - 양자 알고리즘 개발 도구
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -40,6 +46,8 @@ Rigetti는 초전도 큐비트 기술을 활용한 통합 [양자컴퓨팅](/ind
 - D-Wave Systems(US, [QBTS](/company-analysis/qbts/))
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Rigetti는 초전도 큐비트 기반 양자 컴퓨팅 분야에서 주요 플레이어 중 하나입니다.
 ## 최근 3년 내 주요 이슈

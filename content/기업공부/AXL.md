@@ -20,6 +20,8 @@ weight: 106
 **섹터(Sector):** Industrials - 산업재  
 **산업(Industry):** Auto Parts - 자동차 부품
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 영위사업
@@ -105,6 +107,8 @@ weight: 106
 **제조 및 조립 단계:**
 
 - AXL(US, [AXL](/company-analysis/axl/)): 구동계 및 차체 부품 제조
+
+{{< adsense-infeed >}}
 
 **유통 및 판매 단계:**
 

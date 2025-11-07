@@ -32,6 +32,8 @@ United Rentals, Inc.(NYSE: URI)는 세계 최대의 장비 렌탈 회사입니�
 
 United Rentals의 핵심 경쟁력은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 규모의 우위: 세계 최대 장비 렌탈 회사로서의 구매력과 효율성
 2. 광범위한 네트워크: 1,600개 이상의 지점을 통한 신속한 서비스 제공 능력
 3. 다양한 장비 포트폴리오: 4,700종 이상의 장비로 원스톱 솔루션 제공
@@ -43,6 +45,8 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 ## 전방/후방산업
 
 전방산업:
+
+{{< adsense-infeed >}}
 
 - 건설업: Caterpillar(US, [CAT](/company-analysis/cat/)), Deere & Company(US, [DE](/company-analysis/de/))
 - 산업 제조: General Electric(US, [GE](/company-analysis/ge/)), Siemens(DE, [SIE](/company-analysis/sie/))
@@ -67,7 +71,11 @@ United Rentals의 핵심 경쟁력은 다음과 같습니다:
 - 특수 장비 렌탈 : 트렌치 안전 장비, 유체 솔루션 등, 매출의 약 20% (2024년 기준)
 - 전력 및 HVAC 장비 렌탈: 발전기, 에어컨 등, 매출의 약 10% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - 건설 회사: Turner Construction, Bechtel Corporation
 - 산업 제조업체: General Electric(US, [GE](/company-analysis/ge/)), Boeing(US, [BA](/company-analysis/ba/))

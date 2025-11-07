@@ -133,9 +133,13 @@ Entegris, Inc.(US)는 **반도체 칩을 만드는 공정 전반에서 ‘보이
 
 부품·원료 공급 → Entegris 합성·가공 → 모듈 조립·시험 → 글로벌 물류 → 팹(Fab) 설치·서비스 → 교체용 소모품 반복 매출
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 제품
+
+{{< adsense-infeed >}}
 
 - **FiltAir Series**: 미세·초미세입자 걸러내는 다층 멤브레인 필터 (매출 35%)
 - **PureChem Slurry**: CMP 공정용 슬러리 (매출 25%)

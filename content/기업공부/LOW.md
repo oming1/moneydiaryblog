@@ -36,10 +36,14 @@ Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소�
 - 제품 조달 및 유통:
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 제품 조달 및 유통:
     - Lowe's는 다양한 공급업체로부터 제품을 조달하여 매장과 온라인에서 판매합니다.
     - 대표 기업: Home Depot (미국, [HD](/company-analysis/hd/)), Ace Hardware (미국, 비상장)
-    
+
+{{< adsense-infeed >}}
+
 - 고객 서비스 및 지원:
     
     - 고객을 위한 설치 서비스 및 기술 지원을 제공합니다.
@@ -55,6 +59,8 @@ Lowe's는 주택 개조 및 건축 자재를 전문으로 하는 미국의 소�
 ## 주요 판매 국가
 Lowe's는 미국을 중심으로 사업을 운영하며, 캐나다와 멕시코에도 지점을 두고 있습니다. 최근에는 캐나다 사업을 Sycamore Partners에 매각하였습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - The Home Depot (미국, [HD](/company-analysis/hd/)) - 주택 개조 및 건축 자재 소매업체
@@ -64,7 +70,11 @@ Lowe's는 미국을 중심으로 사업을 운영하며, 캐나다와 멕시코�
 ## 산업 내 글로벌 시장 점유율
 Lowe's는 미국 내 두 번째로 큰 하드웨어 체인으로, 시장 점유율은 약 10% 이상으로 추정됩니다. The Home Depot가 가장 큰 시장 점유율을 보유하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 캐나다 사업을 Sycamore Partners에 $400 million에 매각 (2023년)
 - COVID-19 팬데믹 동안 온라인 판매 증가로 인한 실적 향상 (2021년)

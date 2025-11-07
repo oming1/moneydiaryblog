@@ -38,6 +38,8 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
 - **서비스 제공**: 금융 서비스 제공 및 관리. 대표 기업: Capital One, Wells Fargo (미국, [WFC](/company-analysis/wfc/)).
 - **기술 지원**: 금융 서비스 제공을 위한 기술 지원. 대표 기업: Capital One, Fiserv (미국, FISV).
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 
 - **신용카드**: 다양한 혜택과 리워드를 제공하는 신용카드 (매출 비중: 60%, 2023년 기준).
@@ -45,8 +47,12 @@ Capital One Financial Corporation은 신용카드사로 다양한 금융 제품�
 - **저축 및 체크 계좌**: 다양한 저축 및 체크 계좌 상품 (매출 비중: 15%, 2023년 기준).
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **주요 판매국가**: 미국
     - **미국**: 매출 비중 100% (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/))**: 신용카드 및 대출 서비스

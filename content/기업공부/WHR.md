@@ -27,6 +27,8 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 4. MDA 아시아
 5. 소형 가전제품(SDA) 글로벌
 
+{{< adsense-infeed >}}
+
 주요 제품 카테고리는 냉장고, 세탁기, 조리기구, 식기세척기 등입니다. 또한 KitchenAid 스탠드 믹서와 같은 소형 가전제품도 생산합니다.Whirlpool, KitchenAid, Maytag, Consul, Brastemp 등의 브랜드를 보유하고 있으며, 전 세계적으로 70개 이상의 제조 및 기술 연구 센터를 운영하고 있습니다.2022년에는 InSinkErator를 인수하여 음식물 처리기와 즉석 온수기 제품군을 확장했습니다.
 
 ## 전방/후방산업
@@ -36,7 +38,11 @@ Whirlpool Corporation은 세계적인 주방 가전 및 세탁 가전 제조업�
 - 소매업: Walmart (US, [WMT](/company-analysis/wmt/)), Best Buy (US,[BBY](/company-analysis/bby/)])
 - 건설업: Lennar Corporation (US, [LEN](/company-analysis/len/))
 
+{{< adsense-infeed >}}
+
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 원자재 공급업체: Alcoa (US, [AA](/company-analysis/aa/))
 - 반도체 제조업체: Texas Instruments (US, [TXN](/company-analysis/txn/))

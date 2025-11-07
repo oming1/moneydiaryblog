@@ -68,7 +68,11 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
     
 4. **유지보수 서비스 제공**: 풍력 터빈 블레이드의 수리 및 유지보수 솔루션 제공
 
+{{< adsense-infeed >}}
+
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - **[풍력](/industry-study/풍력/) 터빈 블레이드**: 다양한 크기와 사양의 맞춤형 블레이드 (매출의 약 90%)
     
@@ -89,7 +93,9 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 ## 경쟁업체
 
 1. LM Wind Power(DK): GE Renewable Energy의 자회사로 풍력 블레이드 제조 전문 기업
-    
+
+{{< adsense-infeed >}}
+
 2. Siemens Gamesa Renewable Energy(DE): 통합적인 풍력 발전 솔루션 제공 업체
     
 3. Vestas Wind Systems(DK): 세계 최대의 풍력 터빈 제조사 중 하나

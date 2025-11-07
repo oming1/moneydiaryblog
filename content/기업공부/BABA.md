@@ -49,7 +49,9 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. 데이터 및 AI 기술: 빅데이터 분석과 AI 기술을 통한 서비스 최적화
     
 4. 물류 네트워크: Cainiao를 통한 효율적인 물류 시스템 구축
-    
+
+{{< adsense-infeed >}}
+
 5. 혁신 중심 문화: DAMO Academy 등을 통한 지속적인 R&D 투자
 ## 전방/후방산업
 
@@ -89,6 +91,8 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 4. 디지털 미디어 및 엔터테인먼트: Youku 등 (2024년 매출의 약 5%)
 5. 혁신 이니셔티브 및 기타: DAMO Academy 등 (2024년 매출의 약 5%)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 중국(80%), 동남아시아(10%), 기타 국제 시장(10%) (2024년 기준)
@@ -102,8 +106,12 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. Pinduoduo(US, [PDD](/company-analysis/pdd/)): 중국 소셜 커머스
     
 4. Tencent(HK, 0700): 중국 디지털 서비스 및 게임
-    
+
+{{< adsense-infeed >}}
+
 5. Microsoft(US, [MSFT](/company-analysis/msft/)): 클라우드 컴퓨팅 (Azure)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -121,6 +129,8 @@ Alibaba는 2024년 기준 글로벌 전자상거래 시장에서 약 28%의 점�
 5. Ant Group IPO 중단 및 금융 사업 재편 (2022년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. SoftBank Group (24.8%)
     

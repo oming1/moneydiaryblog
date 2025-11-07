@@ -217,6 +217,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 - 주요 공급지: 독일, 미국
 - 주요 공급업체: Evonik(DE, EVK), BASF(DE, BAS)
 
+{{< adsense-infeed >}}
+
 **전자 부품:**
 
 - 사용처: 로봇 제어 시스템 및 센서
@@ -301,6 +303,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 - Vicarious Surgical(US, RBOT) - 최소침습 로봇 수술
 - Auris Health(US, GOOG) - 기관지 로봇 수술 (구글 인수)
 
+{{< adsense-infeed >}}
+
 **AI 의료 기술 기업:**
 
 - Nuance Communications(US, [MSFT](/company-analysis/msft/)) - 의료 AI 음성인식 (마이크로소프트 인수)
@@ -384,6 +388,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 
 ## 19. 주요 주주 (지분율)
 
+{{< adsense-infeed >}}
+
 **인수 전 주주 구조 (2024년 말 기준):**
 
 - **내부 주주 (경영진)**: 0.81%
@@ -457,6 +463,8 @@ Monogram Technologies Inc.는 AI 기반 로봇 수술 시스템을 개발하는 
 - 인수 승인 절차 및 완료 시점 모니터링 필요
 
 **장기적 관점:**
+
+{{< adsense-infeed >}}
 
 - 인수 완료 후 직접 투자 불가하나, Zimmer Biomet(ZBH) 주식을 통한 간접 투자 가능
 - 정형외과 로봇 시장 성장에 따른 Zimmer Biomet 수혜 예상

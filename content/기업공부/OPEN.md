@@ -34,6 +34,8 @@ Opendoor Technologies Inc.는 미국에서 주거용 부동산 거래를 위한 
 ### 밸류체인
 Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플랫폼 운영을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **소프트웨어 개발:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 부동산 거래 플랫폼 개발
 - **부동산 구매 및 판매:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 주택 구매 및 판매
 - **부동산 서비스 제공:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 타이틀 보험, 에스크로 서비스 등 제공
@@ -43,6 +45,8 @@ Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플�
 - **부동산 서비스:** 타이틀 보험, 에스크로 서비스 등 (매출 비중: 2023년 기준 20%)
 
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 - 미국 (주요 매출 국가)
 ### 경쟁업체

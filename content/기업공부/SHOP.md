@@ -114,6 +114,8 @@ weight: 791
 - **Shopify POS Pro**: 오프라인 매장 관리
 - **Shopify App Store**: Oberlo(드롭쉬핑), Klaviyo(이메일 마케팅), Yotpo(리뷰) 등
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 고객
@@ -145,6 +147,8 @@ weight: 791
 ### 산업 내 글로벌 시장 점유율
 - 글로벌 클라우드 전자상거래 플랫폼 시장: 약 9% (Statista 2024)
 - SMB 전자상거래 플랫폼 부문: 약 20% 점유
+
+{{< adsense-infeed >}}
 
 ---
 

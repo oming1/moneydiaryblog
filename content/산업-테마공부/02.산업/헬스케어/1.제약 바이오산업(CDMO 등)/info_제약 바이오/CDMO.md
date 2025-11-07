@@ -36,9 +36,13 @@ CDMO (Contract Development and Manufacturing Organization)는 신약을 개발�
 - [생물보안법](/industry-study/생물보안법/)은 국가적인 의약품 안보 문제를 해결하기 위해 중국의 CDMO를 통한 생산을 축소시키려고 한다. 이 법안 은 2032년까지 미국 기업이 중국 CDMO와 협력하는 것을 금지할 수 있다. 미국의 제약사는 의약품 생산을 자체적으로 전환하거나, 다른 국가의 CDMO를 찾아야한다. 장기적으로 한국과 일본의 CDMO 기업은 자국 내 투자가 마무리되면 미국에 생산 설비를 확충할 가능성이 높다.
 [CDMO 시장의 미래는 항암제/면역, 중추신경/감염/혈액 및 피부/심혈관/호흡기 등의 영역에서 바이오 신약의 수요가 커질 수 밖에 없다는 점에서 밝다](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=26&selection=459,0,504,2&color=yellow))
 
+{{< adsense-infeed >}}
+
 2023년부터 특허 만료 매출 규모는 증가한다. [바이오시밀러](/industry-study/바이오시밀러/)의 점유율이 1%대에서 20%까지 올라가는 과정에서[오리지널 약을 개발하는 기업은 자체 설비를 신약 위주로 배정하고 바이오시밀러의 생산은 CDMO를 쓸 가능성이 크다](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=27&selection=362,0,420,2&color=yellow))
 -[CDMO 시장 트렌드](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/8.28_바이오시밀러와%20cdmo.pdf#page=27&selection=453,1,459,3&color=yellow))
 -[글로벌 CDMO 기업과 사업 부문](content/산업-테마공부/02.산업/헬스케어/1.제약%20바이오산업(CDMO%20등)/Report/2024/9.12_공장의%20진화,%20CDMO의%20가치상승.pdf#page=11&selection=418,1,427,2&color=yellow))
+
+{{< adsense-infeed >}}
 
 ### 대표적인 CDMO 전문회사
 1. **[WuXi Biologics](/company-analysis/wuxi-biologics/) (HK: 02269)**
@@ -63,6 +67,8 @@ CDMO (Contract Development and Manufacturing Organization)는 신약을 개발�
 	- 화이자의 제네릭 사업부가 분리돼 설립된 회사
 - Sandoz Group Ltd. ([SDZ](/company-analysis/sdz/)-CH)
 	- 풍부한 파이프라인을 갖춘 바이오시밀러/제네릭 전문 기업
+
+{{< adsense-infeed >}}
 
 ### CDMO와 유사한 개념의 항목들
 1. **[CRO](/industry-study/cro/) (Contract Research Organization)**

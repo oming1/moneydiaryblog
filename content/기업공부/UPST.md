@@ -54,6 +54,8 @@ weight: 916
 - **Upstart Auto Loans:** 자동차 구매 및 리파이낸스 대출 서비스.
 - **Upstart Home Loans:** 주택 자산 대출 서비스.
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**
 - **미국:** 주요 매출 국가.
 **경쟁업체**
@@ -62,7 +64,11 @@ weight: 916
 - **Affirm (미국, [AFRM](/company-analysis/afrm/)):** 할부 결제 및 대출 서비스.
 - **Prosper (미국, 비상장):** 개인 대출 플랫폼.
 
+{{< adsense-infeed >}}
+
 **산업 내 글로벌 시장 점유율**
+
+{{< adsense-infeed >}}
 
 - Upstart는 AI 기반 대출 플랫폼 시장에서 약 5%의 점유율을 차지하고 있습니다 (2023년 기준).
 

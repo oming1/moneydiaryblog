@@ -47,6 +47,8 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 3. 의료 소모품: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 의료 시설 개발: UHS, HCA Healthcare(US, [HCA](/company-analysis/hca/))
 2. 의료 장비 공급: GE Healthcare(US, [GE](/company-analysis/ge/))
 3. 의약품 공급: AmerisourceBergen(US, [ABC](/company-analysis/abc/))
@@ -55,6 +57,8 @@ Universal Health Services, Inc.(UHS)는 미국의 대표적인 의료 서비스 
 6. 환자 치료: UHS
 7. 보험 청구 및 수익 관리: UHS, Optum(US, [UNH](/company-analysis/unh/))
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스, 수술, 응급 치료 (매출 비중: 약 55%, 2023년 기준)
 2. 행동 건강 관리 서비스: 정신 건강 및 중독 치료 (매출 비중: 약 45%, 2023년 기준)
@@ -87,11 +91,15 @@ UHS는 주로 미국 내에서 사업을 영위하고 있으며, 일부 시설�
 5. ESG 이니셔티브 강화 및 지속가능성 보고서 발행 (2023)
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. Vanguard Group Inc. (12.18%)
 2. First Eagle Investment Management LLC (7.89%)
 3. BlackRock Advisors LLC (6.57%)
 4. Fidelity Management & Research Co. LLC (4.81%)
 5. State Street Corp. (4.64%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

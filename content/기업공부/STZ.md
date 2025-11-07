@@ -24,7 +24,9 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 ## 전방/후방산업
 
 - 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 소매업, 요식업
     - 관련 기업: Walmart (US, [WMT](/company-analysis/wmt/)), Kroger (US, [KR](/company-analysis/kr/))
     
@@ -48,11 +50,15 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 
 미국을 중심으로 전 세계 시장에서 사업을 영위하고 있습니다[
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 - Anheuser-Busch InBev (BE, BUD)
 - Heineken (NL, HEINY)
 - Diageo (UK, DEO)
 - Molson Coors (US, [TAP](/company-analysis/tap/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

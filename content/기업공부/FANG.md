@@ -38,6 +38,8 @@ Diamondback Energy, Inc.는 텍사스주 미들랜드에 본사를 둔 탄화수
 - 운송: 파이프라인을 통한 석유 및 가스 운송
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 탐사 및 생산: 석유 및 천연가스 탐사, 시추, 생산
     - 대표 회사: ConocoPhillips (US, [COP](/company-analysis/cop/)) - 석유 및 천연가스 탐사 및 생산
     
@@ -45,7 +47,9 @@ Diamondback Energy, Inc.는 텍사스주 미들랜드에 본사를 둔 탄화수
     - 대표 회사: Kinder Morgan (US, [KMI](/company-analysis/kmi/)) - 에너지 인프라 회사
     
 - 정제 및 마케팅: 석유 제품 정제 및 판매
-    
+
+{{< adsense-infeed >}}
+
     - 대표 회사: Marathon Petroleum (US, [MPC](/company-analysis/mpc/)) - 석유 정제 및 마케팅
 ## 주요제품
 
@@ -56,7 +60,11 @@ Diamondback Energy, Inc.는 텍사스주 미들랜드에 본사를 둔 탄화수
 
 주로 미국 내에서 운영되며, 퍼미안 분지에 집중되어 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Pioneer Natural Resources (US, PXD) - 퍼미안 분지 중심의 석유 및 가스 생산
 - EOG Resources (US, [EOG](/company-analysis/eog/)) - 비전통 석유 및 가스 탐사 및 생산

@@ -35,7 +35,9 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 3. 잉크·토너·소모품  
     • 잉크 카트리지, 토너, 용지 등 소모품 교체 수요로 꾸준히 매출 발생  
     • 전체 매출의 약 30% 차지, 이익률이 높아 ‘캐시카우(현금창출원)’
-    
+
+{{< adsense-infeed >}}
+
 4. 서비스·솔루션  
     • 프린트 관리 서비스(Managed Print) – 기업 프린터 대수 관리·최적화  
     • [보안](/industry-study/2산업보안/) 솔루션 – PC·프린터 펌웨어 보안, 원격 관리(Remote Work 솔루션)  
@@ -90,9 +92,13 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - Omen & Z by HP – 게이밍 하드웨어 및 최적화 소프트웨어
 - HP Anyware (전 Teradici) – 원격 워크스테이션 가상화 솔루션
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 제조 공정
+
+{{< adsense-infeed >}}
 
 1단계: 설계·프로토타입 제작 – 기능·디자인 검증  
 2단계: 부품 조달 – 반도체(Intel, AMD), 메모리(Samsung, SK Hynix), PCB 등  
@@ -190,6 +196,8 @@ HP Inc.(US, [HPQ](/company-analysis/hpq/))는 크게 다섯 가지 사업을 통
 - 2023년: Teradici 인수 완료 – 원격 워크스테이션 솔루션 통합
 - 2022년: Poly(Plantronics) 인수 – 화상회의·협업 하드웨어 확대
 - 2021년: 팬데믹 수혜 후 공급망 병목 현상
+
+{{< adsense-infeed >}}
 
 ---
 

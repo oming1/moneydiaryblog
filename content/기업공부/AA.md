@@ -20,9 +20,13 @@ weight: 3
 ### 영위사업
 Alcoa Corporation은 전 세계적으로 보크사이트, 알루미나 및 알루미늄 제품을 생산 및 판매하는 회사입니다. 이 회사는 보크사이트 채굴, 알루미나로의 가공, 알루미늄 제련 및 주조 사업을 운영합니다. 주요 제품으로는 합금 잉곳, 평판 알루미늄 시트, 알루미늄 코일 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 
 **전방산업:**
+
+{{< adsense-infeed >}}
 
 - **자동차 제조업체:** Ford (US, [F](/company-analysis/f/)), General Motors (US, [GM](/company-analysis/gm/))
 - **건설업체:** Vinci (FR, [DG](/company-analysis/dg/)), Skanska (SE, SKA-B)
@@ -59,8 +63,12 @@ Alcoa의 밸류체인은 원료 채굴에서부터 최종 제품의 생산 및 �
 
 ### 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 Alcoa Corporation의 글로벌 시장 점유율은 약 6% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **매출 감소:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)
 - **전략적 인수:** Alumina Limited 인수 완료 (2024년)

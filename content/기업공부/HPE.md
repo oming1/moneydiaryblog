@@ -24,6 +24,8 @@ Hewlett Packard Enterprise (HPE)는 2015년 11월 1일에 설립된 미국의 �
 ## 전방/후방산업
 Hewlett Packard Enterprise (HPE)는 2015년 11월 1일에 설립된 미국의 다국적 정보 기술 회사로, 텍사스주 스프링에 본사를 두고 있습니다. HPE는 서버, 스토리지, 네트워킹, 컨테이너화 소프트웨어 및 컨설팅과 지원 서비스를 제공하는 기업 중심의 조직입니다. HPE는 클라우드 컴퓨팅, 데이터 관리, 보안 솔루션 등 다양한 IT 솔루션을 통해 기업의 디지털 전환을 지원합니다
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 - **전방산업**: IT 서비스 및 솔루션 제공
     - **핵심 산업**: 데이터 센터 운영, 클라우드 서비스 제공
@@ -45,10 +47,14 @@ Hewlett Packard Enterprise (HPE)는 2015년 11월 1일에 설립된 미국의 �
     - **대표 회사**: HPE (US, [HPE](/company-analysis/hpe/)), Cisco Systems (US, [CSCO](/company-analysis/csco/))
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - **서버 및 스토리지 솔루션**
 - **네트워킹 장비**
 - **HPE GreenLake 클라우드 서비스**
 - **보안 솔루션**
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 - **미국**: 2023년 매출액 100억 달러
@@ -56,6 +62,8 @@ Hewlett Packard Enterprise (HPE)는 2015년 11월 1일에 설립된 미국의 �
 - **아시아 태평양**: 2023년 매출액 70억 달러
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Dell Technologies (US, [DELL](/company-analysis/dell/))**: 서버 및 스토리지 솔루션
 - **Cisco Systems (US, [CSCO](/company-analysis/csco/))**: 네트워크 장비 및 솔루션

@@ -28,6 +28,8 @@ Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 
 3. Wizards of the Coast 및 디지털 게임: 트레이딩 카드 게임, 롤플레잉 게임 등
 2024년 기준 총 매출은 약 60억 달러였으며, 전 세계 100개 이상의 국가에서 제품을 판매하고 있습니다. 최근에는 디지털 게임 사업 확대, IP를 활용한 콘텐츠 제작, 그리고 지속 가능한 제품 개발에 주력하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 핵심 경쟁력
 
 4. 강력한 IP 포트폴리오: 트랜스포머, 마이 리틀 포니 등 글로벌 인기 브랜드 보유
@@ -43,6 +45,8 @@ Hasbro, Inc.(NASDAQ: HAS)는 미국의 다국적 완구 및 보드게임 제조 
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Target(US, [TGT](/company-analysis/tgt/))
 - e커머스: Amazon(US, [AMZN](/company-analysis/amzn/)), Alibaba(CN, [BABA](/company-analysis/baba/))
 - 엔터테인먼트: Walt Disney Company(US, [DIS](/company-analysis/dis/)), Netflix(US, [NFLX](/company-analysis/nflx/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 

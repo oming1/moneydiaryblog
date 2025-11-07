@@ -196,11 +196,15 @@ Philip Morris International은 글로벌 제조 네트워크를 통해 담배 �
 	20년 1월 [KT&G](/company-analysis/ktg/)와 lil 해외시장 진출 관련 계약 체결, 23년말 기준 30개 이상 글로벌 시장 내 추가 점유율 확보 
 	- IQOS를 보완하기 위해 여러 가격대의 제품 출시, 열에 대한 저항이 높고 안전한 대안에 지속적으로 투자 계획 
 	2H25 IQOS ILUMA FDA 승인 예상, 미국시장 내 확대를 위한 준비
-	
+
+{{< adsense-infeed >}}
+
 **ZYN:** 니코틴 파우치, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 [MO](/company-analysis/mo/), Swedish Match
 
 **Marlboro([일반 궐련](/industry-study/일반-궐련/))* 전통 담배 브랜드, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 [MO](/company-analysis/mo/), [BTI](/company-analysis/bti/)
 [23년 기준 매출액의 63.5%가 궐련제품으로 구성, 글로벌 일반궐련 기준 M/S 23.6% (2Q24) / 글로벌 수요 감소 영향과 여타 신규 담배∙니코틴시장으로의 수요 이전에 따라 일반궐련 물량 감소 흐름. 신규사업 이전 (15년)대비 23년 일반궐련 물량 -27.9% YoY, 단 가격인상으로 상쇄](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=8&selection=0,1,83,2&color=yellow))
+
+{{< adsense-infeed >}}
 
 **L&M:** 프리미엄 담배 브랜드, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [BTI](/company-analysis/bti/), JT
 
@@ -346,6 +350,8 @@ Philip Morris International은 전통적인 담배 회사에서 무연 제품 �
 ---
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Consumer Staples Select Sector SPDR Fund - XLP
 - iShares U.S. Consumer Staples ETF - IYK

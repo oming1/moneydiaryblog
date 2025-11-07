@@ -24,6 +24,8 @@ Pure Storage, Inc.(PSTG)는 올플래시 데이터 스토리지 하드웨어 및
 Pure Storage는 엔터프라이즈급 올플래시 블록, 파일, 오브젝트 스토리지 솔루션을 제공합니다. 주요 제품으로는 FlashArray, FlashBlade, FlashStack 등이 있으며, 클라우드 스토리지 솔루션과 스토리지 as a service(STaaS) 모델도 제공합니다.
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Pure Storage는 엔터프라이즈급 올플래시 블록, 파일, 오브젝트 스토리지 솔루션을 제공합니다. 주요 제품으로는 FlashArray, FlashBlade, FlashStack 등이 있으며, 클라우드 스토리지 솔루션과 스토리지 as a service(STaaS) 모델도 제공합니다.
 ## 전방/후방산업
 
@@ -31,7 +33,11 @@ Pure Storage는 엔터프라이즈급 올플래시 블록, 파일, 오브젝트 
 
 - 반도체 제조업체
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 데이터 센터
 - 클라우드 서비스 제공업체

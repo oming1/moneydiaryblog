@@ -132,6 +132,8 @@ PicoCELA Inc.는 2008년 후루카와 히로시(Hiroshi Furukawa)에 의해 설�
 
 **3단계: 시스템 통합 및 테스트**
 
+{{< adsense-infeed >}}
+
 - 하드웨어와 소프트웨어 통합
 - 성능 테스트 및 품질 검증
 
@@ -389,6 +391,8 @@ PicoCELA Inc.는 2008년 후루카와 히로시(Hiroshi Furukawa)에 의해 설�
 ## 20. 관련 ETF
 
 **기술 관련 ETF:**
+
+{{< adsense-infeed >}}
 
 - iShares MSCI Japan ETF(EWJ) - 일본 기술주 ETF
 - Vanguard FTSE Developed Markets ETF(VEA) - 선진국 기술주 ETF

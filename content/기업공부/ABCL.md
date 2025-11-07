@@ -57,6 +57,8 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - Eli Lilly(US, [LLY](/company-analysis/lly/)): 면역학, 심혈관 질환, 신경과학 분야 항체 치료제
 - Pfizer(US, [PFE](/company-analysis/pfe/)): 다양한 치료 영역의 항체 의약품
 - Merck(US, [MRK](/company-analysis/mrk/)): 항체 기반 치료제
@@ -75,6 +77,8 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 - Schrödinger(US, [SDGR](/company-analysis/sdgr/)): 컴퓨터 지원 신약 설계
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 AbCellera의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 3분기 기준으로 회사는 주요 제약 준비 산업 내에서 0.05%의 시장 점유율을 보유하고 있는 것으로 나타났습니다.
 

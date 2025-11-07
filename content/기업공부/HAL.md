@@ -57,6 +57,8 @@ Halliburton은 세계에서 두 번째로 큰 석유 서비스 회사로, 주로
     - 유정 시추 및 완공을 위한 다양한 서비스를 제공합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 Halliburton은 미국을 주요 시장으로 하며, 중동, 아시아 태평양 지역 및 유럽에서도 중요한 매출을 올리고 있습니다.
@@ -65,6 +67,8 @@ Halliburton은 미국을 주요 시장으로 하며, 중동, 아시아 태평양
 
 - **Schlumberger** (프랑스, [SLB](/company-analysis/slb/)) - 경쟁 제품: 석유 서비스
 - **Baker Hughes** (미국, [BKR](/company-analysis/bkr/)) - 경쟁 제품: 에너지 기술 솔루션
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 Halliburton은 글로벌 석유 서비스 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.

@@ -29,10 +29,14 @@ Estée Lauder Companies Inc는 메이크업, 스킨케어, 향수, 헤어케어 
     - 관련 기업: Sephora (LVMH 소유), Ulta Beauty (US, [ULTA](/company-analysis/ulta/))
     
 - 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 화학 원료 공급, 포장재 제조
     - 관련 기업: International Flavors & Fragrances (US, IFF), Berry Global Group (US, BERY)
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - 연구 및 개발: 신제품 개발 및 혁신
     

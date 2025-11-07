@@ -61,7 +61,9 @@ CCaaS(Contact Center as a Service)는 기업이 고객과의 상호작용을 관
 산업 역량:
 
 1. 클라우드 기술 전문성
-    
+
+{{< adsense-infeed >}}
+
 2. AI 및 머신러닝 역량
     
 3. 데이터 분석 및 인사이트 도출 능력
@@ -85,7 +87,9 @@ CCaaS(Contact Center as a Service)는 기업이 고객과의 상호작용을 관
     - Salesforce(US - [CRM](/company-analysis/crm/)): CRM 플랫폼 및 고객 관리 솔루션
         
     - HubSpot(US - HUBS): 마케팅, 영업, 서비스 플랫폼
-        
+
+{{< adsense-infeed >}}
+
 3. 인공지능 및 머신러닝
     
     - IBM Watson(US - [IBM](/company-analysis/ibm/)): AI 및 분석 솔루션

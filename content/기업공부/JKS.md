@@ -67,6 +67,8 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 
 JinkoSolar는 2024년 기준 글로벌 태양광 모듈 시장에서 약 15%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 상위권을 유지하고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
 
 - 페로브스카이트 탠덤 태양전지 변환 효율 33.84% 달성 (2025년)
@@ -80,6 +82,8 @@ JinkoSolar는 2024년 기준 글로벌 태양광 모듈 시장에서 약 15%의 
 - Xiande Li (15.3%)
 - Kangping Chen (10.2%)
 - Xianhua Li (8.1%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

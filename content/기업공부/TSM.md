@@ -20,6 +20,8 @@ weight: 890
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 따라 반도체 칩을 제조합니다. TSMC는 다양한 산업에 걸쳐 고객에게 서비스를 제공하며, 고급 공정 기술을 통해 다양한 반도체 제품을 생산합니다. 주요 고객으로는 Apple, NVIDIA, Qualcomm 등이 있습니다.
 
 ## 전방/후방산업
@@ -33,6 +35,8 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
     - **핵심 산업 및 역할**: 반도체 장비 및 재료 공급
     - **관련 기업**: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML Holding (NL, [ASML](/company-analysis/asml/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 - **반도체 설계**: 고객의 반도체 설계를 기반으로 제조
@@ -40,7 +44,9 @@ TSMC는 세계 최대의 반도체 파운드리 회사로, 고객의 설계에 �
     - **대표 회사**: AMD (US, [AMD](/company-analysis/amd/)) - 반도체 설계
     
 - **제조**: 반도체 칩의 대량 생산
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: GlobalFoundries (US, [GFS](/company-analysis/gfs/)) - 반도체 제조
     - **대표 회사**: [Samsung](/industry-study/samsung/) (KR, 005930.KS) - 반도체 제조
 - **판매 및 유통**: 고객에게 반도체 제품 공급

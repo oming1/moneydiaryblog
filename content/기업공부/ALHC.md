@@ -35,6 +35,8 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
     - 주요 기업: Cerner (미국, CERN), Allscripts (미국, MDRX)
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - Medicare Advantage 플랜 제공:
 ## 밸류체인
 
@@ -61,6 +63,8 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 - Clover Health (미국, CLOV) - Medicare Advantage 플랜
 - Molina Healthcare (미국, [MOH](/company-analysis/moh/)) - 관리형 의료 서비스
 - Centene Corp (미국, CNC) - 정부 후원 의료 프로그램
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았지만, Alignment Healthcare는 빠르게 성장하는 Medicare Advantage 시장에서 주요 플레이어로 자리잡고 있습니다.

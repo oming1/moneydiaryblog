@@ -113,6 +113,8 @@ Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조
 
 - 전기 아크로 용해 → 진공 유도 용해 → 전자빔 용해 → 플라즈마 아크 용해
 
+{{< adsense-infeed >}}
+
 **4. 1차 가공:**
 
 - 주조 → 압연 → 단조 → 열처리 → 품질 검사
@@ -161,10 +163,14 @@ Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조
 
 **특수합금 제조 단계:** 고부가가치 특수합금 생산
 
+{{< adsense-infeed >}}
+
 - ATI(US, ATI) - 특수합금 및 티타늄 제품 경쟁사
 - Haynes International(US, HAYN) - 니켈기 초합금 경쟁사
 - Special Metals Corporation(US, Special Metals) - 니켈 합금 전문 경쟁사
 - Allegheny Technologies(US, ATI) - 특수 소재 경쟁사
+
+{{< adsense-infeed >}}
 
 **최종 제품 제조 단계:** 우주항공 및 방위산업 고객
 - Boeing(US, [BA](/company-analysis/ba/)) - 상용 항공기 제조업체
@@ -178,6 +184,8 @@ Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조
 ## 주요제품
 
 **니켈기 초합금:** 항공기 엔진 고온부품용 소재, 매출 비중 약 35% (2024년 기준), 관련 경쟁사 ATI, HAYN
+
+{{< adsense-infeed >}}
 
 **티타늄 합금:** 항공기 구조재 및 엔진 부품용 소재, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 ATI, RTI
 
@@ -267,6 +275,8 @@ Carpenter Technology는 특수합금 제조를 위한 고도로 정교한 제조
 - Outokumpu(FI, OUT1V) - 스테인리스강 제조업체
 - ThyssenKrupp(DE, TKA) - 특수강 및 소재 제조
 - Voestalpine(AT, VOE) - 특수강 및 고성능 소재 제조
+
+{{< adsense-infeed >}}
 
 ---
 

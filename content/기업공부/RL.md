@@ -33,6 +33,8 @@ weight: 751
 - 소매업체: 백화점, 전문점 등
 - 소비자: 최종 제품 구매자
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 디자인 및 제품 개발: Ralph Lauren (자체 디자인)
@@ -49,6 +51,8 @@ weight: 751
 
 미국, 유럽, 아시아 (중국 포함), 라틴 아메리카
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Burberry(UK, BRBY.L): 영국 럭셔리 패션
 - 필립스 반 휴센(US, [PVH](/company-analysis/pvh/)): 현대적 디자인 의류

@@ -58,6 +58,8 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - NVX-CoV2373: COVID-19 백신, 매출의 약 95% (2024년 기준)
 - NanoFlu: 계절성 인플루엔자 백신 (임상 3상 완료)
 - ResVax: RSV 백신 (개발 중)
@@ -77,7 +79,11 @@ Novavax의 핵심 경쟁력은 독자적인 재조합 단백질 나노입자 기
 
 미국, 유럽연합 국가들, 영국, 캐나다, 호주, 일본, 한국, 인도네시아
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Pfizer(US, [PFE](/company-analysis/pfe/)) - COVID-19 mRNA 백신
 - Moderna(US, [MRNA](/company-analysis/mrna/)) - COVID-19 mRNA 백신

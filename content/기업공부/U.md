@@ -20,6 +20,8 @@ weight: 898
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:**
     - **게임 개발:** Unity의 플랫폼을 사용하는 게임 개발사 (예: Electronic Arts (US, EA), Activision Blizzard (US, [ATVI](/company-analysis/atvi/)))
     - **영화 및 애니메이션:** Unity의 3D 콘텐츠 제작 도구를 사용하는 영화 및 애니메이션 스튜디오 (예: Pixar, DreamWorks)
@@ -37,6 +39,8 @@ weight: 898
     - Unity의 소프트웨어는 온라인 스토어 및 독립 배급사를 통해 유통됩니다.
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **Unity Editor:** 실시간 3D 콘텐츠 제작 도구
 - **Unity Pro:** 고급 기능을 제공하는 Unity의 프리미엄 버전
 - **Unity Ads:** 게임 내 광고 플랫폼
@@ -47,6 +51,8 @@ weight: 898
 - **유럽:** 주요 매출 국가 (영국, 독일, 프랑스 등)
 - **아시아:** 주요 매출 국가 (일본, 중국, 한국 등)
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
 
 - **Epic Games (US, Private):** Unreal Engine
@@ -56,6 +62,8 @@ weight: 898
 #### 산업 내 글로벌 시장 점유율
 
 - **실시간 3D 콘텐츠 제작 플랫폼 시장 점유율:** 약 50% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 - **IronSource 인수:** 모바일 광고 및 앱 수익화 플랫폼 IronSource 인수 (2022)

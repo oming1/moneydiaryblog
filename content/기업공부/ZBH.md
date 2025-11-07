@@ -19,6 +19,8 @@ weight: 997
 
 짐머바이오메트(Zimmer Biomet)는 글로벌 의료 기술 기업으로, 정형외과 분야에 특화된 제품과 솔루션을 제공합니다. 주요 사업 부문은 정형 재건, 스포츠 의학, 외상, 척추, 치과, 두개악안면 제품 등입니다. 회사는 인공 관절, 골 시멘트, 생물학적 제제, 수술 기구, 로봇 지원 수술 시스템 등을 개발, 제조 및 판매합니다. 특히 ROSA 로봇 수술 시스템, 인공 고관절 및 무릎 관절 제품, 척추 임플란트 등이 주력 제품입니다. 또한 데이터 분석과 인공지능을 활용한 디지털 헬스케어 솔루션도 제공하고 있습니다. 짐머바이오메트는 혁신적인 제품 개발과 의료진과의 협력을 통해 환자의 삶의 질 향상에 기여하고 있습니다.전방산업:
 
+{{< adsense-infeed >}}
+
 1. 병원 및 의료기관: 의료기기 및 임플란트 주요 수요처 (HCA Healthcare (US, [HCA](/company-analysis/hca/)))
 2. 정형외과 클리닉: 전문적인 정형외과 치료 제공 (US Physical Therapy (US, USPH))
 
@@ -41,6 +43,8 @@ weight: 997
 
 주요 판매국가: 미국, 유럽 국가들, 일본, 중국을 포함한 100개 이상의 국가
 경쟁업체:
+
+{{< adsense-infeed >}}
 
 1. Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)) (DePuy Synthes 부문, 정형외과 제품)
 2. Stryker Corporation (US, [SYK](/company-analysis/syk/)) (정형외과 및 의료장비)

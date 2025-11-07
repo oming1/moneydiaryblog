@@ -20,17 +20,23 @@ weight: 625
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스케어 제품을 제공합니다. 주요 제품군에는 특허 보호를 받는 처방약, 제네릭(복제약) 의약품, [바이오시밀러](/industry-study/바이오시밀러/), 안과 제품 등이 포함됩니다.
 #### 전방/후방산업
 
 - **전방산업**:
     - **병원 및 클리닉**: 의료 서비스 제공업체 (예: HCA Healthcare (US, [HCA](/company-analysis/hca/)), Mayo Clinic)
     - **약국 및 유통업체**: 의약품 유통업체 (예: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/)))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**:
     - **화학**: 원료 공급업체 (예: BASF (DE, BAS), Dow Inc. (US, [DOW](/company-analysis/dow/)))
     - **바이오테크**: 바이오 기술 및 연구 개발 업체 (예: Amgen (US, [AMGN](/company-analysis/amgn/)), Biogen (US, [BIIB](/company-analysis/biib/)))
 #### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **연구 및 개발**: 신약 개발 및 임상 시험 (예: Novartis 자체 연구소, Alnylam Pharmaceuticals (US, ALNY))
 - **제조**: 의약품 제조 (예: Novartis 자체 생산 시설)
@@ -44,6 +50,8 @@ Novartis AG는 연구, 개발, 제조 및 마케팅을 통해 다양한 헬스�
 - **미국**: 주요 매출 국가 (2023년 매출 비중: 33%)
 - **유럽**: 주요 매출 국가 (2023년 매출 비중: 30%)
 - **아시아**: 주요 매출 국가 (2023년 매출 비중: 20%)
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제 및 백신

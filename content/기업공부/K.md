@@ -38,6 +38,8 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 - 역할: 원자재 및 포장재 공급
 - 농업 공급업체 및 식품 제조업체
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 아침 시리얼 (예: Frosted Flakes, Corn Flakes)
@@ -47,11 +49,15 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 ## 주요 판매국가
 Kellanova는 전 세계 180개국 이상에서 운영되며, 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다.
 
+{{< adsense-infeed >}}
+
 ## 주요 자산
 
 - 다양한 브랜드 포트폴리오
 - 글로벌 공급망 및 유통 네트워크
 - 지속적인 연구 및 개발 투자
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -65,8 +71,12 @@ Kellanova는 전 세계 아침 시리얼 시장에서 약 17%의 점유율을 �
 
 ## 최근 뉴스 및 재무 성과
 
+{{< adsense-infeed >}}
+
 - **2023년 10월**: Kellogg Company가 북미 시리얼 사업을 분리하여 Kellanova와 WK Kellogg Co 두 개의 독립 기업으로 재편성했습니다.
 - **2023년 1분기**: Kellanova는 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다.
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [Kellogg's - Wikipedia](https://en.wikipedia.org/wiki/Kellogg%27s)

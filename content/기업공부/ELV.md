@@ -49,19 +49,29 @@ Elevance Health는 의료 보험 및 관련 서비스를 제공하는 기업입�
 - **행동 건강 서비스:** 정신 건강 및 행동 건강 서비스
 - **장기 요양 및 장애 보험:** 장기 요양 및 장애 보험 상품
 
+{{< adsense-infeed >}}
+
 **주요 판매국가**
+
+{{< adsense-infeed >}}
 
 - **미국:** 주요 매출 국가
 **경쟁업체**
+
+{{< adsense-infeed >}}
 
 - **UnitedHealth Group (미국, [UNH](/company-analysis/unh/)):** 의료 보험 및 관련 서비스
 - **CVS Health (미국, [CVS](/company-analysis/cvs/)):** 의료 보험 및 약국 혜택 관리
 - **Cigna (미국, [CI](/company-analysis/ci/)):** 의료 보험 및 관련 서비스
 
+{{< adsense-infeed >}}
+
 **산업 내 글로벌 시장 점유율**
 - Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
 - Elevance Health는 미국 관리 의료 시장에서 약 15%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**
+
+{{< adsense-infeed >}}
 
 - **2022년:** Anthem에서 Elevance Health로 사명 변경 (2022)
 - **2023년:** Whole Health Index 도입 (2023)

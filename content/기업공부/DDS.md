@@ -36,11 +36,15 @@ Dillard's, Inc.는 미국의 대표적인 패션 의류, 화장품, 홈 퍼니�
 미국 29개 주에 걸쳐 약 273개 매장 운영, 주로 남부, 남서부, 중서부 지역 집중
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Macy's (US, [M](/company-analysis/m/))
 2. Nordstrom (US, [JWN](/company-analysis/jwn/))
 3. Kohl's (US, [KSS](/company-analysis/kss/))
 4. JCPenney
 5. Neiman Marcus
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 1. 2024년 매출 6.6억 달러 기록 (2024년)

@@ -28,6 +28,8 @@ BlueNalu는 2017년에 설립된 미국의 세포 배양 수산물(cellular aqua
 - 세포 배양 수산물 관련 연구 및 기술 개발
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 - 역할: 세포 배양 수산물 구매
 - 레스토랑 및 식품 서비스 업체
@@ -39,6 +41,8 @@ BlueNalu는 2017년에 설립된 미국의 세포 배양 수산물(cellular aqua
 - [바이오리액터](/industry-study/바이오리액터/) 제조업체
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 세포 배양 참치 토로(bluefin tuna toro)
 - 기타 세포 배양 수산물 제품 (개발 중)

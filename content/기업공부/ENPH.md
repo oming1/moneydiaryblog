@@ -130,6 +130,8 @@ Enphase Energy는 fabless 모델을 채택하여 설계와 소프트웨어 개�
 
 ## 전방산업 / 후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업:**
 
 - 주거용 태양광 설치업체: 개인 주택 태양광 시스템 설치 - Tesla Energy(US, [TSLA](/company-analysis/tsla/)), Sunrun(US, [RUN](/company-analysis/run/))
@@ -190,6 +192,8 @@ Enphase Energy는 fabless 모델을 채택하여 설계와 소프트웨어 개�
 
 ## 주된 영향을 미치는 원자재
 
+{{< adsense-infeed >}}
+
 **갈륨 나이트라이드(GaN) 반도체:**
 
 - 사용처: 차세대 IQ9 마이크로인버터 핵심 부품
@@ -201,6 +205,8 @@ Enphase Energy는 fabless 모델을 채택하여 설계와 소프트웨어 개�
 - 사용처: IQ Battery 에너지 저장 시스템
 - 주요 공급 지역: 중국, 한국
 - 주요 공급 업체: CATL [CATL](/company-analysis/catl/), BYD [BYD](/company-analysis/byd/)
+
+{{< adsense-infeed >}}
 
 **희토류 금속:**
 

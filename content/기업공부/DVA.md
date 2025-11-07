@@ -23,6 +23,8 @@ weight: 297
 
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**: 병원 및 의료 서비스 산업
     - **핵심 산업**: 병원, 클리닉, 의료 보험사
     - **관련 기업**: Fresenius Medical Care (독일, FME), Baxter International (미국, BAX)
@@ -44,11 +46,15 @@ weight: 297
 
 - 미국, 독일, 브라질, 중국
 
+{{< adsense-infeed >}}
+
 **경쟁업체**:
 
 - **Fresenius Medical Care (독일, FME)**: 투석 치료 서비스 및 장비
 - **Baxter International (미국, BAX)**: 투석 장비 및 용품
 - **U.S. Renal Care (미국)**: 투석 치료 서비스
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 - DaVita는 글로벌 투석 서비스 시장에서 주요 플레이어 중 하나로, 2023년 기준 약 20%의 시장 점유율을 차지했습니다.

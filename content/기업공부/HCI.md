@@ -34,6 +34,8 @@ HCI Group Inc.는 다양한 사업 부문을 운영하는 기업으로, 주로 �
         - 데이터 분석: Palantir Technologies (미국, [PLTR](/company-analysis/pltr/))
         - IT 서비스: Accenture (미국, [ACN](/company-analysis/acn/))
 
+{{< adsense-infeed >}}
+
 **밸류체인**
 
 - **보험 상품 개발:** 보험 상품 설계 및 개발
@@ -42,6 +44,8 @@ HCI Group Inc.는 다양한 사업 부문을 운영하는 기업으로, 주로 �
     - **대표 회사:** Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)), IBM (미국, [IBM](/company-analysis/ibm/))
 - **IT 서비스:** 기술 지원 및 시스템 관리
     - **대표 회사:** Accenture (미국, [ACN](/company-analysis/acn/)), Cognizant (미국, [CTSH](/company-analysis/ctsh/))
+
+{{< adsense-infeed >}}
 
 **주요제품**
 

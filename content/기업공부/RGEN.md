@@ -20,6 +20,8 @@ Repligen Corporation은 생물학적 의약품 생산을 위한 바이오프로�
 섹터(Sector): 정보기술(Information Technology)  
 산업(Industry): 생명과학 도구 및 서비스(Life Sciences Tools & Services)
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
@@ -47,6 +49,8 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 3. 유통: 직접 판매 및 유통 파트너
 4. 최종 사용자: 바이오제약 기업, 계약 제조기업
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 1. XCell ATF 시스템 (세포 배양용)
@@ -58,6 +62,8 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 ## 주요 판매국가
 
 미국, 스웨덴, 프랑스, 네덜란드, 독일, 에스토니아를 중심으로 전 세계적으로 사업을 영위하고 있습니다
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

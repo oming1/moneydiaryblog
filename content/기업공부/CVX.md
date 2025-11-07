@@ -21,6 +21,8 @@ weight: 252
 #### 영위사업
 쉐브론은 [원유](/industry-study/원유/)와 [천연가스](/industry-study/천연가스/)의 탐사 및 생산, 정제,화학제품] 제조, 그리고 특수 제품 제조를 포함한 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - **Upstream**: 원유 및 천연가스 탐사 및 생산
 - **Downstream**: 원유 정제 및 [석유화학](/industry-study/석유화학/) 제품 제조, 마케팅 및 운송
 
@@ -31,6 +33,8 @@ weight: 252
 - **전방산업 (Downstream Industry)**:
     - **핵심 산업**: 정제 및 석유화학 제품 제조
     - **핵심 기업**: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP)
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 - **탐사 및 생산 (Exploration & Production)**:

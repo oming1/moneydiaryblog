@@ -36,13 +36,19 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 7. 재무 건전성: 낮은 부채비율과 강력한 현금 흐름 창출 능력
 8. 데이터 기반 의사결정: 빅데이터 분석을 통한 정확한 시추 위치 선정 및 생산 최적화
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
 - 석유 정제: Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
 - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/)), LyondellBasell(US, [LYB](/company-analysis/lyb/))
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -63,6 +69,8 @@ EOG Resources, Inc.(NYSE: EOG)는 미국의 주요 독립 석유 및 천연가�
 - [천연가스](/industry-study/천연가스/): 셰일 가스 생산, 매출의 약 20% (2024년 기준)
 - 천연가스 액([NGL](/industry-study/ngl/)): 습성 가스전에서 생산, 매출의 약 10% (2024년 기준)
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - 정유사: Marathon Petroleum(US, [MPC](/company-analysis/mpc/)), Phillips 66(US, [PSX](/company-analysis/psx/))
 - 석유화학 기업: Dow Inc.(US, [DOW](/company-analysis/dow/)), LyondellBasell(US, [LYB](/company-analysis/lyb/))
@@ -90,6 +98,8 @@ EOG Resources는 2024년 기준 미국 내 독립 석유·가스 생산업체 �
 - 디지털 트윈 기술을 활용한 생산 최적화 시스템 전면 도입 (2023년)
 - ESG 목표 강화: 2040년까지 Scope 1 및 2 배출량 넷제로 달성 계획 발표 (2022년)
 - 신규 수출 터미널 지분 인수로 LNG 수출 역량 강화 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 - The Vanguard Group (9.12%)

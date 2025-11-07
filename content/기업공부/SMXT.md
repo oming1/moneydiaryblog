@@ -82,6 +82,8 @@ SolarMax Technology Inc.은 2008년 David Hsu, Ching Liu, Simon Yuan에 의해 �
 
 ## 제조 공정
 
+{{< adsense-infeed >}}
+
 SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다음 단계를 거칩니다:
 
 **1단계:** 현장 조사 및 설계 - 고객 부지 분석 및 최적 시스템 설계  
@@ -120,6 +122,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - First Solar(US, [FSLR](/company-analysis/fslr/)): 박막 태양광 모듈 (시장점유율 10%, 미국 1위)
 - Enphase Energy(US, [ENPH](/company-analysis/enph/)): 마이크로인버터 (시장점유율 25%, 주거용 1위)
 - Tesla Energy(US, [TSLA](/company-analysis/tsla/)): Powerwall 및 Megapack 배터리 시스템
+
+{{< adsense-infeed >}}
 
 **시공 및 설치 단계:**
 
@@ -200,6 +204,8 @@ SolarMax는 제조업체가 아닌 태양광 EPC 및 서비스 업체로서 다�
 - Sunnova(US, NOVA) - 주거용 태양광 리스, 시장점유율 7%
 
 **상업용 태양광 경쟁사:**
+
+{{< adsense-infeed >}}
 
 - NextEra Energy(US, [NEE](/company-analysis/nee/)) - 유틸리티 규모 신재생에너지 1위
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/)) - 글로벌 태양광 모듈 및 EPC

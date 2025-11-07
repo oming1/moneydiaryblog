@@ -39,6 +39,8 @@ weight: 60
     - Arrow Electronics (US, [ARW](/company-analysis/arw/)): 전자 부품 유통
     - Avnet (US, [AVT](/company-analysis/avt/)): 전자 부품 유통
 
+{{< adsense-infeed >}}
+
 #### 주요제품
 - **Ryzen 프로세서:** 데스크탑 및 노트북용 CPU
 - **EPYC 프로세서:** 서버용 CPU
@@ -55,7 +57,11 @@ weight: 60
 - **Qualcomm (US, [QCOM](/company-analysis/qcom/)):** 모바일 및 임베디드 프로세서
 - **Broadcom (US, [AVGO](/company-analysis/avgo/)):** 반도체 및 네트워크 솔루션
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **x86 CPU 시장 점유율:** 33% (2024년 3분기 기준)
 - **데스크탑 CPU 시장 점유율:** 23.9% (2024년 1분기 기준)

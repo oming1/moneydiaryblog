@@ -32,6 +32,8 @@ Community Health Systems, Inc.(CYH)는 미국의 주요 의료 서비스 제공�
 6. 정신 건강 서비스
 7. 진단 서비스
 
+{{< adsense-infeed >}}
+
 CYH는 미국 15개 주에 걸쳐 70개의 병원을 운영하고 있으며, 1,000개 이상의 의료 시설을 보유하고 있습니다. 회사는 지역 사회 중심의 의료 서비스를 제공하는 데 중점을 두고 있으며, 특히 중소 도시와 농촌 지역에서 강점을 보이고 있습니다.
 
 ## 핵심 경쟁력
@@ -45,6 +47,8 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 6. 기술 혁신: AI 기반 모자 조기 경고 시스템, 가상 환자 모니터링 등 혁신적인 기술을 도입하고 있습니다.
 7. 재무 구조 개선 노력: 부채 감소와 수익성 개선을 위한 지속적인 노력을 기울이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 1. 후방산업:
 1. 후방산업:
@@ -57,6 +61,8 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
     - 요양 시설: Brookdale Senior Living
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -105,6 +111,8 @@ Community Health Systems는 주로 미국 시장에서 사업을 영위하고 �
 5. AI 기반 모자 조기 경고 시스템, 가상 환자 모니터링 등 혁신 기술 도입 (2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. BlackRock Inc.: 8.69%
 2. Vanguard Group Inc: 9.57%

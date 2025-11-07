@@ -35,6 +35,8 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 증폭기
 - 제어 제품
 - 개별 트랜지스터
@@ -53,6 +55,8 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Analog Devices(US, [ADI](/company-analysis/adi/))
 - Broadcom(US, [AVGO](/company-analysis/avgo/))
 - Skyworks Solutions(US, [SWKS](/company-analysis/swks/))
@@ -60,6 +64,8 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Qorvo는 RF 솔루션 시장에서 주요 플레이어 중 하나로 평가받고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

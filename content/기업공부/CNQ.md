@@ -34,6 +34,8 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 다각화된 자산 포트폴리오: 다양한 유형의 석유 및 가스 자산 보유
 2. 통합 운영 모델: 업스트림부터 다운스트림까지 수직 계열화된 사업 구조
 3. 저비용 생산자: 효율적인 운영을 통한 경쟁력 있는 생산 비용 유지
@@ -53,12 +55,16 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 - 파이프라인: TC Energy(CA, TRP), Enbridge Inc.(CA, ENB)
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 6. 탐사: Canadian Natural Resources(CA, [CNQ](/company-analysis/cnq/)) (석유 및 가스 탐사)
 7. 시추: Precision Drilling(CA, PDS) (육상 및 해상 시추 서비스)
 8. 생산: Canadian Natural Resources(CA, [CNQ](/company-analysis/cnq/)) (원유 및 천연가스 생산)
 9. 운송: TC Energy(CA, TRP) (파이프라인 운영)
 10. 정제: Imperial Oil(CA, IMO) (석유 정제)
 11. 유통: Parkland Corporation(CA, PKI) (연료 유통)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -80,11 +86,15 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Suncor Energy(CA, [SU](/company-analysis/su/)): 통합 에너지 기업, 오일샌드 생산
 - Imperial Oil(CA, IMO): 통합 석유 기업, ExxonMobil 자회사
 - Cenovus Energy(CA, CVE): 통합 석유 및 천연가스 기업
 - Husky Energy(CA): 통합 에너지 기업 (Cenovus에 인수됨)
 - MEG Energy(CA, MEG): 오일샌드 전문 생산 기업
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -20,7 +20,11 @@ weight: 448
 
 #### 영위사업
 
+{{< adsense-infeed >}}
+
 Intel Corporation은 컴퓨팅 및 관련 제품과 서비스를 설계, 개발, 제조, 마케팅 및 판매하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - **클라이언트 컴퓨팅 그룹 (Client Computing Group)**: 데스크탑 및 노트북 프로세서, 칩셋 등
 - **[데이터센터](/industry-study/데이터센터/) 및 [자율 주행](/industry-study/자율-주행/) (Data Center and AI)**: 서버 프로세서, AI 가속기 등
@@ -42,6 +46,8 @@ Intel Corporation은 컴퓨팅 및 관련 제품과 서비스를 설계, 개발,
 
 Intel은 전 세계적으로 활동하고 있으며, 주요 판매국가는 미국, 중국, 독일, 일본, 한국 등이 있습니다.
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Advanced Micro Devices (US, [AMD](/company-analysis/amd/))**: CPU, GPU
 - **NVIDIA (US, [NVDA](/company-analysis/nvda/))**: GPU, AI 솔루션

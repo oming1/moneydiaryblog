@@ -22,6 +22,8 @@ Industry: 자동차 부품(Auto Parts)
 
 Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용 트럭을 위한 센서 기술과 소프트웨어를 제공합니다. 회사는 두 개의 세그먼트로 운영됩니다:
 
+{{< adsense-infeed >}}
+
 1. [자율 주행](/industry-study/자율-주행/) 솔루션: LiDAR(라이다) 센서, 관련 인식 및 자율주행 소프트웨어 설계, 제조 및 판매
 2. 고급 기술 및 서비스: 애플리케이션별 집적 회로, 픽셀 기반 센서, 고급 레이저 개발
 
@@ -31,10 +33,14 @@ Luminar Technologies, Inc.는 자동차 기술 기업으로, 승용차와 상용
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - 자동차 제조업체: Volvo (스웨덴, VOLV-B.ST), Mercedes-Benz (독일, MBG.DE)
 - 자율주행 기술 기업: Waymo (Alphabet 자회사, US, [GOOGL](/company-analysis/googl/))
+
+{{< adsense-infeed >}}
 
 ## 후방산업
 

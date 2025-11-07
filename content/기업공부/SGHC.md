@@ -36,6 +36,8 @@ SGHC Ltd(Super Group)는 온라인 스포츠 베팅 및 게임 사업을 영위�
 - 온라인 게임 및 베팅 소비자
 - 스포츠 리그 및 팀: 브랜드 파트너십 제공
 
+{{< adsense-infeed >}}
+
 ## 후방산업
 - 소프트웨어 개발: 게임 및 베팅 플랫폼 제공업체
 - 결제 시스템: Visa (US, [V](/company-analysis/v/)), Mastercard (US, [MA](/company-analysis/ma/))
@@ -47,6 +49,8 @@ SGHC Ltd(Super Group)는 온라인 스포츠 베팅 및 게임 사업을 영위�
 3. 마케팅 및 고객 유치: SGHC Ltd (US, [SGHC](/company-analysis/sghc/))
 4. 게임 및 베팅 서비스 제공: Betway, Spin 브랜드
 5. 고객 지원 및 리스크 관리: SGHC Ltd (US, [SGHC](/company-analysis/sghc/))
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -66,7 +70,11 @@ SGHC Ltd는 전 세계적으로 사업을 영위하고 있으며, 특히 유럽,
 4. 888 Holdings (영국, 888.L) (온라인 카지노, 포커, 스포츠 베팅)
 5. Bet365 (비상장) (온라인 스포츠 베팅, 카지노)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 SGHC Ltd는 온라인 게임 및 스포츠 베팅 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 

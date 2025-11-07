@@ -100,6 +100,8 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 
 ## 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 1. DuPont의 Mobility & Materials 사업 부문 인수 완료 (2022년)
     
 2. Mitsui & Co., Ltd.와 Nutrinova 합작 회사 설립 (2023년)
@@ -110,6 +112,8 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
     
 5. 주당 배당금 95% 감축 및 자사주 매입 프로그램 일시 중단 발표 (2025년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 1. The Vanguard Group (11.66%)
     
@@ -119,11 +123,15 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 
 ## 관련 ETF
 
+{{< adsense-infeed >}}
+
 1. Materials Select Sector SPDR Fund - XLB
 2. Vanguard Materials ETF - VAW
     
 3. iShares U.S. Basic Materials ETF - IYM
     
 4. Invesco S&P 500 Equal Weight Materials ETF - RTM
-    
+
+{{< adsense-infeed >}}
+
 5. First Trust Materials AlphaDEX Fund - FXZ

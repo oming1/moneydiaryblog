@@ -97,7 +97,9 @@ Planet Labs는 전 세계적으로 서비스를 제공하며, 특히 북미, 유
     - 핵심 산업: 지리정보시스템(GIS), 농업, 도시계획, 환경 모니터링
     - 역할: 위성 이미지 및 데이터 제공
     - 주요 기업: Esri (미국, 비상장), Trimble (미국, [TRMB](/company-analysis/trmb/))
-    
+
+{{< adsense-infeed >}}
+
 - 후방 산업:
     
     - 핵심 산업: 위성 제조 및 발사
@@ -128,6 +130,8 @@ Planet Labs는 전 세계적으로 서비스를 제공하며, 특히 북미, 유
 - BlackSky (미국, [BKSY](/company-analysis/bksy/)) - 실시간 지리공간 정보 제공
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 없으나, Planet Labs는 소형 위성 군집을 통한 일일 지구 관측 분야에서 선도적인 위치를 차지하고 있습니다.
 

@@ -20,12 +20,18 @@ weight: 858
 
 ## 산업섹터
 
+{{< adsense-infeed >}}
+
 - **Sector**: Materials (소재)
 - **Industry**: Metals & Mining (금속 및 광업)
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐나다 기반의 [비철금속](/industry-study/비철금속/)기업입니다. 주요 사업 영역은 제강용 [석탄](/industry-study/석탄/), [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [아연](/industry-study/아연/)의 채굴 및 생산이며, 에너지 부문에서도 활동하고 있습니다. 회사는 북미와 남미에서 광산을 운영하고 있으며, 전 세계 시장에 제품을 공급하고 있습니다.
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**:
     
@@ -52,6 +58,8 @@ Teck Resources는 다양한 천연자원 개발 및 생산에 종사하는 캐�
     - **대표 회사**: Codelco (CL, 비상장) - 구리 정제
     - **대표 회사**: Nyrstar (BE, NYR.BR) - 아연 정제
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 - **제강용 [석탄](/industry-study/석탄/)** (매출의 약 44%)
 - **[구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/)** (매출의 약 21%)
@@ -76,6 +84,8 @@ Teck Resources는 전 세계적으로 제품을 판매하고 있으며, 주요 �
 Teck Resources는 제강용 석탄 시장에서 주요 생산업체 중 하나이며, 아연 생산에서도 세계 상위권에 속합니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Elk Valley Resources 매각**: Glencore에 Elk Valley Resources의 77% 지분 매각 승인 획득 (2024)
 - **탐사 기업 지분 인수**: Fremont Gold 지분 인수 (2024)

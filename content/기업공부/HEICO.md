@@ -31,11 +31,15 @@ HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 항공사: 항공기 부품 및 서비스 구매  
     주요 기업: Delta Air Lines(US, [DAL](/company-analysis/dal/)), United Airlines(US, [UAL](/company-analysis/ual/))
 - 방위산업체: 군용 항공기 및 전자 시스템 부품 구매  
     주요 기업: Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Boeing(US, [BA](/company-analysis/ba/))
 - 전자 제조업체: 특수 전자 부품 구매
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 1. 연구 개발: HEICO (자체 R&D)
@@ -52,6 +56,8 @@ HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국이 주요 시장이며, 전 세계 100개 이상의 국가에 제품과 서비스를 제공하고 있습니다.
 ## 경쟁업체
 
@@ -61,6 +67,8 @@ HEICO는 항공우주, 방위, 전자 및 산업 시장을 위한 고도로 엔�
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, HEICO는 항공우주 부품 및 서비스 시장에서 중요한 위치를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -38,6 +38,8 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **원재료 공급**: 화학 물질, 포장재
     - **대표 회사**: Dow Inc. (미국, [DOW](/company-analysis/dow/)), International Paper Co. (미국, [IP](/company-analysis/ip/))
 - **제조**: 제품 생산 및 포장
@@ -54,8 +56,12 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 - [헬스케어](/industry-study/2산업헬스케어/): Crest, Oral-B (매출의 약 12%)
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 북미(약 45%), 유럽(약 23%), 아시아태평양(약 18%), 기타 지역(약 14%) (2023년 기준)
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Colgate-Palmolive Co. (미국, CL)**: 구강 케어 제품
 - **Kimberly-Clark Corp. (미국, KMB)**: 기저귀 및 여성용품

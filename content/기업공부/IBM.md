@@ -21,6 +21,8 @@ weight: 435
 **영위사업**: IBM은 주로 [클라우드](/industry-study/2산업클라우드/) 컴퓨팅, 인공지능(AI), 데이터 분석, IT 인프라, 보안 솔루션, 소프트웨어 및 컨설팅 서비스를 제공합니다.
 **전방/후방산업**:
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     - **금융 서비스**: 금융 기관에 클라우드 및 AI 솔루션 제공. 예: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)).
     - **헬스케어**: 병원 및 의료 기관에 데이터 분석 및 AI 솔루션 제공. 예: 존슨앤드존슨 (미국, [JNJ](/company-analysis/jnj/)).
@@ -30,10 +32,14 @@ weight: 435
 
 **밸류체인**:
 
+{{< adsense-infeed >}}
+
 - **연구 및 개발**: IBM의 혁신적인 기술 개발. 대표 회사: IBM Research.
 - **제조**: 하드웨어 및 소프트웨어 제품 제조. 대표 회사: IBM Systems.
 - **마케팅 및 판매**: 글로벌 시장에서의 제품 및 서비스 판매. 대표 회사: IBM Global Markets.
 - **서비스 및 지원**: 고객 지원 및 유지보수 서비스 제공. 대표 회사: IBM Services.
+
+{{< adsense-infeed >}}
 
 **주요제품**:
 
@@ -50,7 +56,11 @@ weight: 435
 - **아마존 (미국, [AMZN](/company-analysis/amzn/))**: 클라우드 서비스 (AWS).
 - **구글 (미국, [GOOGL](/company-analysis/googl/))**: 클라우드 서비스 (Google Cloud), AI 솔루션.
 
+{{< adsense-infeed >}}
+
 **산업 내 글로벌 시장 점유율**: IBM은 글로벌 IT 서비스 시장에서 약 7%의 점유율을 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 **최근 3년 내 주요 이슈**:
 - **레드햇 인수**: IBM은 2019년에 오픈소스 소프트웨어 회사인 레드햇을 인수하여 클라우드 사업을 강화했습니다 (2019).

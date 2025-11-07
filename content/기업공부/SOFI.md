@@ -45,13 +45,17 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 1. 소비자 금융: 개인 대출, 주택 담보 대출 등 금융 상품 이용
     
     - JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
-    
+
+{{< adsense-infeed >}}
+
 2. 교육: 학자금 대출 및 리파이낸싱 서비스 이용
     
     - Sallie Mae(US, SLM), Navient(US, NAVI)
     
 3. 투자 서비스: 개인 투자자들의 주식, ETF 거래 등
-    
+
+{{< adsense-infeed >}}
+
     - Charles Schwab(US, [SCHW](/company-analysis/schw/)), E*TRADE(US, ETFC)
 
 ## 후방산업:
@@ -89,6 +93,8 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 학자금 대출 리파이낸싱: 기존 학자금 대출의 금리 낮춤 (매출 비중: 약 40%, 2023년 기준)
 2. 개인 대출: 다양한 목적의 무담보 대출 (매출 비중: 약 30%, 2023년 기준)
 3. 주택 담보 대출: 주택 구입 및 리파이낸싱 (매출 비중: 약 15%, 2023년 기준)
@@ -104,6 +110,8 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 5. 금융 기관 (Galileo 플랫폼 사용)
 
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국을 중심으로 서비스 제공
 ## 경쟁업체

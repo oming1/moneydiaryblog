@@ -39,13 +39,19 @@ weight: 222
 - **의류**: 남성, 여성, 아동 의류.
 - **가구**: 소파, 침대, 테이블 등.
 
+{{< adsense-infeed >}}
+
 **주요 판매국가 (Major Sales Countries)**:
 
 - **미국**: 2023년 기준 매출액 176.6억 달러.
 - **캐나다**: 2023년 기준 매출액 33억 달러.
 - **국제 시장**: 2023년 기준 매출액 32.6억 달러. 주요 국가: 멕시코, 일본, 영국.
 
+{{< adsense-infeed >}}
+
 **경쟁업체 (Competitors)**:
+
+{{< adsense-infeed >}}
 
 - **Walmart (미국, [WMT](/company-analysis/wmt/))**: 다양한 제품군을 저렴한 가격에 제공.
 - **Amazon (미국, [AMZN](/company-analysis/amzn/))**: 온라인 쇼핑의 강자.

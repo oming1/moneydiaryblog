@@ -36,6 +36,8 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 주거용 부동산: Lennar Corporation(US, [LEN](/company-analysis/len/)), D.R. Horton(US, [DHI](/company-analysis/dhi/))
 - 상업용 부동산: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 전자상거래: Amazon(US, [AMZN](/company-analysis/amzn/)), eBay(US, [EBAY](/company-analysis/ebay/))
@@ -55,6 +57,8 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 
 미국, 유럽 (Shurgard Self Storage SA를 통해)
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Extra Space Storage(US, EXR): 셀프 스토리지 시설
 - CubeSmart(US, CUBE): 셀프 스토리지 및 물류 솔루션

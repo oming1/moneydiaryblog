@@ -5,7 +5,7 @@ lastmod: 2025-11-04T06:50:27+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
+weight: 2051
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
@@ -14,3 +14,4 @@ weight: 1
 # 주택관련지표(기존주택판매,주택착공승인)
 
 이 섹션의 내용입니다.
+

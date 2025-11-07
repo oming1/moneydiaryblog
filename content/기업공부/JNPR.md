@@ -24,7 +24,9 @@ Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 �
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 통신 서비스 및 IT 솔루션
     - **역할**: 최종 소비자에게 네트워크 솔루션 제공
     - **주요 기업**:
@@ -39,6 +41,8 @@ Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 �
         
         - Intel (미국, [INTC](/company-analysis/intc/)) - 반도체 제조업체
         - Broadcom (미국, [AVGO](/company-analysis/avgo/)) - 통신 반도체 솔루션 제공
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 

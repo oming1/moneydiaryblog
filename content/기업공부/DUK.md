@@ -47,9 +47,13 @@ Duke Energy는 미국에서 전기 및 가스 유틸리티 서비스를 제공�
 - **천연가스:** 가정 및 상업용 천연가스 공급
 **주요 판매국가**
 
+{{< adsense-infeed >}}
+
 - **미국:** 주요 매출 국가
 
 **경쟁업체**
+
+{{< adsense-infeed >}}
 
 - **NextEra Energy (미국, [NEE](/company-analysis/nee/)):** 전력 및 재생 에너지 공급
 - **Southern Company (미국, [SO](/company-analysis/so/)):** 전력 및 가스 공급

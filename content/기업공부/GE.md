@@ -21,6 +21,8 @@ weight: 369
 ### 영위사업
 GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에서 사업을 영위합니다. 주요 사업 부문으로는 GE Aerospace(항공), GE Vernova (에너지), GE HealthCare([헬스케어](/industry-study/2산업헬스케어/)) 등이 있습니다.
 
+{{< adsense-infeed >}}
+
 ### 전방/후방산업
 GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에서 사업을 영위합니다. 주요 사업 부문으로는 GE Aerospace(항공), GE Vernova (에너지), GE HealthCare([헬스케어](/industry-study/2산업헬스케어/)) 등이 있습니다.
 
@@ -32,6 +34,8 @@ GE는 항공, 에너지, 헬스케어, 재무 서비스 등 다양한 분야에�
     - **핵심 산업:** 전자 부품 생산, 기술 연구
     - **핵심 기업:** Intel (미국, [INTC](/company-analysis/intc/)), IBM (미국, [IBM](/company-analysis/ibm/))
 ### 밸류체인
+
+{{< adsense-infeed >}}
 
 - **부품 제조:** 전자 부품 및 기계 부품 제조
     - **대표 회사:** Intel (미국, [INTC](/company-analysis/intc/)), Bosch (독일, 비상장)

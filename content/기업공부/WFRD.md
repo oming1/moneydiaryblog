@@ -30,6 +30,8 @@ Weatherford는 석유 및 [천연가스](/industry-study/천연가스/) 산업�
         - ExxonMobil (미국, [XOM](/company-analysis/xom/))
         - Chevron (미국, [CVX](/company-analysis/cvx/))
 
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원유 및 가스 탐사 및 개발
@@ -41,6 +43,8 @@ Weatherford는 석유 및 [천연가스](/industry-study/천연가스/) 산업�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **서비스 제공**:
     
     - Weatherford는 유전 서비스와 관련된 다양한 기술과 서비스를 제공합니다.
@@ -51,13 +55,17 @@ Weatherford는 석유 및 [천연가스](/industry-study/천연가스/) 산업�
     
     - 새로운 프래킹 기술과 관련 장비를 개발합니다.
     - 대표 기업:
-        
+
+{{< adsense-infeed >}}
+
         - Schlumberger (프랑스, [SLB](/company-analysis/slb/)) - 유전 서비스 및 기술 솔루션
 
 ## 주요 제품
 
 - **프래킹 서비스(셰일가스)**: 수압 파쇄 작업을 통해 석유와 가스를 추출하는 데 사용됩니다.
-    
+
+{{< adsense-infeed >}}
+
     - 매출 비중: 전체 매출의 약 40% 차지.
     
 - **시추 장비**: 유정 시추를 위한 다양한 기술과 장비를 제공합니다.
@@ -76,6 +84,8 @@ Weatherford는 미국을 주요 시장으로 하며, 중동, 아시아 태평양
 
 Weatherford는 글로벌 유전 서비스 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간의 추세는 석유 가격 상승에 따라 증가하는 추세입니다.
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Chapter 11 파산 보호 신청**: 재정 구조 조정을 통해 약 62억 달러의 부채를 줄이고 재정적 기반을 강화함 (2019).
 - **경영진 변화**: Girish K. Saligram이 CEO로 임명되며 새로운 경영 전략을 추진함 (2020).

@@ -68,6 +68,8 @@ weight: 968
 
 ### **2025년 1월**
 
+{{< adsense-infeed >}}
+
 - **2025년 연초**: 추가 26% 하락으로 시작
 - **Q2 FY2025 실적 예고**: 더욱 악화된 전망
 
@@ -334,6 +336,8 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 - 주요 공급 업체: Air Liquide Air Liquide, Entegris [ENTG](/company-analysis/entg/)
 
 **반도체 제조 장비:**
+
+{{< adsense-infeed >}}
 
 - 사용처: SiC 웨이퍼 가공 및 디바이스 제조
 - 주요 공급 지역: 미국, 일본, 네덜란드

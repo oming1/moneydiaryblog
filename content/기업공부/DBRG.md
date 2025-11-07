@@ -25,6 +25,8 @@ DigitalBridge Group, Inc.(NYSE: DBRG)는 디지털 인프라에 특화된 글로
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 디지털 인프라 전문성: 25년 이상의 업계 경험을 바탕으로 한 깊이 있는 전문 지식
 2. 글로벌 네트워크: 전 세계적인 투자 및 운영 네트워크 보유
 3. 다각화된 포트폴리오: 5개 핵심 디지털 인프라 영역에 걸친 균형 잡힌 투자
@@ -83,5 +85,7 @@ DigitalBridge Group은 2024년 기준 글로벌 디지털 인프라 투자 시�
 - First Trust Cloud Computing ETF - SKYY
 - Invesco Alerian Galaxy Crypto Economy ETF - SATO
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

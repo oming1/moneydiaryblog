@@ -33,6 +33,8 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 혁신적 마이크로원자로 기술: 휴대 가능하고 온디맨드 방식의 청정 에너지 솔루션 제공
 2. 수직 계열화 전략: 연료 제조부터 운송, 원자로 운영까지 통합 솔루션 제공
 3. 강력한 특허 포트폴리오: 최근 인수한 특허들로 기술적 우위 확보
@@ -86,6 +88,8 @@ Nano Nuclear Energy Inc.(NASDAQ: NNE)는 첨단 원자력 에너지 및 기술 �
 - TerraPower(비상장): 진행파 원자로
 - Oklo Inc.(비상장): 마이크로 원자로
 - Ultra Safe Nuclear Corporation(비상장): 초고온가스로
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

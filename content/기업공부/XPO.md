@@ -37,6 +37,8 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 1. 북미 LTL(Less-Than-Truckload): 미국, 캐나다, 멕시코, 카리브해 지역에서 LTL 서비스 제공
 2. 유럽 운송: 전용 트럭 운송, LTL, 트럭 중개, 관리형 운송, 라스트마일 배송, 화물 포워딩 등 다양한 운송 솔루션 제공
 
+{{< adsense-infeed >}}
+
 주요 서비스로는 트럭 중개, 인터모달 서비스, 라스트마일 물류, 특송 운송, 화물 포워딩 등이 있습니다.
 ## 전방/후방산업
 
@@ -45,6 +47,8 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 - 물류 장비 제조업체
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 소매업체: Amazon(US, [AMZN](/company-analysis/amzn/))
 - 제조업체: ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -65,6 +69,8 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 - 화물 포워딩
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 캐나다, 멕시코, 프랑스, 영국, 기타 유럽 국가
 
 ## 경쟁업체
@@ -73,6 +79,8 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 - Crowley
 - Echo Global Logistics(US, ECHO)
 - Schneider(US, SNDR)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

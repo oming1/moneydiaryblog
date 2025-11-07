@@ -41,10 +41,14 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업:
 
 1. 운송업: 자동차, 항공, 해운 등 연료 소비 산업
-    
+
+{{< adsense-infeed >}}
+
     - Delta Air Lines(US, [DAL](/company-analysis/dal/)), FedEx(US, [FDX](/company-analysis/fdx/))
     
 2. 석유화학: 플라스틱, 합성섬유 등 석유 기반 제품 생산
@@ -68,6 +72,8 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
     
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 1. 원유 공급: 원유 생산 및 수입
     
@@ -88,7 +94,9 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 5. 유통 및 마케팅: 주유소 네트워크, 직접 판매
     
     - Phillips 66(US, [PSX](/company-analysis/psx/)), Shell(NL, SHEL)
-    
+
+{{< adsense-infeed >}}
+
 6. 최종 소비자: 개인, 기업, 정부 등
     
     - 일반 소비자, 항공사, 운송회사 등
@@ -115,6 +123,8 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 
 ## 주요 판매국가
 미국, 영국, 독일, 오스트리아, 스위스, 폴란드, 중국, 싱가포르, 말레이시아
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

@@ -36,8 +36,12 @@ Baidu는 중국의 주요 인터넷 검색 엔진으로, [광고](/industry-stud
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **검색 및 광고 서비스**:
-    
+
+{{< adsense-infeed >}}
+
     - Baidu는 검색 엔진을 통해 사용자에게 정보를 제공하고 광고 수익을 창출합니다.
     - 대표 기업: Google (미국, [GOOGL](/company-analysis/googl/)) - 경쟁 제품: 검색 엔진 및 디지털 광고
     
@@ -68,6 +72,8 @@ Baidu는 중국의 주요 인터넷 검색 엔진으로, [광고](/industry-stud
 
 Baidu는 주로 중국에서 매출을 올리며, 최근에는 아시아 태평양 지역에서도 사업을 확장하고 있습니다.
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Alibaba Group** ([BABA](/company-analysis/baba/)) - 경쟁 제품: 온라인 쇼핑 플랫폼 및 클라우드 서비스
 - **Tencent Holdings** (중국, 0700) - 경쟁 제품: 소셜 미디어 및 게임 플랫폼

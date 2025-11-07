@@ -40,6 +40,8 @@ Edison International(NYSE: EIX)은 미국 최대 전력 유틸리티 기업 중 
 5. 기술 혁신: 스마트 그리드, 에너지 저장 솔루션 등 첨단 기술 도입
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 가정용 전력 소비: 주거용 고객
@@ -60,6 +62,8 @@ Edison International(NYSE: EIX)은 미국 최대 전력 유틸리티 기업 중 
 
 미국 (캘리포니아 주 중심)
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Pacific Gas and Electric(US, [PCG](/company-analysis/pcg/)) - 캘리포니아 북부 전력 공급
@@ -71,7 +75,11 @@ Edison International(NYSE: EIX)은 미국 최대 전력 유틸리티 기업 중 
 ## 산업 내 글로벌 시장 점유율
 Edison International은 2024년 기준 미국 전력 유틸리티 시장에서 약 4.66%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - 산불 위험 관리를 위한 인프라 강화 프로그램 확대 (2023년)
 - 재생에너지 포트폴리오 확대: 태양광 및 풍력 발전 비중 증가 (2022-2024년)

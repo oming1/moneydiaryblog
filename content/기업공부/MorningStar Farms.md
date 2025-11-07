@@ -22,6 +22,8 @@ Industry: Packaged Foods (포장식품)
 
 MorningStar Farms는 Kellanova의 일부로, 비건 및 채식 식품을 생산하는 브랜드입니다. 1975년에 처음 소개된 이 브랜드는 전통적인 육류 제품의 식물 기반 대체품 [대체 단백질](/industry-study/대체-단백질/)([대체육](/industry-study/대체육/))을 제공합니다. MorningStar Farms의 제품에는 고기 없는 치킨 너겟, 팝콘 치킨, 콘 도그, 아침 소시지, 햄버거, 핫도그, 베이컨, 피자 스낵 롤 등이 포함됩니다. 2019년에는 모든 제품을 비건으로 전환할 계획을 발표했으며, 2021년까지 이를 완료할 예정이었습니다[](https://en.wikipedia.org/wiki/Morningstar_Farms)[](https://www.wbcsd.org/resources/morningstar-farms/).
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 - 비건 및 채식 식품의 제조 및 판매
@@ -37,6 +39,8 @@ MorningStar Farms는 Kellanova의 일부로, 비건 및 채식 식품을 생산�
 ## 주요 판매국가
 
 MorningStar Farms는 미국 내 25,000개 이상의 소매점에서 판매되며, 45,000개 이상의 외식업체에서도 사용되고 있습니다
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

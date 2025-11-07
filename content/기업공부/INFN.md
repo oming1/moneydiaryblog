@@ -113,7 +113,11 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 
 - Line card 삽입 → 전원·냉각·소프트웨어 로딩  
 
+{{< adsense-infeed >}}
+
 5단계: **검사·시험**
+
+{{< adsense-infeed >}}
 
 - BER(비트오류율), 전송거리·전력·파장 시험 → 출하 승인
 
@@ -143,6 +147,8 @@ Infinera(US, [INFN](/company-analysis/infn/))는 “빛(Photonic) 기반” 네�
 ---
 
 ### 주요 제품
+
+{{< adsense-infeed >}}
 
 - **DTN-X Series**: 장거리·해저용 DWDM 시스템 (매출비중 35%)
 - **XTC Series**: Metro·ROADM 통합 전송 장비 (매출비중 25%)

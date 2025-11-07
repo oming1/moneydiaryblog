@@ -139,10 +139,14 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 - State Street Corporation (5%)
 ## 관련 ETF
 
+{{< adsense-infeed >}}
+
 - Industrial Select Sector SPDR Fund - XLI
 ## 관련 ETF
 
 - Industrial Select Sector SPDR Fund - XLI
 - iShares U.S. Industrials ETF - IYJ
-    
+
+{{< adsense-infeed >}}
+
 - Vanguard Industrials ETF - VIS

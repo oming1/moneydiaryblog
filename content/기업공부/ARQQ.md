@@ -35,6 +35,8 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - 암호화 소프트웨어 개발:
     - Arqit는 자체적으로 양자 안전 암호화 기술을 개발합니다.
     - 대표 기업: Quantum Computing Inc. (미국, [QUBT](/company-analysis/qubt/)), Intellicheck (미국, IDN)
@@ -43,6 +45,8 @@ Arqit Quantum Inc.는 영국에 본사를 둔 회사로, 암호화 소프트웨�
     
     - 개발된 기술을 다양한 산업 분야에 적용합니다.
     - 대표 기업: Upland Software (미국, UPLD), Beamr Imaging (이스라엘, BMR)
+
+{{< adsense-infeed >}}
 
 ## 주요 제품
 

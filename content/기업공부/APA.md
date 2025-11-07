@@ -19,6 +19,8 @@ weight: 77
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 ## 영위사업
 
@@ -42,7 +44,9 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
     

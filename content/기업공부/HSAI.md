@@ -50,7 +50,9 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
     - 광학·포토닉스 부품 수율 및 생산 스케일업 리스크.
     - IP/데이터 보안 이슈와 해외 조달 제한 가능성.
 - 공급망
-    
+
+{{< adsense-infeed >}}
+
     - 레이저광원(VCSEL/LD), 수광기(InGaAs/Si APD), 광학부품(렌즈·필터), 스캐닝 모듈, 제어보드/펌웨어 등. 일부는 외부 파운드리/EMS와 협력.
 
 - 최근 이슈
@@ -117,6 +119,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
     - 로보틱스/물류: AMR/AGV, 창고·항만 자동화
     - 자율주행/맵핑: 로보택시, 디지털 트윈·스마트시티 인프라
 
+{{< adsense-infeed >}}
+
 - 후방산업(원자재/부품 공급)
     - 포토닉스/레이저: Coherent(US, [COHR](/company-analysis/cohr/)), Lumentum(US, [LITE](/company-analysis/lite/))
     - 파운드리/EMS: GlobalFoundries(US, [GFS](/company-analysis/gfs/)), Foxconn(TW, HNHPF) 등
@@ -157,6 +161,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 
 ### 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 - 중국: 다수 OEM 양산 중심
 - 유럽/북미/아시아기타: 기술 검증·초기 채택 확대(정확 비중: 확인 필요)
 
@@ -168,6 +174,8 @@ Hesai Group은 차량용 및 산업용 라이다(LiDAR) 센서를 설계·제조
 - Ouster(US, [OUST](/company-analysis/oust/)) – 디지털 라이다, 산업/스마트시티 강점
 - Aeva(US, [AEVA](/company-analysis/aeva/)) – FMCW 4D 라이다(속도벡터)
 - Cepton(US, [CPTN](/company-analysis/cptn/)), RoboSense(CN, 비상장), Livox(CN, 비상장) 등
+
+{{< adsense-infeed >}}
 
 ---
 

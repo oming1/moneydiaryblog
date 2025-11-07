@@ -31,6 +31,8 @@ JD.com, Inc., 또한 알려진 이름인 Jingdong (京东),은 1998년에 설립
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 역할: 소비자에게 직접 판매
 - 주요 고객: 개인 소비자 및 기업
 
@@ -53,6 +55,8 @@ JD.com은 주로 중국에서 운영되며, 최근에는 국제 시장으로도 
 - 강력한 브랜드 인지도와 고객 기반
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Alibaba Group (중국, [BABA](/company-analysis/baba/)) - Tmall과 Taobao 운영
 - Pinduoduo (중국, [PDD](/company-analysis/pdd/)) - 소셜 쇼핑 플랫폼

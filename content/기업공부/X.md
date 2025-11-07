@@ -20,12 +20,16 @@ weight: 984
 
 #### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:**
     - **자동차 제조:** 철강을 사용하는 자동차 제조업체 (예: Ford, General Motors)
     - **건설:** 철강을 사용하는 건설업체 (예: Bechtel, Turner Construction)
 - **후방산업:**
     - **철광석 채굴:** 철강 제조에 필요한 원자재를 공급하는 업체 (예: Vale, Rio Tinto)
     - **코크스 제조:** 철강 제조에 필요한 코크스를 생산하는 업체 (예: SunCoke Energy)
+
+{{< adsense-infeed >}}
 
 #### 밸류체인
 
@@ -39,6 +43,8 @@ weight: 984
     - 철강 제품의 유통 및 판매
 
 #### 주요제품
+
+{{< adsense-infeed >}}
 
 - **평판 압연 제품:** 슬래브, 스트립 밀 플레이트, 시트, 주석 밀 제품
 - **튜블러 제품:** 무봉제 및 전기 저항 용접 강관 및 튜빙 제품
@@ -58,6 +64,8 @@ weight: 984
 - **Cleveland-Cliffs Inc. (US, [CLF](/company-analysis/clf/)):** 미국 철강 제조업체
 #### 산업 내 글로벌 시장 점유율
 - **철강 산업 시장 점유율:** 약 5% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 - **Nippon Steel 인수 제안:** Nippon Steel의 인수 제안 및 관련 논의 (2023-2024)

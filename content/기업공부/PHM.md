@@ -49,6 +49,8 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 
 **비유**: PulteGroup은 “자동차 한 대를 파는 게 아니라, 자동차 설계→제조→금융상품→정비소까지 한 회사가 책임지는 완성차 기업”과 같습니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -112,6 +114,8 @@ PulteGroup(US, [PHM](/company-analysis/phm/))는 “집을 설계·짓고, 금�
 - 기초·지반 작업 → 모듈러 부품 조립 → 전기·배관·HVAC 인입
 
 4단계: **내·외장 마감·검사**
+
+{{< adsense-infeed >}}
 
 - 마감재·설비 설치 → 품질·안전·에너지 성능 검사
 

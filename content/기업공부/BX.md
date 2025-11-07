@@ -34,6 +34,8 @@ Blackstone은 기관투자자, 연금펀드, 고액자산가 등을 대상으로
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 1. 글로벌 네트워크: 전 세계에 걸친 광범위한 투자 네트워크와 정보력
@@ -57,6 +59,8 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 금융 데이터 제공업체: Bloomberg L.P., Refinitiv
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 자금조달: Blackstone(US, [BX](/company-analysis/bx/)) (투자자로부터 자금 모집)
 2. 투자대상 발굴: Blackstone(US, [BX](/company-analysis/bx/)) (딜소싱 및 실사)
 3. 투자 실행: Blackstone(US, [BX](/company-analysis/bx/)) (기업 인수, 부동산 매입 등)
@@ -64,6 +68,8 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 5. 가치 창출: Blackstone(US, [BX](/company-analysis/bx/)) (운영 개선, 성장 전략 수립)
 6. 투자 회수: Blackstone(US, [BX](/company-analysis/bx/)) (IPO, M&A, 매각 등)
 7. 성과 분배: Blackstone(US, [BX](/company-analysis/bx/)) (투자자에게 수익 분배)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -74,6 +80,8 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 인프라 펀드: 에너지, 운송, 통신 등 인프라 투자, 매출의 약 5% (2024년 기준)
 
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - 연금펀드: CalPERS(US), APG(NL), CPPIB(CA)
 - 국부펀드: GIC(SG), ADIA(AE), CIC(CN)

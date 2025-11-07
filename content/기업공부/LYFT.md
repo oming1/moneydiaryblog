@@ -21,7 +21,11 @@ weight: 541
 ## 영위사업
 Lyft는 차량 공유, 자전거 공유, 스쿠터 공유 등 다양한 운송 옵션을 제공하는 모빌리티 서비스 기업입니다.
 
+{{< adsense-infeed >}}
+
 이 회사는 미국과 캐나다에서 플랫폼과 모바일 기반 애플리케이션을 통해 다양한 교통 옵션을 제공하는 복합 운송 네트워크다.  
+
+{{< adsense-infeed >}}
 
 이 회사는 운송 네트워크 회사로서 운영하는 Lyft 앱을 통해 운전자와 승객을 매칭할 수 있는 마켓플레이스를 제공한다.  
   
@@ -58,12 +62,18 @@ Lyft는 차량 공유, 자전거 공유, 스쿠터 공유 등 다양한 운송 �
 미국과 캐나다
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Uber Technologies(US, [UBER](/company-analysis/uber/))
 - DoorDash(US, [DASH](/company-analysis/dash/))
 - Grab Holdings(US, [GRAB](/company-analysis/grab/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Lyft는 북미 차량 공유 시장에서 Uber에 이어 2위를 차지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Lyft는 북미 차량 공유 시장에서 Uber에 이어 2위를 차지하고 있습니다.

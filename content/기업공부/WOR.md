@@ -23,6 +23,8 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업**:
     - **핵심 산업 및 역할**: 에너지 생산, 화학 제조, 자원 추출
     - **관련 기업**: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/))
@@ -43,9 +45,13 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
     - **대표 회사**: Bechtel (US, 비상장) - 건설 및 프로젝트 관리
     - **대표 회사**: AECOM (US, [ACM](/company-analysis/acm/)) - 인프라 및 환경 서비스
 - **운영 및 유지보수**: 프로젝트 운영 지원 및 유지보수
-    
+
+{{< adsense-infeed >}}
+
     - **대표 회사**: KBR, Inc. (US, KBR) - 기술 및 엔지니어링 솔루션
     - **대표 회사**: SNC-Lavalin (CA, SNC) - 엔지니어링 및 건설 서비스
+
+{{< adsense-infeed >}}
 
 ## 주요제품 및 서비스
 - **엔지니어링 서비스**
@@ -55,6 +61,8 @@ Worley Limited는 호주에 본사를 둔 글로벌 엔지니어링 및 전문 �
 
 ## 주요 판매국가
 Worley는 아메리카, 유럽, 중동, 아프리카, 아시아 태평양 지역 등 전 세계적으로 운영되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 - **Fluor Corporation (US, [FLR](/company-analysis/flr/))** - 글로벌 엔지니어링 및 건설 회사

@@ -26,10 +26,14 @@ Under Armour는 성능 향상을 위한 의류, 신발 및 액세서리를 개�
 - **디지털 비즈니스**: 브랜드 라이선싱, 디지털 구독, 광고 및 기타 디지털 비즈니스 활동
 #### 전방/후방산업 (Upstream/Downstream Industries)
 
+{{< adsense-infeed >}}
+
 - **전방산업:** 섬유 및 원료 공급업체 (의류 및 신발 제조에 필요한 원료 제공)
     - 주요 기업: BASF (DE, BAS), Dow Chemical (US, [DOW](/company-analysis/dow/))
 - **후방산업:** 소매 및 유통업체 (최종 소비자에게 제품 제공)
     - 주요 기업: Walmart (US, [WMT](/company-analysis/wmt/)), Amazon (US, [AMZN](/company-analysis/amzn/))
+
+{{< adsense-infeed >}}
 
 #### 밸류체인 (Value Chain)
 1. **디자인 및 개발 (Design & Development)**
@@ -38,6 +42,8 @@ Under Armour는 성능 향상을 위한 의류, 신발 및 액세서리를 개�
     - 대표 기업: Under Armour, Adidas (DE, [ADS](/company-analysis/ads/))
 3. **유통 (Distribution)**
     - 대표 기업: Under Armour, Foot Locker (US, [FL](/company-analysis/fl/))
+
+{{< adsense-infeed >}}
 
 #### 주요제품 (Key Products)
 - **HeatGear**: 더운 날씨에 착용하는 의류

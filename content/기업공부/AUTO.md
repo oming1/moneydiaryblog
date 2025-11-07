@@ -27,11 +27,15 @@ AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/))
 - 물류: DHL (DE, DPW)
 
+{{< adsense-infeed >}}
+
 후방산업:
 - 역할: 부품 및 기술 공급
 - 로봇 부품: ABB (CH, ABBN)
 - 센서 기술: SICK AG (DE, SIK)
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 ![](/images/Pasted%20image%2020230629150014.png)
 - 자동화 저장 및 검색 시스템 (AS/RS) (매출 비중 정보 없음)
@@ -41,7 +45,11 @@ AutoStore는 창고 자동화 산업에서 운영되는 [로봇](/industry-study
 - 소프트웨어 솔루션 (매출 비중 정보 없음)
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 AutoStore는 전 세계적으로 제품을 판매하고 있습니다. 주요 시장은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - 유럽 (노르웨이, 독일 제외): 43.2% (2023년 기준)
 - 미국: 28.9% (2023년 기준)

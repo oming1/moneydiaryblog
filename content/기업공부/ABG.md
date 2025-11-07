@@ -38,6 +38,8 @@ Asbury는 미국 전역에 약 154개의 신차 딜러십을 운영하며, 31개
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 차량 공급: 자동차 제조업체
 2. 부품 공급: 자동차 부품 제조업체
 3. 소매 판매 및 서비스: Asbury Automotive Group (US, [ABG](/company-analysis/abg/))
@@ -53,7 +55,11 @@ Asbury는 미국 전역에 약 154개의 신차 딜러십을 운영하며, 31개
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 Asbury Automotive Group은 주로 미국 시장에서 사업을 영위하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -62,6 +68,8 @@ Asbury Automotive Group은 주로 미국 시장에서 사업을 영위하고 있
 3. Lithia Motors (US, [LAD](/company-analysis/lad/)) - 자동차 소매
 4. AutoNation (US, [AN](/company-analysis/an/)) - 신차 및 중고차 판매
 5. Group 1 Automotive (US, [GPI](/company-analysis/gpi/)) - 자동차 소매
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -34,7 +34,9 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
     - 주요 기업: PacifiCorp (미국, 비상장), Google (미국, [GOOGL](/company-analysis/googl/))
     
 - 후방 산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업: 원자로 부품 제조, 핵연료 생산
     - 역할: 원자로 부품 및 연료 공급
     - 주요 기업: [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장), Framatome (프랑스, 비상장)
@@ -43,7 +45,9 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 - 원자로 설계 및 개발:
     - TerraPower는 자체적으로 Natrium 기술을 개발합니다.
     - 대표 기업: NuScale Power (미국, [SMR](/industry-study/smr/)), X-energy (미국, [XE](/company-analysis/xe/))
-    
+
+{{< adsense-infeed >}}
+
 - 원자로 건설 및 운영:
     
     - TerraPower는 파트너사와 함께 원자로를 건설하고 운영할 계획입니다.
@@ -54,6 +58,8 @@ TerraPower는 [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 - 용융염 에너지 저장 시스템 (5시간 이상의 에너지 저장 능력)
 
 ## 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 현재 미국을 중심으로 사업을 전개하고 있으며, 향후 UAE 등 해외 시장 진출을 모색하고 있습니다.
 

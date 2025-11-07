@@ -37,11 +37,15 @@ Wells Fargo는 미국의 다국적 금융 서비스 회사로, 소매 및 도매
         - Bank of America (미국, [BAC](/company-analysis/bac/))
 
 - **후방 산업 (Upstream Industry)**:
-    
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 자본 시장 및 투자 서비스
     - **역할**: Wells Fargo의 서비스에 필요한 자본 공급
     - **주요 기업**:
-        
+
+{{< adsense-infeed >}}
+
         - BlackRock (미국, [BLK](/company-analysis/blk/))
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 

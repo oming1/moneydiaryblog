@@ -20,6 +20,8 @@ weight: 359
 
 #### 영위사업 (Business Operations)
 
+{{< adsense-infeed >}}
+
 Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하는 [CDMO](/industry-study/cdmo/) (Contract Development and Manufacturing Organization)로, 생물학적 약물의 발견, 개발 및 제조를 지원합니다. 주요 사업 영역은 다음과 같습니다:
 - **생물학적 발견** (Biologics Discovery)
 - **개발 및 제조** (Development and Manufacturing)
@@ -40,6 +42,8 @@ Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하�
 3. **제조 (Manufacturing)**
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
 
+{{< adsense-infeed >}}
+
 #### 주요제품 (Key Products)
 
 - **단백질 생성** (Protein Generation)
@@ -50,6 +54,8 @@ Fujifilm Diosynth Biotechnologies는 생명공학 기술 플랫폼을 제공하�
 - **미국:** 매출의 50% 이상 (2024년 기준)
 - **유럽:** 주요 시장 중 하나
 - **일본:** 본사 위치 및 주요 시장
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체 (Competitors)
 - **삼성바이오로직스** (KR, 207940): 바이오의약품 제조 서비스 제공

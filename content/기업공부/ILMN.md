@@ -43,7 +43,11 @@ Illumina는 전 세계 160개 이상의 국가에 서비스를 제공하고 있�
 4. Qiagen (독일, QGEN)
 5. Agilent Technologies (US, [A](/company-analysis/a/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 2014년 기준 Illumina는 유전체 시퀀싱 기계 시장의 70%를 차지했으며, Illumina 기계는 생산된 모든 DNA 데이터의 90% 이상을 차지했습니다
 ## 최근 3년 내 주요 이슈

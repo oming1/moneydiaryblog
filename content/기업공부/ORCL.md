@@ -33,6 +33,8 @@ weight: 664
     - **핵심 기업**: Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)), Google Cloud (미국, [GOOGL](/company-analysis/googl/))
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **소프트웨어 개발 (Software Development)**:
     - **설명**: 데이터베이스 및 엔터프라이즈 소프트웨어 개발
     - **대표회사**: Oracle (미국, [ORCL](/company-analysis/orcl/)), Microsoft (미국, [MSFT](/company-analysis/msft/))
@@ -45,6 +47,8 @@ weight: 664
 
 #### 주요제품
 
+{{< adsense-infeed >}}
+
 - **Oracle Database**: 세계에서 가장 인기 있는 관계형 데이터베이스 관리 시스템
 - **Oracle Cloud Infrastructure (OCI)**: 클라우드 인프라 서비스
 - **Oracle Fusion Cloud Applications**: ERP, HCM, SCM 등 다양한 엔터프라이즈 소프트웨어 솔루션
@@ -54,11 +58,17 @@ weight: 664
 - [**미국**: 전체 매출의 47.7%](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)[1](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)
 - [**영국, 일본, 독일, 캐나다**: 주요 매출 국가](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)[1](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
 - **Microsoft (미국, [MSFT](/company-analysis/msft/))**: 클라우드 서비스, 데이터베이스 소프트웨어
 - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/))**: 클라우드 인프라 서비스
 - **IBM (미국, [IBM](/company-analysis/ibm/))**: 데이터베이스 관리 및 클라우드 서비스
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 [오라클은 글로벌 데이터베이스 관리 시스템(DBMS) 시장에서 약 20%의 점유율을 차지하고 있습니다 (2024년 기준)](https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company/)[2](https://www.statista.com/topics/2509/oracle/).

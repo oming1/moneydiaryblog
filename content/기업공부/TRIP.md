@@ -25,6 +25,8 @@ weight: 886
 #### 영위사업
 TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등에 대한 리뷰와 평가를 제공하는 플랫폼입니다. 사용자들이 직접 작성한 리뷰와 평점을 통해 여행 계획을 세우고, 호텔 예약, 관광지 정보, 음식점 추천 등을 받을 수 있습니다
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업:**
@@ -46,7 +48,9 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
 - **플랫폼 운영:**
     - TripAdvisor (미국, [TRIP](/company-analysis/trip/)): 웹사이트 및 모바일 앱 운영.
     - Expedia Group (미국, [EXPE](/company-analysis/expe/)): 여행 예약 플랫폼 운영.
-      
+
+{{< adsense-infeed >}}
+
 - **광고 및 마케팅:**
     
     - Alphabet Inc. (미국, [GOOGL](/company-analysis/googl/)): 디지털 광고 플랫폼.
@@ -60,6 +64,8 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
 - **유럽:** 주요 여행지에 대한 리뷰와 예약 서비스 제공.
 - **아시아:** 특히 한국, 일본, 중국 등에서 높은 사용자 수를 보유.
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
 
 - **Expedia Group (미국, [EXPE](/company-analysis/expe/)):** 여행 예약 및 리뷰 서비스.
@@ -71,7 +77,11 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
 
 [TripAdvisor는 글로벌 여행 리뷰 및 예약 시장에서 주요 플레이어 중 하나로, 특히 사용자 리뷰 기반의 여행 정보 제공에서 높은 점유율을 유지하고 있습니다](https://www.tripadvisor.co.kr/Attractions-g294197-Activities-Seoul.html)[2](https://www.tripadvisor.co.kr/Attractions-g294197-Activities-Seoul.html).
 
+{{< adsense-infeed >}}
+
 #### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **COVID-19 팬데믹:** 팬데믹으로 인한 여행 제한과 감소로 인해 매출에 큰 영향을 받음 (2020-2021).
 - **모바일 앱 개선:** 사용자 경험을 향상시키기 위한 모바일 앱 기능 개선 (2022).

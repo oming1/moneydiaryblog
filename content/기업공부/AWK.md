@@ -23,6 +23,8 @@ American Water Works는 미국 내에서 수도 및 하수도 서비스를 제�
 American Water Works는 미국 내에서 수도 및 하수도 서비스를 제공하는 회사입니다. 주거, 상업, 산업, 공공 기관 등 다양한 고객에게 물과 하수도 서비스를 제공합니다.
 ### 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - **전방산업:**
     - **건설업:** 수도 및 하수도 인프라 건설 (대표 기업: Bechtel, Fluor)
     - **부동산 개발업:** 주거 및 상업용 부동산 개발 (대표 기업: Lennar (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/)))
@@ -37,11 +39,17 @@ American Water Works는 미국 내에서 수도 및 하수도 서비스를 제�
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **수도 서비스:** 주거, 상업, 산업용 물 공급
 - **하수도 서비스:** 하수도 처리 및 관리
 
+{{< adsense-infeed >}}
+
 ### 주요 판매국가
 - **미국:** 미국 내 14개 주에서 약 3,500만 명의 고객에게 서비스 제공
+
+{{< adsense-infeed >}}
 
 ### 경쟁업체
 
@@ -53,5 +61,7 @@ American Water Works는 미국 내에서 수도 및 하수도 서비스를 제�
 - **American Water Works:** 미국 내 시장 점유율 약 72.91% (2024년 기준)
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Silver Creek Water Corporation 인수 승인** (2024년)

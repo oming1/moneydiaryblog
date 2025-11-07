@@ -19,6 +19,8 @@ weight: 535
 
 ### 영위사업
 
+{{< adsense-infeed >}}
+
 Southwest Airlines Co.는 저비용 항공사([LCC](/industry-study/lcc/)) 미국 및 인근 국제 시장에서 정기 [항공 운송](/industry-study/항공-운송/) 서비스를 제공하는 항공사입니다. 이 회사는 817대의 Boeing 737 항공기를 운영하며, 42개 주, 워싱턴 D.C., 푸에르토리코 및 멕시코, 자메이카, 바하마, 아루바, 도미니카 공화국, 코스타리카, 벨리즈, 쿠바, 케이맨 제도, 터크스 케이커스 제도 등 10개 인근 국제 국가에 서비스를 제공합니다
 
 ### 전방/후방산업
@@ -27,6 +29,8 @@ Southwest Airlines Co.는 저비용 항공사([LCC](/industry-study/lcc/)) 미�
 - 호텔업체: Marriott International (US, [MAR](/company-analysis/mar/)), Hilton Worldwide (US, [HLT](/company-analysis/hlt/))
 
 **후방산업:**
+
+{{< adsense-infeed >}}
 
 - 항공기 제조업체: Boeing (US, [BA](/company-analysis/ba/)), Airbus (FR, [AIR](/company-analysis/air/))
 - 연료 공급업체: Chevron (US, [CVX](/company-analysis/cvx/)), ExxonMobil (US, [XOM](/company-analysis/xom/))

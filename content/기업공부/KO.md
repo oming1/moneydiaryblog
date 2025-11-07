@@ -22,7 +22,9 @@ weight: 493
 - **전방산업**: 소매업, 레스토랑 및 외식업
     - **핵심 산업 및 역할**: 소매업체와 레스토랑은 Coca-Cola 제품을 최종 소비자에게 판매합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), McDonald’s Corporation (미국, [MCD](/company-analysis/mcd/))
-      
+
+{{< adsense-infeed >}}
+
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 음료 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
     - **관련 기업**: Archer Daniels Midland Company (미국, ADM), Ball Corporation (미국, [BALL](/company-analysis/ball/))
@@ -45,13 +47,19 @@ weight: 493
 - **멕시코**: 큰 시장 중 하나로, 높은 매출 비중
 - **중국**: 빠르게 성장하는 시장
 
+{{< adsense-infeed >}}
+
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **PepsiCo Inc. (미국, [PEP](/company-analysis/pep/))**: 탄산음료, 스낵
 - **Keurig Dr Pepper Inc. (미국, [KDP](/company-analysis/kdp/))**: 탄산음료, 커피
 - **Nestlé S.A. (스위스, [NESN](/company-analysis/nesn/))**: 물, 유제품 음료
 #### 산업 내 글로벌 시장 점유율
 - **Coca-Cola**: 글로벌 청량음료 시장에서 약 45%의 점유율 (2023년 기준)
+
+{{< adsense-infeed >}}
 
 #### 최근 3년 내 주요 이슈
 - **COVID-19 팬데믹**: 외식업 감소로 인한 매출 하락 (2020년)

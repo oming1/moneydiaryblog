@@ -29,6 +29,8 @@ Furbo는 주로반려동물용 스마트 카메라를 개발 및 판매합니다
     - **핵심 산업:** 센서 제조, AI 소프트웨어 개발
     - **핵심 기업:** [SONY](/company-analysis/sony/) (일본, 6758), NVIDIA (미국, [NVDA](/company-analysis/nvda/))
 
+{{< adsense-infeed >}}
+
 ### 밸류체인
 - **부품 제조:** 센서, 모터 등 핵심 부품 제조
     - **대표 회사:** [SONY](/company-analysis/sony/) (일본, 6758), Bosch (독일, 비상장)
@@ -41,8 +43,12 @@ Furbo는 주로반려동물용 스마트 카메라를 개발 및 판매합니다
 
 ### 주요제품
 
+{{< adsense-infeed >}}
+
 - **Furbo Dog Camera:** 반려동물 모니터링 카메라 (간식 던지기, 양방향 오디오, 실시간 영상 제공)
 ### 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Furbo는 주로 미국, 유럽, 아시아 등에서 제품을 판매하고 있으며, 주요 매출 국가는 미국입니다.
 ### 경쟁업체

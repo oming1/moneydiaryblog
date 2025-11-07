@@ -25,6 +25,8 @@ weight: 33
 - **후방산업**: 보험 상품 공급, 재보험
     - **핵심 기업**: Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
 
+{{< adsense-infeed >}}
+
 **주요제품**:
 
 - **고정 연금 (Fixed Annuities)**: 안정적인 이자율을 제공하는 연금 상품
@@ -38,6 +40,8 @@ weight: 33
 - **Prudential Financial (미국, PRU)**: 생명 보험 및 연금 상품 제공
 - **MetLife (미국, MET)**: 생명 보험, 연금, 직원 복지 프로그램 제공
 - **Lincoln National Corporation (미국, LNC)**: 생명 보험 및 연금 상품 제공
+
+{{< adsense-infeed >}}
 
 **산업 내 글로벌 시장 점유율**:
 - **최근 3년간 추이**: AEL의 시장 점유율은 미국 내에서 약 5%로 안정적 유지

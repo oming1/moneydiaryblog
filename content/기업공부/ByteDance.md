@@ -19,9 +19,13 @@ weight: 166
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 인터넷 콘텐츠 및 정보(Internet Content & Information)
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 ByteDance는 2012년 설립된 [중국](/industry-study/4국가중국/) 기반의 글로벌 인터넷 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
@@ -77,12 +81,16 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, 인도네시아, 브라질 등입니다.
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Meta Platforms(US, [META](/company-analysis/meta/)) - Facebook, Instagram
 2. Alphabet(US, [GOOGL](/company-analysis/googl/)) - YouTube
 3. Snap(US, [SNAP](/company-analysis/snap/)) - Snapchat
 4. Kuaishou Technology(HK, 1024)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, ByteDance는 소셜 미디어 및 디지털 콘텐츠 시장에서 주요 플레이어로 자리잡고 있습니다.
 ## 최근 3년 내 주요 이슈

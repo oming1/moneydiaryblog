@@ -21,6 +21,8 @@ PetMed Express, Inc.(PETS)는 미국의 온라인 반려동물 약국입니다.
 산업: 제약 소매(Pharmaceutical Retailers)
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국입니다. 1996년에 설립된 이 회사는 플로리다주 폼파노 비치에 본사를 두고 있습니다. PetMed Express의 제품 라인에는 개, 고양이, 말을 위한 약 750개의 SKU가 있습니다. 이러한 제품에는 Frontline Plus, K9 Advantix, Advantage, Heartgard Plus, Sentinel 및 Interceptor와 같은 브랜드의 약물이 포함됩니다.
 
 - PetMed Express는 개, 고양이, 말을 위한 처방 및 비처방 약품, 건강 제품, 기타 용품을 판매합니다. 주요 제품으로는 벼룩 및 진드기 관리 제품, 뼈 및 관절 관리 제품, 비타민, 간식, 영양 보충제, 위생 용품, 심장사상충 예방약, 관절염 치료제, 피부염 치료제, 갑상선 약물, 당뇨병 약물, 진통제 등이 있습니다
@@ -36,6 +38,8 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 1. 제품 소싱: 제약 및 반려동물 용품 제조업체로부터 구매
 2. 마케팅 및 판매: 웹사이트, 모바일 앱, 고객 지원 센터, 우편/인쇄물을 통한 판매
 3. 유통: 직접 배송
@@ -48,6 +52,8 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 - 비타민 및 영양 보충제
 - 반려동물 식품 및 용품
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 미국
@@ -57,6 +63,8 @@ PetMed Express는 1-800-PetMeds로 운영되는 전국적인 반려동물 약국
 - Petco(US, [WOOF](/company-analysis/woof/))
 - Amazon(US, [AMZN](/company-analysis/amzn/))
 - Walmart(US, [WMT](/company-analysis/wmt/))
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

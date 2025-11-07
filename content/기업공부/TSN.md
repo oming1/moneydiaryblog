@@ -20,7 +20,11 @@ weight: 891
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Tyson Foods는 세계 최대 규모의 식품 회사 중 하나로, 주로 육류 가공 및 육류 유통에 특화되어 있습니다. 회사는 소고기, 돼지고기, 닭고기 제품과 함께 가공식품을 생산하고 판매합니다. 또한 Tyson®, Jimmy Dean®, Hillshire Farm®, Ball Park®, Wright®, Aidells®, ibp®, State Fair® 등의 브랜드를 보유하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 - **전방산업**:
@@ -41,11 +45,15 @@ Tyson Foods는 세계 최대 규모의 식품 회사 중 하나로, 주로 육�
     
     - **대표 회사**: Hormel Foods (US, [HRL](/company-analysis/hrl/)) - 육류 가공
     - **대표 회사**: Conagra Brands (US, [CAG](/company-analysis/cag/)) - 가공식품 제조
-    
+
+{{< adsense-infeed >}}
+
 - **유통**: 소매점 및 식품 서비스 업체에 제품 공급
     
     - **대표 회사**: Sysco Corporation (US, [SYY](/company-analysis/syy/)) - 식품 유통
     - **대표 회사**: US Foods Holding (US, [USFD](/company-analysis/usfd/)) - 식품 유통
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 - **닭고기 제품** (매출의 약 30%)

@@ -30,6 +30,8 @@ Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 - 소매업: Walmart (US, [WMT](/company-analysis/wmt/)), Target (US, [TGT](/company-analysis/tgt/))
 - 식품 유통: Sysco (US, [SYY](/company-analysis/syy/)), US Foods (US, [USFD](/company-analysis/usfd/))
@@ -39,6 +41,8 @@ Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁
 - 코코아 생산: Barry Callebaut (스위스, BARN.SW)
 - 설탕 생산: Südzucker (독일, SZU.DE)
 - 포장재: International Paper (US, [IP](/company-analysis/ip/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 1. 원재료 조달: Barry Callebaut (스위스, BARN.SW) (코코아 공급)

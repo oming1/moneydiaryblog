@@ -158,6 +158,8 @@ weight: 92
 
 ## 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 **현재 매출 없음**
 
 **타겟 시장:**
@@ -182,6 +184,8 @@ weight: 92
 - Immuron(US, IMRN) - 면역 치료제, 시가총액 $12M
 - Cyclacel(US, CYCC) - 암 치료제, 시가총액 $8M
 - Tiziana Life Sciences(US, TLSA) - 염증 치료제, 시가총액 $15M
+
+{{< adsense-infeed >}}
 
 ---
 
