@@ -70,7 +70,7 @@
         "url": "{{ .Site.Params.default_og_image | absURL }}"
       }
     },
-    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}"
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 500 }}{{ end }}"
   }
   </script>
   {{ end }}
