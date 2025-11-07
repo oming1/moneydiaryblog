@@ -57,6 +57,9 @@ taxonomies:
   tag: tags
 
 enableRobotsTXT: true
+enableGitInfo: true #이 부분을 추가하거나 주석 해제
+# enableEmoji: false
+# hasCJKLanguage: true
 
 # 구글 애널리틱스
 services:

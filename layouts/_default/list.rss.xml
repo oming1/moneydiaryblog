@@ -16,9 +16,9 @@
     {{/* 페이지 선택 및 중복 제거 */}}
     {{ $rssPages := slice }}
     {{ if .IsHome }}
-      {{ $rssPages = first 50 .Site.RegularPages.ByDate.Reverse }}
+      {{ $rssPages = first 150 .Site.RegularPages.ByDate.Reverse }}
     {{ else }}
-      {{ $rssPages = first 50 .Pages.ByDate.Reverse }}
+      {{ $rssPages = first 150 .Pages.ByDate.Reverse }}
     {{ end }}
     
     {{/* 중복 URL 제거 */}}
@@ -33,9 +33,9 @@
 
     {{ range $uniquePages }}
     {{/* 안전한 요약 생성 */}}
-    {{ $summary := .Summary | plainify | truncate 300 }}
+    {{ $summary := .Summary | plainify | truncate 500 }}
     {{ if not $summary }}
-      {{ $summary = .Content | plainify | truncate 300 }}
+      {{ $summary = .Content | plainify | truncate 500 }}
     {{ end }}
     
     <item>
