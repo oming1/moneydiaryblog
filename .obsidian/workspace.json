@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce013babe6b6b0bd",
+        "id": "8583836759ea9410",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4c531da2649e5d",
+            "id": "55ae941a319d2e55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/산업-테마공부/02.산업/_index.md",
+                "file": "코드/통합코드 11.07(새글만 적용하도록).md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "통합코드 11.07(새글만 적용하도록)"
             }
           }
         ]
@@ -193,34 +193,38 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "6e4c531da2649e5d",
+  "active": "55ae941a319d2e55",
   "lastOpenFiles": [
-    "content/산업-테마공부/01.경제/_index.md",
-    "content/about.md",
+    "content/산업-테마공부/04.국가/브라질/2025년 11월, 브라질 기준금리 동결.md",
+    "content/산업-테마공부/04.국가/브라질/브라질.md",
+    "content/산업-테마공부/04.국가/브라질/_index.md",
+    "코드/통합코드 11.07(새글만 적용하도록).md",
+    "코드/통합 코드(광고+시간등)_11.04.md",
+    "content/산업-테마공부/04.국가/브라질/무제",
+    "content/Daily시황정리/2025년/01월/2025-01-01 미국 시황 정리.md",
+    "content/산업-테마공부/04.국가/인도/_index.md",
+    "content/산업-테마공부/04.국가/일본/_index.md",
+    "content/산업-테마공부/04.국가/일본/일본.md",
+    "content/산업-테마공부/04.국가/일본/STUDY/2023/_index.md",
+    "content/산업-테마공부/04.국가/독일.md",
+    "content/산업-테마공부/04.국가/리비아.md",
+    "content/산업-테마공부/04.국가/우크라이나.md",
+    "content/산업-테마공부/04.국가/모로코.md",
     "content/_index.md",
+    "content/산업-테마공부/04.국가/브라질",
+    "content/about.md",
+    "README.md",
+    "images/screenshot.jpg",
+    "images/Pasted.md",
+    "images/tn.jpg",
+    "content/산업-테마공부/02.산업/_index.md",
+    "content/산업-테마공부/01.경제/_index.md",
     "content/Daily시황정리/_index.md",
     "content/Daily시황정리/과거/2024/12월/_index.md",
     "content/Daily시황정리/과거/2024/11월/_index.md",
     "content/Daily시황정리/과거/2024/10월/_index.md",
     "content/Daily시황정리/과거/2024/09월/_index.md",
     "content/Daily시황정리/과거/2024/08월/_index.md",
-    "content/Daily시황정리/과거/2024/07월/_index.md",
-    "content/Daily시황정리/과거/2024/06월/_index.md",
-    "content/Daily시황정리/과거/2024/05월/_index.md",
-    "content/Daily시황정리/과거/2023/08월/_index.md",
-    "content/Daily시황정리/과거/2024/_index.md",
-    "content/Daily시황정리/과거/2023/_index.md",
-    "content/Daily시황정리/2025년/10월/2025-10-30 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/10월/2025-10-24 미국 시황 정리.md",
-    "content/Daily시황정리/과거/2023/07월/_index.md",
-    "content/Daily시황정리/과거/2023/06월/_index.md",
-    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/_index.md",
-    "content/Daily시황정리/2025년/10월/_index.md",
-    "content/Daily시황정리/2025년/09월/2025-09-30 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/09월/_index.md",
     "static/images/Pasted image 20251107070005.png",
     "static/images/Pasted image 20251107065951.png",
     "static/images/Pasted image 20251107065506.png",
@@ -233,13 +237,9 @@
     "static/images/Pasted image 20251103210627.png",
     "static/images/Pasted image 20251103210534.png",
     "content/Daily시황정리/2025년/11월",
-    "static/images/Pasted image 20251031064017.png",
-    "static/images/Pasted image 20251030212422.png",
     "public/투자아이디어/아이디어-스케치/엔비디아의-어두운-그림자-순환-투자로-매출을-부풀리고-있다는-의혹",
     "public/docs/1.daily-시황정리/2025/09/2025-09-30-미국-시황-정리",
     "public/docs/1.daily-시황정리/2025/09/2025-09-27-미국-시황-정리",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-26-미국-시황-정리",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-25-미국-시황-정리",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-24-미국-시황-정리"
+    "public/docs/1.daily-시황정리/2025/09/2025-09-26-미국-시황-정리"
   ]
 }
