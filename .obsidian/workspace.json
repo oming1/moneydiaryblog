@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+                "file": "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-08 미국 시황 정리"
+              "title": "2025-11-05 미국 시황 정리"
             }
           }
         ]
@@ -195,8 +195,13 @@
   },
   "active": "b954ac8fac80cd11",
   "lastOpenFiles": [
-    "코드/통합코드 11.07(새글만 적용하도록).md",
+    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/_index.md",
+    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+    "코드/통합코드 11.07(새글만 적용하도록).md",
     "static/images/Pasted image 20251110070320.png",
     "static/images/Pasted image 20251110070215.png",
     "content/산업-테마공부/04.국가/브라질/2025년 11월, 브라질 기준금리 동결.md",
@@ -222,11 +227,6 @@
     "images/tn.jpg",
     "content/산업-테마공부/02.산업/_index.md",
     "content/산업-테마공부/01.경제/_index.md",
-    "content/Daily시황정리/_index.md",
-    "content/Daily시황정리/과거/2024/12월/_index.md",
-    "content/Daily시황정리/과거/2024/11월/_index.md",
-    "content/Daily시황정리/과거/2024/10월/_index.md",
-    "content/Daily시황정리/과거/2024/09월/_index.md",
     "static/images/Pasted image 20251107070005.png",
     "static/images/Pasted image 20251107065951.png",
     "static/images/Pasted image 20251107065506.png",
