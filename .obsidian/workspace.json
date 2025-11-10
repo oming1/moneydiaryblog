@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4f276c5b72d30c28",
+        "id": "564d3bb9de5bce34",
         "type": "tabs",
         "children": [
           {
-            "id": "b954ac8fac80cd11",
+            "id": "9711f5d0a87c6e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+                "file": "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-05 미국 시황 정리"
+              "title": "2025-11-08 미국 시황 정리"
             }
           }
         ]
@@ -193,14 +193,15 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b954ac8fac80cd11",
+  "active": "9711f5d0a87c6e62",
   "lastOpenFiles": [
-    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+    "4.템플렛/0.(간소화)데일리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
     "content/Daily시황정리/2025년/_index.md",
     "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
     "코드/통합코드 11.07(새글만 적용하도록).md",
     "static/images/Pasted image 20251110070320.png",
     "static/images/Pasted image 20251110070215.png",
@@ -226,7 +227,6 @@
     "images/Pasted.md",
     "images/tn.jpg",
     "content/산업-테마공부/02.산업/_index.md",
-    "content/산업-테마공부/01.경제/_index.md",
     "static/images/Pasted image 20251107070005.png",
     "static/images/Pasted image 20251107065951.png",
     "static/images/Pasted image 20251107065506.png",
