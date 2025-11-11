@@ -3,14 +3,21 @@
   <head>
     {{- partial "head.html" . -}}
     
+    <!-- 기본 HTML 메타 태그 (SEO 필수) -->
+    <title>{{ .Title | default .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords `, ` }}{{ else }}{{ delimit .Site.Params.keywords `, ` }}{{ end }}">
+    <meta name="author" content="{{ .Site.Author.name }}">
+    
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884462084568087" crossorigin="anonymous"></script>
 
-    <!-- Open Graph / Twitter Cards -->
+    <!-- Open Graph / Facebook -->
     <meta property="og:title" content="{{ .Title | default .Site.Title }}">
     <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
 
     {{- if .Params.images -}}
       {{- range first 1 .Params.images -}}
@@ -22,6 +29,7 @@
       <meta property="og:image" content="{{ .Site.Params.navbar.logo.path | absURL }}">
     {{- end -}}
 
+    <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -35,45 +43,58 @@
       <meta name="twitter:image" content="{{ .Site.Params.navbar.logo.path | absURL }}">
     {{- end -}}
 
-  <!-- 구조화된 데이터 (JSON-LD) 25.11.4 추가-->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ .Site.Author.name }}"
-    }
-  }
-  </script>
-  
-  {{ if .IsPage }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{{ .Title }}",
-    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ .Site.Author.name }}"
-    },
-    "publisher": {
-      "@type": "Organization",
+    <!-- 구조화된 데이터 (JSON-LD) - WebSite -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
       "name": "{{ .Site.Title }}",
-      "logo": {
+      "url": "{{ .Site.BaseURL }}",
+      "description": "{{ .Site.Params.description }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Author.name }}"
+      }
+    }
+    </script>
+    
+    <!-- 구조화된 데이터 (JSON-LD) - Article (페이지일 경우만) -->
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{ .Title }}",
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Author.name }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.Params.default_og_image | absURL }}"
+        }
+      },
+      "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      }{{ if .Params.images }},
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ index .Params.images 0 | absURL }}"
+      }{{ else if .Site.Params.default_og_image }},
+      "image": {
         "@type": "ImageObject",
         "url": "{{ .Site.Params.default_og_image | absURL }}"
-      }
-    },
-    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 500 }}{{ end }}"
-  }
-  </script>
-  {{ end }}
+      }{{ end }}
+    }
+    </script>
+    {{ end }}
     
   </head>
   <body>
@@ -86,3 +107,4 @@
     {{ partial "scripts.html" . }}
   </body>
 </html>
+
