@@ -1,16 +1,12 @@
 ﻿---
 title: "Fanuc"
 date: 2023-06-28T12:13:12+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 337
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:13:12Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #로봇 #산업재 #자동화및제어시스템
 
 ## 산업섹터
@@ -32,6 +28,8 @@ Fanuc Corporation은 1956년에 설립된 일본의 글로벌 자동화 회사�
 - CNC 시스템 및 소프트웨어 제공
 - 로보 머신 및 기계 가공 솔루션 제공
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -45,34 +43,28 @@ Fanuc Corporation은 1956년에 설립된 일본의 글로벌 자동화 회사�
 - 역할: 부품 및 원자재 공급
 - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/))
 - 기계 부품 제조: Mitsubishi Electric (JP, 6503)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - FANUC 로봇 (산업용 로봇, 매출 비중: 약 50%, 2023년 기준)
 - CNC 시스템 (정밀 기계 가공용, 매출 비중: 약 30%, 2023년 기준)
 - 로보 머신 (자동화된 기계 가공 시스템, 매출 비중: 약 20%, 2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
 
 Fanuc은 전 세계적으로 제품을 판매하며, 주요 시장은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - 일본: 약 30%
 - 북미: 약 25%
 - 유럽: 약 20%
 - 아시아 태평양: 약 25%
-
 ## 주요 자산
+
+{{< adsense-infeed >}}
 
 - 제조 시설: 일본 및 해외에 위치한 여러 생산 공장
 - 연구개발 센터: 자동화 기술 및 로봇 공학 개발을 위한 시설
 - 지적 재산권: 다양한 자동화 및 로봇 기술 관련 특허
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Yaskawa Electric Corporation (JP, 6506) - 산업용 로봇 및 자동화 시스템
@@ -80,8 +72,9 @@ Fanuc은 전 세계적으로 제품을 판매하며, 주요 시장은 다음과 
 - ABB Ltd. (CH, ABBN) - 전력 및 자동화 기술
 
 ## 산업 내 글로벌 시장 점유율
-
 Fanuc은 산업용 로봇 시장에서 약 20%의 점유율을 보유하고 있으며, CNC 시장에서도 주요 플레이어로 알려져 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 자세한 종목 정보 링크
 

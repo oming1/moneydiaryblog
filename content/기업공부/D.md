@@ -1,16 +1,12 @@
 ﻿---
 title: "D"
 date: 2024-10-28T21:20:56+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 258
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:20:56Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #전기 #유틸리티 #송배전 #천연가스 #에너지 #에너지유통 #전기및가스유틸리티 #전기생산 
 
 ## 산업섹터
@@ -20,22 +16,18 @@ weight: 258
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Dominion Energy는 전기 및 [천연가스](/industry-study/천연가스/) 유틸리티 서비스를 제공하는 에너지 기업입니다. 주요 사업으로는 전기 생산, 송배전, 천연가스 유통, 저장, 운송 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
+## 전방/후방산업
 ## 후방산업
 
 - 에너지 생산: 발전소, 천연가스 생산업체
 - 인프라 장비: 전력 및 가스 설비 제조업체
+## 전방산업
 
 {{< adsense-infeed >}}
-
-## 전방산업
 
 - 주거 및 상업용 에너지 소비자
 - 산업용 에너지 소비자
@@ -43,26 +35,21 @@ Dominion Energy는 전기 및 [천연가스](/industry-study/천연가스/) 유�
 
 ## 주요제품 및 서비스
 
+{{< adsense-infeed >}}
+
 - 전기 생산 및 유통
 - 천연가스 유통, 저장, 운송
 - LNG 수입 및 저장 서비스
 - 에너지 거래 및 마케팅 서비스
 
 ## 주요 판매국가
-
 미국 (버지니아, 노스캐롤라이나, 사우스캐롤라이나, 유타, 아이다호, 와이오밍, 웨스트버지니아, 오하이오, 펜실베니아, 조지아 주 등)
 
 ## 경쟁업체
-
 - NextEra Energy(US, [NEE](/company-analysis/nee/))
 - Southern Company(US, [SO](/company-analysis/so/))
 - Duke Energy(US, [DUK](/company-analysis/duk/))
 - Exelon Corporation(US, [EXC](/company-analysis/exc/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
+## 산업 내 글로벌 시장 점유율
 Dominion Energy는 미국 내 주요 에너지 기업 중 하나로, 2017년 기준 Fortune 500 리스트에서 238위를 차지했습니다.

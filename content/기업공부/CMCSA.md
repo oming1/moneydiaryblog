@@ -1,16 +1,12 @@
 ﻿---
 title: "CMCSA"
 date: 2024-11-21T11:06:15+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 205
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-21T02:06:15Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #커뮤니케이션서비스 #미디어 #케이블TV #스트리밍 #테마파크 
 
 ## 산업 섹터
@@ -20,10 +16,9 @@ weight: 205
 
 ## 영위 사업
 
-Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입니다. 주요 사업 부문으로는 케이블 통신, NBCUniversal(미디어 및 엔터테인먼트), Sky(유럽 미디어 및 통신)가 있습니다.
-
 {{< adsense-infeed >}}
 
+Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입니다. 주요 사업 부문으로는 케이블 통신, NBCUniversal(미디어 및 엔터테인먼트), Sky(유럽 미디어 및 통신)가 있습니다.
 ## 전방/후방 산업
 
 - 전방 산업:
@@ -31,17 +26,13 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
     - 핵심 산업: 방송, 영화, 테마파크
     - 역할: 콘텐츠 제작 및 배포
     - 주요 기업: Walt Disney (미국, [DIS](/company-analysis/dis/)), Netflix (미국, [NFLX](/company-analysis/nflx/))
-    
 - 후방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 통신 장비, 네트워크 인프라
     - 역할: 통신 인프라 구축 및 유지
     - 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
-
-{{< adsense-infeed >}}
-
+    - 핵심 산업: 통신 장비, 네트워크 인프라
+    - 역할: 통신 인프라 구축 및 유지
+    - 주요 기업: Cisco Systems (미국, [CSCO](/company-analysis/csco/)), Nokia (핀란드, NOK)
 ## 밸류체인
 
 - 케이블 통신 서비스:
@@ -55,6 +46,8 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
     - 대표 기업: ViacomCBS (미국, VIAC), Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))
 
 ## 주요 제품
+
+{{< adsense-infeed >}}
 
 - Xfinity (케이블 TV, 인터넷, 전화 서비스)
 - NBCUniversal (NBC, MSNBC, CNBC 등 방송 채널)
@@ -71,15 +64,11 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
 - AT&T (미국, [T](/company-analysis/t/)) - 통신 및 미디어 서비스
 - Charter Communications (미국, [CHTR](/company-analysis/chtr/)) - 케이블 TV 및 인터넷 서비스
 - Walt Disney (미국, [DIS](/company-analysis/dis/)) - 미디어 및 엔터테인먼트
-
 ## 산업 내 글로벌 시장 점유율
 
 Comcast는 미국 내 최대 케이블 TV 회사이자 최대 가정용 인터넷 서비스 제공업체입니다. 정확한 글로벌 시장 점유율은 제공되지 않았지만, 미국 시장에서 주도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Peacock 스트리밍 서비스 출시 및 성장 (2020년)
 - Sky 인수를 통한 유럽 시장 확대 (2018년, 지속적인 통합)
 - 5G 네트워크 확장 및 무선 서비스 강화 (2021-2023년)

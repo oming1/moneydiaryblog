@@ -1,16 +1,12 @@
 ﻿---
 title: "AN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 68
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #자동차소매 #임의소비재 #자동차 #신차 #중고차 
 
 ## 산업섹터
@@ -21,11 +17,12 @@ Industry: 자동차 소매(Auto & Truck Dealerships)
 ## 영위사업
 
 AutoNation, Inc.는 미국 최대의 [자동차](/industry-study/자동차/) 소매업체로, 주요 사업 영역은 다음과 같습니다:
-
 1. 신차 및 중고차 판매
 2. 부품 및 서비스 (차량 수리, 유지보수, 부품 판매, 충돌 수리 서비스)
 3. 금융 및 보험 (F&I) 상품 제공
 4. 디지털 플랫폼을 통한 온라인 판매 및 서비스 예약
+
+{{< adsense-infeed >}}
 
 회사는 세 개의 사업 부문으로 운영됩니다:
 
@@ -34,30 +31,28 @@ AutoNation, Inc.는 미국 최대의 [자동차](/industry-study/자동차/) 소
 3. Premium Luxury: Mercedes-Benz, BMW, Lexus, Audi, Jaguar Land Rover 등의 차량 판매
 
 AutoNation은 미국 전역, 특히 Sunbelt 지역의 대도시 지역에 252개의 매장에서 349개의 신차 프랜차이즈를 운영하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+## 전방/후방산업
 
 {{< adsense-infeed >}}
 
+## 전방산업
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
 - 보험회사: 차량 보험 상품 제공
 
 ## 후방산업
-
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급
-
 ## 밸류체인
 
 1. 차량 공급: 자동차 제조업체 (예: Ford Motor Company (US, [F](/company-analysis/f/)))
 2. 부품 공급: 자동차 부품 제조업체
 3. 소매 판매 및 서비스: AutoNation (US, [AN](/company-analysis/an/))
 4. 금융 서비스: AutoNation의 F&I 부문
-
 ## 주요제품
 
 1. 신차 및 중고차
@@ -65,9 +60,6 @@ AutoNation은 미국 전역, 특히 Sunbelt 지역의 대도시 지역에 252개
 3. 수리 및 유지보수 서비스
 4. 금융 및 보험 상품
 5. 충돌 수리 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 AutoNation은 주로 미국 시장에서 사업을 영위하고 있습니다.
@@ -83,6 +75,8 @@ AutoNation은 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 AutoNation은 미국 자동차 소매 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

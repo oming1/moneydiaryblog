@@ -1,16 +1,12 @@
 ﻿---
 title: "Best Buy Marketplace"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-11-03T21:50:27+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:27Z" />
-</div>
 #온라인 #BestBuyMarketplace #BBY
 
 # **Best Buy Marketplace 분석**
@@ -18,10 +14,8 @@ weight: 3
 ## 개념 및 도입 이유
 
 - **eBst Buy Marketplace**는 Best Buy([BBY](/company-analysis/bby/))의 기존 온라인 플랫폼을 확장하여 **제3자 판매자(third-party sellers)** 가 다양한 상품을 판매할 수 있도록 한 디지털 마켓플레이스입니다. 이는 아마존(Amazon) 및 월마트(Walmart)와 유사한 모델로, Best Buy가 직접 재고를 보유하지 않고 [판매자들이 제품을 등록·판매하며, Best Buy는 판매 수수료와 광고 수익]을 통해 수익을 창출합니다
-
 ---
 ## **도입 배경**
-
 1. **제품군 확대**:
     
     - 기존 Best Buy의 전자제품 중심에서 벗어나 **가구, 계절 장식, 스포츠 용품, 소형 가전** 등 다양한 카테고리를 추가하여 고객의 니즈를 충족.
@@ -31,24 +25,21 @@ weight: 3
     
     - 판매 수수료와 광고를 통해 추가적인 수익을 확보하며, Best Buy의 광고 사업을 강화.
 
+{{< adsense-infeed >}}
+
 3. **소규모 혁신 벤더 지원**:
     
     - 소규모 판매자들이 Best Buy의 대규모 고객 기반에 접근할 수 있도록 지원하며, 혁신적인 제품을 빠르게 도입.
 
 ---
 ## 주요 품목 및 카테고리
-
 1. **IT 제품**:
     - 삼성, LG, Microsoft 등 주요 브랜드의 최신 IT 제품.
     - 게이밍 액세서리(컨트롤러, 헤드셋, 키보드 등) 라인업 확대.
-
-{{< adsense-infeed >}}
-
 2. **소형 가전**:
     - Oster, Crock-Pot 등 주방 가전 및 청소기 제품 추가.
-
-{{< adsense-infeed >}}
-
+2. **소형 가전**:
+    - Oster, Crock-Pot 등 주방 가전 및 청소기 제품 추가.
 3. **가구 및 인테리어**:
     - TV 스탠드, 소파, 바 스툴 등 가구 라인업 3배 확대.
 
@@ -57,13 +48,12 @@ weight: 3
 
 ---
 ## 판매 전략 및 차별화 포인트
-
-{{< adsense-infeed >}}
-
 ### **판매 전략**
 
 1. **옴니채널 연계**:
-    
+
+{{< adsense-infeed >}}
+
     - [온라인에서 구매한 Marketplace 상품도 매장에서 반품 가능].
     - 매장 직원(Blue Shirt)이 고객의 온라인·오프라인 쇼핑을 연계 지원.
 
@@ -74,22 +64,19 @@ weight: 3
 3. **광고 및 검색 최적화**:
     
     - [판매자들이 광고를 통해 검색 결과 상단에 노출되도록 지원]하며, 광고 수익을 통해 Best Buy의 수익성을 강화.
-
 ---
 ### **차별화 포인트**
 
+{{< adsense-infeed >}}
+
 1. **원스톱 쇼핑 경험**:
-    
-    - IT 제품과 라이프스타일 제품을 통합하여 고객이 ‘세트’ 구매를 통해 편리하게 구성할 수 있도록 큐레이션 제공.
 
 {{< adsense-infeed >}}
 
+    - IT 제품과 라이프스타일 제품을 통합하여 고객이 ‘세트’ 구매를 통해 편리하게 구성할 수 있도록 큐레이션 제공.
 2. **빠른 제품 도입**:
     
     - [Mirakl 플랫폼](/industry-study/mirakl-플랫폼/)을 통해 새로운 카테고리와 브랜드를 빠르게 추가하며, 고객의 니즈를 신속히 충족.
 
 3. **고객 신뢰도 강화**:
-
-{{< adsense-infeed >}}
-
     - 매장에서 반품 가능하며, 품질 기준을 충족한 판매자만 입점하여 고객 신뢰를 유지.

@@ -1,16 +1,12 @@
 ﻿---
 title: "INDI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 444
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #반도체 #자동차전자 #5G #RF솔루션 #전력관리IC #ADAS #커넥티드카 #IoT #산업자동화 #고효율전력변환 #저전력설계 #SiC #GaN #파워디스크리트 #아날로그IC #혼합신호IC #센서 #무선충전 #차량용인포테인먼트 #스마트홈
@@ -28,19 +24,19 @@ Indie Semiconductor, Inc.(NASDAQ: INDI)는 자동차 및 IoT 애플리케이션�
 ## 핵심 경쟁력
 
 Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
-
 1. 맞춤형 SoC 설계 능력: 고객 요구사항에 맞는 고성능, 저전력 SoC 솔루션 제공
 2. 자동차 전자 전문성: ADAS, 인포테인먼트, 전기화 등 자동차 산업의 핵심 트렌드에 부합하는 제품 라인업
 3. 다양한 기술 포트폴리오: RF, 아날로그, 혼합 신호, 전력 관리 등 다양한 기술 보유
 4. 빠른 제품 개발 주기: 유연한 조직 구조와 효율적인 R&D 프로세스로 신속한 제품 출시
 5. 전략적 파트너십: 주요 자동차 OEM 및 Tier 1 공급업체와의 긴밀한 협력 관계
 
+{{< adsense-infeed >}}
+
 이러한 경쟁력을 바탕으로 Indie Semiconductor는 빠르게 성장하는 자동차 전자 및 IoT 시장에서 자리매김하고 있습니다.
 
 ## 전방/후방산업
 
 전방산업:
-
 - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), General Motors(US, [GM](/company-analysis/gm/))
 - 자동차 부품: Bosch(DE, Bosch), Continental(DE, CON)
 - 통신 장비: Ericsson(SE, ERIC), Nokia(FI, NOKIA)
@@ -52,10 +48,9 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - 웨이퍼 제조: Shin-Etsu Chemical(JP, 4063), SUMCO(JP, 3436)
 - 패키징 및 테스트: ASE Technology(TW, ASX), Amkor Technology(US, [AMKR](/company-analysis/amkr/))
 
-## 밸류체인
-
 {{< adsense-infeed >}}
 
+## 밸류체인
 1. 설계: Indie Semiconductor(US, [INDI](/company-analysis/indi/)) (자동차 및 IoT용 SoC 설계)
 2. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)) (파운드리 서비스)
 3. 패키징 및 테스트: ASE Technology(TW, ASX) (반도체 패키징 및 테스트)
@@ -70,18 +65,18 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - 전기화 솔루션: 배터리 관리 및 무선 충전용, 매출의 약 20% (2024년 기준)
 - 차량 네트워킹: 차량 내 통신 및 연결성 솔루션, 매출의 약 10% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - Tesla(US, [TSLA](/company-analysis/tsla/)) - 전기차용 전력관리 IC
 - General Motors(US, [GM](/company-analysis/gm/)) - ADAS 및 인포테인먼트 시스템
 - BMW(DE, [BMW](/company-analysis/bmw/)) - 차량 네트워킹 솔루션
 - Volkswagen(DE, VOW3) - 배터리 관리 시스템
 - Ford(US, [F](/company-analysis/f/)) - 무선 충전 솔루션
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 독일, 중국, 일본, 한국
 
 ## 경쟁업체
@@ -91,7 +86,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - STMicroelectronics(CH, [STM](/company-analysis/stm/)) - 자동차 및 산업용 반도체
 - Texas Instruments(US, [TXN](/company-analysis/txn/)) - 아날로그 및 임베디드 프로세서
 - ON Semiconductor(US, [ON](/company-analysis/on/)) - 전력 및 센서 솔루션
-
 ## 산업 내 글로벌 시장 점유율
 
 Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 빠르게 성장하고 있으며, 특히 ADAS 및 사용자 경험 솔루션 분야에서 주목받고 있습니다.
@@ -105,19 +99,14 @@ Indie Semiconductor는 자동차 반도체 시장에서 신흥 기업으로, 정
 - 주요 유럽 자동차 OEM으로부터 1억 달러 규모의 ADAS 플랫폼 계약 수주 (2022년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
+- The Vanguard Group (8.17%)
+- BlackRock (7.38%)
+- State Street Corporation (4.55%)
+## 관련 ETF
 - SPDR S&P Semiconductor ETF - XSD
 - iShares PHLX Semiconductor ETF - SOXX
 - VanEck Vectors Semiconductor ETF - SMH

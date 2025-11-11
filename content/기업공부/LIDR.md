@@ -1,16 +1,12 @@
 ﻿---
 title: "LIDR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 519
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #LiDAR #자율주행 #로보틱스 #컴퓨터비전 #4Sight #인공지능 #센서기술 #3D매핑 #ADAS #스마트시티 #산업자동화 #지능형교통시스템 #엣지컴퓨팅 #IoT #디지털트윈 #실시간데이터처리 #고해상도이미징 #장거리감지 #저비용센서 #소형화
@@ -24,8 +20,9 @@ weight: 519
 
 AEye, Inc.(NASDAQ: LIDR)는 차량 자율성, 첨단 운전자 보조 시스템(ADAS) 및 로봇 비전 응용 분야를 위한 LiDAR(Light Detection and Ranging) 시스템을 개발하는 기업입니다. 주요 제품으로는 4Sight 지능형 감지 LiDAR 플랫폼이 있으며, 이는 자동차 및 산업 시장에 적용됩니다.회사의 핵심 기술인 iDAR(Intelligent Detection and Ranging)는 LiDAR, 컴퓨터 비전, 및 인공지능을 결합하여 고성능, 지능형 감지 솔루션을 제공합니다. 이 기술은 자율주행차, 스마트 인프라, 산업 자동화 등 다양한 분야에 활용될 수 있습니다.최근 1년 내 주요 이슈로는 Continental AG와의 전략적 파트너십 체결, 4Sight M 제품의 자동차 생산 준비 완료, 그리고 비용 절감을 위한 구조조정 등이 있습니다. 투자자들에게 AEye는 빠르게 성장하는 LiDAR 시장에서 혁신적인 기술을 보유한 기업으로 주목받고 있습니다.
 
-## 핵심 경쟁력
+{{< adsense-infeed >}}
 
+## 핵심 경쟁력
 AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술은 다음과 같은 장점을 제공합니다:
 
 1. 높은 해상도와 장거리 감지 능력: 최대 1,000m 거리에서 10cm 해상도의 감지가 가능합니다.
@@ -33,9 +30,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 3. 소프트웨어 정의 LiDAR: 하드웨어 변경 없이 소프트웨어 업데이트만으로 성능 향상이 가능합니다.
 4. 낮은 전력 소비: 경쟁사 대비 낮은 전력 소비로 효율성을 높였습니다.
 5. 모듈식 설계: 다양한 응용 분야에 맞춤형 솔루션 제공이 가능합니다.
-
-{{< adsense-infeed >}}
-
 이러한 기술적 우위를 바탕으로 AEye는 자율주행 및 ADAS 시장에서 경쟁력을 유지하고 있습니다.
 
 ## 전방/후방산업
@@ -48,9 +42,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 - 산업 자동화: ABB(CH, [ABB](/company-analysis/abb/)), Siemens(DE, [SIE](/company-analysis/sie/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Intel(US, [INTC](/company-analysis/intc/))
 - 광학 부품: II-VI(US, IIVI), Lumentum(US, [LITE](/company-analysis/lite/))
 - 소프트웨어 개발: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Ansys(US, [ANSS](/company-analysis/anss/))
@@ -66,9 +57,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 7. 스마트 시티: Cisco Systems(US, [CSCO](/company-analysis/csco/)), IBM(US, [IBM](/company-analysis/ibm/)) (도시 인프라 적용)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 4Sight M: 자동차용 LiDAR 센서, 자율주행 및 ADAS 적용
 - 4Sight A: 산업용 LiDAR 센서, 로보틱스 및 스마트 인프라 적용
 - 4Sight Intelligence Suite: LiDAR 데이터 처리 및 분석 소프트웨어
@@ -82,7 +70,6 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 - Siemens(DE, [SIE](/company-analysis/sie/)) - 산업 자동화 솔루션
 - Cisco Systems(US, [CSCO](/company-analysis/csco/)) - 스마트 시티 인프라
 - TuSimple(US, TSP) - 자율주행 트럭 기술
-
 ## 주요 판매국가
 
 미국, 독일, 중국, 일본, 한국
@@ -100,16 +87,14 @@ AEye의 핵심 경쟁력은 독자적인 iDAR 기술에 있습니다. 이 기술
 
 AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. LiDAR 시장은 빠르게 성장하고 있으며, 여러 기업들이 경쟁하고 있는 상황입니다.
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - Continental AG와 전략적 파트너십 체결, 자동차 시장 진출 강화 (2023년)
 - 4Sight M 제품의 자동차 생산 준비 완료 발표 (2022년)
 - 비용 절감을 위한 구조조정 실시, 인력 25% 감축 (2022년)
 - NASDAQ 상장 (2021년)
 - SPAC 합병을 통한 기업공개 완료 (2021년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - Continental AG (20%)
@@ -118,9 +103,6 @@ AEye의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 - BlackRock (2.8%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Global X Autonomous & Electric Vehicles ETF - DRIV
 - iShares Self-Driving EV and Tech ETF - IDRV
 - First Trust Nasdaq Artificial Intelligence and Robotics ETF - ROBT

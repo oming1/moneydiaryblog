@@ -1,16 +1,12 @@
 ﻿---
 title: "SBSW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 773
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #백금족금속 #PGM #팔라듐 #백금 #로듐 #금채굴 #자동차촉매 #몬타나광산 #남아공광산 #리튬 #배터리원자재 #전기차원자재 #광업 #귀금속 #Stillwater #채광업 #원자재 #화학촉매 #지속가능광업 #친환경에너지 #전방산업공급 #자동차부품 #전자제품 #수소연료전지 #광물가공
 
 ---
@@ -31,7 +27,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 비즈니스 모델은 채광부터 정제까지의 수직통합구조를 기반으로 하며, [자동차](/industry-study/자동차/) 산업의 배출가스 촉매제, [전기차 배터리](/industry-study/전기차-배터리/), [수소연료전지](/industry-study/수소연료전지/) 등 성장하는 친환경 에너지 시장에 핵심 원자재를 공급합니다. 2024년 총 매출은 ZAR 121억 8,300만으로, 고객과의 계약을 통한 매출이 ZAR 70억 6,800만을 차지했습니다.
 
 최근 주요 위험요소로는 PGM 가격 변동성, 운영비용 상승, 노동 분쟁, 지정학적 리스크 등이 있으며, 특히 미국 몬타나 운영부문의 구조조정으로 인한 생산량 감축이 단기적 과제로 작용하고 있습니다. 2025년 7월 22일 현재 주가는 $9.58로, 연초 대비 약 160% 상승하여 골드러시와 PGM 수요 증가에 힘입은 강세를 보이고 있습니다.
-
 ---
 
 ## 비즈니스 모델 (수익 모델)
@@ -42,10 +37,9 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - 고객 계약 기반 매출: ZAR 70억 6,800만 (57.9%)
 - 기타 매출: ZAR 51억 1,500만 (42.1%)
 
-**사업 부문별 매출 비중:**
-
 {{< adsense-infeed >}}
 
+**사업 부문별 매출 비중:**
 - 남아프리카 PGM 운영: 약 40-45%
 - 남아프리카 금 운영: 약 25-30%
 - 미국 PGM 운영: 약 20-25%
@@ -77,9 +71,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 ---
 
 ## 핵심 기술
-
-{{< adsense-infeed >}}
-
 **PGM 추출 및 정제 기술:** 백금족금속의 복잡한 분리 및 정제 공정에서 세계 최고 수준의 기술력을 보유하여 높은 순도의 백금, 팔라듐, 로듐을 생산합니다.
 
 **고품위 광석 처리기술:** J-M Reef의 고품위 PGM 광석을 효율적으로 처리하는 독자적인 채광 및 농축 기술로 생산성과 회수율을 극대화합니다.
@@ -129,7 +120,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - Sandvik(SE, SAND): 광산용 절삭공구 및 장비 (프리미엄 품질, 15% 시장점유율)
 
 **제조 및 조립 단계:**
-
 - Sibanye Stillwater(ZA, [SBSW](/company-analysis/sbsw/)): 통합 PGM 및 금 생산, 정제 운영
 - Anglo American Platinum(ZA, [AMS](/company-analysis/ams/)): 남아프리카 PGM 생산 경쟁업체
 
@@ -149,6 +139,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 
 **금 (Gold):** 보석 및 투자용, 매출비중 25% (2024년), 주요 경쟁사 Barrick Gold(GOLD)
 
+{{< adsense-infeed >}}
+
 **로듐 (Rhodium):** 고성능 촉매제, 매출비중 8% (2024년), 극소수 생산업체만 존재
 
 **리튬 (Lithium):** 배터리용 원자재, 매출비중 2% (2024년, 확대 예정), 주요 경쟁사 Albemarle([ALB](/company-analysis/alb/))
@@ -160,6 +152,8 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 **전력 (Electricity):** 채굴 및 정제 공정용, 주요 공급지 남아프리카/미국, 주요 공급업체 Eskom(ZA)
 
 **연료유 (Diesel Fuel):** 채굴장비 연료, 주요 공급지 남아프리카/미국, 주요 공급업체 Shell(US, SHEL)
+
+{{< adsense-infeed >}}
 
 **화학약품 (Chemical Reagents):** 부유선별 및 정제용, 주요 공급지 글로벌, 주요 공급업체 DowDuPont(US, [DD](/company-analysis/dd/))
 
@@ -175,7 +169,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - General Motors(US, [GM](/company-analysis/gm/)) - 배출가스 저감 시스템용 PGM
 - Toyota Motor(JP, [TM](/company-analysis/tm/)) - 하이브리드 차량용 촉매제
 - Stellantis(US, [STLA](/company-analysis/stla/)) - 디젤 엔진 촉매제용 백금
-
 **촉매제 제조업체:**
 
 - Johnson Matthey(UK, JMAT) - PGM 기반 산업촉매제 (전략적 파트너)
@@ -183,9 +176,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - Umicore(BE, UMI) - 촉매제 및 배터리 소재
 
 **전자제품 제조업체:**
-
-{{< adsense-infeed >}}
-
 - Apple(US, [AAPL](/company-analysis/aapl/)) - 전자기기용 금 및 PGM
 - Samsung Electronics(KR, [Samsung](/industry-study/samsung/)) - 반도체 및 전자부품용
 
@@ -227,15 +217,11 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - BHP Billiton(AU, [BHP](/company-analysis/bhp/)) - 세계 최대 다각화 광업회사
 - Rio Tinto(UK, [RIO](/company-analysis/rio/)) - 철광석 및 구리 중심 다각화 광업
 - Vale(BR, [Vale](/company-analysis/vale/)) - 철광석 세계 1위, 니켈 생산
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율
 
 **PGM 시장 점유율 추이:**
-
 - 2024년: 23.5% (세계 3위)
 - 2023년: 22.8% (세계 3위)
 - 2022년: 21.9% (세계 3위)
@@ -297,8 +283,5 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - VanEck Vectors Rare Earth/Strategic Metals ETF [REMX](/company-analysis/remx/) - 희토류 및 전략금속
 
 **PGM 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - Aberdeen Standard Physical Platinum Shares ETF PPLT - 물리적 백금 보유
 - Aberdeen Standard Physical Palladium Shares ETF PALL - 물리적 팔라듐 보유

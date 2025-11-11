@@ -1,16 +1,12 @@
 ﻿---
 title: "ZIM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 999
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #짐인테그레이티드쉬핑 #ZIM #컨테이너선박 #글로벌해운 #물류서비스 #화물운송 #해상무역 #공급망관리 #이스라엘해운 #디지털물류 #컨테이너라이너 #아시아유럽노선 #북미무역 #지속가능해운 #LNG선박 #환경규제 #화물요금 #글로벌무역 #선박운영 #포스트판데믹 #공급망위기 #디지털플랫폼 #스마트쉬핑 #연료효율 #컨테이너터미널 #해운얼라이언스 #경제변동 #지정학적리스크 #지속성장 #해운산업
 
 ---
@@ -23,6 +19,8 @@ weight: 999
 ---
 
 ### 영위사업
+
+{{< adsense-infeed >}}
 
 ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-study/이스라엘/)에서 설립된 [글로벌 컨테이너 선박 회사]로, 세계 최대 규모의 컨테이너 운송 사업자 중 하나입니다. 초기에는 중동 지역 무역에 집중했으나, 2021년 NYSE 상장 이후 글로벌 네트워크를 확대하여 아시아-유럽, 북미-아시아, 지중해 노선을 주요로 운영합니다. 회사는 약 150척의 선박(자체 보유 및 임대)을 보유하며, 연간 수백만 TEU(20피트 컨테이너 단위)의 화물을 운송합니다. ZIM은 디지털화와 지속 가능성을 강조하며, [LNG](/industry-study/lng/)(액화천연가스) 추진 선박 도입과 AI 기반 경로 최적화를 통해 효율성을 높이고 있습니다. 최근에는 공급망 위기(예: 수에즈 운하 막힘, 판데믹 영향)를 극복하기 위해 유연한 노선 조정과 디지털 플랫폼을 강화하고 있으며, 이스라엘의 기술 생태계를 활용해 [스마트 쉬핑 솔루션]을 개발합니다. 회사의 강점은 비용 효과적인 운영과 지역별 전문성에 있으며, 이는 글로벌 무역 증가와 연계되어 장기적인 성장을 지원합니다.
 
@@ -88,12 +86,13 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 
 ### 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 - **글로벌 노선 네트워크:** 주요 무역 루트 커버리지로 안정적 운송.
 - **디지털 혁신:** ZIMonitor로 실시간 추적과 효율화.
 - **지속 가능성:** LNG 선박 도입으로 환경 우위.
 - **비용 관리:** 임대 선박 전략으로 유연성.
 - **지역 전문성:** 중동 기반으로 지정학적 적응력.
-
 ---
 
 ### 핵심 기술
@@ -123,7 +122,6 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 - 물류: 공급망 회사.
 
 **후방산업 (원자재/부품 공급 산업):**
-
 - 연료: Shell(US, SHEL).
 - 선박: Hyundai Heavy(KR).
 
@@ -148,15 +146,12 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 제품
-
-{{< adsense-infeed >}}
-
 - **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
 - **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
 - **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.
-
-{{< adsense-infeed >}}
-
+- **컨테이너 운송:** 표준 화물, 매출비중 70%(2024), 경쟁사 MAERSK, MSC.
+- **냉동 컨테이너:** 식품 운송, 매출비중 15%(2024), 경쟁사 HAPG, CMAN.
+- **디지털 물류:** 추적 서비스, 매출비중 15%(2024), 경쟁사 DSV, KN.
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -177,13 +172,12 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 ---
 
 ### 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 - 중국: 25% (2023년 기준, 3년간 +4%p).
 - 미국: 30% (2023년 기준, 3년간 +2%p).
 - 이스라엘: 10% (2023년 기준, 3년간 -1%p).
 - 유럽: 20% (2023년 기준, 3년간 +1%p).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -240,6 +234,8 @@ ZIM Integrated Shipping Services Ltd.은 1945년에 [이스라엘](/industry-stu
 
 - BOAT - SonicShares Global Shipping ETF BOAT.
 - SEA - U.S. Global Sea to Sky Cargo ETF SEA.
+
+{{< adsense-infeed >}}
 
 **섹터 관련 ETF:**
 

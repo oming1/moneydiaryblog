@@ -1,16 +1,12 @@
 ﻿---
 title: "LYB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 540
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #라이온델바젤 #LYB #기초화학 #플라스틱 #폴리올레핀 #올레핀 #에틸렌 #프로필렌 #폴리에틸렌 #폴리프로필렌 #범용플라스틱 #화학리사이클 #순환경제 #원유정제 #옥탄첨가제 #아시아시장 #유럽화학 #미국화학 #에너지전환 #지속가능성 #원자재가격 #경기민감주 #공급망다변화 #화학산업 #정제마진 #폴리머기술 #플라스틱재활용 #글로벌화학 #첨단고분자 #자동차부품 #포장재 #건설자재 #태양광패널 #수처리 #의료기기
 
 ---
@@ -19,7 +15,6 @@ weight: 540
 
 **섹터(Sector):** Materials - 재료  
 **산업(Industry):** Chemicals - 화학 (특히 Commodity Chemicals - 범용 화학)
-
 ---
 
 ### 영위사업
@@ -56,7 +51,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 - **주된 원자재 및 공급망**  
     주요 원자재는 천연가스액(NGLs, 특히 에탄), 나프타, 원유 등이며, 공급처는 미국, 중동 등 주요 산유국 및 가스 생산국입니다. 공급망은 원자재 수입, 자체 생산 시설에서의 가공, 글로벌 유통망을 통한 판매로 구성됩니다.
-    
 - **최근 주요 이슈**
     
     - 2024년: 화학적 재활용 플라스틱 생산 능력 확대 및 파트너십 강화.
@@ -65,6 +59,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 - **최근 1년 주가 동향**  
     글로벌 경기 전망, 원유 및 천연가스 가격, 플라스틱 수요 변동에 따라 주가 변동성을 보였습니다. 특히 경기 회복 기대감과 화학 제품 스프레드 개선 시 상승, 경기 둔화 우려 시 하락하는 경향을 나타냈습니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -119,6 +115,8 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 
 ### 제조 공정
 
+{{< adsense-infeed >}}
+
 1단계: **원자재 조달:** 천연가스액(NGLs) 또는 나프타, 원유 등 유류 원료 확보.  
 2단계: **크래킹 (Cracking):** NGLs 또는 나프타를 고온에서 열분해하여 에틸렌, 프로필렌 등 올레핀 생산.  
 3단계: **정제 및 분리:** 생산된 올레핀 및 다른 부산물들을 정제탑에서 순수하게 분리.  
@@ -140,13 +138,12 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **의료 및 헬스케어:** 특수 플라스틱 (의료 기기).
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - **석유 및 가스 산업:** ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/)) 등으로부터 NGLs, 원유, 나프타 공급.
 - **촉매 제조업체:** BASF(DE, BASFY), W.R. Grace (US, GRA) 등.
 - **에너지 공급업체:** 전력, 천연가스.
 - **운송 및 물류:** 해상 운송, 육상 운송.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -173,7 +170,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **[폴리에틸렌](/industry-study/폴리에틸렌/) (Polyethylene - PE):** HDPE, LDPE, LLDPE, 매출 비중 35% (2024 추정), 경쟁사 Dow Inc.(US, [DOW](/company-analysis/dow/)), ExxonMobil(US, [XOM](/company-analysis/xom/)), Sinopec (CN, SNP).
 
 - **[폴리프로필렌](/industry-study/폴리프로필렌/) (Polypropylene - PP):** homopolymer, copolymer, random copolymer, 매출 비중 25% (2024 추정), 경쟁사 Braskem (BR, BAK), Formosa Plastics (TW).
-
 - **[프로필렌 옥사이드](/industry-study/프로필렌-옥사이드/) (Propylene Oxide - PO):** 매출 비중 10% (2024 추정), 경쟁사 Dow Inc.(US, [DOW](/company-analysis/dow/)), BASF(DE, BASFY).
 
 - **첨단 고분자 솔루션:** 자동차, 의료용 특수 플라스틱, 매출 비중 15% (2024 추정), 경쟁사 DuPont(US, [DD](/company-analysis/dd/)), Covestro (DE, 1COV.DE).
@@ -196,9 +192,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **건설 및 인프라 기업:** 파이프, 단열재 등 건설 자재 제조업체.
 - **소비재 제조업체:** 가전제품, 가구 등.
 - **다른 화학 기업:** 중간재 구매.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가
@@ -211,7 +204,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 ---
 
 ### 경쟁업체
-
 - **Dow Inc. (US, [DOW](/company-analysis/dow/)):** 글로벌 화학 대기업, 에틸렌, 폴리에틸렌, 특수 화학.
 - **ExxonMobil Chemical (US, [XOM](/company-analysis/xom/)):** 글로벌 석유화학 대기업, 올레핀, 폴리올레핀.
 - **BASF SE (DE, BASFY):** 글로벌 화학 대기업, 다양한 화학 제품 및 특수 화학.
@@ -244,9 +236,6 @@ LyondellBasell Industries N.V.은 2007년에 설립된 네덜란드 기반의 �
 - **2023년:** 화학적 재활용 기술 MoReTec의 상업화 추진 및 파트너십 확대, 지속 가능한 제품 포트폴리오 강화.
 - **2024년:** 북미 신규 에틸렌 크래커 및 폴리올레핀 공장 증설 프로젝트 진전, 저탄소 수소 생산 프로젝트 참여 검토.
 - **2025년:** 플라스틱 폐기물 문제 해결을 위한 순환 솔루션 투자 확대, 에너지 효율성 개선을 위한 공정 최적화.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 주주 (지분율)

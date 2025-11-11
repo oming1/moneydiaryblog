@@ -1,16 +1,12 @@
 ﻿---
 title: "NUS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 637
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #누스킨 #NUS #직접판매 #뷰티 #스킨케어 #영양보조제 #MLM #개인케어 #안티에이징 #글로벌브랜드 #웰니스 #화장품 #헬스케어 #아시아시장 #다단계판매 #소비자제품 #피부관리 #영양제 #혁신제품 #지속가능성 #글로벌확장 #브랜드로열티 #디지털판매 #e커머스 #소비자트렌드 #건강보조식품 #피부과학 #마케팅전략 #글로벌공급망 #지속성장
 
 ---
@@ -19,6 +15,8 @@ weight: 637
 
 **섹터(Sector):** Consumer Defensive - 소비자 방어 
 **산업(Industry):** Household & Personal Products - 가정용 및 개인용 제품, [화장품](/industry-study/화장품/)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -43,7 +41,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
     Nu Skin의 비즈니스 모델은 MLM 구조를 기반으로 하며, 독립 판매 대리인(디스트리뷰터)이 제품을 직접 판매하고 네트워크를 확장하여 수익을 창출합니다. 회사는 제품 판매 수익 외에 대리인 모집 보너스와 커미션을 통해 수익을 다각화합니다. 최근 디지털 전환으로 온라인 쇼핑과 가상 교육을 강화하여 전통 MLM의 한계를 극복하고 있습니다. R&D에 매년 매출의 2-3%를 투자하여 과학적 혁신을 유지하며, 글로벌 공급망을 통해 제품을 제조·유통합니다. 이는 소비자 트렌드(안티에이징, 웰니스)에 맞춰 안정적인 성장을 추구합니다.
     
 - **주요 리스크 요소**
-    
     - **규제 리스크:** MLM 모델에 대한 정부 규제(예: 중국의 직접 판매 규제), 피라미드 사기 의혹으로 인한 소송 가능성.
     - **시장 포화 및 경쟁:** 아시아 시장 의존도가 높아 경제 변동에 취약, 경쟁사(Amway, Herbalife)와의 가격 경쟁.
     - **소비자 트렌드 변화:** 건강 및 뷰티 트렌드 변동, e커머스 성장으로 전통 판매 감소.
@@ -70,6 +67,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
     - 뷰티 및 개인 케어: 60%.
     - 영양 및 웰니스: 30%.
     - 기타: 10%.
+
+{{< adsense-infeed >}}
 
 - **고객 유형별 수익 구조:**
     - 독립 대리인: 제품 판매 및 네트워크 보너스.
@@ -106,9 +105,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 ---
 
 ### 제조 공정
-
-{{< adsense-infeed >}}
-
 1단계: 원료 조달 (천연 추출물).  
 2단계: 배합 및 테스트 (과학 연구소).  
 3단계: 제조 및 포장 (GMP 시설).  
@@ -136,13 +132,9 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 
 - BASF(DE, BASFY): 화학 성분.
 - Givaudan(CH, GVDNY): 향료.
-
 **제조 및 조립 단계:**
 
 - Nu Skin 내부: 제품 배합.
-
-{{< adsense-infeed >}}
-
 **유통 및 판매 단계:**
 
 - 대리인 네트워크: 직접 판매.
@@ -163,6 +155,8 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 - **천연 추출물:** 스킨케어, 공급지: 아시아, 공급업체 Givaudan(CH, GVDNY).
 - **비타민:** 영양제, 공급지: 미국, 공급업체 DSM(NL, DSM).
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 고객
@@ -176,13 +170,12 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 ---
 
 ### 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 - 중국: 40% (2023년 기준, 3년간 -5%p).
 - 한국: 15% (2023년 기준, 3년간 +2%p).
 - 미국: 20% (2023년 기준, 3년간 +1%p).
 - 일본: 10% (2023년 기준, 3년간 -1%p).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -236,9 +229,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - XLP - Consumer Staples Select Sector SPDR Fund XLP.
 - VDC - Vanguard Consumer Staples ETF VDC.
 

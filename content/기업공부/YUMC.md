@@ -1,16 +1,12 @@
 ﻿---
 title: "YUMC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 994
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #외식프랜차이즈 #중국소비시장 #퀵서비스레스토랑 #KFC중국 #피자헛중국 #TacoBell중국 #포장및배달 #디지털오더 #모바일앱 #로컬화 #O2O #메뉴혁신 #지속가능성 #ESG #푸드테크 #프랜차이즈확장 #중국중산층 #푸드서플라이체인 #글로벌브랜드 #중국 
 
 ## 산업섹터
@@ -23,11 +19,7 @@ weight: 994
 
 Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 운영사로, KFC(중국), Pizza Hut(중국), Taco Bell(중국) 등 글로벌 브랜드 레스토랑을 중국 전역에서 직영 및 프랜차이즈 형태로 운영합니다. Yum! Brands에서 2016년 분사되어 상장하였으며, 매장 수 및 시장점유율 측면에서 [중국](/industry-study/4국가중국/) 내 퀵서비스레스토랑(QSR) 업계 선두입니다.  
 주요 사업 부문:
-
-{{< adsense-infeed >}}
-
 1. **KFC China**: 치킨 중심의 퀵서비스레스토랑, 중국 내 9,700여 매장(2024년 기준)
-    
 2. **Pizza Hut China**: 피자, 파스타 등 캐주얼 다이닝, 약 3,200여 매장
     
 3. **Taco Bell China**: 멕시칸 퀵서비스, 성장 초기 단계
@@ -35,6 +27,8 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 4. **디지털 및 배달 서비스**: 자체 모바일앱, 미니프로그램, O2O 플랫폼을 통한 주문/배달
     
 5. **기타 브랜드**: Little Sheep(훠궈), Huang Ji Huang 등 중국식 레스토랑
+
+{{< adsense-infeed >}}
 
 2024년 기준 연 매출 약 110억 달러, 중국 1,900여 개 도시에서 14,000여 매장 운영(직영 및 프랜차이즈 포함). 최근에는 현지화 메뉴 개발, 디지털 오더 및 스마트 매장 도입, ESG 경영 강화에 주력하고 있습니다.
 
@@ -55,7 +49,9 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 ## 전방산업
 
 - **소비재 유통/온라인배달**: Alibaba(US, [BABA](/company-analysis/baba/)), Meituan(CN, 3690)
-    
+
+{{< adsense-infeed >}}
+
 - **로컬 상권/쇼핑몰**: Suning(CN), Wanda Group(CN)
     
 - **여행/레저**: Ctrip(US, [TCOM](/company-analysis/tcom/)), Trip.com
@@ -73,9 +69,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 1. **메뉴 및 제품 개발**: 중국 시장 맞춤형 레시피/신제품 기획
     
 2. **식자재 조달 및 품질관리**: 현지 식재료/글로벌 공급사 협력
-
-{{< adsense-infeed >}}
-
 3. **매장 운영**: 직영/프랜차이즈 시스템, 스마트매장 운영
     
 4. **디지털 오더/배달**: 자체앱, O2O플랫폼, 퀵커머스
@@ -83,13 +76,12 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 5. **마케팅/브랜딩**: 옴니채널 마케팅, 현지화 프로모션
     
 6. **고객관리/로열티**: 멤버십, 데이터 기반 개인화 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - **KFC 메뉴**: 치킨, 버거, 현지화 스낵류, 도넛 등 (매출의 약 65%)
-    
+
+{{< adsense-infeed >}}
+
 - **Pizza Hut 메뉴**: 피자, 파스타, 샐러드, 중국식 디저트 등 (매출의 약 24%)
     
 - **Taco Bell 메뉴**: 타코·브리또·멕시칸 패스트푸드 (매출의 약 2%)
@@ -105,12 +97,11 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 3. 모바일 사용 중심의 학생·직장인
     
 4. 배달·테이크아웃 선호 소비자
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 중국(주요 시장), 일부 해외 관광지(중국인 대상 점포)
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -119,7 +110,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 2. Dicos(중국 브랜드): 중국 토종 QSR
     
 3. Burger King China (US, QSR): 글로벌 QSR
-    
 4. Haidilao(CN, 6862): 중국 최대 훠궈 체인
     
 5. Starbucks China (US, [SBUX](/company-analysis/sbux/)): 커피/디저트 외식 시장 경쟁자

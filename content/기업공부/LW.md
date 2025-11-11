@@ -1,16 +1,12 @@
 ﻿---
 title: "LW"
 date: 2024-12-16T17:33:52+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 539
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-16T08:33:52Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #식품제품 #필수소비재 #냉동감자
 
 ## 산업섹터
@@ -25,52 +21,44 @@ Lamb Weston Holdings, Inc.는 냉동 감자 제품의 세계적인 생산업체 
 1. 냉동 감자 제품 제조 및 판매: 감자튀김, 웨지, 해시브라운 등
 2. 냉동 채소 및 애피타이저 제품 생산
 3. 식품 서비스 제공
-
 주요 브랜드로는 Lamb Weston, Lamb Weston Supreme, Lamb Weston Private Reserve, Lamb Weston Colossal Crisp, Lamb Weston Stealth Fries, Lamb Weston Seasoned, Lamb Weston Crispy on Delivery, Sweet Things 등이 있습니다.회사는 전 세계적으로 70개 이상의 제조 및 기술 연구 센터를 운영하고 있으며, 미국, 호주, 중국, 멕시코, 캐나다, 싱가포르, 일본 등에서 사업을 영위하고 있습니다.
 
 ## 전방/후방산업
+## 전방산업
 
 {{< adsense-infeed >}}
-
-## 전방산업
 
 - 식품 서비스 업체: 레스토랑 체인, 패스트푸드점
 - 소매업체: 대형 마트, 식료품점
 
-## 후방산업
-
 {{< adsense-infeed >}}
 
+## 후방산업
 - 농업: 감자 재배 농가
 - 포장재 제조업체
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 원재료 조달: 감자 재배 농가
 2. 제조: Lamb Weston Holdings (US, [LW](/company-analysis/lw/))
 3. 유통: 식품 서비스 유통업체, 소매업체
 4. 최종 소비자: 레스토랑, 일반 소비자
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 냉동 감자튀김
 2. 고구마 튀김
 3. 기타 감자 제품 (웨지, 해시브라운 등)
 4. 애피타이저
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 Lamb Weston은 전 세계적으로 사업을 영위하고 있으며, 특히 미국이 주요 시장입니다. 2023년 기준 매출 비중은 다음과 같습니다:
 
 - 미국: 66.2%
 - 미국 외 지역: 33.8%
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Kraft Heinz (US, [KHC](/company-analysis/khc/))
@@ -80,8 +68,9 @@ Lamb Weston은 전 세계적으로 사업을 영위하고 있으며, 특히 미�
 5. Nomad Foods (영국, NOMD)
 
 ## 산업 내 글로벌 시장 점유율
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Lamb Weston은 냉동 감자 제품 시장에서 세계 최대 생산업체 중 하나로 인식되고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

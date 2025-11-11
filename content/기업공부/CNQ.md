@@ -1,16 +1,12 @@
 ﻿---
 title: "CNQ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 211
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #석유가스 #오일샌드 #천연가스 #해상시추 #육상시추 #중질유 #경질유 #LNG #탄소포집 #지속가능에너지 #ESG #에너지전환 #탐사생산 #업스트림 #통합생산 #자원개발 #파이프라인 #정제 #석유화학 #에너지효율 #캐나다 
@@ -23,9 +19,6 @@ weight: 211
 ## 영위사업
 
 Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천연가스 생산 기업입니다. 회사는 북미, 북해, 그리고 해외에서 다양한 유형의 석유 및 가스 자산을 보유하고 있으며, 통합된 운영 모델을 통해 업스트림 생산부터 중류, 하류 부문까지 사업을 영위하고 있습니다.주요 사업 영역:
-
-{{< adsense-infeed >}}
-
 1. 오일샌드 채굴 및 업그레이딩
 2. 중질유 및 경질유 생산
 3. 천연가스 생산
@@ -37,6 +30,8 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. 다각화된 자산 포트폴리오: 다양한 유형의 석유 및 가스 자산 보유
 2. 통합 운영 모델: 업스트림부터 다운스트림까지 수직 계열화된 사업 구조
 3. 저비용 생산자: 효율적인 운영을 통한 경쟁력 있는 생산 비용 유지
@@ -46,20 +41,17 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 ## 전방/후방산업
 
 전방산업:
-
 - 정유: Imperial Oil(CA, IMO), Suncor Energy(CA, [SU](/company-analysis/su/))
 - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/)), LyondellBasell(US, [LYB](/company-analysis/lyb/))
 - 전력 생산: TransAlta Corporation(CA, [TAC](/company-analysis/tac/)), Enbridge Inc.(CA, ENB)
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Caterpillar Inc.(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 파이프라인: TC Energy(CA, TRP), Enbridge Inc.(CA, ENB)
-
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 6. 탐사: Canadian Natural Resources(CA, [CNQ](/company-analysis/cnq/)) (석유 및 가스 탐사)
 7. 시추: Precision Drilling(CA, PDS) (육상 및 해상 시추 서비스)
@@ -68,15 +60,14 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 10. 정제: Imperial Oil(CA, IMO) (석유 정제)
 11. 유통: Parkland Corporation(CA, PKI) (연료 유통)
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 중질유: 오일샌드 및 재래식 생산, 매출의 약 40% (2024년 기준)
 - 경질유 및 NGLs: 재래식 생산, 매출의 약 30% (2024년 기준)
 - [천연가스](/industry-study/천연가스/): 육상 및 해상 생산, 매출의 약 20% (2024년 기준)
 - 합성 원유: 업그레이딩 생산, 매출의 약 10% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - 정유사: Imperial Oil(CA, IMO), Suncor Energy(CA, [SU](/company-analysis/su/))
@@ -91,11 +82,15 @@ Canadian Natural Resources Ltd.(NYSE: CNQ)는 캐나다의 대형 석유 및 천
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Suncor Energy(CA, [SU](/company-analysis/su/)): 통합 에너지 기업, 오일샌드 생산
 - Imperial Oil(CA, IMO): 통합 석유 기업, ExxonMobil 자회사
 - Cenovus Energy(CA, CVE): 통합 석유 및 천연가스 기업
 - Husky Energy(CA): 통합 에너지 기업 (Cenovus에 인수됨)
 - MEG Energy(CA, MEG): 오일샌드 전문 생산 기업
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -110,9 +105,6 @@ Canadian Natural Resources는 2024년 기준 글로벌 석유 생산량의 약 1
 - 북해 자산 일부 매각을 통한 포트폴리오 최적화 (2022년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Capital Research Global Investors (7.2%)
 - Royal Bank of Canada (5.1%)
 - The Vanguard Group (3.9%)

@@ -1,16 +1,12 @@
 ﻿---
 title: "OPEN"
 date: 2024-08-29T20:54:59+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 662
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-29T11:54:59Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #부동산 #부동산서비스 
 
 **산업섹터 (Sector):** [부동산](/industry-study/2산업부동산/) (Real Estate)  
@@ -24,38 +20,31 @@ Opendoor Technologies Inc.는 미국에서 주거용 부동산 거래를 위한 
 ### 전방/후방산업
 
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - **부동산 중개업체:** Zillow (US, [Z](/company-analysis/z/)), Redfin (US, [RDFN](/company-analysis/rdfn/))
 - **부동산 개발업체:** Lennar Corporation (US, [LEN](/company-analysis/len/)), D.R. Horton (US, [DHI](/company-analysis/dhi/))
-
 **후방산업:**
 
 - **소프트웨어 공급업체:** Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - **건설 장비 제조업체:** Caterpillar (US, [CAT](/company-analysis/cat/)), Komatsu (JP, 6301)
 
 ### 밸류체인
-
 Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플랫폼 운영을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - **소프트웨어 개발:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 부동산 거래 플랫폼 개발
 - **부동산 구매 및 판매:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 주택 구매 및 판매
 - **부동산 서비스 제공:** Opendoor Technologies (US, [OPEN](/company-analysis/open/)) - 타이틀 보험, 에스크로 서비스 등 제공
 
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **주택 구매 및 판매:** 주거용 부동산 거래 (매출 비중: 2023년 기준 80%)
 - **부동산 서비스:** 타이틀 보험, 에스크로 서비스 등 (매출 비중: 2023년 기준 20%)
 
 ### 주요 판매국가
 
-- 미국 (주요 매출 국가)
-
 {{< adsense-infeed >}}
 
+- 미국 (주요 매출 국가)
 ### 경쟁업체
 
 - **Zillow (US, [Z](/company-analysis/z/)):** 부동산 중개 및 거래 플랫폼 (시장 점유율 20%)

@@ -1,16 +1,12 @@
 ﻿---
 title: "SHLS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 790
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 ## 핵심 키워드
 
 #EBOS #태양광 #에너지저장 #전기차충전 #클린에너지 #플러그앤플레이 #비용효율성 #노동절감 #지속가능성 #혁신 #BLA #유틸리티규모태양광 #케이블관리 #전기연결 #ESG #미국제조 #특허기술 #글로벌확장 #AI기술 #프로젝트최적화
@@ -25,7 +21,6 @@ weight: 790
 Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너지 저장 및전기차 충전을 위한 전기 균형 시스템(EBOS) 솔루션을 제공하는 선도적인 기업입니다. 주요 제품으로는 케이블 어셈블리, 인라인 퓨즈, 컴바이너, 분리기, 재결합기, 무선 모니터링 시스템, 정션 박스 등이 있습니다. 회사의 대표적인 제품인 Big Lead Assembly(BLA)는 케이블 어셈블리, 컴바이너 박스, 퓨징 기능을 하나로 통합한 혁신적인 솔루션입니다. 2024년 기준으로 전 세계 66GW 이상의 태양광 시스템에 Shoals의 솔루션이 적용되었으며, 회사는 지속적인 혁신과 글로벌 시장 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
 1. 혁신적인 플러그앤플레이 EBOS 시스템: 설치 비용 절감 및 신뢰성 향상
     
 2. 특허 기술: 47개의 글로벌 특허 보유 (발행 및 출원 중)
@@ -35,9 +30,6 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 4. 품질 관리: 엄격한 공장 품질 기준으로 현장 설치 오류 최소화
     
 5. 미국 내 제조: 테네시와 앨라배마 주에서 고품질 제품 생산
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -49,13 +41,17 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 후방산업:
 
 - 반도체: 전력 관리 칩 (Texas Instruments(US, [TXN](/company-analysis/txn/)), Infineon(DE, [IFX](/company-analysis/ifx/)))
-    
+
+{{< adsense-infeed >}}
+
 - 원자재: 구리, 알루미늄 (Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), Alcoa(US, [AA](/company-analysis/aa/)))
 
 ## 밸류체인
 
 1. R&D: Shoals 내부 연구팀, 대학 협력
-    
+
+{{< adsense-infeed >}}
+
 2. 원자재 조달: 구리, 알루미늄 공급업체
     
 3. 제조: Shoals 생산 시설 (테네시, 앨라배마)
@@ -63,9 +59,6 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 4. 판매 및 마케팅: 직접 판매팀, 산업 컨퍼런스 참여
     
 5. 설치 및 시공: EPC 파트너사, 현장 기술 지원
-
-{{< adsense-infeed >}}
-
 6. 고객 서비스: Shoals 고객 지원팀, 프로젝트 최적화 지원
 
 ## 주요제품
@@ -73,7 +66,6 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 1. Big Lead Assembly (BLA): 통합 EBOS 솔루션 (2024년 매출의 약 40%)
     
 2. 케이블 관리 시스템: 태양광 패널 연결 솔루션 (2024년 매출의 약 25%)
-    
 3. 컴바이너 및 재결합기: 전력 집중 및 분배 (2024년 매출의 약 20%)
     
 4. 모니터링 시스템: 실시간 성능 추적 (2024년 매출의 약 10%)
@@ -97,22 +89,24 @@ Shoals Technologies Group Inc는 [태양광](/industry-study/태양광/), 에너
 5. Huawei Technologies(Huawei): 스마트 PV 솔루션
 
 ## 산업 내 글로벌 시장 점유율
-
 Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차지하고 있으며, 2024년 기준 글로벌 태양광 EBOS 시장에서 약 22.5%의 점유율을 보유하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 8,000만 달러 규모의 테네시 제조시설 확장 계획 발표 (2025년)
     
 2. 사우디아라비아 UUES와 태양광 EBOS 제조 파트너십 체결 (2024년)
     
 3. 역대 최다 신제품 출시로 신규 시장 및 지역 확대 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 4. 3분기 실적 부진으로 주가 하락 (2024년)
     
 5. 국제 시장 진출 가속화 전략 발표 (2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. The Vanguard Group (11.66%)
     
@@ -127,9 +121,6 @@ Shoals Technologies Group은 북미 EBOS 시장에서 선도적인 위치를 차
 2. Global X Renewable Energy Producers ETF - RNRG
     
 3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
-
-{{< adsense-infeed >}}
-
 4. iShares Global Clean Energy ETF - ICLN
     
 5. SPDR S&P Kensho Clean Power ETF - CNRG

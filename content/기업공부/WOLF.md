@@ -1,16 +1,12 @@
 ﻿---
 title: "WOLF"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 968
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 ## 핵심 키워드
 
 #실리콘카바이드 #SiC #와이드밴드갭반도체 #갈륨나이트라이드 #GaN #파워반도체 #전력전자 #전기차 #EV #5G #재생에너지 #인버터 #MOSFET #웨이퍼 #에피택시 #수직통합 #정보기술 #반도체
@@ -44,7 +40,6 @@ weight: 968
 - **주가 반응**: 실적 발표 후 20% 이상 하락
 
 ### **2024년 8월 21일 - Q4 FY2024 실적 발표 (치명타)**
-
 - **매출 미스**: 예상치를 하회하는 실적
 - **EPS**: -$0.89 vs 예상치 -$0.84 (5.9% 미스)
 - **Durham 공장 폐쇄 발표**: 150mm 웨이퍼 생산 시설 폐쇄 결정
@@ -59,9 +54,6 @@ weight: 968
 - **자동차 고객사 주문 취소/연기** 본격화
 
 ### **2024년 12월**
-
-{{< adsense-infeed >}}
-
 - **연말 주가**: 2024년 총 84.7% 하락으로 마감
 - **부채 증가**: 총 부채 $6.5B, 현금 $1.3B
 - **신용등급 하향**: 파산 위험 증가
@@ -71,6 +63,8 @@ weight: 968
 ## **2025년 주요 이슈들**
 
 ### **2025년 1월**
+
+{{< adsense-infeed >}}
 
 - **2025년 연초**: 추가 26% 하락으로 시작
 - **Q2 FY2025 실적 예고**: 더욱 악화된 전망
@@ -194,7 +188,6 @@ Wolfspeed의 비즈니스 모델은 실리콘 카바이드(SiC) 기술을 기반
 - 패키징 및 테스트: 완제품 조립 및 최종 검사
 
 **4. 타겟 시장:**
-
 - 자동차: 전기차 메인 인버터, 온보드 충전기 (매출의 60%)
 - 산업용: 솔라 인버터, UPS, 모터 드라이브 (매출의 25%)
 - 에너지: 풍력, 태양광 발전 시스템 (매출의 10%)
@@ -221,9 +214,6 @@ Wolfspeed의 핵심 경쟁력은 35년 이상 축적된 실리콘 카바이드(S
 ---
 
 ## 핵심기술
-
-{{< adsense-infeed >}}
-
 실리콘 카바이드(SiC) 단결정 성장 기술, SiC 웨이퍼 가공 기술, SiC 에피택시 성장 기술, SiC MOSFET 설계 기술, SiC 다이오드 제조 기술, 갈륨 나이트라이드(GaN) 기술, RF 파워 앰프 기술, 파워 모듈 패키징 기술, 고온 공정 기술
 
 ---
@@ -305,7 +295,6 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 - General Motors(US, [GM](/company-analysis/gm/)) - EV 파워 일렉트로닉스
 - BYD(CN, [BYD](/company-analysis/byd/)) - 중국 전기차 제조업체
 - Enphase Energy(US, [ENPH](/company-analysis/enph/)) - 태양광 마이크로 인버터
-
 ---
 
 ## 주요제품
@@ -344,6 +333,8 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 
 **반도체 제조 장비:**
 
+{{< adsense-infeed >}}
+
 - 사용처: SiC 웨이퍼 가공 및 디바이스 제조
 - 주요 공급 지역: 미국, 일본, 네덜란드
 - 주요 공급 업체: Applied Materials [AMAT](/company-analysis/amat/), LAM Research [LRCX](/company-analysis/lrcx/)
@@ -351,9 +342,6 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 ---
 
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 - Tesla Inc.(US, [TSLA](/company-analysis/tsla/)) - 전기차 제조사, 메인 인버터용 SiC MOSFET
 - Ford Motor Company(US, [F](/company-analysis/f/)) - 미국 자동차 제조사, EV 파워트레인
 - General Motors(US, [GM](/company-analysis/gm/)) - 미국 대형 자동차 제조사, 전기차 부품
@@ -417,9 +405,6 @@ Wolfspeed는 실리콘 카바이드 기반 반도체의 완전한 수직 통합 
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 SiC 파워 반도체 시장 점유율 약 3위 (2024년 기준), 시장 점유율 약 16%
 
 - 1위: STMicroelectronics - 약 33%

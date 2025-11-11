@@ -1,16 +1,12 @@
 ﻿---
 title: "FUBO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 358
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #스포츠중심스트리밍 #라이브TV #OTT #스포츠콘텐츠 #프리미엄채널 #클라우드DVR #멀티뷰 #FanView #AI기술 #광고기술 #구독모델 #콘텐츠집계 #디지털권리 #스포츠베팅 #4K스트리밍  #데이터분석 #사용자경험
 
 ## 산업섹터
@@ -19,6 +15,8 @@ weight: 358
 산업: 미디어스트리밍
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 FuboTV Inc.(NYSE: FUBO)는 스포츠 중심의 라이브 TV 스트리밍 플랫폼을 운영하는 미국 기업입니다. 주요 사업은 다음과 같습니다:
 
@@ -31,7 +29,6 @@ FuboTV Inc.(NYSE: FUBO)는 스포츠 중심의 라이브 TV 스트리밍 플랫�
 FuboTV는 미국, 캐나다, 스페인에서 서비스를 제공하고 있으며, 최근에는 프랑스의 Molotov 인수를 통해 유럽 시장 진출을 가속화하고 있습니다.최근 1년 내 주요 이슈로는 Disney, Fox, Warner Bros. Discovery와의 소송 합의, Hulu + Live TV와의 합병 계획 발표, 그리고 AI 기반 산업 지속가능성 소프트웨어 출시 등이 있습니다.
 
 ## 핵심 경쟁력
-
 FuboTV의 핵심 경쟁력은 다음과 같습니다:
 
 1. 스포츠 중심 콘텐츠: 다양한 스포츠 리그와 이벤트에 대한 광범위한 중계권 확보
@@ -44,15 +41,11 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 이러한 경쟁력을 바탕으로 FuboTV는 빠르게 성장하는 OTT 시장에서 차별화된 포지션을 구축하고 있습니다.
 
 ## 전방/후방산업
-
 전방산업:
 
 - 스포츠 리그: NFL(US, NFL), NBA(US, NBA), MLB(US, MLB)
 - 미디어 콘텐츠 제작: Disney(US, [DIS](/company-analysis/dis/)), ViacomCBS(US, VIAC)
 - 광고주: Procter & Gamble(US, [PG](/company-analysis/pg/)), Coca-Cola(US, [KO](/company-analysis/ko/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -76,7 +69,11 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 - Fubo Elite: 프리미엄 스트리밍 패키지, 매출의 약 20% (2024년 기준)
 - 광고 서비스: 타겟 광고 및 분석, 매출의 약 10% (2024년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 - 스포츠 팬
 - 코드커터 (케이블 TV 해지자)
@@ -84,9 +81,6 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 - 디지털 네이티브 소비자
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다, 스페인, 프랑스
 
 ## 경쟁업체
@@ -97,11 +91,7 @@ FuboTV의 핵심 경쟁력은 다음과 같습니다:
 - DirecTV Stream(US, [T](/company-analysis/t/))
 - Philo(비상장)
 - Vidgo(비상장)
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 FuboTV의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 3분기 기준 북미 지역에서 161만 명의 유료 구독자를 보유하고 있으며, 가상 MVPD 시장에서 주요 플레이어로 자리잡고 있습니다.
 
 ## 최근 3년 내 주요 이슈

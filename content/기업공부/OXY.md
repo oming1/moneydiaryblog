@@ -1,16 +1,12 @@
 ﻿---
 title: "OXY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 669
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #석유가스 #탐사생산 #화학 #미드스트림 #저탄소기술 #EOR #탄소포집 #퍼미안베이신 #에너지
 
 ## 산업 섹터
@@ -20,20 +16,20 @@ weight: 669
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
 ## 영위사업
 
 Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주요 자산을 보유한 국제 에너지 기업입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 석유 및 가스: 미국 퍼미안 베이신, DJ 베이신, 멕시코만 등에서 석유, 천연가스, [NGL](/industry-study/ngl/) 탐사 및 생산
 2. 화학: OxyChem 자회사를 통해 PVC, 염소, 가성 소다 등 기초 화학 제품 생산
 3. 미드스트림 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
 
+{{< adsense-infeed >}}
+
 OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 이상의 경험을 바탕으로 퍼미안 베이신에서 리더십을 발휘하고 있습니다. 또한 저탄소 기술 개발에도 주력하고 있으며, 자회사 Oxy Low Carbon Ventures를 통해 CCUS, 직접 공기 포집(DAC) 등의 프로젝트를 추진하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 퍼미안 베이신 리더십: 미국 최대 석유 생산 지역인 퍼미안 베이신에서 선도적 위치
 2. CO2 EOR 기술: 50년 이상의 경험을 바탕으로 한 업계 최고의 CO2 EOR 기술력
@@ -47,17 +43,12 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
     
     - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 시추 장비: Baker Hughes(US, [BKR](/company-analysis/bkr/))
-
-{{< adsense-infeed >}}
-
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
     - 석유화학: Dow Inc.(US, [DOW](/company-analysis/dow/))
     - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/))
-
 ## 밸류체인
-
 1. 탐사 및 생산: Occidental Petroleum (주요 사업 영역)
 2. 수집 및 처리: Occidental Petroleum (주요 사업 영역)
 3. 수송: Occidental Petroleum, Western Midstream(US, WES)
@@ -70,9 +61,6 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 2. [천연가스](/industry-study/천연가스/)
 3. NGL(천연가스 액체)
 4화학제품]] (PVC, 염소, 가성 소다 등)
-
-{{< adsense-infeed >}}
-
 ## 주요고객
 
 1. 정유사
@@ -81,18 +69,19 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 4. 산업용 에너지 소비자
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. ExxonMobil(US, [XOM](/company-analysis/xom/))
 2. Chevron(US, [CVX](/company-analysis/cvx/))
 3. ConocoPhillips(US, [COP](/company-analysis/cop/))
 4. EOG Resources(US, [EOG](/company-analysis/eog/))
 5. Pioneer Natural Resources(US, PXD)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -105,9 +94,6 @@ OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영�
 3. 콜롬비아 육상 사업 Carlyle Group에 매각 (2020년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 부채 감축을 위한 자산 매각 프로그램 실행 (2022-2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. Berkshire Hathaway: 27.2%

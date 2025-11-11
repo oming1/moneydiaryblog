@@ -1,16 +1,12 @@
 ﻿---
 title: "Harmonic Drive Systems"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 397
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #하모닉드라이브시스템즈 #정밀감속기 #로봇공학 #산업자동화 #서보모터 #로봇감속기 #협동로봇 #우주항공 #반도체장비 #의료기기 #자동차산업 #RV감속기 #하모닉기어 #고정밀기어 #로봇팔 #모션컨트롤 #로봇자동화 #산업용로봇 #협동로봇 #정밀기계 #기어박스 #서보드라이브 #로봇산업 #스마트팩토리 #우주탐사 #전기차부품 #감속기시장 #기술리더십 #글로벌공급망 #일본제조 #고객맞춤형솔루션 #일본 
 
 ---
@@ -35,7 +31,9 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
     - **기타 서비스:** 기술 컨설팅, 유지보수 및 애프터마켓 서비스.
 
 - **사업 부문별 구성**
-    
+
+{{< adsense-infeed >}}
+
     - **산업용 로봇 (약 60% 매출):** 협동 로봇, 산업용 로봇 팔.
     - **반도체 장비 (약 20% 매출):** 웨이퍼 핸들링, 리소그래피 장비.
     - **기타 (약 20% 매출):** 의료기기, 우주항공, 전기차 부품.
@@ -98,9 +96,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 핵심 기술
-
-{{< adsense-infeed >}}
-
 - **하모닉 드라이브:** 고정밀 기어 감속기로, 로봇 팔과 협동 로봇에 최적화.
 - **서보 모터:** 고속, 고정밀 모션 컨트롤.
 - **정밀 기어박스:** 고강성, 경량 설계로 에너지 효율성 향상.
@@ -110,6 +105,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 제조 공정
+
+{{< adsense-infeed >}}
 
 1단계: 원자재 조달 (고강도 합금강, 희토류).  
 2단계: 기어 가공 (정밀 CNC).  
@@ -121,6 +118,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 
 ### 전방산업 / 후방산업
 
+{{< adsense-infeed >}}
+
 **전방산업 (제품 사용 산업):**
 
 - 로봇공학: 협동 로봇, 산업용 로봇.
@@ -129,6 +128,8 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 - 우주항공: 탐사 로봇.
 
 **후방산업 (원자재/부품 공급 산업):**
+
+{{< adsense-infeed >}}
 
 - 합금강: Nippon Steel(JP, (5401)).
 - 희토류: Lynas(AU, LYC).
@@ -143,7 +144,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 - Lynas(AU, LYC): 희토류.
 
 **제조 및 조립 단계:**
-
 - Harmonic Drive Systems 내부: 감속기 제조.
 
 **유통 및 판매 단계:**
@@ -154,9 +154,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 주요 제품
-
-{{< adsense-infeed >}}
-
 - **Harmonic Drive 감속기:** 로봇 팔, 매출비중 50%(2024), 경쟁사 [Nabtesco](/company-analysis/nabtesco/), Sumitomo Heavy.
 - **서보 모터:** 모션 컨트롤, 매출비중 30%(2024), 경쟁사 [Yaskawa](/company-analysis/yaskawa/), [Fanuc](/company-analysis/fanuc/).
 - **기어박스:** 맞춤형 설계, 매출비중 20%(2024), 경쟁사 Nidec, THK.
@@ -164,9 +161,10 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 주된 영향을 미치는 원자재
-
 - **합금강:** 기어 제조, 공급지: 일본, 공급업체 Nippon Steel(JP, (5401)).
 - **희토류:** 모터 자석, 공급지: 호주, 공급업체 Lynas(AU, LYC).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -188,7 +186,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 경쟁업체
-
 - Nabtesco(JP, (6268)) - 로봇 감속기, 시장점유율 30%.
 - Sumitomo Heavy Industries(JP, (6302)) - 감속기, 시장점유율 20%.
 - Nidec(JP, (6594)) - 서보 모터, 시장점유율 15%.
@@ -236,9 +233,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - ROBO - Global X Robotics & Artificial Intelligence ETF ROBO.
 - BOTZ - Global X Robotics & AI ETF BOTZ.
 

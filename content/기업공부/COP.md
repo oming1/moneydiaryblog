@@ -1,16 +1,12 @@
 ﻿---
 title: "COP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 219
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #석유가스 #업스트림 #탐사생산 #LNG #셰일오일 #천연가스 #탄소포집 #지속가능에너지 #석유화학 #글로벌에너지기업 #석유정제 #해상시추 #육상시추 #파이프라인 #에너지전환 #신재생에너지 #탄소중립 #ESG #디지털화 #에너지효율
@@ -21,8 +17,9 @@ weight: 219
 산업: 석유가스탐사및생산
 
 ## 영위사업
-
 ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 석유와 천연가스의 탐사, 생산, 운송 및 마케팅에 종사합니다. 회사는 전 세계 14개국에서 사업을 운영하고 있으며, 특히 북미, 아시아, 유럽, 호주 지역에 집중되어 있습니다.주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 알래스카: 북극 지역 석유 및 가스 생산
 2. 하부 48개주: 미국 본토의 셰일 오일 및 가스 생산
@@ -40,7 +37,6 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 3. 재무 건전성: 강력한 현금 흐름과 낮은 부채비율 유지
 4. 운영 효율성: 지속적인 비용 절감과 생산성 향상 노력
 5. 지속가능성 전략: 탄소 배출 감축 목표 설정 및 신재생 에너지 투자
-
 ## 전방/후방산업
 
 전방산업:
@@ -72,6 +68,8 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - 정유사: ExxonMobil(US, [XOM](/company-analysis/xom/)), Valero Energy(US, [VLO](/company-analysis/vlo/))
 - 석유화학 기업: Dow Inc.(US, [DOW](/company-analysis/dow/)), BASF(DE, BAS)
 - 전력 회사: NextEra Energy(US, [NEE](/company-analysis/nee/)), Dominion Energy(US, [D](/company-analysis/d/))
@@ -79,9 +77,6 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 - 트레이딩 회사: Vitol, Trafigura
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 중국, 일본, 한국, 영국, 캐나다, 호주, 인도네시아, 말레이시아, 노르웨이
 
 ## 경쟁업체
@@ -91,13 +86,9 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 - Shell(UK, SHEL): 종합 에너지 회사
 - BP(UK, BP): 종합 에너지 회사
 - TotalEnergies(FR, TTE): 종합 에너지 회사
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 ConocoPhillips는 2024년 기준 글로벌 석유 및 가스 생산량 기준으로 약 2.5%의 시장 점유율을 보유하고 있습니다. 이는 주요 국영 석유 회사들을 제외한 국제 석유 회사들 중에서는 상위권에 속합니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 북미 지역에서의 셰일 오일 생산 증가로 경쟁력을 강화하고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - 셰일 오일 생산량 증대를 위한 퍼미안 베이슨 자산 추가 인수 (2024년)
@@ -108,12 +99,11 @@ ConocoPhillips는 2024년 기준 글로벌 석유 및 가스 생산량 기준으
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (8.91%)
 - BlackRock (8.20%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Energy Select Sector SPDR Fund - XLE

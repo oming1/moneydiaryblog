@@ -1,16 +1,12 @@
 ﻿---
 title: "PSA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 710
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 ## 핵심 키워드
 
 #셀프스토리지 #REIT #부동산투자 #월배당 #자산관리 #도시화 #전자상거래 #인구증가 #포트폴리오다각화 #규모의경제 #브랜드인지도 #입지전략 #고객충성도 #디지털화 #지속가능성 #ESG #인수합병 #글로벌확장 #현금흐름 #자산가치상승 #리츠 
@@ -36,6 +32,8 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 주거용 부동산: Lennar Corporation(US, [LEN](/company-analysis/len/)), D.R. Horton(US, [DHI](/company-analysis/dhi/))
 - 상업용 부동산: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 전자상거래: Amazon(US, [AMZN](/company-analysis/amzn/)), eBay(US, [EBAY](/company-analysis/ebay/))
@@ -45,23 +43,18 @@ Public Storage(NYSE: PSA)는 미국 최대의 셀프 스토리지 부동산 투�
 - 건설 및 개발: Bechtel Corporation, Turner Construction Company
 - 부동산 기술: CoStar Group(US, [CSGP](/company-analysis/csgp/)), RealPage(US, RP)
 - 보안 시스템: ADT Inc.(US, ADT), Brinks Home Security
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 개인용 스토리지 유닛: 다양한 크기의 보관 공간, 매출의 약 70% (2024년 기준)
 - 비즈니스용 스토리지 솔루션: 기업 고객 대상 맞춤형 서비스, 매출의 약 20% (2024년 기준)
 - 차량 보관 서비스: RV, 보트 등 대형 차량 보관, 매출의 약 5% (2024년 기준)
 - 포장 및 이사 용품 판매: 박스, 테이프 등 관련 용품, 매출의 약 5% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 유럽 (Shurgard Self Storage SA를 통해)
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - Extra Space Storage(US, EXR): 셀프 스토리지 시설
 - CubeSmart(US, CUBE): 셀프 스토리지 및 물류 솔루션
@@ -80,18 +73,13 @@ Public Storage는 2024년 기준 미국 셀프 스토리지 시장에서 약 10%
 - ezStorage 포트폴리오 18억 달러에 인수 완료 (2023년)
 - AI 기반 고객 서비스 'PS Assistant' 도입 (2023년)
 - 태양광 발전 시설 확대: 2025년까지 1,300개 부지에 설치 계획 발표 (2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - Cohen & Steers Capital Management (3.26%)
-
 ## 관련 ETF
-
 - Vanguard Real Estate ETF - VNQ
 - iShares U.S. Real Estate ETF - IYR
 - Real Estate Select Sector SPDR Fund - XLRE

@@ -1,16 +1,12 @@
 ﻿---
 title: "HD현대중공업"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T06:50:33+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #HD현대중공업 #조선 
 
 - 테마구분: [조선업](/industry-study/조선업/)

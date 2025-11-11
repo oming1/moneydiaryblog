@@ -1,16 +1,12 @@
 ﻿---
 title: "HUN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 426
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #화학 #소재과학 #폴리우레탄 #산업용화학제품 #첨단소재 #원자재 #소재 #유기화학제품 #에폭시 #아크릴 #아민 #말레산무수물 #폴리머 #MDI
 
 ## 산업 섹터
@@ -22,14 +18,13 @@ weight: 426
 화학(Chemicals)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Huntsman Corporation은 다양한 유기 화학 제품을 제조하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 폴리우레탄: MDI, 폴리올, 열가소성 폴리우레탄 제품 생산
 2. 성능 제품: 아민, 말레산 무수물 등 제조 및 판매
 3. 첨단 소재: 에폭시, 아크릴, 폴리우레탄 기반 폴리머 제품 개발
+
+{{< adsense-infeed >}}
 
 Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, 의료, 포장 등 다양한 산업 분야에 제품을 공급하고 있습니다. 지속가능성과 혁신에 중점을 두고 있으며, 전 세계 25개국 이상에서 60개 이상의 제조 및 R&D 시설을 운영하고 있습니다.
 
@@ -41,21 +36,18 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 4. 지속가능성 중심의 혁신
 5. 고객 맞춤형 솔루션 제공 능력
 6. 전략적 인수합병을 통한 성장
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 전방산업:
-    
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 항공우주: Boeing(US, [BA](/company-analysis/ba/))
     - 건설: Lennar(US, [LEN](/company-analysis/len/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -63,9 +55,6 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 2. 생산: Huntsman Corporation (주요 사업 영역)
 3. 유통: Brenntag(DE, BNR) - 화학제품 유통
 4. 최종 소비자: Procter & Gamble(US, [PG](/company-analysis/pg/)) - 소비재 제조
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. MDI 및 폴리올 (폴리우레탄 원료)
@@ -73,17 +62,12 @@ Huntsman은 접착제, 항공우주, 자동차, 코팅, 건설, 전자기기, �
 3. 에폭시 및 아크릴 기반 폴리머 제품 (첨단 소재)
 
 ## 주요고객
-
 1. BMW
 2. General Electric
 3. Chevron
 4. Procter & Gamble
 5. Unilever
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Huntsman Corporation은 글로벌 기업으로, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 
 ## 경쟁업체
@@ -93,6 +77,8 @@ Huntsman Corporation은 글로벌 기업으로, 구체적인 국가별 매출 �
 3. DuPont(US, [DD](/company-analysis/dd/))
 4. Eastman Chemical(US, EMN)
 5. Covestro(DE, 1COV)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 

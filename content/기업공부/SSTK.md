@@ -1,16 +1,12 @@
 ﻿---
 title: "SSTK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 830
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #테크 #소프트웨어 #인터넷콘텐츠및정보 #커뮤니케이션서비스
 
 - 최근 이슈
@@ -30,14 +26,10 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 ## 전방/후방산업
 
 - **전방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 디지털 콘텐츠 소비 및 마케팅
     - **관련 기업**: Adobe Stock (US, [ADBE](/company-analysis/adbe/)), Getty Images (US, GETY)
-
-{{< adsense-infeed >}}
-
+    - **핵심 산업 및 역할**: 디지털 콘텐츠 소비 및 마케팅
+    - **관련 기업**: Adobe Stock (US, [ADBE](/company-analysis/adbe/)), Getty Images (US, GETY)
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 콘텐츠 제작 및 배급
@@ -46,25 +38,22 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 
 ## 밸류체인
 
+{{< adsense-infeed >}}
+
 - **콘텐츠 제작**: Shutterstock의 스톡 이미지 및 비디오 제작
     
     - **대표 회사**: Getty Images (US, GETY) - 스톡 이미지 및 비디오 제공
     - **대표 회사**: Adobe Stock (US, [ADBE](/company-analysis/adbe/)) - 스톡 이미지 및 디자인 자원
-    
 - **플랫폼 운영**: Shutterstock 웹사이트 및 API 개발
     
     - **대표 회사**: Google (US, [GOOGL](/company-analysis/googl/)) - 클라우드 서비스 및 API 제공
     - **대표 회사**: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)) - 클라우드 인프라 제공
-    
 - **마케팅 및 유통**: 콘텐츠 마케팅 및 배급
     
     - **대표 회사**: HubSpot (US, HUBS) - 마케팅 소프트웨어
     - **대표 회사**: Mailchimp (US, 비상장) - 이메일 마케팅 플랫폼
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - **스톡 사진** (매출의 약 60%)
 - **스톡 비디오** (매출의 약 20%)
 - **스톡 음악** (매출의 약 10%)
@@ -74,17 +63,18 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 
 Shutterstock은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아시아 태평양 지역입니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - **Adobe Stock (US, [ADBE](/company-analysis/adbe/))** - 스톡 이미지 및 비디오 제공
 - **Getty Images (US, GETY)** - 스톡 이미지 및 비디오 제공
 - **Pond5 (US, 비상장)** - 스톡 비디오 및 음악 제공
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Shutterstock은 스톡 이미지 및 비디오 시장에서 약 10-15%의 점유율을 보유하고 있으며, 경쟁사들과의 경쟁에서 중요한 위치를 차지하고 있습니다 (2023년 기준).
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

@@ -1,16 +1,12 @@
 ﻿---
 title: "CRWV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 241
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 CoreWeave Inc.는 AI 및 고성능 컴퓨팅(HPC)에 특화된 클라우드 인프라 제공업체로, Nvidia GPU 기반의 차별화된 서비스로 급성장 중인 기업입니다. 2025년 3월 NYSE 상장 이후 AI 클라우드 시장에서 Amazon Web Services(AWS), Google Cloud와 경쟁하며 연간 200% 이상의 매출 성장률을 기록하고 있습니다.
 
 ---
@@ -26,6 +22,8 @@ CoreWeave Inc.는 AI 및 고성능 컴퓨팅(HPC)에 특화된 클라우드 인�
 ## 섹터
 
 #정보기술 (Information Technology, 정보기술)
+
+{{< adsense-infeed >}}
 
 ## 산업
 
@@ -61,9 +59,6 @@ CoreWeave는 2017년 설립된 미국 뉴저지주 소재의 AI 특화 클라우
 - 2025년 3월 OpenAI와 5년간 120억 달러 규모 클라우드 계약 체결
     
 - 2025년 2월 Nvidia GB200 NVL72 슈퍼컴퓨터 최초 상용화
-
-{{< adsense-infeed >}}
-
 - 2024년 12월 Cohere와 20억 달러 규모 데이터센터 구축 계약
 
 ---
@@ -73,9 +68,6 @@ CoreWeave는 2017년 설립된 미국 뉴저지주 소재의 AI 특화 클라우
 1. **Nvidia와의 전략적 제휴**: [2023년 Nvidia로부터 1억 달러 투자 유치], H100 GPU 조기 공급 확보로 경쟁사 대비 6개월 선행 기술 도입
     
 2. **수직 통합 인프라**: 자체 개발한 Kubernetes 네이티브 플랫폼으로 GPU 활용도 95% 달성(AWS 대비 40%p 우수)
-
-{{< adsense-infeed >}}
-
 3. **유연한 요금 체계**: 초단위 과금제 도입으로 소규모 AI 스타트업 수요 흡수
     
 4. **보안 인증**: FedRAMP High, ISO 27001 등 14개 글로벌 인증 획득
@@ -103,7 +95,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 1. **데이터센터 구축**: Dell([DELL](/company-analysis/dell/)), Supermicro([SMCI](/company-analysis/smci/)) 서버 장비 조달
     
 2. **GPU 통합**: Nvidia([NVDA](/company-analysis/nvda/)) H100/A100 가속기 설치
-    
 3. **소프트웨어 배포**: 자체 개발 플랫폼 롤아웃
     
 4. **모니터링 시스템**: Prometheus/Grafana 기반 실시간 감시
@@ -123,7 +114,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 전방산업
 
 - **AI 개발사**: OpenAI(비상장) - 대규모 모델 학습
-    
+
+{{< adsense-infeed >}}
+
 - **클라우드 서비스**: Microsoft(US, [MSFT](/company-analysis/msft/)) - Azure 연동
     
 - **자동차 OEM**: Tesla(US, [TSLA](/company-analysis/tsla/)) - 자율주행 학습
@@ -162,7 +155,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
     - 공급업체: Nvidia([NVDA](/company-analysis/nvda/))
         
 2. **서버 랙**: 고밀도 컴퓨팅 장비
-    
     - 주요 공급 지역: 미국, 중국
         
     - 공급업체: Dell([DELL](/company-analysis/dell/))
@@ -178,7 +170,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 주요고객
 
 1. Microsoft(US, [MSFT](/company-analysis/msft/)) - Azure AI 연동 서비스
-    
+
+{{< adsense-infeed >}}
+
 2. OpenAI(비상장) - GPT 모델 학습 인프라
     
 3. IBM(US, [IBM](/company-analysis/ibm/)) - Watsonx 플랫폼 구축
@@ -198,7 +192,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 주요 판매국가
 
 - **미국**: 매출의 82% (23개 데이터센터)
-    
+
+{{< adsense-infeed >}}
+
 - **영국**: 12% (런던·맨체스터 센터)
     
 - **캐나다**: 4% (토론토 센터)
@@ -226,9 +222,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 8. Vultr(비상장)
     
 9. OVHcloud(FR, OVH)
-
-{{< adsense-infeed >}}
-
 10. Alibaba Cloud([BABA](/company-analysis/baba/))
 
 ---
@@ -256,9 +249,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 최근 3년 내 주요 이슈
 
 1. 2025년 3월 IPO로 15억 달러 조달 (2025)
-
-{{< adsense-infeed >}}
-
 2. 2025년 2월 Nvidia GB200 최초 배치 (2025)
     
 3. 2024년 12월 Microsoft와 62억 달러 계약 갱신 (2024)
@@ -274,9 +264,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 2. The Vanguard Group: 7.1%
     
 3. BlackRock, Inc.: 5.8%
-
-{{< adsense-infeed >}}
-
 4. Fidelity Investments: 4.3%
     
 5. CEO Michael Intrator: 2.9%
@@ -288,7 +275,9 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 1. Global X Cloud Computing ETF - CLOU
     
 2. Global X Artificial Intelligence & Technology ETF - AIQ
-    
+
+{{< adsense-infeed >}}
+
 3. iShares Expanded Tech-Software Sector ETF - IGV
     
 4. Invesco AI and Next Gen Software ETF - IGPT

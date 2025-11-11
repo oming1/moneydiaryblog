@@ -1,16 +1,12 @@
-﻿---
+---
 title: "FCX의 구리 가격 변동으로 뭘 사볼까"
 date: 2025-10-24T22:46:39+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #FCX #구리 #인도네시아 #SCCO 
 
 ## FCX(Freeport-McMoRan) vs SCCO(Southern Copper)구리 공급 충격 이후 뭘 사볼까
@@ -24,9 +20,6 @@ weight: 2
 ![](/images/Pasted%20image%2020250925121351.png)
 
 이러한 공급 차질은 이미 타이트한 글로벌 구리 재고와 맞물려 가격 민감도를 극대화하고 있습니다. 단기적으로 구리 가격은 추가 상승 압력을 받을 가능성이 높으며, 제련업계에도 부담이 가중될 전망입니다.
-
-{{< adsense-infeed >}}
-
 ---
 ### **2. 주요 구리 기업 비교**
 
@@ -43,23 +36,17 @@ weight: 2
 ### **2. FCX와 SCCO의 사업 구조 및 공급망 비교**
 
 #### **A. 생산 비중 및 글로벌 영향력**
-
 - **[FCX](/company-analysis/fcx/) (Freeport-McMoRan)**
-
-{{< adsense-infeed >}}
-
     - Grasberg(인도네시아): FCX 구리 생산의 30%, 금 생산의 70%, 글로벌 구리의 3.2% 차지.
     - 북미(미국), 남미(페루, 칠레) 등 다각화된 포트폴리오.
     - 최근 사고로 2026년 생산 전망도 35% 하향 가능성 경고.
     - 단일 자산(Grasberg) 의존도가 높아, 공급 충격 시 주가 변동성 확대.
-
-{{< adsense-infeed >}}
-
 - **[SCCO](/company-analysis/scco/) (Southern Copper)**
-    
     - 멕시코(Buenavista, La Caridad), 페루(Toquepala, Cuajone) 등 남미 중심.
     - 단일 광산 의존도는 FCX보다 낮고, 생산지 분산도가 높음.
     - 최근 페루 지역 시위 등 정치적 리스크는 있으나, 대형 사고로 인한 대규모 생산 차질은 드물었음.
+
+{{< adsense-infeed >}}
 
 - **Rio Tinto ([RIO](/company-analysis/rio/))**
 
@@ -68,7 +55,6 @@ weight: 2
 	    - 전기차 및 재생에너지 수요 증가에 따른 수혜 가능.
 	- **리스크**:
 	    - 광산 수명 연장 필요 및 환경 규제 강화.
-
 - **[Hudbay Minerals](/company-analysis/hudbay-minerals/)(HBM)**
 
 	- 미국 내 애리조나 Rosemont 프로젝트 중심.
@@ -78,6 +64,8 @@ weight: 2
 	    - 프로젝트 지연 가능성 및 초기 단계의 불확실성.
 
 - **Taseko Mines([TGB](/company-analysis/tgb/))**
+
+{{< adsense-infeed >}}
 
 	- 미국 내 애리조나 Florence 프로젝트 중심.
 	    - 저비용 생산 가능성(In-situ 기술 활용).
@@ -95,9 +83,6 @@ weight: 2
     - 세계 최대급 구리·금 복합 광산(Grasberg) 보유.
     - 북미, 남미, 아시아 등 글로벌 생산 네트워크.
     - 금, 몰리브덴 등 부산물로 수익 다각화.
-
-{{< adsense-infeed >}}
-
 - **리스크**
     - 단일 대형 광산(Grasberg) 의존도 높음 → 공급 충격 시 실적·주가 급변.
     - 인도네시아 등 신흥국 규제·정치 리스크.
@@ -106,11 +91,15 @@ weight: 2
 
 ##### **SCCO**
 
+{{< adsense-infeed >}}
+
 - **경쟁력**
     - 멕시코·페루 등 남미 저비용 대형 광산 집중.
     - 생산지 분산, 단일 광산 리스크 상대적으로 낮음.
     - 높은 영업이익률과 꾸준한 배당.
     - 대규모 확장 프로젝트(총 $15B 이상)로 성장성 확보.
+
+{{< adsense-infeed >}}
 
 - **리스크**
     - 멕시코·페루의 정치·사회적 불안(노동쟁의, 시위 등).
@@ -122,9 +111,6 @@ weight: 2
 ### **3. 투자 전략 및 대안적 관점**
 
 #### **A. 단기 구리 가격 모멘텀**
-
-{{< adsense-infeed >}}
-
 - FCX의 Grasberg 공급 차질은 단기적으로 구리 가격을 강하게 지지.
 - 글로벌 재고가 극도로 낮은 상황에서 추가 공급 충격(페루 Hudbay 등)까지 겹치면 가격 급등 가능성.
 - 단기 트레이딩 관점에서는 구리 선물, 구리 ETF, 구리 생산업체(특히 미국 내 생산 비중 높은 기업)에 모멘텀.

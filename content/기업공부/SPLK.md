@@ -1,16 +1,12 @@
 ﻿---
 title: "SPLK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 821
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #테크 #소프트웨어 #데이터분석 
 
 **산업섹터 (Sector, Industry)**
@@ -19,9 +15,6 @@ weight: 821
 - **Industry:** 소프트웨어 - 인프라 (Software - Infrastructure)
 
 **영위사업** Splunk Inc.는 데이터 분석 소프트웨어를 제공하는 회사로, 머신 데이터의 실시간 수집, 인덱싱, 분석을 통해 운영 인텔리전스를 제공합니다. 주요 제품으로는 Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 **전방산업**
 
 - **IT 운영 (IT Operations):** IT 인프라의 모니터링 및 관리. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 서비스나우 (미국, [NOW](/company-analysis/now/)).
@@ -29,17 +22,19 @@ weight: 821
 
 **후방산업**
 
+{{< adsense-infeed >}}
+
 - **클라우드 서비스 (Cloud Services):** 데이터 저장 및 처리 인프라 제공. 주요 기업: 아마존 웹 서비스 (미국, [AMZN](/company-analysis/amzn/)), 마이크로소프트 애저 (미국, [MSFT](/company-analysis/msft/)).
 - **데이터 센터 (Data Centers):** 데이터 저장 및 관리. 주요 기업: 에퀴닉스 (미국, [EQIX](/company-analysis/eqix/)), 디지털 리얼티 (미국, [DLR](/company-analysis/dlr/)).
-
 **밸류체인**
-
 1. **데이터 수집 및 저장 (Data Collection and Storage):**
     
     - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)):** 클라우드 스토리지 서비스.
     - **Microsoft Azure (미국, [MSFT](/company-analysis/msft/)):** 클라우드 인프라 제공.
 2. **데이터 분석 및 인텔리전스 (Data Analytics and Intelligence):**
-    
+
+{{< adsense-infeed >}}
+
     - **Palantir Technologies (미국, [PLTR](/company-analysis/pltr/)):** 데이터 분석 플랫폼.
     - **Snowflake (미국, [SNOW](/company-analysis/snow/)):** 데이터 웨어하우징 서비스.
 3. **보안 및 컴플라이언스 (Security and Compliance):**
@@ -51,10 +46,9 @@ weight: 821
     - **ServiceNow (미국, [NOW](/company-analysis/now/)):** IT 서비스 관리 플랫폼.
     - **IBM (미국, [IBM](/company-analysis/ibm/)):** IT 인프라 관리 솔루션.
 
-**주요제품**
-
 {{< adsense-infeed >}}
 
+**주요제품**
 - **Splunk Enterprise:** 머신 데이터 분석 플랫폼.
 - **Splunk Cloud:** 클라우드 기반 데이터 분석 서비스.
 - **Splunk IT Service Intelligence:** IT 운영 인텔리전스 솔루션.
@@ -67,6 +61,8 @@ weight: 821
 - **독일:** 주요 매출 국가.
 - **일본:** 주요 매출 국가.
 
+{{< adsense-infeed >}}
+
 **경쟁업체**
 
 - **IBM (미국, [IBM](/company-analysis/ibm/)):** 데이터 분석 및 IT 운영 솔루션.
@@ -77,9 +73,6 @@ weight: 821
 **산업 내 글로벌 시장 점유율**
 
 - Splunk는 글로벌 데이터 분석 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈**
 
 - **2022년:** Splunk는 새로운 클라우드 기반 보안 솔루션을 출시하여 시장 점유율을 확대.

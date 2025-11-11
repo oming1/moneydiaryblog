@@ -1,16 +1,12 @@
 ﻿---
 title: "PCG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 678
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #캘리포니아전력회사 #규제전력회사 #전력송배전 #천연가스배급 #인프라투자 #요금기준성장 #재생에너지 #그리드현대화 #산불위험관리 #전력안정성 #규제수익모델 #레이트베이스 #캘리포니아공공사업위원회 #CPUC #전력인프라 #천연가스인프라 #청정에너지전환 #데이터센터전력 #AI전력수요 #전력망강화 #지하전력선 #배당복구 #공공사업 #전력공급독점 #전력 #천연가스 
 
 ---
@@ -36,6 +32,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 
 회사는 2017-2018년 산불 관련 배상 책임으로 2019년 파산보호를 신청했으나, 2020년 파산에서 성공적으로 탈출했습니다. 현재는 재무 안정성을 회복하고 배당 지급도 재개하여 투자자 신뢰를 점진적으로 회복하고 있습니다.
 
+{{< adsense-infeed >}}
+
 최근 1년간 주가는 12.97달러에서 21.72달러 사이에서 거래되고 있으며, 2025년 8월 현재 약 15.04달러에 거래되고 있습니다. 투자자들은 안정적인 규제 수익 모델과 인프라 투자 증가에 따른 성장 잠재력에 주목하고 있으나, 산불 위험과 높은 자본 투자 부담이 주요 리스크 요소로 남아 있습니다.
 
 ---
@@ -43,6 +41,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ## 비즈니스 모델 (수익 모델)
 
 **수익 구조 세분화:**
+
+{{< adsense-infeed >}}
 
 - **전력 사업:** 174억 달러 (71%) - 전력 생산, 송전, 배전 서비스
 - **천연가스 사업:** 70억 달러 (29%) - 천연가스 송배전 서비스
@@ -65,6 +65,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **대규모 인프라 자산:** 18,000마일의 송전선, 106,000마일의 배전선, 43,000마일의 천연가스 파이프라인 등 광범위한 인프라 네트워크를 운영하고 있습니다.
 
 **성장 동력 확보:** 데이터센터 전력 수요 급증(10GW 파이프라인), 전기차 충전 인프라, 건물 전기화 등 장기 성장 동력을 보유하고 있습니다.
+
+{{< adsense-infeed >}}
 
 **재무 안정성 회복:** 파산 탈출 후 투자등급 신용등급(BBB) 회복, 배당 재개, 강화된 리스크 관리 체계 구축으로 운영 안정성을 확보했습니다.
 
@@ -95,9 +97,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ## 전방산업 / 후방산업
 
 **전방산업 (전력/가스 소비 산업):**
-
-{{< adsense-infeed >}}
-
 - 기술기업: Google (US, [GOOGL](/company-analysis/googl/)), Meta (US, [META](/company-analysis/meta/)) - 데이터센터 전력
 - 제조업: Tesla (US, [TSLA](/company-analysis/tsla/)), Intel (US, [INTC](/company-analysis/intc/)) - 제조시설 전력
 - 상업부동산: Simon Property (US, [SPG](/company-analysis/spg/)) - 쇼핑센터/오피스 전력
@@ -148,7 +147,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **재생에너지:** 태양광/풍력 발전, 주요 공급지 캘리포니아 사막지역, 주요 공급업체 NextEra Energy (US, [NEE](/company-analysis/nee/))
 
 **전력설비 원자재:** [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/), [알루미늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속알루미늄/), 강철 등 송배전 인프라용, 주요 공급지 글로벌, 주요 공급업체 Southern Copper (US, [SCCO](/company-analysis/scco/))
-
 **건설자재:** 콘크리트, 목재, 복합소재 등 인프라 건설용, 주요 공급지 캘리포니아/오레곤, 주요 공급업체 Vulcan Materials (US, [VMC](/company-analysis/vmc/))
 
 ---
@@ -169,9 +167,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 - Salesforce (US, [CRM](/company-analysis/crm/)) - 샌프란시스코 타워 및 캠퍼스
 - Tesla (US, [TSLA](/company-analysis/tsla/)) - 프리몬트 제조 공장
 - Intel (US, [INTC](/company-analysis/intc/)) - 산타클라라 반도체 시설
-
-{{< adsense-infeed >}}
-
 **산업 고객:**
 
 - Chevron (US, [CVX](/company-analysis/cvx/)) - 리치몬드 정유공장
@@ -194,6 +189,8 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 
 **캘리포니아 내 경쟁사:**
 
+{{< adsense-infeed >}}
+
 - Southern California Edison (US, [EIX](/company-analysis/eix/)) - 남부 캘리포니아 전력공급, 시장점유율 25%
 - San Diego Gas & Electric (US, [SRE](/company-analysis/sre/)) - 샌디에이고 지역, 시장점유율 8%
 - Sacramento Municipal Utility District - 새크라멘토 공영전력
@@ -207,7 +204,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 - American Electric Power (US, [AEP](/company-analysis/aep/)) - 중서부 전력공급, 시장점유율 6%
 
 **천연가스 경쟁사:**
-
 - SoCalGas/Sempra Energy (US, [SRE](/company-analysis/sre/)) - 남부 캘리포니아 가스공급
 - Kinder Morgan (US, [KMI](/company-analysis/kmi/)) - 주간 파이프라인 운영
 - Enbridge (CA, ENB) - 천연가스 송전
@@ -215,9 +211,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 **미국 전력 시장 점유율:**
 
 - 2023년: 6.8% (매출 기준 4위)
@@ -228,7 +221,6 @@ PG&E의 비즈니스 모델은 규제 요금 기준(Rate Base) 성장에 기반�
 **캘리포니아 전력 시장 점유율:**
 
 - 2023년: 45% (1위, 북부/중부 독점)
-
 ---
 
 ## 기업 특징 및 성장성

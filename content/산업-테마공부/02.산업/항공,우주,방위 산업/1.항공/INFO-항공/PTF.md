@@ -1,16 +1,12 @@
 ﻿---
 title: "PTF"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #PTF #항공기제조 #화물운송 #화물전용기 #화물 
 
 - 테마구분: [항공기 제조](/industry-study/항공기-제조/), [화물 운송](/industry-study/화물-운송/)
@@ -22,11 +18,9 @@ weight: 6
 	- 카고(Cargo)란 적하물(積荷物)이라는 뜻이지만, 항공업계에서는 항공화물수송을 가리킨다. [화물만을 탑재하는 전용수송기를 프레이터(Freighter)]라고 한다
 	- PTF 기재는 여객기에서 화물기로 전환되는데 2~3 달 밖에 소요되지 않아 화물전용기 대비 신속하게 도입이 가능하고, 전환 비용 또한 신조기 구매 비용보다 저렴하다는 장점
 	- 수명이 다한 여객기를 화물기로 변환하여 수명을 연장하는 방법으로도 사용됨
-
 - 세부정보
 	- 카고편(Cargo Flight)과 프레이터편(Freighter Flught)의 차이는 무엇일까?
 		프레이터는 화물전용기를 가리키고, 카고는 일반적인 화물을 말한다. [프레이터라고 하면 창문이 없고 머리를 들어 올리는 수송기]를 말한다. 카고는 [일반여객기로 위에는 승객이 타고, 바닥 밑은 화물실]로 돼있다.
-
 - 관련회사
 	- Israel Aerospace Industries (IAI)
 		- 이스라엘의 항공우주 및 방위산업체로, IAI의 Bedek Aviation Group은 여객기를 화물기로 개조하는 데 세계적인 명성을 가지고 있습니다. B767-300, B737NG 같은 기종의 P2F 프로그램을 진행하고 있습니다.

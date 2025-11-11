@@ -1,16 +1,12 @@
 ﻿---
 title: "FTCI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 356
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #태양광트래커 #유틸리티규모태양광 #재생에너지 #클린테크 #에너지효율 #태양광최적화 #소프트웨어솔루션 #엔지니어링서비스 #지속가능성 #ESG #혁신기술 #글로벌확장 #원가절감 #프로젝트관리 #에너지생산 #태양광발전 #Voyager트래커 #1P2P트래커 #인터커넥션 #재무개선
 
 ## 산업섹터
@@ -39,11 +35,10 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 2. 빠른 설치 속도: 경쟁사 대비 설치 시간 및 비용 절감
     
 3. 소프트웨어 통합: SunDAT 및 Atlas 플랫폼을 통한 프로젝트 최적화
-    
-4. 글로벌 확장: 다양한 지역에서의 프로젝트 경험 및 현지화 전략
 
 {{< adsense-infeed >}}
 
+4. 글로벌 확장: 다양한 지역에서의 프로젝트 경험 및 현지화 전략
 5. 원가 절감 노력: 지속적인 제품 개선을 통한 LCOE(균등화발전비용) 감소
 
 ## 전방/후방산업
@@ -67,7 +62,6 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 2. 원자재 조달: 강철, 알루미늄 공급업체
     
 3. 제조: FTC Solar 생산 시설, 계약 제조업체
-    
 4. 소프트웨어 개발: 내부 개발팀 (SunDAT, Atlas 플랫폼)
     
 5. 프로젝트 설계 및 엔지니어링: FTC Solar 엔지니어링 팀
@@ -75,7 +69,6 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 6. 설치 및 시공: EPC 파트너사, 현지 시공업체
     
 7. 운영 및 유지보수: O&M 서비스 제공업체, 모니터링 솔루션
-
 ## 주요제품
 
 1. Voyager 태양광 트래커 시스템: 단축 및 이축 트래킹 솔루션 (2023년 매출의 약 85%)
@@ -89,6 +82,8 @@ FTC Solar Inc는 [태양광](/industry-study/태양광/) 트래커 시스템, �
 미국을 중심으로 호주, 인도, 중동, 동남아시아 등 글로벌 시장에서 사업을 전개하고 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Array Technologies(US, ARRY): 단축 트래커 시스템
     
@@ -121,23 +116,17 @@ FTC Solar의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
-
-{{< adsense-infeed >}}
-
 3. State Street Corporation (4.47%)
-
-{{< adsense-infeed >}}
-
+3. State Street Corporation (4.47%)
 ## 관련 ETF
 
 1. Invesco Solar ETF - TAN
-    
-2. Global X Renewable Energy Producers ETF - RNRG
-    
-3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
 
 {{< adsense-infeed >}}
 
+2. Global X Renewable Energy Producers ETF - RNRG
+    
+3. First Trust NASDAQ Clean Edge Green Energy Index Fund - QCLN
 4. iShares Global Clean Energy ETF - ICLN
     
 5. SPDR S&P Kensho Clean Power ETF - CNRG

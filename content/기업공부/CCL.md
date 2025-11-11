@@ -1,16 +1,12 @@
 ﻿---
 title: "CCL"
 date: 2024-10-16T15:24:03+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 182
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-16T06:24:03Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #크루즈 #레저 #친환경 #환경규제 #해운 #경기소비재 
 
 ### 산업섹터 (Sector, Industry)
@@ -21,10 +17,9 @@ weight: 182
 ### 영위사업
 
 Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 운영합니다. 주요 브랜드로는 Carnival Cruise Line, Princess Cruises, Holland America Line 등이 있습니다
+### 전방/후방산업
 
 {{< adsense-infeed >}}
-
-### 전방/후방산업
 
 - **전방산업:** 여행 및 관광업
     - **핵심 산업:** 여행 및 관광업은 Carnival의 크루즈 서비스를 통해 고객에게 다양한 여행 경험을 제공합니다.
@@ -32,9 +27,7 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
 - **후방산업:** 해운업
     - **핵심 산업:** 해운업은 Carnival에 크루즈 선박을 제공하고 유지 관리합니다.
     - **관련 기업:** Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/)), Norwegian Cruise Line Holdings (미국, [NCLH](/company-analysis/nclh/))
-
 ### 밸류체인
-
 - **크루즈 운영:**
     - **설명:** 다양한 크루즈 라인을 운영하여 고객에게 여행 서비스를 제공
     - **대표회사:** Carnival Corporation & plc (미국, [CCL](/company-analysis/ccl/)), Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/))
@@ -46,25 +39,17 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
     - **대표회사:** Fincantieri (이탈리아, FCT), Meyer Werft (독일, MEYER)
 
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **크루즈 여행 패키지:** 다양한 목적지와 일정의 크루즈 여행 제공
 - **온보드 서비스:** 레스토랑, 엔터테인먼트, 스파 등 다양한 서비스 제공
 - **기항지 투어:** 크루즈 여행 중 기항지에서의 투어 및 활동 제공
 
-### 주요 판매국가
-
 {{< adsense-infeed >}}
 
+### 주요 판매국가
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가
 - **독일:** 주요 매출 국가
-
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Royal Caribbean Group (미국, [RCL](/company-analysis/rcl/)):** 크루즈 여행 패키지
 - **Norwegian Cruise Line Holdings (미국, [NCLH](/company-analysis/nclh/)):** 크루즈 여행 패키지
 - **MSC Cruises (스위스, MSC):** 크루즈 여행 패키지
@@ -76,6 +61,8 @@ Carnival Corporation & plc는 다양한 브랜드를 통해 크루즈 여행을 
 - **Norwegian Cruise Line Holdings:** 약 10% (2023년 기준)
 
 ### 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **코로나19 팬데믹으로 인한 크루즈 운영 중단 (2020년)**
 - **크루즈 여행 수요 회복 (2022년)**

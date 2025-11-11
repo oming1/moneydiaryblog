@@ -1,16 +1,12 @@
 ﻿---
 title: "BLK"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 142
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #투자관리 #금융 #자산운용회사 
 
 ## 산업 섹터
@@ -23,9 +19,6 @@ weight: 142
 BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래스에 대한 투자 관리 서비스를 제공하며, 고객은 개인 투자자부터 대형 기관 투자자까지 다양합니다. BlackRock은 iShares 상장지수펀드(ETF) 그룹의 관리자로도 잘 알려져 있습니다.
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 자산 관리 및 투자 서비스
@@ -35,16 +28,19 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
         - Vanguard Group (미국, 비상장) - ETF 및 뮤추얼 펀드 제공
         - State Street Global Advisors (미국, 비상장) - 자산 운용 서비스 제공
 
+{{< adsense-infeed >}}
+
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 금융 시장 및 데이터 분석
     - **역할**: BlackRock의 서비스에 필요한 데이터 및 자본 공급
     - **주요 기업**:
-        
         - Bloomberg (미국, 비상장) - 금융 데이터 및 정보 제공
         - Refinitiv (영국, 비상장) - 금융 시장 데이터 제공
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 - **투자 관리 서비스**:
     
@@ -53,9 +49,6 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
         
         - Vanguard Group (미국, 비상장) - ETF 및 뮤추얼 펀드 제공
         - Fidelity Investments (미국, 비상장) - 종합 투자 서비스
-
-{{< adsense-infeed >}}
-
 - **리스크 관리 솔루션**:
     
     - Aladdin 플랫폼을 통해 리스크 분석 및 포트폴리오 관리 서비스를 제공합니다.
@@ -65,14 +58,19 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
 
 ## 주요 제품
 
+{{< adsense-infeed >}}
+
 - **iShares ETF**: 다양한 자산 클래스에 대한 상장지수펀드로 사용됩니다.
-    
+
+{{< adsense-infeed >}}
+
     - 매출 비중: 전체 매출의 약 40% 차지.
     
 - **Aladdin 플랫폼**: 포트폴리오 관리 및 리스크 분석을 위한 소프트웨어입니다.
-    
-    - 매출 비중: 전체 매출의 약 30% 차지.
 
+{{< adsense-infeed >}}
+
+    - 매출 비중: 전체 매출의 약 30% 차지.
 ## 주요 판매 국가
 
 BlackRock은 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 지역에서도 중요한 매출을 올리고 있습니다.
@@ -85,13 +83,8 @@ BlackRock은 미국을 주요 시장으로 하며, 유럽과 아시아 태평양
 ## 산업 내 글로벌 시장 점유율
 
 BlackRock은 글로벌 자산 운용 시장에서 약 20%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간의 추세는 지속적인 성장세를 보이고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
+## 최근 3년 내 주요 이슈
 - **ESG 투자 확대**: 환경, 사회적 책임 및 지배구조(ESG)에 대한 투자가 증가하고 있는 추세에 맞춰 ESG 관련 상품 출시 (2021).
 - **디지털 혁신 투자**: 기술 기반의 투자 솔루션과 데이터 분석 플랫폼 강화 (2022).
 - **시장 변동성 대응**: 글로벌 경제 불확실성에 따른 고객 지원 프로그램 강화 (2023).

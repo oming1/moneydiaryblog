@@ -1,16 +1,12 @@
 ﻿---
 title: "CPTN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 230
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #전자장비및부품 #정보기술 #라이다 #LiDAR
 
 ## 산업섹터
@@ -22,12 +18,13 @@ Industry: 전자장비 및 부품(Electronic Equipment & Parts)
 
 Cepton, Inc.는 실리콘밸리에 본사를 둔 라이다(LiDAR) 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. 라이다 센서 개발 및 제조: 근거리부터 초장거리까지 다양한 범위의 라이다 센서 제공
 2. 자동차용 소프트웨어 개발
 3. 라이다 인식 솔루션 제공
 
 Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거울이나 회전 없이 3D 라이다 이미징을 가능하게 합니다. 이 기술은 성능, 비용, 신뢰성의 균형을 맞추어 라이다 기술의 대중화를 목표로 합니다.주요 적용 분야:
-
 - 자동차 ADAS(첨단 운전자 보조 시스템) 및 자율주행
 - 스마트 시티: 지능형 도로 및 철도, 보행자 및 교통 분석, 전자 통행료 징수 등
 - 스마트 스페이스: 군중 분석, 사회적 거리두기, 안전 및 보안 애플리케이션
@@ -37,21 +34,17 @@ Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 자동차 제조업체: General Motors (US, [GM](/company-analysis/gm/))
 - 스마트 시티 솔루션 제공업체
 - 산업용 로봇 제조업체
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 반도체 제조업체
 - 광학 부품 제조업체
-
-{{< adsense-infeed >}}
-
+## 후방산업
+- 반도체 제조업체
+- 광학 부품 제조업체
 ## 밸류체인
 
 1. 연구개발: Cepton, Inc. (US, [CPTN](/company-analysis/cptn/))
@@ -66,9 +59,6 @@ Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거�
 3. 라이다 인식 솔루션
 4. Ultra (세계에서 가장 얇은 적응형 장거리 라이다)
 5. Vista®-X120 (수상 경력의 소형 광각 근거리 라이다 센서)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Cepton은 글로벌 시장을 대상으로 사업을 영위하고 있으며, 특히 북미, 유럽, 아시아 지역에서 활발한 활동을 하고 있습니다.
@@ -86,7 +76,6 @@ Cepton은 글로벌 시장을 대상으로 사업을 영위하고 있으며, 특
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. Koito Manufacturing에 의한 인수 계약 체결 (2024년)
 2. Top 10 글로벌 자동차 OEM과의 장거리 라이다 RFQ 최종 단계 진입 (2024년)
 3. 근거리 라이다 산업용 차량 사업에서 주요 마일스톤 달성 (2024년)

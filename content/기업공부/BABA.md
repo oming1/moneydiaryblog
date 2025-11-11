@@ -1,16 +1,12 @@
 ﻿---
 title: "BABA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 113
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #전자상거래 #클라우드컴퓨팅 #디지털미디어 #핀테크 #AI #빅데이터 #글로벌확장 #B2B #B2C #C2C #물류 #결제시스템 #온라인마케팅 #스마트시티 #IoT #블록체인 #5G #디지털트랜스포메이션 #신유통 #크로스보더
@@ -49,9 +45,10 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. 데이터 및 AI 기술: 빅데이터 분석과 AI 기술을 통한 서비스 최적화
     
 4. 물류 네트워크: Cainiao를 통한 효율적인 물류 시스템 구축
-    
-5. 혁신 중심 문화: DAMO Academy 등을 통한 지속적인 R&D 투자
 
+{{< adsense-infeed >}}
+
+5. 혁신 중심 문화: DAMO Academy 등을 통한 지속적인 R&D 투자
 ## 전방/후방산업
 
 전방산업:
@@ -67,17 +64,12 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 - 물류: 제품 배송 및 유통 (FedEx(US, [FDX](/company-analysis/fdx/)), SF Express(CN, 002352))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 제품 소싱: 글로벌 공급업체 네트워크
     
 2. 플랫폼 운영: Alibaba 자체 개발 팀
     
 3. 결제 처리: Alipay (Ant Group)
-    
 4. 물류 및 배송: Cainiao Network
-    
 5. 클라우드 인프라: Alibaba Cloud
     
 6. 마케팅 및 광고: Alimama
@@ -93,10 +85,9 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. Cainiao: 스마트 물류 네트워크 (2024년 매출의 약 5%)
     
 4. 디지털 미디어 및 엔터테인먼트: Youku 등 (2024년 매출의 약 5%)
+5. 혁신 이니셔티브 및 기타: DAMO Academy 등 (2024년 매출의 약 5%)
 
 {{< adsense-infeed >}}
-
-5. 혁신 이니셔티브 및 기타: DAMO Academy 등 (2024년 매출의 약 5%)
 
 ## 주요 판매국가
 
@@ -111,21 +102,20 @@ Alibaba Group은 중국 최대의 전자상거래 및 기술 기업으로, 다�
 3. Pinduoduo(US, [PDD](/company-analysis/pdd/)): 중국 소셜 커머스
     
 4. Tencent(HK, 0700): 중국 디지털 서비스 및 게임
-    
+
+{{< adsense-infeed >}}
+
 5. Microsoft(US, [MSFT](/company-analysis/msft/)): 클라우드 컴퓨팅 (Azure)
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
 Alibaba는 2024년 기준 글로벌 전자상거래 시장에서 약 28%의 점유율을 보유하고 있으며, 중국 클라우드 컴퓨팅 시장에서는 약 38%의 점유율을 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 52.4억 달러 규모의 클라우드 컴퓨팅 및 AI 인프라 투자 계획 발표 (2025년)
-
-{{< adsense-infeed >}}
-
+1. 52.4억 달러 규모의 클라우드 컴퓨팅 및 AI 인프라 투자 계획 발표 (2025년)
 2. 멕시코 첫 데이터 센터 오픈으로 북미 시장 확대 (2025년)
     
 3. AI 모델 Qwen 2.5-Max 출시로 AI 기술 경쟁력 강화 (2025년)
@@ -135,6 +125,8 @@ Alibaba는 2024년 기준 글로벌 전자상거래 시장에서 약 28%의 점�
 5. Ant Group IPO 중단 및 금융 사업 재편 (2022년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. SoftBank Group (24.8%)
     

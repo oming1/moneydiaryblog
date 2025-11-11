@@ -1,16 +1,12 @@
 ﻿---
 title: "Qorvo"
 date: 2024-10-30T21:22:27+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 723
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T12:22:27Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #정보기술 #반도체 #반도체및반도체장비 #무선주파수
 
 ## 산업섹터
@@ -19,19 +15,10 @@ weight: 723
 산업: 반도체 및 반도체 장비(Semiconductors & Semiconductor Equipment)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
-
-{{< adsense-infeed >}}
-
+Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
 ## 전방/후방산업
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 반도체 제조 장비 공급업체
 - 원자재 공급업체 (실리콘 웨이퍼 등)
 
@@ -43,6 +30,8 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 - 국방 및 항공우주 산업
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 증폭기
 - 제어 제품
@@ -62,14 +51,17 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Analog Devices(US, [ADI](/company-analysis/adi/))
 - Broadcom(US, [AVGO](/company-analysis/avgo/))
 - Skyworks Solutions(US, [SWKS](/company-analysis/swks/))
 - Murata Manufacturing(일본, 6981)
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Qorvo는 RF 솔루션 시장에서 주요 플레이어 중 하나로 평가받고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -79,7 +71,4 @@ Qorvo는 무선 주파수(RF) 솔루션 및 핵심 기술을 설계, 개발, 제
 - 24V 전력 증폭기 출시로 DOCSIS 4.0 광대역 및 케이블 TV 시장 공략 (2024)
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

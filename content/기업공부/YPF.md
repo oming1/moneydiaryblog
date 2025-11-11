@@ -1,16 +1,12 @@
 ﻿---
 title: "YPF"
 date: 2024-12-13T21:46:51+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 993
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:46:51Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #통합석유및가스 #에너지 #아르헨티나
 
 ## 산업섹터
@@ -30,13 +26,8 @@ YPF SA는 아르헨티나의 통합 석유 및 가스 기업입니다. 주요 �
 YPF는 아르헨티나 전역에서 석유 및 가스 밸류체인 전반에 걸쳐 사업을 영위하고 있습니다. 2022년에는 총 탄화수소 생산량이 전년 대비 7.2% 증가하여 25년 만에 가장 큰 유기적 성장을 달성했습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 전방산업
-
-{{< adsense-infeed >}}
-
+## 전방산업
 - 석유 제품 소매업체
 - 전력 생산 기업
 - 석유화학 기업
@@ -46,8 +37,9 @@ YPF는 아르헨티나 전역에서 석유 및 가스 밸류체인 전반에 걸
 - 석유 및 가스 장비 제조업체: Schlumberger (US, [SLB](/company-analysis/slb/))
 - 파이프라인 운영 기업: Transportadora de Gas del Sur (아르헨티나, TGS)
 
-## 밸류체인
+{{< adsense-infeed >}}
 
+## 밸류체인
 1. 탐사 및 생산: YPF SA (US, [YPF](/company-analysis/ypf/))
 2. 운송: YPF SA (US, [YPF](/company-analysis/ypf/))
 3. 정제: YPF SA (US, [YPF](/company-analysis/ypf/))
@@ -65,10 +57,9 @@ YPF는 아르헨티나 전역에서 석유 및 가스 밸류체인 전반에 걸
 
 ## 주요 판매국가
 
-YPF SA는 주로 아르헨티나 국내 시장에서 사업을 영위하고 있습니다.
-
 {{< adsense-infeed >}}
 
+YPF SA는 주로 아르헨티나 국내 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 
 1. Petrobras (브라질, PBR) (통합 석유 및 가스)
@@ -77,12 +68,12 @@ YPF SA는 주로 아르헨티나 국내 시장에서 사업을 영위하고 있�
 4. Shell (네덜란드, SHEL) (통합 석유 및 가스)
 5. TotalEnergies (프랑스, TTE) (통합 석유 및 가스)
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 YPF는 아르헨티나 국내 석유 및 가스 시장에서 주요 플레이어로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 2022년 총 탄화수소 생산량 7.2% 증가, 25년 만에 최대 유기적 성장 달성 (2022년)
 2. 2022년 조정 EBITDA 49.47억 달러 기록, 전년 대비 27% 증가 (2022년)
 3. 2022년 순이익 22.34억 달러 기록, 전년 대비 큰 폭 증가 (2022년)

@@ -1,16 +1,12 @@
 ﻿---
 title: "JBL"
 date: 2024-09-27T18:38:36+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 464
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-27T09:38:36Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #테크 #전자부품 
 
 ## 산업섹터
@@ -19,6 +15,8 @@ weight: 464
 - Industry: Electronic Components (전자 부품)
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Jabil은 전자 제조 서비스 및 솔루션을 제공하는 글로벌 제조 회사입니다. 주요 사업 영역은 전자 설계, 생산, 제품 관리 서비스입니다.
 
@@ -40,7 +38,6 @@ Jabil은 전자 제조 서비스 및 솔루션을 제공하는 글로벌 제조 
 - 제조: 고급 조립, 자동화 생산
 - 공급망 관리: 소싱 및 조달
 - 제품 관리: 통합 설계 및 엔지니어링 서비스
-
 ## 주요제품
 
 - 전자 제조 서비스 (EMS)
@@ -48,24 +45,16 @@ Jabil은 전자 제조 서비스 및 솔루션을 제공하는 글로벌 제조 
 - 공급망 솔루션
 - [클라우드](/industry-study/2산업클라우드/) 서비스
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
-
 미국을 비롯해 30개국 이상에서 100개 이상의 시설을 운영하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
+## 경쟁업체
 - Flex Ltd (US, FLEX) - 전자 제조 서비스
 - Hon Hai Precision Industry Co Ltd (TW, 2317.TW) - 전자 제조 서비스
 - Sanmina Corp (US, SANM) - 통합 제조 솔루션
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 구체적인 시장 점유율 데이터는 제공되지 않았지만, Jabil은 전자 제조 서비스 업계의 선두 기업 중 하나로 평가받고 있습니다.
 
 ## 최근 3년 내 주요 이슈

@@ -1,16 +1,12 @@
 ﻿---
 title: "ACHC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 17
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #의료시설 #행동건강 #정신건강  #헬스케어 #중독치료 #청소년치료 #의료서비스 #정신과치료 #헬스케어
 
 ## 산업 섹터
@@ -18,7 +14,6 @@ weight: 17
 [헬스케어](/industry-study/2산업헬스케어/)
 
 ## 산업
-
 의료시설(Medical Care Facilities)
 
 ## 영위사업
@@ -29,13 +24,9 @@ Acadia Healthcare Company Inc는 행동 건강 및 중독 치료 서비스를 �
 2. 특수 치료 시설 운영 (중독 치료 등)
 3. 외래 진료 서비스
 4. 청소년 및 아동 행동 건강 프로그램
-
-{{< adsense-infeed >}}
-
 회사는 미국 40개 주와 영국에서 약 250개의 행동 건강 시설을 운영하고 있으며, 약 11,100개의 병상을 보유하고 있습니다. Acadia는 급성 입원 정신과 병원, 특수 치료 시설, 주거 치료 센터, 외래 클리닉 등 다양한 형태의 시설을 통해 포괄적인 행동 건강 서비스를 제공합니다.주요 치료 영역으로는 우울증, 불안장애, 약물 남용, 섭식 장애, 외상 후 스트레스 장애(PTSD) 등이 있습니다. 회사는 지속적인 시설 확장과 인수를 통해 성장을 추구하고 있으며, 특히 미충족 수요가 높은 지역에서의 서비스 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
 Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 1. 규모의 경제: 미국 최대의 독립 행동 건강 서비스 제공업체로서, 광범위한 시설 네트워크를 통해 운영 효율성과 비용 절감을 실현합니다.
@@ -49,19 +40,12 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 이러한 경쟁력을 바탕으로 Acadia Healthcare는 빠르게 성장하는 행동 건강 시장에서 선도적인 위치를 유지하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
-    
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료 IT: Cerner Corporation CERN
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
     - 정부 기관: Medicare, Medicaid
@@ -74,9 +58,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 4. 의약품 공급: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 보험 청구: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
 6. 환자 후속 관리: Talkspace, BetterHelp
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 입원 정신과 치료 서비스 (급성 정신과 치료)
@@ -102,6 +83,8 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 1. Universal Health Services (US, [UHS](/company-analysis/uhs/)) - 행동 건강 서비스
 2. HCA Healthcare (US, [HCA](/company-analysis/hca/)) - 종합 의료 서비스
 3. Tenet Healthcare (US, [THC](/company-analysis/thc/)) - 종합 의료 서비스
@@ -115,6 +98,8 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Acadia Healthcare는 미국 행동 건강 서비스 시장에서 주요 기업 중 하나로 알려져 있습니다. 2023년 기준 미국 행동 건강 시장 규모는 약 830억 달러로 추정되며, Acadia Healthcare는 이 중 상당한 비중을 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -127,12 +112,13 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 1. Wellington Management Group LLP: 12.55%
 2. Vanguard Group Inc: 9.57%
 3. Blackrock Inc: 8.69%
 4. T Rowe Price Investment Management Inc: 6.59%
 5. Waud Capital Partners III LLC: 6.58%
-
 ## 관련 ETF
 
 1. iShares U.S. Healthcare Providers ETF - IHF

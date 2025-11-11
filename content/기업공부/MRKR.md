@@ -1,16 +1,12 @@
 ﻿---
 title: "MRKR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 589
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #바이오테크놀로지 #면역항암치료 #T세포치료 #림프종치료 #급성골수성백혈병 #췌장암 #MAR-T세포 #다중항원인식 #혈액암 #고형암 #종양특이항원 #임상시험 #FDA승인 #오프더셸프치료 #CAR-T대체치료 #유전자변형없는치료 #생존인 #PRAME #NY-ESO-1 #MAGE-A4 #SSX2 #WT-1 #면역치료 #암치료혁신 #개인맞춤치료 #휴스턴바이오테크
 
 ---
@@ -56,8 +52,9 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 ---
 
 ## 핵심 경쟁력
-
 **기술적 우위:**
+
+{{< adsense-infeed >}}
 
 - 유전자 변형 없는 자연 T세포 기술로 안전성 확보
 - 6개 종양 항원 동시 인식으로 종양 회피 가능성 최소화
@@ -129,9 +126,6 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 
 - MD Anderson Cancer Center: 주요 임상시험 수행 기관
 - City of Hope: 림프종 임상시험 협력 기관
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 제품
@@ -232,6 +226,8 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 
 **2023년:**
 
+{{< adsense-infeed >}}
+
 - 12월: 림프종 환자 대상 MT-601 완전반응 달성 발표
 - 9월: CAR-T 실패 후 MT-601 치료 첫 완전반응 보고
 - 1월: MT-601의 공식 명칭 'Neldaleucel' 승인
@@ -241,9 +237,6 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 - 11월: 췌장암 대상 MT-601 IND 승인
 - 9월: FDA로부터 200만 달러 보조금 수혜
 - 12월: 링컨파크와 2,500만 달러 주식 매입 계약
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 주주 (지분율)
@@ -258,15 +251,11 @@ Marker Therapeutics는 2015년 설립된 임상단계 면역항암치료 회사�
 
 - 뮤추얼 펀드 및 헤지펀드들이 소규모 지분 보유
 - 구체적 대주주 정보는 공개되지 않음
-
 ---
 
 ## 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - IBB - iShares Biotechnology ETF IBB
 - XBI - SPDR S&P Biotech ETF XBI
 - ARKG - ARK Genomic Revolution ETF ARKG

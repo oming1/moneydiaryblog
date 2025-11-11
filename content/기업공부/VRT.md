@@ -1,16 +1,12 @@
 ﻿---
 title: "VRT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 940
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #데이터센터 #통신네트워크 #중요인프라 #전력관리 #열관리 #모듈형솔루션 #UPS #랙솔루션 #서비스 #예방정비 #원격모니터링 #디지털인프라 #엣지컴퓨팅 #클라우드 #5G #AI #에너지효율 #글로벌기업 #데이터센터인프라 #정보기술 
 
 #### 산업섹터 (Sector, Industry)
@@ -20,14 +16,15 @@ weight: 940
 - **Industry**: 전기 장비 및 부품 (Electrical Equipment & Parts), 데이터센터인프라
 
 ## 영위사업
+Vertiv Holdings Co(NYSE: VRT)는 [데이터센터](/industry-study/데이터센터/), 통신 네트워크, 상업 및 산업 환경에 중요한 인프라와 서비스를 제공하는 미국의 다국적 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 {{< adsense-infeed >}}
-
-Vertiv Holdings Co(NYSE: VRT)는 [데이터센터](/industry-study/데이터센터/), 통신 네트워크, 상업 및 산업 환경에 중요한 인프라와 서비스를 제공하는 미국의 다국적 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 중요 인프라 및 솔루션: AC 및 DC 전력 관리, 열 관리, 통합 모듈형 솔루션
 2. 통합 랙 솔루션: 랙, 단상 UPS, 랙 전원 분배, 랙 열 시스템, 구성 가능한 통합 솔루션
 3. 서비스 및 예비 부품: 예방 정비, 성능 평가, 원격 모니터링, 교육, 예비 부품 등
+
+{{< adsense-infeed >}}
 
 - **전력 관리**: AC 및 DC 전력 관리 제품, 스위치기어 및 버스바 제품.
 	-[구조적 성장이 기대되는 Data Center용 배전 장비 시장](content/산업-테마공부/02.산업/전력산업/Report/2024/7.1_전력에%20묻는%20네%20개의%20질문들.pdf#page=25&selection=6,0,21,2&color=yellow))
@@ -50,7 +47,6 @@ Vertiv는 전 세계 130개 이상의 국가에서 사업을 영위하고 있으
 ## 전방/후방산업
 
 전방산업:
-
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 통신사: AT&T(US, [T](/company-analysis/t/)), Verizon(US, [VZ](/company-analysis/vz/))
 - 데이터 센터 운영: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
@@ -86,41 +82,27 @@ Vertiv는 전 세계 130개 이상의 국가에서 사업을 영위하고 있으
 미국, 중국, 인도, 독일, 영국, 이탈리아, 브라질, 호주, 일본, 싱가포르
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Schneider Electric(FR, [SU](/company-analysis/su/)) - 전력 관리 및 자동화 솔루션
 - Eaton Corporation(IE, [ETN](/company-analysis/etn/)) - 전력 관리 솔루션
 - Emerson Electric(US, [EMR](/company-analysis/emr/)) - 자동화 솔루션
 - ABB(CH, ABBN) - 전력 및 자동화 기술
 - Delta Electronics(TW, 2308) - 전력 및 열 관리 솔루션
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Vertiv는 데이터 센터 냉각 시장에서 약 20%, UPS 시장에서 약 15%의 글로벌 시장 점유율을 보유하고 있는 것으로 추정됩니다 (2023년 기준). 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - E+I Engineering 인수로 전력 관리 포트폴리오 강화 (2021년)
 - CoolTera Ltd 인수로 액체 냉각 기술 강화 (2023년)
 - 지속가능성 목표 강화 및 ESG 이니셔티브 발표 (2022년)
 - 5G 및 엣지 컴퓨팅 관련 솔루션 라인업 확대 (2023년)
 - AI 및 고밀도 컴퓨팅을 위한 냉각 솔루션 개발 강화 (2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
-
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares U.S. Technology ETF - IYW
 - Invesco S&P 500 Equal Weight Technology ETF - RYT
 - First Trust Cloud Computing ETF - SKYY

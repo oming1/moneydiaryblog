@@ -1,16 +1,12 @@
 ﻿---
 title: "VRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 938
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #온라인중고차 #이커머스 #자동차금융 #AI분석 #디지털플랫폼 #홈딜리버리 #무haggle가격정책 #재고관리 #데이터과학 #고객경험 #차량검사 #재조정 #물류네트워크 #자동차소매 #디지털전환 #자동차산업 #중고차시장 #자동차딜러 #자동차유통 #임의소비재 #온라인중고차판매플랫폼 #중고차 
 
 임의소비재 섹터  
@@ -25,6 +21,8 @@ Vroom, Inc.(VRM)은 미국의 온라인 중고차 판매 플랫폼 기업입니�
 3. AI 기반 분석 서비스: CarStory를 통한 자동차 소매업 데이터 분석 및 인사이트 제공
 
 Vroom은 전통적인 중고차 딜러십 모델을 디지털화하여, 고객들에게 편리하고 투명한 온라인 구매 경험을 제공하는 것을 목표로 합니다.최근 주요 이슈로는 2024년 9월 eCommerce 및 중고차 딜러십 사업 중단을 발표하고, UACC와 CarStory 사업에 집중하기로 결정한 것입니다. 이는 지속적인 손실과 시장 환경 변화에 대응하기 위한 전략적 결정으로 보입니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -43,6 +41,8 @@ Vroom은 전통적인 중고차 딜러십 모델을 디지털화하여, 고객�
 1. 자동차 보험: Progressive Corporation(US, [PGR](/company-analysis/pgr/))
 2. 자동차 정비: AutoZone, Inc.(US, [AZO](/company-analysis/azo/))
 3. 자동차 부품: Advance Auto Parts, Inc.(US, [AAP](/company-analysis/aap/))
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -74,23 +74,16 @@ Vroom의 주요 고객은 온라인으로 중고차를 구매하거나 판매하
 Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Carvana Co.(US, [CVNA](/company-analysis/cvna/)) - 온라인 중고차 판매
 2. CarMax, Inc.(US, [KMX](/company-analysis/kmx/)) - 중고차 소매 및 도매
 3. AutoNation, Inc.(US, [AN](/company-analysis/an/)) - 자동차 소매 및 서비스
 4. Shift Technologies, Inc.(US, SFT) - 온라인 중고차 플랫폼
 5. TrueCar, Inc.(US, TRUE) - 디지털 자동차 마켓플레이스
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, 2022년 1분기 기준 Vroom은 미국 중고차 시장에서 약 3%의 점유율을 보유했던 것으로 보고되었습니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. eCommerce 및 중고차 딜러십 사업 중단 발표 (2024)
 2. United Auto Credit Corporation(UACC) 인수 (2022)
 3. COVID-19 팬데믹으로 인한 온라인 중고차 수요 증가 (2020-2021)
@@ -104,11 +97,7 @@ Vroom은 주로 미국 시장에서 사업을 영위하고 있습니다.
 3. Fidelity Management & Research Co. LLC (8.10%)
 4. T. Rowe Price Associates, Inc. (7.85%)
 5. Invesco Ltd. (5.30%)
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. First Trust NASDAQ Transportation ETF - FTXR
 2. Invesco S&P SmallCap Consumer Discretionary ETF - PSCD
 3. First Trust Consumer Discretionary AlphaDEX Fund - FXD

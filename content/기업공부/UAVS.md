@@ -1,16 +1,12 @@
 ﻿---
 title: "UAVS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 903
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #드론기술 #무인항공시스템 #정밀농업 #군사용드론 #상업용드론 #정부계약 #항공전자공학 #데이터분석 #클라우드서비스 #IoT #인공지능 #실시간영상 #원격조종 #항공안전 #국방기술 #센서기술 #소프트웨어솔루션 #지리정보시스템 #환경모니터링 #인프라점검 #임의소비재 #항공우주방위 #항공우주및방위 #드론
 
 ## 섹터
@@ -18,6 +14,8 @@ weight: 903
 섹터: 임의소비재
 
 ## 산업
+
+{{< adsense-infeed >}}
 
 산업: [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/)(Aerospace & Defense)
 
@@ -55,9 +53,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 3. 환경 모니터링: 산림 관리, 야생동물 추적
     
     - Esri(비상장), Hexagon(SE, HEXA-B)
-
-{{< adsense-infeed >}}
-
 ## 후방산업:
 
 1. 전자부품: 센서, 카메라, 통신 모듈
@@ -73,13 +68,9 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     - Autodesk(US, [ADSK](/company-analysis/adsk/)), PTC(US, PTC)
 
 ## 밸류체인
-
 1. 연구개발: 드론 및 센서 기술 개발
     
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), AeroVironment(US, [AVAV](/company-analysis/avav/))
-
-{{< adsense-infeed >}}
-
 2. 부품 제조: 센서, 카메라, 프로세서 생산
     
     - Sony(JP, 6758), Teledyne FLIR(US, [TDY](/company-analysis/tdy/))
@@ -87,20 +78,22 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 3. 드론 조립 및 생산
     
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Parrot(FR, PARRO)
-    
-4. 소프트웨어 개발: 비행 제어, 데이터 분석
-    
-    - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Pix4D(비상장)
-    
-5. 유통 및 판매: 정부 계약, 상업용 판매
 
 {{< adsense-infeed >}}
 
+4. 소프트웨어 개발: 비행 제어, 데이터 분석
+    - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Pix4D(비상장)
+    
+5. 유통 및 판매: 정부 계약, 상업용 판매
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), DJI(비상장)
     
 6. 서비스 제공: 드론 기반 데이터 수집 및 분석
-    
+
+{{< adsense-infeed >}}
+
     - PrecisionHawk(비상장), Kespry(비상장)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -126,9 +119,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 미국, 프랑스, UAE, 캐나다, 영국, 독일, 호주, 일본, 중국, 브라질
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. DJI(비상장): 소비자 및 상업용 드론
 2. Parrot(FR, PARRO): 소비자 및 전문가용 드론
 3. AeroVironment(US, [AVAV](/company-analysis/avav/)): 군사 및 상업용 드론
@@ -141,9 +131,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, AgEagle는 상업용 및 정부용 드론 시장에서 성장하고 있는 중소기업으로 평가받고 있습니다. 전체 드론 시장에서의 점유율은 아직 낮지만, 특수 목적 드론 및 센서 시장에서는 경쟁력을 갖추고 있는 것으로 보입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. 프랑스 군대에 49대의 eBee 드론 공급 계약 체결 (2024)

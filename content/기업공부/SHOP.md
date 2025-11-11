@@ -1,16 +1,12 @@
 ﻿---
 title: "SHOP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 791
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #쇼피파이 #Shopify #전자상거래플랫폼 #클라우드커머스 #D2C #Omnichannel #SaaS #구독매출 #머천트솔루션 #앱스토어 #ShopifyPlus #POS #ShopifyPayments #헤드리스커머스 #ShopifyFulfillment #ShopifyCapital #API퍼스트 #글로벌셀러 #소상공인지원 #데이터분석
 
 ---
@@ -73,15 +69,12 @@ weight: 791
 - **Liquid 템플릿**: 테마/UX 완전 제어
 - **머신러닝 엔진**: 추천·예측 분석, Shop Pay 성능 최적화
 - **AI/자동화**: Shopify Flow(워크플로우 자동화), Shop App AI 번역·검색 보조
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 제조 공정
+---
 
-{{< adsense-infeed >}}
-
+### 제조 공정
 해당 없음 – SaaS 및 서비스 모델
 
 ---
@@ -100,9 +93,6 @@ weight: 791
 ---
 
 ### 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 머천트 온보딩(가입·스토어 개설)
 2. 상품 등록·결제·재고 관리
 3. 주문 처리·배송 연계
@@ -119,6 +109,8 @@ weight: 791
 - **Shopify Payments**: 글로벌 결제 통합
 - **Shopify POS Pro**: 오프라인 매장 관리
 - **Shopify App Store**: Oberlo(드롭쉬핑), Klaviyo(이메일 마케팅), Yotpo(리뷰) 등
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -140,7 +132,6 @@ weight: 791
 ---
 
 ### 경쟁업체
-
 - WooCommerce (오픈소스)
 - Adobe Commerce (Magento)
 - BigCommerce
@@ -150,11 +141,10 @@ weight: 791
 ---
 
 ### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - 글로벌 클라우드 전자상거래 플랫폼 시장: 약 9% (Statista 2024)
 - SMB 전자상거래 플랫폼 부문: 약 20% 점유
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -184,7 +174,6 @@ weight: 791
 - T. Rowe Price: 약 6.2%
 - SoftBank Vision Fund: 약 4.7%
 - Tobias Lütke(창업자·CEO): 약 7.1%
-
 ---
 
 ### 관련 ETF

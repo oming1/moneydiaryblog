@@ -1,16 +1,12 @@
 ﻿---
 title: "GEO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T15:08:30+09:00
 type: docs
 sidebar:
   open: false
 weight: 371
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #보안및보호서비스 #산업재 #교도소
 
 ## 산업 섹터
@@ -20,14 +16,17 @@ weight: 371
 
 ## 영위 사업
 
-{{< adsense-infeed >}}
 
 The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하는 회사로, 미국 및 국제적으로 교정, 재활 및 재입소 서비스를 제공합니다. 이 회사는 정부와 계약을 통해 다양한 범죄자 관리 프로그램을 운영하며, 범죄 예방 및 재활 프로그램에 중점을 두고 있습니다.
 
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-    
+
+
+
+{{< adsense-infeed >}}
+
     - **핵심 산업**: 교정 및 구금 서비스
     - **역할**: 최종 소비자에게 교정 및 재입소 관리 제공
     - **주요 기업**:
@@ -40,7 +39,9 @@ The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하�
     - **핵심 산업**: 공공 안전 및 법 집행
     - **역할**: GEO Group의 서비스에 필요한 법적 및 정책적 지원 제공
     - **주요 기업**:
-        
+
+
+
         - Securitas AB (스웨덴, SECUB) - 보안 서비스 제공
         - Allied Universal (미국, 비상장) - 보안 서비스 제공
 
@@ -56,28 +57,66 @@ The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하�
 
 - **재활 프로그램**:
 
-{{< adsense-infeed >}}
 
     - 범죄자의 재활을 위한 프로그램과 서비스를 제공합니다.
     - 대표 기업:
         
         - Management & Training Corporation (미국, 비상장) - 교육 및 훈련 프로그램 제공
 
-{{< adsense-infeed >}}
 
 ## 주요 제품
 
 - **교정 시설 운영**: 정부와의 계약에 따라 교정 및 구금 시설을 운영합니다.
-    
+
+{{< adsense-infeed >}}
+
     - 매출 비중: 전체 매출의 약 60% 차지.
     
 - **재입소 센터**: 범죄자의 재활을 위한 시설로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
+The GEO Group는 민간 교정 시설과 구금 시설(교도소)을 운영하는 회사로, 미국 및 국제적으로 교정, 재활 및 재입소 서비스를 제공합니다. 이 회사는 정부와 계약을 통해 다양한 범죄자 관리 프로그램을 운영하며, 범죄 예방 및 재활 프로그램에 중점을 두고 있습니다.
 
+## 전방/후방 산업
+
+- **전방 산업 (Downstream Industry)**:
+    - **핵심 산업**: 교정 및 구금 서비스
+    - **역할**: 최종 소비자에게 교정 및 재입소 관리 제공
+    - **주요 기업**:
+        
+        - CoreCivic (미국, [CXW](/company-analysis/cxw/)) - 민간 교도소 및 구금 시설 운영
+        - Serco Group (영국, SRP) - 정부 계약 기반의 서비스 제공
+          
+- **후방 산업 (Upstream Industry)**:
+    
+    - **핵심 산업**: 공공 안전 및 법 집행
+    - **역할**: GEO Group의 서비스에 필요한 법적 및 정책적 지원 제공
+    - **주요 기업**:
+        - Securitas AB (스웨덴, SECUB) - 보안 서비스 제공
+        - Allied Universal (미국, 비상장) - 보안 서비스 제공
+
+## 밸류체인
+
+{{< adsense-infeed >}}
+
+- **교정 관리 서비스**:
+    
+    - GEO Group은 교도소 및 구금 시설을 운영하며 다양한 프로그램을 제공합니다.
+    - 대표 기업:
+        
+        - CoreCivic (미국, [CXW](/company-analysis/cxw/)) - 민간 교정 시설 운영
+        - The GEO Group (미국, [GEO](/company-analysis/geo/)) - 자체 운영 시설
+
+- **재활 프로그램**:
+    - 범죄자의 재활을 위한 프로그램과 서비스를 제공합니다.
+    - 대표 기업:
+        
+        - Management & Training Corporation (미국, 비상장) - 교육 및 훈련 프로그램 제공
 ## 주요 판매 국가
 
 The GEO Group은 미국 내에서 주로 운영되며, 연방 정부와 주 정부의 계약에 따라 다양한 주에서 서비스를 제공합니다.
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 

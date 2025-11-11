@@ -1,16 +1,12 @@
 ﻿---
 title: "PAVE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 677
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 ## 핵심 키워드
 
 #인프라투자 #미국인프라 #건설 #엔지니어링 #자재 #유틸리티 #테마ETF #지속가능성 #장기촉매 #미국경제 #정부투자 #인프라현대화 #공공사업 #교통인프라 #에너지인프라 #물류 #철도 #도로 #항만 #공항 #디지털인프라 #5G #AI #클라우드컴퓨팅 #스마트시티 #재생에너지 #전기차충전소 #물관리 
@@ -37,9 +33,6 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
 ## 핵심 경쟁력
 
 1. **테마 투자**: PAVE는 인프라 개발이라는 특정 테마에 집중하여, 투자자들이 미국의 인프라 현대화 및 확장에 참여할 수 있게 합니다.
-
-{{< adsense-infeed >}}
-
 2. **다양한 섹터**: 인프라 개발은 다양한 산업에 걸쳐 있으며, PAVE는 이 모든 섹터를 포괄하여 투자자들에게 폭넓은 노출을 제공합니다.
     
 3. **정부 지원**: 미국 정부의 인프라 투자 계획(예: Infrastructure Investment and Jobs Act)으로 인해 인프라 관련 기업들이 혜택을 볼 가능성이 높습니다.
@@ -65,25 +58,19 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
 - **금융 및 보험**: 프로젝트 자금 조달 및 보험 (Goldman Sachs(US, [GS](/industry-study/gs/)), AIG(US, [AIG](/company-analysis/aig/)))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. **프로젝트 기획 및 컨설팅**: AECOM(US, [ACM](/company-analysis/acm/)) (프로젝트 계획 및 컨설팅)
     
 2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, J) (인프라 설계 및 엔지니어링)
-
-{{< adsense-infeed >}}
-
 3. **프로젝트 관리**: Fluor Corporation(US, [FLR](/company-analysis/flr/)) (프로젝트 관리 및 건설 감독)
-
-{{< adsense-infeed >}}
-
+1. **프로젝트 기획 및 컨설팅**: AECOM(US, [ACM](/company-analysis/acm/)) (프로젝트 계획 및 컨설팅)
+    
+2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, J) (인프라 설계 및 엔지니어링)
+3. **프로젝트 관리**: Fluor Corporation(US, [FLR](/company-analysis/flr/)) (프로젝트 관리 및 건설 감독)
 4. **건설 및 시공**: Bechtel(US, BCT) (건설 및 시공)
     
 5. **자재 및 장비 공급**: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 장비), Vulcan Materials(US, [VMC](/company-analysis/vmc/)) (건설 자재)
     
 6. **기술 및 디지털 솔루션**: Autodesk(US, [ADSK](/company-analysis/adsk/)) (BIM 소프트웨어), Trimble(US, [TRMB](/company-analysis/trmb/)) (건설 기술)
-    
 7. **유지보수 및 운영**: AECOM(US, [ACM](/company-analysis/acm/)) (인프라 유지보수 및 운영)
 
 ## 주요제품
@@ -97,13 +84,11 @@ PAVE는 다음과 같은 주요 섹터와 산업에 투자합니다:
 3. **유틸리티**: 전력, 가스, 물 등의 공급 및 관리 (2024년 11월 기준 3.1%의 비중)
     
 4. **기술 및 디지털 인프라**: 5G, AI, 클라우드 컴퓨팅, 스마트 시티 솔루션 등 (2024년 11월 기준 2.1%의 비중)
-
 ## 주요 고객
 
 PAVE의 주요 고객은 다음과 같습니다:
 
 1. **개인 투자자**: 인프라 개발에 관심 있는 투자자
-    
 2. **기관 투자자**: 인프라 테마에 투자하는 펀드 및 기관
     
 3. **정부 및 공공 기관**: 인프라 프로젝트 자금 조달 및 관리
@@ -114,14 +99,20 @@ PAVE의 주요 고객은 다음과 같습니다:
 
 PAVE는 미국에 상장된 ETF로, 주로 미국 내 투자자들을 대상으로 합니다. 그러나 글로벌 투자자들도 이 ETF에 투자할 수 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 1. **iShares Global Infrastructure ETF (IGF)**: 글로벌 인프라에 투자하는 ETF
     
 2. **SPDR S&P Global Infrastructure ETF (GII)**: 글로벌 인프라에 투자하는 ETF
-    
+
+{{< adsense-infeed >}}
+
 3. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund (GRID)**: 스마트 그리드 인프라에 투자하는 ETF
-    
+
+{{< adsense-infeed >}}
+
 4. **Invesco Water Resources ETF (PHO)**: 물 인프라에 투자하는 ETF
     
 5. **VanEck Vectors Agribusiness ETF (MOO)**: 농업 인프라에 투자하는 ETF
@@ -142,6 +133,8 @@ PAVE는 미국 인프라 개발 ETF 시장에서 독특한 위치를 차지하�
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투자자로는 다음과 같은 기관들이 포함될 수 있습니다:
 
 1. **Vanguard Group Inc.** (11.66%)
@@ -150,16 +143,14 @@ PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투�
     
 3. **State Street Corporation** (4.47%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
 
 1. **Global X US Infrastructure Development ETF - [PAVE](/company-analysis/pave/)**
     
 2. **iShares Global Infrastructure ETF - IGF**
-
-{{< adsense-infeed >}}
-
 3. **SPDR S&P Global Infrastructure ETF - GII**
     
 4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - GRID**
-    
 5. **Invesco Water Resources ETF - PHO**

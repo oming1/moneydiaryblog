@@ -1,16 +1,12 @@
 ﻿---
 title: "RXRX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 766
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #AI신약개발 #머신러닝 #희귀질환치료제 #임상시험 #바이오테크 #클라우드컴퓨팅 #데이터과학 #약물발견 #TechBio #임상파이프라인 #CDK7억제제 #희귀신경혈관질환 #종양학 #염증 #인공지능 #생물학맵핑 #고효율스크리닝 #정밀의학 #디지털헬스 #플랫폼기술 #바이오테크 
 
 - 최근이슈
@@ -45,7 +41,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 2. 희귀질환, 종양학, 염증 등 다양한 치료 영역의 신약 개발
     
 3. 대규모 생물학 및 화학 데이터셋 구축 및 분석
-    
 4. 임상 단계 약물 후보 개발 및 임상시험 수행
     
 5. 제약회사들과의 협력 및 파트너십 구축
@@ -66,10 +61,11 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 제약산업: 신약 개발 및 상용화 (Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/)))
-    
 - 의료서비스: 임상시험 및 치료제 적용 (UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/)))
 
 후방산업:
@@ -93,9 +89,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 6. 마케팅 및 판매: 향후 파트너십 또는 자체 개발 예정
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. REC-617: CDK7 억제제, 고형암 치료제 (임상 1상)
     
 2. REC-994: 뇌혈관기형(CCM) 치료제 (임상 2상)
@@ -111,7 +104,9 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 현재 대부분의 제품이 임상 단계에 있어 주요 고객은 아직 확립되지 않았으나, 잠재적 고객으로는 다음과 같은 기관들이 있습니다:
 
 1. 대형 제약회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/))
-    
+
+{{< adsense-infeed >}}
+
 2. 바이오테크 기업: Gilead Sciences(US, [GILD](/company-analysis/gild/)), Biogen(US, [BIIB](/company-analysis/biib/))
     
 3. 연구기관: National Institutes of Health(US, [NIH](/company-analysis/nih/)), Mayo Clinic(Mayo Clinic)
@@ -121,13 +116,9 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 ## 주요 판매국가
 
 미국을 중심으로 글로벌 시장을 대상으로 하고 있으나, 현재는 대부분의 제품이 임상 단계에 있어 실제 판매는 이루어지지 않고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Exscientia(US, [EXAI](/company-analysis/exai/)): AI 기반 신약 개발
-    
 2. Insilico Medicine(Insilico Medicine): AI 활용 약물 발견 플랫폼
     
 3. BenevolentAI(UK, BAI): AI 기반 신약 개발 및 생명과학 연구
@@ -135,9 +126,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 4. Schrödinger(US, [SDGR](/company-analysis/sdgr/)): 컴퓨터 지원 약물 설계
     
 5. Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)): 단백질 동역학 기반 신약 개발
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Recursion은 AI 기반 신약 개발 분야에서 선도적인 위치를 차지하고 있습니다.
@@ -149,7 +137,9 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 2. REC-617(CDK7 억제제) 임상 1상에서 유망한 안전성 및 예비 효능 데이터 보고 (2025년)
     
 3. REC-994의 뇌혈관기형(CCM) 치료제 임상 2상 주요 평가지표 달성 (2025년)
-    
+
+{{< adsense-infeed >}}
+
 4. Roche 및 Genentech와의 파트너십에서 첫 번째 신경-페노맵 전달 (2024년)
     
 5. AI를 활용한 임상시험 최적화 'ClinTech' 이니셔티브 시작 (2025년)
@@ -157,12 +147,13 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
-    
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. ARK Genomic Revolution ETF - ARKG
 2. iShares Biotechnology ETF - IBB
@@ -182,9 +173,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 3. Roche-Genentech와의 협력 확대, 최대 120억 달러 규모의 계약 체결 (2022)
 4. NVIDIA와의 전략적 파트너십 체결, AI 인프라 강화 (2022)
 5. 코로나19 치료제 개발 프로그램 종료 (2021)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. Baillie Gifford & Co. (12.53%)

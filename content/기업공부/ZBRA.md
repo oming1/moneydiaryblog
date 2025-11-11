@@ -1,16 +1,12 @@
 ﻿---
 title: "ZBRA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 998
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 ## 핵심 키워드
 
 #바코드 #RFID #모바일컴퓨팅 #스캔솔루션 #IoT #창고자동화 #산업용프린터 #데이터추적 #재고관리 #실시간위치추적 #의료IT #로보틱스 #AI비전 #스마트공장 #헬스케어IT #디지털전환 #로지스틱스 #기업IT
@@ -18,6 +14,8 @@ weight: 998
 ## 산업섹터
 
 섹터: 정보기술
+
+{{< adsense-infeed >}}
 
 산업: 전자장비및부품
 
@@ -30,7 +28,9 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 1. **바코드 스캐너 및 산업용 프린터**: 제품 바코드화, 데이터 캡처, 라벨링 솔루션
     
 2. **모바일 컴퓨팅 디바이스**: 현장 근무자 대상 산업용 모바일 단말기
-    
+
+{{< adsense-infeed >}}
+
 3. **RFID 및 실시간 위치추적(RTLS) 솔루션**: 재고, 자산, 환자 등 추적 관리
     
 4. **AI/비전 시스템**: 머신비전·AI 기반 품질검사, 생산라인 자동화
@@ -48,9 +48,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 3. **글로벌 파트너·고객 네트워크**: 세계 100여국, 다수 대형 고객사 확보
     
 4. **디지털 전환 지원**: 공급망 자동화, 물류/창고 스마트화 선도
-
-{{< adsense-infeed >}}
-
 5. **R&D 투자**: AI, IoT, 머신비전 등 신기술 지속적 도입
 
 ## 전방/후방산업
@@ -74,9 +71,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 - **SW/클라우드**: Microsoft(US, [MSFT](/company-analysis/msft/)), Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. **설계/개발**: RFID, 스캐너, 모바일 단말 HW/SW 연구개발
     
 2. **생산**: 글로벌 생산 시설 통한 제품 제조/조립
@@ -96,7 +90,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 - **RFID/실시간 위치추적 솔루션** (매출의 약 20%)
     
 - **AI 비전·로보틱스·SW** (매출의 약 10%)
-    
 - **서비스/기타** (매출의 약 5%)
 
 ## 주요 고객
@@ -106,15 +99,11 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 2. 제조/현장산업체 (Caterpillar, GE 등)
     
 3. 대형 헬스케어 시스템 (Mayo Clinic, HCA Healthcare)
-
-{{< adsense-infeed >}}
-
 4. 공항/창고 등 운송·자산관리 기업
     
 5. 글로벌 IT·클라우드 기업(간접적 공급)
 
 ## 주요 판매국가
-
 미국, 영국, 독일, 프랑스, 일본, 중국, 호주, 캐나다, 멕시코
 
 ## 경쟁업체
@@ -140,7 +129,9 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
 2. 헬스케어 IT·자산관리 솔루션 확장(2022~2024년)
     
 3. 클라우드 기반 Zebra DNA 소프트웨어 생태계 고도화(2023~2024년)
-    
+
+{{< adsense-infeed >}}
+
 4. ESG/지속 가능 경영 강화(2030년 탄소중립 목표 선언)
     
 5. 공급망/칩셋 이슈로 생산·납기 변동성 확대(2022~2023년)
@@ -153,10 +144,13 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
     
 - State Street Corporation (5%)
 
+{{< adsense-infeed >}}
+
 ## 관련 ETF
 
+{{< adsense-infeed >}}
+
 - Technology Select Sector SPDR Fund - XLK
-    
 - iShares U.S. Technology ETF - IYW
     
 - Global X Internet of Things ETF - SNSR

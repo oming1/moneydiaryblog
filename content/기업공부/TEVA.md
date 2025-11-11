@@ -1,16 +1,12 @@
 ﻿---
 title: "TEVA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 862
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #제약 #제네릭의약품 #특수의약품 #중추신경계 #호흡기 #종양학 #여성건강 #API #OTC #글로벌제약기업 #이스라엘기업 #연구개발 #제조 #유통 #의약품포트폴리오 #제네릭 #헬스케어 #제약
 
 ## 섹터
@@ -21,8 +17,9 @@ weight: 862
 
 산업: 제약(Pharmaceuticals)
 
-## 영위사업
+{{< adsense-infeed >}}
 
+## 영위사업
 Teva Pharmaceutical Industries Ltd.는 제네릭 및 특수 의약품을 발견, 개발, 제조 및 상용화하는 글로벌 제약 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 제네릭 의약품: 캡슐, 정제, 주사제, 흡입제, 액체, 크림 등 다양한 형태로 제공
@@ -31,9 +28,6 @@ Teva Pharmaceutical Industries Ltd.는 제네릭 및 특수 의약품을 발견,
 4. API(원료의약품): 제3자에게 API 판매
 
 Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영하고 있으며, 약 1,600개 이상의 제품을 보유하고 있습니다. 회사는 지속적인 R&D 투자를 통해 새로운 제네릭 의약품 개발에 주력하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 글로벌 제네릭 리더십: 세계 최대 제네릭 의약품 제조업체로서의 위상
@@ -43,15 +37,16 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 5. 수직 계열화된 생산 체계: API부터 완제품까지 일관된 생산 능력 보유
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 제네릭 의약품: 다양한 치료 영역의 복제약 (매출 비중: 약 60%, 2023년 기준)
 2. 특수 의약품: AJOVY(편두통), AUSTEDO(운동장애), COPAXONE(다발성 경화증) 등 (매출 비중: 약 30%, 2023년 기준)
 3. OTC 제품: 일반의약품 (매출 비중: 약 5%, 2023년 기준)
 4. API: 원료의약품 (매출 비중: 약 5%, 2023년 기준)
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
+
+{{< adsense-infeed >}}
 
 1. 소매 약국 체인
 2. 병원 및 의료기관
@@ -60,9 +55,6 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 5. 기타 제약회사
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다, 유럽 국가들, 이스라엘, 일본 등 전 세계 58개국 이상
 
 ## 경쟁업체
@@ -72,9 +64,7 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 3. Sanofi(FR, SNY)
 4. GlaxoSmithKline(UK, [GSK](/company-analysis/gsk/))
 5. Mylan(US, [MYL](/company-analysis/myl/))
-
 ## 산업 내 글로벌 시장 점유율
-
 Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 점유율을 보유하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈
@@ -85,6 +75,8 @@ Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 
 4. 지속가능성 및 ESG 이니셔티브 강화 (2022-2024)
 5. 코로나19 팬데믹 대응 및 회복 (2022-2023)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 1. BlackRock Inc. (3.79%)
@@ -94,6 +86,8 @@ Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 
 5. Migdal Insurance & Financial Holdings Ltd. (2.57%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares MSCI Israel ETF - EIS
 2. VanEck Pharmaceutical ETF - PPH

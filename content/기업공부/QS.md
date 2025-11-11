@@ -1,16 +1,12 @@
 ﻿---
 title: "QS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 725
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #전기차배터리 #고체전해질 #리튬메탈배터리 #에너지저장 #배터리기술 #전기차 #재생에너지 #자동차부품 #에너지밀도 #빠른충전 #안전성 #폭스바겐파트너십 #임의소비재 #고체전해질리튬메탈배터리
 
 ## 섹터
@@ -19,12 +15,11 @@ weight: 725
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 산업: 자동차 부품(Auto Parts)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 QuantumScape Corporation은 [전기차](/industry-study/2산업자동차-산업전기차/)(EV) 및 기타 응용 분야를 위한 차세대 고체 전해질 리튬 메탈 배터리 기술을 개발하는 기업입니다. 2010년 스탠포드 대학에서 설립되어 2020년 SPAC 합병을 통해 뉴욕 증권 거래소에 상장되었습니다.주요 사업 영역:
 
 1. 고체 전해질 리튬 메탈 배터리 개발
@@ -52,11 +47,7 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 2. 에너지 저장 시스템: 재생에너지와 연계된 대규모 에너지 저장
     
     - AES Corporation(US, AES), Fluence Energy(US, FLNC)
-    
 3. 소비자 전자기기: 스마트폰, 웨어러블 기기 등
-
-{{< adsense-infeed >}}
-
     - Apple(US, [AAPL](/company-analysis/aapl/)), Samsung Electronics(KR, 005930)
 
 ## 후방산업:
@@ -70,19 +61,12 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
     - Applied Materials(US, [AMAT](/company-analysis/amat/)), Teradyne(US, [TER](/company-analysis/ter/))
     
 3. 연구 개발: 재료 과학, 화학 공학 분야의 연구 기관
-
-{{< adsense-infeed >}}
-
     - 스탠포드 대학, MIT 등 주요 연구 기관
 
 ## 밸류체인
 
 1. 연구 개발: 고체 전해질 및 배터리 기술 개발
-    
     - QuantumScape(US, [QS](/company-analysis/qs/)), Solid Power(US, SLDP)
-
-{{< adsense-infeed >}}
-
 2. 원자재 조달: 리튬, 니켈, 코발트 등 배터리 소재
     
     - Albemarle Corporation(US, [ALB](/company-analysis/alb/)), SQM(CL, SQM)
@@ -92,13 +76,14 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
     - QuantumScape(US, [QS](/company-analysis/qs/)), 향후 파트너사와 합작 법인
     
 4. 배터리 팩 조립: 셀을 조립하여 배터리 팩 제작
-    
-    - 자동차 제조사 또는 전문 배터리 팩 제조업체
 
 {{< adsense-infeed >}}
 
+    - 자동차 제조사 또는 전문 배터리 팩 제조업체
 5. 전기차 제조: 배터리 팩을 탑재한 전기차 생산
-    
+
+{{< adsense-infeed >}}
+
     - Volkswagen(DE, VOW3), 기타 자동차 제조사
     
 6. 재활용: 사용 후 배터리의 재활용 및 재사용
@@ -112,6 +97,8 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 
 현재 제품 상용화 전 단계로, 구체적인 매출 비중은 제공되지 않습니다.
 
+{{< adsense-infeed >}}
+
 ## 주요 고객
 
 1. Volkswagen Group(DE, VOW3)
@@ -122,6 +109,8 @@ QuantumScape의 배터리 기술은 기존 리튬이온 배터리에 비해 더 
 현재 제품 상용화 전 단계로, 구체적인 판매 국가 정보는 제공되지 않습니다. 향후 주요 전기차 시장인 미국, 유럽, 중국 등을 대상으로 할 것으로 예상됩니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. Solid Power(US, SLDP): 고체 전해질 배터리 개발
 2. Toyota Motor Corporation(JP): 자체 고체 전해질 배터리 개발

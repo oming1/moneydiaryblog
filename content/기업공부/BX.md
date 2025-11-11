@@ -1,16 +1,12 @@
 ﻿---
 title: "BX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 163
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #사모펀드 #대체투자 #부동산 #인프라 #크레딧 #헤지펀드 #프라이빗에쿼티 #자산운용  #구조화금융 #자본시장 #금융 #자산운용
@@ -34,6 +30,8 @@ Blackstone은 기관투자자, 연금펀드, 고액자산가 등을 대상으로
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 1. 글로벌 네트워크: 전 세계에 걸친 광범위한 투자 네트워크와 정보력
@@ -42,11 +40,7 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 4. 전문성: 각 분야의 전문가들로 구성된 투자 팀
 5. 트랙레코드: 장기간에 걸친 우수한 투자 성과
 6. 혁신적 투자 상품: 시장 트렌드에 맞춘 새로운 투자 상품 개발 능력
-
-{{< adsense-infeed >}}
-
 이러한 경쟁력을 바탕으로 Blackstone은 변화하는 글로벌 투자 환경에서 지속적인 성장을 이어가고 있습니다.
-
 ## 전방/후방산업
 
 전방산업:
@@ -54,14 +48,14 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 기관투자자: 연금펀드, 보험사, 국부펀드 등
 - 고액자산가: 개인 투자자, 패밀리오피스
 - 금융중개업: 투자은행, 자산관리사
-
 후방산업:
 
 - 투자대상 기업: 다양한 산업의 비상장 및 상장 기업
 - 부동산 개발 및 관리: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 금융 데이터 제공업체: Bloomberg L.P., Refinitiv
-
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 자금조달: Blackstone(US, [BX](/company-analysis/bx/)) (투자자로부터 자금 모집)
 2. 투자대상 발굴: Blackstone(US, [BX](/company-analysis/bx/)) (딜소싱 및 실사)
@@ -70,6 +64,8 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 5. 가치 창출: Blackstone(US, [BX](/company-analysis/bx/)) (운영 개선, 성장 전략 수립)
 6. 투자 회수: Blackstone(US, [BX](/company-analysis/bx/)) (IPO, M&A, 매각 등)
 7. 성과 분배: Blackstone(US, [BX](/company-analysis/bx/)) (투자자에게 수익 분배)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -81,6 +77,8 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 - 연금펀드: CalPERS(US), APG(NL), CPPIB(CA)
 - 국부펀드: GIC(SG), ADIA(AE), CIC(CN)
 - 보험사: Allianz(DE, ALV), AXA(FR, CS)
@@ -90,9 +88,6 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 ## 주요 판매국가
 
 미국, 영국, 독일, 프랑스, 중국, 일본, 호주, 캐나다, 싱가포르, 인도
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - KKR & Co.(US, [KKR](/company-analysis/kkr/)) - 프라이빗 에쿼티, 부동산
@@ -113,9 +108,6 @@ Blackstone은 2024년 기준 글로벌 대체투자 시장에서 약 7%의 점�
 - 아시아 태평양 지역 사업 확장: 일본, 인도 시장 진출 가속화 (2022년)
 - 디지털 인프라 투자 확대: 데이터센터, 통신타워 등 (2023년)
 - 생명과학 및 헬스케어 부문 투자 증가 (2022-2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (8.17%)

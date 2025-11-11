@@ -1,16 +1,12 @@
 ﻿---
 title: "AIP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 42
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #반도체IP #NetworkOnChip #NoC #SoC #SystemIP #인터커넥트 #AI반도체 #자동차반도체 #라이선스수익 #로열티 #칩렛 #멀티다이 #고성능컴퓨팅 #파워효율성 #EDA도구 #ARM파트너 #RISC-V #FlexNoC #Ncore #시스템온칩 #지적재산권 #반도체설계
 
 ---
@@ -25,6 +21,8 @@ weight: 42
 ## 영위사업
 
 Arteris Inc.은 2003년 설립된 반도체 시스템 IP(지적재산권) 전문 기업으로, Network-on-Chip(NoC) 인터커넥트 기술의 글로벌 리더입니다. 복잡한 SoC(System-on-Chip) 설계에서 칩 내부 블록 간 통신을 효율적으로 처리하는 IP 솔루션을 제공합니다.
+
+{{< adsense-infeed >}}
 
 주력 제품인 [FlexNoC]는 [고성능, 저전력 온칩 인터커넥트 솔루션]으로 AI, [자동차](/industry-study/자동차/), [데이터센터](/industry-study/데이터센터/), 통신 등 다양한 분야의 반도체 설계에 핵심 역할을 합니다. NoC 기술은 기존 버스 아키텍처의 한계를 극복하고 복잡한 멀티코어 프로세서와 AI 가속기의 통신 병목을 해결합니다.
 
@@ -42,9 +40,6 @@ Arteris Inc.은 2003년 설립된 반도체 시스템 IP(지적재산권) 전문
 
 - [라이선스 수익]: 약 85% (IP 기술 사용권 선불 수수료)
 - 로열티 수익: 약 15% (고객 칩 출하량 기반 후불 수수료)
-
-{{< adsense-infeed >}}
-
 **주요 수익 지표:**
 
 - ACV(Annual Contract Value) plus Royalties: $6,010만 (2024 Q2, 역대 최고)
@@ -110,7 +105,6 @@ Arteris는 제조업체가 아닌 IP 설계 및 라이선싱 회사로서 다음
 ---
 
 ## 전방산업 / 후방산업
-
 **전방산업 (IP 사용 고객):**
 
 - AI 반도체 업체: NVIDIA, AMD, Qualcomm - AI 가속기 및 GPU
@@ -157,22 +151,22 @@ Arteris는 제조업체가 아닌 IP 설계 및 라이선싱 회사로서 다음
 **Ncore Cache-Coherent IP:** 멀티코어 캐시 일관성, 전체 매출의 20% (2024년), 주요 경쟁사 Synopsys [SNPS](/company-analysis/snps/)
 
 **Multi-die Interconnect:** 칩렛 간 연결 솔루션, 전체 매출의 5% (2024년), 신규 성장 분야
-
 **SoC Integration Software:** 설계 자동화 도구, 전체 매출의 5% (2024년), 주요 경쟁사 Cadence [CDNS](/company-analysis/cdns/)
 
 ---
 
 ## 주된 영향을 미치는 원자료
-
-{{< adsense-infeed >}}
-
 IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮으나, 다음 요소들이 영향을 미칩니다:
 
 **실리콘:** 고객사 칩 제조용, 주요 공급지 중국/일본, TSMC 등 파운드리 공급망에 간접 의존
 
+{{< adsense-infeed >}}
+
 **EDA 라이선스:** 설계 도구 비용, Cadence/Synopsys로부터 연간 수백만 달러 규모
 
 **인재 자원:** 반도체 설계 전문 인력, 주요 공급지 실리콘밸리/아시아, 경쟁이 치열한 분야
+
+{{< adsense-infeed >}}
 
 **IP 라이선스:** 기초 기술 특허, ARM 등 기본 IP 벤더와의 크로스 라이선싱
 
@@ -260,9 +254,6 @@ IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮�
 ## 산업 내 글로벌 시장 점유율
 
 **NoC IP 시장 점유율:**
-
-{{< adsense-infeed >}}
-
 - 2024년: 40-45% (압도적 1위)
 - 2023년: 42% (1위 유지)
 - 2022년: 45% (최고점)
@@ -316,10 +307,11 @@ IP 설계 회사로서 물리적 원자재에 대한 직접적 의존도는 낮�
 - Whalechip 등 중국 고객사 확대
 - RISC-V 생태계 파트너십 강화
 - 연간 ACV 목표 연속 달성으로 실행력 입증
-
 ---
 
 ## 주요 주주 (지분율)
+
+{{< adsense-infeed >}}
 
 **2024년 Q2 기준:**
 
@@ -345,9 +337,6 @@ FINVIZ 데이터에 따르면 내부자 거래가 활발하며, 경영진의 정
 - XSD - SPDR S&P Semiconductor ETF XSD
 
 **기술주 ETF:**
-
-{{< adsense-infeed >}}
-
 - QQQ - Invesco QQQ Trust QQQ
 - VGT - Vanguard Information Technology ETF VGT
 - FTEC - Fidelity MSCI Information Technology ETF FTEC

@@ -1,16 +1,12 @@
 ﻿---
 title: "IRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 461
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #정보관리서비스 #데이터센터 #기록보관 #문서파쇄 #디지털솔루션 #클라우드스토리지 #보안서비스 #REIT #자산수명주기관리 #지속가능성 #글로벌확장 #ProjectMatterhorn #ESG #디지털전환 #엔터프라이즈고객 #규제준수 #데이터보호 #하이브리드스토리지 #AI #IoT #리츠 #데이터센터 
@@ -28,10 +24,9 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 2. 글로벌 데이터 센터: 엔터프라이즈급 데이터 센터 시설 및 하이퍼스케일 용량 제공
 3. 기타: 미술품 보관 및 자산 수명주기 관리(ALM) 사업 포함
 
-2024년 3분기 기준으로 총 수익은 16억 달러를 기록했으며, 이는 전년 동기 대비 12.2% 증가한 수치입니다. 회사는 최근 Project Matterhorn이라는 글로벌 운영 모델 혁신 프로그램을 통해 성장을 가속화하고 있으며, 지속가능성 이니셔티브 강화에도 주력하고 있습니다.
-
 {{< adsense-infeed >}}
 
+2024년 3분기 기준으로 총 수익은 16억 달러를 기록했으며, 이는 전년 동기 대비 12.2% 증가한 수치입니다. 회사는 최근 Project Matterhorn이라는 글로벌 운영 모델 혁신 프로그램을 통해 성장을 가속화하고 있으며, 지속가능성 이니셔티브 강화에도 주력하고 있습니다.
 ## 핵심 경쟁력
 
 1. 글로벌 네트워크: 50개 이상 국가에서 운영되는 광범위한 시설 네트워크
@@ -43,22 +38,16 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Microsoft(US, [MSFT](/company-analysis/msft/))
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 헬스케어: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/))
-
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 데이터 센터 장비: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Dell Technologies(US, [DELL](/company-analysis/dell/))
 - 보안 솔루션: Palo Alto Networks(US, [PANW](/company-analysis/panw/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
-
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 - 물리적 기록 보관: 문서, 테이프 등의 보관 서비스, 매출의 약 50% (2024년 기준)
 - 데이터 센터 서비스: 콜로케이션 및 하이퍼스케일 솔루션, 매출의 약 20% (2024년 기준)
@@ -69,7 +58,6 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 프랑스, 호주, 브라질, 인도
-
 ## 경쟁업체
 
 - Crown Castle International(US, [CCI](/company-analysis/cci/)) - 통신 인프라 REIT
@@ -91,9 +79,6 @@ Iron Mountain은 2024년 기준 글로벌 정보 관리 서비스 시장에서 �
 - AI 및 머신러닝 기반 디지털 솔루션 출시 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Vanguard Group Inc. (15.88%)
 - BlackRock Advisors LLC (8.320%)
 - Cohen & Steers Capital Management, Inc. (6.040%)
@@ -107,7 +92,6 @@ Iron Mountain은 2024년 기준 글로벌 정보 관리 서비스 시장에서 �
 - Real Estate Select Sector SPDR Fund - XLRE
 - Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - SRVR
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
-
 공유
 
 다시 쓰기

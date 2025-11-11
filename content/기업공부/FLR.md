@@ -1,16 +1,12 @@
 ﻿---
 title: "FLR"
 date: 2024-12-03T21:08:56+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 346
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T12:08:56Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #산업재 #건설및엔지니어링 #인프라 #건설 #발전소 #EPC
 
 ## 산업섹터
@@ -21,7 +17,6 @@ weight: 346
 ## 영위사업
 
 두 기업 모두 대규모 인프라, 산업 시설, 에너지 프로젝트 등의 설계, 조달, [건설](/industry-study/건설/)(EPC) 및 프로젝트 관리 서비스를 제공합니다.
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -36,12 +31,13 @@ weight: 346
 - 유틸리티 기업: Duke Energy(US, [DUK](/company-analysis/duk/))
 
 ## 밸류체인
-
 1. 설계 및 엔지니어링
 2. 조달
 3. 건설
 4. 프로젝트 관리
 5. 유지보수 및 운영
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -57,22 +53,17 @@ weight: 346
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - AECOM(US, [ACM](/company-analysis/acm/))
 - KBR(US, KBR)
 - Jacobs(US, J)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Bechtel과 Fluor는 각각 미국 최대 및 2위 건설회사로, 글로벌 EPC 시장에서 주요 플레이어입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
+Bechtel과 Fluor는 각각 미국 최대 및 2위 건설회사로, 글로벌 EPC 시장에서 주요 플레이어입니다.
+## 최근 3년 내 주요 이슈
 - Bechtel: 55,000명 직원, 연간 매출 176억 달러 (2020)
 - Fluor: 40,582명 직원, 연간 매출 141.6억 달러 (2022)
 - 두 기업 모두 지속가능성 및 친환경 프로젝트에 주력 (2022-2024)

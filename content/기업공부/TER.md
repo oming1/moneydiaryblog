@@ -1,16 +1,12 @@
 ﻿---
 title: "TER"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 860
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #로봇 #반도체 #반도체후공정 #AMR #테크 #양자 
 #반도체테스트 #자동화테스트장비 #협동로봇 #반도체장비 #테스트솔루션  #ATE #반도체 #로보틱스 #AI칩테스트 #메모리테스트 #시스템테스트 #산업자동화 #모바일로봇 #협업로봇 #TSM #Apple #Qualcomm #정보기술 #반도체장비
 
@@ -19,13 +15,8 @@ weight: 860
 ## 산업 섹터 (Sector)
 
 섹터: 정보기술 (Information Technology)
-
-{{< adsense-infeed >}}
-
 ## 산업 (Industry)
-
-{{< adsense-infeed >}}
-
+## 산업 (Industry)
 산업: 반도체 장비 (Semiconductor Equipment)
 
 ---
@@ -33,7 +24,6 @@ weight: 860
 ## 영위사업
 
 Teradyne Inc.는 1960년 설립된 미국의 자동화 테스트 장비(ATE) 및 로보틱스 전문 기업으로, 반도체 테스트 장비 분야에서 글로벌 리더십을 유지하고 있습니다. 회사는 반도체 제조업체가 칩의 품질과 성능을 검증하는 데 필요한 정밀 테스트 장비를 설계, 제조, 판매하고 있습니다.
-
 주요 사업부문으로는 [반도체](/industry-study/반도체/) 테스트(Semiconductor Test), 로보틱스(Robotics), 제품 테스트(Product Test)로 구성됩니다. 2024년 총 매출 28억 달러를 기록했으며, 반도체 테스트 부문이 전체 매출의 약 75%를 차지하는 반도체 테스트 중심 포트폴리오를 운영하고 있습니다.
 
 비즈니스 모델 & 수익 모델 요약: 반도체 테스트 장비 판매를 통한 장비 매출과 애프터 서비스, 부품 교체 등을 통한 서비스 매출의 이중 구조입니다. 고객사의 신규 생산라인 구축 시 대량 주문을 받고, 기존 장비의 유지보수 및 업그레이드를 통해 지속적인 수익을 창출합니다.
@@ -107,6 +97,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 
 **2. 부품 조달:**
 
+{{< adsense-infeed >}}
+
 - 전 세계 정밀 부품 공급업체와의 파트너십
 - 핵심 부품의 전략적 재고 관리
 
@@ -121,9 +113,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 고객 현장 설치 전 최종 검증
 
 **5. 설치 및 서비스:**
-
-{{< adsense-infeed >}}
-
 - 고객 현장 설치 및 커미셔닝
 - 지속적인 기술 지원 및 유지보수
 
@@ -177,6 +166,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 
 **반도체 테스트 장비:** 반도체 칩 품질 검증 장비, 매출 비중 약 75% (2024년 기준), 관련 경쟁사 [AMAT](/company-analysis/amat/), [LRCX](/company-analysis/lrcx/)
 
+{{< adsense-infeed >}}
+
 **협동로봇(Universal Robots):** 산업용 협동로봇 및 자동화 솔루션, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [ABB](/company-analysis/abb/), KUKA
 
 **자율주행 로봇(MiR):** 창고 및 물류 자동화용 모바일 로봇, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 Amazon, Fetch Robotics
@@ -187,10 +178,9 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 
 ## 주된 영향을 미치는 원자재
 
-**반도체 칩:**
-
 {{< adsense-infeed >}}
 
+**반도체 칩:**
 - 사용처: 테스트 장비의 핵심 제어 및 처리 부품
 - 주요 공급 지역: 대만, 한국, 미국
 - 주요 공급 업체: Intel [INTC](/company-analysis/intc/), AMD [AMD](/company-analysis/amd/)
@@ -206,6 +196,8 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 사용처: 장비 구조재 및 정밀 부품
 - 주요 공급 지역: 미국, 유럽, 아시아
 - 주요 공급 업체: Nucor [NUE](/company-analysis/nue/), Steel Dynamics [STLD](/company-analysis/stld/)
+
+{{< adsense-infeed >}}
 
 **알루미늄:**
 
@@ -294,10 +286,9 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 2위: ABB - 약 15-20%
 - 3위: KUKA - 약 10-15%
 
-최근 3년간 반도체 테스트 장비 시장 점유율은 55%→52%→50%로 소폭 감소하지만 여전히 압도적 1위 유지
-
 {{< adsense-infeed >}}
 
+최근 3년간 반도체 테스트 장비 시장 점유율은 55%→52%→50%로 소폭 감소하지만 여전히 압도적 1위 유지
 ---
 
 ## 기업 특징 및 성장성
@@ -336,7 +327,6 @@ AI와 5G 기술 발전에 따른 차세대 성장 동력이 강화되고 있습�
 - State Street Corp.: 4.3% (690만 주)
 - FMR LLC: 3.8% (610만 주)
 - Geode Capital Management: 2.7% (430만 주)
-
 **주요 내부자:**
 
 - Greg Smith (President): 0.3% (48만 주)
@@ -347,7 +337,6 @@ AI와 5G 기술 발전에 따른 차세대 성장 동력이 강화되고 있습�
 ## 관련 ETF
 
 반도체 관련 ETF:
-
 - VanEck Semiconductor ETF - SMH
 - iShares Semiconductor ETF - SOXX
 - SPDR S&P Semiconductor ETF - XSD

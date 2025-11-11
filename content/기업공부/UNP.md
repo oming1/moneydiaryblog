@@ -1,16 +1,12 @@
 ﻿---
 title: "UNP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 912
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #화물철도 #북미물류 #벌크화물 #인터모달운송 #공급망 #에너지수송 #철도인프라 #디지털화 #자동화운영 #연비향상 #ESG #탄소감축 #정밀운송 #철도안전 #수송효율 #중서부운송 #곡물수송 #자동차수송 #화학수송 #미국제조업
 
 ## 산업섹터
@@ -20,13 +16,9 @@ weight: 912
 산업: 철도운송
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 중 하나로, 약 32,000마일의 철도 네트워크를 미국 서부 및 중서부 23개 주에 걸쳐 운영하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **벌크화물 운송**: 곡물, 석탄, 비료 등 대량 원자재 수송
-    
 2. **화학 및 에너지 운송**: 화학제품, 원유, LNG, 플라스틱 등 에너지 관련 화물 수송
     
 3. **소비재 및 자동차 운송**: 제조·산업 완제품, 자동차, 부품 등 수송
@@ -34,6 +26,8 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 4. **인터모달 운송**: 컨테이너 및 트레일러 등 복합물류 지원
 
 2024년 기준 총 매출은 약 255억 달러에 달하며, 북미 공급망의 핵심 축 역할을 합니다. 최근에는 디지털화, 자동화, 지속 가능성 강화에 집중하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -54,7 +48,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 - **곡물·농업**: Archer Daniels Midland(US, ADM), Bunge(US, BG)
     
 - **에너지·화학**: ExxonMobil(US, [XOM](/company-analysis/xom/)), Dow Inc(US, [DOW](/company-analysis/dow/))
-    
 - **자동차**: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/))
     
 - **물류/소매**: Walmart(US, [WMT](/company-analysis/wmt/)), Costco(US, [COST](/company-analysis/cost/))
@@ -62,9 +55,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 후방산업
 
 - **철도 차량·장비 제조**: Wabtec Corporation(US, WAB), Trinity Industries(US, TRN)
-
-{{< adsense-infeed >}}
-
 - **디지털·IT 솔루션**: IBM(US, [IBM](/company-analysis/ibm/)), Cisco(US, [CSCO](/company-analysis/csco/))
     
 - **에너지**: Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -90,9 +80,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 - **인터모달 운송**: 컨테이너, 트레일러 등 복합화물 (매출의 약 15%)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. Archer Daniels Midland(US, ADM) – 곡물/식품
     
 2. ExxonMobil(US, [XOM](/company-analysis/xom/)) – 에너지/원유/화학
@@ -112,7 +99,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 경쟁업체
 
 1. BNSF Railway(비상장, Berkshire Hathaway 자회사): 미국 서부 최대 철도사
-    
 2. CSX Corporation(US, CSX): 미국 동부 중심 화물 철도
     
 3. Norfolk Southern(US, [NSC](/company-analysis/nsc/)): 미국 동남부·중남부 철도
@@ -124,7 +110,6 @@ Union Pacific Corp(NYSE: UNP)는 미국 최대의 화물 철도 운송 기업 �
 ## 산업 내 글로벌 시장 점유율
 
 Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 점유율을 보유하고 있습니다. 북미 전체 화물 철도 시장에서는 약 17% 내외의 점유율로 1~2위를 다투고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 1. 자동화 및 디지털화 플랫폼 강화로 운영 효율성 향상 (2023~2024년)
@@ -139,18 +124,16 @@ Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 �
 
 ## 주요주주(지분율)
 
+{{< adsense-infeed >}}
+
 - The Vanguard Group (9%)
+- BlackRock (7%)
 
 {{< adsense-infeed >}}
 
-- BlackRock (7%)
-    
 - State Street Corporation (4%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares U.S. Transportation ETF - IYT
     
 - SPDR S&P Transportation ETF - XTN

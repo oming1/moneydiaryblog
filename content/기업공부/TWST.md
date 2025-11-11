@@ -1,16 +1,12 @@
 ﻿---
 title: "TWST"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 896
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #DNA합성 #합성생물학 #유전체학 #실리콘기반기술 #고처리량 #정밀도 #맞춤형DNA #NGS #CRISPR #항체발견 #바이오제약 #농업 #산업화학 #데이터저장 #혁신 #ARKInvest #성장주 #바이오테크 #유전자편집 #실리콘칩
 
 [헬스케어](/industry-study/2산업헬스케어/) 섹터  
@@ -24,10 +20,9 @@ Twist Bioscience Corporation은 혁신적인 DNA 합성 플랫폼을 개발한 �
 2. 유전체학 도구: NGS(차세대 시퀀싱) 준비 키트, CRISPR 라이브러리 등 제공
 3. 합성 생물학 솔루션: 유전자 합성, 단백질 최적화 등 제공
 4. 바이오제약 서비스: 항체 발견 및 최적화 플랫폼 운영
+Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구기관에 서비스를 제공하고 있으며, 최근에는 DNA 데이터 저장 기술 개발에도 주력하고 있습니다.
 
 {{< adsense-infeed >}}
-
-Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구기관에 서비스를 제공하고 있으며, 최근에는 DNA 데이터 저장 기술 개발에도 주력하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -60,11 +55,7 @@ Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구
 5. 응용 연구: Moderna(US, [MRNA](/company-analysis/mrna/)) - mRNA 백신 개발에 활용
 6. 제품 개발: Corteva Agriscience(US, [CTVA](/company-analysis/ctva/)) - 유전자 변형 작물 개발
 7. 최종 사용자: 연구소, 바이오테크 기업, 제약회사 등
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 합성 DNA: 유전자 및 유전자 단편 (매출 비중: 약 60%, 2023년 기준)
 2. NGS 도구: 타겟 농축 패널, 라이브러리 준비 키트 (매출 비중: 약 25%, 2023년 기준)
 3. 항체 발견 서비스: 맞춤형 항체 라이브러리 (매출 비중: 약 15%, 2023년 기준)
@@ -74,12 +65,12 @@ Twist는 생명공학, 제약, 산업 화학, 농업 분야의 기업 및 연구
 
 Twist Bioscience의 주요 고객은 생명과학 연구소, 바이오테크 기업, 제약회사, 농업 기업 등입니다.
 
-## 주요 판매국가
+{{< adsense-infeed >}}
 
+## 주요 판매국가
 미국을 중심으로 글로벌 시장에 서비스를 제공하고 있으며, 유럽, 아시아 등 주요 바이오테크 허브 국가들이 중요한 시장입니다.
 
 ## 경쟁업체
-
 1. Integrated DNA Technologies(US, IDT)
 2. Agilent Technologies(US, [A](/company-analysis/a/))
 3. Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
@@ -89,19 +80,12 @@ Twist Bioscience의 주요 고객은 생명과학 연구소, 바이오테크 기
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, Twist Bioscience는 합성 DNA 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
 1. DNA 데이터 저장 기술 개발 가속화 (2022-2023)
 2. 코로나19 관련 연구 지원을 위한 제품 라인 확대 (2021)
 3. 항체 발견 플랫폼의 지속적인 개선 및 파트너십 확대 (2022-2023)
 4. 실리콘 기반 DNA 합성 기술의 처리량 및 정확도 향상 (2021-2023)
 5. 바이오제약 및 산업 바이오테크놀로지 분야 고객 기반 확대 (2023)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. ARK Investment Management LLC (5.36%)

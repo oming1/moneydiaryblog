@@ -1,16 +1,12 @@
 ﻿---
 title: "DVN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 298
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #셰일오일 #천연가스 #업스트림 #탐사생산 #수평시추 #수압파쇄 #디지털기술 #ESG #저탄소전략 #운영효율성 #현금흐름 #배당성장 #델라웨어베이슨 #이글포드 #파우더리버베이슨 #윌리스턴베이슨 #석유가스 #에너지독립 #지속가능에너지 #비전통자원
@@ -28,6 +24,8 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 2. 수평 시추 및 수압 파쇄를 통한 셰일 자원 개발
 3. 원유, 천연가스, 천연가스 액(NGL) 생산 및 판매
 
+{{< adsense-infeed >}}
+
 2024년 기준, Devon Energy는 델라웨어 베이슨, 이글 포드, 파우더 리버 베이슨, 윌리스턴 베이슨 등 미국 내 주요 셰일 지역에서 활발한 생산 활동을 펼치고 있으며, 일일 생산량은 약 60만 배럴의 석유 환산량(BOE)에 달합니다.최근에는 디지털 기술을 활용한 생산 효율성 향상과 함께 ESG 성과 개선에 주력하고 있습니다. 또한, 변동적인 배당 정책을 통해 주주 환원을 강화하고 있으며, 지속 가능한 성장을 위한 포트폴리오 최적화를 추진하고 있습니다.
 
 ## 핵심 경쟁력
@@ -37,9 +35,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 6. 재무 건전성: 낮은 부채비율과 강력한 현금 흐름 창출 능력
 7. 유연한 자본 배분: 변동적 배당 정책을 통한 주주 가치 극대화
 8. ESG 리더십: 업계 선도적인 환경 및 지속가능성 목표 설정
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -49,9 +44,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 석유 서비스: Schlumberger(US, [SLB](/company-analysis/slb/)), Halliburton(US, [HAL](/company-analysis/hal/))
 - 장비 제조: Baker Hughes(US, [BKR](/company-analysis/bkr/)), National Oilwell Varco(US, [NOV](/company-analysis/nov/))
 - 파이프라인: Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
@@ -64,7 +56,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 12. 운송: Energy Transfer(US, [ET](/company-analysis/et/)) (파이프라인 운영)
 13. 정제: Phillips 66(US, [PSX](/company-analysis/psx/)) (석유 정제)
 14. 유통: Murphy USA(US, MUSA) (주유소 네트워크)
-
 ## 주요제품
 
 - [원유](/industry-study/원유/): 주요 셰일 분지에서 생산, 매출의 약 65% (2024년 기준)
@@ -81,12 +72,11 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국이 주요 판매 국가이며, 일부 국제 시장에도 수출하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - EOG Resources(US, [EOG](/company-analysis/eog/)): 다양한 셰일 자산 보유 업체
 - Pioneer Natural Resources(US, PXD): 퍼미안 베이슨 중심의 셰일 생산업체
 - Diamondback Energy(US, [FANG](/company-analysis/fang/)): 퍼미안 베이슨 전문 생산업체
@@ -96,7 +86,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 ## 산업 내 글로벌 시장 점유율
 
 Devon Energy는 2024년 기준 미국 내 독립 석유·가스 생산업체 중 생산량 기준으로 약 3%의 시장 점유율을 보유하고 있습니다. 글로벌 시장에서는 약 0.7%의 점유율을 차지하고 있으며, 최근 3년간 미국 내 시장 점유율은 안정적으로 유지되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - 델라웨어 베이슨 내 신규 고생산성 구역 발견 및 개발 착수 (2024년)
@@ -112,6 +101,8 @@ Devon Energy는 2024년 기준 미국 내 독립 석유·가스 생산업체 중
 - State Street Corporation (4.61%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - Energy Select Sector SPDR Fund - XLE
 - iShares U.S. Oil & Gas Exploration & Production ETF - IEO

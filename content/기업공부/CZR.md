@@ -1,16 +1,12 @@
 ﻿---
 title: "CZR"
 date: 2024-11-07T21:43:26+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 257
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-07T12:43:26Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 
 ## 산업섹터
@@ -20,22 +16,26 @@ weight: 257
 
 ## 영위사업
 
-Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 및 운영하는 게임 및 호스피탈리티 서비스 제공업체입니다.
-
 {{< adsense-infeed >}}
 
+Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 및 운영하는 게임 및 호스피탈리티 서비스 제공업체입니다.
 ## 전방/후방산업
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 건설 및 인테리어 업체: 카지노 및 호텔 시설 건설
 - 식음료 공급업체: 레스토랑 및 바 운영을 위한 재료 공급
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
-
 ## 밸류체인
 
 1. 부동산 개발 및 운영: Caesars Entertainment
@@ -51,15 +51,8 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 - 레스토랑 및 바
 - 엔터테인먼트 공연
 - 회의 및 컨벤션 시설
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
 미국 (오하이오, 루이지애나, 인디애나, 네바다, 미시시피, 플로리다, 미주리, 콜로라도, 메릴랜드 등)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - MGM Resorts International(US, [MGM](/company-analysis/mgm/))
@@ -67,10 +60,11 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 - Wynn Resorts(US, [WYNN](/company-analysis/wynn/))
 - PENN Entertainment(US, PENN)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Caesars Entertainment는 미국 최대의 게임 회사 중 하나로, 정확한 시장 점유율은 제공되지 않았습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - Eldorado Resorts와 Caesars Entertainment의 합병 완료 (2020)

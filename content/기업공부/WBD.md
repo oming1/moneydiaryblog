@@ -1,16 +1,12 @@
 ﻿---
 title: "WBD"
 date: 2024-09-13T10:26:04+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:01:32+09:00
 type: docs
 sidebar:
   open: false
 weight: 954
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T01:26:04Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 
 
 #### 산업섹터 (Sector, Industry)
@@ -21,19 +17,14 @@ weight: 954
 #### 영위사업
 
 워너 브라더스 디스커버리는 텔레비전, 영화, 스트리밍, 게임 등 다양한 콘텐츠, 브랜드, 프랜차이즈를 제공하는 글로벌 미디어 및 엔터테인먼트 기업(OTT)입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **Studio**: 극장 개봉을 위한 장편 영화 제작 및 개봉, 텔레비전 프로그램 제작 및 라이선스
 - **Networks**: 국내 및 국제 텔레비전 네트워크 운영
 - **Direct-to-Consumer (DTC)**: 프리미엄 유료 TV 및 스트리밍 서비스 제공
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
+- **Studio**: 극장 개봉을 위한 장편 영화 제작 및 개봉, 텔레비전 프로그램 제작 및 라이선스
+- **Networks**: 국내 및 국제 텔레비전 네트워크 운영
+- **Direct-to-Consumer (DTC)**: 프리미엄 유료 TV 및 스트리밍 서비스 제공
+#### 전방/후방산업
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 콘텐츠 제작 및 배급
     - **핵심 기업**: Netflix (미국, [NFLX](/company-analysis/nflx/)), Disney (미국, [DIS](/company-analysis/dis/))
@@ -41,8 +32,9 @@ weight: 954
     - **핵심 산업**: 스트리밍 서비스, 광고
     - **핵심 기업**: Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/)), Hulu (미국, [DIS](/company-analysis/dis/))
 
-#### 밸류체인
+{{< adsense-infeed >}}
 
+#### 밸류체인
 - **콘텐츠 제작 (Content Creation)**:
     - **설명**: 영화, 텔레비전 프로그램, 게임 등 다양한 콘텐츠 제작
     - **대표회사**: Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/)), Disney (미국, [DIS](/company-analysis/dis/))
@@ -52,7 +44,6 @@ weight: 954
 - **스트리밍 서비스 (Streaming Services)**:
     - **설명**: 스트리밍 플랫폼을 통한 콘텐츠 제공
     - **대표회사**: Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/)), Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))
-
 #### 주요제품
 
 - **HBO Max**: 프리미엄 스트리밍 서비스
@@ -61,7 +52,11 @@ weight: 954
 
 #### 주요 판매국가
 
+{{< adsense-infeed >}}
+
 - **미국**: 전체 매출의 대부분을 차지하며, 유럽, 아시아 등 다양한 지역에서 판매
+
+{{< adsense-infeed >}}
 
 #### 경쟁업체
 
@@ -69,6 +64,10 @@ weight: 954
 - **Disney (미국, [DIS](/company-analysis/dis/))**: 콘텐츠 제작 및 스트리밍 서비스
 - **Amazon Prime Video (미국, [AMZN](/company-analysis/amzn/))**: 스트리밍 서비스
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 워너 브라더스 디스커버리는 글로벌 미디어 및 엔터테인먼트 시장에서 약 15%의 점유율을 차지

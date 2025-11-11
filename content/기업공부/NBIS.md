@@ -1,16 +1,12 @@
 ﻿---
 title: "NBIS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 606
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #AI인프라 #클라우드플랫폼 #GPU클러스터 #자율주행 #데이터파트너 #에듀테크 #머신러닝 #딥러닝 #엣지컴퓨팅 #NVIDIA파트너 #풀스택인프라 #AIaaS #빅데이터 #클라우드컴퓨팅 #하이퍼스케일러 #데이터센터 #AIWorkload #LLM #컴퓨터비전 #ESG
@@ -20,6 +16,8 @@ weight: 606
 섹터: 정보기술
 
 산업: 클라우드컴퓨팅서비스
+
+{{< adsense-infeed >}}
 
 ## 영위사업
 
@@ -44,15 +42,12 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 3. 기술 혁신: 자체 LLM 팀을 통한 지속적인 플랫폼 개선
     
 4. NVIDIA와의 파트너십: 최신 GPU 기술에 대한 조기 접근
-
-{{< adsense-infeed >}}
-
 5. 비용 효율성: GPU 소유 및 운영 비용 우위
 
 ## 전방/후방산업
+5. 비용 효율성: GPU 소유 및 운영 비용 우위
 
-{{< adsense-infeed >}}
-
+## 전방/후방산업
 전방산업:
 
 - AI 개발 기업: OpenAI, DeepMind
@@ -78,9 +73,6 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 - 기술 교육 프로그램: TripleTen을 통한 온라인 코딩 부트캠프
     
 - [자율 주행](/industry-study/자율-주행/) 기술: Avride를 통한 개발 및 테스트
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - AI 모델 개발 기업
@@ -102,14 +94,14 @@ Nebius Group N.V.(NASDAQ: NBIS)는 네덜란드에 본사를 둔 AI 인프라 �
 - Baidu(US, [BIDU](/company-analysis/bidu/))
     
 - GoDaddy(US, GDDY)
-    
 - Samsara(US, IOT)
     
 - Zoom Video Communications(US, [ZM](/company-analysis/zm/))
-
 ## 산업 내 글로벌 시장 점유율
 
 Nebius Group는 AI 인프라 시장의 신흥 기업으로, 정확한 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 빠르게 성장하고 있으며, 특히 AI 특화 클라우드 서비스 분야에서 경쟁력을 갖추고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

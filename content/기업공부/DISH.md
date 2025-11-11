@@ -1,16 +1,12 @@
 ﻿---
 title: "DISH"
 date: 2024-12-10T21:16:51+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 280
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:16:51Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #위성TV
 
 ## 산업섹터
@@ -21,20 +17,21 @@ weight: 280
 ## 영위사업
 
 Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
-
-{{< adsense-infeed >}}
-
 1. 위성 TV 서비스: 다양한 채널 패키지 제공
 
 - 스포츠 패키지
 - 가족 패키지
 - 영화 패키지
 
+{{< adsense-infeed >}}
+
 2. Sling TV: 인터넷 기반 스트리밍 서비스
 
 - 라이브 TV 스트리밍
 - 주문형 콘텐츠
 - 맞춤형 채널 구성
+
+{{< adsense-infeed >}}
 
 3. 무선 서비스
 
@@ -52,9 +49,6 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
 - 위성 통신 장비 제조업체: EchoStar(US, [SATS](/company-analysis/sats/))
 - 네트워크 장비 제조업체: Ericsson(SE, ERIC)
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 소비자
@@ -67,7 +61,6 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 2. 인프라 구축: 위성, 네트워크 장비
 3. 서비스 개발: Dish Network
 4. 마케팅 및 판매: Dish Network, 대리점
-
 ## 주요제품
 
 - 위성 TV 패키지
@@ -80,18 +73,15 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 미국
 
 ## 경쟁업체
-
 - DIRECTV(US, [T](/company-analysis/t/))
 - Comcast(US, [CMCSA](/company-analysis/cmcsa/))
 - Netflix(US, [NFLX](/company-analysis/nflx/))
 - T-Mobile(US, [TMUS](/company-analysis/tmus/))
-
 ## 산업 내 글로벌 시장 점유율
-
-정확한 데이터 없음
 
 {{< adsense-infeed >}}
 
+정확한 데이터 없음
 ## 최근 3년 내 주요 이슈
 
 - EchoStar에 의해 완전 인수 (2023)

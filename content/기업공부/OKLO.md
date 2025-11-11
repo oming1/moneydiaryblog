@@ -1,16 +1,12 @@
 ﻿---
 title: "OKLO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 654
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #에너지 #원전 #우라늄 #원자력 #소형모듈형원자로 #SMR #4세대SMR #고순도저농축우라늄 #소듐 #Aurora원자로
 
 ## 최근이슈
@@ -29,7 +25,6 @@ weight: 654
 		
 		연료 전략: 업계의 병목을 기회로 전환
 		Oklo의 고순도 저농축 우라늄(HALEU)에 대한 의존은 가장 큰 단기적 연료 리스크이지만, 2030년 이전에 (Centrus Energy를 통해) 미국 내 농축 능력이 확보될 가능성은 낮습니다. 하지만 Oklo는 첫 프로젝트를 위해 미국 에너지부(DOE) 비축분으로부터 이미 HALEU를 확보하여 이러한 리스크를 완화했습니다. 또한, Oklo는 75MW 원자로 30~40기를 70~80% 더 저렴한 비용으로 가동할 수 있는 충분한 양의 초과분 무기급 플루토늄 60톤을 활용할 수도 있습니다. 2030년 이후에는 혼합 우라늄과 재활용 연료를 함께 사용하는 원자로 설계를 통해 연료 공급원을 다각화할 계획입니다.
-		
 		긍정적인 밸류에이션 및 위험/보상 구조
 		저희는 동종업계 배수(peer multiples)와 현금흐름할인법(DCF)을 80/20으로 혼합하여 목표주가 92달러를 산출했으며, 이는 저희의 NuScale 분석 방식과 일치합니다. DCF 분석에는 2032/2033년 예상 EV/EBITDA에 각각 14.1배와 11.1배를 적용하고, 15.5%의 할인율을 사용했습니다. 저희의 추정치는 2033년 1.1GW 발전 용량에 대한 컨센서스 추정치(-15억 2천만 달러)보다 낮습니다. 현재 주가는 6.6배의 EV/EBITDA로 거래되고 있으며, 이는 SMR 개발사 및 연료 공급사(12.1배), 내재 민자 발전 사업(7.0배), 데이터센터 동종기업(14.2배)보다 낮은 수준입니다. 리스크 요인으로는 인허가 지연, 전력 구매 계약(PPA) 전환 지연, HALEU 공급 및 실행 관련 문제를 들 수 있습니다.
 
@@ -40,17 +35,20 @@ weight: 654
 
 ## 영위사업
 
-Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [원자력 발전](/industry-study/원자력-발전/) 기술 회사입니다. 주요 제품은 Aurora라는 소형 모듈형 원자로(SMR)입니다.
-
 {{< adsense-infeed >}}
 
+Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [원자력 발전](/industry-study/원자력-발전/) 기술 회사입니다. 주요 제품은 Aurora라는 소형 모듈형 원자로(SMR)입니다.
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
 - 감속재 : 없음 / 냉각재 : 액체금속 소듐 
+에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
 {{< adsense-infeed >}}
 
+- 감속재 : 없음 / 냉각재 : 액체금속 소듐 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - 전방산업:
     
@@ -63,14 +61,10 @@ Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
     - 관련 기업: Centrus Energy (US, [LEU](/company-analysis/leu/)), Siemens Energy (DE, ENR.DE)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - 연구 및 개발: 차세대 핵분열 기술 개발
 - 설계 및 제조: Aurora 원자로 설계 및 제작
 - 설치 및 운영: 고객 사이트에 원자로 설치 및 운영
 - 연료 재활용: 사용후 핵연료 재활용 기술
-
 ## 주요제품
 
 - Aurora 원자로: 15-50 MWe 전력 생산, 10년 이상 무급유 운전 가능
@@ -78,7 +72,6 @@ Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 - 핵연료 재활용 기술
 
 ## 주요 판매국가
-
 현재는 미국 시장에 집중하고 있으며, 아이다호 주에 첫 번째 상용 원자로 건설을 계획하고 있습니다.
 
 ## 경쟁업체
@@ -87,7 +80,11 @@ Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 - [TerraPower](/company-analysis/terrapower/) (비상장)
 - X-energy (US, [XE](/company-analysis/xe/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 구체적인 시장 점유율 데이터는 제공되지 않았지만, Oklo는 소형 모듈형 원자로 시장에서 선도적인 위치를 차지하고 있습니다.
 

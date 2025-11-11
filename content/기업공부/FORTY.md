@@ -1,16 +1,12 @@
 ﻿---
 title: "FORTY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 350
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #포뮬라시스템즈 #FORTY #IT서비스 #소프트웨어개발 #아웃소싱 #이스라엘테크 #글로벌IT #컨설팅 #클라우드솔루션 #디지털전환 #엔터프라이즈소프트웨어 #IT인프라 #사이버보안 #빅데이터 #AI통합 #금융IT #헬스케어솔루션 #자회사네트워크 #글로벌확장 #혁신기술 #비즈니스인텔리전스 #클라우드마이그레이션 #소프트웨어엔지니어링 #디지털서비스 #지속가능IT #글로벌아웃소싱 #테크홀딩스 #IT컨설턴시 #데이터관리 #엔터프라이즈모빌리티 #이스라엘 
 
 ---
@@ -37,9 +33,6 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
     - **IT 컨설팅 및 아웃소싱:** Matrix IT를 통해 IT 인프라 관리, 사이버보안, 데이터 분석 서비스를 제공합니다. 클라우드 마이그레이션과 디지털 트랜스포메이션을 지원하며, 산업별 맞춤 컨설팅(금융 규제 준수 등)을 강조합니다.
 
     - **산업 특화 솔루션:** Sapiens를 통해 보험 및 금융 산업向け 소프트웨어(예: 보험 정책 관리 시스템)를 개발합니다. AI 기반 예측 분석으로 고객 리스크를 최소화하고, 헬스케어 분야에서는 환자 데이터 관리 솔루션을 제공합니다.
-
-{{< adsense-infeed >}}
-
     - **클라우드 및 빅데이터 서비스:** 자회사 IAI를 통해 클라우드 컴퓨팅과 빅데이터 플랫폼을 운영합니다. 이는 기업의 데이터 저장, 분석, 보안을 통합하며, GDPR 같은 규제 준수를 지원합니다.
 
     - **기타:** 사이버보안 솔루션(위협 탐지), 엔터프라이즈 모빌리티(모바일 앱 개발), 그리고 AI 통합 서비스. 최근 블록체인 기반 보안 솔루션을 추가하여 디지털 자산 관리를 강화합니다.
@@ -82,7 +75,6 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
     - 소프트웨어 솔루션: 40%.
     - IT 서비스 및 컨설팅: 35%.
     - 인프라 및 기타: 25%.
-
 - **고객 유형별 수익 구조:**
     - 기업 클라이언트: 장기 계약 기반.
     - 금융/헬스케어: 특화 솔루션.
@@ -134,6 +126,8 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 - 금융: 보험 시스템.
 - 헬스케어: 데이터 관리.
 
+{{< adsense-infeed >}}
+
 **후방산업 (원자재/부품 공급 산업):**
 
 - 클라우드: Microsoft(US, [MSFT](/company-analysis/msft/)).
@@ -145,6 +139,8 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 
 **부품 공급 단계:**
 
+{{< adsense-infeed >}}
+
 - Microsoft(US, [MSFT](/company-analysis/msft/)): 클라우드 인프라.
 - Oracle(US, [ORCL](/company-analysis/orcl/)): 데이터베이스.
 
@@ -152,8 +148,9 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 
 - 자회사: 소프트웨어 개발.
 
-**유통 및 판매 단계:**
+{{< adsense-infeed >}}
 
+**유통 및 판매 단계:**
 - 직접 영업: 기업 계약.
 - 파트너: 글로벌 채널.
 
@@ -185,14 +182,10 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 ---
 
 ### 주요 판매 국가
-
 - 이스라엘: 40% (2023년 기준, 3년간 +2%p).
 - 미국: 30% (2023년 기준, 3년간 +3%p).
 - 유럽: 20% (2023년 기준, 3년간 +1%p).
 - 기타: 10% (2023년 기준, 3년간 -6%p).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 경쟁업체
@@ -225,9 +218,6 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 ---
 
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 2023년: Sapiens AI 솔루션 출시.
 - 2022년: 유럽 자회사 인수.
 - 2021년: 클라우드 서비스 강화.
@@ -245,10 +235,9 @@ Formula Systems (1985) Ltd.은 1985년에 [이스라엘](/industry-study/이스�
 ---
 
 ### 관련 ETF
+**직접 관련 ETF:**
 
 {{< adsense-infeed >}}
-
-**직접 관련 ETF:**
 
 - IGV - iShares Expanded Tech-Software ETF IGV.
 - SKYY - First Trust Cloud Computing ETF SKYY.

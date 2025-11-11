@@ -1,16 +1,12 @@
 ﻿---
 title: "THC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 866
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #의료서비스 #병원운영 #외래수술센터 #수익성개선 #포트폴리오최적화 #의료시설 #수익주기관리 #환자중심케어 #의료기술혁신 #데이터분석 #지역사회건강 #의료품질향상 #디지털헬스케어 #의료보험 #의료정책 #헬스케어 #병원 
 
 [헬스케어](/industry-study/2산업헬스케어/) 섹터  
@@ -28,16 +24,14 @@ Tenet Healthcare Corporation(THC)은 미국 전역에서 의료 서비스를 제
 
 HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/)), Community Health Systems(US, [CYH](/company-analysis/cyh/)) 등이 있습니다.
 
-## 핵심 경쟁력
+{{< adsense-infeed >}}
 
+## 핵심 경쟁력
 1. 광범위한 의료 시설 네트워크: THC는 미국 전역에 걸쳐 약 50개의 병원과 500개 이상의 외래 수술 센터를 운영하고 있어, 다양한 지역에서 의료 서비스를 제공할 수 있는 능력을 갖추고 있습니다.
 2. 외래 수술 센터(ASC) 중심 전략: United Surgical Partners International과의 파트너십을 통해 ASC 네트워크를 확장하고 운영을 최적화하여 수익성을 개선하고 있습니다.
 3. 효율적인 운영: 2017년 말 새로운 경영진 취임 이후 운영 효율성과 수익성이 크게 개선되었습니다. 비용 관리와 자원 최적화를 통해 재무 성과를 향상시켰습니다.
 4. 다각화된 비즈니스 모델: 병원, ASC, 수익 주기 관리 등 다양한 사업 포트폴리오를 통해 정치적, 규제적 변화에 대한 리스크를 분산시키고 있습니다.
 5. 혁신적인 의료 기술 도입: AI 기반 기술에 투자하여 임상 및 행정 프로세스를 간소화하고, 비용 절감과 환자 대기 시간 단축을 추진하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ### 전방산업:
@@ -53,7 +47,6 @@ HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US,
 3. 의료 소모품 공급: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
 
 ## 밸류체인
-
 1. 의료 시설 개발 및 운영: THC, HCA Healthcare(US, [HCA](/company-analysis/hca/)) - 병원 및 외래 시설 운영
 2. 의료 인력 공급: AMN Healthcare Services(US, AMN) - 의료 인력 파견 및 관리
 3. 의료 장비 및 기술: GE Healthcare(US, [GE](/company-analysis/ge/)) - 의료 영상 장비 및 솔루션
@@ -69,14 +62,17 @@ HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US,
 3. 수익 주기 관리 서비스: Conifer 부문을 통한 의료기관 수익 관리 솔루션 (매출 비중: 약 5%, 2023년 기준)
 
 ## 주요 고객
-
 THC의 주요 고객은 의료 서비스를 필요로 하는 일반 대중, 의료보험 회사, 정부 기관(Medicare, Medicaid) 등입니다.
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국이 주요 판매국가입니다. THC는 미국 내 여러 주에서 의료 서비스를 제공하고 있으며, 특히 남부 지역에 집중되어 있습니다.
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. HCA Healthcare(US, [HCA](/company-analysis/hca/)) - 종합 병원 및 외래 시설 운영
 2. Universal Health Services(US, [UHS](/company-analysis/uhs/)) - 행동 건강 및 급성 치료 시설 운영
@@ -85,15 +81,12 @@ THC의 주요 고객은 의료 서비스를 필요로 하는 일반 대중, 의�
 5. Acadia Healthcare(US, [ACHC](/company-analysis/achc/)) - 행동 건강 시설 운영
 6. Select Medical Holdings(US, SEM) - 장기 급성 치료 병원 및 재활 시설 운영
 7. Surgery Partners(US, SGRY) - 외래 수술 센터 운영
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 THC는 2023년 기준 미국 내 급성 치료 병원 및 외래 수술 센터 시장에서 상위 5위 안에 드는 기업으로 평가받고 있습니다.
+## 산업 내 글로벌 시장 점유율
 
-{{< adsense-infeed >}}
-
+THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 THC는 2023년 기준 미국 내 급성 치료 병원 및 외래 수술 센터 시장에서 상위 5위 안에 드는 기업으로 평가받고 있습니다.
 ## 최근 3년 내 주요 이슈
 
 1. COVID-19 팬데믹 대응 및 영향: 의료 서비스 수요 변동, 비용 증가 등 (2020-2022)
@@ -119,5 +112,7 @@ THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지
 5. Invesco DWA Healthcare Momentum ETF - PTH
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

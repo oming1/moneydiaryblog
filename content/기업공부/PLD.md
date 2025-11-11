@@ -1,16 +1,12 @@
 ﻿---
 title: "PLD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 695
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 ## 핵심 키워드
 
 #물류부동산 #REIT #산업용부동산 #창고시설 #글로벌물류 #전자상거래 #공급망관리 #지속가능성 #스마트물류 #자산관리 #개발사업 #임대수익 #전략적자본 #포트폴리오다각화 #입지전략 #고객맞춤형솔루션 #디지털화 #ESG #마지막1마일배송 #도시근접물류 #리츠 
@@ -23,9 +19,6 @@ weight: 695
 ## 영위사업
 
 Prologis, Inc.(NYSE: PLD)는 글로벌 물류 부동산 분야의 선도 기업입니다. 주요 사업은 물류 시설의 소유, 운영, 개발 및 관리입니다. 2024년 12월 31일 기준으로 19개국에 걸쳐 약 12억 평방피트(1억 1,500만 평방미터)의 부동산을 보유 또는 투자하고 있습니다.회사의 사업 부문은 크게 두 가지로 나뉩니다:
-
-{{< adsense-infeed >}}
-
 1. 부동산 운영: 임대 운영 및 개발 사업
 2. 전략적 자본: 비연결 공동투자 벤처 관리
 
@@ -38,15 +31,9 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 3. 규모의 경제: 대규모 포트폴리오를 통한 운영 효율성 및 협상력
 4. 고객 다각화: 다양한 산업 분야의 6,700여 고객 기반
 5. 혁신 역량: 첨단 기술을 활용한 스마트 물류 솔루션 개발
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
-
-{{< adsense-infeed >}}
-
+전방산업:
 - 전자상거래: Amazon(US, [AMZN](/company-analysis/amzn/)), Alibaba(CN, [BABA](/company-analysis/baba/))
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Target(US, [TGT](/company-analysis/tgt/))
 - 물류 서비스: FedEx(US, [FDX](/company-analysis/fdx/)), UPS(US, [UPS](/company-analysis/ups/))
@@ -62,9 +49,6 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 - 물류 창고 임대: 다양한 규모와 유형의 물류 시설, 매출의 약 80% (2024년 기준)
 - 개발 사업: 맞춤형 물류 시설 개발, 매출의 약 15% (2024년 기준)
 - 자산 관리 서비스: 전략적 자본 부문을 통한 서비스, 매출의 약 5% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - Amazon(US, [AMZN](/company-analysis/amzn/)): 전자상거래 물류
@@ -78,7 +62,6 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 미국, 중국, 일본, 영국, 독일, 프랑스, 캐나다, 멕시코, 브라질, 네덜란드
 
 ## 경쟁업체
-
 - Duke Realty Corporation(US, DRE): 산업용 부동산
 - Goodman Group(AU, GMG): 산업 및 비즈니스 공간
 - Segro(GB, SGRO): 유럽 중심 물류 REIT
@@ -86,6 +69,8 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 - Rexford Industrial Realty(US, REXR): 남부 캘리포니아 중심 산업용 부동산
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 전자상거래 성장에 따른 수혜를 입고 있습니다.
 
@@ -96,15 +81,14 @@ Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 
 - Prologis Essentials 플랫폼 확대: 물류 기술 및 운영 솔루션 제공 강화 (2023-2024년)
 - 도심 물류 시설 투자 확대: 라스트마일 배송 수요 대응 (2022-2024년)
 - 아시아 태평양 지역 투자 확대: 중국, 일본 중심 성장 전략 실행 (2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - Cohen & Steers Capital Management (3.26%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 
@@ -115,5 +99,7 @@ Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 
 - Pacer Benchmark Industrial Real Estate SCTR ETF - INDS
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

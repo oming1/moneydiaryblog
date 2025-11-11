@@ -1,16 +1,12 @@
 ﻿---
 title: "IMB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 441
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #담배 #소비자방어주
 
 ### 산업섹터 및 산업 (Sector, Industry)
@@ -19,34 +15,25 @@ weight: 441
 - **Industry (산업)**: Tobacco ([담배](/industry-study/담배/))
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐련형 전자담배](/industry-study/궐련형-전자담배/), [액상 전자담배](/industry-study/액상-전자담배/), [구강형 무연담배](/industry-study/구강형-무연담배/) 등의 제품을 제조하고 판매합니다.
 
 ### 전방산업 및 후방산업
-
 - **후방산업 (Upstream Industry)**:
     
     - **농업**: 담배 잎 재배 및 수확. 주요 기업: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
     - **원자재 공급**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급. 주요 기업: Schweitzer-Mauduit International (미국, [SWM](/company-analysis/swm/)), Glatfelter (미국, GLT).
 
 - **전방산업 (Downstream Industry)**:
-    
     - **유통 및 소매**: 담배 제품의 유통 및 판매. 주요 기업: Altria Group (미국, [MO](/company-analysis/mo/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
     - **마케팅 및 광고**: 담배 제품의 마케팅 및 광고. 주요 기업: Philip Morris International (미국, [PM](/company-analysis/pm/)), [Japan Tobacco](/company-analysis/japan-tobacco/) International (일본, 2914).
 
 ### 밸류체인
 
 1. **농업 (Agriculture)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 잎 재배 및 수확.
     - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
-
-{{< adsense-infeed >}}
-
+    - **설명**: 담배 잎 재배 및 수확.
+    - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
 1. **1차 가공 (Primary Processing)**:
     
     - **설명**: 담배 잎의 건조 및 가공.
@@ -57,6 +44,8 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
     - **설명**: 담배 제품 제조.
     - **대표회사**: Philip Morris International (미국, [PM](/company-analysis/pm/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
 
+{{< adsense-infeed >}}
+
 1. **유통 (Distribution)**:
     
     - **설명**: 담배 제품의 유통 및 판매.
@@ -65,9 +54,6 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
     
     - **설명**: 담배 제품의 소매 판매.
     - **대표회사**: 7-Eleven (일본, 3382), Walmart (미국, [WMT](/company-analysis/wmt/)).
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **궐련형 담배**: Davidoff, West 등.
@@ -75,12 +61,11 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
 - **액상 전자담배**: blu 등.
 
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **주요 판매국가**: 유럽, 아프리카, 아시아 (2023년 기준)
 
 ### 경쟁업체
+
+{{< adsense-infeed >}}
 
 1. **Philip Morris International (미국, [PM](/company-analysis/pm/))**
     

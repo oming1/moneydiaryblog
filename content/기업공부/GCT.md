@@ -1,16 +1,12 @@
 ﻿---
 title: "GCT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 366
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #클라우드컴퓨팅 #데이터센터 #네트워크솔루션 #5G #IoT #글로벌커넥트 #기술혁신 #디지털전환 #AI #빅데이터 #사물인터넷 #고객맞춤형 #서비스형소프트웨어 #SaaS #보안솔루션 #글로벌시장 #경쟁력 #지속가능성 #시장점유율
 
 ---
@@ -32,12 +28,11 @@ weight: 366
     - SaaS(Software as a Service) 모델을 통해 고객이 소프트웨어를 구독 형태로 이용할 수 있도록 지원합니다.
 
 2. **데이터 센터 솔루션:**
-    
-    - 고성능 서버 및 인프라 관리 서비스를 제공하여 기업 고객이 안정적으로 데이터를 처리하고 저장할 수 있도록 합니다.
-    - 데이터 센터의 효율성을 극대화하기 위해 최신 기술을 적용합니다.
 
 {{< adsense-infeed >}}
 
+    - 고성능 서버 및 인프라 관리 서비스를 제공하여 기업 고객이 안정적으로 데이터를 처리하고 저장할 수 있도록 합니다.
+    - 데이터 센터의 효율성을 극대화하기 위해 최신 기술을 적용합니다.
 3. **IoT 플랫폼:**
     
     - 다양한 IoT 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원합니다.
@@ -102,7 +97,6 @@ weight: 366
 - **IoT 플랫폼:**  
 
     다양한 디바이스와의 연결을 통해 데이터 수집 및 분석을 지원하며, 고객의 비즈니스 모델에 맞춘 솔루션을 제공합니다.
-    
 - **보안 솔루션:**  
 
     클라우드 및 데이터 센터의 보안을 강화하는 기술로, 고객의 데이터 보호를 최우선으로 합니다.
@@ -136,17 +130,11 @@ weight: 366
 
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버 및 데이터 센터용 반도체 공급
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 공급
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 밸류체인
 
 **부품 공급 단계:**
-
-{{< adsense-infeed >}}
-
 - **Intel(US, [INTC](/company-analysis/intc/)):** 서버용 반도체 (시장점유율 25%, 고성능 프로세서 공급)
 - **Cisco(US, [CSCO](/company-analysis/csco/)):** 네트워크 장비 (시장점유율 20%, 클라우드 인프라 구축)
 
@@ -157,6 +145,8 @@ weight: 366
 **유통 및 판매 단계:**
 
 - **주요 기업 고객:** GCT 솔루션 구매 및 운영
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -175,7 +165,6 @@ weight: 366
     - **주요 경쟁사:** Microsoft Azure [MSFT](/company-analysis/msft/)
 
 - **IoT 플랫폼:**
-    
     - **설명:** 데이터 수집 및 분석 플랫폼
     - **매출비중:** 20% (2023년)
     - **주요 경쟁사:** IBM Cloud [IBM](/company-analysis/ibm/)
@@ -204,6 +193,8 @@ weight: 366
 - **Microsoft(US, [MSFT](/company-analysis/msft/)):** 데이터 센터 솔루션 제공
 - **IBM(US, [IBM](/company-analysis/ibm/)):** IoT 플랫폼 제공
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주요 판매 국가
@@ -220,6 +211,8 @@ weight: 366
 - **Microsoft Azure(US, [MSFT](/company-analysis/msft/)):** 클라우드 서비스, 시장점유율 20%
 - **IBM Cloud(US, [IBM](/company-analysis/ibm/)):** 클라우드 및 IoT 서비스, 시장점유율 10%
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -234,6 +227,8 @@ weight: 366
 ---
 
 ### 기업 특징 및 성장성
+
+{{< adsense-infeed >}}
 
 - **매출 성장률:** 3년 CAGR 15.0%
 - **영업 이익률:** 10.0% (2023년)

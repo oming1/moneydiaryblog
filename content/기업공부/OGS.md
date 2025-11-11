@@ -1,16 +1,12 @@
 ﻿---
 title: "OGS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 652
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지 #천연가스유통
 
 ## 산업 섹터
@@ -19,16 +15,17 @@ weight: 652
 
 ## 산업
 
+{{< adsense-infeed >}}
+
 규제 가스(Utilities - Regulated Gas)
+## 영위사업
 
 {{< adsense-infeed >}}
 
+ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 사업 영역은 다음과 같습니다:
 ## 영위사업
 
 ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 천연가스 유통: 오클라호마, 캔자스, 텍사스 주에서 약 230만 고객에게 천연가스 공급
 2. 파이프라인 운영 및 유지보수
 3. 천연가스 저장 서비스
@@ -38,6 +35,8 @@ ONE Gas, Inc.는 미국의 규제 천연가스 유통 기업입니다. 주요 �
 ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 제공하며, 지속가능한 에너지 솔루션 개발에도 주력하고 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 규제 산업의 안정성: 규제 환경에서의 예측 가능한 수익 구조
 2. 지리적 다각화: 3개 주에 걸친 사업 영역으로 리스크 분산
@@ -54,22 +53,18 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 발전: NextEra Energy(US, [NEE](/company-analysis/nee/))
     - 산업용 가스 소비: Dow Inc.(US, [DOW](/company-analysis/dow/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 천연가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 천연가스 추출
 2. 파이프라인 운송: ONE Gas (주요 사업 영역)
 3. 저장: ONE Gas (주요 사업 영역)
 4. 유통: ONE Gas (주요 사업 영역)
 5. 최종 소비자: 주거, 상업, 산업 고객
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. 천연가스 유통 서비스 (주거, 상업, 산업용)
@@ -85,13 +80,8 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
 5. 도매 및 공공기관 고객
 
 ## 주요 판매국가
-
 ONE Gas는 미국 시장에서만 사업을 영위하고 있으며, 특히 오클라호마, 캔자스, 텍사스 주에서 서비스를 제공하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
 1. Atmos Energy(US, [ATO](/company-analysis/ato/))
 2. Southwest Gas Holdings(US, [SWX](/company-analysis/swx/))
 3. Spire Inc.(US, [SR](/company-analysis/sr/))

@@ -1,16 +1,12 @@
 ﻿---
 title: "CYH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 256
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #의료시설 #병원운영 #급성치료 #외래진료 #헬스케어 #지역의료 #재무구조개선 #인수합병 #의료서비스 #환자중심 #헬스케어 #병원 
 
 ## 산업 섹터
@@ -24,7 +20,6 @@ weight: 256
 ## 영위사업
 
 Community Health Systems, Inc.(CYH)는 미국의 주요 의료 서비스 제공업체로, 주로 일반 급성 치료 병원을 소유, 임대 및 운영합니다. 회사는 다음과 같은 주요 사업을 영위하고 있습니다:
-
 1. 급성 치료 병원 운영
 2. 외래 진료 시설 운영
 3. 응급실 서비스
@@ -33,14 +28,13 @@ Community Health Systems, Inc.(CYH)는 미국의 주요 의료 서비스 제공�
 6. 정신 건강 서비스
 7. 진단 서비스
 
+{{< adsense-infeed >}}
+
 CYH는 미국 15개 주에 걸쳐 70개의 병원을 운영하고 있으며, 1,000개 이상의 의료 시설을 보유하고 있습니다. 회사는 지역 사회 중심의 의료 서비스를 제공하는 데 중점을 두고 있으며, 특히 중소 도시와 농촌 지역에서 강점을 보이고 있습니다.
 
 ## 핵심 경쟁력
 
 Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 광범위한 지리적 다각화: 15개 주에 걸친 병원 네트워크를 통해 리스크를 분산하고 다양한 시장에 접근할 수 있습니다.
 2. 규모의 경제: 대규모 병원 네트워크를 통해 운영 효율성과 비용 절감을 실현합니다.
 3. 지역 사회 중심 접근: 중소 도시와 농촌 지역에 특화된 서비스로 틈새 시장을 공략합니다.
@@ -49,14 +43,11 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 6. 기술 혁신: AI 기반 모자 조기 경고 시스템, 가상 환자 모니터링 등 혁신적인 기술을 도입하고 있습니다.
 7. 재무 구조 개선 노력: 부채 감소와 수익성 개선을 위한 지속적인 노력을 기울이고 있습니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
+1. 후방산업:
     - 의료기기 제조: Medtronic (US, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - 제약: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료 IT: Cerner Corporation
@@ -66,6 +57,8 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
     - 요양 시설: Brookdale Senior Living
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -77,7 +70,6 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 6. 환자 후속 관리: Kindred Healthcare
 
 ## 주요제품
-
 1. 급성 치료 병원 서비스
 2. 외래 진료 서비스
 3. 응급실 서비스
@@ -92,17 +84,11 @@ Community Health Systems의 핵심 경쟁력은 다음과 같습니다:
 3. 정부 기관: Medicare, Medicaid
 4. 기업 건강보험 가입자
 5. 지역 사회 주민
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Community Health Systems는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. HCA Healthcare (US, [HCA](/company-analysis/hca/))
 2. Tenet Healthcare (US, [THC](/company-analysis/thc/))
 3. Universal Health Services (US, [UHS](/company-analysis/uhs/))
@@ -114,7 +100,6 @@ Community Health Systems는 주로 미국 시장에서 사업을 영위하고 �
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Community Health Systems는 미국 의료 시설 산업에서 주요 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 2024년 2분기 순손실 1,300만 달러 기록 (2024년)
 2. 장기 부채 115억 달러 이상으로 재무 구조 개선 필요성 증가 (2024년)
 3. 노스웨스트 헬스케어 자회사를 통해 아리조나 10개 응급 치료 센터 인수 계획 발표 (2024년)
@@ -122,6 +107,8 @@ Community Health Systems는 주로 미국 시장에서 사업을 영위하고 �
 5. AI 기반 모자 조기 경고 시스템, 가상 환자 모니터링 등 혁신 기술 도입 (2023년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. BlackRock Inc.: 8.69%
 2. Vanguard Group Inc: 9.57%

@@ -1,16 +1,12 @@
 ﻿---
 title: "MA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 543
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #금융서비스 #신용서비스 #신용카드 
 
 **산업섹터 (Sector, Industry)**
@@ -19,13 +15,11 @@ weight: 543
 - **Industry:** 신용 서비스 (Credit Services)
 
 **영위사업** Mastercard Inc.는 글로벌 결제 기술 회사로, 신용카드, 직불카드, 선불카드 및 기타 결제 솔루션을 제공합니다. Mastercard는 전 세계 금융기관, 기업, 카드 소지자 및 가맹점 사이에서 중요한 경제적 연결고리를 제공합니다.
-
 **전방산업**
-
-{{< adsense-infeed >}}
-
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 비자 (미국, [V](/company-analysis/v/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
+
+{{< adsense-infeed >}}
 
 **후방산업**
 
@@ -35,9 +29,6 @@ weight: 543
 **밸류체인**
 
 1. **고객 유치 및 마케팅 (Customer Acquisition and Marketing):**
-
-{{< adsense-infeed >}}
-
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
     - **WPP (영국, WPP)**: 광고 및 PR 서비스.
 2. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**
@@ -53,12 +44,16 @@ weight: 543
     - **Concentrix (미국, CNXC)**: 고객 서비스 아웃소싱.
     - **Teleperformance (프랑스, TEP)**: 고객 지원 서비스.
 
+{{< adsense-infeed >}}
+
 **주요제품**
 
 - **Mastercard 신용카드:** 다양한 신용카드 제품.
 - **Mastercard 직불카드:** 은행 계좌와 연동된 직불카드.
 - **Mastercard 선불카드:** 충전식 선불카드.
 - **Masterpass:** 디지털 지갑 서비스.
+
+{{< adsense-infeed >}}
 
 **주요 판매국가**
 
@@ -68,20 +63,18 @@ weight: 543
 - **독일:** 주요 매출 국가.
 
 **경쟁업체**
-
 - **Visa (미국, [V](/company-analysis/v/)):** 글로벌 결제 네트워크.
 - **American Express (미국, [AXP](/company-analysis/axp/)):** 신용카드 및 금융 서비스.
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/)):** 신용카드 및 금융 서비스.
 - **PayPal (미국, [PYPL](/company-analysis/pypl/)):** 온라인 결제 솔루션.
-
-{{< adsense-infeed >}}
-
 **산업 내 글로벌 시장 점유율**
 
 - Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
+**산업 내 글로벌 시장 점유율**
 
 {{< adsense-infeed >}}
 
+- Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**
 
 - **2022년:** Mastercard는 새로운 보안 기능을 도입하여 카드 사용자의 안전을 강화.

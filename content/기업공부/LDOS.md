@@ -1,16 +1,12 @@
 ﻿---
 title: "LDOS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 509
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #정보기술 #국방 #정보시스템 #사이버보안 #헬스케어IT #인공지능 #클라우드컴퓨팅 #빅데이터분석 #정부계약 #시스템통합 #C4ISR #전자전 #우주시스템 #자율주행 #디지털전환 #스마트인프라 #에너지효율 #생체인식 #국토안보 #과학연구 #IT서비스
@@ -19,11 +15,7 @@ weight: 509
 
 섹터: 정보기술
 산업: IT서비스
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
 Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 생명공학 분야에서 과학 및 기술 솔루션을 제공하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 방위 솔루션: 정보 시스템, C4ISR, 사이버 보안, 로지스틱스 등
@@ -31,10 +23,9 @@ Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 �
 3. 건강: 생명과학 연구, 의료 제품 개발, 건강 정보 시스템 등
 
 2024년 기준 총 매출은 약 148억 달러였으며, 전 세계적으로 45,000명 이상의 직원을 고용하고 있습니다. 최근에는 AI, 클라우드 컴퓨팅, 빅데이터 분석 등 첨단 기술을 활용한 솔루션 개발에 주력하고 있으며, 특히 사이버 보안과 디지털 전환 분야에서의 성장을 목표로 하고 있습니다.
+## 핵심 경쟁력
 
 {{< adsense-infeed >}}
-
-## 핵심 경쟁력
 
 1. 다양한 기술 포트폴리오: IT, 엔지니어링, 과학 분야에 걸친 광범위한 기술력 보유
 2. 정부 계약 전문성: 미국 정부 및 국방부와의 긴밀한 관계 및 계약 수주 능력
@@ -44,14 +35,13 @@ Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 �
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 정부 기관: 미국 국방부, 국토안보부, NASA
 - 의료 기관: 병원, 제약 회사, 연구 기관
 - 교통 및 에너지: 공항, 전력 회사, 스마트 시티 프로젝트
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 하드웨어 제조: Dell Technologies(US, [DELL](/company-analysis/dell/)), HP Inc.(US, [HPQ](/company-analysis/hpq/))
@@ -65,6 +55,8 @@ Leidos Holdings Inc(NYSE: LDOS)는 미국의 방위, 항공, 정보기술 및 �
 3. 하드웨어 공급: Dell Technologies(US, [DELL](/company-analysis/dell/)) (서버 및 워크스테이션)
 4. 소프트웨어 통합: Leidos(US, [LDOS](/company-analysis/ldos/)) (시스템 통합 및 구현)
 5. 서비스 제공: Leidos(US, [LDOS](/company-analysis/ldos/)) (운영 및 유지보수)
+
+{{< adsense-infeed >}}
 
 ## 주요제품
 
@@ -106,7 +98,6 @@ Leidos Holdings는 2024년 기준 글로벌 정부 IT 서비스 시장에서 약
 - ESG 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2022년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)

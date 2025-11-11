@@ -1,16 +1,12 @@
 ﻿---
 title: "DHI"
 date: 2024-10-30T17:33:51+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 276
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T08:33:51Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #임의소비재 #건축건설 #부동산
 
 ## 산업섹터
@@ -20,37 +16,27 @@ weight: 276
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 DR Horton은 미국 최대의 건축 건설 회사([부동산](/industry-study/2산업부동산/)), 단독 주택, 타운하우스, 콘도미니엄 등 다양한 유형의 신용을 건설하고 판매합니다.
-
-{{< adsense-infeed >}}
-
 ## 주요제품 및 서비스
-
-{{< adsense-infeed >}}
-
+## 주요제품 및 서비스
 - 사업구조
 - 건물
 - 콘도미니엄
 - 주택금융서비스
 - 주택보험서비스
-
-{{< adsense-infeed >}}
-
 ## 주요 브랜드
-
 - 호튼 박사
 - 익스프레스 홈
 - 프리덤 홈스
 - 에메랄드 홈
 
-## 주요 판매 국가
-
-미국 (29개 주에서 사업 영위)
-
 {{< adsense-infeed >}}
 
+## 주요 판매 국가
+미국 (29개 주에서 사업 영위)
 ## 경쟁업체
-
 - Lennar Corporation(미국, [LEN](/company-analysis/len/))
 - 풀테그룹(미국, [PHM](/company-analysis/phm/))
 - NVR, Inc.(미국, [NVR](/company-analysis/nvr/))

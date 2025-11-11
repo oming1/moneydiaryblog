@@ -1,16 +1,12 @@
 ﻿---
 title: "TFX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 863
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 ## 핵심 키워드
 
 #의료기기 #혈관접근 #수술용품 #마취 #심장관리 #응급의료 #호흡기관리 #글로벌확장 #연구개발 #제품혁신 #의료기술 #환자케어 #임상솔루션 #지속가능성 #ESG #Arrow #LMA #UroLift #QuikClot #Weck
@@ -27,21 +23,18 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 ## 핵심 경쟁력
 
 1. 다양한 의료 분야를 아우르는 포괄적인 제품 포트폴리오
-
-{{< adsense-infeed >}}
-
 2. 지속적인 연구개발 투자를 통한 혁신적인 제품 개발 (2023년 R&D 투자액 1.2억 달러)
     
 3. 글로벌 영업 및 유통 네트워크 (135개국 이상에서 사업 운영)
-
-{{< adsense-infeed >}}
-
 4. 높은 수준의 품질 관리 및 규제 준수 시스템
     
 5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
-
-{{< adsense-infeed >}}
-
+2. 지속적인 연구개발 투자를 통한 혁신적인 제품 개발 (2023년 R&D 투자액 1.2억 달러)
+    
+3. 글로벌 영업 및 유통 네트워크 (135개국 이상에서 사업 운영)
+4. 높은 수준의 품질 관리 및 규제 준수 시스템
+    
+5. 전략적 인수를 통한 사업 확장 및 기술 역량 강화
 ## 전방/후방산업
 
 전방산업:
@@ -85,9 +78,6 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 5. Weck 수술 용품: 결찰 및 접근 장치 (2023년 매출의 약 10%)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. Mayo Clinic(US, Mayo Clinic): 종합 의료 서비스
     
 2. Cleveland Clinic(US, Cleveland Clinic): 심장 및 혈관 질환 전문
@@ -97,9 +87,6 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 4. Massachusetts General Hospital(US, Massachusetts General Hospital): 하버드 의대 교육병원
     
 5. Charité - Universitätsmedizin Berlin(DE, Charité): 유럽 최대 대학병원
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국(55%), 유럽(25%), 아시아 태평양(15%), 기타(5%) (2023년 기준)
@@ -109,12 +96,13 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 1. Medtronic(US, [MDT](/company-analysis/mdt/)): 다양한 의료기기 제조
     
 2. Becton Dickinson(US, [BDX](/company-analysis/bdx/)): 의료기기 및 실험실 장비
-    
 3. Smiths Medical(US, SMIN): 의료기기 및 장비
     
 4. B. Braun(DE, B. Braun): 의료 및 제약 제품
     
 5. Cook Medical(US, Cook Medical): 의료기기 제조
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -129,17 +117,20 @@ Teleflex는 여러 의료기기 분야에서 주요 플레이어 중 하나로, 
 3. 지속가능성 이니셔티브 강화: 2030년까지 25% 탄소 배출 감축 목표 설정 (2024년)
     
 4. 디지털 기술 도입을 통한 운영 효율성 개선 프로그램 시작 (2024년)
-    
+
+{{< adsense-infeed >}}
+
 5. 2025년까지 45-51백만 달러의 비용 절감을 목표로 하는 구조조정 프로그램 진행 중 (2025년)
 
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
-    
+
+{{< adsense-infeed >}}
+
 2. BlackRock (9.17%)
     
 3. State Street Corporation (4.47%)
-
 ## 관련 ETF
 
 1. iShares U.S. Medical Devices ETF - IHI

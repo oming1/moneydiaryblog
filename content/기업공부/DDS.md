@@ -1,16 +1,12 @@
 ﻿---
 title: "DDS"
 date: 2024-12-24T21:26:05+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 268
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-24T12:26:05Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #임의소비재 #백화점 #소매 #의류 
 
 ## 산업섹터
@@ -19,31 +15,24 @@ Sector: 임의소비재(Consumer Discretionary)
 Industry: 백화점(Department Stores)
 
 ## 영위사업
-
 Dillard's, Inc.는 미국의 대표적인 패션 의류, 화장품, 홈 퍼니싱 소매업체입니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 소매 사업: 패션 의류, 화장품, 홈 퍼니싱 판매
 2. 건설 사업: CDI Contractors를 통한 매장 건설 및 리모델링
 3. 온라인 판매: dillards.com 운영
-
-{{< adsense-infeed >}}
-
+1. 소매 사업: 패션 의류, 화장품, 홈 퍼니싱 판매
+2. 건설 사업: CDI Contractors를 통한 매장 건설 및 리모델링
+3. 온라인 판매: dillards.com 운영
 ## 주요제품
-
 1. 여성, 남성, 아동 의류
 2. 액세서리 및 화장품
 3. 홈 퍼니싱 제품
 4. 자체 브랜드: Antonio Melani, Gianni Bini, Daniel Cremieux
 
 ## 주요 판매국가
+미국 29개 주에 걸쳐 약 273개 매장 운영, 주로 남부, 남서부, 중서부 지역 집중
+## 경쟁업체
 
 {{< adsense-infeed >}}
-
-미국 29개 주에 걸쳐 약 273개 매장 운영, 주로 남부, 남서부, 중서부 지역 집중
-
-## 경쟁업체
 
 1. Macy's (US, [M](/company-analysis/m/))
 2. Nordstrom (US, [JWN](/company-analysis/jwn/))
@@ -51,8 +40,9 @@ Dillard's, Inc.는 미국의 대표적인 패션 의류, 화장품, 홈 퍼니�
 4. JCPenney
 5. Neiman Marcus
 
-## 최근 3년 내 주요 이슈
+{{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 1. 2024년 매출 6.6억 달러 기록 (2024년)
 2. Darby Fallon Clark 아동복 컬렉션 출시 (2024년)
 3. Muse by Marchesa 독점 라인 런칭 (2024년)

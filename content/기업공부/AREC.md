@@ -1,16 +1,12 @@
 ﻿---
 title: "AREC"
 date: 2024-11-19T15:22:06+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 84
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-19T06:22:06Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #희토류 #원자재 #기타산업용금속및광업 #희토류산화물
 
 ## 산업 섹터
@@ -20,12 +16,14 @@ weight: 84
 
 ## 영위 사업
 
-American Resources Corporation은 인프라 및 전기화 시장을 위한 친환경적이고 사회적 책임을 다하는 고품질 원자재 공급업체입니다. 주로 제강에 필수적인 야금용 탄소와 전기화 시장에 중요한 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 광물의 추출 및 가공에 중점을 두고 있습니다.
+{{< adsense-infeed >}}
 
+American Resources Corporation은 인프라 및 전기화 시장을 위한 친환경적이고 사회적 책임을 다하는 고품질 원자재 공급업체입니다. 주로 제강에 필수적인 야금용 탄소와 전기화 시장에 중요한 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 광물의 추출 및 가공에 중점을 두고 있습니다.
 ## 전방/후방 산업
 
+{{< adsense-infeed >}}
+
 - 전방 산업:
-    
     - 핵심 산업: 철강, 전기차 배터리, 재생에너지
     - 역할: 원자재 공급
     - 주요 기업: 철강 제조업체, 배터리 제조업체
@@ -35,38 +33,34 @@ American Resources Corporation은 인프라 및 전기화 시장을 위한 친�
     - 핵심 산업: 광산 장비, 정제 기술
     - 역할: 채굴 및 정제 장비 공급
     - 주요 기업: 광산 장비 제조업체, 정제 기술 기업
-
 ## 밸류체인
+- 광물 추출 및 가공:
 
 {{< adsense-infeed >}}
 
+    - 야금용 탄소 및 희토류 광물 채굴 및 가공
+- 재활용:
 - 광물 추출 및 가공:
     
     - 야금용 탄소 및 희토류 광물 채굴 및 가공
-
-{{< adsense-infeed >}}
-
 - 재활용:
-
-{{< adsense-infeed >}}
-
     - 금속 재활용 처리
 
 ## 주요 제품
-
 - 야금용 탄소
 - 희토류 광물
 - 재활용 금속
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 미국을 중심으로 글로벌 시장에 공급
-
-{{< adsense-infeed >}}
-
 ## 경쟁사
 
 - MP Materials(미국, [MP](/company-analysis/mp/))
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 

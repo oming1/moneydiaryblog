@@ -1,16 +1,12 @@
 ﻿---
 title: "BRK.A"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 154
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #다각화기업 #가치투자 #보험 #철도 #에너지 #제조업 #소매업 #워렌버핏 #장기투자 #현금흐름 #분산투자 #인수합병 #자회사운영 #주주가치 #재무건전성 #브랜드파워 #경영자율성 #위험관리 #글로벌기업 #ESG
@@ -35,9 +31,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 5. 소매: Nebraska Furniture Mart, See's Candies 등 다양한 소매 사업 운영
     
 6. 서비스: FlightSafety International, NetJets 등의 서비스 사업
-
-{{< adsense-infeed >}}
-
 또한 Apple, Bank of America, Coca-Cola 등 우량 기업들의 지분을 대규모로 보유하고 있습니다. 2024년 기준 시가총액은 1조 달러를 넘어섰으며, 195명의 직원을 고용하고 있습니다.
 
 ## 핵심 경쟁력
@@ -47,9 +40,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 2. 장기 가치 투자: 우량 기업에 장기 투자하여 안정적인 수익 창출
     
 3. 자율적 경영 구조: 자회사의 독립적 운영을 통한 효율성 극대화
-
-{{< adsense-infeed >}}
-
 4. 풍부한 현금 유동성: 대규모 현금 보유로 투자 기회에 신속 대응 가능
     
 5. 보험 사업의 플로트 활용: 보험료 수입을 투자 자금으로 활용
@@ -59,7 +49,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 ## 전방/후방산업
 
 전방산업:
-
 - 소비자 서비스: 보험, 소매, 에너지 공급 등 (Allstate(US, ALL), Walmart(US, [WMT](/company-analysis/wmt/)))
     
 - 운송 및 물류: 철도 운송 서비스 (Union Pacific(US, [UNP](/company-analysis/unp/)), CSX(US, CSX))
@@ -93,9 +82,10 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 3. 에너지 공급: 전력, 천연가스 공급 (2024년 매출의 약 15%)
     
 4. 제조 제품: 항공기 부품, 화학제품, 의류 등 (2024년 매출의 약 15%)
-    
-5. 소매 제품: 가구, 보석, 식품 등 (2024년 매출의 약 10%)
 
+{{< adsense-infeed >}}
+
+5. 소매 제품: 가구, 보석, 식품 등 (2024년 매출의 약 10%)
 ## 주요 판매국가
 
 미국을 중심으로 전 세계 다수 국가에서 사업을 영위하고 있으며, 특히 북미, 유럽, 아시아 지역에서 강세를 보이고 있습니다.
@@ -123,7 +113,9 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 2. 일본 5대 상사 지분 확대로 아시아 투자 강화 (2024년)
     
 3. Greg Abel을 워렌 버핏의 후계자로 지명 (2023년)
-    
+
+{{< adsense-infeed >}}
+
 4. 코로나19 팬데믹 대응으로 항공사 주식 전량 매각 (2022년)
     
 5. 애플 지분 지속 확대, 최대 단일 주식 투자로 성장 (2022-2024년)
@@ -131,11 +123,10 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 ## 주요주주(지분율)
 
 1. Warren Buffett (38.4% of Class A shares)
+2. The Vanguard Group (7.2%)
 
 {{< adsense-infeed >}}
 
-2. The Vanguard Group (7.2%)
-    
 3. BlackRock (6.5%)
     
 4. State Street Corporation (4.1%)
@@ -147,7 +138,6 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 2. Vanguard Financials ETF - VFH
     
 3. iShares U.S. Financials ETF - IYF
-    
 4. Invesco KBW High Dividend Yield Financial ETF - KBWD
     
 5. SPDR S&P Insurance ETF - KIE

@@ -1,16 +1,12 @@
 ﻿---
 title: "SUPX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 842
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #AI인프라 #인공지능서버 #HVDC #클라우드컴퓨팅 #데이터센터 #고성능컴퓨팅 #엔터프라이즈AI #AI배포 #기술인프라 #냉각솔루션 #데이터파이프라인 #시스템통합 #서버솔루션 #엔드투엔드서비스 #모델호스팅 #싱가포르기업 #AI기술기업 #NASDAQ상장 #엣지컴퓨팅 #연구기관인프라 #전력효율화솔루션 #글로벌공급망 #일본확장 #클라우드인프라 #디지털인프라
 
 ---
@@ -25,9 +21,6 @@ weight: 842
 ### 4. 영위사업
 
 Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기업으로, 2021년 8월 25일에 설립되어 싱가포르에 본사를 두고 있습니다. 회사는 원래 Junee Limited라는 이름으로 인테리어 디자인 솔루션을 제공했으나, 2025년 5월에 AI 인프라 제공 업체로 전략적 전환을 시행하며 Super X AI Technology Ltd로 사명을 변경하고 NASDAQ에서 SUPX 티커로 거래를 시작했습니다.
-
-{{< adsense-infeed >}}
-
 회사의 주요 사업은 기업들이 AI 모델을 효율적으로 배포하고 운영할 수 있도록 통합 시스템을 제공하는 것입니다. 이는 고성능 컴퓨팅 자원, 모델 호스팅, 데이터 파이프라인, 오케스트레이션 도구 등을 포함하는 종합적인 AI 인프라 솔루션을 제공합니다. 주요 제품으로는 고성능 AI 서버, 고전압 직류(HVDC) 전력 시스템, 고밀도 액체 냉각 솔루션이 있습니다.
 
 회사는 자회사인 SuperX Industries Pte. Ltd.와 SuperX AI Pte. Ltd.를 통해 AI 데이터 센터를 위한 하드웨어, 소프트웨어, 서비스를 제공합니다. 최근에는 일본에 지역 공급 센터를 설립하는 계획을 발표하여 글로벌 공급망과 서비스 역량을 확장하고 있습니다. 이 센터는 연간 10,000대의 고성능 AI 서버를 생산할 수 있는 능력을 갖추게 될 예정입니다.
@@ -87,9 +80,6 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 4단계: 소프트웨어 설치 및 구성  
 5단계: 품질 관리 및 최종 검수  
 6단계: 배포 및 설치
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 9. 전방산업 / 후방산업
@@ -134,13 +124,11 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 ---
 
 ### 11. 주요 제품
-
 **고성능 AI 서버:**
 
 - 사용처: 기업용 AI 모델 학습 및 추론, 데이터 센터
 - 매출비중: 정확한 수치 미공개
 - 주요 경쟁사: Super Micro Computer(US, [SMCI](/company-analysis/smci/)), Dell Technologies(US, [DELL](/company-analysis/dell/)), HPE(US, [HPE](/company-analysis/hpe/))
-
 **HVDC 전력 솔루션:**
 
 - 사용처: 데이터 센터 전력 인프라, 에너지 효율화
@@ -254,13 +242,13 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 - 기관 투자자: 정확한 지분율 미공개
 - 개인 투자자: 정확한 지분율 미공개
 - 경영진 및 임원: 정확한 지분율 미공개
-
 ※ 정확한 주주 구성 정보는 제한적으로 공개됨
+
+{{< adsense-infeed >}}
 
 ---
 
 ### 20. 관련 ETF
-
 **직접 관련 ETF:**
 
 - WCLD - WisdomTree Cloud Computing Fund WCLD
@@ -275,19 +263,15 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 
 **레버리지 ETF:**
 
-- TQQQ - ProShares UltraPro QQQ TQQQ
-- SOXL - Direxion Daily Semiconductor Bull 3X Shares SOXL
-
 {{< adsense-infeed >}}
 
+- TQQQ - ProShares UltraPro QQQ TQQQ
+- SOXL - Direxion Daily Semiconductor Bull 3X Shares SOXL
 ---
 
 ## 투자 관점 요약
 
 Super X AI Technology Ltd(SUPX)는 2025년 5월에 인테리어 디자인 기업에서 AI 인프라 솔루션 제공업체로 전략적 전환을 시행한 신생 기업입니다. 회사는 고성능 AI 서버, HVDC 전력 시스템, 고밀도 액체 냉각 솔루션 등 종합적인 AI 인프라 제품과 서비스를 제공하며, 최근에는 일본에 연간 10,000대 AI 서버 생산 능력을 갖춘 공급 센터 설립 계획을 발표했습니다.
-
-{{< adsense-infeed >}}
-
 매출 측면에서는 최근 3년간 지속적인 감소세를 보이고 있으며, 2024 회계연도에 52.72% 감소한 2.90M 달러의 매출을 기록했습니다. 그러나 AI 인프라에 대한 글로벌 수요 증가와 일본 시장 확장을 통한 성장 가능성이 존재합니다.
 
 주가는 최근 일본 AI 공급 센터 설립 계획 발표로 큰 폭의 상승을 기록했으나, 기업 전환 과정에서의 실행 위험, 기존 대형 업체와의 경쟁, 매출 감소 추세 등의 위험 요소가 존재합니다. 투자자들은 회사의 전략적 전환이 성공적으로 이루어지고 매출이 회복될 수 있는지 여부에 주목할 필요가 있습니다.

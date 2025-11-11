@@ -1,16 +1,12 @@
 ﻿---
 title: "XPO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 989
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #소량화물 #화물운송 #산업재 #트럭운송
 
 XPO, Inc.(XPO)는 미국의 화물 운송 및 물류 서비스 제공업체입니다.
@@ -37,18 +33,18 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 1. 북미 LTL(Less-Than-Truckload): 미국, 캐나다, 멕시코, 카리브해 지역에서 LTL 서비스 제공
 2. 유럽 운송: 전용 트럭 운송, LTL, 트럭 중개, 관리형 운송, 라스트마일 배송, 화물 포워딩 등 다양한 운송 솔루션 제공
 
-주요 서비스로는 트럭 중개, 인터모달 서비스, 라스트마일 물류, 특송 운송, 화물 포워딩 등이 있습니다.
+{{< adsense-infeed >}}
 
+주요 서비스로는 트럭 중개, 인터모달 서비스, 라스트마일 물류, 특송 운송, 화물 포워딩 등이 있습니다.
 ## 전방/후방산업
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 트럭 제조업체
 - 물류 장비 제조업체
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 소매업체: Amazon(US, [AMZN](/company-analysis/amzn/))
 - 제조업체: ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -59,9 +55,6 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 2. 운송 서비스 제공: XPO
 3. 물류 솔루션 개발: XPO
 4. 고객 서비스: XPO
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - LTL 서비스
@@ -70,25 +63,24 @@ XPO는 두 개의 주요 사업 부문을 운영합니다:
 - 라스트마일 배송
 - 특송 운송
 - 화물 포워딩
+## 주요 판매국가
 
 {{< adsense-infeed >}}
-
-## 주요 판매국가
 
 미국, 캐나다, 멕시코, 프랑스, 영국, 기타 유럽 국가
 
 ## 경쟁업체
-
 - Coyote Logistics
 - Lineage
 - Crowley
 - Echo Global Logistics(US, ECHO)
 - Schneider(US, SNDR)
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았으나, XPO는 북미 지역에서 주요 LTL 서비스 제공업체 중 하나입니다.
-
 ## 최근 3년 내 주요 이슈
 
 - 2023년 12월 XPO Logistics에서 XPO, Inc.로 사명 변경 (2023)

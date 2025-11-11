@@ -1,16 +1,12 @@
 ﻿---
 title: "METC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 564
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 2. 핵심 키워드
 
 #메탈루지컬코킹 #제철코크 #희토류 #Wyoming #Brook광산 #Central_Appalachia #석탄광산 #steel_making #희토류희소금속 #중국의존도탈피 #수직통합 #전략광물 #ESG광산 #셰일가스 #네오디뮴 #프라세오디뮴 #디스프로슘 #철강산업 #미국에너지독립 #중국견제 #critical_minerals #저유황코킹 #고품질석탄 #철강코크 #메탈루지컬코크 #고부가가치광업 #RAMACO #글로벌철강 #철강재료 #West_Virginia #Virginia #생산확대 #확장사업 #마진개선 #수익성최고 #유동성풍부 #메탈루지컬코크시장선도 #동양경쟁력 #제철원료 #코크오븐 #용광로 #고로 #로우코스트 #하이퀄리티 #철강제조 #전략소재 #대중의존도탈피 #국내생산 #Elk_Creek #Berwind #Knox_Creek #Maben
@@ -18,9 +14,6 @@ weight: 564
 ---
 
 ## 3. 산업 분류
-
-{{< adsense-infeed >}}
-
 **섹터(Sector):** Basic Materials - 기초 소재
 **산업(Industry):** Metallurgical Coal Mining - 메탈루지컬 코킹 탄광업
 
@@ -29,6 +22,8 @@ weight: 564
 ## 4. 영위사업
 
 Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지컬 코킹(제철용 코크)을 생산하는 주요 [석탄](/industry-study/석탄/)광산 기업입니다. 회사는 웨스트 버지니아 남부와 버지니아 남서부 지역에서 4개의 활성 메탈루지컬 석탄 광산 복합단지를 운영하고 있으며, 와이오밍 셰리던 카운티 근처에 Brook Mine이라는 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 및 석탄 개발 광산을 보유하고 있습니다.
+
+{{< adsense-infeed >}}
 
 주요 사업 부문은 고품질 저비용 메탈루지컬 코킹 생산으로, 전 세계 20개국 이상의 제철소와 코크 플랜트에 제품을 공급하고 있습니다. 회사의 주요 광산 자산은 Elk Creek, Berwind, Knox Creek, Amonate 복합단지로 구성되어 있으며, 총 6천만 톤의 고품질 메탈루지컬 코킹 매장량을 보유하고 있습니다.
 
@@ -54,6 +49,8 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - 톤당 현금 비용 90달러 중반 달성 (업계 최고 수준)
 - Maven 플랜트 가동으로 운송비 톤당 20달러 절감
 - 고마진 제품 집중 (4Q24 기준 톤당 33달러 마진)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -157,9 +154,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - Orica(AU, ORI): 광산 폭파재 공급 (시장점유율 25%, 기술 선도)
 
 **채굴 및 생산 단계:**
-
-{{< adsense-infeed >}}
-
 - Ramaco Resources(US, [METC](/company-analysis/metc/)): 메탈루지컬 코킹 생산 (미국 상위 5위)
 
 **가공 및 유통 단계:**
@@ -217,9 +211,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - 주요 공급업체: U.S. Steel(US, [X](/company-analysis/x/)), Nucor(US, [NUE](/company-analysis/nue/))
 
 **전력:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 선별장비, 운송시설 가동
 - 주요 공급지: 웨스트 버지니아, 버지니아
 - 주요 공급업체: American Electric Power(US, [AEP](/company-analysis/aep/)), Dominion Energy(US, [D](/company-analysis/d/))
@@ -236,9 +227,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - Cleveland-Cliffs(US, [CLF](/company-analysis/clf/)) - 철강 제조
 
 **코크 플랜트:**
-
-{{< adsense-infeed >}}
-
 - SunCoke Energy(US, SXC) - 코크 생산
 - Koppers(US, KOP) - 코크 및 화학제품
 
@@ -292,9 +280,6 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 ## 15. 경쟁업체 
 
 **미국 메탈루지컬 코킹 생산업체:**
-
-{{< adsense-infeed >}}
-
 - Alpha Metallurgical Resources(US, [AMR](/industry-study/amr/)) - 미국 메탈루지컬 코킹 1위, 시장점유율 35%
 - Warrior Met Coal(US, HCC) - 미국 메탈루지컬 코킹 2위, 시장점유율 25%
 - Arch Resources(US, ARCH) - 미국 석탄 대기업, 시장점유율 15%
@@ -337,6 +322,8 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - 2022년: 11.2% (6위)
 - 3년간 추이: +1.3%p 증가, 순위 상승
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 17. 기업 특징 및 성장성
@@ -349,6 +336,8 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - 톤당 마진: 33달러 (업계 최고 수준)
 
 **성장 동력:**
+
+{{< adsense-infeed >}}
 
 - 희토류 개발: Brook Mine 프로젝트 진행 중
 - 생산 확대: 현재 4.5백만 톤에서 최대 6.5백만 톤까지 확대 가능
@@ -432,13 +421,11 @@ Ramaco Resources Inc.는 미국 중부 애팔래치아 지역에서 메탈루지
 - iShares Core S&P Small-Cap ETF(IJR) - 소형주 코어 ETF
 - Vanguard Small-Cap Value ETF(VBR) - 소형 가치주 ETF
 - iShares Russell 2000 Value ETF(IWN) - 러셀 2000 가치주 ETF
-
 ---
 
 ## 💡 투자 포인트 및 전망
 
 ### 긍정적 요인:
-
 1. **희토류 개발 잠재력**: Brook Mine 프로젝트를 통한 신성장 동력 확보
 2. **강력한 재무구조**: 사상 최대 유동성과 낮은 부채비율
 3. **비용 경쟁력**: 업계 최고 수준의 생산비용 효율성

@@ -1,16 +1,12 @@
 ﻿---
 title: "EOSE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 318
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #아연배터리 #에너지저장시스템 #전력저장 #신재생에너지 #그리드규모배터리 #수성아연기술 #장시간에너지저장 #Znyth배터리 #리튬이온대안 #유틸리티스케일 #마이크로그리드 #배터리기술혁신 #친환경배터리 #전력안정성 #에너지인프라 #ESS #BESS #아연브로마이드 #청정에너지 #에너지독립 #상용에너지저장 #전력망안정화 #재생에너지통합 #배터리 #이차전지 
 
 ---
@@ -38,7 +34,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 ---
 
 ## 비즈니스 모델 (수익 모델)
-
 **수익 구조 세분화:**
 
 - **주요 수익원:** 에너지 저장 시스템([ESS](/industry-study/ess/)) 판매 계약에서 발생하는 매출 (2023년 1,640만 달러)
@@ -57,9 +52,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 ## 핵심 경쟁력
 
 **기술적 우위:** Znyth™ 수성 아연 배터리 기술은 리튬이온 대비 화재 위험이 없고, 4-8시간의 장시간 방전이 가능하여 그리드 안정화에 최적화되어 있습니다. 특히 100% 방전 상태에서도 성능 저하가 없는 특성을 보입니다.
-
-{{< adsense-infeed >}}
-
 **원료 공급 안정성:** 리튬, 코발트 등 희소 금속 대신 [아연](/industry-study/아연/), 브로마이드, 티타늄, [흑연](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속흑연/) 펠트 등 풍부하고 지정학적 리스크가 낮은 원료를 사용합니다.
 
 **정책적 수혜:** [미국 인플레이션 감축법(IRA)의 생산세액공제 대상]이며, 국내 제조업 육성 정책의 직접적 수혜를 받고 있습니다.
@@ -67,9 +59,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 **특허 포트폴리오:** 아연 배터리 기술 관련 다수의 핵심 특허를 보유하고 있어 기술적 진입 장벽을 구축하고 있습니다.
 
 **수직 통합:** 설계부터 제조, 설치까지 전 과정을 자체적으로 수행할 수 있는 역량을 보유하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 핵심 기술
@@ -98,6 +87,8 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 화학 원료: TETRA Technologies (US, TTI) - 아연브로마이드 전해질
 - 금속 소재: Alcoa (US, [AA](/company-analysis/aa/)) - 알루미늄 하우징
 - 전자 부품: Honeywell (US, [HON](/company-analysis/hon/)) - 제어 시스템
@@ -117,6 +108,8 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - Eos Energy Enterprises: 펜실베니아 터틀크릭 자체 제조 시설에서 완제품 생산
 
 **유통 및 판매 단계:**
+
+{{< adsense-infeed >}}
 
 - Wabash National (US, WNC): 운송 및 물류 파트너십
 - 직접 판매: 주요 유틸리티 및 상업 고객 대상 직접 계약
@@ -161,7 +154,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - Wattmore - 에너지 관리 시스템 통합
 
 **인프라 펀드:**
-
 - Large North American Infrastructure Fund - 텍사스 오처드 프로젝트
 
 ---
@@ -185,7 +177,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - Form Energy (US, Private) - 철-공기 배터리, 장시간 저장
 - RedFlow (AU, RFX) - 아연-브로마이드 흐름 배터리
 - e-Zinc (CA, Private) - 아연 기반 그리드 저장
-
 **전통적 경쟁사:**
 
 - BYD (CN, [BYD](/company-analysis/byd/)) - 리튬인산철 배터리, 시장점유율 10%
@@ -223,9 +214,6 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - 미국 IRA 법안의 생산세액공제 혜택
 - DOE 대출 3억 400만 달러 승인으로 제조 능력 확장
 - 2025년 목표: 킬로와트시당 비용 80% 절감
-
-{{< adsense-infeed >}}
-
 **위험 요소:**
 
 - 높은 부채 비율과 현금 소진 리스크
@@ -243,15 +231,11 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 ## 주요 주주 (지분율)
 
 **최근 데이터 기준 (2025년 3월):**
-
 - Vanguard Group: 4.0% (10.36M주)
 - Electron Capital Partners: 1.9% (4.99M주)
 - Stifel Financial: 1.8% (4.69M주)
 - BlackRock: 6.2% (16.04M주)
 - Heights Capital Management: 3.8% (9.80M주)
-
-{{< adsense-infeed >}}
-
 **소유 구조:**
 
 - 기관 투자자: 46.3%
@@ -275,6 +259,8 @@ Eos의 비즈니스 모델은 주로 [B2B 중심]으로, 전력 유틸리티, �
 - iShares U.S. Industrials ETF IYJ
 
 **신재생에너지 ETF:**
+
+{{< adsense-infeed >}}
 
 - Invesco Solar ETF TAN
 - First Trust NASDAQ Clean Edge Green Energy QCLN

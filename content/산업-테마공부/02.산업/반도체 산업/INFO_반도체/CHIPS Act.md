@@ -1,16 +1,12 @@
 ﻿---
 title: "CHIPS Act"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-11-03T21:50:28+09:00
+lastmod: 2025-11-04T11:00:43+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
-</div>
 #반도체 #CHIPSAct #트럼프 
 
 ## **CHIPS Act (칩스법) 개요**
@@ -37,9 +33,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     
     - 반도체 제조 시설 투자에 대해 투자 금액의 **25%**를 세액 공제로 제공했으나, 트럼프 행정부는 이를 **30~35%**로 확대하는 방안을 추진 중입니다.
     - 세액 공제는 2026년 말까지 착공된 프로젝트에 적용됩니다.
-
-{{< adsense-infeed >}}
-
 3. **중국 견제**
     
     - 미국 내 반도체 생산을 확대하는 동시에, 중국에 대한 기술 의존도를 줄이고 기술 패권을 확보하려는 의도가 반영되어 있습니다.
@@ -59,7 +52,9 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 현재 미국의 반도체 생산 점유율은 1990년대 37%에서 **12%**로 감소한 상태입니다.
 
 2. **기술 패권 경쟁**
-    
+
+{{< adsense-infeed >}}
+
     - 미국은 중국과의 기술 패권 경쟁에서 우위를 점하기 위해 반도체 산업을 전략적으로 육성하고 있습니다.
     - 반도체는 AI, 5G, 국방 등 첨단 기술의 핵심 요소로, 국가 안보와 경제에 중요한 역할을 합니다.
 
@@ -67,9 +62,13 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     
     - CHIPS Act는 미국 내 반도체 제조 시설 건설을 통해 **수십만 개의 일자리 창출**과 지역 경제 활성화를 목표로 합니다.
 
+{{< adsense-infeed >}}
+
 ---
 
 ### **2025년 트럼프 행정부의 칩스법(CHIPS Act) 수혜 기업**
+
+{{< adsense-infeed >}}
 
 ### **수혜 기업**
 
@@ -86,8 +85,12 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     
     - 대만 기반의 반도체 제조업체로, 약 **66억 달러**의 보조금을 받으며 애리조나주에 공장을 건설 중입니다.
 
+{{< adsense-infeed >}}
+
 - **삼성전자 (Samsung Electronics)** 
-    
+
+{{< adsense-infeed >}}
+
     - 한국 기반의 글로벌 반도체 제조업체로, 약 **64억 달러**의 보조금을 수령하며 텍사스주에 첨단 반도체 공장을 건설 중입니다.
 
  - **SK하이닉스 (SK Hynix)**
@@ -103,9 +106,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 아날로그 반도체 및 임베디드 프로세서 분야의 선두 기업으로, 칩스법 수혜 기업 목록에 포함되어 있습니다. 텍사스 인스트루먼트는 텍사스주 셔먼에 300mm 웨이퍼 팹을 건설하기 위해 최대 16.1억 달러의 직접 지원금을 받았습니다. 이는 자국 내 아날로그 및 임베디드 칩 생산 강화를 통해 다양한 산업 분야의 공급망 안정화에 기여할 것으로 보입니다.
 
 - **앰코 테크놀로지 (Amkor Technology, [AMKR](/company-analysis/amkr/))**
-
-{{< adsense-infeed >}}
-
     - 반도체 패키징 및 테스트 서비스를 제공하는 기업으로, 칩스법의 간접적인 수혜가 기대됩니다. 미국 내 반도체 생산이 증가하면 후공정 산업의 수요도 함께 늘어날 가능성이 있습니다.
 
 - **아나로그디바이스 (Analog Devices, [ADI](/company-analysis/adi/))** 
@@ -123,7 +123,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **인테그리스 (Entegris, [ENTG](/company-analysis/entg/))** 
     
     - 반도체 제조에 필요한 핵심 소재 및 공정 솔루션을 제공하는 기업으로, 칩스법의 직접 수혜 기업입니다. 콜로라도주에 제조 센터를 건설하기 위해 7,700만 달러의 지원금을 받았습니다. 이는 반도체 제조의 필수적인 소재 공급망 강화에 기여합니다.
-
 - **HP (HP Inc., [HPQ](/company-analysis/hpq/))**
     
     - 개인용 컴퓨터, 프린터 등을 생산하는 기업으로, 반도체 수요의 주요 축을 담당하며 칩스법의 간접적인 수혜가 예상됩니다.
@@ -131,9 +130,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **인피네라 (Infinera, [INFN](/company-analysis/infn/))**
     
     - 광통신 장비 및 반도체를 생산하는 기업으로, 칩스법 수혜 기업에 이름을 올렸습니다.
-
-{{< adsense-infeed >}}
-
 - **마컴 테크놀로지 솔루션스 홀딩스 (MACOM Technology Solutions Holdings, [MTSI](/company-analysis/mtsi/))**
     
     - 아날로그 반도체 솔루션을 제공하는 기업으로, GaAs, GaN 팹 업그레이드에 7천만 달러의 지원을 받았습니다.
@@ -157,7 +153,6 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 - **울프스피드 (Wolfspeed, [WOLF](/company-analysis/wolf/))**
     
     - 실리콘 카바이드(SiC) 및 질화갈륨(GaN) 반도체를 제조하는 기업으로, 칩스법 수혜 기업 목록에 있습니다.
-
 - **앱솔릭스 (Absolics)**
     
     - SKC의 계열사로, 첨단 패키징용 글래스 기판 기술 개발을 위해 7,500만 달러의 직접 지원을 받았습니다. 이는 미국 내 첨단 패키징 생태계 구축에 기여하며, 반도체 후공정 분야의 중요한 발전으로 평가됩니다.

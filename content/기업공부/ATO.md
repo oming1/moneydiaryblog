@@ -1,16 +1,12 @@
 ﻿---
 title: "ATO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 93
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지
 
 ## 산업 섹터
@@ -18,6 +14,8 @@ weight: 93
 유틸리티
 
 ## 산업
+
+{{< adsense-infeed >}}
 
 규제 가스(Utilities - Regulated Gas)
 
@@ -30,11 +28,7 @@ Atmos Energy Corporation은 미국 최대의 천연가스 전문 유통 기업�
 3. 인프라 현대화: 연간 약 20억 달러를 시스템 업그레이드에 투자
 4. 고객 서비스: 주거, 상업, 산업 고객을 위한 천연가스 서비스 제공
 5. 안전 및 지속가능성 이니셔티브: 안전한 가스 공급과 환경 지속가능성에 중점
-
 Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지속적인 인프라 투자를 통해 장기적인 성장을 추구하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 규모와 전문성: 미국 최대의 천연가스 전문 유통기업으로서의 입지
@@ -58,9 +52,6 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
     - 산업용 가스 소비: Dow Inc.(US, [DOW](/company-analysis/dow/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 천연가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 천연가스 추출
 2. 파이프라인 운송: Atmos Energy (주요 사업 영역)
 3. 저장: Atmos Energy (주요 사업 영역)
@@ -68,6 +59,8 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
 5. 최종 소비자: 주거, 상업, 산업 고객
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. 천연가스 유통 서비스 (주거, 상업, 산업용)
 2. 파이프라인 운송 서비스
@@ -85,9 +78,6 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
 Atmos Energy는 주로 미국 시장에서 사업을 영위하고 있으며, 특히 텍사스, 루이지애나, 켄터키 등 8개 주에서 서비스를 제공하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. CenterPoint Energy(US, [CNP](/company-analysis/cnp/)) - 천연가스 유통
 2. Sempra Energy(US, [SRE](/company-analysis/sre/)) - 에너지 인프라 및 유틸리티
 3. ONE Gas(US, [OGS](/company-analysis/ogs/)) - 천연가스 유통
@@ -99,25 +89,20 @@ Atmos Energy는 주로 미국 시장에서 사업을 영위하고 있으며, 특
 Atmos Energy는 미국 최대의 천연가스 전문 유통기업이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 17억 달러 규모의 주식 발행 계획 발표 (2024년)
 2. 2024 회계연도 주당순이익 12% 증가, 6.83달러 기록 (2024년)
 3. 2025 회계연도 주당순이익 가이던스 7.05-7.25달러 제시 (2024년)
 4. 40년 연속 배당 증가, 연간 3.48달러로 8.1% 인상 (2024년)
 5. 5년간 240억 달러 규모의 자본 투자 계획 발표 (2024년)
-
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 1. BlackRock Advisors LLC: 15.65%
 2. Vanguard Fiduciary Trust Co.: 11.31%
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. Utilities Select Sector SPDR Fund - XLU

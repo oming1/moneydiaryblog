@@ -1,16 +1,12 @@
 ﻿---
 title: "LLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 523
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #헬스케어 #제약 #당뇨병 #암 #비만치료제 #마운자로 #젭바운드 #수면무호흡 #비만치료제 #당뇨치료제 #티르제파타이드 #인슐린 #GLP-1 #제약회사 #바이오파마 #신약개발 #임상시험 #API #원료의약품 #대사질환 #면역학 #종양학 #신경과학 #프로작 #심발타 #지프렉사 #제약산업 #헬스케어
 
 ## 최근이슈
@@ -34,7 +30,9 @@ weight: 523
 		PI3Ka 프로그램: ER 양성 유방암의 40%에서 발견되는 가장 흔한 유전 변이 대상.
 		
 		FGFR3 프로그램: 방광암의 15-20%를 차지.
-		
+
+{{< adsense-infeed >}}
+
 		치료 저항성 및 소외된 암종 해결: 지난 20년간 PD-1 면역항암제의 혜택을 받지 못한 고형암 분야에 집중.
 		
 		주로 항체-약물 접합체(ADC)와 방사성 리간드(Radioligand) 같은 신기술을 활용.
@@ -57,9 +55,6 @@ weight: 523
 
 		1. 인크레틴 포트폴리오 (비만/당뇨)
 		오르포글리프론 (Orforglipron):
-
-{{< adsense-infeed >}}
-
 		하루 한 번 복용하는 경구용 비펩타이드 GLP-1 유사체.
 		
 		콜드체인이 필요 없고 대량 생산이 가능하여 전 세계적 수요 충족에 용이.
@@ -87,7 +82,6 @@ weight: 523
 		티르제파타이드를 기본 치료제로, 오르포글리프론을 통해 더 많은 환자에게 접근성을 높이고, 레타트루타이드와 아밀린 작용제로 추가적인 체중 감량이 필요하거나 다른 기전이 필요한 환자군을 공략하는 포트폴리오 전략 구사.
 		
 		환자와 의사의 선호에 따라 추가(add-on) 또는 전환(switching) 시나리오 모두에서 릴리의 약물이 사용될 수 있도록 포트폴리오를 구성.
-
 ---
 
 ## **산업 섹터 (Sector)**
@@ -125,9 +119,6 @@ Eli Lilly의 비즈니스 모델은 혁신적인 신약 개발과 글로벌 상�
 - 자체 연구소에서 신약 발견 및 개발
 - 바이오테크 회사와의 파트너십 및 인수합병
 - 임상시험을 통한 안전성 및 효능 검증
-
-{{< adsense-infeed >}}
-
 **2. 핵심 치료 영역별 포트폴리오:**
 
 - 당뇨병: 인슐린 계열 (Humalog, Trulicity) 및 GLP-1 계열 (Mounjaro)
@@ -153,6 +144,8 @@ Eli Lilly의 비즈니스 모델은 혁신적인 신약 개발과 글로벌 상�
 - LillyDirect를 통한 직접 소비자 서비스
 - 원격 의료 서비스 연계
 - 환자 지원 프로그램 운영
+
+{{< adsense-infeed >}}
 
 핵심 수익 모델은 특허 보호 하에서의 독점 판매권을 통한 프리미엄 가격 책정이며, 특히 당뇨병 및 비만 치료 시장에서 차별화된 경쟁력을 바탕으로 높은 마진율을 유지하고 있습니다.
 
@@ -184,6 +177,8 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 
 **1. API(활성 의약품 원료) 제조:**
 
+{{< adsense-infeed >}}
+
 - 생물학적 제제: 세포 배양 기술을 통한 단백질 생산
 - 화학 합성: 전통적인 화학 공정을 통한 소분자 의약품 제조
 - 연속 제조 공정 도입으로 효율성 증대
@@ -195,7 +190,6 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - 품질 관리 시스템 운영
 
 **3. 포장 및 라벨링:**
-
 - 자동화된 포장 시스템 운영
 - 다국가 규제 요구사항 준수
 - 추적 가능한 공급망 관리
@@ -240,11 +234,7 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - Recursion Pharmaceuticals(US, [RXRX](/company-analysis/rxrx/)) - AI 기반 신약 발견 플랫폼
 - Ginkgo Bioworks(US, [DNA](/company-analysis/dna/)) - 합성 생물학 플랫폼
 - Relay Therapeutics(US, [RLAY](/company-analysis/rlay/)) - 단백질 동역학 기반 신약 개발
-
-{{< adsense-infeed >}}
-
 **전임상 및 임상 단계:** 안전성 및 효능 검증
-
 - Charles River Laboratories(US, [CRL](/company-analysis/crl/)) - 전임상 연구 서비스, 시장점유율 약 15%
 - Covance/LabCorp(US, LH) - 임상시험 운영 서비스, 글로벌 CRO 시장 2위
 - IQVIA(US, [IQV](/company-analysis/iqv/)) - 임상시험 및 데이터 분석 서비스, 시장점유율 약 20%
@@ -311,8 +301,9 @@ Eli Lilly는 글로벌 제조 네트워크를 통해 의약품 생산을 수행�
 - 주요 공급 지역: 미국, 유럽, 아시아
 - 주요 공급 업체: Schott Schott, Gerresheimer GXI
 
-**생물학적 배양 원료:**
+{{< adsense-infeed >}}
 
+**생물학적 배양 원료:**
 - 사용처: 생물학적 제제 생산
 - 주요 공급 지역: 미국, 유럽
 - 주요 공급 업체: Thermo Fisher Scientific [TMO](/company-analysis/tmo/), Merck KGaA [MRK](/company-analysis/mrk/)

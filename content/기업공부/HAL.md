@@ -1,16 +1,12 @@
 ﻿---
 title: "HAL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 396
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #에너지장비및서비스 #에너지 #셰일가스 #석유 #천연가스 #유정시추
 
 ## 산업 섹터
@@ -21,23 +17,14 @@ weight: 396
 ## 영위 사업
 
 Halliburton은 세계에서 두 번째로 큰 석유 서비스 회사로, 주로 석유 및 [천연가스](/industry-study/천연가스/)를 위한 다양한 서비스를 제공합니다. 이 회사는 프래킹(수압 파쇄, 셰일가스) 작업을 포함한 에너지 서비스 그룹(Energy Services Group, ESG)을 운영하며, 전 세계 70개국 이상에서 약 55,000명의 직원을 고용하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
+## 전방/후방 산업
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 석유 및 가스 생산
     - **역할**: 최종 소비자에게 에너지 자원 제공
     - **주요 기업**: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/))
-    
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 원유 및 가스 탐사 및 개발
     - **역할**: Halliburton의 서비스에 필요한 자원 공급
     - **주요 기업**: Schlumberger (프랑스, [SLB](/company-analysis/slb/)), Baker Hughes (미국, [BKR](/company-analysis/bkr/))
@@ -66,6 +53,8 @@ Halliburton은 세계에서 두 번째로 큰 석유 서비스 회사로, 주로
     - 유정 시추 및 완공을 위한 다양한 서비스를 제공합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
+{{< adsense-infeed >}}
+
 ## 주요 판매 국가
 
 Halliburton은 미국을 주요 시장으로 하며, 중동, 아시아 태평양 지역 및 유럽에서도 중요한 매출을 올리고 있습니다.
@@ -75,14 +64,12 @@ Halliburton은 미국을 주요 시장으로 하며, 중동, 아시아 태평양
 - **Schlumberger** (프랑스, [SLB](/company-analysis/slb/)) - 경쟁 제품: 석유 서비스
 - **Baker Hughes** (미국, [BKR](/company-analysis/bkr/)) - 경쟁 제품: 에너지 기술 솔루션
 
-## 산업 내 글로벌 시장 점유율
-
 {{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 Halliburton은 글로벌 석유 서비스 시장에서 약 15%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
 - **COVID-19 팬데믹 영향**: 팬데믹으로 인한 석유 수요 감소로 매출 감소 우려 (2020)
 - **원유 가격 회복**: 원유 가격 상승으로 인해 서비스 수요가 증가하며 매출 성장 (2021)
 - **환경 규제 강화**: 지속 가능한 에너지 솔루션 개발에 대한 투자 증가 (2022)

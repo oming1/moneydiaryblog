@@ -1,16 +1,12 @@
 ﻿---
 title: "SO"
 date: 2024-10-28T21:16:20+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 813
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:16:20Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #유틸리티 #전기및가스유틸리티 #전기생산 #전기 #송배전 #천연가스 #에너지 
 
 ## 산업섹터
@@ -19,14 +15,14 @@ weight: 813
 산업: 전기 및 가스 유틸리티(Electric and Gas Utilities)
 
 ## 영위사업
-
 Southern Company는 전기 및 [천연가스](/industry-study/천연가스/) 유틸리티 서비스를 제공하는 에너지 기업입니다. 전기 생산, 송배전, 천연가스 유통, 도매 전력 판매, 통신 서비스 등을 주요 사업으로 영위하고 있습니다
+## 전방/후방산업
 
 {{< adsense-infeed >}}
 
-## 전방/후방산업
-
 ## 후방산업
+
+{{< adsense-infeed >}}
 
 - 에너지 생산: 발전소, 천연가스 생산업체
 - 인프라 장비: 전력 및 가스 설비 제조업체
@@ -38,19 +34,13 @@ Southern Company는 전기 및 [천연가스](/industry-study/천연가스/) 유
 - 도매 전력 구매자 (지방자치단체, 전력 협동조합 등)
 
 ## 주요제품 및 서비스
-
 - 전기 생산 및 유통
 - 천연가스 유통
 - 도매 전력 판매
 - 통신 서비스 (fiber optics 및 무선 통신)
 - 분산형 에너지 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
+## 주요 판매국가
 미국 (주로 남동부 지역: 알라바마, 조지아, 미시시피 주 등)
 
 ## 경쟁업체

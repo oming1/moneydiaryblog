@@ -1,16 +1,12 @@
 ﻿---
 title: "INTU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 449
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #금융기술 #세금소프트웨어 #회계소프트웨어 #신용모니터링 #이메일마케팅 #AI #클라우드컴퓨팅 #중소기업솔루션 #개인금융 #디지털변환 #생성형AI #재무관리 #세금준비 #온라인결제 #데이터분석 #사용자경험 #모바일앱 #구독모델 #규정준수 #사이버보안
@@ -27,7 +23,6 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 1. TurboTax: 개인 및 중소기업용 세금 준비 소프트웨어
     
 2. QuickBooks: 중소기업 회계 및 재무 관리 소프트웨어
-    
 3. Credit Karma: 개인 신용 모니터링 및 재무 관리 서비스
     
 4. Mailchimp: 이메일 마케팅 및 고객 관계 관리 플랫폼
@@ -39,7 +34,6 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 1. 다양한 금융 서비스를 아우르는 통합 플랫폼
     
 2. 강력한 브랜드 인지도와 고객 신뢰
-    
 3. AI 및 클라우드 기술을 활용한 혁신적인 솔루션 개발
     
 4. 광범위한 고객 데이터를 활용한 개인화 서비스
@@ -49,9 +43,6 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 중소기업: 회계 및 재무 관리 (Shopify(US, [SHOP](/company-analysis/shop/)), Square(US, [SQ](/company-analysis/sq/)))
     
 - 개인 금융: 세금 준비 및 신용 관리 (H&R Block(US, HRB), Equifax(US, EFX))
@@ -75,9 +66,6 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 5. 마케팅 및 판매: 직접 판매, 파트너 네트워크
     
 6. 고객 지원: Intuit 고객 서비스팀, AI 챗봇
-
-{{< adsense-infeed >}}
-
 7. 보안 및 규정 준수: 내부 보안팀, 외부 감사
 
 ## 주요제품
@@ -91,19 +79,16 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 4. Mailchimp: 이메일 마케팅 플랫폼 (2024년 매출의 약 10%)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. 중소기업 및 자영업자: 회계 및 재무 관리 솔루션
+2. 개인 납세자: 세금 준비 및 신고 서비스
 
 {{< adsense-infeed >}}
 
+3. 마케팅 전문가 및 중소기업: 이메일 마케팅 및 고객 관계 관리
+1. 중소기업 및 자영업자: 회계 및 재무 관리 솔루션
 2. 개인 납세자: 세금 준비 및 신고 서비스
     
 3. 마케팅 전문가 및 중소기업: 이메일 마케팅 및 고객 관계 관리
-
-{{< adsense-infeed >}}
-
 4. 금융 기관: 신용 정보 및 분석 서비스
 
 ## 주요 판매국가
@@ -137,13 +122,14 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 4. Intuit Enterprise Suite 출시로 중견기업 시장 공략 강화 (2024년)
     
 5. Intuit Assist AI 금융 어시스턴트 200만 명 이상의 사용자 테스트 완료 (2024년)
-
 ## 주요주주(지분율)
 
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
-    
+
+{{< adsense-infeed >}}
+
 3. State Street Corporation (4.47%)
 
 ## 관련 ETF
@@ -161,5 +147,4 @@ Intuit Inc는 금융 소프트웨어 및 서비스를 제공하는 글로벌 기
 공유
 
 내보내기
-
 다시 쓰기

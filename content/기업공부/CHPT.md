@@ -1,16 +1,12 @@
 ﻿---
 title: "CHPT"
 date: 2024-09-06T12:12:07+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 193
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-06T03:12:07Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #임의소비재 #전문소매 #전기차충전기 
 
 #### 산업섹터 (Sector, Industry)
@@ -19,10 +15,10 @@ weight: 193
 - **Industry**: 전문 소매 (Specialty Retail)
 
 #### 영위사업
-
 ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충전 솔루션을 제공하는 회사입니다. 주요 사업 영역은 상업용, 플릿(fleet), 주거용 충전 솔루션을 포함합니다.
-
 #### 전방/후방산업
+
+{{< adsense-infeed >}}
 
 - **전방산업**: 전기차 제조 및 판매
     - **핵심 산업**: 전기차 제조 및 판매
@@ -33,10 +29,9 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
     - **핵심 산업**: 충전기 및 관련 하드웨어 제조
     - **역할**: ChargePoint의 충전 솔루션에 필요한 부품 공급
     - **관련 기업**: ABB (CH, [ABB](/company-analysis/abb/)), Siemens (DE, [SIE](/company-analysis/sie/)), Schneider Electric (FR, [SU](/company-analysis/su/))
+#### 밸류체인
 
 {{< adsense-infeed >}}
-
-#### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 충전 기술 및 솔루션 개발
     - **대표 회사**: ChargePoint (US, [CHPT](/company-analysis/chpt/)), ABB (CH, [ABB](/company-analysis/abb/))
@@ -52,16 +47,12 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 - **ChargePoint Home Flex**: 가정용 전기차 충전기
 - **ChargePoint Express 250**: 고속 충전기
 - **ChargePoint Cloud Subscription**: 충전 네트워크 관리 소프트웨어
+#### 주요 판매국가
 
 {{< adsense-infeed >}}
-
-#### 주요 판매국가
 
 - **미국**: 2023년 매출액 3억 50백만 달러
 - **유럽**: 2023년 매출액 1억 50백만 달러
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Blink Charging (US, [BLNK](/company-analysis/blnk/))**: 전기차 충전 솔루션
@@ -70,9 +61,6 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 - **Siemens (DE, [SIE](/company-analysis/sie/))**: 전기차 충전 솔루션
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **공급망 문제**: 반도체 및 기타 부품의 공급 부족으로 인한 제품 가격 상승 (2021년)
 - **경쟁 심화**: Tesla 및 Blink Charging과의 경쟁 심화 (2023년)
 - **조직 재편**: 장기적인 성장과 재무 성과 개선을 위한 글로벌 인력의 약 12% 감축 (2024년)

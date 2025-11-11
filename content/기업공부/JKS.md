@@ -1,16 +1,12 @@
 ﻿---
 title: "JKS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 468
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #태양광 #PV산업 #실리콘웨이퍼 #태양전지 #태양광모듈 #수직계열화 #재생에너지 #클린에너지 #모노웨이퍼 #태양광발전 #글로벌확장 #기술혁신 #고효율모듈 #페로브스카이트 #탠덤태양전지 #지속가능성 #중국제조 #그린에너지 #탄소중립 #에너지전환
@@ -19,9 +15,6 @@ weight: 468
 
 섹터: 정보기술
 산업: [태양광](/industry-study/태양광/)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광/)(PV) 산업에서 선도적인 위치를 차지하고 있는 중국 기업입니다. 회사는 실리콘 웨이퍼부터 태양전지, 태양광 모듈에 이르는수직 계열화된 태양광 제품 가치 사슬을 구축하고 있습니다.
@@ -31,7 +24,6 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 회사는 중국을 비롯해 미국, 유럽, 아시아 태평양, 중동 등 전 세계 시장에서 사업을 전개하고 있으며, JinkoSolar 브랜드로 제품을 판매하고 있습니다.최근 1년 내 주요 이슈로는 페로브스카이트 탠덤 태양전지의 변환 효율 33.84% 달성, 중국 상하이 증권거래소에 자회사 Jinko Solar Co., Ltd. 상장 추진 등이 있습니다.
 
 ## 핵심 경쟁력
-
 1. 수직 계열화: 실리콘 웨이퍼부터 모듈까지 전 과정 통합 관리로 비용 효율성 확보
 2. 대규모 생산 능력: 글로벌 최대 규모의 생산 설비 보유
 3. 기술 혁신: 고효율 모듈 및 차세대 태양전지 기술 개발에 주력
@@ -41,9 +33,6 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 태양광 발전소 개발: NextEra Energy(US, [NEE](/company-analysis/nee/)), Brookfield Renewable(CA, [BEP](/company-analysis/bep/))
 - 태양광 설치: Sunrun(US, [RUN](/company-analysis/run/)), SunPower(US, [SPWR](/company-analysis/spwr/))
 - 유틸리티: Duke Energy(US, [DUK](/company-analysis/duk/)), Enel(IT, ENEL)
@@ -63,11 +52,7 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 주요 판매국가
 
 중국, 미국, 일본, 독일, 인도, 브라질, 호주, 스페인
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
 - LONGi Green Energy Technology(CN, 601012)
 - Canadian Solar(CA, [CSIQ](/company-analysis/csiq/))
 - First Solar(US, [FSLR](/company-analysis/fslr/))
@@ -77,6 +62,8 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [태양광](/industry-study/태양광
 ## 산업 내 글로벌 시장 점유율
 
 JinkoSolar는 2024년 기준 글로벌 태양광 모듈 시장에서 약 15%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 상위권을 유지하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -91,6 +78,8 @@ JinkoSolar는 2024년 기준 글로벌 태양광 모듈 시장에서 약 15%의 
 - Xiande Li (15.3%)
 - Kangping Chen (10.2%)
 - Xianhua Li (8.1%)
+
+{{< adsense-infeed >}}
 
 ## 관련 ETF
 

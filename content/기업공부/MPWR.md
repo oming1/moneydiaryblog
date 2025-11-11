@@ -1,16 +1,12 @@
 ﻿---
 title: "MPWR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 587
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #팹리스 #반도체 #정보기술 #반도체 #전력관리IC #데이터센터 #자동차 #통신 #DC-DC변환기 #전력관리통합회로 
 
 ## 산업 섹터
@@ -20,13 +16,9 @@ Monolithic Power Systems Inc(MPWR)는 정보기술(Information Technology) 섹�
 ## 영위사업
 
 Monolithic Power Systems는 고성능 반도체 기반 전력 전자 솔루션을 제공하는 글로벌 팹리스 기업입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. DC-DC 변환기: 전체 매출의 대부분을 차지하는 핵심 제품군입니다.
 2. 조명 제어 시스템: LED 조명 솔루션을 제공합니다.
 3. 전력 관리 통합 회로(PMIC): 다양한 전자기기의 전력 관리를 위한 솔루션입니다.
-
 주요 시장 분야:
 
 - 엔터프라이즈 데이터
@@ -35,9 +27,6 @@ Monolithic Power Systems는 고성능 반도체 기반 전력 전자 솔루션�
 - 통신
 - 소비자 가전
 - 산업용 장비
-
-{{< adsense-infeed >}}
-
 MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환하고 있으며, 지속 가능성과 혁신에 중점을 두고 있습니다. 특히 저탄소 알루미늄 생산 기술 개발에 주력하고 있습니다.
 
 ## 전방/후방산업
@@ -48,7 +37,9 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     
 2. 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 데이터센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
     - 자동차: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/))
     - 통신장비: Cisco Systems (US, [CSCO](/company-analysis/csco/)), Huawei (비상장)
@@ -64,15 +55,13 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
 
 ## 주요제품
 
-1. DC-DC 변환기 (전자기기의 전압 변환, 2024년 3분기 매출 비중: 99.4%)
-2. 조명 제어 시스템 (LED 조명 제어, 2024년 3분기 매출 비중: 0.6%)
-
 {{< adsense-infeed >}}
 
+1. DC-DC 변환기 (전자기기의 전압 변환, 2024년 3분기 매출 비중: 99.4%)
+2. 조명 제어 시스템 (LED 조명 제어, 2024년 3분기 매출 비중: 0.6%)
 ## 주요 판매국가
 
 구체적인 국가별 매출 비중은 제공되지 않았으나, Monolithic Power Systems는 글로벌 기업으로 전 세계 다양한 국가에 제품을 판매하고 있습니다.
-
 ## 경쟁업체
 
 1. Texas Instruments (US, [TXN](/company-analysis/txn/)) - 아날로그 및 임베디드 프로세싱 솔루션
@@ -103,6 +92,8 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
 주요 주주와 지분율에 대한 구체적인 정보는 제공되지 않았습니다.
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - SPDR S&P Semiconductor ETF XSD
 - iShares PHLX Semiconductor ETF SOXX

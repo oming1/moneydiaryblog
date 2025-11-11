@@ -1,16 +1,12 @@
 ﻿---
 title: "CAR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 170
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #차량렌탈 #모빌리티솔루션 #Zipcar #글로벌렌탈 #디지털전환 #전기차 #ESG #고객경험 #AI예약시스템 #자동차공유 #B2B렌탈 #레저여행 #비즈니스여행 #지속가능성 #탄소감축 #플릿관리 #모바일앱 #연료효율성 #운송서비스 #디지털플랫폼 
@@ -18,7 +14,6 @@ weight: 170
 ## 산업섹터
 
 섹터: 산업재
-
 산업: 렌탈및리스서비스
 
 ## 영위사업
@@ -26,17 +21,10 @@ weight: 170
 Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본사를 둔 글로벌 차량 렌탈 및 모빌리티 솔루션 제공 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **차량 렌탈**: Avis, Budget, Payless 브랜드를 통해 개인 및 기업 고객에게 차량 렌탈 서비스 제공
-
-{{< adsense-infeed >}}
-
 2. **자동차 공유**: Zipcar 브랜드를 통해 도시 및 대학 캠퍼스에서 자동차 공유 서비스 제공
-
-{{< adsense-infeed >}}
-
 3. **트럭 렌탈**: Budget Truck Rental을 통해 소형 상업용 트럭 렌탈 서비스 제공
-
-{{< adsense-infeed >}}
-
+2. **자동차 공유**: Zipcar 브랜드를 통해 도시 및 대학 캠퍼스에서 자동차 공유 서비스 제공
+3. **트럭 렌탈**: Budget Truck Rental을 통해 소형 상업용 트럭 렌탈 서비스 제공
 4. **디지털 플랫폼**: AI 기반 예약 시스템 및 모바일 앱을 통한 디지털 전환
 
 2024년 기준 총 매출은 약 118억 달러였으며, 전 세계 180개국 이상에서 10,600개 이상의 지점을 운영하고 있습니다. 최근에는 전기차(EV) 플릿 확대와 디지털 예약 플랫폼 개발에 주력하고 있습니다.
@@ -55,6 +43,8 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업
 
 - **여행 및 관광**: Expedia Group(US, [EXPE](/company-analysis/expe/)), Booking Holdings(US, [BKNG](/company-analysis/bkng/))
@@ -65,10 +55,11 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - **자동차 제조사**: General Motors(US, [GM](/company-analysis/gm/)), Ford Motor Company(US, [F](/company-analysis/f/))
     
 - **연료 공급사**: Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
-    
 - **IT 인프라 제공사**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 
 ## 밸류체인
@@ -86,7 +77,9 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 ## 주요제품
 
 - **Avis 차량 렌탈 서비스**: 프리미엄 차량 렌탈 서비스 제공
-    
+
+{{< adsense-infeed >}}
+
 - **Budget 차량 렌탈 서비스**: 가격 경쟁력을 갖춘 경제형 렌탈 서비스 제공
     
 - **Zipcar 자동차 공유 서비스**: 도시 지역 및 대학 캠퍼스를 중심으로 한 자동차 공유 서비스
@@ -94,9 +87,6 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 - **Budget Truck Rental**: 소형 상업용 트럭 렌탈 서비스
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 1. 개인 여행자 (레저 여행 목적)
     
 2. 기업 고객 (비즈니스 출장 및 물류 지원)
@@ -104,9 +94,6 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 3. 대학생 및 도시 거주자 (Zipcar 자동차 공유 이용자)
     
 4. 물류 업체 (Budget Truck Rental 이용자)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 독일, 프랑스, 호주, 일본, 브라질, 멕시코
@@ -118,13 +105,11 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 2. Hertz Global Holdings (US, [HTZ](/company-analysis/htz/)): 글로벌 차량 렌탈 기업
     
 3. Sixt SE (DE, SIX2): 독일 기반의 국제 차량 렌탈 업체
-    
 4. Europcar Mobility Group (FR): 유럽 중심의 차량 렌탈 서비스 제공 업체 (비상장)
     
 5. Getaround (비상장): P2P 자동차 공유 플랫폼
 
 ## 산업 내 글로벌 시장 점유율
-
 Avis Budget Group는 2024년 기준 글로벌 차량 렌탈 시장에서 약 26%의 점유율을 보유하고 있으며, 미국 내에서는 약 32%로 상위 3대 기업 중 하나로 자리잡고 있습니다. Zipcar는 자동차 공유 시장에서 약 39%의 점유율로 선두를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -136,6 +121,8 @@ Avis Budget Group는 2024년 기준 글로벌 차량 렌탈 시장에서 약 26%
 3. McNicoll Vehicle Hire 인수로 스코틀랜드 시장 확장 (2023년)
     
 4. ESG 목표 강화: 2030년까지 탄소 배출량 30% 감축 계획 발표 (2022년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

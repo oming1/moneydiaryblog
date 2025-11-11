@@ -1,16 +1,12 @@
 ﻿---
 title: "AEHR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 32
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #반도체테스트장비 #웨이퍼레벨번인 #실리콘카바이드 #전기차반도체 #AI프로세서테스트 #WaferPak컨택터 #FOX테스트시스템 #번인장비 #파워반도체 #갈륨나이트라이드 #실리콘포토닉스 #플래시메모리테스트 #하드디스크반도체 #소모품수익모델 #반도체신뢰성테스트 #웨이퍼접촉테스트 #Incal인수합병 #Sonoma시스템 #패키지레벨번인 #고전력반도체테스트 #반도체품질보장 #테스트자동화장비 #반도체 #웨이퍼테스트 
 
 ---
@@ -43,7 +39,6 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 ## 비즈니스 모델 (수익 모델)
 
 **수익 구조 세분화:**
-
 - **WaferPak 컨택터 (소모품):** 전체 매출의 57% (2024년), 4분기 75% - 고객별 맞춤형 웨이퍼 컨택터 반복 주문
 - **테스트 시스템 (자본 장비):** 전체 매출의 43% - FOX-XP, FOX-NP, FOX-CP 시스템 판매
 - **인수 기업 매출:** Incal Technology 연간 약 1,200만 달러 추가 매출 기여
@@ -68,19 +63,17 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 **독점적 기술력:** [풀 웨이퍼 레벨 테스트 및 번인 기술]로 업계 유일의 300mm 웨이퍼 전체 동시 테스트 능력을 보유하고 있습니다.
 
 **소모품 기반 수익 모델:** 고객이 새로운 디자인이나 웨이퍼 패턴으로 변경할 때마다 새로운 WaferPak 컨택터를 주문해야 하는 구조로 반복적이고 예측 가능한 수익을 창출합니다.
-
 **시장 다변화:** 기존 실리콘 카바이드 시장에서 AI 프로세서, 메모리, GaN, 실리콘 포토닉스 등으로 확장하여 단일 시장 의존도를 줄이고 있습니다.
 
 **낮은 자본 구조:** 무부채 경영과 강력한 현금 보유로 경기 변동에 대한 저항력이 높으며, 전략적 인수나 R&D 투자에 유연성을 제공합니다.
+
+{{< adsense-infeed >}}
 
 **높은 진입 장벽:** 반도체 테스트 장비는 고도의 기술력과 고객 인증이 필요하며, 기존 고객과의 긴밀한 협력 관계가 경쟁 우위를 제공합니다.
 
 ---
 
 ## 핵심 기술
-
-{{< adsense-infeed >}}
-
 **FOX 테스트 시스템:** FOX-XP(멀티 웨이퍼), FOX-NP(단일 웨이퍼), FOX-CP(컴팩트 솔루션) 등 다양한 웨이퍼 레벨 테스트 플랫폼
 
 **WaferPak 컨택터:** 고객별 맞춤형 풀 웨이퍼 프로브 카드로 최대 300mm 웨이퍼 테스트 지원
@@ -104,9 +97,6 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 ## 전방산업 / 후방산업
 
 **전방산업 (반도체 제조 산업):**
-
-{{< adsense-infeed >}}
-
 - 전기차: Tesla (US, [TSLA](/company-analysis/tsla/)), BYD (CN, [BYD](/company-analysis/byd/)) - SiC 파워 반도체 수요
 - AI/클라우드: NVIDIA (US, [NVDA](/company-analysis/nvda/)), AMD (US, [AMD](/company-analysis/amd/)) - AI 가속기 프로세서
 - 메모리: Micron (US, [MU](/company-analysis/mu/)), SK Hynix (KR, SK Hynix) - NAND/DRAM 테스트
@@ -135,6 +125,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 
 - 직접 판매: 주요 반도체 제조업체 대상 직접 계약 및 기술 지원
 - 글로벌 서비스: 아시아, 유럽 등 해외 고객 대상 현지 기술 지원
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -165,7 +157,6 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 ## 주요 고객 (최대 30개)
 
 **실리콘 카바이드 제조업체:**
-
 - Wolfspeed (US, [WOLF](/company-analysis/wolf/)) - SiC 웨이퍼 및 디바이스 제조
 - ON Semiconductor (US, [ON](/company-analysis/on/)) - 전기차용 SiC 파워 모듈
 - STMicroelectronics (FR, [STM](/company-analysis/stm/)) - 유럽 SiC 시장 선도업체
@@ -178,6 +169,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 - GPU 제조업체 - 게이밍 및 데이터센터용 GPU
 
 **메모리 및 스토리지:**
+
+{{< adsense-infeed >}}
 
 - NAND 플래시 제조업체 - SSD용 플래시 메모리 테스트
 - DRAM 제조업체 - 서버 및 모바일용 메모리
@@ -212,6 +205,8 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 
 **번인 장비 전문업체:**
 
+{{< adsense-infeed >}}
+
 - Delta Design (US, Private) - 패키지 레벨 번인 시스템
 - Thermonics (US, Private) - 온도 챔버 및 번인 솔루션
 - Despatch Industries (US, Private) - 산업용 오븐 및 번인 장비
@@ -221,9 +216,6 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 - FormFactor (US, FORM) - 프로브 카드 및 웨이퍼 테스트
 - Cascade Microtech (US, Private) - 웨이퍼 프로빙 솔루션
 - MPI Corporation (TW, Private) - 프로브 스테이션 제조업체
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -238,7 +230,6 @@ Aehr의 주요 고객층은 실리콘 카바이드(SiC) 파워 반도체 제조�
 
 - 2024년: 1-2% (소형 전문업체)
 - Advantest + Teradyne이 전체 시장의 55% 점유
-
 **실리콘 카바이드 테스트 시장:**
 
 - 2024년: 60-70% (압도적 선도업체)

@@ -1,16 +1,12 @@
 ﻿---
 title: "BBAI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 118
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #AI #빅데이터분석 #머신러닝 #클라우드컴퓨팅 #사이버보안 #의사결정지원 #예측분석 #국방산업 #정부계약 #엔터프라이즈AI #IoT #엣지컴퓨팅 #디지털전환 #자연어처리 #컴퓨터비전 #자율시스템 #공급망최적화 #위험관리 #지능형자동화 #ESG
@@ -22,10 +18,9 @@ weight: 118
 
 ## 영위사업
 
-BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반의 의사결정 지원 솔루션을 제공하는 기업입니다. 주로 정부 기관과 상업 부문 고객을 대상으로 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
-
 {{< adsense-infeed >}}
 
+BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반의 의사결정 지원 솔루션을 제공하는 기업입니다. 주로 정부 기관과 상업 부문 고객을 대상으로 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
 1. 분석 및 사이버 솔루션: 빅데이터 분석, 예측 모델링, 사이버 보안
 2. 디지털 엔지니어링: AI 기반 시스템 설계 및 구현
 3. 엔터프라이즈 AI 솔루션: 기업용 AI 애플리케이션 개발 및 통합
@@ -49,7 +44,6 @@ BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반�
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Goldman Sachs(US, [GS](/industry-study/gs/))
 
 후방산업:
-
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 데이터 저장: Seagate Technology(US, [STX](/company-analysis/stx/)), Western Digital(US, [WDC](/company-analysis/wdc/))
@@ -68,29 +62,19 @@ BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반�
 - 상업 기업: 공급망 최적화, 위험 관리
 - 제조업체: 생산 프로세스 최적화
 - 금융 기관: 사기 탐지 및 위험 평가
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국이 주요 시장이며, 일부 해외 정부 및 기업 고객 확보
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Palantir Technologies(US, [PLTR](/company-analysis/pltr/)): 데이터 분석 및 국가 안보 솔루션
 - C3.ai(US, AI): 엔터프라이즈 AI 애플리케이션
 - Alteryx(US, AYX): 데이터 분석 및 과학 플랫폼
 - Databricks(비상장): 통합 데이터 및 AI 플랫폼
 - Cloudera(비상장): 엔터프라이즈 데이터 클라우드 플랫폼
-
 ## 산업 내 글로벌 시장 점유율
 
 BigBear.ai는 신생 기업으로, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 기준 정부 계약 AI 솔루션 시장에서 약 2-3%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 국방 및 정보 분야에서 강세를 나타내고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 상업 부문 확대를 위한 'BigBear.ai Enterprise' 플랫폼 출시 (2024년)
@@ -98,10 +82,9 @@ BigBear.ai는 신생 기업으로, 정확한 글로벌 시장 점유율 데이�
 - 자율 시스템용 AI 기술 개발 프로젝트 착수 (2023년)
 - 클라우드 네이티브 AI 플랫폼 'Neuromesh' 발표 (2022년)
 - ESG 이니셔티브 강화: AI 윤리 및 책임 있는 AI 사용 가이드라인 발표 (2022년)
+## 주요주주(지분율)
 
 {{< adsense-infeed >}}
-
-## 주요주주(지분율)
 
 - AE Industrial Partners (약 62%)
 - The Vanguard Group (3.91%)

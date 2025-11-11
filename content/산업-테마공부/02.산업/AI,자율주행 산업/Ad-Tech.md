@@ -1,16 +1,12 @@
 ﻿---
 title: "Ad-Tech"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-11-03T21:50:27+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:27Z" />
-</div>
 #Ad-Tech #애드테크 #AI
 
 ### AI 활용 가능한 광고 시장
@@ -25,19 +21,10 @@ weight: 2
 		3) Ad Network: 광고 인벤토리를 실시간 경매 방식으로 거래 (Google AdX, Xandr)
 		4) SSP: 퍼블리셔가 광고 인벤토리 제공하는 플랫폼 (Google Ad Manager, Magnite)
 		5) 광고 퍼블리셔: 광고 인벤토리 제공 (유튜브, 페이스북, OTT)
-
-{{< adsense-infeed >}}
-
 	- 프로그래매틱 광고 기준으로 광고주가 100을 쓰면 Agency 5~10, DSP 15~20, SSP 10~15, Publisher 60~70을 수취한다.
-
-{{< adsense-infeed >}}
-
 	- 그러나 이러한 구조가 지속된다면 광고주는 수수료를 과다 지출하게 되면서 광고 집행 효율성이 떨어지게 됨. 수수료 이슈로 광고에서 AI를 오히려 활용하지 않는 사례가 늘어나는 셈
-
-{{< adsense-infeed >}}
-
 	- 그 결과 최근에는 Ad-tech 간의 합병이 나타나고 있고, Ad-tech를 제외한 광고에이전시와 퍼블리셔가 직접 거래하는 형태도 발전 중
-
-{{< adsense-infeed >}}
-
+	- 프로그래매틱 광고 기준으로 광고주가 100을 쓰면 Agency 5~10, DSP 15~20, SSP 10~15, Publisher 60~70을 수취한다.
+	- 그러나 이러한 구조가 지속된다면 광고주는 수수료를 과다 지출하게 되면서 광고 집행 효율성이 떨어지게 됨. 수수료 이슈로 광고에서 AI를 오히려 활용하지 않는 사례가 늘어나는 셈
+	- 그 결과 최근에는 Ad-tech 간의 합병이 나타나고 있고, Ad-tech를 제외한 광고에이전시와 퍼블리셔가 직접 거래하는 형태도 발전 중
 	- Ad-tech Value Chain이 축소되면서 Ad-tech는 진화할 것

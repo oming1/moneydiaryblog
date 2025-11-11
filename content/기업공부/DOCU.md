@@ -1,16 +1,12 @@
 ﻿---
 title: "DOCU"
 date: 2024-10-09T08:19:38+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 287
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-08T23:19:38Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #소프트웨어 #테크 #전자서명 #계약관리 
 
 **산업섹터 (Sector, Industry)**
@@ -21,16 +17,15 @@ weight: 287
 **영위사업** DocuSign은 전자 서명 및 계약 관리 솔루션을 제공하는 기업입니다. 주요 제품으로는 전자 서명 플랫폼, 계약 수명 주기 관리(CLMS), 계약 생성 도구 등이 있습니다.
 
 **전방/후방산업**
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 법률 서비스, 금융 서비스, 부동산
     - **핵심 산업:** 법률 서비스 (계약 관리), 금융 서비스 (전자 서명), 부동산 (계약 체결)
     - **관련 기업:**
         - 법률 서비스: Thomson Reuters (미국, TRI)
         - 금융 서비스: JPMorgan Chase (미국, [JPM](/company-analysis/jpm/))
         - 부동산: Zillow Group (미국, ZG)
-          
+
+{{< adsense-infeed >}}
+
 - **후방산업:** 클라우드 서비스, 데이터 보안, 소프트웨어 개발
     - **핵심 산업:** 클라우드 서비스 (데이터 저장), 데이터 보안 (보안 솔루션), 소프트웨어 개발 (플랫폼 개발)
     - **관련 기업:**
@@ -52,30 +47,24 @@ weight: 287
 - **DocuSign eSignature:** 전자 서명 솔루션 (계약 체결 시 사용)
 - **DocuSign CLM:** 계약 수명 주기 관리 (계약 관리 시 사용)
 - **DocuSign Gen for Salesforce:** Salesforce 내 계약 생성 도구 (영업 활동 시 사용)
-
 **주요 판매국가**
-
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가
 - **아시아:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
-
-{{< adsense-infeed >}}
-
+**경쟁업체**
 - **Adobe Sign (미국, [ADBE](/company-analysis/adbe/)):** 전자 서명 솔루션
 - **HelloSign (미국, DBX):** 전자 서명 솔루션
 - **PandaDoc:** 계약 관리 솔루션
 
 **산업 내 글로벌 시장 점유율**
+- DocuSign은 전자 서명 시장에서 약 70%의 점유율을 차지하고 있습니다 (2023년 기준).
 
 {{< adsense-infeed >}}
 
-- DocuSign은 전자 서명 시장에서 약 70%의 점유율을 차지하고 있습니다 (2023년 기준).
-
 **최근 3년 내 주요 이슈**
+
+{{< adsense-infeed >}}
 
 - **2022년:** DocuSign의 CEO 교체 (2022)
 - **2023년:** 전자 서명 솔루션의 보안 강화 (2023)

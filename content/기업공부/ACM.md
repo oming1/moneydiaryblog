@@ -1,16 +1,12 @@
 ﻿---
 title: "ACM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 21
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 ## 핵심 키워드
 
 #인프라컨설팅 #건설관리 #엔지니어링 #디자인 #프로젝트관리 #정부서비스 #지속가능성 #글로벌확장 #기술혁신 #안전성 #협업 #사회적책임 #디지털솔루션 #환경관리 #도시개발 #교통인프라 #에너지인프라 #수자원관리 #건축설계 #사업다각화 #관종 
@@ -53,13 +49,8 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 인프라 컨�
 전방산업:
 
 - 정부 및 공공 기관: 인프라 프로젝트 발주 (U.S. Department of Transportation(U.S. DOT), World Bank(World Bank))
-
-{{< adsense-infeed >}}
-
 - 민간 기업: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, BAM), ExxonMobil(US, [XOM](/company-analysis/xom/)))
-
-{{< adsense-infeed >}}
-
+- 민간 기업: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, BAM), ExxonMobil(US, [XOM](/company-analysis/xom/)))
 후방산업:
 
 - 건설 장비 및 자재 공급업체: Caterpillar(US, [CAT](/company-analysis/cat/)), Vulcan Materials(US, [VMC](/company-analysis/vmc/))
@@ -79,7 +70,6 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 인프라 컨�
 4. **건설 및 시공**: Bechtel(US, BCT), Fluor(US, [FLR](/company-analysis/flr/)) (건설 및 시공)
     
 5. **자재 및 장비 공급**: Caterpillar(US, [CAT](/company-analysis/cat/)) (건설 장비), Vulcan Materials(US, [VMC](/company-analysis/vmc/)) (건설 자재)
-    
 6. **기술 및 디지털 솔루션**: Autodesk(US, [ADSK](/company-analysis/adsk/)) (BIM 소프트웨어), Trimble(US, [TRMB](/company-analysis/trmb/)) (건설 기술)
     
 7. **유지보수 및 운영**: AECOM(US, [ACM](/company-analysis/acm/)) (인프라 유지보수 및 운영)
@@ -91,17 +81,12 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 인프라 컨�
 2. **프로젝트 관리 서비스**: 프로젝트 계획, 예산 관리, 일정 관리 등 (2024년 매출의 약 24%)
     
 3. **환경 및 지속가능성 컨설팅**: 환경 영향 평가, 지속가능성 전략 등 (2024년 매출의 약 15%)
-
-{{< adsense-infeed >}}
-
 4. **정부 서비스**: 미국 정부 및 국제 기구를 위한 컨설팅 및 프로젝트 관리 (2024년 매출의 약 26%)
     
 5. **디지털 및 기술 솔루션**: BIM, AI, IoT 등을 활용한 솔루션 (2024년 매출의 약 10%)
 
 ## 주요 고객
-
 AECOM의 주요 고객은 다음과 같습니다:
-
 1. **미국 정부 기관**: U.S. Department of Transportation(U.S. DOT), U.S. Army Corps of Engineers(USACE)
     
 2. **국제 기구**: World Bank(World Bank), United Nations(UN)
@@ -134,6 +119,8 @@ AECOM은 전 세계 52개국에서 사업을 운영하고 있으며, 주요 매�
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 
 - 물 인프라: 2024년 기준 시장 점유율 1위
@@ -149,11 +136,7 @@ AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 1. **Troy Rudd가 CEO로 임명** (2020년 10월)
     
 2. **AECOM의 지속가능성 이니셔티브 강화** (2023년)
-
-{{< adsense-infeed >}}
-
 3. **2024년 2분기 매출 144억 달러 기록** (2024년)
-    
 4. **글로벌 웰빙 월(Global Well-Being Month) 개최** (2024년)
     
 5. **2024년 4분기 비공인회계기준 순이익 97억 위안 달성** (2025년 2월)
@@ -161,6 +144,8 @@ AECOM은 다음과 같은 분야에서 선두를 차지하고 있습니다:
 ## 주요주주(지분율)
 
 AECOM의 주요 주주와 지분율은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. **Vanguard Group Inc.** (11.66%)
     
@@ -177,5 +162,7 @@ AECOM의 주요 주주와 지분율은 다음과 같습니다:
 3. **Global X U.S. Infrastructure Development ETF - [PAVE](/company-analysis/pave/)**
     
 4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - GRID**
-    
+
+{{< adsense-infeed >}}
+
 5. **Invesco Water Resources ETF - PHO**

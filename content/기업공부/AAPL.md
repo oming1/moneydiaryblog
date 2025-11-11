@@ -1,16 +1,12 @@
 ﻿---
 title: "AAPL"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:37+09:00
 type: docs
 sidebar:
   open: false
 weight: 7
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #스마트폰 #XR #VR #AR #자동차 #반도체 #테크 #소비자전자제품 #가전제품 #정보기술 #아이폰 #맥 #아이패드 #애플워치 #서비스 #앱스토어 #아이클라우드 #태블릿 #컴퓨터 #웨어러블 #프리미엄브랜드 #디자인 #혁신 #iOS #맥OS #애플뮤직 #애플TV플러스 #정보기술 #테크놀로지
 
 ---
@@ -18,11 +14,7 @@ weight: 7
 ## 산업 섹터 (Sector)
 
 섹터: 정보기술 (Information Technology)
-
-{{< adsense-infeed >}}
-
 ## 산업 (Industry)
-
 산업: 컴퓨터 하드웨어 및 소프트웨어 (Computer Hardware & Software)
 
 ---
@@ -34,6 +26,8 @@ Apple Inc.는 1976년 설립된 세계 최대 기술 기업으로, 스마트폰,
 주요 사업부문으로는 iPhone(스마트폰), Mac(데스크톱 및 노트북), iPad(태블릿), 웨어러블·홈·액세서리(Apple Watch, AirPods 등), Services(App Store, iCloud, Apple Music, Apple TV+ 등)로 구성됩니다. 2024년 총 매출 3,908억 달러를 기록했으며, iPhone이 전체 매출의 약 51%를 차지하는 iPhone 중심 포트폴리오를 운영하고 있습니다.
 
 비즈니스 모델 & 수익 모델 요약: 하드웨어 판매와 서비스 수익의 이중 구조로 운영됩니다. 하드웨어 판매로 고객을 유치하고, 서비스를 통해 지속적인 수익을 창출하는 생태계 모델입니다. 서비스 부문이 매출의 25%를 차지하며 고마진 사업으로 성장하고 있습니다.
+
+{{< adsense-infeed >}}
 
 리스크 요소로는 중국 시장 의존도, 공급망 리스크, 스마트폰 시장 포화, 규제 리스크, 경쟁 심화가 있습니다. 주된 원자재는 반도체, 배터리, 디스플레이 패널, 메모리, 알루미늄, 희토류 금속입니다.
 
@@ -119,9 +113,6 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 
 - 자동화된 조립 라인 운영
 - 엄격한 품질 기준 적용
-
-{{< adsense-infeed >}}
-
 **5. 유통 및 판매:**
 
 - 직영 Apple Store 및 온라인 판매
@@ -151,6 +142,8 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 
 **부품 공급 단계:** 핵심 부품 제조 및 공급
 
+{{< adsense-infeed >}}
+
 - Taiwan Semiconductor(TW, [TSM](/company-analysis/tsm/)) - A시리즈, M시리즈 칩셋 제조
 - Samsung(KR, [Samsung](/industry-study/samsung/)) - OLED 디스플레이 및 메모리 공급
 - Sony(JP, [SONY](/company-analysis/sony/)) - 카메라 센서 공급
@@ -178,7 +171,6 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 **iPhone:** 스마트폰 시장 프리미엄 세그먼트, **매출** 비중 약 51% (2024년 기준), 관련 경쟁사 [Samsung](/industry-study/samsung/), [GOOGL](/company-analysis/googl/)
 
 **Services:** App Store, iCloud, Apple Music 등 서비스, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 [GOOGL](/company-analysis/googl/), [MSFT](/company-analysis/msft/)
-
 **Mac:** 데스크톱 및 노트북 컴퓨터, 매출 비중 약 8% (2024년 기준), 관련 경쟁사 [MSFT](/company-analysis/msft/), [DELL](/company-analysis/dell/)
 
 **iPad:** 태블릿 컴퓨터, 매출 비중 약 7% (2024년 기준), 관련 경쟁사 [Samsung](/industry-study/samsung/), [AMZN](/company-analysis/amzn/)
@@ -291,7 +283,6 @@ Apple은 세계 최대 시가총액 기업으로 프리미엄 기술 제품과 �
 AI 기술 도입을 통한 차세대 성장 동력 확보도 주목할 점입니다. 2024년 Apple Intelligence를 발표하며 iPhone, Mac, iPad에 AI 기능을 통합하기 시작했습니다. 이는 기기 교체 주기를 단축시키고 프리미엄 가격을 유지하는 데 기여할 것으로 예상됩니다.
 
 Vision Pro를 통한 AR/VR 시장 진출도 미래 성장 동력입니다. 비록 초기 단계이지만 Apple의 기술력과 생태계를 바탕으로 한 차세대 컴퓨팅 플랫폼으로의 가능성을 보여주고 있습니다.
-
 ---
 
 ## 최근 3년 내 주요 이슈
@@ -302,9 +293,6 @@ Vision Pro를 통한 AR/VR 시장 진출도 미래 성장 동력입니다. 비�
 - 2024년: 중국 시장 iPhone 판매 부진, 현지 브랜드 경쟁 심화 (2024)
 - 2024년: EU 디지털시장법(DMA) 대응, App Store 정책 변경 (2024)
 - 2025년: Vision Pro 본격 출시, 중국 시장 회복 조짐 (2025)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요주주 (지분율)

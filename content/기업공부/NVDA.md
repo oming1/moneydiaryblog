@@ -1,16 +1,12 @@
 ﻿---
 title: "NVDA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 639
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #GPU #인공지능 #딥러닝 #데이터센터 #게이밍 #자율주행 #엣지컴퓨팅 #클라우드컴퓨팅 #고성능컴퓨팅 #CUDA #RTX #Tensor코어 #병렬처리 #시각컴퓨팅 #반도체 #슈퍼컴퓨터 #메타버스 #옴니버스 #GeForce #Quadro #정보기술 #로봇 
 
 ## 최근 이슈
@@ -51,7 +47,9 @@ weight: 639
 		• 잉여현금흐름: Mid-$20Bs (이전 $26.1B)
 		• 상반기 주주환원: $24.3B
 		• 자사주 매입 한도 $60B 확대
-		
+
+{{< adsense-infeed >}}
+
 		🗣️ CEO 코멘트
 		• “Blackwell은 세계가 기다려온 AI 플랫폼으로, 추론 AI 수요 급증이 학습과 추론 성능을 대폭 끌어올리고 있습니다.” – Jensen Huang, CEO
 				
@@ -92,11 +90,7 @@ weight: 639
 		ASIC과의 경쟁: 추론과 훈련은 별개의 워크로드가 아니며, 특히 추론 모델에서는 지속적인 후속 훈련(post-training)이 필요함.
 		
 		총소유비용(TCO) 및 전력 효율성: NVIDIA는 단순히 칩 성능뿐만 아니라, 전력당 성능(performant per watt)과 비용당 성능(performant per dollars)이 최적화된 데이터센터 스케일 솔루션을 제공하는 데 중점을 둠. 전력은 자본만큼이나 중요한 요소가 되었음.
-		
 		NVLink Fusion: 경쟁사 칩도 NVIDIA의 인프라에 통합될 수 있도록 NVLink Fusion을 제공하여 플랫폼의 개방성을 확대하고 있음.
-
-{{< adsense-infeed >}}
-
 		1. 재무 및 운영 전략
 		총이익률 (Gross Margin): 블랙웰 아키텍처의 데이터센터 스케일 구축이 안정화되면서, 사이클 타임 단축과 제품 믹스 개선을 통해 연말까지 총이익률을 70% 중반(mid-70%)대로 회복하는 것을 목표로 함.
 		
@@ -108,7 +102,6 @@ weight: 639
 		대규모 M&A 가능성을 배제하지 않지만, 멜라녹스(Mellanox)와 같은 완벽한 대상을 찾기는 어려움.
 		
 		GPU 교체 주기: GPU의 회계상 감가상각 내용연수는 4~6년이지만, 이전 세대 제품도 여전히 높은 성능을 제공하므로 데이터센터에서 계속 사용됨. 현재 2023년에 배포된 칩에 대한 교체 주기는 아직 도래하지 않음.
-
 		2. 향후 비전 및 중점 사항
 		회사의 최우선 과제: 다음 아키텍처를 1년 주기에 맞춰 차질 없이 출시하고, 그 다음 세대의 아키텍처를 준비하여 AI 기술의 최첨단을 선도하는 것임.
 		
@@ -119,9 +112,6 @@ weight: 639
 ---
 
 ## 산업섹터
-
-{{< adsense-infeed >}}
-
 섹터: 정보기술
 
 산업: 반도체
@@ -133,6 +123,8 @@ NVIDIA Corporation은 1993년 설립된 미국의 기술 기업으로, 그래픽
 ## 핵심 경쟁력
 
 NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니다. NVIDIA는 GPU 시장에서 선도적 위치를 차지하고 있으며, 지속적인 R&D 투자를 통해 기술 우위를 유지하고 있습니다.특히 CUDA 플랫폼은 NVIDIA의 독보적인 경쟁력입니다. CUDA를 통해 개발자들은 GPU의 병렬 처리 능력을 AI, 과학 계산 등 다양한 분야에 활용할 수 있게 되었습니다. 이는 NVIDIA GPU가 단순한 그래픽 처리를 넘어 AI와 고성능 컴퓨팅 시장으로 영역을 확장하는 데 큰 역할을 했습니다.또한 NVIDIA는 데이터 센터, 자율주행, 로보틱스 등 다양한 분야에서 파트너십을 구축하며 AI 생태계를 확장하고 있습니다. 이러한 전략은 NVIDIA의 기술이 다양한 산업에 깊이 침투하게 만들어, 장기적인 성장 동력을 확보하는 데 기여하고 있습니다.NVIDIA의 또 다른 강점은 소프트웨어 역량입니다. 하드웨어뿐만 아니라 CUDA, cuDNN 등의 소프트웨어 도구를 제공함으로써, 개발자들이 NVIDIA 플랫폼에서 효율적으로 작업할 수 있는 환경을 조성하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
@@ -150,9 +142,6 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - 소프트웨어 개발: GPU 최적화 도구 및 라이브러리 개발 (Red Hat(US, RHT), VMware(US, [VMW](/company-analysis/vmw/)))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. R&D: NVIDIA(US, [NVDA](/company-analysis/nvda/)) (GPU 아키텍처 및 AI 알고리즘 개발)
 2. 설계: NVIDIA(US, [NVDA](/company-analysis/nvda/)), ARM(UK, [ARM](/company-analysis/arm/)) (칩 설계 및 IP 라이선싱)
 3. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)), Samsung Electronics(KR, 005930) (반도체 파운드리)
@@ -162,7 +151,6 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 7. 최종 사용자: 게임 개발사, 클라우드 서비스 제공업체, 자동차 제조사 등
 
 ## 주요제품
-
 - GeForce 시리즈: 게이밍용 GPU, 매출의 약 45% (2024년 기준)
 - [데이터센터](/industry-study/데이터센터/) GPU: AI 및 고성능 컴퓨팅용, 매출의 약 40% (2024년 기준)
 - Quadro/NVIDIA RTX: 전문가용 그래픽 카드, 매출의 약 10% (2024년 기준)
@@ -183,7 +171,6 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 게이밍 PC 및 워크스테이션용 GPU
 
 ## 주요 판매국가
-
 미국, 중국, 대만, 일본, 한국, 유럽 주요국
 
 ## 경쟁업체
@@ -197,7 +184,11 @@ NVIDIA의 핵심 경쟁력은 GPU 기술력과 AI 생태계 구축에 있습니�
 - Graphcore(UK, Graphcore) - IPU (Intelligence Processing Unit)
 - Cerebras Systems(US, Cerebras Systems) - 웨이퍼 스케일 AI 칩
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 NVIDIA는 독립형 GPU 시장에서 2024년 2분기 기준 약 80%의 점유율을 보유하고 있습니다. 최근 3년간 AI 붐으로 인해 시장 점유율이 꾸준히 상승하는 추세입니다.
 

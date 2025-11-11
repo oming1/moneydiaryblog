@@ -1,16 +1,12 @@
 ﻿---
 title: "ETOR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 325
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 eToro Group Ltd는 글로벌 소셜 트레이딩 및 멀티자산 투자 플랫폼으로, 2007년 이스라엘에서 설립되었습니다. 2025년 5월 나스닥 상장을 통해 52억 달러 평가액을 기록했으며, 38백만 명의 등록 사용자와 3.5백만 개의 자금 계좌를 보유한 핀테크 선두 기업입니다.
 
 ---
@@ -18,7 +14,6 @@ eToro Group Ltd는 글로벌 소셜 트레이딩 및 멀티자산 투자 플랫�
 ## 핵심 키워드
 
 #소셜트레이딩 #멀티자산플랫폼 #제로수수료주식 #암호화폐거래 #카피트레이딩 #AI투자분석 #글로벌투자자산 #모바일트레이딩 #금융교육플랫폼 #ESG투자 #파생상품 #ETF #옵션거래 #프랙셔널주식 #신용거래 #API연동 #리스크관리 #블록체인기술 #글로벌규제준수 #IPO
-
 ---
 
 ## 산업섹터
@@ -35,7 +30,6 @@ eToro Group Ltd는 글로벌 소셜 트레이딩 및 멀티자산 투자 플랫�
 
 **기업소개**  
 eToro는 소셜 트레이딩 기능을 통해 개인 투자자들이 전문 트레이더의 전략을 복사할 수 있는 혁신적인 플랫폼을 제공합니다. 2024년 기준 126억 달러 매출을 기록했으며, 주식·암호화폐·ETF·원자재 등 3,000개 이상의 자산을 지원합니다. 주요 사업 부문은 다음과 같습니다:
-
 - **소셜 트레이딩**: 카피트레이더™ 기능으로 10만 명 이상의 전문 투자자 전략 복제
     
 - **멀티자산 거래**: 제로 수수료 주식 거래, 암호화폐 80종, 레버리지 상품
@@ -59,7 +53,6 @@ eToro는 소셜 트레이딩 기능을 통해 개인 투자자들이 전문 트�
 1. **소셜 트레이딩 선도**: 2010년 세계 최초 카피트레이딩 기술 도입, 15년간 축적된 사용자 행동 데이터 기반 AI 추천 시스템
     
 2. **글로벌 규제 인프라**: CySEC(키프로스), FCA(영국), ASIC(호주) 등 7개국 금융 당국 라이선스 보유
-    
 3. **사용자 친화적 인터페이스**: 초보자도 3분 내 계좌 개설 및 거래 가능한 UX/UI
     
 4. **다각화된 수익원**: 수수료(45%), 스프레드(30%), 프리미엄 서비스(25%)로 구성된 안정적 수익 구조
@@ -91,13 +84,8 @@ _디지털 서비스 기업으로 물리적 제조 공정 없음_
 ---
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 **후방산업**
-
-{{< adsense-infeed >}}
-
+**후방산업**
 - **클라우드 서비스**: AWS([AMZN](/company-analysis/amzn/)), Microsoft Azure([MSFT](/company-analysis/msft/))
     
 - **결제 처리**: Visa([V](/company-analysis/v/)), Mastercard([MA](/company-analysis/ma/))
@@ -144,7 +132,9 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 1. **시장 데이터**: 글로벌 금융 시장 실시간 정보 (주 공급업체: RefinitivRefinitiv)
     
 2. **클라우드 용량**: 초당 100만 건 이상 거래 처리 인프라 (주 공급업체: AWS[AMZN](/company-analysis/amzn/))
-    
+
+{{< adsense-infeed >}}
+
 3. **보안 인증서**: SSL/TLS 암호화 프로토콜 (주 공급업체: DigiCert[DG](/company-analysis/dg/)))
 
 ---
@@ -158,9 +148,6 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 3. Visa([V](/company-analysis/v/)) - 직불카드 결제 시스템 통합
     
 4. Bocconi University(이탈리아) - 금융 교육 콘텐츠 제휴
-
-{{< adsense-infeed >}}
-
 5. 개인 투자자: 미국·유럽·아시아 75개국 3,500만 명
 
 ---
@@ -194,7 +181,9 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 7. Webull(WB
     
 8. AvaTrade(아일랜드, 비상장)
-    
+
+{{< adsense-infeed >}}
+
 9. XTB(XTB)
     
 10. Pepperstone(호주, 비상장)
@@ -252,7 +241,6 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 1. Global X FinTech ETF - FINX
     
 2. ARK Fintech Innovation ETF - ARKF
-    
 3. Invesco NASDAQ Internet ETF - PNQI
     
 4. iShares Expanded Tech-Software Sector ETF - IGV

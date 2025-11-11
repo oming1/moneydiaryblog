@@ -1,16 +1,12 @@
 ﻿---
 title: "BWXT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 162
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #BWXT #핵심추진체계 #원자력부품 #해군원자로 #항공모함 #잠수함 #TRISO연료 #미소형원자로 #마이크로리액터 #우주원자력 #핵열추진 #방위산업 #NNSA #DOE #의료동위원소 #방사선약품 #HALEU #고농축저농도우라늄 #비파괴검사 #정밀단조 #원자력안전 #규제준수 #공급망안보 #국방예산 #장기계약 #서비스수익
 
 ---
@@ -25,11 +21,12 @@ weight: 162
 		20년 이상 축적된 TRISO 제조 경험 활용, 상업 원자로 연료 공급 주도 목표
 		
 		■ 세부 내용:
-		
+
+{{< adsense-infeed >}}
+
 		TRISO 연료: 고온 안정성·다중 피복 구조로 차세대 고온가스로 설계 선호 연료
 		
 		BWXT, 美 국방부 ‘Pele 프로그램’(1.5MW 이동형 가스냉각 원자로)용 TRISO 제작 완료
-		
 		신설 자회사, 초기 원자로 연료 공급 및 제조 공정 최적화 → 비용 절감·대량 공급 대비
 		
 		린치버그(버지니아) 혁신 캠퍼스에서 TRISO 최적화 프로그램 운영 중, 신규 그린필드 생산시설 검토
@@ -118,13 +115,8 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 연료 기술 포트폴리오: 해군 연료 + TRISO 고안전 연료 + HALEU 가공/제조 역량
 
 - 정부·프라임과의 신뢰: 수십 년간 제약 조건을 맞추며 무결점 공급 → 전환 비용·리스크가 높아 대체 어렵다
-
-{{< adsense-infeed >}}
-
 - 프로그램 관리 능력: 다년·다부처 계약, 보안·규제·원가·공정을 동시에 관리하는 조직 DNA
-
-{{< adsense-infeed >}}
-
+- 프로그램 관리 능력: 다년·다부처 계약, 보안·규제·원가·공정을 동시에 관리하는 조직 DNA
 ---
 
 ### 핵심 기술
@@ -132,7 +124,9 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 해군 원자로 구성품 제작:  
     • 기술: 대형 단조·열처리→고정밀 5축 가공→선진 용접(EBW/TIG 등)→전수 비파괴검사(초음파, 방사선, 침투)  
     • 특징: 원자로급 소재(니켈합금, 저합금강), 공차·결함 기준이 극도로 엄격
-    
+
+{{< adsense-infeed >}}
+
 - 핵연료 제조(해군/상업/차세대)  
     • 기술: 분말 공정→성형/소결→피복관(Zr합금 등) 장전→어셈블리/고열시험/임계안전관리  
     • TRISO: UCO 커널 합성→PyC/SiC 다층 피복(유동층)→배치별 파괴시험·리텐션 시험
@@ -166,6 +160,8 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 
 5단계: 통합·출하·현장지원
 
+{{< adsense-infeed >}}
+
 - 시스템 통합/기능시험 → 해군 조선소(HII [HII](/company-analysis/hii/), GD Electric Boat [GD](/company-analysis/gd/))·NASA/프라임 현장 납품 → 기술자 상주 지원
 
 ---
@@ -181,6 +177,8 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 의료: Cardinal Health(US, CAH), GE HealthCare(US, GEHC) – 동위원소 유통/키트 조립
 
 후방산업(원자재/부품 공급):
+
+{{< adsense-infeed >}}
 
 - 우라늄/HALEU: Centrus Energy(US, [LEU](/company-analysis/leu/)), Cameco(CA, [CCJ](/company-analysis/ccj/)) – 전주기 공급
 - 특수합금/단조: Allegheny Technologies(US, ATI), Carpenter Technology(US, [CRS](/company-analysis/crs/)), Japan Steel Works(JP, 5631.T)
@@ -244,9 +242,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 ### 주된 영향을 미치는 원자재
 
 - 우라늄/HALEU: 연료 원자재, 주요 공급지 북미/유럽 – Centrus Energy(US, [LEU](/company-analysis/leu/)), Cameco(CA, [CCJ](/company-analysis/ccj/))
-
-{{< adsense-infeed >}}
-
 - 지르코늄/특수합금(연료 피복·원자로 소재): 미국/일본/유럽 – Allegheny Technologies(US, ATI), Carpenter Tech(US, [CRS](/company-analysis/crs/)), JSW(JP, 5631.T)
 
 - 고니켈합금·특수용접재: 내방사선·내식성 핵심 소재 – ATI/ATI, VSMPO(러·제재 리스크로 다변화 “확인 필요”)
@@ -294,7 +289,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 의료 동위원소(Mo-99 등): 시장 과점 구조 속 북미 자립 시도(점유율 수치 공시 제한, “확인 필요”)
 
 3년 추이: 해군 프로그램 확대로 군수 부문 지위 강화, 차세대 연료/우주·마이크로 과제 증가로 신사업 파이프라인 확장.
-
 ---
 
 ### 기업 특징 및 성장성
@@ -320,6 +314,8 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 2023년: DRACO(우주 핵열추진) 관련 파트너십 진전(프라임과의 설계·제조 역할 명확화), 해군 잠수함/항모 라인의 생산 캡acity 증설 계획
 
 - 2022년: DoD 분산전력/마이크로 리액터 개념 검증 과제 선정(원자로 모듈·연료·구조재 솔루션 제시), 일부 정부시설 운영/정비 JV 재편(범위 변경 “확인 필요”)
+
+{{< adsense-infeed >}}
 
 ---
 

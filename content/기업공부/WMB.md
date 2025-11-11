@@ -1,16 +1,12 @@
 ﻿---
 title: "WMB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 966
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 ## 기업 개요
 
 ## 핵심 키워드
@@ -24,19 +20,20 @@ weight: 966
 
 ## 사업 현황
 
+{{< adsense-infeed >}}
+
 ## 영위사업
 
 Williams Companies(NYSE: WMB)는 미국의 주요 에너지 인프라 기업으로, [천연가스](/industry-study/천연가스/) 처리, 수송, 저장을 전문으로 합니다. 주요 사업 부문은 송전 및 멕시코만, 북동부 G&P, 서부, 가스 및 [NGL](/industry-study/ngl/) 마케팅 서비스입니다. 회사는 33,000마일의 파이프라인 네트워크를 보유하고 있으며, 주요 자산으로는 Transco와 Northwest Pipeline이 있습니다. Williams는 마르셀러스, 유티카, 바넷, 이글 포드, 헤인즈빌 등 주요 셰일 지역에서 미드스트림 활동을 수행합니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 네트워크와 전략적 자산 위치에 있습니다. Transco 파이프라인은 미국 동부 해안을 따라 운영되며, 주요 인구 밀집 지역과 LNG 수출 터미널을 연결합니다. 회사의 미드스트림 자산은 주요 셰일 생산 지역에 위치해 있어 생산자들에게 필수적인 서비스를 제공합니다. Williams의 통합된 가치 사슬은 천연가스의 생산부터 최종 소비자까지 효율적인 운송을 가능케 합니다.
 
 ## 산업 구조
 
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 - 산업용 에너지: Dow Chemical(US, [DOW](/company-analysis/dow/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
@@ -48,8 +45,9 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 - 천연가스 생산: EQT Corporation(US, [EQT](/company-analysis/eqt/)), Chesapeake Energy(US, CHK)
 - 파이프라인 장비: Caterpillar(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 천연가스 처리 기술: Honeywell(US, [HON](/company-analysis/hon/)), Schlumberger(US, [SLB](/company-analysis/slb/))
-
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 천연가스 생산: EQT Corporation(US, [EQT](/company-analysis/eqt/)), Chesapeake Energy(US, CHK)
 2. 천연가스 수집: Williams Companies(US, [WMB](/company-analysis/wmb/)), Kinder Morgan(US, [KMI](/company-analysis/kmi/))
@@ -60,9 +58,6 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 7. LNG 수출: Cheniere Energy(US, [LNG](/industry-study/lng/)), Sempra Energy(US, [SRE](/company-analysis/sre/))
 
 ## 제품 및 고객
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 천연가스 수송 서비스 (매출의 약 65%)
@@ -77,12 +72,11 @@ Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analys
 ## 주요 판매국가
 
 미국 (매출의 100%)
-
-{{< adsense-infeed >}}
-
 ## 경쟁 현황
 
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Energy Transfer(US, [ET](/company-analysis/et/)), TC Energy(CA, TRP), ONEOK(US, [OKE](/company-analysis/oke/)), Enbridge(CA, ENB), Enterprise Products Partners(US, [EPD](/company-analysis/epd/)), Cheniere Energy(US, [LNG](/industry-study/lng/)), Plains All American Pipeline(US, PAA), Targa Resources(US, [TRGP](/company-analysis/trgp/)), Magellan Midstream Partners(US, MMP)
 
@@ -98,13 +92,8 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - LNG 수출 증가에 따른 Transco 파이프라인 확장 프로젝트 완료 (2022)
 - 저탄소 수소 운송을 위한 파이프라인 네트워크 개발 계획 발표 (2021)
 - COVID-19 팬데믹으로 인한 일시적 수요 감소 극복 및 실적 회복 (2021)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
+## 주요주주(지분율)
 - Vanguard Group (9.8%)
 - BlackRock (8.7%)
 - State Street Corporation (5.1%)
@@ -112,7 +101,6 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - Geode Capital Management (1.9%)
 
 ## 관련 ETF
-
 - Energy Select Sector SPDR Fund - XLE
 - Alerian MLP ETF - AMLP
 - Global X MLP & Energy Infrastructure ETF - MLPX
@@ -120,5 +108,7 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - Vanguard Energy ETF - VDE
 
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

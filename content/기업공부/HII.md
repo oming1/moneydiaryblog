@@ -1,16 +1,12 @@
 ﻿---
 title: "HII"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 406
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #군함건조 #방위산업 #항공모함 #잠수함 #미해군 #방위계약 #조선소 #미션기술 #사이버보안 #정부서비스 #항공우주 #혁신 #국가안보 #디지털변환 #첨단제조 #인공지능 #무인시스템 #엔지니어링 #관종
@@ -27,13 +23,12 @@ Huntington Ingalls Industries(HII)는 미국 최대의 군함 건조 회사이�
 1. Newport News Shipbuilding: 핵추진 항공모함과 잠수함 건조
     
 2. Ingalls Shipbuilding: 비핵추진 함정 건조
-    
-3. Mission Technologies: 무인 시스템, AI, 머신러닝, 사이버보안, 정보/감시/정찰(ISR) 솔루션 제공
-
-HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업으로, 미 해군을 위한 다양한 함정 클래스를 건조해왔습니다. 최근에는 디지털 설계 및 건조 기술을 도입하고 첨단 제조 시설에 투자하는 등 혁신에 주력하고 있습니다.
 
 {{< adsense-infeed >}}
 
+3. Mission Technologies: 무인 시스템, AI, 머신러닝, 사이버보안, 정보/감시/정찰(ISR) 솔루션 제공
+
+HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업으로, 미 해군을 위한 다양한 함정 클래스를 건조해왔습니다. 최근에는 디지털 설계 및 건조 기술을 도입하고 첨단 제조 시설에 투자하는 등 혁신에 주력하고 있습니다.
 ## 핵심 경쟁력
 
 1. 독점적 핵추진 항공모함 건조 능력
@@ -55,19 +50,14 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 - 정부 서비스: 연방 정부 기관 (Department of Homeland Security)
 
 후방산업:
-
 - 철강 및 금속: 함정 건조용 원자재 (Nucor(US, [NUE](/company-analysis/nue/)), U.S. Steel(US, [X](/company-analysis/x/)))
     
 - 전자 및 센서: 함정 시스템용 부품 (Raytheon Technologies(US, [RTX](/company-analysis/rtx/)), L3Harris(US, [LHX](/company-analysis/lhx/)))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 연구개발: HII 내부 R&D팀, 정부 연구소 협력
     
 2. 원자재 조달: 철강, 비철금속 공급업체
-    
 3. 설계 및 엔지니어링: HII 엔지니어링 팀
     
 4. 제조 및 건조: Newport News, Ingalls 조선소
@@ -111,11 +101,10 @@ HII는 135년 이상의 역사를 가진 미국 국가 안보의 핵심 기업�
 1. General Dynamics(US, [GD](/company-analysis/gd/)): 잠수함 및 수상함 건조
     
 2. Lockheed Martin(US, [LMT](/company-analysis/lmt/)): 항공우주 및 방위 시스템
-    
-3. Northrop Grumman(US, [NOC](/company-analysis/noc/)): 항공우주 및 방위 기술
 
 {{< adsense-infeed >}}
 
+3. Northrop Grumman(US, [NOC](/company-analysis/noc/)): 항공우주 및 방위 기술
 4. BAE Systems(UK, BA.L): 함정 및 잠수함 건조
     
 5. Raytheon Technologies(US, [RTX](/company-analysis/rtx/)): 방위 및 항공우주 기술
@@ -147,9 +136,6 @@ HII는 미국 군함 건조 시장에서 독보적인 위치를 차지하고 있
 ## 관련 ETF
 
 1. iShares U.S. Aerospace & Defense ETF - ITA
-
-{{< adsense-infeed >}}
-
 2. SPDR S&P Aerospace & Defense ETF - XAR
     
 3. Invesco Aerospace & Defense ETF - [PPA](/industry-study/ppa/)

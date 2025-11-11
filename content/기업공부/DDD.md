@@ -1,16 +1,12 @@
 ﻿---
 title: "DDD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 266
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #3D프린팅 #적층제조 #프로토타이핑 #의료기기 #항공우주 #자동차 #산업용3D프린터 #소재개발 #디지털제조 #맞춤형생산 #헬스케어솔루션 #금속3D프린팅 #플라스틱3D프린팅 #소프트웨어솔루션 #온디맨드제조 #3D스캐닝 #바이오프린팅 #치과용3D프린팅 #제조혁신 #지속가능생산
@@ -21,10 +17,9 @@ weight: 266
 산업: 3D프린팅
 
 ## 영위사업
+3D Systems Corporation(NYSE: DDD)은 3D 프린팅 및 적층 제조 솔루션을 제공하는 글로벌 기업입니다. 1986년 설립된 이 회사는 3D 프린팅 기술의 선구자로, 산업용 및 전문가용 3D 프린터, 프린팅 재료, 소프트웨어 솔루션을 개발 및 제공합니다.주요 사업 부문은 다음과 같습니다:
 
 {{< adsense-infeed >}}
-
-3D Systems Corporation(NYSE: DDD)은 3D 프린팅 및 적층 제조 솔루션을 제공하는 글로벌 기업입니다. 1986년 설립된 이 회사는 3D 프린팅 기술의 선구자로, 산업용 및 전문가용 3D 프린터, 프린팅 재료, 소프트웨어 솔루션을 개발 및 제공합니다.주요 사업 부문은 다음과 같습니다:
 
 1. 하드웨어: 산업용 및 전문가용 3D 프린터 제조
 2. 재료: 플라스틱, 금속, 세라믹 등 다양한 3D 프린팅 소재 개발 및 공급
@@ -34,9 +29,6 @@ weight: 266
 2024년 기준 총 매출은 약 5억 5천만 달러였으며, 의료, 항공우주, 자동차, 방위 산업 등 다양한 분야에 솔루션을 제공하고 있습니다. 최근에는 의료 및 치과 분야에서의 맞춤형 솔루션 개발과 금속 3D 프린팅 기술 향상에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 기술 혁신: 30년 이상의 3D 프린팅 기술 개발 경험과 지속적인 R&D 투자
 2. 다양한 제품 포트폴리오: 플라스틱, 금속, 세라믹 등 다양한 소재와 프린팅 기술 보유
 3. 산업별 전문성: 의료, 항공우주, 자동차 등 주요 산업에 대한 깊이 있는 이해와 솔루션 제공
@@ -45,6 +37,8 @@ weight: 266
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 전방산업:
 
 - 의료기기: Stryker Corporation(US, [SYK](/company-analysis/syk/)), Zimmer Biomet(US, [ZBH](/company-analysis/zbh/))
@@ -52,7 +46,6 @@ weight: 266
 - 자동차: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/))
 
 후방산업:
-
 - 소재 공급: BASF(DE, BAS), Evonik Industries(DE, EVK)
 - 레이저 시스템: IPG Photonics(US, IPGP), Coherent(US, [COHR](/company-analysis/cohr/))
 - 소프트웨어: Autodesk(US, [ADSK](/company-analysis/adsk/)), Dassault Systèmes(FR, DSY)
@@ -65,13 +58,9 @@ weight: 266
 - 온디맨드 제조 서비스: 맞춤형 부품 제작, 매출의 약 15% (2024년 기준)
 
 ## 주요 판매국가
-
 미국, 독일, 영국, 프랑스, 일본, 중국, 한국, 이탈리아, 캐나다, 호주
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Stratasys(US, SSYS): 산업용 및 데스크톱 3D 프린터
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)): Multi Jet Fusion 3D 프린팅 기술
 - EOS GmbH(DE): 산업용 금속 및 폴리머 3D 프린팅 시스템
@@ -89,7 +78,6 @@ weight: 266
 - 치과용 3D 프린팅 솔루션 포트폴리오 확대 (2022년)
 - 항공우주 분야 인증 획득으로 부품 생산 확대 (2023년)
 - 지속가능성 이니셔티브 발표: 2030년까지 탄소 배출량 50% 감축 목표 설정 (2022년)
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (10.54%)
@@ -97,6 +85,8 @@ weight: 266
 - State Street Corporation (3.81%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - 3D Printing ETF - PRNT
 - ARK Autonomous Technology & Robotics ETF - ARKQ

@@ -1,16 +1,12 @@
 ﻿---
 title: "TGB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 864
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #타세코마인즈 #TGB #구리 #몰리브덴 #광산기업 #베이스메탈 #캐나다광산 #GibraltarMine #FlorenceCopper #ArizonaCopper #Taseko #탐사 #개발 #생산 #에너지전환 #전기차수혜 #원자재가격 #글로벌공급망 #운영효율 #ESG경영 #환경규제 #광업기술 #노천채굴 #수익성증대 #구리가격 #미국광산 #지속가능광업 #지역사회 #광물자원 #캐나다산업 #미국산업 #지정학적리스크 #광업투자 #광업성장
 
 ---
@@ -93,14 +89,13 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 ---
 
 ### 핵심 기술
-
-{{< adsense-infeed >}}
-
 - **ISCR (In-Situ Copper Recovery) 기술:** 지하 광체에서 직접 구리를 용해하여 추출, 환경 발자국 최소화.
 - **선광 효율성 기술:** 광물 회수율을 높이고 폐기물을 줄이는 첨단 부유 선광 기술.
 - **광산 자동화 및 디지털화:** 생산 데이터 분석을 통한 운영 최적화 및 예방 유지보수.
 - **수자원 관리:** 건조 지역에서의 효율적인 물 사용 및 재활용 기술.
 - **지질 모델링 및 탐사:** AI 기반 데이터 분석을 통한 광체 예측 및 탐사 성공률 증대.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -122,6 +117,8 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 ---
 
 ### 전방산업 / 후방산업
+
+{{< adsense-infeed >}}
 
 **전방산업 (제품 사용 산업):**
 
@@ -160,9 +157,6 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 ---
 
 ### 주요 제품
-
-{{< adsense-infeed >}}
-
 - **구리 (Copper):** 농축물 및 캐소드 형태, 매출 비중 90% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), Hudbay Minerals(US, [HBM](/industry-study/hbm/)), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **몰리브덴 (Molybdenum):** 농축물 형태, 매출 비중 10% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), SCM Minera Escondida.
 
@@ -175,9 +169,6 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **황산 (Sulfuric Acid):** 선광 및 ISCR 공정용.
 - **폭발물:** 채굴용.
 - **노동력:** 광산 운영 인력.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 고객
@@ -185,9 +176,6 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **글로벌 금속 제련소:** 중국, 일본, 한국, 유럽의 제련소.
 - **금속 트레이딩 회사:** Glencore, Trafigura 등.
 - **합금강 제조업체:** 몰리브덴 구매자.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가
@@ -195,7 +183,6 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **아시아 (주로 중국):** 50% (2023년 기준, 3년간 +5%p).
 - **유럽:** 30% (2023년 기준, 3년간 -2%p).
 - **북미:** 20% (2023년 기준, 3년간 -3%p).
-
 ---
 
 ### 경쟁업체
@@ -213,7 +200,6 @@ Taseko Mines Ltd는 1980년에 설립된 캐나다 밴쿠버 기반의 광산 �
 - **글로벌 구리 시장:** 약 0.1-0.2% (중소형 광산 기업).
 - **글로벌 몰리브덴 시장:** 약 0.5-1% (중소형 광산 기업).  
     (Taseko Mines는 구리 시장에서 중소형 플레이어이지만, Florence Copper 프로젝트를 통해 중요한 성장 잠재력을 가지고 있습니다.)
-
 ---
 
 ### 기업 특징 및 성장성

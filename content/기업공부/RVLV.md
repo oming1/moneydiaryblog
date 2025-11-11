@@ -1,16 +1,12 @@
 ﻿---
 title: "RVLV"
 date: 2024-12-13T20:44:57+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 765
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T11:44:57Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #임의소비재 #의류 #패션 #인터넷소매
 
 Revolve Group, Inc.(RVLV)는 밀레니얼 세대와 Z세대를 대상으로 하는 온라인 패션 리테일러입니다.
@@ -22,8 +18,9 @@ Revolve Group, Inc.(RVLV)는 밀레니얼 세대와 Z세대를 대상으로 하�
 
 ## 영위사업
 
-Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영합니다:
+{{< adsense-infeed >}}
 
+Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영합니다:
 1. REVOLVE: 프리미엄 의류, 신발, 뷰티, 액세서리, 홈 제품을 제공
 2. FWRD: 고급 럭셔리 브랜드 제품을 제공
 
@@ -38,17 +35,19 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 
 ## 후방산업
 
+{{< adsense-infeed >}}
+
 - 의류 제조업체
 - 물류 및 유통 기업
 
-## 전방산업
-
-- 소비자
-- 패션 인플루언서
-
 {{< adsense-infeed >}}
 
+## 전방산업
+- 소비자
+- 패션 인플루언서
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 제품 소싱: 신흥, 기성, 자체 브랜드
 2. 플랫폼 운영: Revolve Group
@@ -56,18 +55,16 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 4. 판매 및 배송: 웹사이트 및 모바일 앱
 
 ## 주요제품
-
 - 의류
 - 신발
 - 액세서리
 - 뷰티 제품
 - 홈 제품
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국 및 국제 시장
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -75,9 +72,6 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 - Amazon(US, [AMZN](/company-analysis/amzn/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈

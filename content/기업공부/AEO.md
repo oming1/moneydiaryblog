@@ -1,16 +1,12 @@
 ﻿---
 title: "AEO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 34
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #소매 #의류 #퍼스널케어 #청바지 #AmericanEagle #임의소비재 #의류소매
 
 ## 산업섹터
@@ -19,13 +15,8 @@ weight: 34
 산업: 의류 소매(Apparel Retail)
 
 ## 영위사업
-
 American Eagle Outfitters는 청소년과 젊은 성인을 대상으로 의류, 액세서리, 개인용품을 제공하는 글로벌 전문 소매업체입니다.
-
-{{< adsense-infeed >}}
-
 글로벌 전문 소매업체다. 이 회사는 American Eagle 및 Aerie 브랜드로 의류, 액세서리 및 퍼스널 케어 제품을 제공한다.  
-
 이 회사는 American Eagle과 Aerie 두 부문으로 운영된다.  
   
 American Eagle은 미국 청바지 및 의류 브랜드다. Aerie는 속옷, 의류, 액티브웨어, 수영 컬렉션을 제공하는 라이프스타일 브랜드다.  
@@ -38,13 +29,8 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 이 회사는 또한 프리미엄 남성복 브랜드인 Todd Snyder New York(Todd Snyder)도 운영한다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
+## 후방산업
 - 섬유 제조업체: 의류 생산을 위한 원자재 공급
 - 물류 및 유통업체: 제품 배송 및 유통 지원
 
@@ -62,9 +48,6 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 5. 마케팅 및 판매: American Eagle Outfitters (자체 마케팅)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - American Eagle 브랜드: 청바지, 의류, 액세서리 (매출의 약 64%)
 - Aerie 브랜드: 여성 속옷, 의류, 수영복 (매출의 약 32%)
 - Todd Snyder New York: 남성 프리미엄 의류
@@ -72,16 +55,19 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 캐나다, 멕시코, 홍콩, 아시아, 유럽, 라틴 아메리카, 중동
 
 ## 경쟁업체
-
 - Urban Outfitters(US, [URBN](/company-analysis/urbn/)): 청년층 대상 의류
 - Gap Inc.(US, [GPS](/company-analysis/gps/)): 캐주얼 의류
 - Ralph Lauren(US, [RL](/company-analysis/rl/)): 프리미엄 의류
 - Abercrombie & Fitch(US, [ANF](/company-analysis/anf/)): 청년층 대상 의류
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 

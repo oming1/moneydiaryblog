@@ -1,16 +1,12 @@
 ﻿---
 title: "PG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 688
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #소비자방어주 #가정용품및개인용품 #세제 #헬스케어
 
 #### 산업섹터 및 산업
@@ -19,9 +15,6 @@ weight: 688
 - **Industry**: 가정 및 개인용 제품 (Household & Personal Products)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는 회사입니다. 주요 사업 부문은 다음과 같습니다:
 
 - **Beauty**: 헤어 케어, 스킨 케어, 퍼스널 케어 제품
@@ -41,6 +34,8 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 
 #### 밸류체인
 
+{{< adsense-infeed >}}
+
 - **원재료 공급**: 화학 물질, 포장재
     - **대표 회사**: Dow Inc. (미국, [DOW](/company-analysis/dow/)), International Paper Co. (미국, [IP](/company-analysis/ip/))
 - **제조**: 제품 생산 및 포장
@@ -51,21 +46,18 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
     - **대표 회사**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), Amazon.com Inc. (미국, [AMZN](/company-analysis/amzn/))
 
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - 세제 및 가정용품: Tide, Ariel, Downy (매출의 약 33%)
 - 미용 및 그루밍: Olay, Pantene, Gillette (매출의 약 30%)
 - 유아 및 여성용품: Pampers, Always (매출의 약 25%)
 - [헬스케어](/industry-study/2산업헬스케어/): Crest, Oral-B (매출의 약 12%)
+#### 주요 판매국가
 
 {{< adsense-infeed >}}
 
-#### 주요 판매국가
-
 북미(약 45%), 유럽(약 23%), 아시아태평양(약 18%), 기타 지역(약 14%) (2023년 기준)
-
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Colgate-Palmolive Co. (미국, CL)**: 구강 케어 제품
 - **Kimberly-Clark Corp. (미국, KMB)**: 기저귀 및 여성용품
@@ -73,7 +65,6 @@ Procter & Gamble (PG)은 전 세계적으로 브랜드 소비재를 제공하는
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 건강 관리 제품
 
 #### 산업 내 글로벌 시장 점유율
-
 P&G는 여러 제품 카테고리에서 선두 또는 2위 자리를 차지하고 있으며, 전체 시장점유율은 약 20% 수준으로 추정됩니다 (2023년 기준).
 
 #### 최근 3년 내 주요 이슈

@@ -1,16 +1,12 @@
 ﻿---
 title: "ET"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 323
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 
 ## 산업 섹터
@@ -23,6 +19,8 @@ weight: 323
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 Energy Transfer LP는 북미 최대의 미드스트림 에너지 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. NGL 파이프라인 및 서비스: 천연가스 처리 및 관련 NGL 마케팅 서비스 제공
@@ -31,6 +29,8 @@ Energy Transfer LP는 북미 최대의 미드스트림 에너지 서비스 제�
 4. [석유화학](/industry-study/석유화학/) 및 정제 제품 서비스: 프로필렌 분류, 부탄 이성질화, 옥탄 향상 등
 
 Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유하고 있으며, 천연가스, NGLs, 원유, 석유화학 제품 및 정제 제품의 생산자와 소비자를 연결하는 통합 에너지 인프라 네트워크를 운영하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -44,10 +44,14 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
-    
+
+{{< adsense-infeed >}}
+
 2. 전방산업:
     
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
@@ -65,6 +69,8 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. 천연가스 액체([NGL](/industry-study/ngl/))
 2. 원유
 3. 천연가스
@@ -78,15 +84,11 @@ Energy Transfer는 약 130,000마일의 파이프라인 네트워크를 보유�
 3. 석유화학 기업
 4. 전력 회사
 5. 산업용 에너지 소비자
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
 1. Williams Companies(US, [WMB](/company-analysis/wmb/))
 2. Kinder Morgan(US, [KMI](/company-analysis/kmi/))
 3. ONEOK(US, [OKE](/company-analysis/oke/))
@@ -94,9 +96,6 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 5. Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Energy Transfer는 북미 미드스트림 에너지 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -106,9 +105,6 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 3. 1PointFive와 탄소 포집 및 저장 프로젝트 협력 (2024년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 영향 극복 및 실적 회복 (2022-2023년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. The Vanguard Group, Inc.: 11.62%
@@ -116,11 +112,7 @@ Energy Transfer는 주로 북미 시장에서 사업을 영위하고 있습니�
 3. SSgA Funds Management, Inc.: 4.98%
 4. Geode Capital Management LLC: 2.13%
 5. Charles Schwab Investment Management, Inc.: 1.51%
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. Energy Select Sector SPDR Fund - XLE
 2. Alerian MLP ETF - AMLP
 3. Global X MLP & Energy Infrastructure ETF - MLPX

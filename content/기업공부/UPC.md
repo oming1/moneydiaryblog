@@ -1,16 +1,12 @@
 ﻿---
 title: "UPC"
 date: 2024-12-07T11:37:02+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 914
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:37:02Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #중국 #헬스케어 #제약 #제네릭
 
 Universe Pharmaceuticals Inc(UPC)는 [중국](/industry-study/4국가중국/)의 제약 회사입니다.
@@ -19,9 +15,6 @@ Universe Pharmaceuticals Inc(UPC)는 [중국](/industry-study/4국가중국/)의
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)(Healthcare)  
 산업: 제약 - 특수 및 제네릭(Drug Manufacturers - Specialty & Generic)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의 제조, 마케팅, 유통 및 판매에 종사합니다. 주요 제품으로는 노인을 대상으로 한 만성 질환 치료제와 감기 및 독감 약이 있습니다. 또한 제3자 제품인 생물의약품, 의료기기, 전통 중의학 재료, 건강기능식품 등을 유통 및 판매합니다.
@@ -34,21 +27,18 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 
 ## 후방산업
 
-- 원료 의약품 제조업체
-- 의료 장비 제조업체
-
 {{< adsense-infeed >}}
 
+- 원료 의약품 제조업체
+- 의료 장비 제조업체
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 제약 회사
 - 병원 및 의료기관
 - 약국 체인
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
 1. 연구개발: Universe Pharmaceuticals (자체 R&D)
 2. 제조: Universe Pharmaceuticals
 3. 마케팅 및 유통: Universe Pharmaceuticals
@@ -56,29 +46,24 @@ Universe Pharmaceuticals는 중국에서 전통 중의학 파생 제품(TCMD)의
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 - 구벤 얀링 환: 만성 질환 치료제
 - 션롱 웨이셩 환: 만성 질환 치료제
 - 펑시통 약용주: 만성 질환 치료제
 - 이사티스 루트 과립: 감기 및 독감 약
 - 치안리 피파 시럽: 감기 및 독감 약
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 중국
-
 ## 경쟁업체
-
 구체적인 경쟁사 정보는 제공되지 않았습니다.
 
 ## 산업 내 글로벌 시장 점유율
+정확한 시장 점유율 데이터는 제공되지 않았습니다.
+## 최근 3년 내 주요 이슈
 
 {{< adsense-infeed >}}
-
-정확한 시장 점유율 데이터는 제공되지 않았습니다.
-
-## 최근 3년 내 주요 이슈
 
 - 2024년 상반기 매출 1290만 달러 기록, 전년 동기 대비 30.2% 감소 (2024)
 - 2024년 상반기 영업손실 170만 달러 기록 (2024)

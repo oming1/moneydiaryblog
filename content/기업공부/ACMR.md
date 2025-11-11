@@ -1,16 +1,12 @@
 ﻿---
 title: "ACMR"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 22
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #ACMResearch #ACMR #웨이퍼세정 #반도체장비 #웨이퍼전처리 #CMP세정 #ATW세정코팅 #습식공정 #반도체제조 #고객맞춤장비 #메가소닉 #나노클린 #장비판매 #서비스매출 #OEM #파운드리 #IDM #글로벌네트워크 #정밀제어 #에너지절감 #공정수율 #웨이퍼품질 #수율향상
 
 ---
@@ -35,7 +31,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
     
     - 세정과 동시에 극박막 코팅 또는 도핑 전처리 기능 통합
     - 선폭 미세화 공정에 필요한 표면 에너지·이온 컨트롤
-
 3. **메가소닉·열분해 세정 솔루션**
     
     - 초음파(메가소닉) 진동으로 박막·오염층을 물리적으로 분리
@@ -47,7 +42,9 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
     - 세정용 화학약품·필터 등 소모품 판매(반복 매출)
 
 5. **고객 맞춤 개발**
-    
+
+{{< adsense-infeed >}}
+
     - 파운드리·IDM(Integrated Device Manufacturer)·첨단 팹(Fab) 요구에 최적화된 공정 설계
     - 현장 파라미터 튜닝, 레시피 수정, 공정 교육
 
@@ -61,9 +58,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
     - 중국 Top-3 세정장비 업체, 글로벌 파운드리·IDM 고객사 확보(예: TSMC, Samsung, UMC)
 
 8. **최근 1년 주가 동향**
-
-{{< adsense-infeed >}}
-
     - 2024년 전방산업(파운드리 CAPEX) 회복 기대에 주가 +30%
     - 2025년 상반기 일부 매크로 리스크(금리·수요 우려)로 등락
 
@@ -117,6 +111,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 - 펌프·밸브·센서·초음파 트랜스듀서·세라믹 부품 검수  
 
+{{< adsense-infeed >}}
+
 2단계: **모듈 및 시스템 조립**
 - 스테인리스·세라믹 모듈 낸드→프레임·배관 결합→배선·제어부 통합  
 
@@ -125,7 +121,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 
 4단계: **공장 테스트 및 교정**
 - 누수·안전·성능 시험(유량·온도·압력·진동), 공정 반복 테스트  
-
 5단계: **출하·현장 설치**
 - 포장·운송→고객 팹에 설치 후 시운전·레시피 튜닝→O&M 계약 개시
 
@@ -139,8 +134,9 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - Intel(US, [INTC](/company-analysis/intc/)), GlobalFoundries(US, [GFS](/company-analysis/gfs/)) – 고급 로직·메모리 공정
 - 연구기관·국책연구소: IMEC(BE), CEA(FR), SEMATECH(US) – 공정개발·장비평가
 
-**후방산업 (부품·재료 공급)**
+{{< adsense-infeed >}}
 
+**후방산업 (부품·재료 공급)**
 - ChemCut Solutions(US, 비상장) – 세정 화학약품
 - Pall Corp.(US, PLL) / Sartorius(DE, SRT.DE) – 필터·멤브레인
 - Ingur Instruments(TW, 비상장) – 메가소닉 트랜스듀서
@@ -188,9 +184,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - **대만·중국·한국**: 60%
 - **북미**: 25%
 - **유럽·기타**: 15%
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 경쟁업체
@@ -204,6 +197,8 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 ---
 
 ### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 - **Wet Cleaning 장비 시장:** ACMR 12% (5위권), Tokyo Electron 30%, SCREEN 18%, Applied 15%, Lam 일부
 - **Batch Cleaning 시장:** ACMR 8% (니치 플레이어), 경쟁사 분산
@@ -225,9 +220,6 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - 2024년: ATW 솔루션 양산 개시, 파운드리 평가 라인 설치 확대
 - 2023년: 메가소닉 클린 신제품 “AquaWave X” 출시, 글로벌 4대 파운드리 평가 수주
 - 2022년: 미국·중국 서비스 센터 확장, 한국·대만 파운드리 협력 강화
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 주주 (지분율)
@@ -247,8 +239,9 @@ ACM Research는 “반도체 웨이퍼를 깨끗하게 씻어 주는 전문 장�
 - **SOXX** – iShares PHLX Semiconductor Sector ETF SOXX
 - **XSD** – SPDR S&P Semiconductor ETF XSD
 
-**섹터 관련 ETF:**
+{{< adsense-infeed >}}
 
+**섹터 관련 ETF:**
 - **IGV** – iShares Expanded Tech-Software ETF IGV
 - **XLK** – Technology Select Sector SPDR Fund XLK
 - **XBI** – SPDR S&P Biotech ETF XBI (웻케미칼 솔루션 일부 포함)

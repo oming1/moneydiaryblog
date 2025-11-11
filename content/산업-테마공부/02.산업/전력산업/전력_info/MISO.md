@@ -1,16 +1,12 @@
 ﻿---
 title: "MISO"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T06:50:33+09:00
 type: docs
 sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #전력 #중서부 #남부 #ISO #RTO 
 
 1. **기관설명**: Midcontinent Independent System Operator (MISO)는 미국 중서부와 남부 지역의 전력망을 관리하는 비영리 독립 시스템 운영자 ([ISO](/industry-study/iso/)) 및 지역 송전 조직 ([RTO](/industry-study/rto/))입니다. MISO는 도매 전력 시장을 운영하고 고압 전력망의 신뢰성을 관리합니다

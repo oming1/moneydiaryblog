@@ -1,16 +1,12 @@
 ﻿---
 title: "MTSI"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 599
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #MACOM #MTSI #RF #Microwave #MillimeterWave #GaN #GaAs #InP #Semiconductor #AnalogIC #Photonics #5G #6G #DataCenter #AerospaceDefense #SatelliteComms #Radar #LiDAR #OpticalInterconnect #Connectivity #HighFrequency #NetworkEdge #IndustrialSensor
 
 ---
@@ -26,6 +22,8 @@ weight: 599
 
 MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반도체 회사입니다. 주요 사업을 쉽게 풀이하면:
 
+{{< adsense-infeed >}}
+
 1. 무선 기지국용 증폭기 및 스위치  
 
     • 5G/6G 기지국에서 안테나 신호를 크게 증폭해 멀리 전파를 보내는 칩을 만듭니다.
@@ -37,25 +35,17 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 3. 방위·우주 통신 솔루션  
 
     • 레이더·위성·전자전 장비에서 사용하는 고주파 칩과 광트랜시버를 공급합니다.
-
 4. LiDAR 및 산업 센서  
 
     • 자율주행 차의 거리감지(LiDAR)에 쓰이는 레이저·검출기 칩을 제공합니다.
 
 5. 맞춤형 통합 서비스  
-
-{{< adsense-infeed >}}
-
     • 고객 공장·장비에 최적화된 모듈 설계, 현장 설치·펌웨어 지원 서비스를 제공합니다.
-
 이렇게 MACOM 제품은 우리가 보고 듣지 못하는 전파·빛(광) 신호를 칩으로 바꿔 통신, 센싱, 네트워크 연결을 가능하게 합니다.
 
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 - 사업 부문별 매출 비중 (2024년 예상)  
     • Wireless Infrastructure(기지국용 RF): 32%  
     • Datacom & Optical(데이터센터 광통신): 27%  
@@ -67,6 +57,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
     • 클라우드·데이터센터 기업(예: Amazon, Google): 25%  
     • 방위·우주 업체(예: Raytheon, Lockheed Martin): 20%  
     • 기타 산업 고객(자동차·의료·산업장비): 10%
+
+{{< adsense-infeed >}}
 
 - 지역별 매출 분포 (2023년)  
     • 아시아·태평양: 55%  
@@ -120,6 +112,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - 방위·우주: Raytheon(US, [RTX](/company-analysis/rtx/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Boeing(US, [BA](/company-analysis/ba/))
 - 자동차·산업 센서: Velodyne(US, VLDR, Luminar(US, [LAZR](/company-analysis/lazr/))
 
+{{< adsense-infeed >}}
+
 후방산업 (원자재·부품 공급 산업):
 
 - TSMC(TW, [TSM](/company-analysis/tsm/)): 웨이퍼 파운드리
@@ -142,6 +136,8 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - **GaAs Radar Module**: 방위·우주 레이더용 믹서·스위치 (매출비중 22%)
 - **VCSEL LiDAR Chip**: 자율주행 센서용 VCSEL 배열 (매출비중 10%)
 - **Custom RF/Optical Modules**: 고객 맞춤형 통합 모듈 (매출비중 9%)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -187,9 +183,6 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - **데이터센터 포토닉스 시장:** MACOM 10% (4위)
 - **방위·우주 RF 솔루션 시장:** MACOM 15% (3위)
 - **3년간 추이:** +2%p 상승 (출처: Bloomberg Intelligence)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 기업 특징 및 성장성
@@ -198,7 +191,6 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - **영업 이익률:** 14% (2023년)
 - **주요 성장 동력:** 5G/6G 인프라 투자, 데이터센터 대역폭 확대, 방위·우주 프로그램 증액, LiDAR 시장 확대
 - **위험 요소:** 반도체 업황 사이클 변동, 공급망 병목, 기술 경쟁 심화
-
 ---
 
 ### 최근 3년 내 주요 이슈
@@ -222,13 +214,9 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - SOXX – iShares PHLX Semiconductor Sector ETF SOXX
 - XSD – SPDR S&P Semiconductor ETF XSD
 
 **섹터 관련 ETF:**
-
 - SMH – VanEck Vectors Semiconductor ETF SMH
 - IGV – iShares Expanded Tech-Software ETF IGV

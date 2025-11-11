@@ -1,16 +1,12 @@
 ﻿---
 title: "MTCH"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 597
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #온라인데이팅 #소셜네트워킹 #모바일앱 #구독모델 #AI매칭 #글로벌확장 #다중브랜드전략 #사용자경험 #데이터분석 #마케팅전략 #ESG #기술혁신 #사용자안전 #인앱구매 #사용자획득 #Tinder #Hinge #Match #OkCupid #PlentyOfFish
@@ -29,13 +25,9 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 1. 다양한 브랜드 포트폴리오: 다양한 연령대와 선호도를 가진 사용자층 확보
     
 2. 글로벌 네트워크: 150개 이상 국가에서 서비스 제공
-    
 3. 기술 혁신: AI 및 머신러닝 기반의 매칭 알고리즘 지속 개선
     
 4. 강력한 브랜드 인지도: Tinder 등 글로벌 인기 앱 보유
-
-{{< adsense-infeed >}}
-
 5. 데이터 분석 역량: 사용자 행동 분석을 통한 서비스 개선
 
 ## 전방/후방산업
@@ -48,6 +40,8 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 클라우드 서비스: 인프라 제공 (Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/)))
     
 - 데이터 분석: 사용자 행동 분석 (Palantir(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/)))
@@ -55,9 +49,6 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 ## 밸류체인
 
 1. 앱 개발: Match Group 내부 개발팀
-
-{{< adsense-infeed >}}
-
 2. 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
 3. 결제 처리: Stripe(Stripe), PayPal(US, [PYPL](/company-analysis/pypl/))
@@ -69,6 +60,8 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 6. 데이터 분석: Mixpanel(Mixpanel), Amplitude(US, AMPL)
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. Tinder: 위치 기반 데이팅 앱 (2024년 2분기 매출의 약 55%)
     
@@ -89,9 +82,7 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 1. Bumble(US, [BMBL](/company-analysis/bmbl/)): 여성 중심 데이팅 앱
     
 2. Spark Networks(US, LOV): 다양한 니치 데이팅 서비스 운영
-    
 3. The Meet Group(US, MEET): 라이브 스트리밍 기반 소셜 데이팅
-    
 4. Grindr(US, GRND): LGBTQ+ 중심 데이팅 앱
     
 5. Badoo(Badoo): 글로벌 소셜 데이팅 플랫폼
@@ -102,10 +93,9 @@ Match Group은 2024년 기준 글로벌 온라인 데이팅 시장에서 약 40-
 
 ## 최근 3년 내 주요 이슈
 
-1. Hyperconnect 인수로 비디오, AI, AR 기술 강화 (2022년)
-
 {{< adsense-infeed >}}
 
+1. Hyperconnect 인수로 비디오, AI, AR 기술 강화 (2022년)
 2. Tinder Explore 기능 출시로 사용자 경험 개선 (2023년)
     
 3. ESG 이니셔티브 강화 및 다양성 증진 프로그램 확대 (2023년)

@@ -1,16 +1,12 @@
 ﻿---
 title: "Hudbay Minerals"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 424
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #허드베이광산 #HBM #구리 #금 #은 #아연 #광산기업 #베이스메탈 #귀금속 #탐사 #개발 #생산 #페루광산 #캐나다광산 #미국광산 #Constancia #Lalor #CopperWorld #지속가능광업 #에너지전환 #전기차수혜 #원자재가격 #글로벌공급망 #운영효율 #탐사잠재력 #ESG경영 #지역사회 #환경규제 #광업기술 #지하채굴 #노천채굴 #선광 #제련 #공급망다변화 #광물자원 #미국산업 #캐나다산업 #페루산업 #산업구조 #광업경제 #광업투자 #광업성장
 
 ---
@@ -63,6 +59,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 
 ### 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 - **광물별 매출 비중 (2024년 추정):**
     - 구리: 60% (주력).
     - 금 및 은: 20%.
@@ -72,7 +70,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **고객 유형별 수익 구조:**
     - 글로벌 금속 제련소: 농축된 광물 판매.
     - 금속 트레이더: 스팟 및 장기 계약 판매.
-
 - **지역별 매출 분포 (2024년 추정):**
     - 아시아 (주로 중국): 40% (구리 및 아연 수요).
     - 유럽: 30% (금, 은, 구리).
@@ -88,6 +85,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 - **구리 중심의 포트폴리오:** 에너지 전환 트렌드의 직접적인 수혜.
 - **지리적 다각화:** 북미와 남미에 걸쳐 자산을 보유하여 지역별 리스크 분산.
@@ -108,7 +107,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 채굴 및 가공 프로세스
- 
 1단계: **탐사:** 지질 조사, 시추를 통한 광물 자원 확인 및 매장량 평가.  
 
 2단계: **개발:** 광산 설계, 인허가 취득, 인프라(도로, 전력, 수자원) 구축, 채굴 장비 도입.  
@@ -151,9 +149,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 - **중장비:** Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, (6301)).
 - **화학물질:** Orica(AU, ORI) (폭발물).
 - **에너지:** 지역 전력 회사, 정유사.
-
-{{< adsense-infeed >}}
-
 **제조 및 조립 단계:**
 
 - **Hudbay Minerals Inc.:** 광물 채굴, 선광, (일부) 제련.
@@ -168,14 +163,13 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 
 ### 주요 제품
 
+{{< adsense-infeed >}}
+
 - **구리 (Copper):** 캐소드 및 농축물 형태, 매출 비중 60% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), BHP(AU, [BHP](/company-analysis/bhp/)), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **금 (Gold):** 불도 및 정련된 형태, 매출 비중 15% (2024 추정), 경쟁사 Barrick Gold(CA, GOLD), Newmont(US, [NEM](/company-analysis/nem/)).
 - **은 (Silver):** 불도 및 정련된 형태, 매출 비중 5% (2024 추정), 경쟁사 Pan American Silver(CA, PAAS).
 - **아연 (Zinc):** 농축물 형태, 매출 비중 15% (2024 추정), 경쟁사 Glencore(UK, GLNCY), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **몰리브덴 (Molybdenum):** 농축물 형태, 매출 비중 5% (2024 추정).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -190,6 +184,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 
 ### 주요 고객
 
+{{< adsense-infeed >}}
+
 - **글로벌 금속 제련소:** 중국, 일본, 한국, 유럽의 제련소.
 - **금속 트레이딩 회사:** Glencore, Trafigura 등.
 - **글로벌 보석 및 투자 회사:** 금 및 은 구매자.
@@ -198,6 +194,8 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 판매 국가
+
+{{< adsense-infeed >}}
 
 - **아시아 (주로 중국):** 40% (2023년 기준, 3년간 +5%p).
 - **유럽:** 30% (2023년 기준, 3년간 -2%p).
@@ -244,9 +242,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 - **The Vanguard Group, Inc.:** 약 9%.
 - **BlackRock, Inc.:** 약 7%.
 - **VanEck Associates Corporation:** 약 5%.
@@ -257,12 +252,10 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ### 관련 ETF
 
 **직접 관련 ETF:**
-
 - **COPX** - Global X Copper Miners ETF COPX (주요 구리 광산 기업 집중).
 - **PICK** - iShares MSCI Global Metals & Mining Producers ETF PICK (광범위한 금속 및 광산 생산 기업).
 
 **섹터 관련 ETF:**
-
 - **XLB** - Materials Select Sector SPDR Fund XLB (재료 섹터 전반).
 - **VAW** - Vanguard Materials ETF VAW (재료 섹터 전반).
 - **GDX** - VanEck Gold Miners ETF GDX (금 광산 기업, Hudbay는 금도 생산).

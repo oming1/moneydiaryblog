@@ -1,16 +1,12 @@
 ﻿---
 title: "TME"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 876
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 ## 핵심 키워드
 
 #음악스트리밍 #소셜엔터테인먼트 #중국시장 #온라인카라오케 #디지털음악 #콘텐츠라이선싱 #구독서비스 #소셜미디어 #AI추천 #라이브스트리밍 #음악커뮤니티 #모바일앱 #음악제작 #사용자참여 #광고수익 #지속가능성 #글로벌확장 #중국 
@@ -35,12 +31,11 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 
 ## 핵심 경쟁력
 
+{{< adsense-infeed >}}
+
 1. **광범위한 사용자 기반**: 중국 내 8억 명 이상의 MAU를 보유한 강력한 플랫폼
     
 2. **다양한 서비스 포트폴리오**: 음악 스트리밍부터 소셜 엔터테인먼트까지 폭넓은 서비스 제공
-
-{{< adsense-infeed >}}
-
 3. **독점 콘텐츠 라이선싱**: 주요 음원 및 독점 콘텐츠 확보를 통한 경쟁 우위
     
 4. **AI 기술 활용**: 개인화된 음악 추천 및 사용자 경험 개선
@@ -51,6 +46,8 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - **음악 제작 및 배급**: Universal Music Group(NL), Sony Music Entertainment(JP), Warner Music Group(US, WMG)
     
 - **광고주**: 브랜드 및 기업 광고주
@@ -58,9 +55,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 - **소셜 미디어 플랫폼**: TikTok(CN), WeChat(CN)
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - **클라우드 인프라**: Tencent Cloud(CN), Alibaba Cloud(CN)
     
 - **데이터 분석 솔루션**: Palantir Technologies(US, [PLTR](/company-analysis/pltr/))
@@ -68,9 +62,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 - **IT 인프라**: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Huawei(CN)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. **콘텐츠 제작 및 라이선싱**: 독점 음원 확보 및 자체 제작 콘텐츠 개발
     
 2. **플랫폼 운영**: QQ Music, Kugou Music, Kuwo Music 등 주요 플랫폼 운영
@@ -84,7 +75,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 - **QQ Music, Kugou Music, Kuwo Music**: 디지털 음악 스트리밍 플랫폼 (매출의 약 55%)
     
 - **WeSing**: 온라인 카라오케 및 소셜 엔터테인먼트 서비스 (매출의 약 35%)
-    
 - **콘텐츠 라이선싱 및 제작** (매출의 약 10%)
 
 ## 주요 고객
@@ -126,11 +116,7 @@ Tencent Music Entertainment는 2024년 기준 중국 디지털 음악 시장에�
 4. 지속 가능성 목표 강화로 친환경 데이터 센터 운영 시작 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Tencent Holdings Limited (58%)
-    
 - The Vanguard Group (3%)
     
 - BlackRock (2%)

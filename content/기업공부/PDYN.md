@@ -1,16 +1,12 @@
 ﻿---
 title: "PDYN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 681
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 ## 핵심 키워드
 
 #AI소프트웨어 #로봇자율성 #엣지컴퓨팅 #기계학습 #무인시스템 #산업자동화 #드론기술 #국방기술 #컴퓨터비전 #실시간처리 #저전력AI #적응형로봇 #동적환경 #인지능력 #자율주행 #IoT #스마트팩토리 #예측유지보수 #인간로봇협업 #디지털트윈 #소프트웨어
@@ -20,27 +16,25 @@ weight: 681
 섹터: 정보기술
 산업: 소프트웨어
 
-## 영위사업
+{{< adsense-infeed >}}
 
+## 영위사업
 Palladyne AI Corp.(NASDAQ: PDYN)는 로봇 및 무인 시스템을 위한 인공지능 소프트웨어를 개발하는 기업입니다. 주요 제품인 Palladyne AI/ML 소프트웨어 플랫폼은 [산업용 로봇](/industry-study/산업용-로봇/)과 [협동 로봇](/industry-study/협동-로봇/)(코봇)이 동적이고 복잡한 환경에서도 빠르게 자율 능력을 갖출 수 있도록 지원합니다.회사의 소프트웨어는 최소한의 로봇 훈련으로 정밀한 결과를 달성하도록 설계되었으며, 자동차, 항공, 건설, 국방, 제조, 물류 등 다양한 산업에 적용 가능합니다. 
 
 또한 전통적인 로봇 외에도 무인 항공기(UAV), 무인 지상 차량(UGV), 원격 조종 차량(ROV) 등에도 적용할 수 있습니다.최근 1년 내 주요 이슈로는 미 공군 연구소와의 드론 소프트웨어 계약 체결, Red Cat Holdings와의 파트너십 확대, 그리고 첫 번째 소형 드론 자율 추적 비행 성공 등이 있습니다.
-
 ## 핵심 경쟁력
 
 Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 엣지 컴퓨팅 기술: 로봇 시스템에서 실시간 동적 작업을 수행할 수 있는 고급 AI 기술
 2. 적응형 학습 능력: 최소한의 훈련으로 새로운 환경과 상황에 빠르게 적응하는 AI 알고리즘
 3. 저전력, 고효율: 기존 솔루션 대비 낮은 전력 요구사항과 높은 효율성
 4. 다양한 적용 분야: 산업용 로봇부터 드론, 자율주행차량까지 폭넓은 응용 가능성
 5. 국방 분야 전문성: 미 공군 등 국방 기관과의 협력을 통한 군사용 AI 소프트웨어 개발 경험
-
 이러한 경쟁력을 바탕으로 Palladyne AI는 빠르게 성장하는 AI 로보틱스 시장에서 선도적 위치를 확보하고 있습니다.
 
 ## 전방/후방산업
+
+{{< adsense-infeed >}}
 
 전방산업:
 
@@ -50,13 +44,9 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 - 국방 산업: Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Northrop Grumman(US, [NOC](/company-analysis/noc/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 클라우드 서비스: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 센서 기술: Velodyne Lidar(US, VLDR), Luminar Technologies(US, [LAZR](/company-analysis/lazr/))
-
 ## 주요제품
 
 - Palladyne IQ: 산업용 로봇 AI 소프트웨어 플랫폼, 매출의 약 60% (2024년 기준)
@@ -66,9 +56,6 @@ Palladyne AI의 핵심 경쟁력은 다음과 같습니다:
 ## 주요 판매국가
 
 미국, 캐나다, 이스라엘
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Cognex Corporation(US, [CGNX](/company-analysis/cgnx/)) - 머신 비전 시스템
@@ -88,6 +75,8 @@ Palladyne AI는 신생 기업으로, 정확한 글로벌 시장 점유율 데이
 - 첫 번째 소형 드론 자율 추적 비행 성공 (2024년)
 - Sarcos Technology and Robotics Corporation에서 Palladyne AI Corp.로 사명 변경 (2024년)
 - 미 공군과 1380만 달러 규모의 로봇 AI 소프트웨어 계약 체결 (2023년)
+
+{{< adsense-infeed >}}
 
 ## 주요주주(지분율)
 

@@ -1,16 +1,12 @@
 ﻿---
 title: "RKLB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 749
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #로켓랩 #RKLB #우주산업 #SpaceX경쟁사 #소형발사체 #중형발사체 #일렉트론로켓 #뉴트론로켓 #위성발사 #위성제조 #우주시스템 #NASA계약 #국방부계약 #우주탐사 #우주서비스 #재사용로켓 #피터벡 #탄소복합재 #전기펌프식엔진 #국가안보임무 #소형위성 #엔드투엔드 #페이로드 #JPL #궤도서비스 #상업우주 #미군우주군 #한계돌파 #Photon우주선 #머플러엔진
 
 ---
@@ -39,6 +35,8 @@ Rocket Lab USA, Inc.(NASDAQ: RKLB)는 소형 위성 제조 및 발사에 중점�
 Rocket Lab의 주요 고객은 NASA, 미 국방부, 유럽우주국(ESA)과 같은 정부 기관과 다양한 상업 위성 운영사들입니다. 특히 최근에는 국가 안보 관련 계약이 증가하고 있으며, 미 우주군과의 계약을 통해 국가 안보 발사 임무 경쟁에 참여할 자격을 얻었습니다.
 
 회사는 뉴질랜드의 마히아 반도에 있는 발사 시설과 미국 버지니아주 월롭스 섬의 발사 시설을 운영하고 있어 다양한 궤도 요구사항을 충족시킬 수 있는 유연성을 갖추고 있습니다. 이러한 다중 발사 시설은 고객들에게 보다 유연한 발사 일정과 다양한 궤도 옵션을 제공할 수 있는 경쟁력이 됩니다.
+
+{{< adsense-infeed >}}
 
 Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 수직적으로 통합하여 일정과 비용 효율성을 최적화했습니다. 이러한 엔드투엔드(end-to-end) 비즈니스 모델은 고객에게 원스톱 우주 서비스를 제공하는 데 큰 강점이 되고 있습니다.
 
@@ -174,9 +172,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 7단계: 최종 검사 및 발사체 탑재 준비
 
 **우주선 구성품 제조:**  
-
-{{< adsense-infeed >}}
-
 1단계: 원자재 검수 및 준비  
 2단계: 정밀 부품 가공 및 제작  
 3단계: 전자 시스템 및 회로 조립  
@@ -196,7 +191,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 ---
 
 ## 전방산업 / 후방산업
-
 **전방산업 (제품 사용 산업):**
 
 - 상업 위성 서비스: Planet Labs(US, [PL](/company-analysis/pl/)), Spire Global(US, [SPIR](/company-analysis/spir/)), BlackSky(US, [BKSY](/company-analysis/bksy/))
@@ -205,6 +199,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 정부 우주 프로그램: NASA(US), ESA(EU), JAXA(JP)
 - 국방 및 정보기관: 미 국방부, 국가정찰국(NRO)
 - 우주 과학 연구: 대학, 연구소, 천문학 기관
+
+{{< adsense-infeed >}}
 
 **후방산업 (원자재/부품 공급 산업):**
 
@@ -228,6 +224,8 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 특수 금속: Carpenter Technology(US, [CRS](/company-analysis/crs/)) - 특수 합금 (엔진 및 구조용)
 
 **로켓 및 위성 제조:**
+
+{{< adsense-infeed >}}
 
 - 자체 제조 시설: Rocket Lab의 수직 통합된 생산 라인 (로켓 조립)
 - 엔진 개발 및 제조: 자체 설계 및 제작 (Rutherford 및 머플러 엔진)
@@ -387,7 +385,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 ---
 
 ## 주요 판매 국가
-
 **미국:** 65.0% (2024년 기준, 3년간 +8.0%p)  
 주요 고객: NASA, 국방부, 상업 위성 기업들. 정부 계약 및 국가 안보 임무 증가로 비중 확대.
 
@@ -480,9 +477,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 2023년: Planet Labs 25%(1위), Spire Global 15%(2위), Rocket Lab 8%(3위)
 - 2022년: Planet Labs 25%(1위), Spire Global 12%(2위), Rocket Lab 5%(3위)
 - 3년간 추이: Planet Labs 변동 없음, Spire Global +3%p, Rocket Lab +5%p
-
-{{< adsense-infeed >}}
-
 **전체 상업 우주 발사 시장:**
 
 - 2024년: SpaceX 70%(1위), ULA 10%(2위), Rocket Lab 8%(3위)
@@ -550,9 +544,6 @@ Rocket Lab은 위성 설계, 구성 요소 제조, 위성 통합 및 시험을 �
 - 뉴트론 로켓 발사 계약 첫 체결 발표 (2024년 11월)
 
 **2023년:**
-
-{{< adsense-infeed >}}
-
 - NASA CAPSTONE 달 궤도 미션 성공적 완료 (2023년 3월)
 - 금성 탐사 미션 (Venus Life Finder) 계약 체결 (2023년 8월)
 - 첫 번째 Photon 위성을 활용한 Varda Space 우주 제조 미션 발사 (2023년 12월)

@@ -1,16 +1,12 @@
 ﻿---
 title: "BGF에코머티리얼즈"
 date: 2025-10-24T22:46:36+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T06:50:31+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #플라스틱 #BGF에코머티리얼즈
 
 - 테마구분: [플라스틱 규제](/industry-study/플라스틱-규제/)

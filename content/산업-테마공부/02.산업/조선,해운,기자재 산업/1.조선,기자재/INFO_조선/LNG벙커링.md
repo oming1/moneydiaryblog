@@ -1,16 +1,12 @@
 ﻿---
 title: "LNG벙커링"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #LNG벙커링 #LNG
 
 - 기본정보
@@ -21,10 +17,8 @@ weight: 4
 	- LNG선박에 연료를 공급하는 LNG벙커링
 		- LNG연료 선박에 대한 국제적인 관심 증대는 **LNG벙커링**에 대한 관심으로 이어지고 있습니다. LNG벙커링이란, LNG를 연료로 사용하는 선박에 연료를 공급하는 선박입니다.
 		-  LNG벙커링 선박은 LNG생산기지로부터 LNG를 공급받아 LNG선박으로 이동해 Ship to Ship(선박 대 선박) 형태로 LNG를 공급하고 있습니다.
-
 	- 천연가스 산업의 새로운 성장동력, LNG벙커링
 		- 유럽 및 미국을 중심으로 선박 배출가스 규제지역(ECA)이 확대되는 등 해상 환경 규제는 앞으로 점점 더 강화될 것으로 보입니다. 더불어 셰일가스 개발 등으로 인하여 풍부한 천연가스 매장량에 대한 기대로 향후 천연가스 가격이 안정화 될 것이라는 전망에 따라 LNG벙커링에 대한 관심은 더 높아질 예정입니다.  
-
 - 세부정보
 	- LNG 벙커링 방식
 		1) 고정식 충전소 방식 : 육상에 가스저장탱크에서 선박연료를 주입하는 방식

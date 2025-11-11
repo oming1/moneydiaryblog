@@ -1,16 +1,12 @@
 ﻿---
 title: "K"
 date: 2024-08-30T21:31:46+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 477
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T12:31:46Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #소비자방어주 #포장식품 #시리얼
 
 ## 산업섹터
@@ -21,9 +17,6 @@ Industry: Packaged Foods (포장식품)
 ## 회사 개요
 
 Kellanova, formerly known as the Kellogg Company, is an American multinational food manufacturing company headquartered in Battle Creek, Michigan. Founded in 1906 by Will Keith Kellogg, the company is renowned for its breakfast cereals and convenience foods. In October 2023, Kellogg's was split into two independent companies: Kellanova, which focuses on convenience foods and snacks, and WK Kellogg Co, which retains the North American cereal business.
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 - 제조 및 판매의 다양한 식품 제품
@@ -33,9 +26,6 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 소비자에게 직접 판매
 - 주요 고객: 개인 소비자, 소매업체, 도매업체
 
@@ -44,22 +34,26 @@ Kellanova, formerly known as the Kellogg Company, is an American multinational f
 - 역할: 원자재 및 포장재 공급
 - 농업 공급업체 및 식품 제조업체
 
+{{< adsense-infeed >}}
+
 ## 주요제품
 
 - 아침 시리얼 (예: Frosted Flakes, Corn Flakes)
 - 스낵 제품 (예: Cheez-It, Pringles)
 - 비건 및 식물 기반 제품 (예: MorningStar Farms)
 - 기타 간편식 및 디저트 제품
-
 ## 주요 판매국가
-
 Kellanova는 전 세계 180개국 이상에서 운영되며, 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다.
+
+{{< adsense-infeed >}}
 
 ## 주요 자산
 
 - 다양한 브랜드 포트폴리오
 - 글로벌 공급망 및 유통 네트워크
 - 지속적인 연구 및 개발 투자
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -73,11 +67,12 @@ Kellanova는 전 세계 아침 시리얼 시장에서 약 17%의 점유율을 �
 
 ## 최근 뉴스 및 재무 성과
 
-- **2023년 10월**: Kellogg Company가 북미 시리얼 사업을 분리하여 Kellanova와 WK Kellogg Co 두 개의 독립 기업으로 재편성했습니다.
-- **2023년 1분기**: Kellanova는 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다.
-
 {{< adsense-infeed >}}
 
+- **2023년 10월**: Kellogg Company가 북미 시리얼 사업을 분리하여 Kellanova와 WK Kellogg Co 두 개의 독립 기업으로 재편성했습니다.
+- **2023년 1분기**: Kellanova는 지속 가능한 식품 시장에서의 성장 가능성에 대해 긍정적인 전망을 보이고 있습니다.
 ## 자세한 종목 정보 링크
+
+{{< adsense-infeed >}}
 
 [Kellogg's - Wikipedia](https://en.wikipedia.org/wiki/Kellogg%27s)

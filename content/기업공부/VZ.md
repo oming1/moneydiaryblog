@@ -1,16 +1,12 @@
 ﻿---
 title: "VZ"
 date: 2024-08-29T21:47:54+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 949
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-29T12:47:54Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #커뮤니케이션서비스 #통신
 
 ## 산업섹터
@@ -23,19 +19,13 @@ weight: 949
 Verizon Communications Inc.는 미국의 다국적 통신 회사로, 무선 및 유선 통신 서비스, 인터넷 서비스, TV 서비스 및 기타 관련 서비스를 제공합니다. Verizon은 미국 내에서 가장 큰 무선 통신망을 운영하며, 2024년 3월 기준으로 약 1억 1천 4백만 명의 가입자를 보유하고 있습니다. 회사는 또한 Fios라는 브랜드로 고속 인터넷과 TV 서비스를 제공합니다.
 
 ## 전방/후방산업
-
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 모바일 및 고정 통신 서비스 소비
     - **관련 기업**: AT&T (US, [T](/company-analysis/t/)), T-Mobile US (US, [TMUS](/company-analysis/tmus/))
-
-{{< adsense-infeed >}}
-
 - **후방산업**:
-    
     - **핵심 산업 및 역할**: 네트워크 장비 제조 및 기술 제공
     - **관련 기업**: Cisco Systems (US, [CSCO](/company-analysis/csco/)), Nokia (FI, NOKIA.HE)
-
 ## 밸류체인
 
 - **네트워크 인프라 구축**: 무선 및 유선 네트워크 구축 및 유지 관리
@@ -51,7 +41,6 @@ Verizon Communications Inc.는 미국의 다국적 통신 회사로, 무선 및 
     
     - **대표 회사**: Sprint (US, 비상장) - 통신 서비스 제공
     - **대표 회사**: Charter Communications (US, [CHTR](/company-analysis/chtr/)) - 케이블 및 인터넷 서비스 제공
-
 ## 주요제품
 
 - **무선 통신 서비스** (모바일 요금제 및 데이터 플랜)
@@ -61,20 +50,20 @@ Verizon Communications Inc.는 미국의 다국적 통신 회사로, 무선 및 
 
 ## 주요 판매국가
 
-Verizon은 주로 미국에서 운영되며, 일부 국제 시장에서도 서비스를 제공합니다.
-
 {{< adsense-infeed >}}
 
+Verizon은 주로 미국에서 운영되며, 일부 국제 시장에서도 서비스를 제공합니다.
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **AT&T (US, [T](/company-analysis/t/))** - 주요 통신 서비스 제공업체
 - **T-Mobile US (US, [TMUS](/company-analysis/tmus/))** - 모바일 통신 서비스 제공업체
 - **Sprint (US, 비상장)** - 통신 서비스 제공업체
 
-## 산업 내 글로벌 시장 점유율
-
 {{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 Verizon은 미국 내 무선 통신 시장에서 약 30%의 점유율을 보유하고 있으며, 고속 인터넷 서비스에서도 중요한 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

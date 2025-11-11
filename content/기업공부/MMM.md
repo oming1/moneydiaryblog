@@ -1,16 +1,12 @@
 ﻿---
 title: "MMM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 572
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #산업재 #소비자제품 #산업용제품 #접착제 #필터 #의료기기 #안전장비 #전기장비 #테이프 #마스크 #필터 
 
 ## 산업 섹터
@@ -23,16 +19,16 @@ weight: 572
 
 ## 영위사업
 
+{{< adsense-infeed >}}
+
 3M Company(MMM)는 다양한 기술 제품을 제조 및 판매하는 글로벌 다각화 기업입니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 1. 안전 및 산업: 연마재, 자동차 애프터마켓, 접착 및 마스킹 시스템, 전기 제품, 개인 안전 장비 등
 2. 운송 및 전자: 첨단 소재, 자동차 및 항공우주, 상업 솔루션, 디스플레이 소재 및 시스템 등
 3. 소비자: 가정용 및 사무용 제품, 홈케어 및 자동차 관리 제품 등
-
 3M은 Scotch-Brite, Filtrete, Command, Post-it 등 유명 브랜드를 보유하고 있으며, 혁신적인 제품 개발로 유명합니다. 회사는 전 세계 70개국 이상에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 다각화된 제품 포트폴리오: 다양한 산업 분야에 걸친 제품 라인업
@@ -42,6 +38,8 @@ weight: 572
 5. 지속적인 혁신: 매년 수천 개의 신제품 출시
 6. 지적재산권: 100,000개 이상의 특허 보유
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 1. 후방산업:
@@ -50,9 +48,6 @@ weight: 572
     - 플라스틱 수지: LyondellBasell(US, [LYB](/company-analysis/lyb/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
     - 의료기기: Medtronic(IE, [MDT](/company-analysis/mdt/))
@@ -63,7 +58,6 @@ weight: 572
 2. 제품 개발 및 생산: 3M Company (주요 사업 영역)
 3. 유통: Amazon(US, [AMZN](/company-analysis/amzn/)) - 온라인 유통
 4. 최종 소비자: 개인 및 기업 고객
-
 ## 주요제품
 
 1. 접착제 및 테이프 (Scotch, Command 브랜드)
@@ -83,7 +77,6 @@ weight: 572
 ## 주요 판매국가
 
 3M은 전 세계적으로 사업을 영위하고 있으며, 주요 시장은 미국, 유럽, 아시아 등입니다.
-
 ## 경쟁업체
 
 1. Honeywell International(US, [HON](/company-analysis/hon/)) - 산업용 제품
@@ -91,6 +84,8 @@ weight: 572
 3. Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) - 의료기기 및 소비자 제품
 4. Avery Dennison(US, AVY) - 접착제 및 라벨
 5. Illinois Tool Works(US, ITW) - 산업용 장비 및 소모품
+
+{{< adsense-infeed >}}
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -104,6 +99,8 @@ weight: 572
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2022-2024년)
 5. 코로나19 팬데믹 대응 및 개인보호장비 생산 확대 (2022-2023년)
 
+{{< adsense-infeed >}}
+
 ## 주요주주(지분율)
 
 1. The Vanguard Group, Inc.: 11.62%
@@ -113,9 +110,6 @@ weight: 572
 5. Charles Schwab Investment Management, Inc.: 1.51%
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. Industrial Select Sector SPDR Fund - XLI
 2. Vanguard Industrials ETF - VIS
 3. iShares U.S. Industrials ETF - IYJ

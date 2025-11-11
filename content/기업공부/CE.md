@@ -1,16 +1,12 @@
 ﻿---
 title: "CE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 186
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 ## 핵심 키워드
 
 #특수화학 #엔지니어링폴리머 #아세틸제품 #혁신 #지속가능성 #글로벌공급망 #자동차산업 #의료기기 #소비자전자 #산업용소재 #식품첨가물 #접착제 #코팅 #섬유 #ESG #연구개발 #인수합병 #원가절감 #고성능소재 #순환경제
@@ -19,9 +15,6 @@ weight: 186
 
 섹터: 소재  
 산업: 특수화학
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품을 생산하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
@@ -43,7 +36,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 4. 고객 중심 솔루션: 맞춤형 소재 개발을 통한 고객 가치 창출
     
 5. 지속가능성 이니셔티브: 순환 경제 모델 도입 및 친환경 제품 개발
-
 ## 전방/후방산업
 
 전방산업:
@@ -83,9 +75,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 3. 식품 첨가물: Sunett(아세설팜 칼륨) 감미료 (2024년 매출의 약 10%)
     
 4. 특수 폴리머: Fortron(PPS), Vectra(LCP) (2024년 매출의 약 20%)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국(25.8%), 독일(22.6%), 중국(17.8%), 싱가포르(10.5%), 벨기에(4.6%), 멕시코(3.3%), 일본(2.9%), 스위스(2%), 기타(10.5%)
@@ -95,7 +84,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 1. BASF SE(DE, BAS): 종합 화학 제품
     
 2. DuPont de Nemours(US, [DD](/company-analysis/dd/)): 특수 소재 및 화학 제품
-    
 3. Eastman Chemical(US, EMN): 특수 화학 제품
     
 4. LyondellBasell Industries(NL, [LYB](/company-analysis/lyb/)): 폴리머 및 화학 제품
@@ -108,6 +96,8 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 
 ## 최근 3년 내 주요 이슈
 
+{{< adsense-infeed >}}
+
 1. DuPont의 Mobility & Materials 사업 부문 인수 완료 (2022년)
     
 2. Mitsui & Co., Ltd.와 Nutrinova 합작 회사 설립 (2023년)
@@ -118,8 +108,9 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
     
 5. 주당 배당금 95% 감축 및 자사주 매입 프로그램 일시 중단 발표 (2025년)
 
-## 주요주주(지분율)
+{{< adsense-infeed >}}
 
+## 주요주주(지분율)
 1. The Vanguard Group (11.66%)
     
 2. BlackRock (9.17%)
@@ -128,14 +119,15 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 
 ## 관련 ETF
 
-1. Materials Select Sector SPDR Fund - XLB
-
 {{< adsense-infeed >}}
 
+1. Materials Select Sector SPDR Fund - XLB
 2. Vanguard Materials ETF - VAW
     
 3. iShares U.S. Basic Materials ETF - IYM
     
 4. Invesco S&P 500 Equal Weight Materials ETF - RTM
-    
+
+{{< adsense-infeed >}}
+
 5. First Trust Materials AlphaDEX Fund - FXZ

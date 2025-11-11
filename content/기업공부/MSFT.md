@@ -1,16 +1,12 @@
 ﻿---
 title: "MSFT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 594
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #테크 #소프트웨어 #클라우드 #Xbox #게임 #Azure
 #클라우드컴퓨팅 #소프트웨어 #AI #Azure #Office365 #Windows #게임콘솔 #디지털전환 #SaaS #PaaS #IaaS #사이버보안 #생산성도구 #엔터프라이즈IT #데이터분석 #디지털워크플레이스 #엣지컴퓨팅 #MSTeams #GitHub
 
@@ -21,13 +17,9 @@ weight: 594
 산업: 소프트웨어
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Microsoft Corporation(NASDAQ: MSFT)는 전 세계적으로 소프트웨어, 하드웨어, 클라우드 서비스 및 디지털 솔루션을 제공하는 글로벌 기술 기업입니다. 1975년 설립된 이 회사는 클라우드 컴퓨팅, 생산성 도구, 엔터프라이즈 IT 솔루션 등 다양한 부문에서 활동하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **Productivity and Business Processes**: Office 365, Microsoft Teams, LinkedIn 등
-    
 2. **Intelligent Cloud**: Azure [클라우드](/industry-study/2산업클라우드/) 플랫폼, 서버 제품 및 엔터프라이즈 서비스
     
 3. **More Personal Computing**: Windows 운영체제, Surface 디바이스, Xbox 게임 콘솔
@@ -39,7 +31,9 @@ Microsoft Corporation(NASDAQ: MSFT)는 전 세계적으로 소프트웨어, 하�
 1. **광범위한 제품 포트폴리오**: 소프트웨어부터 하드웨어까지 다양한 제품 제공
     
 2. **클라우드 리더십**: Azure를 중심으로 한 강력한 클라우드 플랫폼
-    
+
+{{< adsense-infeed >}}
+
 3. **AI 기술 선도**: OpenAI와의 협력을 통한 AI 통합 솔루션 제공
     
 4. **글로벌 네트워크**: 전 세계적으로 분산된 데이터 센터와 고객 기반
@@ -97,25 +91,22 @@ Microsoft Corporation(NASDAQ: MSFT)는 전 세계적으로 소프트웨어, 하�
 3. 정부 기관 (공공 클라우드 및 보안 솔루션)
     
 4. 소비자 (Windows OS 및 Xbox 사용자)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 영국, 독일, 일본, 중국, 인도, 캐나다, 호주
 
 ## 경쟁업체
-
 1. Amazon Web Services(US, [AMZN](/company-analysis/amzn/)): 클라우드 컴퓨팅 시장 선두 기업
+2. Alphabet Inc.(US, [GOOGL](/company-analysis/googl/)): Google Cloud Platform 운영
 
 {{< adsense-infeed >}}
 
-2. Alphabet Inc.(US, [GOOGL](/company-analysis/googl/)): Google Cloud Platform 운영
-    
 3. Salesforce Inc.(US, [CRM](/company-analysis/crm/)): CRM 소프트웨어 선두 기업
     
 4. Apple Inc.(US, [AAPL](/company-analysis/aapl/)): 하드웨어 및 소프트웨어 통합 생태계 구축 기업
-    
+
+{{< adsense-infeed >}}
+
 5. IBM(US, [IBM](/company-analysis/ibm/)): 엔터프라이즈 IT 솔루션 제공 업체
 
 ## 산업 내 글로벌 시장 점유율
@@ -131,9 +122,6 @@ Microsoft는 2024년 기준 글로벌 클라우드 인프라 시장에서 약 23
 3. Microsoft Copilot 출시로 Office 제품군에 AI 기능 통합 (2023년)
     
 4. 지속 가능성 목표 강화로 탄소 배출 감축 계획 발표 (2022년)
-
-{{< adsense-infeed >}}
-
 5. Azure Arc 업데이트로 멀티클라우드 관리 기능 강화 (2023년)
 
 ## 주요주주(지분율)
@@ -143,9 +131,6 @@ Microsoft는 2024년 기준 글로벌 클라우드 인프라 시장에서 약 23
 - BlackRock (7%)
     
 - Bill Gates (약 1%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Invesco QQQ Trust - QQQ

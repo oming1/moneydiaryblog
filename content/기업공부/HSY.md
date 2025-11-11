@@ -1,16 +1,12 @@
 ﻿---
 title: "HSY"
 date: 2024-12-13T21:48:45+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 421
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:48:45Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #식품 #필수소비재 #초콜릿
 
 ## 산업섹터
@@ -19,27 +15,20 @@ weight: 421
 산업(Industry): 식품 - 주요 다각화(Food - Major Diversified)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Hershey Company는 세계 최대 규모의 초콜릿 제조업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
+Hershey Company는 세계 최대 규모의 초콜릿 제조업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 1. 초콜릿 제품: Hershey's, Reese's, Kisses 등 다양한 브랜드의 초콜릿 제품 생산
 2. 사탕 및 껌: Jolly Rancher, Ice Breakers 등의 브랜드로 사탕과 껌 제조
 3. 베이킹 제품: 초콜릿 칩, 코코아 등 베이킹 관련 제품 생산
 4. 스낵: 견과류 스프레드, 육류 스낵, 바 등 다양한 스낵 제품 제공
 5. 음료: 초콜릿 시럽, 밀크쉐이크 등 음료 제품 생산
-
-{{< adsense-infeed >}}
-
 Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁신을 통해 새로운 제품을 개발하고 있습니다. 최근에는 식물성 초콜릿 등 건강에 좋은 제품 라인업도 확대하고 있습니다.
 
 ## 전방/후방산업
 
-## 전방산업
+{{< adsense-infeed >}}
 
+## 전방산업
 - 소매업: Walmart (US, [WMT](/company-analysis/wmt/)), Target (US, [TGT](/company-analysis/tgt/))
 - 식품 유통: Sysco (US, [SYY](/company-analysis/syy/)), US Foods (US, [USFD](/company-analysis/usfd/))
 
@@ -49,13 +38,13 @@ Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁
 - 설탕 생산: Südzucker (독일, SZU.DE)
 - 포장재: International Paper (US, [IP](/company-analysis/ip/))
 
-## 밸류체인
+{{< adsense-infeed >}}
 
+## 밸류체인
 1. 원재료 조달: Barry Callebaut (스위스, BARN.SW) (코코아 공급)
 2. 제품 생산: Hershey (US, [HSY](/company-analysis/hsy/)) (초콜릿 및 사탕 제조)
 3. 유통: Sysco (US, [SYY](/company-analysis/syy/)) (식품 유통)
 4. 소매: Walmart (US, [WMT](/company-analysis/wmt/)) (소비자 판매)
-
 ## 주요제품
 
 1. Hershey's 초콜릿 바
@@ -79,11 +68,7 @@ Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Hershey는 세계 최대 초콜릿 제조업체 중 하나로 인식되고 있습니다.
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 식물성 초콜릿 제품 출시로 건강 지향 소비자 공략 (2023년)
 2. 코로나19 팬데믹 기간 동안 가정 내 소비 증가로 인한 매출 상승 (2020-2022년)
 3. 지속가능한 코코아 조달을 위한 노력 강화 (2021-2023년)

@@ -1,16 +1,12 @@
 ﻿---
 title: "CPB"
 date: 2024-12-19T12:00:24+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 225
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-19T03:00:24Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #식품제품 #필수소비재 #식품제조 #수프
 
 ## 산업섹터
@@ -19,20 +15,15 @@ Sector: 필수 소비재(Consumer Staples)
 Industry: 식품 제품(Food Products)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Campbell's Company(이전 Campbell Soup Company)는 미국의 식품 제조 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 수프 및 통조림 식품 생산
 2. 베이커리 제품 제조
 3. 음료 생산
 4. 스낵 제조
-
 Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등의 브랜드를 보유하고 있습니다.
 
 ## 주요제품
-
 1. Campbell's 수프 (농축 수프, 즉석 수프 등)
 2. Pepperidge Farm 제품 (빵, 쿠키, 크래커)
 3. V8 채소 주스
@@ -42,15 +33,12 @@ Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등�
 7. Goldfish 크래커
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
 
 ## 경쟁업체
+Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 미국과 캐나다가 주요 시장입니다.
 
-{{< adsense-infeed >}}
-
+## 경쟁업체
 1. Nestlé (스위스, NESN.SW)
 2. PepsiCo (US, [PEP](/company-analysis/pep/))
 3. Unilever (영국/네덜란드, UL)
@@ -59,9 +47,13 @@ Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Campbell's는 미국 수프 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2023년 8월 Sovos Brands를 27억 달러에 인수 발표 (2023년)
 2. 2019년 1월 Mark Clouse를 새로운 CEO로 임명 (2019년)

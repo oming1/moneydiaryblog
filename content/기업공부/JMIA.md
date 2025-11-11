@@ -1,16 +1,12 @@
 ﻿---
 title: "JMIA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 469
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #주미아 #JMIA #e커머스 #아프리카온라인쇼핑 #인터넷소매 #물류플랫폼 #디지털결제 #아프리카시장 #모바일커머스 #전자상거래 #글로벌확장 #신흥시장 #온라인마켓플레이스 #JumiaPay #JumiaLogistics #아프리카경제 #디지털전환 #소비자플랫폼 #모바일앱 #공급망관리 #지속가능성 #혁신기술 #성장잠재력 #아프리카테크 #온라인쇼핑트렌드 #물류혁신 #결제솔루션 #신흥경제 #디지털인프라 #글로벌투자
 
 ---
@@ -19,9 +15,6 @@ weight: 469
 
 **섹터(Sector):** Consumer Cyclical - 소비자 순환  
 **산업(Industry):** Internet Retail - 인터넷 소매
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 영위사업
@@ -56,15 +49,14 @@ Jumia Technologies AG는 2012년에 독일의 Rocket Internet에 의해 나이�
     Jumia는 플랫폼 회사로 직접 제조하지 않으나, 물류 운영에 필요한 포장재, 차량, IT 하드웨어를 사용합니다. 공급망은 아프리카 현지 공급자와 글로벌 파트너(예: 중국 제조사)로 구성되며, 지속 가능성을 위해 재활용 포장재를 도입합니다.
     
 - **최근 주요 이슈**
-    
+
+{{< adsense-infeed >}}
+
     - 2024년: 비용 절감 전략으로 일부 국가 사업 축소, JumiaPay 사용자 20% 증가.
     - 2025년: AI 기반 추천 시스템 론칭, 새로운 아프리카 국가 진출.
 
 - **최근 1년 주가 동향**  
     지난 1년간 주가는 큰 변동성을 보였습니다. 2024년 8월 약 $5.00에서 2025년 8월 약 $7.50로 상승(+50%), 이는 아프리카 e커머스 성장 기대와 비용 절감 효과에 기인합니다. 그러나 경제 불안정으로 일시적 하락도 있었습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -158,6 +150,8 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - **JumiaPay:** 결제 솔루션, 매출비중 20%(2024), 경쟁사 [PYPL](/company-analysis/pypl/), [SQ](/company-analysis/sq/).
 - **Jumia Logistics:** 배송 서비스, 매출비중 20%(2024), 경쟁사 [FDX](/company-analysis/fdx/), [UPS](/company-analysis/ups/).
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -174,7 +168,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 케냐 모바일 사용자.
 - 모로코 바이어.
 - 남아프리카 파트너.
-
 ---
 
 ### 주요 판매 국가
@@ -207,9 +200,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 ---
 
 ### 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 - 매출 성장률: 3년 CAGR 15% (2021-2023).
 - 영업 이익률: -10% (2023년, 손실 지속).
 - 주요 성장 동력: 모바일 확대, 신흥 시장 수요.
@@ -222,11 +212,9 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - 2023년: JumiaPay 확장, 사용자 증가.
 - 2022년: 물류 네트워크 강화.
 - 2021년: 새로운 국가 진출.
-
 ---
 
 ### 주요 주주 (지분율)
-
 - Rocket Internet: 10%.
 - Vanguard Group: 5%.
 - BlackRock: 4%.
@@ -241,7 +229,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 
 - ONLN - ProShares Online Retail ETF ONLN.
 - IBUY - Amplify Online Retail ETF IBUY.
-
 **섹터 관련 ETF:**
 
 - XLY - Consumer Discretionary Select Sector SPDR Fund XLY.

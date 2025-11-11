@@ -1,16 +1,12 @@
 ﻿---
 title: "MDB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 557
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #데이터베이스 #클라우드컴퓨팅 #NoSQL #문서지향 #AI기반 #디지털전환 #SaaS #개발자플랫폼 #MongoDBAtlas #API통합 #스케일러블솔루션 #오픈소스 #실시간데이터처리 #분산형아키텍처 #보안기능 #데이터관리 #비즈니스인사이트 #고객경험 #글로벌확장 #소프트웨어혁신 #Atlas
@@ -19,20 +15,18 @@ weight: 557
 
 섹터: 정보기술
 산업: 소프트웨어
-
 ## 영위사업
 
 MongoDB, Inc.(NASDAQ: MDB)는 오픈 소스 데이터베이스 관리 시스템인 MongoDB를 개발 및 제공하는 기업입니다. 
 
 2007년에 설립된 MongoDB는 문서 지향 데이터베이스 솔루션을 통해 다양한 산업의 기업들이 데이터 관리 및 애플리케이션 개발을 효율적으로 수행할 수 있도록 지원합니다.
-
-{{< adsense-infeed >}}
-
 주요 제품으로는 MongoDB Atlas라는 클라우드 기반 데이터베이스 서비스가 있으며, 이는 관리형 멀티 클라우드 데이터베이스로 고객이 손쉽게 데이터를 저장하고 운영할 수 있게 합니다. 또한, MongoDB Enterprise Advanced라는 상용 솔루션도 제공하여 기업 고객의 요구를 충족합니다.
 
 최근 1년 내 주요 이슈로는 AI 애플리케이션 프로그램(MAAP)의 확장, MongoDB 8.0 출시, Microsoft와의 협업 강화 등이 있습니다. 이러한 혁신은 고객이 데이터 기반의 결정을 내릴 수 있도록 지원합니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 MongoDB의 핵심 경쟁력은 다음과 같습니다:
 
@@ -43,9 +37,6 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 5. 지속적인 혁신: AI 및 머신러닝 기능을 통합하여 최신 기술 트렌드에 발맞추고 있음
 
 이러한 경쟁력을 바탕으로 MongoDB는 데이터베이스 관리 시스템 시장에서 중요한 위치를 차지하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -53,9 +44,6 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 기업 IT 부서
 - DevOps 팀
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
@@ -63,6 +51,8 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - 보안 솔루션: Okta(US, [OKTA](/company-analysis/okta/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 데이터베이스 설계: MongoDB(US, [MDB](/company-analysis/mdb/)) (문서 지향 데이터베이스 설계)
 2. 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)) (클라우드 호스팅)
@@ -85,6 +75,8 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - Forbes Media - 미디어 및 출판
 - Verizon(US, [VZ](/company-analysis/vz/)) - 통신 서비스 제공업체
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Oracle Corporation(US, [ORCL](/company-analysis/orcl/)) - 관계형 데이터베이스
@@ -98,9 +90,6 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 클라우드 기반 솔루션에서 두각을 나타내고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - AI 애플리케이션 프로그램(MAAP) 확장 발표 (2024년)
 - MongoDB 8.0 출시로 성능 개선 (2024년)
 - Microsoft와 협력하여 Azure에서 MongoDB Atlas 기능 강화 (2023년)
@@ -108,7 +97,6 @@ MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유
 - ESG 목표 설정 및 지속 가능한 비즈니스 모델 강화 (2023년)
 
 ## 주요주주(지분율)
-
 - The Vanguard Group (9.65%)
 - Fidelity Management & Research Co. LLC (5.80%)
 - BlackRock Fund Advisors (4.50%)
@@ -116,6 +104,8 @@ MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유
 - Jennison Associates LLC (4.20%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares Expanded Tech-Software Sector ETF - IGV
 - First Trust Cloud Computing ETF - SKYY

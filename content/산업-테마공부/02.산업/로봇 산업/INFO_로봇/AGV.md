@@ -1,16 +1,12 @@
 ﻿---
 title: "AGV"
 date: 2025-10-24T22:46:35+09:00
-lastmod: 2025-11-03T21:50:28+09:00
+lastmod: 2025-11-04T06:50:28+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:28Z" />
-</div>
 #물류로봇 #로봇 #로봇산업 #서비스로봇 
 
  AGV(Automatic Guided Vehicle)는 [로봇](/industry-study/로봇/)에서 [물류 로봇](/industry-study/물류-로봇/). [서비스 로봇](/industry-study/서비스-로봇/) 분류를 가짐

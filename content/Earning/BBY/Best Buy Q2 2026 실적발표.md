@@ -1,16 +1,12 @@
 ﻿---
 title: "Best Buy Q2 2026 실적발표"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:36+09:00
+lastmod: 2025-11-04T11:00:37+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:36Z" />
-</div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #BBY #미국주식 
 
 # Q2 2026 Best Buy([BBY](/company-analysis/bby/)) 실적 발표 요약(2025-08-29)
@@ -25,7 +21,6 @@ weight: 2
 
 ---
 ## 주요 성장 품목
-
 1. **Nintendo Switch 2**:
     - 신제품 출시로 게임 부문 매출 급증.
     - 관련 액세서리(헤드셋, 컨트롤러 등)와 함께 높은 수요를 기록.
@@ -38,7 +33,6 @@ weight: 2
 
 ---
 ## 전략적 이니셔티브
-
 - **[Best Buy Marketplace](/industry-study/best-buy-marketplace/)**:
     - 온라인 제품 수 6배 확대.
     - 새로운 카테고리(가구, 스포츠 용품, 계절 장식 등) 추가.
@@ -47,6 +41,8 @@ weight: 2
 - **공급망 현대화**:
     - FedEx를 주요 택배사로 선정하여 배송 효율성 강화.
 
+{{< adsense-infeed >}}
+
 ---
 ## 리스크 및 대응
 
@@ -54,16 +50,10 @@ weight: 2
     - 게임 및 컴퓨터 제품군의 비중 확대에 따른 마진 압박.
 - **관세 불확실성**:
     - 관세 상승으로 인한 비용 증가를 벤더와 협력하여 최소화.
-
-{{< adsense-infeed >}}
-
 ---
 ## 경쟁사 판매 전략 비교
 
 ### 1. **[RH](/company-analysis/rh/) (Restoration Hardware)**
-
-{{< adsense-infeed >}}
-
 - **주요 사업 현황**: 고급 가구 및 라이프스타일 소매업체
     - 매출: $8.14억 (2026년 1분기, 전년 대비 +12%)
     - 순이익: $804만 (전년 동기 순손실에서 흑자 전환)
@@ -72,9 +62,6 @@ weight: 2
     - **Waterworks 브랜드 통합**: 고급 욕실 및 주방 제품을 RH 플랫폼에 추가
     - **인테리어 디자인 서비스 강화**: RH Interior Design Studio를 통해 고급 소비자 타겟팅
     - **레스토랑 및 카페 포함**: 매장 내 고객 경험 극대화.
-
-{{< adsense-infeed >}}
-
 ### 2. **Wayfair ([W](/company-analysis/w/))**
 
 - **주요 사업 현황**: 온라인 가구 및 홈 데코 플랫폼
@@ -88,6 +75,8 @@ weight: 2
     - **옴니채널 전략**: 매장에서 구매 후 즉시 수령 가능, 대형 제품은 빠른 배송 지원
     - **지역별 맞춤화**: Fulfillment 센터와의 근접성을 활용해 배송 효율성 강화.
 
+{{< adsense-infeed >}}
+
 ### 3. **LG전자**
 
 - **주요 사업 현황**: 생활가전 및 B2B 시장 공략
@@ -98,7 +87,11 @@ weight: 2
     - **LG 프로 빌더 조직 신설**: B2B 고객(건축업체) 대상 서비스 강화
     - **고급화 전략**: 프리미엄 제품군 중심으로 시장 점유율 확대.
 
+{{< adsense-infeed >}}
+
 ---
 ## **결론**
+
+{{< adsense-infeed >}}
 
 Best Buy는 Q2 2026 실적에서 신제품 출시와 Marketplace 도입을 통해 매출 성장을 이뤘습니다. Marketplace는 소비자에게 더 많은 선택지를 제공하며, Best Buy의 디지털 전환을 가속화하고 있습니다. 경쟁사 대비 기술 제품과 라이프스타일 제품의 통합 전략은 Best Buy의 차별화된 강점으로 자리 잡고 있습니다.

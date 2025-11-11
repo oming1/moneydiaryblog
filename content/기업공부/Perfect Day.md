@@ -1,16 +1,12 @@
 ﻿---
 title: "Perfect Day"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 683
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #대체단백질 #소비자방어주 #우유단백질 #포장식품 #우유
 
 ## 산업섹터
@@ -23,16 +19,11 @@ Industry: Packaged Foods (포장식품)
 Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통해 우유 단백질(카제인, 유청 등)을 생산하는 식품 기술 기업입니다. 이를 통해 동물 복지와 환경에 미치는 영향을 줄이면서 전통적인 유제품과 동일한 맛과 영양을 제공하는 제품을 개발합니다.
 
 ## 전방/후방산업
-
 전방산업:
 
 - 식품 제조업체: Nestlé (스위스, [NESN](/company-analysis/nesn/)), Mars (비상장)
 - 유제품 대체품 제조업체: Oatly (US, [OTLY](/company-analysis/otly/))
-
 후방산업:
-
-{{< adsense-infeed >}}
-
 - [바이오리액터](/industry-study/바이오리액터/) 제조업체
 - 발효 원료 공급업체
 
@@ -42,9 +33,6 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 - 원료 생산: Perfect Day의 정밀발효 기술을 통한 우유 단백질 생산
 - 제품 제조: 파트너사와 협력 (예: Mars, Nestlé)
 - 유통 및 판매: The Urgent Company (자회사)를 통한 B2C 판매, B2B 원료 공급
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 동물성 원료 없는 유청 단백질
@@ -56,6 +44,8 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 
 미국을 중심으로 싱가포르, 홍콩 등 아시아 시장 진출
 
+{{< adsense-infeed >}}
+
 ## 경쟁업체
 
 - Remilk (이스라엘, 비상장) - 정밀발효 유제품
@@ -63,11 +53,7 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 - Those Vegan Cowboys (네덜란드, 비상장) - 정밀발효 유제품
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장점유율 데이터는 없으나, 정밀발효 유제품 분야의 선두주자로 평가받고 있습니다.
-
 ## 최근 3년 내 주요 이슈
 
 - 9천만 달러 규모의 프리 시리즈 E 투자 유치 (2023)
@@ -75,8 +61,12 @@ Perfect Day는 동물성 원료를 사용하지 않고 미생물 발효를 통�
 - B2C 사업부문 매각 추진 (2022)
 - Mars, Nestlé 등 대형 식품기업과의 파트너십 체결 (2021-2022)
 
+{{< adsense-infeed >}}
+
 - 기업 기본정보
 	- 유청 단백질 DNA를 효모에 삽입하고 배양기로 발효시켜 실제 우유·유제품의 영양 프로파일과 동일한 단백질 제조(우유 단백질)![](/images/https://i.imgur.com/XLhlHh7.png)
+
+{{< adsense-infeed >}}
 
 	- 비욘드미트([BYND](/company-analysis/bynd/)), 초바니 등 선도업체에서 과학자들을 영입해 혁신적인 대체 우유·유제품을 연구하는 과학 기반 (Science-based) 대체 단백질 업체 총 $723M 규모 자금 조달에 성공하며 시리즈 D 클로징
 	- 호라이즌 벤처스, SOSV, 테마섹, SK그룹 등의 유명 회사들이 주요 투자자로 참여

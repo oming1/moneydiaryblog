@@ -1,16 +1,12 @@
 ﻿---
 title: "PJM"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T06:50:33+09:00
 type: docs
 sidebar:
   open: false
 weight: 8
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #전력 #RTO #도매전력시장 
 
 - **기관설명**: PJM Interconnection은 미국 동부와 중서부 지역의 전력망을 관리하는 비영리 지역 송전 조직 ([RTO](/industry-study/rto/))입니다. PJM은 도매 전력 시장을 운영하고 고압 전력망의 신뢰성을 관리합니다

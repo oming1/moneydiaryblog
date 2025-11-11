@@ -1,16 +1,12 @@
 ﻿---
 title: "EVGO"
 date: 2024-10-03T21:19:53+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 328
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-03T12:19:53Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #특수소매 #유틸리티 #전기차 #전기차충전 
 
 ## 산업섹터
@@ -19,33 +15,28 @@ weight: 328
 - Industry: Specialty Retail (특수 소매)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전기차/)(EV)를 위한 직류 고속 충전 네트워크를 소유하고 운영합니다. 주요 사업은 공용 전기차 충전 서비스 제공, 충전 인프라 구축 및 운영입니다.
 
 ## 전방/후방산업
 
 - 전방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 전기 자동차 제조, 운송 서비스
     - 관련 기업: General Motors (US, [GM](/company-analysis/gm/)), Tesla (US, [TSLA](/company-analysis/tsla/))
-
-{{< adsense-infeed >}}
-
 - 후방산업:
-
-{{< adsense-infeed >}}
-
+- 후방산업:
     - 핵심 산업 및 역할: 전력 공급, 충전 장비 제조
     - 관련 기업: ChargePoint (US, [CHPT](/company-analysis/chpt/)), Blink Charging (US, [BLNK](/company-analysis/blnk/))
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
 - 충전 인프라 구축: EV 충전소 설계 및 설치
 - 네트워크 운영: 충전소 관리 및 유지보수
 - 서비스 제공: EV 운전자에게 충전 서비스 제공
-
 ## 주요제품
 
 - 공용 EV 충전 서비스
@@ -55,26 +46,25 @@ EVgo Inc.는 미국에서 [전기차](/industry-study/2산업자동차-산업전
 - 차량 전용 충전 서비스
 - PlugShare (EV 충전소 위치 앱)
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+미국 (35개 주에 950개 이상의 충전소 운영)
 
 {{< adsense-infeed >}}
 
-미국 (35개 주에 950개 이상의 충전소 운영)
-
 ## 경쟁업체
+
+{{< adsense-infeed >}}
 
 - ChargePoint (US, [CHPT](/company-analysis/chpt/)) - EV 충전 네트워크 운영
 - Blink Charging (US, [BLNK](/company-analysis/blnk/)) - EV 충전 장비 및 서비스 제공
 - Tesla (US, [TSLA](/company-analysis/tsla/)) - 자체 Supercharger 네트워크 운영
-
 ## 산업 내 글로벌 시장 점유율
 
 구체적인 시장 점유율 데이터는 제공되지 않았지만, EVgo는 미국 내 주요 EV 충전 네트워크 중 하나로 평가받고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - NASDAQ 상장 (2021)
 - Recargo(PlugShare 앱 개발사) 인수 (2021)
 - General Motors(GM)와 파트너십 확대 (2022)

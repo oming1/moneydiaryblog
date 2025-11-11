@@ -1,11 +1,11 @@
-﻿---
+---
 title: "★★ 매일 아침에 읽자"
 date: 2025-10-25T00:21:20+09:00
 lastmod: 2025-10-24T22:04:41+09:00
 type: docs
 sidebar:
   open: false
-weight: 1
+weight: 2
 ---
 <div style="display:none">
   <meta property="article:published_time" content="2025-10-24T15:21:20Z" />

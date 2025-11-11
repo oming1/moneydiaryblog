@@ -1,16 +1,12 @@
 ﻿---
 title: "OTLY"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 667
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #대체단백질 #비건 #비건음료 #귀리 #귀리음료 #식물성대체음료 #소비자방어주 #포장식품
 
 - **Sector**: 소비자 방어주 (Consumer Defensive)
@@ -29,6 +25,8 @@ Oatly는 귀리를 원료로 한 식물성 유제품 대체품을 생산하는 �
 - 리스크요인
 	- 장기적으로 정밀발효 단백질 기술을 바탕으로 한 신규 업체 진입에 따른 (예를 들어, [Perfect Day](/company-analysis/perfect-day/)) 시장경쟁 심화 우려
 
+{{< adsense-infeed >}}
+
 #### 전방/후방산업
 
 - **전방산업**:
@@ -37,46 +35,40 @@ Oatly는 귀리를 원료로 한 식물성 유제품 대체품을 생산하는 �
     - **농업 및 원료 공급**: 귀리와 같은 원료를 공급하는 농업 산업이 포함됩니다. 주요 기업으로는 Archer Daniels Midland(미국, ADM)와 Bunge Limited(미국, BG)가 있습니다.
 
 #### 밸류체인
-
 Oatly의 밸류체인은 귀리 재배에서부터 최종 소비자에게 제품을 제공하는 과정까지 포함됩니다. 대표적인 회사로는:
 
 - **Archer Daniels Midland (미국, ADM)**: 귀리 공급
 - **Bunge Limited (미국, BG)**: 원료 가공
 - **Tetra Pak**: 포장 솔루션 제공
 - **Starbucks (미국, [SBUX](/company-analysis/sbux/))**: 최종 제품 판매
-
-{{< adsense-infeed >}}
-
 #### 주요제품
-
-{{< adsense-infeed >}}
-
+#### 주요제품
 - **오트밀크**: 다양한 맛과 용도로 제공
 - **오트 요거트**: 다양한 맛과 스타일로 제공
 - **아이스크림**: 다양한 맛으로 제공
 - **요리용 크림**: 요리와 베이킹에 사용
 - **스프레드**: 다양한 맛으로 제공
 - **즉석 음료**: 다양한 맛과 용도로 제공
-
 #### 주요 판매국가
-
 Oatly의 주요 판매국가는 스웨덴, 독일, 영국, 미국, 중국 등입니다. 2019년 기준으로 스웨덴에서 24%, 영국에서 23%, 북미에서 19%의 매출을 기록했습니다.
-
 #### 경쟁업체
+
+{{< adsense-infeed >}}
 
 - **Lifeway Foods (미국, LWAY)**: 유제품 대체품
 - **Beyond Meat (미국, [BYND](/company-analysis/bynd/))**: 식물성 고기 대체품
 - **Ripple Foods**: 식물성 유제품 대체품
 - **Chobani**: 유제품 및 유제품 대체품
 
+{{< adsense-infeed >}}
+
 #### 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 Oatly는 스웨덴에서 전체 대체 유제품 카테고리에서 53%의 시장 점유율을 차지하고 있습니다. 이는 국제 확장의 목표로 삼고 있습니다.
 
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **IPO 및 상장**: 2021년 나스닥에 상장 (2021)
 - **환경 및 지속 가능성 논란**: 블랙스톤 그룹과의 협력으로 인해 환경 단체의 비판을 받음 (2020)
 - **회계 및 지속 가능성 문제**: Spruce Point Capital의 보고서에서 회계 및 지속 가능성 문제 제기 (2021)

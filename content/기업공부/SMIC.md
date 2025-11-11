@@ -1,16 +1,12 @@
 ﻿---
 title: "SMIC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 804
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 ## 핵심 키워드
 
 #반도체파운드리 #중국최대칩메이커 #첨단공정 #7nm기술 #AI칩 #IoT #자동차반도체 #국산화 #EUV리소그래피 #클라우드컴퓨팅 #5G #엣지컴퓨팅 #전력반도체 #이미지센서 #MCU #RF칩 #보안칩 #중국정부지원 #미중기술패권 #수출규제 #레거시 
@@ -18,12 +14,8 @@ weight: 804
 - 최근이슈
 
 ## 산업섹터
-
 섹터: 정보기술  
 산업: [반도체](/industry-study/반도체/)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) 제조 서비스를 제공합니다. 350nm에서 7nm까지의 다양한 공정 기술을 보유하고 있으며, 로직, 혼합신호, RF, 고전압, 이미지센서 등 다양한 제품을 생산합니다. 
@@ -31,6 +23,8 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 중국 전역에 웨이퍼 제조 시설을 운영하고 있으며, 글로벌 고객사들에게 서비스를 제공합니다. 최근에는 7nm 공정 기술 개발에 성공하여 주목받았으며, 2024년에는 5nm 공정 기술 도입을 목표로 하고 있습니다. 미중 기술 패권 경쟁 속에서 중국 정부의 전폭적인 지원을 받으며 반도체 국산화의 핵심 기업으로 자리매김하고 있습니다.
 
 중국 최대 파운드리. 글로벌 점유율 3위(M/S 6%). 딥시크 출시 후 주가 약 36% 상승. 딥시크 생성형AI 모델 ‘R1’ 추론 과정에 화웨이 AI 반도체 ‘어센드 910C’ 사용. 해당 7nm 칩 양산 가능 로컬 파운드리는 동사 유일
+
+{{< adsense-infeed >}}
 
 딥시크 등장의 최대 수혜는 중국 반도체 기업. 비록 딥시크의 보안과 비용 문제에 논란 있으나 결과적으로 고비용 하이엔드칩이 아니여도 챗GPT나 빅테크에 견줄만한 AI 기술 구현이 가능하다는 것을 증명. 
 
@@ -60,6 +54,8 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 
 전방산업:
 
+{{< adsense-infeed >}}
+
 - 스마트폰: 모바일 AP, 베이스밴드 칩 (Huawei, Xiaomi)
     
 - 자동차: 자율주행, 인포테인먼트 시스템 (BYD(CN, 1211), NIO(CN, [NIO](/company-analysis/nio/)))
@@ -67,9 +63,6 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 후방산업:
 
 - 반도체 장비: 리소그래피, 식각 장비 (ASML(NL, [ASML](/company-analysis/asml/)), Applied Materials(US, [AMAT](/company-analysis/amat/)))
-
-{{< adsense-infeed >}}
-
 - 소재: 웨이퍼, 포토레지스트 (Shin-Etsu Chemical(JP, 4063), JSR Corporation(JP, 4185))
 
 ## 밸류체인
@@ -98,6 +91,8 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 
 ## 주요 고객
 
+{{< adsense-infeed >}}
+
 1. Huawei: 모바일 AP, 5G 베이스밴드 칩
     
 2. Qualcomm(US, [QCOM](/company-analysis/qcom/)): 모바일 SoC, RF 프론트엔드 모듈
@@ -105,11 +100,12 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 3. Broadcom(US, [AVGO](/company-analysis/avgo/)): 네트워크 프로세서, 스위치 칩
     
 4. Texas Instruments(US, [TXN](/company-analysis/txn/)): 아날로그 IC, 마이크로컨트롤러
-    
+
+{{< adsense-infeed >}}
+
 5. MediaTek(TW, 2454): 모바일 SoC, WiFi 칩셋
 
 ## 주요 판매국가
-
 중국(75.7%), 아시아 태평양(19.5%), 유럽(4.6%), 북미(0.2%) (2024년 기준)
 
 ## 경쟁업체
@@ -126,10 +122,11 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 2024년 기준 글로벌 파운드리 시장에서 약 6.8%의 점유율을 보유하고 있으며, 최근 3년간 꾸준히 상승 중입니다.
 
 ## 최근 3년 내 주요 이슈
-
 1. 7nm 공정 기술 개발 성공 발표 (2022년)
     
 2. 미국의 수출 규제로 인한 EUV 장비 도입 제한 (2023년)
@@ -157,7 +154,4 @@ SMIC는 중국 최대의 반도체 파운드리 기업으로, 집적회로(IC) �
 3. Invesco China Technology ETF - CQQQ
     
 4. KraneShares CICC China 5G & Semiconductor ETF - KFVG
-
-{{< adsense-infeed >}}
-
 5. Global X China Semiconductor ETF - CHIS

@@ -1,16 +1,12 @@
 ﻿---
 title: "DNA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 286
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #헬스케어 #바이오테크 #바이오보안 #세포프로그래밍플랫폼 #효소
 
 ## 산업섹터
@@ -19,9 +15,6 @@ Sector: [헬스케어](/industry-study/2산업헬스케어/)
 Industry: [바이오테크](/industry-study/바이오테크/)(Biotechnology)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 위한 플랫폼을 구축하는 생명공학 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **세포 프로그래밍 플랫폼**: 세포를 설계하여 식품 원료, 치료제, 화학물질 등의 생물학적 생산을 가능하게 합니다.
@@ -35,44 +28,39 @@ Ginkgo Bioworks Holdings, Inc.는 세포 프로그래밍과 바이오보안을 �
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - **제약 및 바이오테크 기업**: Merck (US, [MRK](/company-analysis/mrk/)), Bayer (독일, BAYN.DE)
 - **식품 및 소비재 산업**: Ajinomoto (일본), Cargill (미국)
-
 ## 후방산업
 
 - **생명공학 연구 장비 제조업체**: Illumina (US, [ILMN](/company-analysis/ilmn/))
 - **유전자 합성 서비스 제공업체**: Twist Bioscience (US, [TWST](/company-analysis/twst/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. **연구개발**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
     
     - 자동화된 실험실과 AI 기술로 유기체 설계 및 최적화.
-    
-2. **생산 및 상용화**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
-    
-    - 발효 및 대량 생산 지원.
 
 {{< adsense-infeed >}}
 
+2. **생산 및 상용화**: Ginkgo Bioworks (US, [DNA](/company-analysis/dna/))
+    
+    - 발효 및 대량 생산 지원.
 3. **응용 및 협력**: 제약회사 및 산업 파트너와 협력하여 제품 개발.
 
 ## 주요제품
+
+{{< adsense-infeed >}}
 
 1. **세포 프로그래밍 플랫폼**
 2. **효소 발견 및 최적화 서비스**
 3. **발효 및 스케일업 솔루션**
 4. **백신 개발 지원**
 5. **바이오보안 서비스**
-
 ## 주요 판매국가
 
 Ginkgo Bioworks는 주로 미국 시장에서 사업을 영위하며 글로벌 파트너와 협력하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Recursion Pharmaceuticals (US, [RXRX](/company-analysis/rxrx/))
@@ -82,6 +70,8 @@ Ginkgo Bioworks는 주로 미국 시장에서 사업을 영위하며 글로벌 �
 5. Amyris (US)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 시장 점유율 데이터는 제공되지 않았지만 Ginkgo Bioworks는 세포 프로그래밍 분야에서 선도적인 기업으로 평가받고 있습니다.
 

@@ -1,16 +1,12 @@
 ﻿---
 title: "MRM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 590
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #헬스케어 #의료기술 #스마트헬스 #디지털헬스 #원격의료 #건강관리 #AI #데이터분석 #환자맞춤형 #의료서비스 #예방의학 #의료기기 #비용효율성 #헬스케어혁신 #모바일앱 #건강모니터링 #의사결정지원 #디지털치료
 
 ---
@@ -23,9 +19,6 @@ weight: 590
 ---
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술 기업으로, 디지털 헬스 및 원격 의료 솔루션을 개발하고 제공합니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **스마트 헬스케어 솔루션:**
@@ -39,7 +32,9 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
     - 비대면 진료 및 상담 서비스를 통해 환자의 편의성을 높이고 있습니다.
 
 3. **데이터 분석 및 AI 기술:**
-    
+
+{{< adsense-infeed >}}
+
     - 수집된 건강 데이터를 분석하여 예방의학 및 맞춤형 치료를 지원합니다.
     - AI 기반의 알고리즘을 통해 환자의 건강 상태를 예측하고 관리합니다.
 
@@ -129,6 +124,8 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 - **소프트웨어 개발사:** 헬스케어 플랫폼 및 애플리케이션 개발
 - **데이터 분석 기업:** 데이터 분석 및 AI 기술 제공
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 밸류체인
@@ -137,9 +134,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 
 - **소프트웨어 개발사:** 헬스케어 플랫폼 및 애플리케이션 (시장점유율 15%, 다양한 헬스케어 솔루션 제공)
 - **데이터 분석 기업:** 데이터 분석 및 AI 기술 (시장점유율 10%, 헬스케어 데이터 분석 제공)
-
-{{< adsense-infeed >}}
-
 **제조 및 조립 단계:**
 
 - **MEDIROM(US, MDRO):** 헬스케어 기술 및 서비스 제공
@@ -158,7 +152,9 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
     - **매출비중:** 50% (2023년)
     - **주요 경쟁사:** **Teladoc Health, Inc.** TDOC
 - **원격 의료 서비스:**
-    
+
+{{< adsense-infeed >}}
+
     - **설명:** 환자와 의료진 간의 원활한 소통을 지원하는 플랫폼
     - **매출비중:** 30% (2023년)
     - **주요 경쟁사:** **Amwell** AMWL
@@ -167,6 +163,8 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
     - **설명:** 건강 데이터를 분석하여 예방의학 및 맞춤형 치료 지원
     - **매출비중:** 20% (2023년)
     - **주요 경쟁사:** **Health Catalyst** HCAT
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -178,9 +176,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
     - **주요 공급지:** 미국
     - **주요 공급업체:** **Microsoft**(US, [MSFT](/company-analysis/msft/))
 - **데이터 분석 도구:**
-
-{{< adsense-infeed >}}
-
     - **설명:** 데이터 분석 및 AI 모델링에 필요한 도구
     - **주요 공급지:** 미국
     - **주요 공급업체:** **IBM**(US, [IBM](/company-analysis/ibm/))
@@ -197,6 +192,8 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 
 ### 주요 판매 국가
 
+{{< adsense-infeed >}}
+
 - **일본:** 60% (2023년 기준, 3년간 +4.0%p)
 - **북미:** 25% (2023년 기준, 3년간 +2.5%p)
 - **아시아:** 15% (2023년 기준, 3년간 +1.5%p)
@@ -204,7 +201,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 ---
 
 ### 경쟁업체
-
 - **Teladoc Health, Inc. (US, TDOC):** 원격 의료 서비스, 시장점유율 12%
 - **Amwell (US, AMWL):** 원격 의료 서비스, 시장점유율 8%
 - **Health Catalyst (US, HCAT):** 데이터 분석 및 헬스케어 솔루션, 시장점유율 5%
@@ -249,7 +245,6 @@ MEDIROM Healthcare Technologies Inc.는 2016년에 설립된 헬스케어 기술
 ---
 
 ### 관련 ETF
-
 **직접 관련 ETF:**
 
 - **XHE:** SPDR S&P Health Care Equipment ETF XHE

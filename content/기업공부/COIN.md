@@ -1,16 +1,12 @@
 ﻿---
 title: "COIN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 215
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #암호화폐 #비트코인 #이더리움 #디지털자산 #블록체인 #거래소 #커스터디 #스테이블코인 #USDC #스테이킹 #DeFi #NFT #웹3 #핀테크 #디지털지갑 #Layer2 #Base #기관투자자 #개인투자자 #규제 #라이선스 #금융 #핀테크
 
 ---
@@ -28,6 +24,8 @@ weight: 215
 ## 영위사업
 
 Coinbase Global Inc.는 2012년 설립된 세계 최대 규모의 [암호화폐](/industry-study/2산업암호화폐/) 거래소이자 디지털 자산 플랫폼으로, 개인 및 기관 투자자에게 암호화폐 거래, 보관, 스테이킹, 결제 서비스를 제공하는 종합 디지털 자산 서비스 기업입니다. 2021년 4월 나스닥 직상장(DPO)을 통해 상장된 최초의 주요 암호화폐 기업입니다.
+
+{{< adsense-infeed >}}
 
 주요 사업부문으로는 Consumer(개인 거래 플랫폼), Institutional(기관 투자자 서비스), Developer Platform(개발자 API 및 인프라), International Exchange(글로벌 거래소)로 구성됩니다. 2024년 매출 62억 9천만 달러를 기록하며 7분기 연속 조정 EBITDA 흑자, 4분기 연속 순이익 흑자를 달성했습니다.
 
@@ -112,9 +110,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 
 - 콜드 스토리지 시설 운영
 - 다중 보안 체계 구축 및 관리
-
-{{< adsense-infeed >}}
-
 **4. 규제 준수 체계:**
 
 - 글로벌 규제 요구사항 준수
@@ -179,9 +174,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 **Institutional Services:** 기관 투자자 서비스, 매출 비중 약 40% (2024년 기준), 관련 경쟁사 BAKKT, GALAXY
 
 **Subscription & Services:** 커스터디, 스테이킹, USDC, 매출 비중 약 25% (2024년 기준), 관련 경쟁사 BITGO, FIREBLOCKS
-
-{{< adsense-infeed >}}
-
 **Developer Platform:** API 및 인프라 서비스, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 ALCHEMY, INFURA
 
 **Base Layer2:** 이더리움 기반 스케일링 솔루션, 매출 기여도 성장 중, 관련 경쟁사 POLYGON, ARBITRUM
@@ -189,7 +181,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 ---
 
 ## 주된 영향을 미치는 원자재
-
 **클라우드 컴퓨팅 서비스:**
 
 - 사용처: 거래소 인프라, 데이터 저장 및 처리
@@ -233,9 +224,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - Citigroup(US, [C](/company-analysis/c/)) - 상업은행, 기관 투자자 서비스
 - Charles Schwab(US, [SCHW](/company-analysis/schw/)) - 증권회사, 기관 투자자 서비스
 - Interactive Brokers(US, [IBKR](/company-analysis/ibkr/)) - 온라인 브로커, 기관 투자자 서비스
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 판매국가
@@ -279,7 +267,6 @@ Coinbase는 제조업체가 아닌 디지털 플랫폼 기업으로, 소프트�
 - 2위: Kraken - 약 20%
 - 3위: Gemini - 약 10%
 - 4위: 기타 - 약 10%
-
 글로벌 암호화폐 거래소 시장 점유율 약 2위 (2024년 기준), 시장 점유율 약 7.8% (2024년 기준)
 
 - 1위: Binance - 약 12.6%
@@ -302,6 +289,8 @@ Coinbase는 암호화폐 업계의 대표적인 상장 기업으로서 규제 �
 Layer2 네트워크 Base의 성공적 런칭은 미래 성장 동력을 확보했음을 보여줍니다. 이더리움 기반 스케일링 솔루션으로 트랜잭션 처리량과 총 가치 모두 동종 Layer2 중 1위를 기록하며, 웹3 생태계의 핵심 인프라로 자리잡고 있습니다.
 
 재무 건전성 측면에서도 우수한 성과를 보이고 있습니다. 현금 및 단기금융자산 82억 달러, 부채 비율 10% 미만으로 안정적인 재무 구조를 유지하고 있으며, 10억 달러 규모의 자사주 매입 프로그램을 통해 주주 환원을 확대하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ---
 

@@ -1,16 +1,12 @@
 ﻿---
 title: "LEN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 512
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #Lennar #LEN #Homebuilder #주택건설 #ResidentialConstruction #미국주택시장 #HousingMarket #신축주택 #부동산개발 #건설사 #LandBank #BuildforRent #Backlog #MortgageRates #HousingDemand #SupplyChain #원자재비용 #수익성  #주택수급불균형 #주택가격 #시장점유율 #비용절감 #디지털설계 #그린빌딩 #워렌버핏 
 
 ---
@@ -38,6 +34,8 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 ---
 
 ### 비즈니스 모델 (수익 모델)
+
+{{< adsense-infeed >}}
 
 - 사업 부문별 매출 비중:  
     • 주택건설: $37.0B (84%)  
@@ -70,6 +68,8 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - 종합 서비스 모델: 금융·타이틀·보험까지 통합 제공, 고객 전환율 90% 이상
 - 브랜드 인지도: Fortune 500 고객 대상 설문에서 신뢰도 1위
 
+{{< adsense-infeed >}}
+
 ---
 
 ### 핵심 기술
@@ -81,9 +81,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 ---
 
 ### 제조 공정
-
-{{< adsense-infeed >}}
-
 1단계: **부지 발굴·인허가** – 현지 시장 분석 후 토지 계약 및 인허가  
 
 2단계: **디지털 설계·모듈 제작** – 3D 설계 완료 후 공장 생산 모듈 선제작  
@@ -97,16 +94,11 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 ---
 
 ### 전방산업 / 후방산업
-
 전방산업 (제품 사용 산업):
 
 - Realtor 서비스: Keller Williams(US, KW) – 신규 주택 중개
 - 기관 임대 리츠: Invitation Homes(US, INVH) – build-for-rent 운용
-
 후방산업 (원자재/부품 공급 산업):
-
-{{< adsense-infeed >}}
-
 - Weyerhaeuser(US, WY) – 목재 (북미 제1위, 시장점유율 15%)
 - Vulcan Materials(US, [VMC](/company-analysis/vmc/)) – 시멘트·골재 (시장점유율 12%)
 - Nucor(US, [NUE](/company-analysis/nue/)) – 구조용 강재 (시장점유율 8%)
@@ -164,7 +156,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 • 서부: 21% (3년간 -2%p)  
 • 북동부: 15% (3년간 +1%p)  
 • 중서부: 16% (3년간 -2%p)
-
 ---
 
 ### 경쟁업체
@@ -199,7 +190,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - **2024년:** 분기별 Backlog 사상 최대치 경신($19.3B), share repurchase 프로그램 확대
 - **2023년:** WCI Communities(US, WCI) 인수 완전 통합(거래가 $4.5B), 규모의 경제 극대화
 - **2022년:** 신규 build-for-rent 플랫폼 출범, 대형 리츠와 파트너십 체결
-
 ---
 ### 주요 주주 (지분율)
 
@@ -209,9 +199,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - Wellington Management: 1.5% (4.0M주)
 - 기관 투자자 총합: 75%
 - 개인 투자자: 25%
-
-{{< adsense-infeed >}}
-
 ---
 ### 관련 ETF
 

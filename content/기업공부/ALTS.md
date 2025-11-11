@@ -1,16 +1,12 @@
 ﻿---
 title: "ALTS"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 56
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #ALT5Sigma #ALTS #핀테크 #크립토서비스 #블록체인인프라 #디지털자산 #암호화폐결제 #CaaS #스테이블코인 #라이트닝네트워크 #WLFI #WorldLibertyFinancial #EricTrump #ZachWitkoff #토큰화 #디지털자산거래 #암호화폐커스터디 #규제준수 #AML #KYC
 
 ---
@@ -32,12 +28,13 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
     - 플러그앤플레이 API 및 사전 통합된 유동성 제공
     - 완전한 브랜딩 제어와 맞춤형 기능 구현
 
+{{< adsense-infeed >}}
+
 2. **디지털자산 결제 처리**
     
     - ALT5 Pay: 상품과 플랫폼을 위한 피아트-크립토 결제 브릿지
     - 디지털자산 수취 시 피아트 정산 서비스
     - 라이트닝 네트워크 통합으로 즉시 비트코인·USDT 결제 지원
-
 3. **디지털자산 거래·브로커리지**
     
     - ALT5 Prime: 기관용 OTC 디지털자산 거래 플랫폼
@@ -56,19 +53,14 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
     - 규제 준수 커스터디 솔루션
 
 6. **컴플라이언스 인프라**
-
-{{< adsense-infeed >}}
-
     - AML/KYC, 거래 모니터링, 보고 도구 내장
     - FINRA 멤버, 은행, 신용조합 대상 규제 준수 지원
-
 7. **World Liberty Financial (WLFI) 파트너십**
-    
-    - 2025년 $1.5B 투자 유치로 WLFI 토큰 Treasury 전략 개시
-    - 트럼프 관련 DeFi 플랫폼과의 전략적 제휴
 
 {{< adsense-infeed >}}
 
+    - 2025년 $1.5B 투자 유치로 WLFI 토큰 Treasury 전략 개시
+    - 트럼프 관련 DeFi 플랫폼과의 전략적 제휴
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -118,7 +110,6 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
 - KYC/AML 검증 및 규제 준수 확인
 
 2단계: **시스템 통합**
-
 - API 연동 및 맞춤형 설정 구현
 
 3단계: **테스트 환경**
@@ -130,9 +121,6 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
 - 프로덕션 환경 출시 및 모니터링
 
 5단계: **지속적 지원**
-
-{{< adsense-infeed >}}
-
 - 24/7 기술 지원 및 시스템 유지보수
 
 ---
@@ -146,9 +134,6 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
 - 브로커-딜러: FINRA 등록 증권사들
 - 자산관리사: BlackRock([BLK](/company-analysis/blk/)), Fidelity 등
 - 결제 서비스 제공업체(PSP): 다양한 결제 플랫폼
-
-{{< adsense-infeed >}}
-
 **후방산업 (기술·인프라 공급)**
 
 - 클라우드 서비스: Amazon Web Services([AMZN](/company-analysis/amzn/)), Microsoft Azure([MSFT](/company-analysis/msft/))
@@ -171,6 +156,8 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
 - **CaaS 플랫폼**: 통합 암호화폐 서비스 인프라 (매출비중 20%)
 - **커스터디 서비스**: 디지털자산 안전 보관 (매출비중 7%)
 - **기타 서비스**: 컨설팅, 라이선싱 등 (매출비중 3%)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -223,9 +210,6 @@ ALT5 Sigma는 "기관급 디지털자산 인프라 서비스"를 제공하는 �
 ---
 
 ### 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 - **매출 성장률:** Q1 2025 핀테크 부문 기록적 성과
 - **조정 EBITDA:** 2024년 18.2% (핀테크 부문)
 - **총 마진:** 50.2% (2024년 핀테크 부문)

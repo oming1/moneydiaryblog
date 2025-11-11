@@ -1,16 +1,12 @@
 ﻿---
 title: "KBH"
 date: 2024-10-30T20:54:18+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 480
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T11:54:18Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #주택건설 #부동산 #임의소비재 
 
 ## 산업섹터
@@ -21,23 +17,17 @@ weight: 480
 ## 영위사업
 
 KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부동산/))로, 주로 단독 주택과 타운하우스를 건설하고 판매합니다.
-
 ## 전방/후방산업
-
 ## 후방산업
 
 - 건설자재 공급업체: 목재, 콘크리트 등 자재 공급
 - 가전제품 제조업체: 주택에 설치될 가전제품 공급
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 부동산 중개업: 주택 판매 지원
 - 모기지 금융: 주택 구매자를 위한 금융 서비스
-
-{{< adsense-infeed >}}
-
+- 부동산 중개업: 주택 판매 지원
+- 모기지 금융: 주택 구매자를 위한 금융 서비스
 ## 밸류체인
 
 1. 토지 확보: KB Home (토지 매입 및 개발)
@@ -47,14 +37,12 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 5. 판매 및 마케팅: KB Home (자체 판매팀)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 단독 주택
 - 타운하우스
 - 주택 맞춤 설계 서비스
-
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국 (주로 서부, 남서부, 중부 지역)
 
@@ -66,6 +54,8 @@ KB Home은 미국의 주택 건설 회사([부동산](/industry-study/2산업부
 - NVR, Inc.(US, [NVR](/company-analysis/nvr/)) (주택 건설)
 
 ## 산업 내 글로벌 시장 점유율
+
+{{< adsense-infeed >}}
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, KB Home은 미국 주요 주택 건설업체 중 하나로 평가받고 있습니다.
 

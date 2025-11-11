@@ -1,16 +1,12 @@
 ﻿---
 title: "TM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 874
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #자동차제조 #글로벌브랜드 #하이브리드기술 #품질관리 #생산시스템 #연구개발 #글로벌네트워크 #다각화사업 #지속가능성 #전기차전환 #자율주행 #커넥티드카 #공급망관리 #인재육성 #브랜드가치 #재무건전성 #임의소비재 #자동차 #일본 #전기차 #자동차 
 
 임의소비재 섹터  
@@ -19,7 +15,6 @@ weight: 874
 ## 영위사업
 
 Toyota Motor Corporation은 세계 최대 자동차 제조업체 중 하나로, 승용차, 버스, 미니밴, 트럭, 특수차량, 레저용 차량 등을 설계, 제조 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
-
 1. [자동차](/industry-study/자동차/) 사업: 승용차, 상용차 등 다양한 차종 생산 및 판매
 2. 금융 서비스: 딜러 및 고객을 위한 자동차 구매/리스 금융 제공
 3. 기타 사업: 주택, 정보통신, 해양, 바이오테크놀로지 등 다각화된 사업 영위
@@ -35,22 +30,22 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 5. 재무 건전성: 안정적인 재무구조와 높은 현금 보유량을 바탕으로 지속적인 투자와 위기 대응 능력을 갖추고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 1. 자동차 부품: Denso Corporation(JP, Denso)
 2. 타이어: Bridgestone Corporation(JP, Bridgestone)
 3. 자동차 판매 및 정비: AutoNation, Inc.(US, [AN](/company-analysis/an/))
-
 후방산업:
 
 1. 철강: Nippon Steel Corporation(JP, [Nippon Steel](/company-analysis/nippon-steel/))
 2. 알루미늄: Alcoa Corporation(US, [AA](/company-analysis/aa/))
 3. 반도체: NVIDIA Corporation(US, [NVDA](/company-analysis/nvda/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
+
+{{< adsense-infeed >}}
 
 1. 연구개발: Toyota Research Institute(US, Toyota)
 2. 원자재 조달: Sumitomo Metal Mining Co., Ltd.(JP, [Sumitomo Metal Mining](/company-analysis/sumitomo-metal-mining/))
@@ -73,7 +68,11 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 
 Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한 고객층을 포함합니다.
 
+{{< adsense-infeed >}}
+
 ## 주요 판매국가
+
+{{< adsense-infeed >}}
 
 미국, 일본, 중국, 유럽 국가들, 동남아시아 국가들
 
@@ -86,9 +85,6 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 5. Stellantis N.V.(NL, [STLA](/company-analysis/stla/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2023년 기준 Toyota의 글로벌 자동차 시장 점유율은 약 10.5%로, 세계 1위 자동차 제조업체의 위치를 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -98,7 +94,6 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 3. 탄소중립 목표 설정 및 지속가능성 전략 발표 (2021)
 4. 자율주행 기술 개발을 위한 투자 확대 (2022-2023)
 5. COVID-19 팬데믹 영향 및 공급망 재구축 (2020-2022)
-
 ## 주요주주(지분율)
 
 1. Toyota Industries Corp. (7.55%)
@@ -108,9 +103,6 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 5. Tokio Marine Holdings, Inc. (1.62%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. iShares MSCI Japan ETF - EWJ
 2. JPMorgan BetaBuilders Japan ETF - BBJP
 3. Franklin FTSE Japan ETF - FLJP
@@ -118,5 +110,4 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 5. iShares Global Consumer Discretionary ETF - RXI
 
 공유
-
 다시 쓰기

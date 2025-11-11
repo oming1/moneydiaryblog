@@ -1,16 +1,12 @@
 ﻿---
 title: "IHRT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 438
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #라디오방송 #디지털오디오 #팟캐스트 #오디오광고 #방송네트워크 #미디어 #iHeartRadio #오디오콘텐츠 #스트리밍 #광고플랫폼 #디지털광고 #커뮤니케이션서비스 #엔터테인먼트 #오디오애널리틱스 #프로그래매틱광고 #팟캐스트플랫폼 #ClearChannel #오디오기술 #음성광고 #미디어네트워크
 
 ---
@@ -34,7 +30,6 @@ iHeartMedia Inc는 미국 최대 규모의 오디오 미디어 기업으로, 197
 **주요 사업부문**으로는 Multiplatform Group(전통적인 라디오 방송), Digital Audio Group(팟캐스트 및 디지털 오디오), Audio & Media Services Group(광고 기술 및 서비스)으로 구성됩니다. iHeartRadio 플랫폼을 통해 라이브 라디오, 팟캐스트, 음악 스트리밍 서비스를 제공하며, 연간 20억 건 이상의 팟캐스트 다운로드를 기록하고 있습니다.
 
 **최근 실적**으로는 2024년 연간 매출 38억 5,450만 달러(전년 대비 2.8% 증가)를 달성했으며, 디지털 오디오 부문에서 7% 성장을 기록했습니다. 팟캐스트 매출은 1억 4,000만 달러로 6% 증가했습니다.
-
 **리스크 요소**로는 전통적인 라디오 광고 시장의 지속적인 감소, 높은 부채 부담(약 55억 달러), Spotify, Apple 등 디지털 플랫폼과의 경쟁 심화, 정치 광고 의존도가 있습니다. **주된 원자재**는 라디오 스펙트럼 라이선스, 콘텐츠 제작 인력, 디지털 인프라입니다.
 
 **1년 이내 최근 이슈**로는 2024년 11월 Transaction Support Agreement 체결을 통한 재무구조 개선, 2025년 6월 Audacy와 콘텐츠 배급 파트너십 체결, 아시아 시장 진출을 위한 iHeartPodcasts 론칭이 있습니다. **최근 1년 주가동향**은 52주 최고가 $2.94에서 최저가 $1.18로 큰 변동성을 보이며, 현재 주가 $1.86으로 연초 대비 하락 추세입니다.
@@ -100,9 +95,6 @@ iHeartMedia의 핵심 경쟁력은 미국 내 압도적인 오디오 미디어 �
 - The Trade Desk(US, [TTD](/company-analysis/ttd/)) - 프로그래매틱 광고 파트너십
 - Magnite(US, [MGNI](/company-analysis/mgni/)) - 디지털 광고 플랫폼 협력
 - Capital One(US, [COF](/company-analysis/cof/)) - 주요 스폰서십 파트너
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요제품
@@ -119,6 +111,8 @@ iHeartMedia의 핵심 경쟁력은 미국 내 압도적인 오디오 미디어 �
 전통적인 물리적 원자재보다는 라이선스 및 서비스가 주요 투입 요소:
 
 **방송 라이선스**:
+
+{{< adsense-infeed >}}
 
 - 사용처: 라디오 주파수 사용권, 방송 운영 허가
 - 주요 공급 지역: 미국 연방통신위원회(FCC)
@@ -182,7 +176,6 @@ iHeartMedia의 핵심 경쟁력은 미국 내 압도적인 오디오 미디어 �
 ---
 
 ## 기업 특징 및 성장성
-
 iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850개 이상의 라디오 방송국과 iHeartRadio 플랫폼을 통해 압도적인 시장 지배력을 보유하고 있습니다. 2024년 연간 매출 38억 5,450만 달러를 기록하며 디지털 전환을 적극적으로 추진하고 있습니다.
 
 특히 디지털 오디오 부문에서의 성장이 주목할 만합니다. 팟캐스트 매출이 지속적으로 증가하고 있으며, 프로그래매틱 광고 기술 도입을 통해 광고 효율성을 향상시키고 있습니다. 또한 Audacy와의 콘텐츠 배급 파트너십, 글로벌 시장 진출 등을 통해 성장 동력을 확보하고 있습니다.
@@ -205,10 +198,9 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 
 ## 주요주주 (지분율)
 
-**기관 투자자**: 87.26% (2025년 기준) **내부자**: 9.98% **개인 및 기타**: 2.76%
-
 {{< adsense-infeed >}}
 
+**기관 투자자**: 87.26% (2025년 기준) **내부자**: 9.98% **개인 및 기타**: 2.76%
 **주요 기관 투자자**:
 
 - Global Media & Entertainment Investments Ltd: 18.14M 주 (약 14.4%)
@@ -222,18 +214,19 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 ## 관련 ETF
 
 **커뮤니케이션 서비스 관련 ETF**:
-
-{{< adsense-infeed >}}
-
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX
 - iShares U.S. Telecommunications ETF - IYZ
+
+{{< adsense-infeed >}}
 
 **미디어 및 엔터테인먼트 관련 ETF**:
 
 - Invesco Dynamic Media ETF - PBS
 - SPDR S&P Kensho New Economies Composite ETF - KOMP
 - VanEck Social Sentiment ETF - BUZZ
+
+{{< adsense-infeed >}}
 
 **소형주 관련 ETF**:
 

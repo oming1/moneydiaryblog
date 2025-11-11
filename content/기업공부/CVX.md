@@ -1,16 +1,12 @@
 ﻿---
 title: "CVX"
 date: 2024-09-13T12:56:42+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 252
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T03:56:42Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #통합오일및가스 #에너지 #원유 #천연가스 #화학 #석유화학
 
 #### 산업섹터 (Sector, Industry)
@@ -19,16 +15,14 @@ weight: 252
 - **Industry (산업)**: 통합 오일 및 가스 (Oil & Gas Integrated)
 
 #### 영위사업
-
 쉐브론은 [원유](/industry-study/원유/)와 [천연가스](/industry-study/천연가스/)의 탐사 및 생산, 정제,화학제품] 제조, 그리고 특수 제품 제조를 포함한 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
+
+{{< adsense-infeed >}}
 
 - **Upstream**: 원유 및 천연가스 탐사 및 생산
 - **Downstream**: 원유 정제 및 [석유화학](/industry-study/석유화학/) 제품 제조, 마케팅 및 운송
 
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Upstream Industry)**:
     - **핵심 산업**: 원유 및 천연가스 탐사 및 생산
     - **핵심 기업**: Exxon Mobil (미국, [XOM](/company-analysis/xom/)), ConocoPhillips (미국, [COP](/company-analysis/cop/))
@@ -36,10 +30,9 @@ weight: 252
     - **핵심 산업**: 정제 및 석유화학 제품 제조
     - **핵심 기업**: Royal Dutch Shell (네덜란드, RDS.A), BP (영국, BP)
 
-#### 밸류체인
-
 {{< adsense-infeed >}}
 
+#### 밸류체인
 - **탐사 및 생산 (Exploration & Production)**:
     - **설명**: 원유 및 천연가스의 탐사 및 생산
     - **대표회사**: Chevron (미국, [CVX](/company-analysis/cvx/)), Exxon Mobil (미국, [XOM](/company-analysis/xom/))
@@ -55,15 +48,10 @@ weight: 252
 - **연료**: 휘발유, 디젤, 항공유
 - **화학 제품**: [올레핀](/industry-study/올레핀/), [폴리올레핀](/industry-study/폴리올레핀/)
 - **특수 제품**: 윤활유, 기초유, 왁스
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
 - **미국**: 전체 매출의 대부분을 차지하며, 북미, 남미, 유럽, 아시아, 아프리카 등 다양한 지역에서 판매
 
 #### 경쟁업체
-
 - **Exxon Mobil (미국, [XOM](/company-analysis/xom/))**: 원유 및 천연가스 탐사, 생산, 정제
 - **BP (영국, BP)**: 원유 및 천연가스 탐사, 생산, 정제
 - **Royal Dutch Shell (네덜란드, RDS.A)**: 원유 및 천연가스 탐사, 생산, 정제

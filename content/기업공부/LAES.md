@@ -1,16 +1,12 @@
 ﻿---
 title: "LAES"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 504
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #암호화폐 #블록체인 #디지털자산 #보안 #IoT #클라우드 #정보기술 #양자컴퓨터 #전자장비 #정보기술 #디지털보안 
 
 ## 산업 섹터
@@ -18,13 +14,8 @@ weight: 504
 정보기술
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 전자장비, 기기 및 부품(Electronic Equipment, Instruments & Components)
-
-{{< adsense-infeed >}}
-
+전자장비, 기기 및 부품(Electronic Equipment, Instruments & Components)
 ## 영위사업
 
 SEALSQ Corp(LAES)는 디지털 보안 및 IoT 솔루션을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -38,9 +29,6 @@ SEALSQ Corp(LAES)는 디지털 보안 및 IoT 솔루션을 제공하는 기업�
 SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루션을 제공하고 있으며, 특히 암호화폐 및 디지털 자산 보안 분야에서 강점을 보이고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 독자적인 보안 칩 기술: 자체 개발한 보안 반도체 칩 기술로 높은 수준의 보안 제공
 2. 암호화 전문성: 첨단 암호화 알고리즘 및 프로토콜 개발 능력 보유
 3. 블록체인 통합: 블록체인 기술을 활용한 혁신적인 보안 솔루션 제공
@@ -53,17 +41,16 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
     
     - 반도체 제조: TSMC(TW, [TSM](/company-analysis/tsm/))
     - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
-    
-2. 전방산업:
 
 {{< adsense-infeed >}}
 
+2. 전방산업:
     - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
     - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
     - 암호화폐 거래소: Coinbase(US, [COIN](/company-analysis/coin/))
-
-{{< adsense-infeed >}}
-
+    - IoT 기기 제조: Honeywell(US, [HON](/company-analysis/hon/))
+    - 자동차 제조: Tesla(US, [TSLA](/company-analysis/tsla/))
+    - 암호화폐 거래소: Coinbase(US, [COIN](/company-analysis/coin/))
 ## 밸류체인
 
 1. 칩 설계: SEALSQ (주요 사업 영역)
@@ -88,7 +75,6 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
 9. 산업용 장비 제조업체
 10. 암호화폐 거래소
 11. 정부 기관
-
 ## 주요 판매국가
 
 SEALSQ Corp의 구체적인 판매 국가 정보는 제공되지 않았으나, 글로벌 시장을 대상으로 사업을 전개하고 있는 것으로 보입니다.
@@ -102,9 +88,7 @@ SEALSQ Corp의 구체적인 판매 국가 정보는 제공되지 않았으나, �
 16. Rambus(US, RMBS) - 보안 IP 및 칩
 
 ## 산업 내 글로벌 시장 점유율
-
 SEALSQ Corp의 정확한 시장 점유율 데이터는 제공되지 않았습니다.
-
 ## 최근 3년 내 주요 이슈
 
 17. 나스닥 상장 (2023년)
@@ -114,6 +98,8 @@ SEALSQ Corp의 정확한 시장 점유율 데이터는 제공되지 않았습니
 21. 클라우드 보안 서비스 강화 (2022-2024년)
 
 ## 주요주주(지분율)
+
+{{< adsense-infeed >}}
 
 구체적인 주요 주주 정보는 제공되지 않았습니다.
 

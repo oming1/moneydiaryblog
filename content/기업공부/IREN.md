@@ -1,16 +1,12 @@
 ﻿---
 title: "IREN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 460
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #비트코인마이닝 #암호화폐채굴 #재생에너지 #지속가능채굴 #AI클라우드서비스 #데이터센터 #GPU클러스터 #NVIDIA #블록체인인프라 #해시레이트 #디지털자산 #ASIC마이너 #전력효율성 #크립토마이닝 #친환경채굴 #하이퍼스케일 #HPC #머신러닝 #풀사이드 #북미채굴 #엑사해시 #그린에너지 #암호화폐인프라 #AI인프라 #클라우드컴퓨팅 #블랙웰GPU
 
 ---
@@ -19,9 +15,6 @@ weight: 460
 
 **섹터(Sector):** Technology - 테크  
 **산업(Industry):** Data Processing & Outsourced Services - 데이터 처리 및 아웃소싱 서비스
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 4. 영위사업 (10줄 이상 상세 서술)
@@ -42,6 +35,8 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 
 **수익 구조 세분화:**
 
+{{< adsense-infeed >}}
+
 - 비트코인 채굴: 약 95% (2024년 Q3 기준)
 - AI 클라우드 서비스: 약 5% (신규 사업, 급속 성장 중)
 
@@ -49,13 +44,8 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 
 - 비트코인 네트워크: 채굴 보상을 통한 비트코인 획득 후 현금 전환
 - AI 클라우드 고객: Poolside 등 AI 스타트업 및 기업 고객
-
-{{< adsense-infeed >}}
-
 **지역별 매출 분포:**
-
-{{< adsense-infeed >}}
-
+**지역별 매출 분포:**
 - 북미 지역: 100% (주요 운영 기지는 텍사스, 브리티시컬럼비아)
 
 **성장 동력 및 수익성 개선 요인:**
@@ -79,7 +69,6 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 
 **자체 인프라 소유 및 운영**  
 데이터센터, 전력 인프라, 냉각 시설 등을 자체 소유하여 운영 통제권과 비용 효율성을 확보하고 있습니다.
-
 **확장성과 운영 효율성**  
 체계적인 용량 확장 계획과 높은 가동률(거의 100% 업타임)을 통해 규모의 경제를 실현하고 있습니다.
 
@@ -102,12 +91,13 @@ IREN Limited는 2018년 호주에서 설립된 비트코인 채굴 및 AI [클�
 **1단계: 사이트 개발 및 인프라 구축**  
 적합한 부지 선정, 전력 인프라 설치, 데이터센터 건설
 
+{{< adsense-infeed >}}
+
 **2단계: 장비 도입 및 설치**  
 ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 
 **3단계: 운영 시스템 구축**  
 모니터링 시스템, 보안 시스템, 원격 관리 시스템 구축
-
 **4단계: 상업적 운영 개시**  
 채굴 풀 연결, AI 클라우드 서비스 런칭, 고객 온보딩
 
@@ -116,15 +106,11 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 ## 9. 전방산업 / 후방산업
 
 **전방산업 (서비스 이용 고객):**
-
 - 비트코인 네트워크: 블록체인 보안 및 거래 처리 서비스
 - AI 스타트업 및 기업: Poolside(US, Poolside) 등 머신러닝 서비스 고객
 - 연구기관: 고성능 컴퓨팅이 필요한 연구 프로젝트
 
 **후방산업 (공급업체 및 서비스 제공업체):**
-
-{{< adsense-infeed >}}
-
 - ASIC 제조업체: Bitmain(CN, Bitmain) - Antminer 시리즈 공급
 - GPU 제조업체: NVIDIA(US, [NVDA](/company-analysis/nvda/)) - H100, H200, 블랙웰 GPU 공급
 - 전력 공급업체: 텍사스 및 캐나다 지역 재생에너지 전력 공급업체
@@ -135,6 +121,8 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 ## 10. 밸류체인
 
 **하드웨어 공급 단계:**
+
+{{< adsense-infeed >}}
 
 - Bitmain(CN, Bitmain): ASIC 마이너 공급 (시장점유율 70%, 업계 선도)
 - NVIDIA(US, [NVDA](/company-analysis/nvda/)): AI GPU 공급 (AI 칩 시장 점유율 80%, 독점적 지위)
@@ -174,7 +162,6 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 ## 13. 주요 고객 
 
 **비트코인 네트워크**: 전체 비트코인 생태계 (분산화된 고객)
-
 **AI 클라우드 고객**:
 
 - Poolside(US, Poolside) - AI 코딩 어시스턴트 개발, GPU 클러스터 504대 계약
@@ -199,12 +186,16 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 
 ## 16. 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 **시장 점유율 추이:**
 
 - 2024년: 1.8% (상위 10위권)
 - 2023년: 1.2% (상위 15위권)
 - 2022년: 0.8% (상위 20위권)
 - 3년간 추이: +1.0%p 증가 (급속 성장)
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -248,9 +239,6 @@ ASIC 마이너, GPU 클러스터, 네트워킹 장비 설치 및 테스트
 - BITQ - Amplify Transformational Data Sharing ETF [BITQ](/company-analysis/bitq/)
 
 **섹터 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - BLOK - Amplify Transformational Data Sharing ETF BLOK
 - XLK - Technology Select Sector SPDR Fund XLK
 

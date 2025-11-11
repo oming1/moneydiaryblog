@@ -1,16 +1,12 @@
 ﻿---
 title: "ABVE"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 16
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #식품원료 #재생농업 #지속가능농업 #수직통합 #공급망 #식물성단백질 #콩류 #완두콩 #렌틸콩 #귀리 #펄스 #팜글로벌 #합병 #디지털자산 #토큰화 #블록체인 #금담보 #몬태나 #사스카툰 #캐나다 #애완동물사료 #유기농 #친환경 #추적가능성 #영양성분
 
 ---
@@ -166,6 +162,8 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **애완동물 사료 원료:** 프리미엄 펫푸드 단백질, 매출비중 약 5% (2024년 기준), 주요 용도 고급 펫푸드
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 🧱 주된 영향을 미치는 원자재
@@ -191,9 +189,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 **단백질 파우더 제조업체** - 완두콩 분리 단백질 공급  
 
 **대체육 제조업체** - 식물성 고기 대체품 단백질 원료  
-
-{{< adsense-infeed >}}
-
 **글루텐 프리 제품 제조업체** - 렌틸콩 및 콩류 가루 공급  
 
 **건강식품 제조업체** - 기능성 원료 및 단백질 공급  
@@ -221,9 +216,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **- Borealis Foods (US, BRLS)**  
 식물성 단백질 및 대체육 원료 공급업체
-
-{{< adsense-infeed >}}
-
 **- Bridgford Foods (US, BRID)**  
 냉동 및 건조 식품 원료 제조업체
 
@@ -244,12 +236,13 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **- Ingredion Incorporated (US, INGR)**  
 전분 및 식물성 단백질 가공업체
-
 **- Puris Holdings (US, Private)**  
 완두콩 단백질 전문 제조업체
 
 **- Burcon NutraScience (CA, BU.TO)**  
 식물성 단백질 기술 및 원료 개발업체
+
+{{< adsense-infeed >}}
 
 **- The Scoular Company (US, Private)**  
 곡물 거래 및 식품 원료 가공업체
@@ -281,6 +274,8 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 ## 🚀 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 **재무 성과:**
 
 - 2024년 상반기 매출: 6,520만 달러 (CAD 9,000만 달러)
@@ -296,16 +291,10 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 - 수직 통합 공급망을 통한 마진 개선
 
 **주요 위험 요소:**
-
-{{< adsense-infeed >}}
-
 - 기상 변화에 따른 작물 수확량 변동성
 - 원자재 가격 변동 및 농업 비용 상승
 - Palm Global 합병에 따른 사업 모델 변화 리스크
 - 나스닥 상장 규정 준수 요구사항
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 📅 최근 3년 내 주요 이슈
@@ -345,7 +334,6 @@ _주: Palm Global과의 합병 완료 후 주주 구조 대폭 변경 예정_
 ## 📈 관련 ETF
 
 **직접 관련 ETF:**
-
 - ETFMG Alternative Harvest ETF MJ (대체 농업 관련)
 - VanEck Agribusiness ETF MOO (농업 관련)
 

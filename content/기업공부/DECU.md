@@ -1,16 +1,12 @@
 ﻿---
 title: "DECU"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 271
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #BufferETF #다운사이드보호  #무상한상승 #FLEX옵션 #구조화상품 #리스크관리 #AllianzIM #정의된결과 #방어적투자 #변동성완화 #기관투자자 #포트폴리오보호 #시장중성 #헤지전략 #옵션전략 #구조적보호 #수익률버퍼 #투자자보호 #시장하락보호 #상승참여 #리스크완화 #투자혁신
@@ -47,7 +43,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 - **자산 증가**: 순자산 증가에 따른 수수료 수익 확대
 
 **투자 전략:**
-
 - 기초 자산: SPDR S&P 500 ETF Trust (SPY) 100% 추종
 - 보호 수준: 15% 하락 보호 (수수료 차감 전 기준)
 - 상승 참여: 무제한 상승 잠재력
@@ -83,6 +78,8 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 **리스크 관리 시스템**: 15% 버퍼 수준을 정확히 유지하기 위한 실시간 리스크 모니터링 및 관리 시스템
 
+{{< adsense-infeed >}}
+
 **포트폴리오 최적화**: S&P 500 수익률 추종과 동시에 보호 기능을 제공하는 최적화된 포트폴리오 구성 기술
 
 ---
@@ -100,15 +97,11 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 ---
 
 ## 전방산업 / 후방산업
-
 **전방산업 (ETF 활용 기관):**
 
 - 자산운용사: BlackRock(US, [BLK](/company-analysis/blk/)), Vanguard(US, VTI) - 포트폴리오 구성 요소
 - 연기금: 기관 투자자 - 리스크 관리 도구
 - 개인투자자: 방어적 투자 수요 충족
-
-{{< adsense-infeed >}}
-
 **후방산업 (서비스 공급 업체):**
 
 - 옵션 거래소: Cboe Global Markets(US, CBOE) - FLEX Options 거래
@@ -131,7 +124,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 - 증권사: Charles Schwab(US, [SCHW](/company-analysis/schw/)), Fidelity - 개인 투자자 판매
 - 기관 영업: 직접 기관 투자자 대상 판매
-
 ---
 
 ## 주요 보유 자산
@@ -159,9 +151,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 **기관 투자자**: 연기금, 보험회사, 자산운용사 등 방어적 투자 수요 기관
 
 **개인 투자자**: 은퇴 계획 투자자, 보수적 투자 성향 투자자
-
-{{< adsense-infeed >}}
-
 **헤지펀드**: 포트폴리오 헤지 목적 투자자
 
 ---
@@ -174,16 +163,13 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 **BlackRock iShares**: Buffer ETF 시리즈 - 캡형 버퍼 ETF, 시장 점유율 상위
 
 **Innovator ETFs**: Defined Outcome ETF 시리즈 - 정의된 결과 ETF 선도업체
-
-{{< adsense-infeed >}}
-
 **First Trust**: Buffer ETF 제품군 - 다양한 버퍼 수준 제공
-
-{{< adsense-infeed >}}
-
+**First Trust**: Buffer ETF 제품군 - 다양한 버퍼 수준 제공
 **Pacer ETFs**: Swan Defined Risk ETF - 리스크 관리 ETF 전문
 
 ---
@@ -197,9 +183,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 ## 기업 특징 및 성장성
 
 **구체적 수치:**
-
-{{< adsense-infeed >}}
-
 - 순자산: 3,333만 달러 (2025년 7월 기준)
 - 경비율: 0.74% (연간)
 - 연초 대비 수익률: 1.47% (2025년 7월 기준)
@@ -210,7 +193,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 - 시장 변동성 증가에 따른 방어적 투자 수요 증가
 - 무상한 상승 구조의 차별화된 경쟁력
 - 알리안츠의 글로벌 브랜드 인지도 및 유통망
-
 **위험 요소:**
 
 - 신규 출시 상품으로 인한 시장 인지도 부족

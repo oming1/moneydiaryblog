@@ -1,16 +1,12 @@
 ﻿---
 title: "GTLB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 393
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #테크 #소프트웨어 #DevSecOps #플랫폼
 
 GitLab Inc.는 소프트웨어 개발 수명 주기를 위한 [DevSecOps](/industry-study/devsecops/) 플랫폼을 제공하는 기업입니다.
@@ -23,7 +19,6 @@ GitLab Inc.는 소프트웨어 개발 수명 주기를 위한 [DevSecOps](/indus
 ## 영위사업
 
 GitLab은 단일 애플리케이션으로 DevOps 플랫폼을 제공합니다. 주요 사업 영역은 다음과 같습니다:
-
 1. 소프트웨어 개발 수명 주기 관리
 2. 코드 호스팅 및 버전 관리
 3. CI/CD (지속적 통합/지속적 배포) 파이프라인
@@ -31,11 +26,14 @@ GitLab은 단일 애플리케이션으로 DevOps 플랫폼을 제공합니다. �
 5. 프로젝트 계획 및 추적
 6. 협업 도구 (위키, 이슈 트래킹 등)
 
+{{< adsense-infeed >}}
+
 GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기업이 소프트웨어를 더 빠르고 효율적으로 개발, 보안, 배포할 수 있도록 지원합니다.
 
 ## 전방/후방산업
-
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 소프트웨어 개발: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Google Cloud (US, [GOOGL](/company-analysis/googl/))
@@ -46,9 +44,6 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 - 개발자 도구: JetBrains (비상장), Atlassian (US, [TEAM](/company-analysis/team/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 플랫폼 개발: GitLab (US, [GTLB](/company-analysis/gtlb/)) (DevSecOps 플랫폼)
 2. 클라우드 인프라: Google Cloud Platform (US, [GOOGL](/company-analysis/googl/)) (GitLab 호스팅)
 3. 보안 및 컴플라이언스: GitLab (US, [GTLB](/company-analysis/gtlb/)) (내장된 보안 기능)
@@ -56,12 +51,13 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 
 ## 주요제품
 
+{{< adsense-infeed >}}
+
 1. GitLab DevSecOps 플랫폼
 2. GitLab CI/CD
 3. GitLab 코드 리뷰
 4. GitLab 이슈 트래킹
 5. GitLab 보안 및 컴플라이언스 도구
-
 ## 주요 판매국가
 
 미국, 유럽, 아시아 태평양 지역을 중심으로 전 세계적으로 서비스를 제공하고 있습니다.
@@ -75,15 +71,12 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 5. Jenkins (오픈소스) (자동화 서버)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 GitLab은 DevSecOps 플랫폼 분야에서 주요 플레이어 중 하나로 인식되고 있으며, 약 3,000만 명의 등록 사용자와 100만 명 이상의 활성 라이선스 사용자를 보유하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 GitLab은 DevSecOps 플랫폼 분야에서 주요 플레이어 중 하나로 인식되고 있으며, 약 3,000만 명의 등록 사용자와 100만 명 이상의 활성 라이선스 사용자를 보유하고 있습니다.
 
-{{< adsense-infeed >}}
-
+## 최근 3년 내 주요 이슈
 1. 2021년 10월 14일 나스닥 상장 (2021년)
 2. AI 기반 DevSecOps 기능 강화 및 GitLab Duo 출시 (2023년)
 3. 원격 근무 중심의 기업 문화 강화 및 확대 (2020-2023년)

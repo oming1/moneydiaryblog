@@ -1,16 +1,12 @@
 ﻿---
 title: "ANTM"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 74
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #헬스케어 #관리형헬스케어 #건강보험 #메디케어 #메디케이드 
 
 ## 산업 섹터
@@ -31,13 +27,9 @@ Anthem은 미국의 주요 건강 보험 회사로, 의료, 약국, 치과, 행�
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Cigna (미국, [CI](/company-analysis/ci/))
     
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 의료 기기 및 제약 제조
     - **역할**: Anthem의 보험 상품에 필요한 의료 서비스 및 제품 제공
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
-
 ## 밸류체인
 
 - **보험 상품 개발**:
@@ -51,37 +43,33 @@ Anthem은 미국의 주요 건강 보험 회사로, 의료, 약국, 치과, 행�
     - 대표 기업: Humana (미국, [HUM](/company-analysis/hum/)) - 경쟁 제품: 관리형 헬스케어 서비스
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - **상업 의료 건강 계획**:
     
     - 기업 및 개인 고객을 위한 건강 보험 상품입니다.
     - 매출 비중: 전체 매출의 약 50% 차지.
-
-{{< adsense-infeed >}}
-
 - **정부 건강 계획**:
-
-{{< adsense-infeed >}}
-
+- **정부 건강 계획**:
     - Medicare(메디케어) 및 Medicaid(메디케이드)와 같은 정부 주도의 건강 보험 프로그램입니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
 
-Anthem은 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중요한 매출을 올리고 있습니다.
+{{< adsense-infeed >}}
 
+Anthem은 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중요한 매출을 올리고 있습니다.
 ## 경쟁업체
 
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Cigna** (미국, [CI](/company-analysis/ci/)) - 경쟁 제품: 건강 보험
 
-## 산업 내 글로벌 시장 점유율
+{{< adsense-infeed >}}
 
+## 산업 내 글로벌 시장 점유율
 Anthem은 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 - **Cigna 인수 실패**: Anthem이 Cigna를 인수하려 했으나 반독점 문제로 인해 실패한 사건 (2017)
 - **Elevance Health로의 재브랜딩**: Anthem이 Elevance Health로 이름을 변경하며 새로운 브랜드 전략을 발표한 사건 (2022)

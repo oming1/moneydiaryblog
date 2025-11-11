@@ -1,16 +1,12 @@
 ﻿---
 title: "GD"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 367
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #방위산업 #항공우주 #해군함정 #전투차량 #IT서비스 #C4ISR #정부계약 #군수산업 #비즈니스제트 #핵추진잠수함 #구축함 #전차 #장갑차 #미사일시스템 #사이버보안 #클라우드컴퓨팅 #인공지능 #로봇공학 #위성통신 #국방기술 #산업재 #항공우주방위 
@@ -19,19 +15,17 @@ weight: 367
 
 섹터: 산업재
 산업: 항공우주및방위
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 및 항공우주 기업입니다. 회사는 크게 4개의 사업 부문으로 구성되어 있습니다:
-
 1. 항공우주: Gulfstream 비즈니스 제트기 설계, 제조 및 서비스
 2. 해양 시스템: 핵추진 잠수함, 수상함 설계 및 건조
 3. 전투 시스템: 전차, 장갑차, 무기 시스템, 탄약 등 생산
 4. 기술: IT 서비스, C4ISR 솔루션, 사이버 보안 등 제공
 
 2024년 기준 총 매출은 약 394억 달러였으며, 전 세계적으로 106,500명 이상의 직원을 고용하고 있습니다. 최근에는 AI, [로봇](/industry-study/로봇/)공학, 자율 시스템 등 첨단 기술 분야에 대한 투자를 확대하고 있으며, 특히 사이버 보안과 우주 관련 사업에 주력하고 있습니다.[3](https://markets.ft.com/data/equities/tearsheet/profile?s=GD%3ANYQ)
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -42,23 +36,20 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 5. 재무적 안정성: 안정적인 현금 흐름과 강력한 재무구조를 바탕으로 한 지속적인 투자 및 성장 가능성
 
 ## 전방/후방산업
-
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 국방부: 미국 국방부, 외국 정부 국방부
 - 항공사: Delta Air Lines(US, [DAL](/company-analysis/dal/)), Emirates Airlines
 - 정부기관: NASA, 국토안보부
 
 후방산업:
 
+{{< adsense-infeed >}}
+
 - 항공기 부품: United Technologies(US, [RTX](/company-analysis/rtx/)), Honeywell(US, [HON](/company-analysis/hon/))
 - 전자 시스템: L3Harris Technologies(US, [LHX](/company-analysis/lhx/)), Raytheon Technologies(US, [RTX](/company-analysis/rtx/))
 - 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)), Carpenter Technology(US, [CRS](/company-analysis/crs/))
 
 ## 밸류체인
-
 1. 연구개발: General Dynamics(US, [GD](/company-analysis/gd/)) (첨단 방위 기술 개발)
 2. 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)) (항공우주용 알루미늄)
 3. 부품 제조: Honeywell(US, [HON](/company-analysis/hon/)) (항공전자 시스템)
@@ -67,18 +58,11 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 6. 유지보수 및 서비스: General Dynamics(US, [GD](/company-analysis/gd/)) (애프터마켓 서비스)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Gulfstream 비즈니스 제트: G500, G600, G700 등, 매출의 약 20% (2024년 기준)
 - 핵추진 잠수함: Virginia급, Columbia급, 매출의 약 30% (2024년 기준)
 - 전투 차량: Abrams 전차, Stryker 장갑차, 매출의 약 20% (2024년 기준)
 - IT 및 C4ISR 솔루션: 사이버 보안, 클라우드 서비스 등, 매출의 약 30% (2024년 기준)  
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
 미국, 캐나다, 영국, 독일, 호주, 일본, 한국, 사우디아라비아
 
 ## 경쟁업체
@@ -93,10 +77,9 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 
 General Dynamics는 2024년 3분기 기준 글로벌 방위산업 시장에서 약 12.99%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 해군 함정 및 전투 차량 부문에서 강세를 보이고 있습니다.[6](https://csimarket.com/stocks/competitionSEG2.php?code=GD)
 
-## 최근 3년 내 주요 이슈
-
 {{< adsense-infeed >}}
 
+## 최근 3년 내 주요 이슈
 - AI 및 자율 시스템 기술 개발 투자 확대 (2024년)
 - Columbia급 핵추진 잠수함 건조 계약 체결 (2023년)
 - 사이버 보안 사업 부문 강화를 위한 기업 인수 (2023년)
@@ -112,6 +95,8 @@ General Dynamics는 2024년 3분기 기준 글로벌 방위산업 시장에서 �
     [4](https://markets.businessinsider.com/stocks/gd-stock)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - iShares U.S. Aerospace & Defense ETF - ITA
 - SPDR S&P Aerospace & Defense ETF - XAR

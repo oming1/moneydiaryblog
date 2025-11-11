@@ -1,16 +1,12 @@
 ﻿---
 title: "CAG"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 169
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #포장식품 #가공식품 #냉동식품 #스낵 #즉석식품 #소비재 #BirdEye #DuncanHines #HealthyChoice #MarieCallenders #SlimJim #Reddi-wip #브랜드포트폴리오 #식품제조 #편의식품 #냉장식품 #스낵푸드 #소비자재량주 #수익모델다각화 #공급망관리 #원자재가격변동 #배당주 #인플레이션 #식품안전 #가치주 #식품트렌드 #영양 #지속가능성
 
 ---
@@ -33,6 +29,8 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 재무적으로, 2025 회계연도(2025년 5월 25일 종료)에 Conagra는 약 98억 달러의 매출과 11.7%의 순이익률을 기록했습니다. 그러나 인플레이션 압력, 공급망 투자, 관세 부담 등으로 인해 어려움을 겪었습니다.
 
 최근 1년간 CAG의 주가는 하락세를 보였으며, 2025년 7월 25일 기준으로 19.21달러에 마감했습니다. 이는 52주 고점인 33.24달러에서 상당히 하락한 수준입니다.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -88,7 +86,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 ### 7. 핵심 기술
 
 **기술별 분류:**
-
 - 식품 보존 기술: 냉동 식품의 맛과 영양을 유지하면서 유통기한을 연장하는 기술로, 특히 Birds Eye 냉동 채소 제품에 적용됩니다.
     
 - 식품 가공 기술: 대규모로 균일한 품질의 제품을 생산하기 위한 자동화 및 표준화된 공정 기술을 사용합니다.
@@ -152,9 +149,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - 계약 제조업체(다양한 지역 파트너): 특정 제품 라인 생산 아웃소싱
 
 **유통 및 판매 단계:**
-
-{{< adsense-infeed >}}
-
 - Walmart(US, [WMT](/company-analysis/wmt/)): 최대 소매 유통 채널 (약 25% 매출 기여)
 - Kroger(US, [KR](/company-analysis/kr/)): 주요 식료품 체인 (약 15% 매출 기여)
 - US Foods(US, [USFD](/company-analysis/usfd/)): 식품 서비스 유통 (약 8% 매출 기여)
@@ -227,9 +221,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 **국가별 매출 비중 및 추이:**
 
 - 미국: 85.2% (2025년 기준, 3년간 -0.8%p)
-
-{{< adsense-infeed >}}
-
 - 캐나다: 6.5% (2025년 기준, 3년간 +0.3%p)
     
 - 멕시코: 3.2% (2025년 기준, 3년간 +0.5%p)
@@ -263,9 +254,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - Hormel Foods(US, [HRL](/company-analysis/hrl/)) - 육가공 제품 및 냉장 식품 경쟁, 시장점유율 약 6%
     
 - B&G Foods(US, BGS) - 냉동 채소 및 보존 식품 경쟁, 시장점유율 약 3%
-
-{{< adsense-infeed >}}
-
 - TreeHouse Foods(US, THS) - 자체 브랜드 식품 제조업체, 시장점유율 약 4%
 
 ---
@@ -319,11 +307,7 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - Vanguard Group: 12.02% (57.6M주)
     
 - BlackRock: 9.48% (45.4M주)
-    
 - State Street Corporation: 5.67% (27.2M주)
-
-{{< adsense-infeed >}}
-
 - Capital World Investors: 3.21% (15.4M주)
     
 - Geode Capital Management: 2.15% (10.3M주)
@@ -341,9 +325,6 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - XLP - Consumer Staples Select Sector SPDR Fund XLP
     
 - VDC - Vanguard Consumer Staples ETF VDC
-
-{{< adsense-infeed >}}
-
 - FSTA - Fidelity MSCI Consumer Staples Index ETF FSTA
 
 **섹터 관련 ETF:**
@@ -351,6 +332,8 @@ Conagra Brands Inc는 1919년 설립된 미국 기반의 포장식품 제조기�
 - IYK - iShares U.S. Consumer Goods ETF IYK
     
 - PSCC - Invesco S&P SmallCap Consumer Staples ETF PSCC
+
+{{< adsense-infeed >}}
 
 **배당 관련 ETF:**
 

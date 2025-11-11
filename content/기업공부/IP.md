@@ -1,16 +1,12 @@
 ﻿---
 title: "IP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 453
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #담배 #포장재 #소비자방어주 #종이및종이제품
 
 ### 산업섹터 및 산업 (Sector, Industry)
@@ -19,14 +15,11 @@ weight: 453
 - **Industry (산업)**: Paper & Paper Products (종이 및 종이 제품)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스를 제공합니다. 이 회사는 다양한 산업용 특수 종이와 포장재를 제조합니다.
+International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스를 제공합니다. 이 회사는 다양한 산업용 특수 종이와 포장재를 제조합니다.
+### 전방산업 및 후방산업
 
 {{< adsense-infeed >}}
-
-### 전방산업 및 후방산업
 
 - **후방산업 (Upstream Industry)**:
     
@@ -40,12 +33,16 @@ International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스�
 ### 밸류체인
 
 1. **펄프 및 종이 제조 (Pulp and Paper Manufacturing)**:
-    
+
+{{< adsense-infeed >}}
+
     - **설명**: 담배 제조에 필요한 종이와 필터를 생산.
     - **대표회사**: International Paper (미국, [IP](/company-analysis/ip/)), WestRock (미국, WRK).
 
 1. **원자재 공급 (Raw Material Supply)**:
-    
+
+{{< adsense-infeed >}}
+
     - **설명**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급.
     - **대표회사**: Schweitzer-Mauduit International (미국, [SWM](/company-analysis/swm/)), Glatfelter (미국, GLT).
 
@@ -58,24 +55,18 @@ International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스�
     
     - **설명**: 담배 제품의 유통 및 판매.
     - **대표회사**: Altria Group (미국, [MO](/company-analysis/mo/)), Imperial Brands (영국, [IMB](/company-analysis/imb/)).
-
 1. **소매 (Retail)**:
     
     - **설명**: 담배 제품의 소매 판매.
     - **대표회사**: 7-Eleven (일본, 3382), Walmart (미국, [WMT](/company-analysis/wmt/)).
 
 ### 주요제품
-
 - **펄프**: 흡수성 제품, 티슈, 개인 위생용품 등에 사용.
 - **종이**: 컨테이너보드, 석고 보드 페이싱 페이퍼 등.
 - **포장재**: 골판지 포장재, 산업용 포장재 등.
-
 ### 주요 판매국가
 
 - **주요 판매국가**: 미국, 유럽, 아시아 (2023년 기준)
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
 
 1. **WestRock (미국, WRK)**

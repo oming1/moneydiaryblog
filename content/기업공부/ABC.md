@@ -1,16 +1,12 @@
 ﻿---
 title: "ABC"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:30+09:00
+lastmod: 2025-11-04T11:00:37+09:00
 type: docs
 sidebar:
   open: false
 weight: 10
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:30Z" />
-</div>
 #제약유통 #의료기기유통 #헬스케어솔루션 #헬스케어 #의약품유통
 
 ## 산업 섹터
@@ -20,9 +16,6 @@ AmerisourceBergen Corporation(ABC)은 [헬스케어](/industry-study/2산업헬
 ## 영위사업
 
 AmerisourceBergen은 글로벌 헬스케어 솔루션 기업으로, 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 의약품 유통: 브랜드 및 제네릭 의약품, OTC 제품 유통
 2. 특수 의약품 유통: 희귀질환, 암 등 특수 의약품 유통
 3. 의료기기 유통 및 용품 유통
@@ -31,7 +24,6 @@ AmerisourceBergen은 글로벌 헬스케어 솔루션 기업으로, 주요 사�
 6. 물류 서비스: World Courier를 통한 특수 의약품 운송
 
 AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 주요 기업 중 하나로, 병원, 약국, 의료기관 등 다양한 고객에게 서비스를 제공하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 규모의 경제: 미국 의약품 유통 시장의 약 30% 점유
@@ -44,14 +36,13 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 ## 전방/후방산업
 
 1. 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 제약사: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료기기 제조: Medtronic (IE, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 병원: HCA Healthcare (US, [HCA](/company-analysis/hca/))
     - 약국 체인: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
     - 의료기관: UnitedHealth Group (US, [UNH](/company-analysis/unh/))
@@ -71,6 +62,8 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 4. 의료기기 및 용품 유통
 5. 동물 건강 제품 유통
 
+{{< adsense-infeed >}}
+
 ## 주요고객
 
 1. CVS Health (US, [CVS](/company-analysis/cvs/))
@@ -80,9 +73,6 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 5. 독립 약국
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며, 구체적인 국가별 매출 비중은 제공되지 않았습니다.
 
 ## 경쟁업체
@@ -94,9 +84,6 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 5. Morris & Dickson (비상장)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 주요 기업 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
@@ -108,17 +95,15 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 5. 특수 의약품 및 바이오테크 분야 강화 전략 지속 (2022-2024년)
 
 ## 주요주주(지분율)
-
 1. Vanguard Fiduciary Trust Co.: 11.02%
 2. Walgreens Boots Alliance, Inc.: 10.34%
 3. BlackRock Advisors LLC: 6.88%
 4. T. Rowe Price International Ltd.: 4.54%
 5. State Street Corporation: 4.16%
 
-## 관련 ETF
-
 {{< adsense-infeed >}}
 
+## 관련 ETF
 - iShares U.S. Healthcare Providers ETF IHF
 - VanEck Pharmaceutical ETF PPH
 - SPDR S&P Health Care Services ETF XHS

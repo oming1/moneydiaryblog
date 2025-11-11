@@ -1,16 +1,12 @@
 ﻿---
 title: "LEA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 510
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #자동차부품 #시트시스템 #전자시스템 #E-Systems #전기차 #자율주행 #커넥티드카 #인테리어 #경량화 #지속가능성 #모듈화 #스마트시트 #파워트레인전기화 #사이버보안 #OEM파트너십 #글로벌공급망 #인체공학 #안전기술 #ESG #디지털화
@@ -27,10 +23,11 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 1. 시트 시스템: 완전한 자동차 시트 및 관련 부품 생산
 2. E-Systems: 전기 배전 시스템, 전자 제어 모듈, 연결성 제품 등
 
+{{< adsense-infeed >}}
+
 2024년 기준 총 매출은 약 220억 달러였으며, 전 세계 38개국에 걸쳐 257개의 시설을 운영하고 있습니다. 최근에는 전기차 및 자율주행차량을 위한 혁신적인 기술 개발에 주력하고 있으며, 지속 가능한 제품 및 생산 방식 도입에도 투자하고 있습니다.주요 이슈로는 전기차용 배터리 관리 시스템 개발, 5G 기반 커넥티드 카 솔루션 출시, 그리고 재활용 소재를 활용한 시트 개발 등이 있었습니다.
 
 ## 핵심 경쟁력
-
 1. 통합 솔루션 제공: 시트 시스템과 전자 시스템을 아우르는 종합적인 제품 라인업
 2. 기술 혁신: 전기화, 자율주행, 연결성 분야에서의 지속적인 R&D 투자
 3. 글로벌 생산 네트워크: 전 세계적으로 분산된 생산 시설을 통한 효율적인 공급망
@@ -40,32 +37,20 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 자동차 제조: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/)), BMW(DE, [BMW](/company-analysis/bmw/))
 - 전기차 제조: Tesla(US, [TSLA](/company-analysis/tsla/)), Rivian(US, [RIVN](/company-analysis/rivn/))
 - 상용차 제조: Daimler Truck(DE, DTG), Volvo Group(SE, VOLV-B)
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 원자재 공급: BASF(DE, BAS), DuPont(US, [DD](/company-analysis/dd/))
 - 반도체: NXP Semiconductors(NL, [NXPI](/company-analysis/nxpi/)), Infineon Technologies(DE, [IFX](/company-analysis/ifx/))
 - 전자부품: TE Connectivity(CH, TEL), Aptiv(IE, [APTV](/company-analysis/aptv/))
 
 ## 주요제품
-
 - 시트 시스템: 완전한 자동차 시트 세트 및 부품, 매출의 약 75% (2024년 기준)
 - E-Systems: 전기 배전 시스템, 전자 제어 모듈 등, 매출의 약 25% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
+## 주요 고객
 - General Motors(US, [GM](/company-analysis/gm/)): 글로벌 자동차 제조사
 - Ford Motor Company(US, [F](/company-analysis/f/)): 미국 자동차 제조사
 - Stellantis(NL, [STLA](/company-analysis/stla/)): 다국적 자동차 제조사
@@ -74,12 +59,11 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국, 중국, 독일, 멕시코, 캐나다, 영국, 프랑스, 스페인, 이탈리아, 폴란드
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Adient(IE, [ADNT](/company-analysis/adnt/)): 자동차 시트 및 인테리어 시스템 제조
 - Faurecia(FR, EO): 자동차 인테리어 및 배기 시스템 전문
 - Magna International(CA, [MGA](/company-analysis/mga/)): 다양한 자동차 부품 및 시스템 제조
@@ -87,7 +71,6 @@ Lear Corporation(NYSE: LEA)는 글로벌 [자동차](/industry-study/자동차/)
 - Yanfeng Automotive Interiors(CN): 자동차 인테리어 솔루션 제공 (비상장)
 
 ## 산업 내 글로벌 시장 점유율
-
 Lear Corporation은 2024년 기준 글로벌 자동차 시트 시장에서 약 23%의 점유율을 보유하고 있는 것으로 추정됩니다. E-Systems 부문에서는 전기 배전 시스템 시장의 약 15%를 차지하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 전기차 관련 기술 분야에서 성장세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -104,7 +87,6 @@ Lear Corporation은 2024년 기준 글로벌 자동차 시트 시장에서 약 2
 - BlackRock (7.65%)
 - Pzena Investment Management (5.33%)
 - Harris Associates (4.21%)
-
 ## 관련 ETF
 
 - First Trust NASDAQ Global Auto Index Fund - CARZ

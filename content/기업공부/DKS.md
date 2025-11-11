@@ -1,16 +1,12 @@
 ﻿---
 title: "DKS"
 date: 2024-10-28T21:41:02+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 283
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:41:02Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #스포츠용품
 
 ## 산업섹터
@@ -19,11 +15,9 @@ weight: 283
 산업: 특수 소매(Specialty Retail)
 
 ## 영위사업
-
 Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서리를 판매하는 미국 최대의 스포츠 용품 소매업체입니다.
 
 ## 주요제품 및 서비스
-
 - 스포츠 용품
 - 운동화 및 스포츠웨어
 - 아웃도어 용품
@@ -32,11 +26,15 @@ Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서
 
 ## 주요 브랜드
 
+{{< adsense-infeed >}}
+
 - DICK'S Sporting Goods
 - Golf Galaxy
 - Public Lands
 - Moosejaw
 - Going Going Gone!
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -50,17 +48,10 @@ Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서
 - Foot Locker
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 미국 내 최대 스포츠 용품 소매업체입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 주요 이슈
-
-{{< adsense-infeed >}}
-
+미국 내 최대 스포츠 용품 소매업체입니다.
+## 최근 주요 이슈
 - 2023년 2월: Moosejaw을 Walmart로부터 인수
 - 지속가능성 이니셔티브 강화
 - 온라인 판매 및 옴니채널 전략 강화

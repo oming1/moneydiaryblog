@@ -1,16 +1,12 @@
 ﻿---
 title: "애틀란타연방은행GDP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:27+09:00
+lastmod: 2025-11-04T11:00:42+09:00
 type: docs
 sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:27Z" />
-</div>
 #경기 #GDP
 
 - GDP NOW(https://www.atlantafed.org/cqer/research/gdpnow)
@@ -19,11 +15,9 @@ GDPNow는 경제 데이터가 새로 발표될 때마다 업데이트됩니다. 
 
 - 산출방법
 	- GDPNow 모델은 다양한 경제 지표를 활용하여 GDP 성장률을 추정합니다. 주요 경제 지표에는 다음이 포함됩니다:
-
 	1. **소매 판매**: 소비자 지출의 변화를 반영합니다.
 	2. **산업 생산**: 제조업, 광업, 유틸리티의 생산 활동을 측정합니다.
 	3. **주택 시장 지표**: 주택 판매, 건축 허가, 주택 착공 등의 데이터를 포함합니다.
 	4. **무역 데이터**: 수출입 데이터를 반영하여 순수출을 계산합니다.
 	5. **정부 지출**: 연방, 주, 지방 정부의 지출 데이터를 포함합니다.
-
 이 모델은 각 지표의 최신 데이터를 반영하여 GDP 성장률을 실시간으로 업데이트합니다. 이를 통해 경제 활동의 최신 동향을 빠르게 파악할 수 있습니다.

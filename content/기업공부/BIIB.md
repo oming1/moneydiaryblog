@@ -1,16 +1,12 @@
 ﻿---
 title: "BIIB"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 132
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #헬스케어 #알츠하이머 
 
 ### 산업섹터 (Sector, Industry)
@@ -19,17 +15,10 @@ weight: 132
 - **Industry:** [바이오테크](/industry-study/바이오테크/) (Biotechnology)
 
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개발하고 상업화하는 생명공학 기업입니다. 주요 연구 분야는다발성 경화증, 척수성 근위축증, 알츠하이머병 등입니다.
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
+Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개발하고 상업화하는 생명공학 기업입니다. 주요 연구 분야는다발성 경화증, 척수성 근위축증, 알츠하이머병 등입니다.
+### 전방/후방산업
 - **전방산업:**
     - **제약산업:** 신경과학 및 신경퇴행성 질환 치료제 개발 및 상업화. 주요 기업: 화이자 (미국, [PFE](/company-analysis/pfe/)), 머크 (미국, [MRK](/company-analysis/mrk/)).
     - **의료기기산업:** 치료제 투여를 위한 기기 개발. 주요 기업: 메드트로닉 (미국, [MDT](/company-analysis/mdt/)), 존슨앤드존슨 (미국, [JNJ](/company-analysis/jnj/)).
@@ -37,8 +26,9 @@ Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개�
     - **화학산업:** 신약 개발을 위한 원료 제공. 주요 기업: 다우케미컬 (미국, [DOW](/company-analysis/dow/)), 듀폰 (미국, [DD](/company-analysis/dd/)).
     - **바이오테크 연구기관:** 기초 연구 및 임상 시험 지원. 주요 기관: NIH (미국), FDA (미국).
 
-### 밸류체인
+{{< adsense-infeed >}}
 
+### 밸류체인
 - **연구 및 개발:**
     - **대표회사:** 암젠 (미국, [AMGN](/company-analysis/amgn/)), 길리어드 사이언스 (미국, [GILD](/company-analysis/gild/)).
     - **설명:** 신약 후보물질 발굴 및 초기 연구.
@@ -51,26 +41,19 @@ Biogen Inc.는 주로 신경과학 및 신경퇴행성 질환 치료제를 개�
 - **마케팅 및 판매:**
     - **대표회사:** 화이자 (미국, [PFE](/company-analysis/pfe/)), 노바티스 (스위스, [NOVN](/company-analysis/novn/)).
     - **설명:** 신약의 시장 출시 및 판매 전략 수립.
-
-{{< adsense-infeed >}}
-
 ### 주요제품
-
 - **텍피데라 (Tecfidera):** 다발성 경화증 치료제 (2023년 매출 비중 30%)
 - **스핀라자 (Spinraza):** 척수성 근위축증 치료제 (2023년 매출 비중 25%)
 - **아두헬름 (Aduhelm):** 알츠하이머병 치료제 (2023년 매출 비중 20%)
 - **티사브리 (Tysabri):** 다발성 경화증 치료제 (2023년 매출 비중 15%)
 - **뷰메리티 (Vumerity):** 다발성 경화증 치료제 (2023년 매출 비중 10%)
-
 ### 주요 판매국가
-
 - **미국:** 2023년 매출 비중 60%
 - **유럽:** 2023년 매출 비중 25%
 - **아시아:** 2023년 매출 비중 15%
+### 경쟁업체
 
 {{< adsense-infeed >}}
-
-### 경쟁업체
 
 - **암젠 (미국, [AMGN](/company-analysis/amgn/)):** 경쟁 제품: 다발성 경화증 치료제.
 - **길리어드 사이언스 (미국, [GILD](/company-analysis/gild/)):** 경쟁 제품: 면역 치료제.

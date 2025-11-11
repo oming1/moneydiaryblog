@@ -1,16 +1,12 @@
 ﻿---
 title: "RCAT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 731
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #소형드론 #미국방부 #정찰드론 #국방계약 #BluesUAS #틸드론 #에지130 #블랙위도우 #군사드론 #유인항공기 #정찰감시 #무인항공기 #드론제조업체 #펜타곤 #미육군 #상황인식 #항공정보 #로봇시스템 #드론기술 #국방혁신 #드론도미넌스 #전술드론 #UAV #아라크니드 #플라이트웨이브 #틸드론즈 #미국제조 #군사보안 #무인시스템 #드론정찰
 
 ---
@@ -31,7 +27,6 @@ Red Cat Holdings는 2017년 설립된 미국의 드론 기술 전문업체로, �
 Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), FlightWave의 Edge 130 Blue(중거리 정찰용), 그리고 차세대 ARACHNID 시스템 등이 있습니다. 이들 제품은 모두 미국 국방부의 엄격한 보안 및 품질 기준을 만족하는 Blue sUAS 승인을 받았습니다.
 
 2024년 매출 약 1,784만 달러를 기록했으며, 최근 140% 매출 성장을 보이고 있습니다. 시가총액은 약 12억 달러 수준으로, 드론 산업 내에서 중소형 전문업체로 분류됩니다.
-
 2025년 Pete Hegseth 국방장관의 미국 드론 도미넌스 정책 발표와 함께 주가가 급등하며, 연초 대비 약 80% 상승했습니다. 월 100대에서 2026년까지 월 1,000대 생산으로 10배 확대를 목표로 하고 있습니다.
 
 ---
@@ -90,7 +85,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 ## 핵심 기술
 
 **Blue sUAS 기술:** 미국 국방부의 엄격한 보안 기준을 만족하는 안전한 드론 시스템 기술
-
 **모듈형 설계:** 신속한 조립과 다양한 임무 구성을 위한 모듈형 하드웨어 플랫폼
 
 **자율 비행 시스템:** GPS 거부 환경에서도 작동하는 시각 항법 기술 (Palantir 협력)
@@ -109,6 +103,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 **4단계:** 품질 검사 및 Blue sUAS 인증  
 **5단계:** 납품 및 현장 지원 서비스
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 전방산업 / 후방산업
@@ -125,9 +121,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - 배터리: 미국 내 배터리 제조업체들
 - 복합재료: 미국 내 항공우주 소재 업체들
 - 센서: 미국 내 광학 및 센서 업체들
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인
@@ -167,9 +160,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 **[리튬이온 배터리](/industry-study/리튬이온-배터리/):** 드론 동력원, 미국/한국, 미국 내 배터리 제조업체들
 
 **탄소섬유:** 드론 기체 제작, 미국/일본, 미국 내 복합재료 업체들
-
-{{< adsense-infeed >}}
-
 **[반도체](/industry-study/반도체/)칩:** 비행제어 시스템, 미국/대만, Intel (US, [INTC](/company-analysis/intc/)), Qualcomm (US, [QCOM](/company-analysis/qcom/))
 
 **광학센서:** 카메라 및 센서, 미국/독일, 미국 내 광학 업체들
@@ -184,6 +174,8 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - U.S. Army National Guard (육군 주방위군) - Edge 130 계약
 - U.S. Army Communications-Electronics Command (CECOM) - $100만 계약
 - U.S. Department of Homeland Security (국토안보부) - 국경 감시
+
+{{< adsense-infeed >}}
 
 **기타 정부 기관:**
 
@@ -207,7 +199,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 ---
 
 ## 경쟁업체 
-
 **직접 경쟁사 (소형 드론):**
 
 - AeroVironment (US, [AVAV](/company-analysis/avav/)) - Raven, Wasp 등 소형 드론
@@ -294,9 +285,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - 기관투자자: 약 45%
 - 내부자 (경영진): 약 25%
 - 개인투자자: 약 30%
-
-{{< adsense-infeed >}}
-
 **주요 기관투자자:**
 
 - 일부 국방 특화 펀드들
@@ -306,9 +294,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 ---
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 **직접 관련 ETF:**
 
 - XAR - SPDR S&P Aerospace & Defense ETF XAR

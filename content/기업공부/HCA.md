@@ -1,16 +1,12 @@
 ﻿---
 title: "HCA"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 400
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #병원 #의료서비스 #의료시설 #헬스케어
 
 ## 산업 섹터
@@ -29,7 +25,6 @@ HCA Healthcare는 미국 최대의 민간 의료시설 운영 기업으로, 주�
 6. 행동 건강 병원 운영
 
 HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 의료 시설을 운영하고 있습니다. 회사는 입원 치료, 중환자 치료, 심장 치료, 진단 및 응급 서비스 등 다양한 의료 서비스를 제공하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 규모의 경제: 미국 최대 민간 의료시설 네트워크 보유
@@ -51,6 +46,8 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
     - 보험: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 의료시설 건설: Turner Construction (비상장)
@@ -58,7 +55,6 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 3. 의료 서비스 제공: HCA Healthcare (주요 사업 영역)
 4. 의약품 공급: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 보험 청구: UnitedHealth Group (US, [UNH](/company-analysis/unh/)), Anthem (US, [ANTM](/company-analysis/antm/))
-
 ## 주요제품
 
 1. 입원 치료 서비스
@@ -74,13 +70,8 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 2. 보험회사
 3. 정부 기관 (Medicare, Medicaid)
 4. 기업 건강보험 가입자
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
+## 주요 판매국가
 1. 미국 (주요 시장)
 2. 영국 (일부 시설 운영)
 
@@ -91,9 +82,6 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 3. Community Health Systems (US, [CYH](/company-analysis/cyh/))
 4. Encompass Health (US, [EHC](/company-analysis/ehc/))
 5. Acadia Healthcare (US, [ACHC](/company-analysis/achc/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42.65%의 시장 점유율을 보유하고 있습니다.
@@ -107,16 +95,14 @@ HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42
 5. ESG 이니셔티브 강화 및 지속가능성 목표 설정 (2023)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. The Vanguard Group, Inc.: 11.62%
 2. BlackRock Fund Advisors: 7.89%
 3. SSgA Funds Management, Inc.: 4.98%
 4. Dimensional Fund Advisors LP: 3.03%
 5. Pzena Investment Management LLC: 2.91%
-
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 1. iShares U.S. Healthcare Providers ETF IHF
 2. Vanguard Health Care ETF VHT

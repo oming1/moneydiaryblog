@@ -1,16 +1,12 @@
 ﻿---
 title: "DUO"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 295
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #부동산정보서비스 #온라인플랫폼 #SaaS #부동산중개 #프롭테크 #중국부동산 #클라우드서비스 #AI추천 #빅데이터분석 #모바일앱 #부동산마케팅 #디지털전환 #O2O #부동산에이전트 #거래자동화 #부동산데이터 #고객매칭 #부동산금융 #스마트계약 #ESG #중국 
@@ -24,13 +20,14 @@ weight: 295
 
 Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 및 온라인 플랫폼 기업입니다. 주요 사업은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 1. Property Cloud: 부동산 판매자를 위한 SaaS 솔루션 제공
 2. 부동산 에이전트 플랫폼: Duoduo Sales, Duoduo Cloud Sales 등 운영
 3. Fangduoduo: 잠재 구매자를 위한 개인화 서비스 제공
 4. 정보 매칭, 자산 관리, 부동산 중개 서비스
 
 2011년 설립되어 2019년 11월 1일 나스닥에 상장되었습니다. 최근에는 AI 기반 추천 시스템 강화와 모바일 앱 개선에 주력하고 있습니다.
-
 ## 핵심 경쟁력
 
 1. 종합적인 부동산 거래 플랫폼: 구매자, 판매자, 에이전트 연결
@@ -38,13 +35,11 @@ Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 �
 3. 광범위한 파트너십: 다수의 부동산 개발업체 및 에이전시와 협력
 4. SaaS 기반 솔루션: 클라우드 기반의 확장 가능한 서비스 제공
 5. 중국 부동산 시장에 대한 전문성: 현지 시장 이해도가 높음
-
 ## 전방/후방산업
-
-전방산업:
 
 {{< adsense-infeed >}}
 
+전방산업:
 - 부동산 개발: China Vanke(CN, 000002), Country Garden(HK, 2007)
 - 부동산 투자: Blackstone(US, [BX](/company-analysis/bx/)), Brookfield Asset Management(US, BAM)
 
@@ -60,13 +55,8 @@ Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 �
 - Fangduoduo: 구매자 대상 개인화 서비스, 매출의 약 20% (2024년 기준)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 중국
-
-{{< adsense-infeed >}}
-
+중국
 ## 경쟁업체
 
 - KE Holdings(US, [BEKE](/company-analysis/beke/)): 베이커 부동산 플랫폼 운영
@@ -86,7 +76,6 @@ Fangdd Network Group은 2024년 기준 [중국](/industry-study/4국가중국/) 
 - 블록체인 기술을 활용한 부동산 거래 플랫폼 시범 운영 (2023년)
 - ESG 정책 강화: 2030년까지 탄소 중립 목표 설정 (2022년)
 - 중소 도시 시장 진출 확대를 위한 지역 파트너십 강화 (2022-2024년)
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (3.91%)
@@ -94,6 +83,8 @@ Fangdd Network Group은 2024년 기준 [중국](/industry-study/4국가중국/) 
 - State Street Corporation (1.33%)
 
 ## 관련 ETF
+
+{{< adsense-infeed >}}
 
 - KraneShares CSI China Internet ETF - KWEB
 - Invesco China Technology ETF - CQQQ

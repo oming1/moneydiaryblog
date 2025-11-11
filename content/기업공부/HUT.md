@@ -1,16 +1,12 @@
 ﻿---
 title: "HUT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 429
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #고성능컴퓨팅 #클라우드인프라 #데이터센터 #비트코인채굴 #디지털자산 #AI컴퓨팅 #엣지컴퓨팅 #재생에너지 #하이브리드데이터센터 #블록체인 #머신러닝 #가상현실 #클라우드서비스 #네트워크서비스 #베어메탈 #쿠버네티스 #재해복구 #오브젝트스토리지 #취약점스캐닝 #플래시스토리지 #클라우드컴퓨팅 #정보기술 #비트코인 #비트코인채굴 
@@ -21,6 +17,8 @@ weight: 429
 산업: 클라우드컴퓨팅
 
 ## 영위사업
+
+{{< adsense-infeed >}}
 
 Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔루션 및 디지털 자산 채굴을 통해 디지털 경제를 지원하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
@@ -38,6 +36,8 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 4. 재생 에너지 활용: 수력 및 원자력 발전을 활용한 친환경 운영
 5. 기술 혁신: AI, 머신러닝, VR 등 신기술 지원 능력
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
 
 전방산업:
@@ -45,9 +45,6 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - 클라우드 서비스 사용자: 기업 IT 부서, 게임 개발사
 - AI 및 머신러닝 기업: NVIDIA(US, [NVDA](/company-analysis/nvda/)), IBM(US, [IBM](/company-analysis/ibm/))
 - 블록체인 및 암호화폐: Coinbase(US, [COIN](/company-analysis/coin/)), Binance
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 반도체 제조: Intel(US, [INTC](/company-analysis/intc/)), AMD(US, [AMD](/company-analysis/amd/))
@@ -61,10 +58,10 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - AI 및 GPU 컴퓨팅: 딥러닝, 데이터 분석, 복잡한 시뮬레이션을 위한 고성능 솔루션
 - 재해 복구 서비스(DRaaS): Zerto 기반의 클라우드 간 복구 솔루션
 - 비트코인 채굴: 대규모 디지털 자산 채굴 운영
-
 ## 주요 판매국가
-
 캐나다, 미국
+
+{{< adsense-infeed >}}
 
 ## 경쟁업체
 
@@ -74,9 +71,13 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - Switch(US, SWCH)
 - CoreSite Realty(US, [COR](/company-analysis/cor/))
 
+{{< adsense-infeed >}}
+
 ## 산업 내 글로벌 시장 점유율
 
 Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 북미 지역에서 주요 비트코인 채굴 기업 중 하나로 인식되고 있으며, HPC 및 클라우드 서비스 시장에서도 성장하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 최근 3년 내 주요 이슈
 
@@ -91,13 +92,8 @@ Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 - The Vanguard Group (8.17%)
 - BlackRock Fund Advisors (7.38%)
 - SSgA Funds Management, Inc. (4.84%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
+## 관련 ETF
 - Global X Data Center REITs & Digital Infrastructure ETF - VPN
 - First Trust Cloud Computing ETF - SKYY
 - Amplify Transformational Data Sharing ETF - BLOK

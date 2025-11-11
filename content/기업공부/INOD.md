@@ -1,16 +1,12 @@
 ﻿---
 title: "INOD"
 date: 2024-12-17T21:14:04+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 447
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T12:14:04Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 #IT서비스 #정보기술 #데이터엔지니어링
 
 ## 산업섹터
@@ -19,27 +15,16 @@ Sector: 정보기술(Information Technology)
 Industry: IT 서비스(IT Services)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Innodata Inc.는 글로벌 데이터 엔지니어링 회사로, 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 디지털 데이터 솔루션(DDS), Synodex 및 Agility 부문이 있다.  
-
-{{< adsense-infeed >}}
-
+Innodata Inc.는 글로벌 데이터 엔지니어링 회사로, 주요 사업 영역은 다음과 같습니다:
+디지털 데이터 솔루션(DDS), Synodex 및 Agility 부문이 있다.  
 DDS 부문은 AI 데이터 준비 서비스, 학습 데이터 수집 또는 생성, 학습 데이터 주석 달기, 고객을 위한 AI 알고리즘 학습, AI 모델 배포 및 통합을 제공한다.  
   
 또한 DDS 부문은 데이터 변환, 데이터 큐레이션, 데이터 정제, 데이터 통합, 데이터 추출, 데이터 규정 준수, 마스터 데이터 관리 등 다양한 데이터 엔지니어링 지원 서비스를 제공한다.  
-
 Synodex 부문은 의료 기록을 독점 데이터 모델 또는 고객 데이터 모델에 따라 정리된 사용 가능한 디지털 데이터로 변환하는 산업 플랫폼을 제공한다.  
   
 Agility 부문은 마케팅 커뮤니케이션 및 홍보 전문가에게 전 세계 언론인과 소셜 미디어 인플루언서에게 콘텐츠를 타겟팅하고 배포할 수 있는 기능을 제공하는 산업 플랫폼을 제공한다.
-
-{{< adsense-infeed >}}
-
 1. 디지털 데이터 솔루션(DDS): AI 데이터 준비, 훈련 데이터 수집 및 생성, 데이터 주석 처리, AI 모델 배포 및 통합 서비스 제공
 2. Synodex: 의료 기록을 사용 가능한 디지털 데이터로 변환하는 플랫폼 운영
 3. Agility: 마케팅 커뮤니케이션 및 PR 전문가를 위한 콘텐츠 배포 및 모니터링 플랫폼 제공
@@ -52,33 +37,28 @@ Agility 부문은 마케팅 커뮤니케이션 및 홍보 전문가에게 전 �
 3. 의료 기록 디지털화 플랫폼
 4. 마케팅 및 PR 전문가용 콘텐츠 배포 플랫폼
 5. 데이터 분석 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 Innodata는 미국, 영국, 네덜란드, 캐나다를 포함한 전 세계 시장에서 사업을 영위하고 있습니다
-
+## 주요 판매국가
 
 {{< adsense-infeed >}}
-## 경쟁업체
 
+Innodata는 미국, 영국, 네덜란드, 캐나다를 포함한 전 세계 시장에서 사업을 영위하고 있습니다
+## 경쟁업체
 1. Cognizant (US, [CTSH](/company-analysis/ctsh/))
 2. Accenture (아일랜드, [ACN](/company-analysis/acn/))
 3. Wipro (인도, WIT)
 4. Euronet Worldwide (US, EEFT)
 5. Maximus (US, [MMS](/company-analysis/mms/))
 ## 산업 내 글로벌 시장 점유율
-
-
-{{< adsense-infeed >}}
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
-
 {{< adsense-infeed >}}
 
-{{< adsense-infeed >}}
 ## 최근 3년 내 주요 이슈
+
+{{< adsense-infeed >}}
 
 1. 2024년 3분기 매출 52.2백만 달러 기록, 전년 동기 대비 136% 증가
 2. 2024년 3분기 순이익 17.4백만 달러 기록, 주당 순이익 0.60달러

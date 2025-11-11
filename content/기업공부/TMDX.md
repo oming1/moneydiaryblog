@@ -1,16 +1,12 @@
 ﻿---
 title: "TMDX"
 date: 2024-12-06T22:05:23+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 875
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:05:23Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #장기이식 #헬스케어 #의료장비및용품
 
 TransMedics Group, Inc.(TMDX)는 장기 이식 치료를 혁신하는 의료 기술 기업입니다.
@@ -21,21 +17,21 @@ TransMedics Group, Inc.(TMDX)는 장기 이식 치료를 혁신하는 의료 기
 산업: 의료 장비 및 용품(Health Care Equipment & Supplies)
 
 ## 영위사업
-
 TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁신하는 상용 단계의 의료 기술 회사입니다. 주요 제품인 Organ Care System(OCS)은 인체 외부에서 공여 장기를 보존, 최적화 및 모니터링하는 휴대용 시스템으로, 폐, 심장, 간 이식을 위한 솔루션을 제공합니다.
 
+{{< adsense-infeed >}}
+
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
+## 후방산업
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
 
+{{< adsense-infeed >}}
+
 ## 전방산업
+
+{{< adsense-infeed >}}
 
 - 병원 및 의료기관
 - 장기 이식 센터
@@ -52,7 +48,6 @@ TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁
 - OCS LUNG: 폐 이식용 시스템
 - OCS Heart: 심장 이식용 시스템
 - OCS Liver: 간 이식용 시스템
-
 ## 주요 판매국가
 
 미국 및 국제 시장
@@ -62,17 +57,11 @@ TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁
 - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/))
 - Intuitive Surgical(US, [ISRG](/company-analysis/isrg/))
 - Boston Scientific(US, [BSX](/company-analysis/bsx/))
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
+## 최근 3년 내 주요 이슈
 - Gerardo Hernandez를 새로운 CFO로 임명 (2024)
 - 2024년 재무 전망 업데이트: 매출 428-432백만 달러 예상 (2024)
 - Q3 2024 재무 결과 발표: 총 매출 108.8백만 달러, 전년 대비 64% 증가 (2024)

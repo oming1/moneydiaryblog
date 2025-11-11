@@ -1,16 +1,12 @@
 ﻿---
 title: "PSX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 713
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #석유정제 #석유화학 #미드스트림 #정유 #에너지물류 #연료유통 #천연가스처리 #윤활유 #석유제품 #정유소 #주유소네트워크 #파이프라인 #에너지인프라 #재생연료  #에너지 #석유가스정제마케팅
 
 ## 섹터
@@ -24,7 +20,6 @@ weight: 713
 ## 영위사업
 
 Phillips 66(PSX)는 미국의 대표적인 통합 에너지 기업으로, 미드스트림, 화학, 정유, 마케팅 및 특수제품 부문에서 사업을 영위하고 있습니다.
-
 1. 미드스트림: 원유 및 정제 석유제품의 운송, 저장, 처리 서비스와 [천연가스](/industry-study/천연가스/) 및 [NGL](/industry-study/ngl/)(Natural Gas Liquids) 관련 서비스를 제공합니다.
 2. 화학: Chevron Phillips Chemical Company LLC와의 합작 투자를 통해 전 세계적으로 [석유화학](/industry-study/석유화학/) 제품과 플라스틱을 제조 및 판매합니다.
 3. [정유](/industry-study/정유/): 미국과 유럽에서 12개의 정유소를 운영하며, 가솔린, 디젤, 항공유 등 다양한 석유 제품을 생산합니다.
@@ -42,10 +37,14 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 ## 전방산업:
 
 1. 운송업: 자동차, 항공, 해운 등 연료 소비 산업
-    
+
+{{< adsense-infeed >}}
+
     - Delta Air Lines(US, [DAL](/company-analysis/dal/)), FedEx(US, [FDX](/company-analysis/fdx/))
     
 2. 석유화학: 플라스틱, 합성섬유 등 석유 기반 제품 생산
@@ -59,7 +58,6 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 ## 후방산업:
 
 1. 원유 생산: 석유 탐사 및 생산 기업
-    
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
     
 2. 파이프라인 및 저장: 원유 및 석유제품 운송, 저장 인프라
@@ -70,10 +68,9 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
     
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
 
-## 밸류체인
-
 {{< adsense-infeed >}}
 
+## 밸류체인
 1. 원유 공급: 원유 생산 및 수입
     
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Saudi Aramco(SA, 2222.SR)
@@ -93,7 +90,9 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 5. 유통 및 마케팅: 주유소 네트워크, 직접 판매
     
     - Phillips 66(US, [PSX](/company-analysis/psx/)), Shell(NL, SHEL)
-    
+
+{{< adsense-infeed >}}
+
 6. 최종 소비자: 개인, 기업, 정부 등
     
     - 일반 소비자, 항공사, 운송회사 등
@@ -119,10 +118,9 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 8. 농업 관련 기업
 
 ## 주요 판매국가
+미국, 영국, 독일, 오스트리아, 스위스, 폴란드, 중국, 싱가포르, 말레이시아
 
 {{< adsense-infeed >}}
-
-미국, 영국, 독일, 오스트리아, 스위스, 폴란드, 중국, 싱가포르, 말레이시아
 
 ## 경쟁업체
 
@@ -165,7 +163,4 @@ Phillips 66는 지속가능한 에너지 솔루션에도 투자하고 있으며,
 5. VanEck Oil Refiners ETF - CRAK
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

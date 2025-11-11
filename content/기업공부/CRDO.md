@@ -1,16 +1,12 @@
 ﻿---
 title: "CRDO"
 date: 2024-12-03T21:01:46+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 233
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T12:01:46Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #테크 #반도체 #케이블 #네트워크케이블
 
 ## 산업섹터
@@ -23,19 +19,18 @@ weight: 233
 Credo는 네트워크 케이블 사업자로 데이터 인프라 시장을 위한 고속 연결 솔루션을 제공합니다. 광학 및 전기 이더넷 애플리케이션을 위한 다양한 고속 연결 제품을 개발, 제조 및 판매합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
+## 후방산업
 - 반도체 제조업체: 칩 생산에 필요한 원자재 및 장비 공급
 
 ## 전방산업
 
+{{< adsense-infeed >}}
+
 - 하이퍼스케일러: 데이터 센터용 고속 연결 솔루션 수요 (예: Amazon(US, [AMZN](/company-analysis/amzn/)), Google(US, [GOOGL](/company-analysis/googl/)))
 - 통신장비 제조업체: 네트워크 인프라용 고속 연결 솔루션 수요
+
+{{< adsense-infeed >}}
 
 ## 밸류체인
 
@@ -53,21 +48,11 @@ Credo는 네트워크 케이블 사업자로 데이터 인프라 시장을 위�
 - SerDes IP 라이선싱
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 대만, 중국 본토, 홍콩, 국제 시장
-
-{{< adsense-infeed >}}
-
+미국, 대만, 중국 본토, 홍콩, 국제 시장
 ## 경쟁업체
-
 - Broadcom(US, [AVGO](/company-analysis/avgo/)): 네트워크 및 통신 반도체
 - Marvell Technology(US, [MRVL](/company-analysis/mrvl/)): 데이터 인프라 반도체
 - Analog Devices(US, [ADI](/company-analysis/adi/)): 고성능 아날로그 및 혼합 신호 IC
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
 정확한 시장 점유율 데이터는 제공되지 않았으나, Credo는 고속 연결 솔루션 시장에서 성장하고 있는 기업입니다.

@@ -1,16 +1,12 @@
 ﻿---
 title: "SCFI"
 date: 2025-10-24T22:46:37+09:00
-lastmod: 2025-11-03T21:50:29+09:00
+lastmod: 2025-11-04T11:00:44+09:00
 type: docs
 sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:29Z" />
-</div>
 #해운  #컨테이너선 #컨테이너 #SCFI 
 
 - ## 기본정보
@@ -19,27 +15,23 @@ weight: 5
 	- 즉, 매출이 늘어나면서 재고가 줄면 다시 화물에 대한 수요 상승. 핵심은 [경기]가 돌아야 해운주도 움직인다는 것
 	- 미국 경기는 ISM 제조업 지수로 판단. 기준선 50 위에서는 경기 확장, 아래에서는 경기 위축을 의미하는 매우 직관적이고 빠른 지표
 	- 경험적으로 미국 도매 재고/매출 비율과 ISM 제조업 지수는 정반대로 밀접하게 움직임. 경기가 좋아지면 재고/매출 비율 하락
-
-{{< adsense-infeed >}}
-
 ## **SCFI**, **CCFI** 차이점
 
+{{< adsense-infeed >}}
+
 ### SCFI (상하이 컨테이너 운임 지수)
+## **SCFI**, **CCFI** 차이점
 
 {{< adsense-infeed >}}
 
+### SCFI (상하이 컨테이너 운임 지수)
 - **범위**: [상하이에서 출발하는 컨테이너 화물의 스팟 운임]을 반영합니다.
 - **산정 방식**: 20피트 컨테이너(TEU) 기준으로 USD로 계산됩니다.
 - **발표 주기**: 매주 업데이트되며, 실시간 시장 상황을 반영합니다.
-
 ### [CCFI](/industry-study/ccfi/) (중국 컨테이너 운임 지수)
-
 - **범위**: [상하이뿐만 아니라 중국의 여러 항구에서 출발하는 운임]을 포함합니다.
 - **산정 방식**: 스팟 운임뿐만 아니라 장기 계약 운임도 포함됩니다.
 - **발표 주기**: 매주 업데이트되며, 중국의 컨테이너 해운 시장을 더 넓게 반영합니다..
-
-{{< adsense-infeed >}}
-
 - 참고자료 링크
 	- SCFI 확인 가능 주소
 		- [Shanghai Shipping Exchange](https://en.sse.net.cn/indices/scfinew.jsp)

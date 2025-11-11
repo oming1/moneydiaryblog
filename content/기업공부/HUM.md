@@ -1,16 +1,12 @@
 ﻿---
 title: "HUM"
 date: 2024-10-02T22:27:05+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 425
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-02T13:27:05Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #헬스케어 #보험 #생명보험 
 
 ## 산업섹터
@@ -19,22 +15,22 @@ weight: 425
 - Industry: Healthcare Plans (건강보험)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 상품과 관련 서비스를 제공합니다. 주요 사업 영역은 메디케어 어드밴티지 플랜, 처방약 보험, 상업용 건강보험 등입니다.
 
 ## 전방/후방산업
 
+{{< adsense-infeed >}}
+
 - 전방산업:
+    - 핵심 산업 및 역할: 의료 서비스 제공자, 약국
+    - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
 
 {{< adsense-infeed >}}
 
-    - 핵심 산업 및 역할: 의료 서비스 제공자, 약국
-    - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
-    
 - 후방산업:
-    
+
+{{< adsense-infeed >}}
+
     - 핵심 산업 및 역할: 제약, 의료기기
     - 관련 기업: Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)), Medtronic (IE, [MDT](/company-analysis/mdt/))
 
@@ -44,7 +40,6 @@ Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 �
 - 네트워크 관리: 의료 서비스 제공자 네트워크 구축 및 관리
 - 고객 서비스: 보험 가입자 지원 및 클레임 처리
 - 건강 관리 프로그램: 가입자 건강 증진 프로그램 운영
-
 ## 주요제품
 
 - 메디케어 어드밴티지 플랜
@@ -54,21 +49,20 @@ Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 �
 
 ## 주요 판매국가
 
+{{< adsense-infeed >}}
+
 미국 전역에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
 - UnitedHealth Group (US, [UNH](/company-analysis/unh/)) - 종합 건강보험 및 의료 서비스
 - Anthem (US, [ANTM](/company-analysis/antm/)) - 블루크로스 블루실드 보험
 - Cigna (US, [CI](/company-analysis/ci/)) - 글로벌 건강 서비스 회사
 - Aetna (CVS Health의 자회사) - 종합 건강보험
+## 산업 내 글로벌 시장 점유율
 
 {{< adsense-infeed >}}
 
-## 산업 내 글로벌 시장 점유율
-
 2023년 기준 Fortune 500 리스트에서 42위를 차지했으며, 미국에서 4번째로 큰 건강보험 제공업체입니다.
-
 ## 최근 3년 내 주요 이슈
 
 - 고용주 기반 상업용 단체보험 시장 철수 발표 (2023)

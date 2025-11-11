@@ -1,16 +1,12 @@
 ﻿---
 title: "BHP"
 date: 2023-06-04T17:05:14+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 130
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-04T08:05:14Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #비철금속 #포타슘 #광산 #기타산업용금속및광업 #기초소재 #구리 #니켈 #철광석
 
 ## 산업섹터
@@ -25,13 +21,9 @@ BHP는 세계 최대 규모의 다각화된 광산 및 금속 회사입니다. �
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 원자재 사용
 - 철강 제조: ArcelorMittal (NL, [MT](/company-analysis/mt/))
 - 전기차 배터리: Tesla (US, [TSLA](/company-analysis/tsla/))
-
 후방산업:
 
 - 역할: 장비 및 서비스 공급
@@ -49,6 +41,8 @@ BHP는 세계 최대 규모의 다각화된 광산 및 금속 회사입니다. �
 
 BHP는 전 세계적으로 사업을 운영하고 있습니다. 주요 시장은 다음과 같습니다:
 
+{{< adsense-infeed >}}
+
 - 중국: 약 65% (2023년 기준)
 - 일본: 약 10%
 - 한국: 약 5%
@@ -58,22 +52,26 @@ BHP는 전 세계적으로 사업을 운영하고 있습니다. 주요 시장은
 
 ## 경쟁업체
 
+{{< adsense-infeed >}}
+
 - Rio Tinto (UK/AU, [RIO](/company-analysis/rio/)) - 철광석, 알루미늄, 구리
 - Vale S.A. (BR, [Vale](/company-analysis/vale/)) - 철광석, 니켈, 구리
 - Glencore (CH, [GLEN](/company-analysis/glen/)) - 구리, 석탄, 아연
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 BHP는 철광석 시장에서 세계 3대 생산업체 중 하나로, 2023년 기준 글로벌 해상 철광석 거래량의 약 18%를 차지하고 있습니다. 구리 생산에서도 주요 플레이어 중 하나입니다.
 
+{{< adsense-infeed >}}
+
 ## 자세한 종목 정보 링크
+BHP는 철광석 시장에서 세계 3대 생산업체 중 하나로, 2023년 기준 글로벌 해상 철광석 거래량의 약 18%를 차지하고 있습니다. 구리 생산에서도 주요 플레이어 중 하나입니다.
 
 {{< adsense-infeed >}}
 
+## 자세한 종목 정보 링크
 [FINVIZ - BHP](https://finviz.com/quote.ashx?t=BHP)
-
 공유
+
+{{< adsense-infeed >}}
 
 다시 쓰기

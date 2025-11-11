@@ -1,16 +1,12 @@
 ﻿---
 title: "HP"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 415
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #석유가스 #시추 #에너지 #계약시추 #FlexRig #에너지 #해상시추
 
 ## 산업 섹터
@@ -18,6 +14,8 @@ weight: 415
 에너지
 
 ## 산업
+
+{{< adsense-infeed >}}
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 
@@ -30,6 +28,8 @@ Helmerich & Payne, Inc.(H&P)는 석유 및 [천연가스](/industry-study/천연
 3. 국제 시추: 남미, 중동, 아프리카 등 해외 시장에서 시추 서비스 제공
 4. 기술 개발: FlexRig 시스템 등 혁신적인 시추 기술 개발 및 적용
 5. 부동산 개발 및 운영
+
+{{< adsense-infeed >}}
 
 H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 FlexRig 시스템으로 유명하며, 미국 육상 시추 시장에서 20% 이상의 점유율을 보유하고 있습니다.
 
@@ -45,14 +45,9 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 ## 전방/후방산업
 
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 시추 장비 제조: National Oilwell Varco(US, [NOV](/company-analysis/nov/))
     - 철강 제조: U.S. Steel(US, [X](/company-analysis/x/))
-    
 2. 전방산업:
-    
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 정유: Valero Energy(US, [VLO](/company-analysis/vlo/))
 
@@ -63,7 +58,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 석유 및 가스 추출
 4. 수송: Energy Transfer(US, [ET](/company-analysis/et/)) - 파이프라인 운영
 5. 정제: Valero Energy(US, [VLO](/company-analysis/vlo/)) - 석유 정제
-
 ## 주요제품
 
 1. FlexRig 시스템 (첨단 육상 시추 장비)
@@ -71,9 +65,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 시추 자동화 및 데이터 분석 솔루션
 
 ## 주요고객
-
-{{< adsense-infeed >}}
-
 1. 석유 및 가스 탐사 기업
 2. 석유 메이저 기업
 3. 독립 석유 및 가스 생산 기업
@@ -83,16 +74,12 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 1. 미국 (2024년 회계연도 매출 비중: 89.5%)
 2. 아르헨티나 (2024년 회계연도 매출 비중: 4.9%)
 3. 바레인, 콜롬비아, UAE 등 기타 국가
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Nabors Industries(BM, NBR)
 2. Patterson-UTI Energy(US, PTEN)
 3. Precision Drilling(CA, PDS)
 4. Transocean(CH, RIG)
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, H&P는 미국 육상 시추 시장에서 약 23%, 슈퍼스펙 시추 시장에서 약 37%의 점유율을 보유하고 있습니다.
@@ -104,20 +91,18 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 3. 코로나19 팬데믹으로 인한 시추 수요 감소 및 회복 (2022-2024년)
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2023-2024년)
 5. 디지털 기술 및 자동화 솔루션 개발 확대 (2022-2024년)
+## 주요주주(지분율)
 
 {{< adsense-infeed >}}
-
-## 주요주주(지분율)
 
 1. BlackRock Advisors LLC: 15.65%
 2. Vanguard Fiduciary Trust Co.: 11.31%
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
+## 관련 ETF
 
 {{< adsense-infeed >}}
-
-## 관련 ETF
 
 1. SPDR S&P Oil & Gas Equipment & Services ETF - XES
 2. iShares U.S. Oil Equipment & Services ETF - IEZ

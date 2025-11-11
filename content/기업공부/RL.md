@@ -1,16 +1,12 @@
 ﻿---
 title: "RL"
 date: 2024-12-06T21:22:13+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 751
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T12:22:13Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #임의소비재 #의류 #사치품 #향수 
 
 ## 산업섹터
@@ -19,7 +15,6 @@ weight: 751
 산업: 의류, 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
-
 의류, 액세서리, 신발, 가정용품, 향수 등 프리미엄 라이프스타일 제품의 디자인, 유통 및 마케팅
 
 ## 전방/후방산업
@@ -34,6 +29,8 @@ weight: 751
 - 소매업체: 백화점, 전문점 등
 - 소비자: 최종 제품 구매자
 
+{{< adsense-infeed >}}
+
 ## 밸류체인
 
 1. 디자인 및 제품 개발: Ralph Lauren (자체 디자인)
@@ -42,21 +39,16 @@ weight: 751
 4. 마케팅 및 판매: Ralph Lauren (자체 마케팅)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 의류: 남성, 여성, 아동복 (매출의 주요 부분)
 - 액세서리: 가방, 신발, 벨트 등
 - 가정용품: 침구, 가구, 장식품
 - 향수 및 화장품
-
 ## 주요 판매국가
 
 미국, 유럽, 아시아 (중국 포함), 라틴 아메리카
+## 경쟁업체
 
 {{< adsense-infeed >}}
-
-## 경쟁업체
 
 - Burberry(UK, BRBY.L): 영국 럭셔리 패션
 - 필립스 반 휴센(US, [PVH](/company-analysis/pvh/)): 현대적 디자인 의류
@@ -64,15 +56,12 @@ weight: 751
 - Brooks Brothers: 클래식 미국 스타일 의류
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
-{{< adsense-infeed >}}
-
+## 최근 3년 내 주요 이슈
 - 2024년 4분기 매출 16억 달러 달성, 전년 대비 2% 증가 (2024)
 - 아시아 지역 매출 성장, 중국에서 두 자릿수 성장률 기록 (2024)
 - 코로나19 팬데믹으로 인한 매출 감소 후 회복세 (2022-2024)

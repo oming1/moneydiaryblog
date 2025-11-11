@@ -1,16 +1,12 @@
 ﻿---
 title: "MNST"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:33+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 577
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:33Z" />
-</div>
 ## 핵심 키워드
 
 #에너지음료 #RTD #카페인음료 #스포츠음료 #브랜드포트폴리오 #글로벌확장 #혁신제품 #유통네트워크 #마케팅전략 #건강음료 #프리미엄화 #DSD #직접배송 #스포츠후원 #카페인프리 #천연원료 #지속가능성 #ESG #디지털마케팅 #소비자트렌드
@@ -19,9 +15,6 @@ weight: 577
 
 섹터: 필수 소비재
 산업: 음료제조
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 제조 및 유통 기업입니다. 회사는 1935년 설립되었으며, 2002년 Hansen's Natural Corporation에서 현재의 이름으로 변경되었습니다. 주요 사업 부문은 다음과 같습니다:
@@ -31,6 +24,8 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 3. Other: Ready-to-drink(RTD) 커피, 차, 주스 등
 
 2024년 기준 총 매출은 약 70억 달러였으며, 북미를 중심으로 전 세계 150개 이상의 국가에서 제품을 판매하고 있습니다. 최근에는 건강 지향적 제품 개발, 국제 시장 확대, 그리고 새로운 카테고리 진출에 주력하고 있습니다.
+
+{{< adsense-infeed >}}
 
 ## 핵심 경쟁력
 
@@ -43,26 +38,23 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), 7-Eleven
 - 편의점: Alimentation Couche-Tard(CA, ATD)
 - 식품 서비스: McDonald's(US, [MCD](/company-analysis/mcd/)), Starbucks(US, [SBUX](/company-analysis/sbux/))
-
-{{< adsense-infeed >}}
-
+- 소매업: Walmart(US, [WMT](/company-analysis/wmt/)), 7-Eleven
+- 편의점: Alimentation Couche-Tard(CA, ATD)
+- 식품 서비스: McDonald's(US, [MCD](/company-analysis/mcd/)), Starbucks(US, [SBUX](/company-analysis/sbux/))
 후방산업:
-
 - 원재료 공급: Cargill, Archer Daniels Midland(US, ADM)
 - 패키징: Ball Corporation(US, [BALL](/company-analysis/ball/)), Crown Holdings(US, CCK)
 - 향료 및 첨가물: International Flavors & Fragrances(US, IFF)
 
 ## 주요제품
-
 - Monster Energy: 주력 에너지 음료 브랜드, 매출의 약 70% (2024년 기준)
 - Strategic Brands: NOS, Full Throttle 등, 매출의 약 20% (2024년 기준)
 - 기타 음료: RTD 커피, 차, 주스 등, 매출의 약 10% (2024년 기준)
+
+{{< adsense-infeed >}}
 
 ## 주요 판매국가
 
@@ -77,9 +69,6 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 에너지 음료 
 - Celsius Holdings(US, [CELH](/company-analysis/celh/)): 건강 지향적 에너지 음료 제조
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 35%의 점유율을 보유하고 있으며, Red Bull에 이어 2위를 차지하고 있습니다. 북미 시장에서는 약 40%의 점유율로 시장을 선도하고 있습니다. 최근 3년간 글로벌 시장 점유율은 연평균 1-2%p 증가하는 추세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -90,17 +79,15 @@ Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 3
 - 지속가능한 패키징 이니셔티브 발표: 2030년까지 100% 재활용 가능한 패키징 사용 목표 (2024년)
 - e-스포츠 후원 확대 및 디지털 마케팅 강화 (2022-2024년)
 
-## 주요주주(지분율)
-
 {{< adsense-infeed >}}
 
+## 주요주주(지분율)
 - The Vanguard Group (8.91%)
 - BlackRock (7.20%)
 - FMR LLC (5.75%)
 - Loomis Sayles & Company L.P. (4.55%)
 
 ## 관련 ETF
-
 - Consumer Staples Select Sector SPDR Fund - XLP
 - Vanguard Consumer Staples ETF - VDC
 - iShares U.S. Consumer Goods ETF - IYK

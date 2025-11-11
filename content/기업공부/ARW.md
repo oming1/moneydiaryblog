@@ -1,16 +1,12 @@
 ﻿---
 title: "ARW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 87
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #전자부품 #임의소비재 #전자부품유통 #반도체유통 #유통
 
 ## 산업 섹터
@@ -18,9 +14,6 @@ weight: 87
 Arrow Electronics Inc(ARW)는 임의소비재(Consumer Discretionary) 섹터, 전자부품 유통(Electronics Distributors) 산업에 속합니다.
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Arrow Electronics는 전 세계 기업 및 산업 고객에게 전자 부품과 엔터프라이즈 컴퓨팅 솔루션을 제공하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 글로벌 부품: 반도체 유통, 수동 부품, 전자기계 부품 등의 유통
@@ -30,12 +23,10 @@ Arrow Electronics는 전 세계 기업 및 산업 고객에게 전자 부품과 
 
 Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달하여 전 세계 고객에게 공급하고 있으며, 특히 사물인터넷(IoT), 인공지능(AI), 5G 등 신기술 분야에서의 성장에 주력하고 있습니다.
 
-## 전방/후방산업
-
-1. 후방산업:
-
 {{< adsense-infeed >}}
 
+## 전방/후방산업
+1. 후방산업:
     - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/)), Texas Instruments (US, [TXN](/company-analysis/txn/))
     - 전자부품 제조: TE Connectivity (CH, TEL), Amphenol (US, APH)
     
@@ -46,14 +37,10 @@ Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달
     - 산업용 장비: Siemens (DE, [SIE](/company-analysis/sie/)), ABB (CH, ABBN)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 제조: Intel (US, [INTC](/company-analysis/intc/)), Texas Instruments (US, [TXN](/company-analysis/txn/)) - 반도체 및 전자부품
 2. 유통: Arrow Electronics (주요 사업 영역)
 3. 솔루션 제공: Arrow Electronics (엔터프라이즈 컴퓨팅 솔루션)
 4. 고객: 다양한 전자제품 제조업체 및 기업 고객
-
 ## 주요제품
 
 1. 반도체 (데이터 처리, 통신, 산업용)
@@ -64,25 +51,19 @@ Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달
 ## 주요 판매국가
 
 Arrow Electronics는 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아 태평양 지역에서 사업을 영위하고 있습니다. 구체적인 국가별 매출 비중은 제공되지 않았습니다.
-
 ## 경쟁업체
-
 1. Avnet (US, [AVT](/company-analysis/avt/)) - 전자부품 유통
 2. WPG Holdings (TW, 3702) - 반도체 유통
 3. Future Electronics (비상장) - 전자부품 유통
 4. Digi-Key Electronics (비상장) - 전자부품 유통
 5. Mouser Electronics (비상장) - 전자부품 유통
+## 산업 내 글로벌 시장 점유율
 
 {{< adsense-infeed >}}
-
-## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Arrow Electronics는 전자부품 유통 산업에서 세계 최대 기업 중 하나로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2024년 3분기 매출 81억 달러로 전년 동기 대비 9% 감소 (2024년)
 2. 글로벌 반도체 공급 부족 상황에 대응한 재고 관리 전략 강화 (2022-2023년)
 3. 디지털 전환 가속화에 따른 클라우드 및 보안 솔루션 사업 확대 (2022-2024년)

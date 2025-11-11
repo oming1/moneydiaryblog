@@ -1,16 +1,12 @@
 ﻿---
 title: "EQT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 321
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #천연가스 #에너지 #탐사생산 #마르셀러스셰일 #유티카셰일 #LNG #석유가스소비연료 #에너지 #NGL #미드스트림
 
 ## 산업 섹터
@@ -22,34 +18,31 @@ weight: 321
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 
 ## 영위사업
+EQT Corporation은 미국 최대의 [천연가스](/industry-study/천연가스/) 생산업체로, 주로 애팔래치아 분지의 마르셀러스 셰일과 유티카 셰일에서 천연가스, 천연가스 액체([NGL](/industry-study/ngl/)) 및 원유의 탐사, 개발, 생산에 주력하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 {{< adsense-infeed >}}
-
-EQT Corporation은 미국 최대의 [천연가스](/industry-study/천연가스/) 생산업체로, 주로 애팔래치아 분지의 마르셀러스 셰일과 유티카 셰일에서 천연가스, 천연가스 액체([NGL](/industry-study/ngl/)) 및 원유의 탐사, 개발, 생산에 주력하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 천연가스 및 NGL 생산
 2. [원유](/industry-study/원유/) 생산 (소량)
 3. 천연가스 마케팅 및 유통
 4. 미드스트림 사업 (파이프라인 운영)
 
+{{< adsense-infeed >}}
+
 EQT는 약 1.8백만 에이커의 광대한 지역에서 19.8조 입방피트에 달하는 천연가스 매장량을 보유하고 있으며, 이 중 88%가 마르셀러스 셰일에 위치해 있습니다.
 
 ## 핵심 경쟁력
+
+{{< adsense-infeed >}}
 
 1. 규모의 경제: 미국 최대 천연가스 생산업체로서의 입지
 2. 저비용 생산: 마르셀러스 셰일의 낮은 생산 비용으로 인한 경쟁력
 3. 통합 운영: 상류 및 미드스트림 사업의 수직 계열화
 4. 전략적 자산 위치: 주요 소비 시장 및 LNG 수출 터미널과의 근접성
 5. 기술 혁신: 지속적인 운영 효율성 개선 및 환경 영향 최소화 노력
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
+## 전방/후방산업
 1. 후방산업:
-    
     - 시추 장비: Schlumberger(US, [SLB](/company-analysis/slb/))
     - 파이프라인 장비: Emerson Electric(US, [EMR](/company-analysis/emr/))
     
@@ -70,23 +63,15 @@ EQT는 약 1.8백만 에이커의 광대한 지역에서 19.8조 입방피트에
 1. 천연가스 (2023년 매출 비중: 89.6%)
 2. 천연가스 액체(NGL) (2023년 매출 비중: 8.5%)
 3. 원유 (2023년 매출 비중: 1.9%)
-
-{{< adsense-infeed >}}
-
 ## 주요고객
-
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
 3. 천연가스 마케터
-
 ## 주요 판매국가
 
 EQT Corporation은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Antero Resources(US, [AR](/company-analysis/ar/))
 2. Range Resources(US, RRC)
 3. Southwestern Energy(US, SWN)
@@ -94,7 +79,6 @@ EQT Corporation은 주로 미국 시장에서 사업을 영위하고 있습니�
 5. Coterra Energy(US, [CTRA](/company-analysis/ctra/))
 
 ## 산업 내 글로벌 시장 점유율
-
 EQT Corporation은 미국 최대의 천연가스 생산업체이지만, 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈

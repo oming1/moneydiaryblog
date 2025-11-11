@@ -1,16 +1,12 @@
 ﻿---
 title: "SQFT"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 826
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #리츠 #REIT #부동산투자신탁 #모델하우스 #주택건설업체 #트리플넷리스 #선벨트 #상업부동산 #오피스 #산업시설 #리테일 #주거용부동산 #부동산포트폴리오 #내부관리형 #다각화리츠 #부동산임대 #부동산투자 #부동산관리 #부동산개발 #부동산매각 #부동산취득 #텍사스 #플로리다 #애리조나 #콜로라도 #서부지역 #중서부지역 #2차시장 #3차시장 #안정적시장 #고품질부동산 #NetREIT #우선주 #Series D #배당 #월배당 #9.375% #현금배당 #세일앤리스백 #홈빌더 #건설회사 #부동산투자 #소형리츠 #마이크로캡 #부동산관리 #임대율 #순영업이익 #자금조달 #부동산시장 #부동산경기
 
 ---
@@ -42,6 +38,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 
 ## 5. 비즈니스 모델 (수익 모델)
 
+{{< adsense-infeed >}}
+
 **수익 구조 세분화:**
 
 - **임대 수익**: 전체 수익의 98% (1,852만 달러, 2024년 기준)
@@ -54,9 +52,6 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - 기타 지역: 20% (콜로라도 등)
 
 **임차인 유형별 수익 구조:**
-
-{{< adsense-infeed >}}
-
 - 주택건설업체: 34% (모델하우스 트리플넷 리스)
 - 상업용 임차인: 66% (다양한 업종)
 
@@ -82,6 +77,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - 주택건설업체와의 장기적 파트너십 구축
 - 트리플넷 리스 구조로 안정적 현금흐름
 
+{{< adsense-infeed >}}
+
 **내부 관리 시스템:**
 
 - 외부 관리 수수료 없이 내부 관리로 비용 효율성
@@ -99,14 +96,13 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ## 7. 핵심 기술
 
 **부동산 투자 분석 기술:**
-
-{{< adsense-infeed >}}
-
 - 2차 및 3차 시장 투자 기회 발굴 능력
 - 부동산 가치 평가 및 리스크 분석
 - 포트폴리오 최적화 및 자산 배분 전략
 
 **모델하우스 전문 운영:**
+
+{{< adsense-infeed >}}
 
 - 주택건설업체 니즈 분석 및 맞춤형 솔루션
 - 세일앤리스백 거래 구조 설계
@@ -129,7 +125,6 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ## 8. 제조 공정
 
 **1단계: 투자 기회 발굴**
-
 - 타겟 시장 분석 및 투자 기회 스크리닝
 - 부동산 실사 및 투자 가치 평가
 
@@ -165,9 +160,6 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - 건설업: 자산 개선 및 유지보수
 - 금융업: 자금 조달 및 금융 서비스
 - 법무 서비스: 부동산 거래 법무 지원
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 10. 밸류체인
@@ -242,6 +234,8 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - 주요 공급지: 미국 부동산 관리 업체
 - 주요 공급업체: CBRE(US, CBRE), JLL(US, JLL)
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 13. 주요 고객 
@@ -268,9 +262,6 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ---
 
 ## 14. 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 **현재 운영 지역:**
 
 - 미국: 100% (국내 시장 전용)
@@ -332,14 +323,12 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 ---
 
 ## 17. 기업 특징 및 성장성
-
 **재무 성과:**
 
 - 총 수익: 1,892만 달러 (2024년)
 - 순손실: 2,563만 달러 (2024년)
 - 임대율: 95.6% (2024년 말)
 - 자산 규모: 1억 4,257만 달러
-
 **성장 동력:**
 
 - 선벨트 지역 인구 증가 및 경제 성장
@@ -422,9 +411,6 @@ Presidio Property Trust Inc.는 2010년에 설립된 내부관리형 다각화 �
 - SPDR S&P 600 Small Cap ETF(SLY) - 소형주 ETF
 
 **배당 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - Vanguard Dividend Appreciation ETF(VIG) - 배당 성장 ETF
 - iShares Select Dividend ETF(DVY) - 배당 ETF
 - Schwab U.S. Dividend Equity ETF(SCHD) - 배당 ETF

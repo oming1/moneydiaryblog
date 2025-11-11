@@ -1,16 +1,12 @@
 ﻿---
 title: "OGN"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:34+09:00
+lastmod: 2025-11-04T11:00:40+09:00
 type: docs
 sidebar:
   open: false
 weight: 651
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:34Z" />
-</div>
 #여성건강 #Organon #OGN #피임약 #Nexplanon #NuvaRing #바이오시밀러 #생식건강 #호르몬치료 #자궁내막증 #불임치료 #Follistim #의료기기 #제약회사 #MSD스핀오프 #여성의료 #생물학적동등의약품 #면역학 #종양학 #글로벌헬스케어 #처방의약품 #의료혁신
 
 ---
@@ -51,7 +47,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
     - 다양한 치료 영역의 성숙 의약품
 
 **지역별 매출 분포 (2024년 기준):**
-
 - 미국: 약 47% (바이오시밀러 사업의 핵심 시장)
 - 유럽: 약 30%
 - 아시아태평양: 약 15%
@@ -130,9 +125,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 
 - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)): 분석 장비 및 시약 공급 (생명과학 분야 글로벌 리더)
 - Danaher Corporation(US, [DHR](/company-analysis/dhr/)): 제조 공정 장비 및 자동화 시스템
-
-{{< adsense-infeed >}}
-
 **유통 및 판매 단계:**
 
 - McKesson(US, [MCK](/company-analysis/mck/)): 의약품 도매 유통 (미국 최대 의약품 유통업체)
@@ -189,14 +181,13 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - 국민건강보험공단(KR) - 한국 건강보험 급여 대상 의약품
 - Zuellig Pharma(SG) - 아시아 의약품 유통업체
 
+{{< adsense-infeed >}}
+
 ※ 대부분 B2B 도매 및 유통업체를 통한 간접 판매 구조
 
 ---
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 **미국:** 47.2% (2024년 기준, 바이오시밀러 매출의 핵심 시장)  
 **독일:** 8.5% (2024년 기준, 유럽 최대 시장)  
 **프랑스:** 6.8% (2024년 기준, 여성건강 제품 강세)  
@@ -206,9 +197,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 **중국:** 3.2% (2024년 기준, 성장 잠재력 시장)  
 **일본:** 2.8% (2024년 기준)  
 **기타 아시아태평양:** 6.5% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 경쟁업체
@@ -220,7 +208,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - Merck KGaA(DE, MRK-DE) - Gonal-F 불임치료제, 점유율 20%
 - AbbVie(US, [ABBV](/company-analysis/abbv/)) - 자궁내막증 치료제 Orilissa, 점유율 12%
 - Pfizer(US, [PFE](/company-analysis/pfe/)) - 호르몬 대체 요법, 점유율 8%
-
 **바이오시밀러 분야:**
 
 - Sandoz(CH, SAND) - 다양한 바이오시밀러 포트폴리오, 점유율 18%
@@ -233,21 +220,17 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) - 종합 제약회사, 일부 여성건강 제품
 - Roche(CH, [ROG](/company-analysis/rog/)) - 종양학 및 면역학 분야 경쟁
 
+{{< adsense-infeed >}}
+
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 **여성건강 시장 점유율:**
 
 - 2024년: 12.5% (글로벌 3위)
 - 2023년: 11.8% (글로벌 3위)
 - 2022년: 11.2% (글로벌 4위)
 - 3년간 추이: +1.3%p 증가, Bayer, CooperSurgical에 이은 3위 유지
-
-{{< adsense-infeed >}}
-
 **장기간 작용 피임법(LARC) 시장:**
 
 - Nexplanon 기준 글로벌 피하이식형 피임기구 시장 약 65% 점유 (1위)
@@ -268,6 +251,8 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - 조정 EBITDA 마진: 31.9% (2024년 2분기), 업계 평균 대비 우수
 - 순부채비율: 4.1배 (2024년 2분기), 목표 4배 이하로 개선 중
 - 자유현금흐름: 2024년 목표 10억 달러 (일회성 비용 제외)
+
+{{< adsense-infeed >}}
 
 **주요 성장 동력:**
 

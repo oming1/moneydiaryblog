@@ -1,16 +1,12 @@
 ﻿---
 title: "GLW"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 380
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #특수유리 #광섬유 #고릴라글래스 #디스플레이기술 #광통신 #스마트폰글래스 #Corning #소재과학 #5G인프라 #AI데이터센터 #자동차유리 #환경기술 #생명과학 #실리카유리 #세라믹소재 #반도체폴리실리콘 #전자부품 #통신장비 #광케이블 #혁신소재 #Springboard전략 #Broadcom파트너십 #내구성유리 #첨단광학 #자동차 #스마트폰 #광섬유 
 
 ---
@@ -19,6 +15,8 @@ weight: 380
 
 **섹터(Sector):** Information Technology - 정보기술  
 **산업(Industry):** Electronic Components - 전자부품
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -71,7 +69,9 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 ## 핵심 경쟁력
 
 1. **170년 소재과학 전문성**: 특수유리 및 세라믹 분야의 독보적 기술력과 제조 노하우 보유
-    
+
+{{< adsense-infeed >}}
+
 2. **핵심 시장 지배적 지위**: Gorilla Glass 스마트폰 시장 점유율 약 70%, LCD 디스플레이 유리 글로벌 1위
     
 3. **차세대 기술 선도**: AI 데이터센터용 Co-Packaged Optics, 5G 광통신 솔루션 등 미래 성장동력 확보
@@ -79,7 +79,9 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 4. **글로벌 제조 네트워크**: 미국, 아시아 주요 거점의 최적화된 생산체계로 고객 근접성과 비용 효율성 달성
     
 5. **장기 파트너십**: Apple, Samsung 등과의 다년간 공급계약 및 공동 기술개발로 안정적 수익 기반 구축
-    
+
+{{< adsense-infeed >}}
+
 6. **R&D 투자 지속**: 매출의 약 10% 수준 R&D 투자로 차세대 소재 기술 혁신 주도
 
 ---
@@ -97,7 +99,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 **세라믹 허니컴 기술**: 자동차 배기가스 정화용 세라믹 필터 제조 기술
 
 **바이오리액터 기술**: 생명과학 연구 및 바이오의약품 생산용 특수 유리 용기 기술
-
 ---
 
 ## 제조 공정
@@ -124,13 +125,14 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - 자동차: Ford(US, [F](/company-analysis/f/)), GM(US, [GM](/company-analysis/gm/)) - 자동차 유리 및 환경기술
 - 데이터센터: Microsoft(US, [MSFT](/company-analysis/msft/)), Google(US, [GOOGL](/company-analysis/googl/)) - AI용 광통신 솔루션
 
+{{< adsense-infeed >}}
+
 **후방산업 (원자료/부품 공급 산업):**
 
 - 실리카 모래: U.S. Silica(US, SLCA), Badger Mining(US) - 고순도 실리카 원료
 - 화학원료: Dow Chemical(US, [DOW](/company-analysis/dow/)), BASF(DE, BASF) - 각종 화학첨가제
 - 에너지: 천연가스, 전력 공급업체 - 고온 용융 공정용
 - 제조장비: Applied Materials(US, [AMAT](/company-analysis/amat/)) - 반도체 및 디스플레이 제조장비
-
 ---
 
 ## 밸류체인
@@ -143,9 +145,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - Praxair(US, PX): 제조 공정용 특수 가스 공급
 
 **제조 및 가공 단계:**
-
-{{< adsense-infeed >}}
-
 - Corning: 독자 기술력 기반 특수유리 제조 및 가공
 - 협력업체: 2차 가공 및 조립 서비스 제공
 
@@ -203,9 +202,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - Verizon(US, [VZ](/company-analysis/vz/)) - 5G 네트워크용 광통신 솔루션
 - Lumen Technologies(US, [LUMN](/company-analysis/lumn/)) - AI 데이터센터용 광섬유 공급
 - T-Mobile(US, [TMUS](/company-analysis/tmus/)) - 5G 인프라용 광케이블
-
-{{< adsense-infeed >}}
-
 **디스플레이 제조사:**
 
 - Samsung Display(KR, Samsung Display) - OLED/LCD 유리기판
@@ -280,6 +276,8 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 
 ## 산업 내 글로벌 시장 점유율
 
+{{< adsense-infeed >}}
+
 **스마트폰 보호유리 시장:**
 
 - 2024년: 약 70% (압도적 1위, Gorilla Glass 브랜드)
@@ -342,7 +340,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - 디스플레이 시장 회복 및 가격 안정화 정책 추진
 
 **2022년:**
-
 - 코로나19 회복 및 공급망 정상화
 - 자동차 전동화 트렌드 대응 특수소재 개발 가속
 - ESG 경영 강화 및 탄소중립 목표 설정
@@ -352,7 +349,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 ## 주요 주주 (지분율)
 
 **기관투자자 (2024년 3월 기준):**
-
 - Vanguard Group: 11.25% (9,637만주)
 - Samsung Electronics: 8.29% (7,100만주, 전략적 파트너십)
 - BlackRock Inc.: 7.34% (6,284만주)
@@ -381,9 +377,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - VYM - Vanguard High Dividend Yield ETF VYM
 - SCHD - Schwab US Dividend Equity ETF SCHD
 - DVY - iShares Select Dividend ETF DVY
-
-{{< adsense-infeed >}}
-
 **대형주/성장주 ETF:**
 
 - SPY - SPDR S&P 500 ETF SPY

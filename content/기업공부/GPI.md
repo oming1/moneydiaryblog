@@ -1,16 +1,12 @@
 ﻿---
 title: "GPI"
 date: 2024-12-25T21:20:49+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 386
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-25T12:20:49Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 #자동차소매 #임의소비재 #자동차 #신차 #중고차 
 
 ## 산업섹터
@@ -28,27 +24,26 @@ Group 1 Automotive, Inc.는 미국과 영국에서 [자동차](/industry-study/�
 4. 자동차 유지보수 및 수리 서비스 제공
 5. 자동차 부품 판매
 6. 충돌 수리 센터 운영
-
 회사는 미국과 영국에서 260개의 자동차 딜러십, 338개의 프랜차이즈, 44개의 충돌 센터를 운영하며 35개 브랜드의 자동차를 취급합니다
 
+{{< adsense-infeed >}}
+
 2. AcceleRide® 디지털 플랫폼을 통해 온라인 판매 및 서비스 예약도 제공하고 있습니다
+
+{{< adsense-infeed >}}
 
 ## 전방/후방산업
 
 ## 전방산업
 
-- 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
-- 보험회사: 차량 보험 상품 제공
-
 {{< adsense-infeed >}}
 
+- 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
+- 보험회사: 차량 보험 상품 제공
 ## 후방산업
 
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 차량 공급: 자동차 제조업체
@@ -65,7 +60,6 @@ Group 1 Automotive, Inc.는 미국과 영국에서 [자동차](/industry-study/�
 5. 충돌 수리 서비스
 
 ## 주요 판매국가
-
 Group 1 Automotive는 주로 미국과 영국에서 사업을 영위하고 있습니다
 
 ## 경쟁업체
@@ -75,17 +69,13 @@ Group 1 Automotive는 주로 미국과 영국에서 사업을 영위하고 있�
 3. Lithia Motors (US, [LAD](/company-analysis/lad/))
 4. CarMax (US, [KMX](/company-analysis/kmx/))
 5. Asbury Automotive Group (US, [ABG](/company-analysis/abg/))
+## 산업 내 글로벌 시장 점유율
 
 {{< adsense-infeed >}}
-
-## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Group 1 Automotive는 2021년 기준 미국에서 4번째로 큰 자동차 소매업체로 평가되고 있습니다
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2024년 7월 영국에서 4개의 Mercedes-Benz 딜러십 인수 (2024년)
 2. 2024년 8월 Inchcape Retail (IR) 자동차 사업부 인수로 영국 내 54개 딜러십 추가 (2024년)
 3. 2024년 3분기 신차 및 중고차 판매 대수 분기 최고 기록 달성 (2024년)

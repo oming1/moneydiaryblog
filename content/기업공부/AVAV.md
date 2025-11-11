@@ -1,16 +1,12 @@
 ﻿---
 title: "AVAV"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:31+09:00
+lastmod: 2025-11-04T11:00:38+09:00
 type: docs
 sidebar:
   open: false
 weight: 98
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:31Z" />
-</div>
 #드론제조 #무인항공기 #국방계약업체 #배회탄약 #스위치블레이드 #군사드론 #소형무인기 #레이븐드론 #퓨마드론 #와스프드론 #미군공급업체 #로이터링뮤니션 #자율무기시스템 #미국육군계약 #다영역로봇시스템 #정찰드론 #공격드론 #방산혁신 #UAV기술 #무인지상차량 #드론방어 #전술미사일 #원맨팀드론 #펜타곤공급업체 #항공우주기술 #스마트무기
 
 ---
@@ -68,14 +64,13 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 
 **시장 지위:**
 
+{{< adsense-infeed >}}
+
 - 미군 소형 드론 최대 공급업체 (시장점유율 약 70%)
 - 배회탄약 시장의 글로벌 리더
 - 미 육군과 9억 9천만 달러 장기 계약 보유
 
 **운영 효율성:**
-
-{{< adsense-infeed >}}
-
 - 높은 내부자 지분(39.09%)으로 경영진-주주 이익 일치
 - 소규모 조직(1,475명)으로 효율적 운영
 - 정부 계약 중심의 안정적 수익 구조
@@ -101,9 +96,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 **3단계:** 조립 및 통합 (캘리포니아 시미밸리 생산시설)  
 **4단계:** 품질 테스트 및 검증 (정부 승인 테스트 프로그램)  
 **5단계:** 납품 및 현장 지원 서비스
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 전방산업 / 후방산업
@@ -120,9 +112,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 배터리: Panasonic (JP, Panasonic), LG Chem (KR, LG Chem)
 - 센서: Flir Systems (US, FLIR), Raytheon (US, [RTX](/company-analysis/rtx/))
 - 복합재료: Hexcel (US, [HXL](/company-analysis/hxl/)), Toray (JP, Toray)
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인
@@ -137,9 +126,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 반도체 업체: Intel (US, [INTC](/company-analysis/intc/)), Nvidia (US, [NVDA](/company-analysis/nvda/))
 - 센서 업체: Honeywell (US, [HON](/company-analysis/hon/)), L3Harris (US, [LHX](/company-analysis/lhx/))
 - 배터리 업체: Saft (FR, Saft), Tadiran (IL, Tadiran)
-
-{{< adsense-infeed >}}
-
 **제조 및 조립 단계:**
 
 - 주요 생산시설: 캘리포니아 시미밸리
@@ -158,7 +144,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 **Puma:** 중형 정찰 드론, 25만 달러/대, 해상 및 지상 정찰 임무
 
 **Wasp:** 초소형 정찰 드론, 5만 달러/대, 도시 및 실내 정찰용
-
 ---
 
 ## 주된 영향을 미치는 원자재
@@ -206,6 +191,8 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 
 **대형 방산업체:**
 
+{{< adsense-infeed >}}
+
 - Lockheed Martin (US, [LMT](/company-analysis/lmt/)) - 대형 드론 시스템, 시장점유율 51.96%
 - Northrop Grumman (US, [NOC](/company-analysis/noc/)) - Global Hawk 등 대형 무인기
 - General Dynamics (US, [GD](/company-analysis/gd/)) - 무인 지상 시스템
@@ -217,9 +204,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - Textron (US, TXT) - Shadow 드론 시스템
 - Insitu (Boeing 자회사) - ScanEagle 드론
 - General Atomics - Predator/Reaper 드론
-
-{{< adsense-infeed >}}
-
 **신흥 경쟁업체:**
 
 - Anduril Industries - AI 기반 자율 시스템
@@ -236,7 +220,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 2025년: 약 70% (미국 시장 기준)
 - 2024년: 약 68% (3년간 +5%p 증가)
 - 전체 무인기 시장: 약 0.59% (대형 업체 대비 소규모)
-
 **배회탄약 시장:**
 
 - 글로벌 시장점유율: 약 35-40%
@@ -283,7 +266,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 연말: 배회탄약 시장 급성장으로 주가 상승
 
 **2022년:**
-
 - 우크라이나에 Switchblade 300 공급 시작
 - 소형 드론 시장에서 시장점유율 확대
 - 정부 계약 다변화 전략 추진
@@ -306,7 +288,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - State Street Corp: 약 4.3%
 
 **주요 ETF 보유:**
-
 - IJR (iShares Core S&P Small-Cap): 상당 지분
 - XAR (SPDR S&P Aerospace & Defense): 주요 구성종목
 

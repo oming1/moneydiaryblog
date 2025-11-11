@@ -1,16 +1,12 @@
 ﻿---
 title: "HTZ"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:32+09:00
+lastmod: 2025-11-04T11:00:39+09:00
 type: docs
 sidebar:
   open: false
 weight: 423
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:32Z" />
-</div>
 ## 핵심 키워드
 
 #렌터카 #차량대여 #여행 #기업고객 #공항서비스 #차량관리 #전기차 #자율주행 #모빌리티 #디지털화 #고객경험 #플릿관리 #중고차판매 #보험대체 #글로벌네트워크 #브랜드인지도 #기업파트너십 #비용최적화 #수익다각화 #지속가능성 #렌터카 #중고차 
@@ -23,12 +19,11 @@ weight: 423
 ## 영위사업
 
 Hertz Global Holdings, Inc.(NYSE: HTZ)는 세계적인 차량 렌탈 및 리스 회사입니다. 주요 브랜드로는 Hertz, Dollar, Thrifty가 있으며, 북미, 유럽, 라틴아메리카, 아프리카, 아시아, 호주 등 전 세계 150개 이상의 국가에서 사업을 영위하고 있습니다.주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 미국 렌터카(U.S. RAC): 미국 내 차량 렌탈 및 관련 서비스
 2. 국제 렌터카(International RAC): 미국 외 지역의 차량 렌탈 및 리스 서비스
 3. 기타 사업(All Other Operations): 미국과 캐나다의 통합 차량 리스 및 플릿 관리 솔루션
+
+{{< adsense-infeed >}}
 
 Hertz는 단기 렌탈, 장기 리스, 플릿 관리 서비스 등 다양한 렌탈 솔루션을 제공하며, 개인 고객부터 기업 고객까지 폭넓은 시장을 대상으로 합니다. 최근에는 전기차 도입, 디지털 서비스 강화, 중고차 판매 사업 확대 등을 통해 사업 다각화를 추진하고 있습니다.최근 1년 내 주요 이슈로는 Tesla 전기차 플릿 축소 및 매각, 새로운 경영진 영입을 통한 수익성 개선 노력, 그리고 디지털 플랫폼 강화를 통한 고객 경험 개선 등이 있습니다.
 
@@ -48,15 +43,16 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 이러한 경쟁력을 바탕으로 Hertz는 변화하는 모빌리티 시장에서 지속적인 성장을 추구하고 있습니다.
 
 ## 전방/후방산업
+전방산업:
 
 {{< adsense-infeed >}}
-
-전방산업:
 
 - 여행 및 관광: Expedia(US, [EXPE](/company-analysis/expe/)), Booking Holdings(US, [BKNG](/company-analysis/bkng/))
 - 항공: Delta Air Lines(US, [DAL](/company-analysis/dal/)), United Airlines(US, [UAL](/company-analysis/ual/))
 - 기업 출장: American Express Global Business Travel(US, AMEX)
 - 보험: Progressive Corporation(US, [PGR](/company-analysis/pgr/)), Allstate(US, ALL)
+
+{{< adsense-infeed >}}
 
 후방산업:
 
@@ -76,12 +72,10 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 7. 중고차 판매: Hertz(US, [HTZ](/company-analysis/htz/)), CarMax(US, [KMX](/company-analysis/kmx/)) (중고차 유통)
 
 ## 주요제품
-
 - 단기 차량 렌탈: 개인 및 기업 고객 대상, 매출의 약 70% (2024년 기준)
 - 장기 리스: 기업 고객 대상 플릿 관리 서비스, 매출의 약 15% (2024년 기준)
 - 중고차 판매: Hertz Car Sales를 통한 퇴역 렌탈 차량 판매, 매출의 약 10% (2024년 기준)
 - 부가 서비스: 보험, GPS 렌탈 등, 매출의 약 5% (2024년 기준)
-
 ## 주요 고객
 
 - 개인 여행객
@@ -91,11 +85,7 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 - 차량 공유 서비스 업체
 
 ## 주요 판매국가
-
 미국, 영국, 독일, 프랑스, 스페인, 이탈리아, 호주, 캐나다, 중국, 일본
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Enterprise Holdings (Enterprise, National, Alamo 브랜드)
@@ -112,11 +102,7 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 ## 산업 내 글로벌 시장 점유율
 
 Hertz는 2024년 기준 글로벌 렌터카 시장에서 약 16%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 소폭 하락 추세를 보이고 있으나, 여전히 업계 선두권을 유지하고 있습니다.
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Tesla 전기차 플릿 축소 및 매각 결정으로 인한 대규모 손실 발생 (2024년)
 - 새로운 CEO 및 경영진 영입을 통한 수익성 개선 노력 (2023년)
 - 디지털 플랫폼 강화 및 고객 경험 개선 이니셔티브 추진 (2022년)
@@ -124,9 +110,6 @@ Hertz는 2024년 기준 글로벌 렌터카 시장에서 약 16%의 점유율을
 - 차량 공유 서비스 업체들과의 전략적 파트너십 확대 (2022년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Knighthead Capital Management (59.30%)
 - BlackRock, Inc. (6.40%)
 - Vanguard Group Inc (4.57%)

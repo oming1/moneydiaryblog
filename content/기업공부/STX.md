@@ -1,16 +1,12 @@
 ﻿---
 title: "STX"
 date: 2025-10-24T22:46:34+09:00
-lastmod: 2025-11-03T21:50:35+09:00
+lastmod: 2025-11-04T11:00:41+09:00
 type: docs
 sidebar:
   open: false
 weight: 837
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T12:50:35Z" />
-</div>
 #씨게이트 #STX #하드디스크드라이브 #HDD #스토리지솔루션 #데이터센터 #클라우드스토리지 #NAS #엔터프라이즈HDD #HAMR #열지원자기기록 #SMR #쉬글드기록 #SSD #솔리드스테이트드라이브 #Lyve클라우드 #MassCapacity #NearlineHDD #비디오분석 #IoT스토리지 #데이터관리 #글로벌제조 #아시아공장 #원가절감 #공급망다변화 #반도체의존 #헬륨밀봉 #디스크밀도 #스토리지수요 #AI데이터 #클라우드캡EX #WesternDigital경쟁 #Toshiba경쟁 #스토리지산업 #데이터폭증 #지속가능스토리지 #에너지효율HDD
 
 ---
@@ -33,17 +29,12 @@ weight: 837
 Seagate Technology Holdings plc는 1979년에 아일랜드에서 설립된 글로벌 스토리지 솔루션 전문 기업으로, 하드 디스크 드라이브(HDD), 솔리드 스테이트 드라이브(SSD), 스토리지 시스템을 제조합니다. 
 
 초기에는 PC용 HDD에 집중했으나, [데이터센터](/industry-study/데이터센터/)와 클라우드 수요 증가로 엔터프라이즈 스토리지로 사업을 확대했습니다. 회사는 싱가포르, 태국, 중국 등 아시아에 생산 시설을 보유하고 있으며, 미국과 유럽에 R&D 센터를 운영합니다. 
-
 Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recording) 같은 혁신 기술로 고용량 HDD를 선도하며, 데이터 폭증 트렌드(클라우드, AI, 빅데이터)에 맞춰 성장을 추구합니다. 
 
 최근에는 Lyve Cloud 스토리지 서비스로 소프트웨어 영역을 강화하고 있으며, 회사의 강점은 비용 효율적 생산과 기술 리더십에 있습니다. 이는 데이터 스토리지 시장의 성장에 맞춰 장기적인 성장을 지원하지만, SSD 전환과 경쟁 심화가 과제입니다.
-
 - **주요 제품 및 서비스**
     
     - **엔터프라이즈 HDD (Exos 시리즈):** 데이터 센터용 고용량 드라이브. HAMR 기술로 30TB 이상 용량 제공, 클라우드 스토리지에 최적화. 예를 들어, Exos X 시리즈는 헬륨 밀봉으로 에너지 효율을 높입니다.
-
-{{< adsense-infeed >}}
-
     - **NAS 및 데스크톱 HDD (IronWolf, BarraCuda):** 홈/소호용. SMR 기술로 비용 효과적 저장, 데이터 백업과 미디어 스트리밍에 사용.
 
     - **SSD (Nytro 시리즈):** 고속 스토리지로, 엔터프라이즈와 소비자 시장. NVMe 인터페이스로 데이터 센터 속도 요구 충족.
@@ -78,9 +69,6 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 - **최근 1년 주가 동향**  
     지난 1년간 주가는 상승 추세를 보였습니다. 2024년 8월 약 $60.00에서 2025년 8월 약 $75.00로 상승(+25%), 이는 데이터 수요 증가와 실적 호조에 기인합니다. 그러나 반도체 부족으로 인한 변동성 있었습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 비즈니스 모델 (수익 모델)
@@ -95,9 +83,6 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 - **고객 유형별 수익 구조:**
     - 클라우드 제공자: 대량 구매.
     - 소비자: PC·NAS 판매.
-
-{{< adsense-infeed >}}
-
 - **지역별 매출 분포:**
     - 아시아: 50% (2023년 기준, 3년간 +2%p).
     - 미국: 30% (2023년 기준, 3년간 -1%p).
@@ -105,7 +90,6 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 - **성장 동력 및 수익성 개선 요인:**
     - 고용량 HDD 수요, 클라우드 서비스 확대, 비용 절감.
-
 ---
 
 ### 핵심 경쟁력
@@ -147,6 +131,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 **후방산업 (원자재/부품 공급 산업):**
 
+{{< adsense-infeed >}}
+
 - 희토류: MP Materials(US, [MP](/company-analysis/mp/)).
 - 반도체: TSMC(TW, [TSM](/company-analysis/tsm/)).
 
@@ -155,9 +141,6 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 ### 밸류체인
 
 **부품 공급 단계:**
-
-{{< adsense-infeed >}}
-
 - MP Materials(US, [MP](/company-analysis/mp/)): 희토류 자석.
 - TSMC(TW, [TSM](/company-analysis/tsm/)): 칩셋.
 
@@ -184,6 +167,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 - **희토류 자석:** HDD 헤드, 공급지: 중국, 공급업체 MP Materials(US, [MP](/company-analysis/mp/)).
 - **알루미늄 플래터:** 디스크, 공급지: 미국, 공급업체 Alcoa(US, [AA](/company-analysis/aa/)).
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -227,6 +212,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 
 ### 기업 특징 및 성장성
 
+{{< adsense-infeed >}}
+
 - 매출 성장률: 3년 CAGR 5% (2021-2023).
 - 영업 이익률: 10% (2023년).
 - 주요 성장 동력: 고용량 HDD 수요, 클라우드 확대.
@@ -239,6 +226,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 - 2023년: HAMR 30TB HDD 출시.
 - 2022년: Lyve Cloud 론칭.
 - 2021년: SMR 기술 확대.
+
+{{< adsense-infeed >}}
 
 ---
 
@@ -253,6 +242,8 @@ Seagate는 HAMR(Heat-Assisted Magnetic Recording)과 SMR(Shingled Magnetic Recor
 ---
 
 ### 관련 ETF
+
+{{< adsense-infeed >}}
 
 **직접 관련 ETF:**
 
