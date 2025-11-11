@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 785
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #식품소매 #필수소비재 #유기농식품
 
 ## 산업섹터

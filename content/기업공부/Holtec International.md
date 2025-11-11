@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 412
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #원전 #원자력발전 #원자력 #SMR #소형모듈원자로 #사용후핵연료 #원전해체 #에너지저장 #스팀터빈 #방사성폐기물 #클린에너지 #탈탄소 #ESG #플랜트설계 #설치서비스 #수출확대 #미국제조업
 
 - 최근이슈

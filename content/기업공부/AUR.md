@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 96
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #자율주행 #테크 #정보기술서비스 #라이다 #LiDAR
 
 Aurora Innovation, Inc.(AUR)는 [자율 주행](/industry-study/자율-주행/) 기술을 개발하는 미국의 기업입니다.

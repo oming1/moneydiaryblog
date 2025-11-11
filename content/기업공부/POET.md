@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 705
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T08:43:45Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #반도체 #테크 #광전자솔루션 #데이터센터 
 
 **산업섹터 (Sector, Industry)**:

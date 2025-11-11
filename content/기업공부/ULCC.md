@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 908
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-19T04:31:51Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #산업재 #항공사 #LCC #저가항공사 #레저 
 
 **산업섹터 (Sector, Industry)**:

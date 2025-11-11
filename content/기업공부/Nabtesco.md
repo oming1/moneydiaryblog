@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 605
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:47Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #로봇부품 #중대형감속기 #산업용로봇 #산업재 #산업용기계 #정밀감속기
 
 **산업섹터 (Sector):** 산업재 (Industrials)  

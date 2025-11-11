@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 134
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-05T13:13:46Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:36Z" />
-</div>
 #비트코인 #암호화폐 
 
 BITQ (Bitwise Crypto Industry Innovators ETF):  

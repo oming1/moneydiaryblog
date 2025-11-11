@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 808
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-31T12:50:30Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #가전제품 #임의소비재
 
 ## 산업섹터

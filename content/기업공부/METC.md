@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 564
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 2. 핵심 키워드
 
 #메탈루지컬코킹 #제철코크 #희토류 #Wyoming #Brook광산 #Central_Appalachia #석탄광산 #steel_making #희토류희소금속 #중국의존도탈피 #수직통합 #전략광물 #ESG광산 #셰일가스 #네오디뮴 #프라세오디뮴 #디스프로슘 #철강산업 #미국에너지독립 #중국견제 #critical_minerals #저유황코킹 #고품질석탄 #철강코크 #메탈루지컬코크 #고부가가치광업 #RAMACO #글로벌철강 #철강재료 #West_Virginia #Virginia #생산확대 #확장사업 #마진개선 #수익성최고 #유동성풍부 #메탈루지컬코크시장선도 #동양경쟁력 #제철원료 #코크오븐 #용광로 #고로 #로우코스트 #하이퀄리티 #철강제조 #전략소재 #대중의존도탈피 #국내생산 #Elk_Creek #Berwind #Knox_Creek #Maben

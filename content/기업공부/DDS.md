@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 268
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-24T12:26:05Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #임의소비재 #백화점 #소매 #의류 
 
 ## 산업섹터

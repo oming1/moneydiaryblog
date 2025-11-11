@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 157
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-02T21:53:41Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #원자재 #폐기물관리 #중국 #폐배터리 
 
 ## 산업섹터

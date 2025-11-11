@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 279
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T04:40:33Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 #엔터테인먼트 #테마파크 #HULU #ESPN
 
 #### 산업섹터 (Sector, Industry)

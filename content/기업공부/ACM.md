@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 21
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #인프라컨설팅 #건설관리 #엔지니어링 #디자인 #프로젝트관리 #정부서비스 #지속가능성 #글로벌확장 #기술혁신 #안전성 #협업 #사회적책임 #디지털솔루션 #환경관리 #도시개발 #교통인프라 #에너지인프라 #수자원관리 #건축설계 #사업다각화 #관종 

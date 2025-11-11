@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 787
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #카지노및게임 #유럽 #온라인스포츠베팅 #카지노
 
 ## 산업섹터

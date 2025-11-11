@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #CCaaS #클라우드컨택센터 #고객경험 #옴니채널 #AI #자동화 #음성인식 #챗봇 #CRM통합 #실시간분석 #확장성 #구독모델 #원격근무 #데이터보안 #통화라우팅 #IVR #ACD #UCaaS #마이크로서비스 #API통합
 
 ## 기본개념

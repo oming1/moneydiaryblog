@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 57
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #비만치료 #위내풍선 #체중감량 #AI원격모니터링 #행동변화프로그램 #디지털헬스 #비침습적시술 #가상케어 #의료기기 #체중관리 #AllurionProgram #AllurionBalloon #VirtualCareSuite #원격의료 #맞춤형의학 #비만관리 #헬스케어기술 #FDA승인 #글로벌확장 #의료기기 #헬스케어 #비만 

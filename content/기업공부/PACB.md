@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 670
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #유전체학 #DNA시퀀싱 #생명과학 #바이오테크놀로지 #장기읽기시퀀싱 #HiFi기술 #Revio시스템 #Vega시퀀서 #유전자분석 #정밀의학 #농업유전학 #미생물학 #종양학 #희귀질환연구 #생물정보학 #헬스케어 #생명공학 #유전체연구 #분자진단 #헬스케어 #생명과학도구및서비스
 
 ## 섹터 및 산업

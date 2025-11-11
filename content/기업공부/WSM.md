@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 976
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-21T02:09:06Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #가정용품소매 #경기소비재 #주방용품 #가구 #홈인테리어 
 
 ## 산업 섹터

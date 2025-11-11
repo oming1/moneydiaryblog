@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 839
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-10T01:24:00Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #산업재 #특수산업기계 #전력관리 #데이터센터 
 
 #### 산업섹터 (Sector, Industry)

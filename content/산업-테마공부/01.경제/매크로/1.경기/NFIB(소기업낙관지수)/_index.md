@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2067
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # NFIB(소기업낙관지수)
 
 이 섹션의 내용입니다.

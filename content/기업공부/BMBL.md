@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 147
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #온라인데이팅 #여성중심플랫폼 #소셜네트워킹 #모바일앱 #프리미엄구독 #AI매칭 #글로벌확장 #다중모드앱 #사용자참여 #수익화전략 #브랜드인지도 #사용자경험 #데이터분석 #마케팅전략 #ESG #기술혁신 #사용자안전 #커뮤니티가이드라인 #인앱구매 #사용자획득

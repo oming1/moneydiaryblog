@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 209
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #철도운송 #화물철도 #북미물류 #인터모달운송 #벌크화물 #컨테이너운송 #철도인프라 #공급망솔루션 #지속가능운송 #디지털화 #자동화 #정밀스케줄링 #에너지효율 #안전관리 #탄소배출감축 #철도네트워크 #국제무역 #대륙횡단철도 #철도기술 #ESG #캐나다 

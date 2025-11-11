@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 262
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #디지털인프라 #데이터센터 #셀타워 #광섬유네트워크 #엣지인프라 #대체자산운용 #5G #클라우드컴퓨팅 #AI인프라 #REIT #투자관리 #디지털전환 #ESG #글로벌확장 #자산운용 #통신인프라 #IoT #하이퍼스케일 #지속가능투자 #금융 #리츠 

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 119
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 미국 상장 여부
 
 **미국 나스닥 상장 확인** - FINVIZ에서 확인된 바와 같이 Beasley Broadcast Group은 나스닥(NASDAQ: BBGI)에 상장된 기업입니다. Class A 보통주로 거래되고 있습니다.

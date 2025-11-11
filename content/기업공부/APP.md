@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 80
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #앱개발자를위한소프트웨어플랫폼 #금융 #테크 
 
 AppLovin Corporation은 모바일 앱 개발자를 위한 소프트웨어 플랫폼을 제공하는 기업입니다.

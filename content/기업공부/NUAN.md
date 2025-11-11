@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 634
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T12:57:24Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #AI #정보기술 #소프트웨어 #음성인식 #의료진용음성인식소프트웨어 #의료
 
 Nuance Communications, Inc.(NUAN)는 음성 인식 및 인공지능(AI) 소프트웨어 기술을 제공하는 기업입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 29
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #자동차시트 #인테리어시스템 #경량화 #전기차 #자율주행 #모듈화 #글로벌공급망 #OEM파트너십 #스마트시트 #안전기술 #인체공학 #지속가능소재 #리사이클링 #디지털화 #커넥티드카 #ADAS #열관리 #음향관리 #맞춤형솔루션 #자동차 

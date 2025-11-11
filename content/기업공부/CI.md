@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 196
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #보험 #헬스케어 #관리형헬스케어 #건강보험 #메디케어 #메디케이드 #의약품혜택관리중개자 #약국 
 
 ## 산업 섹터

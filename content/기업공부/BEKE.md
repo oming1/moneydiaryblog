@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 126
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #부동산플랫폼 #온라인중개 #베이커 #중국부동산 #디지털화 #AI기술 #빅데이터분석 #O2O서비스 #프롭테크 #스마트홈 #VR투어 #부동산금융 #중개수수료 #부동산관리 #도시화 #주택정책 #부동산투자 #임대관리 #부동산평가 #모바일앱

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 896
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #DNA합성 #합성생물학 #유전체학 #실리콘기반기술 #고처리량 #정밀도 #맞춤형DNA #NGS #CRISPR #항체발견 #바이오제약 #농업 #산업화학 #데이터저장 #혁신 #ARKInvest #성장주 #바이오테크 #유전자편집 #실리콘칩
 
 [헬스케어](/industry-study/2산업헬스케어/) 섹터  

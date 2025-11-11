@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 45
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-03-31T08:27:24Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #산업재 #지역은행 #제조업 #미국제조업 #ETF 
 
 ETF소개

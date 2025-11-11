@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 903
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #드론기술 #무인항공시스템 #정밀농업 #군사용드론 #상업용드론 #정부계약 #항공전자공학 #데이터분석 #클라우드서비스 #IoT #인공지능 #실시간영상 #원격조종 #항공안전 #국방기술 #센서기술 #소프트웨어솔루션 #지리정보시스템 #환경모니터링 #인프라점검 #임의소비재 #항공우주방위 #항공우주및방위 #드론
 
 ## 섹터

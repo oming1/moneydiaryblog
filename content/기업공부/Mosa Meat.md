@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 584
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-07-15T02:59:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #대체단백질 #대체육 #푸드테크 #배양육
 
 **산업섹터 (Sector):** [푸드테크](/industry-study/푸드테크/) (Food Technology)  

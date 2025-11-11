@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 686
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #제약 #바이오테크 #백신 #면역학 #종양학 #심장학 #내분비학 #신경학 #COVID19백신 #Comirnaty #Eliquis #Prevnar #Palbociclib #Vyndaqel #연구개발 #글로벌제약 #혁신의약품 #바이오의약품 #제네릭 #지적재산권 #바이오 
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 854
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-20T14:21:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #여행서비스 #여행 #Trip_com #Skyscanner
 
 ## 산업 섹터

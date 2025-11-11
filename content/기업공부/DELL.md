@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 272
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T02:09:18Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #테크 #컴퓨터하드웨어 #컴퓨터 #서버 
 
 #### 산업섹터 (Sector, Industry)

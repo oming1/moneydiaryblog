@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 948
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #방위산업 #인공지능 #자율주행시스템 #국방기술 #AI방위 #자율무기 #군용드론 #레이더기술 #국가안보 #스팩합병 #군사기술 #무인시스템 #센서기술 #전술기술 #무인항공기 #사이버보안 #전장인식 #자율지상차량 #지능형감시 #다중도메인작전 #의사결정지원 #실시간위협탐지 #스마트방위 #차세대전투 #국방산업 #미국방부계약 #원격조종
 
 ---

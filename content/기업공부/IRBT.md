@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 458
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:45Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #소비자전자제품 #로봇공학 #청소로봇 #가전제품 
 
 ## 산업섹터

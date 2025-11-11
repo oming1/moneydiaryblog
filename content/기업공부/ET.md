@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 323
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #천연가스 #석유 #미드스트림 #파이프라인 #에너지인프라 #NGLs #원유 #석유화학 #배당주 #에너지
 
 ## 산업 섹터

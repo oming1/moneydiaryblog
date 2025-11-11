@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #에너지 
 
 LCOE (Levelized Cost of Energy)는 균등화 발전비용을 의미합니다. 이는 발전설비의 수명 기간 동안 발생하는 모든 비용을 발전량으로 나누어 계산한 값입니다. LCOE는 다양한 발전원 간의 비용 비교를 위해 사용됩니다.

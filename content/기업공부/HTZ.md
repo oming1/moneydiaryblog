@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 423
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #렌터카 #차량대여 #여행 #기업고객 #공항서비스 #차량관리 #전기차 #자율주행 #모빌리티 #디지털화 #고객경험 #플릿관리 #중고차판매 #보험대체 #글로벌네트워크 #브랜드인지도 #기업파트너십 #비용최적화 #수익다각화 #지속가능성 #렌터카 #중고차 

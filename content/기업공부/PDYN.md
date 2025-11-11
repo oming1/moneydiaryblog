@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 681
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #AI소프트웨어 #로봇자율성 #엣지컴퓨팅 #기계학습 #무인시스템 #산업자동화 #드론기술 #국방기술 #컴퓨터비전 #실시간처리 #저전력AI #적응형로봇 #동적환경 #인지능력 #자율주행 #IoT #스마트팩토리 #예측유지보수 #인간로봇협업 #디지털트윈 #소프트웨어

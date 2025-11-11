@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 7
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # 7.정치,소문,지정학
 
 이 섹션의 내용입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 260
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #달라스모닝뉴스 #신문발행 #저널리즘 #신문업계 #지역신문 #미디어 #출판업 #광고수익 #구독모델 #인수합병 #허스트코퍼레이션 #디지털전환 #콘텐츠 #뉴스미디어 #언론 #정보서비스 #커뮤니케이션서비스 #미국언론 #지역언론 #전통미디어
 
 ---

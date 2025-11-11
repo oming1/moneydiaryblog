@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 123
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-07-14T01:40:57Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #바이오테크 #의료장비및기기 #생명과학연구
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 282
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #온라인스포츠베팅 #일일판타지스포츠 #모바일베팅 #iGaming #온라인카지노 #라이브베팅 #스포츠북 #게이밍규제 #디지털복권 #Jackpocket #고객획득 #베팅홀드율 #AI베팅기술 #스포츠파트너십 #NBA #NFL #MLB #마케팅지출 #브랜드인지도 #월활성사용자 #평생가치 #지역확장 #게이밍세금 #현금흐름 #수익성전환
 
 ---

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 548
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #장난감제조 #바비인형 #핫휠 #피셔프라이스 #브랜드라이선싱 #콘텐츠제작 #디지털게임 #교육완구 #지속가능성 #글로벌유통 #IP활용 #캐릭터머천다이징 #STEM완구 #라이프스타일브랜드 #e커머스 #AR #VR #AI완구 #ESG #디지털전환

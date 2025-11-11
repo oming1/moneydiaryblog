@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #암호화폐 #스테이블코인 
 
 ## 발행자 및 규제기관 

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 490
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-29T12:57:01Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #의약품제조 #제약 #수마트립탄 #편두통
 
 **산업섹터 (Sector):** [헬스케어](/industry-study/2산업헬스케어/) (Healthcare)  

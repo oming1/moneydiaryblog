@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 587
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #팹리스 #반도체 #정보기술 #반도체 #전력관리IC #데이터센터 #자동차 #통신 #DC-DC변환기 #전력관리통합회로 
 
 ## 산업 섹터

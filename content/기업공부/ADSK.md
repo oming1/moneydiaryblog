@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 31
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-14T08:56:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #엔지니어링소프트웨어 #정보기술 #소프트웨어 
 
 ## 산업섹터

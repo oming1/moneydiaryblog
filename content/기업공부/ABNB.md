@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 13
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-11T00:36:27Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #숙박공유플랫폼 #임의소비재 #호텔 #레저 
 
 ## 산업 섹터

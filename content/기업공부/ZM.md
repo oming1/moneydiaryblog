@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 1001
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-23T03:05:29Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #소프트웨어 #테크 #화상회의 #인터넷
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 757
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #스트리밍 #미디어 #커뮤니케이션서비스 #엔터테인먼트
 
 - 최근 이슈

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 445
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #데이터통합 #클라우드데이터관리 #AI기반데이터플랫폼 #엔터프라이즈데이터관리 #ETL #데이터품질 #마스터데이터관리 #데이터거버넌스 #클라우드서비스 #iPaaS #데이터카탈로그 #실시간데이터통합 #하이브리드클라우드 #멀티클라우드 #CLAIRE #데이터프라이버시 #API통합 #데이터엔지니어링 #ESG #지속가능성

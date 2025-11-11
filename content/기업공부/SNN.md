@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 810
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:13:20Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #헬스케어 #의료장비및용품 #의료기기 #스포츠의학
 
 Smith & Nephew plc(SNN)는 의료 기기및 장비를 개발, 제조 및 판매하는 영국의 다국적 기업입니다.

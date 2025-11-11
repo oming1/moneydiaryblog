@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 462
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #헬스케어 #의료기기 #로봇수술 #다빈치수술시스템 #의료로봇
 
 - 최근이슈

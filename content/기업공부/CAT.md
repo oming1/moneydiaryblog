@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 176
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T11:59:25Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #산업재 #농업및중장비기계 
 
 ## 산업섹터

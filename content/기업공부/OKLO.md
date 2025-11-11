@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 654
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #에너지 #원전 #우라늄 #원자력 #소형모듈형원자로 #SMR #4세대SMR #고순도저농축우라늄 #소듐 #Aurora원자로
 
 ## 최근이슈

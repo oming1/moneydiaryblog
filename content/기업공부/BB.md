@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 117
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #사이버보안 #IoT #QNX #자동차소프트웨어 #임베디드시스템 #특허라이선싱 #엔드포인트보안 #UEM #Cylance #안드로이드 #실시간운영체제 #차량인포테인먼트 #보안통신 #자율주행 #클라우드보안 #제로트러스트 #인공지능 #정보기술 #소프트웨어
 
 ---

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 731
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #소형드론 #미국방부 #정찰드론 #국방계약 #BluesUAS #틸드론 #에지130 #블랙위도우 #군사드론 #유인항공기 #정찰감시 #무인항공기 #드론제조업체 #펜타곤 #미육군 #상황인식 #항공정보 #로봇시스템 #드론기술 #국방혁신 #드론도미넌스 #전술드론 #UAV #아라크니드 #플라이트웨이브 #틸드론즈 #미국제조 #군사보안 #무인시스템 #드론정찰
 
 ---

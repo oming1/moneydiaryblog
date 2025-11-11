@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 677
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #인프라투자 #미국인프라 #건설 #엔지니어링 #자재 #유틸리티 #테마ETF #지속가능성 #장기촉매 #미국경제 #정부투자 #인프라현대화 #공공사업 #교통인프라 #에너지인프라 #물류 #철도 #도로 #항만 #공항 #디지털인프라 #5G #AI #클라우드컴퓨팅 #스마트시티 #재생에너지 #전기차충전소 #물관리 

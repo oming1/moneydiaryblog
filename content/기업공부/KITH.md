@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 487
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:35:26Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:42Z" />
-</div>
 #의류 #스니커즈 
 
 ## 영위사업

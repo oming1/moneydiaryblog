@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 163
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #사모펀드 #대체투자 #부동산 #인프라 #크레딧 #헤지펀드 #프라이빗에쿼티 #자산운용  #구조화금융 #자본시장 #금융 #자산운용

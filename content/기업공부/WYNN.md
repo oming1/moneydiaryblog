@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 983
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-06T10:45:13Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 
 ## 산업섹터

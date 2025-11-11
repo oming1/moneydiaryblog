@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 83
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #천연가스 #석유 #탐사생산 #마르셀러스셰일 #유티카셰일 #LNG #NGL #에너지 #석유가스소비연료 #에너지 #미드스트림 #LNG수출터미널 
 
 ## 산업 섹터

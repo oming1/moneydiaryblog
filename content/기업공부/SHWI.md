@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 792
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:02:15Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #바닥재 #가구 #소비자재량주 #타일 #카펫 #임의소비재
 
 ## 산업섹터

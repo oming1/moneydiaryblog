@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 665
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:24:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #전문소매 #자동차부품 
 
 O'Reilly Automotive, Inc.(ORLY)는 미국의 자동차 부품 및 액세서리 소매업체입니다.

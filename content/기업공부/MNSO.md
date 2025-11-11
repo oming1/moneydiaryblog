@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 576
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #미니소 #잡화점 #라이프스타일소매 #디자인중심제품 #생활용품 #팝토이 #글로벌확장 #중국소매시장 #IP디자인 #저가소매 #MINISO브랜드 #TOPTOY브랜드 #소비자패키지상품 #다국적네트워크 #직영점 #프랜차이즈점 #중국 
 
 ## 산업섹터

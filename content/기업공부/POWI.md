@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 707
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T12:50:11Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #반도체 #고전압전력변환 #AC-DC전원공급장치
 
 Power Integrations, Inc.(POWI)는 고전압 전력 변환을 위한 반도체 기술을 개발하는 기업입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 541
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-08T06:14:13Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #도로및철도운송 #산업재 #차량공유 #자전거공유 #스쿠터공유 #모빌리티 #자율주행 
 
 ## 산업섹터

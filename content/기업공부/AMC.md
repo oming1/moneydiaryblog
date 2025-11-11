@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 59
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T03:26:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #커뮤니케이션서비스 #밈주식 #엔터테인먼트 #영화 #극장 
 
 AMC Entertainment Holdings, Inc.(AMC)는 세계 최대 규모의 영화 상영 기업입니다.

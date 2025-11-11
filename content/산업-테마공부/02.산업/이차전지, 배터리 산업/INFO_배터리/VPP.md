@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 10
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #VPP #배터리 #재생에너지 #태양광 #V2G
 
 - 테마구분: [배터리](/industry-study/배터리/), [재생에너지](/industry-study/재생에너지/), [태양광](/industry-study/태양광/), [V2G](/industry-study/v2g/)

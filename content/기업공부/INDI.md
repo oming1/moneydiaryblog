@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 444
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #반도체 #자동차전자 #5G #RF솔루션 #전력관리IC #ADAS #커넥티드카 #IoT #산업자동화 #고효율전력변환 #저전력설계 #SiC #GaN #파워디스크리트 #아날로그IC #혼합신호IC #센서 #무선충전 #차량용인포테인먼트 #스마트홈

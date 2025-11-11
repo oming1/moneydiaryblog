@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 364
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #기초소재 #화학 #리튬 #배터리재활용 #중국 
 
 #### 산업섹터 및 산업

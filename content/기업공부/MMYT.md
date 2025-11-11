@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 574
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T13:02:44Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #여행 #임의소비재 #호텔레스토랑및레저 #인도 #온라인여행서비스
 
 MakeMyTrip Limited은 [인도](/industry-study/4국가인도/)의 선도적인 온라인 여행 서비스 기업입니다.

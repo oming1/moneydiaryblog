@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 296
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T23:46:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #교육 #모바일언어학습플랫폼 #테크 #소프트웨어
 
 Duolingo, Inc.(DUOL)는 모바일 언어 학습 플랫폼을 운영하는 미국의 교육 기술 기업입니다.

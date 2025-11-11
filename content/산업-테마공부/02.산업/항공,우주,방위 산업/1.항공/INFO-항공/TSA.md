@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 8
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #항공 #TSA #미국교통안정청
 
 **미국 교통안정청(TSA)**는 미국 국토안보부 산하 기관으로, 미국 내 항공 및 대중교통 시스템의 보안을 책임지고 있습니다. 주요 역할은 공항 및 기타 교통 시설에서 승객과 수하물을 검사하여 테러 위협을 방지하는 것입니다.

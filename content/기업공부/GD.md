@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 367
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #방위산업 #항공우주 #해군함정 #전투차량 #IT서비스 #C4ISR #정부계약 #군수산업 #비즈니스제트 #핵추진잠수함 #구축함 #전차 #장갑차 #미사일시스템 #사이버보안 #클라우드컴퓨팅 #인공지능 #로봇공학 #위성통신 #국방기술 #산업재 #항공우주방위 

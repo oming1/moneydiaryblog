@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 904
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-16T02:55:08Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #교통 #테크 #공유자동차 #배달
 
 **산업섹터 (Sector, Industry)**:

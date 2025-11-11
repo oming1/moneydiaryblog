@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 164
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:08:41Z" />
-</div>
 #중국 #전기차 #임의소비재 #자동차제조 #ESS
 
 #### 산업섹터 및 산업

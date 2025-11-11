@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T13:05:31Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #생명과학도구및서비스 #헬스케어 #실험실기기
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 767
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #AI기반사이버보안 #엔드포인트보안 #XDR #클라우드보안 #위협탐지및대응 #자율보안 #기계학습 #Singularity플랫폼 #EDR #IoT보안 #제로트러스트 #SASE #데이터분석 #보안자동화 #위협인텔리전스 #PurpleAI #클라우드네이티브보안 #데이터레이크 #엔터프라이즈보안 #사이버위협대응 #정보기술 #소프트웨어 #AI 

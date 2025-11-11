@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 970
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T05:36:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #로봇 #필수소비재 #가정용내구재 #로봇 #가정용로봇 #가전제품 #반려동물용품
 
 #### 산업섹터 및 산업

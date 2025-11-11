@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 694
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:08:26Z" />
-</div>
 #항공우주및방위산업 #산업재 #위성 #위성이미지 #인공위성 #위성발사 #위성운영 #위성설계 #관측위성 #소형위성 
 
 ## 산업 섹터

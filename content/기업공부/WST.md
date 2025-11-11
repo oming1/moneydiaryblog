@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 977
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #의약품포장 #주사제전달시스템 #고무부품 #플라스틱포장 #바이오의약품 #계약제조 #환자중심 #자가주사기 #웨어러블주사기 #분석서비스 #통합솔루션 #DaikyCrystalZenith #ESG #제약산업 #의료기기 #품질신뢰성

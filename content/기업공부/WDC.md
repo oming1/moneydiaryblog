@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 958
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #데이터스토리지 #HDD #SSD #낸드플래시 #클라우드스토리지 #엔터프라이즈스토리지 #AI데이터센터 #ZonedStorage #RISC-V #오픈소스기술 #디지털전환 #수직통합 #글로벌공급망 #혁신기술 #플래시메모리 #데이터센터솔루션 #IoT스토리지 #엣지컴퓨팅 #지속가능성 #ESG #데이터센터 

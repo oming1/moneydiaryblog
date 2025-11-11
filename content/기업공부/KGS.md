@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 485
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #가스압축장비 #에너지 #석유및가스장비및서비스
 
 Kodiak Gas Services, Inc.(KGS)는 미국의 계약 압축 서비스 제공업체입니다.

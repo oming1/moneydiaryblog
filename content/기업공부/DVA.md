@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 297
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-18T04:47:11Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #헬스케어서비스 #만성신장질환 #투석치료
 
 ### DaVita Inc. 개요

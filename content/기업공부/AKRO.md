@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 49
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #MASH치료제 #EFX #간경변증 #임상시험 #생명공학 #대사질환 #FGF21 #지방간염 #간섬유화 #비만 #당뇨병 #심혈관질환 #지질대사 #인슐린감수성 #간기능개선 #바이오마커 #신약개발 #희귀질환 #만성질환 #정밀의학

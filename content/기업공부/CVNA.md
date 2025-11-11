@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 250
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #온라인중고차 #이커머스 #자동차유통 #디지털플랫폼 #무접촉거래 #홈딜리버리 #AI가격책정 #재고관리 #고객경험 #차량검사 #재조정 #물류네트워크 #자동차소매 #디지털전환 #자동차산업 #중고차시장 #자동차딜러 #자동차금융 #임의소비재 #온라인중고차판매플랫폼 #차량검사
 
 임의소비재 섹터  

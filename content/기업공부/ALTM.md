@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 55
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-11T15:12:58Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #원자재 #리튬 #희토류 #특수화학 #전기차 #리튬화학제품 
 #리튬카보네이트 #리튬하이드록사이드 #부틸리튬 #배터리 
 

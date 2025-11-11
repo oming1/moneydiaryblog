@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 11
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 ## 핵심 키워드
 
 #항체발견 #AI기반신약개발 #단일세포기술 #면역요법 #바이오테크 #정밀의학 #협업모델 #로열티수익 #마일스톤수익 #연구수수료 #항체의약품 #고속스크리닝 #인공지능 #머신러닝 #바이오인포매틱스 #면역학 #맞춤형치료제 #항체라이브러리 #임상시험 #지적재산권 #바이오테크 

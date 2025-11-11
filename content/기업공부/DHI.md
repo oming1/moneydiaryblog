@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 276
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T08:33:51Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #임의소비재 #건축건설 #부동산
 
 ## 산업섹터

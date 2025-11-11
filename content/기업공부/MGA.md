@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 565
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #자동차부품 #전기차 #자율주행 #경량화 #파워트레인 #외장시스템 #시트시스템 #전장부품 #글로벌공급망 #OEM파트너십 #모빌리티솔루션 #커넥티드카 #ADAS #전동화 #모듈화 #캐나다 

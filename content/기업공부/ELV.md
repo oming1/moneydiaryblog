@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 312
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-18T05:50:25Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #보험 #의료보험 #약국 
 
 **산업섹터 (Sector, Industry)**

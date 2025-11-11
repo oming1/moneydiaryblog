@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 897
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-04T14:04:49Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #반도체 #아날로그반도체 #마이크로컨트롤러 #테크 
 
 ## 산업섹터

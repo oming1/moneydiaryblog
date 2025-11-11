@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 988
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-06T02:06:22Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #자동차 #전기차 #중국 #산업재 
 
 #### 산업섹터 (Sector, Industry)

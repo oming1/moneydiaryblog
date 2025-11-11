@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:33Z" />
-</div>
 #HD현대중공업 #조선 
 
 - 테마구분: [조선업](/industry-study/조선업/)

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 113
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #전자상거래 #클라우드컴퓨팅 #디지털미디어 #핀테크 #AI #빅데이터 #글로벌확장 #B2B #B2C #C2C #물류 #결제시스템 #온라인마케팅 #스마트시티 #IoT #블록체인 #5G #디지털트랜스포메이션 #신유통 #크로스보더

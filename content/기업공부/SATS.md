@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 771
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #커뮤니케이션서비스 #위성통신 #고속위성인터넷 #위성방송  #정지궤도위성 #통신위성 #소형위성 
 
 ## 산업 섹터

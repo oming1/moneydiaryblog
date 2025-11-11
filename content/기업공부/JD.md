@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 467
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-28T05:19:59Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비재 #소매 #전자상거래 #중국  #임의소비재 
 
 ## 산업섹터

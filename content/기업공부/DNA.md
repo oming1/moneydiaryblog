@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 286
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #바이오테크 #바이오보안 #세포프로그래밍플랫폼 #효소
 
 ## 산업섹터

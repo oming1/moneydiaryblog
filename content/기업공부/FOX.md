@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 351
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #미디어엔터테인먼트 #뉴스방송 #스포츠중계 #스트리밍서비스 #광고수익 #콘텐츠제작 #디지털미디어 #케이블TV #FOXNews #FOXSports #Tubi #정치광고 #라이브이벤트 #멀티플랫폼 #OTT #지역방송국 #스포츠베팅 #ESG #혁신기술 #글로벌확장

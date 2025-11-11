@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 65
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #통신타워 #5G #데이터센터 #REIT #글로벌인프라 #무선통신 #엣지컴퓨팅 #디지털인프라 #콜로케이션 #텐넌트빌링 #부동산투자신탁 #통신인프라 #타워리스 #소형셀 #광섬유 #IoT #클라우드컴퓨팅 #네트워크확장 #지속가능성 #재생에너지 #데이터센터 #엣지컴퓨팅

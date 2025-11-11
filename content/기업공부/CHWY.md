@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 195
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T00:18:00Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #펫 #반려동물  #임의소비재  #전문소매
 
 ## 산업섹터

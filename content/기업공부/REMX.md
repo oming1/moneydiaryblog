@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 742
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T12:16:26Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #희토류 #지정학 
 
 VanEck Rare Earth/Strategic Metals ETF(REMX)는 희토류와 전략적 금속 산업에 투자하는 상장지수펀드입니다.

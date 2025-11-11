@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 249
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T08:43:54Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #농약 #기초소재 #농업투입재 #농업 
 
 ### 산업섹터 (Sector, Industry)

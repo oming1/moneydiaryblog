@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 642
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 답변
 
 #제약 #바이오 #혁신신약 #방사성의약품 #의약품 #헬스케어 

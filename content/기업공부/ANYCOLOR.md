@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 76
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #버추얼유튜버 #VTuber #니지산지 #디지털IP #스트리밍 #라이브이벤트 #팬커뮤니티 #콘텐츠제작 #글로벌확장 #아바타기술 #크리에이터매니지먼트 #브랜드콜라보 #굿즈 #애니메이션 #게임 #메타버스 #일본엔터테인먼트 #e커머스 #디지털수익화 #SoE #일본

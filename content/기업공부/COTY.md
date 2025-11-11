@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 223
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #글로벌뷰티 #프레스티지향수 #컬러코스메틱 #매스뷰티 #럭셔리브랜드 #라이센싱비즈니스 #유명인콜라보 #디지털마케팅 #뷰티트렌드 #지속가능성 #셀럽파트너십 #스킨케어확장 #글로벌유통망 #소셜미디어마케팅 #프리미엄향수 #메이크업브랜드 #JAB지주사 #소비자뷰티 #옴니채널전략 #제품혁신

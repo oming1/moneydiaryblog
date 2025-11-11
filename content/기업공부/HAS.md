@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 398
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #완구제조 #보드게임 #액션피규어 #IP활용 #엔터테인먼트 #디지털게임 #라이선싱 #트랜스포머 #마이리틀포니 #매직더개더링 #던전앤드래곤 #eOne #콘텐츠제작 #STEM완구 #글로벌브랜드 #디지털전환 #AR #VR #AI완구 #ESG #지속가능성

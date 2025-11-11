@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 962
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #유전서비스 #에너지 #셰일가스 #유정시추 
 
 ## 산업 섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 234
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #석유가스 #탐사생산 #천연가스 #에너지 #석유가스소비연료 #에너지 #원유 
 
 ## 산업 섹터

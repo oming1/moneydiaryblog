@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 392
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-18T04:41:42Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #제약 #HIV #대상포진 
 
 **산업섹터 (Sector, Industry)**:

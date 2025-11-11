@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 905
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## **핵심 키워드**
 
 #우라늄 #원자력에너지 #광산개발 #재처리기술 #탄소중립 #에너지안보 #핵연료 #청정에너지 #탐사 #채굴 #ESG #전략광물 #미국내수산업 #저비용운영 #인수합병 #신재생에너지 #원자력발전소 #ETF #배당성장 #시장변동성

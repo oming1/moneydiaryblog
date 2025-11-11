@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 922
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #소비자방어주 #식품유통 
 
 ### 산업섹터 및 영위사업

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 406
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #군함건조 #방위산업 #항공모함 #잠수함 #미해군 #방위계약 #조선소 #미션기술 #사이버보안 #정부서비스 #항공우주 #혁신 #국가안보 #디지털변환 #첨단제조 #인공지능 #무인시스템 #엔지니어링 #관종

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 146
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T23:30:41Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #푸드테크 #세포농업 #세포배양수산물
 
 ## 산업섹터

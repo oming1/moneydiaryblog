@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 211
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #석유가스 #오일샌드 #천연가스 #해상시추 #육상시추 #중질유 #경질유 #LNG #탄소포집 #지속가능에너지 #ESG #에너지전환 #탐사생산 #업스트림 #통합생산 #자원개발 #파이프라인 #정제 #석유화학 #에너지효율 #캐나다 

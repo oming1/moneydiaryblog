@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 370
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-02T23:57:32Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #테크 #핀테크 #코인 #금융서비스 #자본시장 #암호화폐
 
 ## 산업섹터

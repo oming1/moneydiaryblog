@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 833
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-03T12:20:10Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #자동차 #자동차제조업
 
 #### 산업섹터 및 산업

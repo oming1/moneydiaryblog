@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 647
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #뉴스미디어 #디지털구독 #저널리즘 #신문 #온라인미디어 #구독모델 #디지털전환 #콘텐츠플랫폼 #타임스게임즈 #쿠킹 #와이어커터 #애슬레틱 #광고수익 #프리미엄콘텐츠 #미디어기업 #퍼블리싱 #뉴스구독 #디지털광고 #커뮤니케이션서비스 #미디어

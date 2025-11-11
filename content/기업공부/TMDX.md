@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 875
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:05:23Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #장기이식 #헬스케어 #의료장비및용품
 
 TransMedics Group, Inc.(TMDX)는 장기 이식 치료를 혁신하는 의료 기술 기업입니다.

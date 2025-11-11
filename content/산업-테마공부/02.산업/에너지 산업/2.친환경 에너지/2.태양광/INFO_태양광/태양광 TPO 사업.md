@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #태양광 #TPO 
 
 태양광 TPO(Third Party Ownership) 사업은 [기업이 고객의 주택에 태양광 설비를 설치하고 운영하는 사업]입니다. 

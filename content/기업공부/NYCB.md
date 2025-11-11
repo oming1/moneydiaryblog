@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 646
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T07:21:08Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #금융 #지역은행 #은행 
 
 ## 산업섹터

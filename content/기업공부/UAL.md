@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 900
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #항공운송 #승객운송 #화물운송  #허브공항 #국제항공 #국내항공 #MileagePlus #항공연료 #항공기 #프리미엄서비스  #마일리지프로그램 #신용카드 #로열티프로그램 #운영효율성 #노선네트워크 #글로벌항공사 #산업재 #항공 #여객운송 
 
 ---

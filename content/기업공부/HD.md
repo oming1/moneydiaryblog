@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 402
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:22:33Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #소비자서비스 #소매 #인테리어 #부동산 #주택 #홈임프로브먼트
 
 #### 산업섹터 (Sector, Industry)

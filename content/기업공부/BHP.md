@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 130
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-04T08:05:14Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #비철금속 #포타슘 #광산 #기타산업용금속및광업 #기초소재 #구리 #니켈 #철광석
 
 ## 산업섹터

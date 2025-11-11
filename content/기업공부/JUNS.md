@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 474
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-11T09:23:48Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #제약 #파킨슨병 #레스베라트롤 #신경염증치료제
 
 Jupiter Neurosciences, Inc.(JUNS)는 신경염증 치료에 중점을 둔 임상 단계 제약 회사입니다.

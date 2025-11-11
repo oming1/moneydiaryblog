@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 374
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #반도체 #파운드리 #첨단공정 #자동차 #IoT #데이터센터 #정보기술 #반도체마스크 
 
 ## 산업 섹터

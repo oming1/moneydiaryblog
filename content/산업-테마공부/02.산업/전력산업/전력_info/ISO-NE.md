@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:33Z" />
-</div>
 #전력 #뉴잉글랜드 #ISO
 
 1. **기관설명**: ISO New England은 뉴잉글랜드 지역의 전력망을 관리하는 비영리 독립 시스템 운영자 ([ISO](/industry-study/iso/))입니다. ISO-NE은 도매 전력 시장을 운영하고 지역 전력망의 신뢰성을 관리합니다

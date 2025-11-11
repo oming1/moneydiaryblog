@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 526
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-11T01:52:56Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #진단및연구 #CDMO #바이오테크
 
 #### 산업섹터 및 산업

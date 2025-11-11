@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 746
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #비철금속 #리튬 #비철금속 #원자재 #알루미늄 #리사이클링 #수소 #광산 #기초자재 #금속및광업
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 306
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #자율항공기 #도심항공교통 #전기수직이착륙기 #중국기업 #항공모빌리티 #반도체 #정보기술 #UAM #항공기부품 #eVTOL
 
 ## 산업 섹터

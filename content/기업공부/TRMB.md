@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 887
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #건설관리소프트웨어 #클라우드 #GPS #인공위성 #정밀측량 #고정밀GPS #위성위치추적관리 #지리공간기술 #GNSS #관성내비게이션시스템 #UAV 
 
 ## 산업 섹터

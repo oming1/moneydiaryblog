@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 753
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #헬스케어 #의료기기 #수면무호흡 #폐기능검사장비
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 720
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-08T23:49:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #반도체및반도체장비 #양자 #양자컴퓨팅 
 
 ## 산업섹터

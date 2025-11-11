@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 129
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #바이오테크놀로지 #액체생검 #유전체스크리닝 #정밀진단 #특수화학 #말레이시아 #mRNA #분자진단 #바이오마커 #조기진단 #헬스케어 #화학원료 #산업용화학 #의료기기 #자동차 #전자산업 #항공우주 #기계공업 #Chemrex #BGS #나스닥컴플라이언스 #동남아시아 #인도네시아 #베트남 #AI헬스케어
 
 ---

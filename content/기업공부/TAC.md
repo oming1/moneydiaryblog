@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 851
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #전력플랜트 #캐나다 #유틸리티 #전기유틸리티 #전기발전 #발전소 #천연가스 #풍력
 
 TransAlta Corporation(TAC)는 캐나다의 전기 발전및 도매 마케팅 회사입니다.

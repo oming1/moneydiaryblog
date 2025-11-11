@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #배터리 #LFP배터리
 
 - 관련테마: [폐배터리](/industry-study/폐배터리/), [배터리](/industry-study/배터리/), [이차전지](/industry-study/이차전지/), [중국](/industry-study/4국가중국/)

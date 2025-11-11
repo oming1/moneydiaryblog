@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 27
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:30:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #혈액암 #고형암 #헬스케어 #바이오테크
 
 ADC Therapeutics SA(ADCT)는 항체-약물 접합체(ADC) 개발 분야의 선도적인 생명공학 기업입니다.

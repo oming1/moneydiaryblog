@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 662
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-29T11:54:59Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #부동산 #부동산서비스 
 
 **산업섹터 (Sector):** [부동산](/industry-study/2산업부동산/) (Real Estate)  

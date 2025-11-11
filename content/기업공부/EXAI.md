@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 331
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T12:21:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #AI #바이오테크
 
 Exscientia는 인공지능(AI)을 활용한 정밀 의약품 개발 기업([헬스케어](/industry-study/2산업헬스케어/), [바이오테크](/industry-study/바이오테크/))입니다

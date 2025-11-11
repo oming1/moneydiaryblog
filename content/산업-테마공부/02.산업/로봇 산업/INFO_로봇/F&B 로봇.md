@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:28Z" />
-</div>
 #로봇 #서비스로봇 #서빙로봇 #조리로봇
 
 - 기본정보

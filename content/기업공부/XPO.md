@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 989
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #소량화물 #화물운송 #산업재 #트럭운송
 
 XPO, Inc.(XPO)는 미국의 화물 운송 및 물류 서비스 제공업체입니다.

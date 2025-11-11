@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 991
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #로봇 #산업용로봇 #산업재 #전기장비및부품 #모터 
 
 - 기업 기본정보

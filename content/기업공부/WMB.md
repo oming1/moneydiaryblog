@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 966
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 기업 개요
 
 ## 핵심 키워드

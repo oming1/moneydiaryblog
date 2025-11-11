@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T12:54:51Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #산업재 #항공사 #항공 #여객운송 #화물운송
 
 ## 산업섹터

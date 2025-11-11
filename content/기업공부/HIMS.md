@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 407
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-28T05:18:12Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #소비재 #개인용품 #탈모 #헬스케어 #여드름 #건강관리 #발기부전 #의료 #원격의료
 
 ## 산업섹터

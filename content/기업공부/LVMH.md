@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 536
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-30T01:57:04Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #임의소비재 #럭셔리 
 
 ## 산업섹터

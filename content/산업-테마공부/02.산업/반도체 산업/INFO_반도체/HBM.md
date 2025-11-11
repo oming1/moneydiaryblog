@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #반도체 #DRAM
 
 - 테마구분: DRAM, [반도체](/industry-study/반도체/)

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 741
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-06T06:11:47Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #헬스케어 #바이오테크
 
 #### 산업섹터 및 산업

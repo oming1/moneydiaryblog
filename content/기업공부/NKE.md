@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 619
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:22:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #신발 #임의소비재
 
 **산업섹터 (Sector):** 임의소비재 (Consumer Cyclical)  

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 796
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #다이아몬드주얼리 #소매유통 #북미시장 #영국시장 #멀티브랜드전략 #온라인판매 #오프라인매장 #중산층타겟 #브랜드포트폴리오 #옴니채널 #커스터마이징 #주얼리구독서비스 #ESG #공급망관리 #임의소비재 #특수소매 #다이아몬드 #패션주얼리

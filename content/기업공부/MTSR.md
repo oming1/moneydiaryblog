@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 600
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #멧세라 #Metsera #비만치료제 #대사질환 #GLP1 #MASH #심혈관질환 #차세대비만약 #바이오의약품 #신약개발 #임상시험 #바이오테크 #비상장기업 #연구개발 #혁신치료제 #항비만약 #당뇨치료 #지방간치료 #만성질환 #생명과학 #의료기술 #글로벌제약 #파트너링 #데이터기반신약 #정밀의료 #임상개발 #파이프라인 #블록버스터약물 #고성장산업 #헬스케어투자
 
 ---

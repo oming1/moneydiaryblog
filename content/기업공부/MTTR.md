@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 601
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:30Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #테크 #소프트웨어 #디지털트윈 #부동산
 
 - 최근 이슈

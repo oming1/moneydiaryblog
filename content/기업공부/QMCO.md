@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 722
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T03:46:26Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #컴퓨터하드웨어 #데이터저장 #데이터보호 #데이터관리
 
 Quantum Corporation(QMCO)는 데이터 저장, 데이터 관리, 데이터 보호 솔루션을 제공하는 기업입니다.

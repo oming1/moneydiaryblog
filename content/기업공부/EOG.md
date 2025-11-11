@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 317
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #셰일오일 #천연가스 #수평시추 #수압파쇄 #업스트림 #탐사생산 #비전통자원 #석유가스 #에너지독립 #디지털기술 #데이터분석 #ESG #탄소포집 #지속가능에너지 #운영효율성 #저비용생산자 #유전개발 #석유화학 #LNG #에너지전환

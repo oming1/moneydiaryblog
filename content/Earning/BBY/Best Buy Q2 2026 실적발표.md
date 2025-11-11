@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #BBY #미국주식 
 
 # Q2 2026 Best Buy([BBY](/company-analysis/bby/)) 실적 발표 요약(2025-08-29)

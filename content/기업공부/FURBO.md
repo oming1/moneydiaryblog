@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 361
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T05:36:41Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #로봇 #소비자재량주 #가정용내구재 #로봇 #가정용로봇 #가전제품 #임의소비재
 
 ### 산업섹터 및 산업

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #LoRa #통신 #저전력장거리사물인터넷 #무선통신 
 
 ## 개념 : 어떻게 멀리까지, 오래 쓸 수 있나

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 16
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #식품원료 #재생농업 #지속가능농업 #수직통합 #공급망 #식물성단백질 #콩류 #완두콩 #렌틸콩 #귀리 #펄스 #팜글로벌 #합병 #디지털자산 #토큰화 #블록체인 #금담보 #몬태나 #사스카툰 #캐나다 #애완동물사료 #유기농 #친환경 #추적가능성 #영양성분
 
 ---

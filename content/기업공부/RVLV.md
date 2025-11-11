@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 765
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T11:44:57Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #의류 #패션 #인터넷소매
 
 Revolve Group, Inc.(RVLV)는 밀레니얼 세대와 Z세대를 대상으로 하는 온라인 패션 리테일러입니다.

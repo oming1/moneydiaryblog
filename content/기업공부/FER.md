@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 342
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #산업재 #인프라운영 #글로벌인프라운영기업 #에너지및모빌리티인프라 #유료도로 #공항 
 
 Ferrovial SE는 글로벌 인프라 운영 기업입니다.

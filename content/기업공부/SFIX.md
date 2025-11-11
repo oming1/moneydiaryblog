@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 784
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-12T12:08:23Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #온라인개인스타일링서비스 #임의소비재 #의류소매 #의류 
 
 Stitch Fix, Inc.(SFIX)는 온라인 개인 스타일링 서비스를 제공하는 미국 기업입니다.

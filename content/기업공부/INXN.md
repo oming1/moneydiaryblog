@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 451
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-07T01:20:42Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #전문리츠 #데이터센터 #부동산 #클라우드 #리츠 
 
 **산업섹터 (Sector, Industry)**:

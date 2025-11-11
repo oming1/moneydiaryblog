@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 186
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #특수화학 #엔지니어링폴리머 #아세틸제품 #혁신 #지속가능성 #글로벌공급망 #자동차산업 #의료기기 #소비자전자 #산업용소재 #식품첨가물 #접착제 #코팅 #섬유 #ESG #연구개발 #인수합병 #원가절감 #고성능소재 #순환경제

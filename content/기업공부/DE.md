@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 269
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #농업장비 #건설장비 #임업장비 #자율주행기술 #정밀농업 #스마트산업 #존디어 #AI #IoT  #전기화 #디지털화 #커넥티드머신 #산업재 #농업및농장기계

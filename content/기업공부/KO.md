@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 493
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-23T12:05:42Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비자방어주 #음료 #콜라 
 
 #### 산업섹터 및 영위사업

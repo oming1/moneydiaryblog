@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #FCX #구리 #인도네시아 #SCCO 
 
 ## FCX(Freeport-McMoRan) vs SCCO(Southern Copper)구리 공급 충격 이후 뭘 사볼까

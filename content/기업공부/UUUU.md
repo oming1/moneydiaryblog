@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 923
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #우라늄 #희토류 #바나듐 #원자력에너지 #청정에너지 #광산업 #자원개발 #에너지안보 #ESG #첨단소재 #전기차 #재생에너지 #의료용동위원소 #중희토류 #티타늄 #지르코늄 #광물사 #자원순환 #탄소중립 #에너지전환

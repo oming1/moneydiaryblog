@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 611
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T03:36:25Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #반려동물식품 #반려동물 
 
 Nestlé Purina PetCare는 세계적인 반려동물 식품 및 관련 제품의 선두 제조업체입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 554
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #의약품유통 #의료기기 #헬스케어IT  #올리고폴리  #온콜로지 #바이오파마서비스 #디지털헬스케어 #의료정보기술 #의약품도매 #의료용품유통 #처방기술솔루션 #의료서비스 #헬스케어디지털화 #의료데이터분석 #헬스케어 #의료서비스
 
 섹터: [헬스케어](/industry-study/2산업헬스케어/)

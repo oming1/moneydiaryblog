@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 981
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #다이어트 #건강관리 #웰빙 #라이프스타일 #디지털헬스 #구독서비스 #모바일앱 #코칭서비스 #개인화프로그램 #식이조절 #체중감량 #행동변화 #커뮤니티 #포인트제 #영양교육 #심리상담 #운동프로그램

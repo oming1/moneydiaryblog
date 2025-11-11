@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 408
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #영양보충제 #체중관리 #직접판매 #멀티레벨마케팅 #프로틴쉐이크 #건강식품 #글로벌브랜드 #웰니스 #개인맞춤영양 #독립판매원 #Formula1 #과학기반제품 #라이프스타일 #에너지음료 #스킨케어 #스포츠영양 #글로벌확장 #ESG

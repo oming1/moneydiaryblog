@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 531
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #LSMnM #비철금속
 
 ## **회사 개요**

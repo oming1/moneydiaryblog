@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 8
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #V2G #자동차 #전기 
 
 - 연관 테마구분: [자동차](/industry-study/자동차/), 전기

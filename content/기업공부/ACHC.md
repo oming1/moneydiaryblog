@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 17
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #의료시설 #행동건강 #정신건강  #헬스케어 #중독치료 #청소년치료 #의료서비스 #정신과치료 #헬스케어
 
 ## 산업 섹터

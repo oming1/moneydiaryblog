@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 692
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #이스라엘보험 #피닉스파이낸셜 #다중보험 #생명보험 #자산관리 #건강보험 #손해보험 #장기저축 #연금상품 #은퇴설계 #금융서비스 #이스라엘경제 #보험유통 #ETF #KSM #대안투자 #SME금융 #가마매니지먼트 #디지털보험 #피닉스스마트 #보험기술 #ESG투자 #지속가능성 #이스라엘금융 #자산운용 #보험대리점 #아감브랜드 #셰켈브랜드 #오렌미즈라흐 #이스라엘혁신경제
 
 ---

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 714
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #비즈니스개발회사 #BDC #중간시장대출 #사모신용 #배당투자 #고수익채권 #Mount로간매니지먼트 #BC파트너스 #Portman리지합병 #PTMN통합 #LOGN #중소기업금융 #선순위대출 #후순위대출 #금융중개 #대출포트폴리오 #신용투자 #사모대출 #미들마켓 #레버리지대출 #직접대출 #포트폴리오투자 #배당수익률 #규제투자회사 #RIC #투자수익 #부채금융
 
 ---

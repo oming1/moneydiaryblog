@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 856
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #항공우주및방산 #산업재 #항공우주부품 #우주 #방산 #항공 #항공우주 #센서 #관측위성 #이미지센서 #고해상도광학카메라
 
 기업소개 

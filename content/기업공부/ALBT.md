@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 51
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:37:11Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #유전자기반정밀진단검사
 
 Avalon GloboCare Corp.(ALBT)는 정밀 진단 및 임상 검사 서비스를 개발하고 제공하는 상업 단계의 기업입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 435
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-25T04:42:20Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #테크 #정보기술
 
 **산업섹터 (Sector, Industry)**:

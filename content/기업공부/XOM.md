@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 987
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-11T01:21:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #에너지 #원유 #천연가스 #셰일가스 #통합오일및가스 #화학
 
 #### 산업섹터 (Sector, Industry)

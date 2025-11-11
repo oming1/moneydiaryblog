@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 998
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #바코드 #RFID #모바일컴퓨팅 #스캔솔루션 #IoT #창고자동화 #산업용프린터 #데이터추적 #재고관리 #실시간위치추적 #의료IT #로보틱스 #AI비전 #스마트공장 #헬스케어IT #디지털전환 #로지스틱스 #기업IT

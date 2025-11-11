@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 997
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #헬스케어 #의료기기 #로봇수술 #ROSA
 
 산업섹터: [헬스케어](/industry-study/2산업헬스케어/) (Healthcare), 의료기기 (Medical Devices)

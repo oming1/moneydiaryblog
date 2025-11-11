@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 366
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #클라우드컴퓨팅 #데이터센터 #네트워크솔루션 #5G #IoT #글로벌커넥트 #기술혁신 #디지털전환 #AI #빅데이터 #사물인터넷 #고객맞춤형 #서비스형소프트웨어 #SaaS #보안솔루션 #글로벌시장 #경쟁력 #지속가능성 #시장점유율
 
 ---

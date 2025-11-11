@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 620
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #자동차 #수소 #전기차 #수소충전소 #자동차제조 #전기트럭 #산업재 
 
 - 최근 이슈

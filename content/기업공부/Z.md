@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 995
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:26Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #부동산 #커뮤니케이션서비스 #인터넷콘텐츠
 
 ## 산업섹터

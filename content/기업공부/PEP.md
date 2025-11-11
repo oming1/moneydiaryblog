@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 682
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T08:42:59Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #필수소비재 #음료 
 
 #### 산업섹터 및 산업

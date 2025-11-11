@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 880
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #컴퓨터소프트웨어 #테크 #레스토랑 #플랫폼 #레스토랑플랫폼 #pos #레스토랑관리시스템
 
 ## 산업섹터

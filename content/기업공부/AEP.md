@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 36
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:21:58Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #전기 #유틸리티 #전기유틸리티 #송배전 #전기생산 #전기유통
 
 ## 산업섹터

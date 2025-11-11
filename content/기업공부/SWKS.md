@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 844
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #반도체 #아날로그반도체 #모바일 #RF스위치 #전력관리칩
 
 ## 산업 섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 744
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-08T23:49:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #소프트웨어 #양자 #양자컴퓨팅
 #초전도큐비트기술 
 

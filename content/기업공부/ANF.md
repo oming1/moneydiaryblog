@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 70
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T00:16:59Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #임의소비재 #의류
 
 ## 산업섹터

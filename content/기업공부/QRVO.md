@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 724
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #RF솔루션 #5G #IoT #반도체 #무선통신 #전력관리 #모바일 #인프라 #국방항공 #GaN #MEMS #UWB #커넥티비티 #센서 #아날로그혼합신호 #RFIC #필터 #증폭기 #스위치 #안테나제어

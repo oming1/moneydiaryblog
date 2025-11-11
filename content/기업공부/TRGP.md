@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 885
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #미드스트림 #천연가스 #NGL #석유 #파이프라인 #처리시설 #수송 #저장 #프랙셔네이션 #수출터미널 #퍼미안베이신 #통합서비스 #수직계열화 #규모의경제 #장기계약 #에너지인프라 #LPG수출 #에너지
 
 에너지 섹터  

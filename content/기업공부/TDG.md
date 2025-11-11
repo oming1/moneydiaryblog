@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 855
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-09T13:43:26Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #항공우주및방위산업 #산업재 #엔지니어링부품 #항공 #우주 #액추에이터 #통신안테나 #태양광패널 
 
 ## 산업 섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 35
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T08:15:55Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #소비자방어주 #소매 #전자상거래 #슈퍼마켓 #할인점 #편의점 #약국 
 
 **산업섹터 (Sector):** 소비자 방어주 (Consumer Defensive)  

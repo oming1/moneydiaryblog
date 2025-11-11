@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 857
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #협업소프트웨어 #프로젝트관리 #애자일 #DevOps #클라우드 #SaaS #Jira #Confluence #Trello #Bitbucket #엔터프라이즈소프트웨어 #팀워크 #생산성향상 #워크플로우자동화 #소프트웨어개발 #IT서비스관리 #지속적통합 #지속적배포 #API통합 #마켓플레이스

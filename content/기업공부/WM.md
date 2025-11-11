@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 965
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-12T03:08:21Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #산업재 #폐기물관리 #재활용 #재생에너지 #메탄가스
 
 #### 산업섹터 및 산업

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #미국주식실적 #종목실적 #실적발표 #EARNINGS #미국주식 #CCL 
 
 # 카니발(CCL) FY2Q25 실적발표 요약

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 170
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #차량렌탈 #모빌리티솔루션 #Zipcar #글로벌렌탈 #디지털전환 #전기차 #ESG #고객경험 #AI예약시스템 #자동차공유 #B2B렌탈 #레저여행 #비즈니스여행 #지속가능성 #탄소감축 #플릿관리 #모바일앱 #연료효율성 #운송서비스 #디지털플랫폼 

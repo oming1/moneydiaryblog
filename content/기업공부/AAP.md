@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:24:42Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #임의소비재 #전문소매 #자동차부품 
 
 Advance Auto Parts, Inc.(AAP)는 미국의 자동차 부품 및 액세서리 소매업체입니다.

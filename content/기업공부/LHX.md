@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 515
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #우주통신 #우주및항공시스템 #로켓 #미사일 #산업재 #항공우주및방산 #통신장비 #항공기시스템 
 
 기업소개 

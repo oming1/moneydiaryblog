@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 75
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-05-31T02:05:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #종목 #원자재 #구리
 
 ## 산업섹터

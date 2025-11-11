@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 11
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #물리AI #AI #액추에이터 #로봇 #센서 #TSLA #NVDA 
 
 ## 물리 AI(Physical AI)란 무엇인가?

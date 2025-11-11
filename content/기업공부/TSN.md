@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 891
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T12:31:48Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #식품 #육류 #필수소비재 #소고기 #닭고기 #돼지고기 #필수소비재
 
 ## 산업섹터

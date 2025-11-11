@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 709
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-23T07:17:46Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #바이오텍 #헬스케어  #바이오테크놀로지 #신약개발 #알츠하이머 #파킨슨병 #단백질치료제 #임상시험 #희귀질환 #면역치료제 #신경퇴행성질환 #정밀의학 #생명과학도구및서비스
 
 - 최신이슈

@@ -1,4 +1,4 @@
----
+﻿---
 title: "02.산업"
 date: 2025-10-24T22:46:35+09:00
 lastmod: 2025-11-04T06:50:25+09:00
@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:25Z" />
-</div>
 # 2.산업
 
 이 섹션의 내용입니다.

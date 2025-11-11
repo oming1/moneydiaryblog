@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 733
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #B2B커머스 #클라우드플랫폼 #FMCG #빠른소비재 #디지털결제 #오픈커머스 #공급망솔루션 #AIソリューション #소매유통 #개발도상국 #브라질 #나이지리아 #남아프리카 #아르헨티나 #영국 #RED101플랫폼 #재고관리 #유통솔루션 #디지털화 #B2B마켓플레이스 #클라우드기술 #트랜잭션기반수익 #공급망최적화 #중소기업솔루션 #금융포용
 
 ---

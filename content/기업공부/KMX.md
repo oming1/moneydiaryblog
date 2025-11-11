@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 492
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-20T08:22:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #중고차 #자동차소매 #자동차 #임의소비재 #신차 
 
 ## 산업섹터

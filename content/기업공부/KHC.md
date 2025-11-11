@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 486
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-19T03:00:20Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #식품 #필수소비재 
 
 ## 산업섹터

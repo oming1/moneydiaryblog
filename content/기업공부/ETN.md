@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 324
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #산업재 #특수산업기계 #전력기기 #전력관리 #전기 #리쇼어링 #제조업 #데이터센터 
 
 #### 산업섹터 (Sector, Industry)

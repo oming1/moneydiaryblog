@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 154
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #다각화기업 #가치투자 #보험 #철도 #에너지 #제조업 #소매업 #워렌버핏 #장기투자 #현금흐름 #분산투자 #인수합병 #자회사운영 #주주가치 #재무건전성 #브랜드파워 #경영자율성 #위험관리 #글로벌기업 #ESG

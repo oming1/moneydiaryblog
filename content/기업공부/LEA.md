@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 510
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #자동차부품 #시트시스템 #전자시스템 #E-Systems #전기차 #자율주행 #커넥티드카 #인테리어 #경량화 #지속가능성 #모듈화 #스마트시트 #파워트레인전기화 #사이버보안 #OEM파트너십 #글로벌공급망 #인체공학 #안전기술 #ESG #디지털화

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:34Z" />
-</div>
 # 3.바이오테크
 
 이 섹션의 내용입니다.

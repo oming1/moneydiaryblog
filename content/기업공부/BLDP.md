@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 141
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T11:19:22Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #산업재 #전기장비 #프로톤교환막 #연료전지 #PEM #프로톤교환막연료전지
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 793
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T01:45:32Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #금속및광업 #원자재 #백금 #팔라듐 #로듐 #금 #리튬 #배터리 
 
 #### 산업섹터 (Sector, Industry)

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 308
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #전력공급 #재생에너지 #스마트그리드 #전기차인프라 #탄소중립 #에너지효율 #배전망현대화 #마이크로그리드 #에너지저장 #분산형발전 #산불위험관리  #SouthernCaliforniaEdison #EdisonEnergy #유틸리티 #캘리포니아 #청정에너지 #전력유틸리티 #유틸리티 

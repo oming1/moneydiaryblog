@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 815
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-09T03:39:12Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #가전제품 #전자제품 #게임 #엔터테인먼트 #금융 
 
 ## 산업섹터

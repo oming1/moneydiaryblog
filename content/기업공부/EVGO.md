@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 328
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-03T12:19:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #특수소매 #유틸리티 #전기차 #전기차충전 
 
 ## 산업섹터

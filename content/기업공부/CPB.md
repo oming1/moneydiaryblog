@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 225
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-19T03:00:24Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #식품제품 #필수소비재 #식품제조 #수프
 
 ## 산업섹터

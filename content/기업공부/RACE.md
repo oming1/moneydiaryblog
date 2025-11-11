@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 727
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-06T10:44:47Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #자동차 #스포츠카 
 
 **산업섹터 (Sector, Industry)**:

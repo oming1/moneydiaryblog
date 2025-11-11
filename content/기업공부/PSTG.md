@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 712
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T03:49:13Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #정보기술 #컴퓨터하드웨어
 
 Pure Storage, Inc.(PSTG)는 올플래시 데이터 스토리지 하드웨어 및 소프트웨어 제품을 개발하는 미국의 기술 기업입니다.

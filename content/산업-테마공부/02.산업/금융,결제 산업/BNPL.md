@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #금융 
 
 BNPL(Buy Now, Pay Later)은 '선구매 후결제' 방식의 새로운 결제 서비스입니다. 이 서비스의 원리와 글로벌 주요 기업들에 대해 설명해 드리겠습니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 266
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #3D프린팅 #적층제조 #프로토타이핑 #의료기기 #항공우주 #자동차 #산업용3D프린터 #소재개발 #디지털제조 #맞춤형생산 #헬스케어솔루션 #금속3D프린팅 #플라스틱3D프린팅 #소프트웨어솔루션 #온디맨드제조 #3D스캐닝 #바이오프린팅 #치과용3D프린팅 #제조혁신 #지속가능생산

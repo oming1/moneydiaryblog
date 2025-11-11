@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:28Z" />
-</div>
 - 관련테마: [게임산업](/industry-study/2산업게임산업/)
 
 - 기본정보

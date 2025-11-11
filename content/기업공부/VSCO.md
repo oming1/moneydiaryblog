@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 943
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T03:02:25Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #소프트웨어 #테크 
 
 #### 산업섹터 및 산업

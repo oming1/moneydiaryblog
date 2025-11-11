@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2058
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # ISM 비제조업구매자지수
 
 이 섹션의 내용입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 64
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #방사선수술장비 #감마나이프 #의료장비리스 #암치료시스템 #방사선치료 #양성자빔치료 #의료기술금융 #최소자본투자 #병원파트너십 #고정월지불없음 #맞춤형금융솔루션 #암치료기술 #방사선종양학 #뇌종양치료 #의료장비공유 #미국감마나이프점유율 #국제확장 #GKFinancing #설계건설지원 #의료시설업그레이드

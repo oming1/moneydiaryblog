@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 383
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T03:26:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #임의소비재 #전문소매 #비디오게임 #전자제품 #밈주식 
 
 GameStop Corp.(GME)는 비디오 게임, 소비자 전자제품 및 게임 관련 상품을 판매하는 미국의 소매업체입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 693
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #소셜미디어 #비주얼검색 #이미지공유 #디지털광고 #인플루언서마케팅 #eCommerce #AI추천 #사용자생성콘텐츠 #모바일앱 #디지털마케팅 #소셜커머스 #비주얼AI #AR #크리에이터경제 #디지털트렌드 #타겟광고 #사용자참여 #콘텐츠큐레이션 #데이터분석 #지속가능성

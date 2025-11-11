@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2016
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:27Z" />
-</div>
 # 유통,도소매, 개인생활용품 산업
 
 이 섹션의 내용입니다.

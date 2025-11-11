@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 121
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-26T06:13:56Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #임의소비재 #전문소매 #향수 #바디케어 #바디케어전문점
 
 ## 산업 섹터

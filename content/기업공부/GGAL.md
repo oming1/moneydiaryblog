@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 375
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:50:14Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #금융 #지역은행 #아르헨티나의금융서비스지주회사 #은행 #보험 #아르헨티나 #지주사 
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 968
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #실리콘카바이드 #SiC #와이드밴드갭반도체 #갈륨나이트라이드 #GaN #파워반도체 #전력전자 #전기차 #EV #5G #재생에너지 #인버터 #MOSFET #웨이퍼 #에피택시 #수직통합 #정보기술 #반도체

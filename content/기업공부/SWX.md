@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 846
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #천연가스유틸리티 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #유틸리티인프라서비스 #가스유틸리티 #유틸리티
 
 ## 섹터

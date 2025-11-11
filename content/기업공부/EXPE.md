@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 333
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #여행서비스 #임의소비재 #여행 #레저 
 
 **산업섹터 (Sector, Industry)**

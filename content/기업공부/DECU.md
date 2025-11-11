@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 271
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #BufferETF #다운사이드보호  #무상한상승 #FLEX옵션 #구조화상품 #리스크관리 #AllianzIM #정의된결과 #방어적투자 #변동성완화 #기관투자자 #포트폴리오보호 #시장중성 #헤지전략 #옵션전략 #구조적보호 #수익률버퍼 #투자자보호 #시장하락보호 #상승참여 #리스크완화 #투자혁신

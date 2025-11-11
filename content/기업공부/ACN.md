@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 23
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #정보기술서비스 #테크 #컨설팅 #정보기술 #경영컨설팅
 
 #### 산업섹터 (Sector, Industry)

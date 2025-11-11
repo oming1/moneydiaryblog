@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 301
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #포장식품 #소비자방어주 #대체육 #식물성달걀 #배양육 #푸드테크 #대체단백질 #녹두단백질 #지속가능성 #바이오테크 #혁신식품 #환경친화적 #동물복지 #실리콘밸리 #JustEgg #GoodMeat #푸드시스템 #친환경 #건강식품 #특수식품 #바이오테크놀로지 #Food 
 
 ---

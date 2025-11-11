@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 739
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-12T12:19:58Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #전기차플랫폼 #임의소비재 #자동차부품 #전기차 #자율주행차 #로보택시
 
 REE Automotive Ltd.(REE)는 이스라엘에 본사를 둔 전기차 플랫폼 기술 기업입니다.

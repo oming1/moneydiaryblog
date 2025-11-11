@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 447
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T12:14:04Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #IT서비스 #정보기술 #데이터엔지니어링
 
 ## 산업섹터

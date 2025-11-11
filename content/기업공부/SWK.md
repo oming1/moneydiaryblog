@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 843
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T08:34:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #산업재 #기계 #공구 
 
 ## 산업섹터

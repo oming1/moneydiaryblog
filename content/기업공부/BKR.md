@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 138
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-12T00:56:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #에너지 #에너지장비및서비스 #탄소포집 #유정굴착장비 
 
 ## 산업 설터

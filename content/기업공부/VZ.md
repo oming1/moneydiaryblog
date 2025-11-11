@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 949
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-29T12:47:54Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #커뮤니케이션서비스 #통신
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 935
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #건설자재 #골재생산 #석회석채굴 #아스팔트 #레디믹스콘크리트 #지속가능성 #인프라건설 #채석장운영 #환경관리 #물류네트워크 #연구개발 #기술혁신 #공급망관리 #ESG #골재채굴 #건설산업 #도로건설 #비주거건설 #인프라프로젝트 #지리적다각화

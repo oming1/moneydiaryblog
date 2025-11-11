@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 205
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-21T02:06:15Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #커뮤니케이션서비스 #미디어 #케이블TV #스트리밍 #테마파크 
 
 ## 산업 섹터

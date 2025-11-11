@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 496
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:22:41Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비재 #백화점 #소매 #의류  #임의소비재 
 
 **산업섹터 (Sector):** 임의소비재 (Consumer Cyclical)  

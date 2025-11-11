@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 993
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:46:51Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #통합석유및가스 #에너지 #아르헨티나
 
 ## 산업섹터

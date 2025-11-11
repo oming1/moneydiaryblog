@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 66
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-31T12:58:24Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #금융 #자본시장 #주식거래 
 
 ## 산업섹터

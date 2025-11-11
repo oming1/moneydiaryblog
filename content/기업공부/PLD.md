@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 695
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #물류부동산 #REIT #산업용부동산 #창고시설 #글로벌물류 #전자상거래 #공급망관리 #지속가능성 #스마트물류 #자산관리 #개발사업 #임대수익 #전략적자본 #포트폴리오다각화 #입지전략 #고객맞춤형솔루션 #디지털화 #ESG #마지막1마일배송 #도시근접물류 #리츠 

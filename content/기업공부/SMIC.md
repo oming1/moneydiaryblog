@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 804
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #반도체파운드리 #중국최대칩메이커 #첨단공정 #7nm기술 #AI칩 #IoT #자동차반도체 #국산화 #EUV리소그래피 #클라우드컴퓨팅 #5G #엣지컴퓨팅 #전력반도체 #이미지센서 #MCU #RF칩 #보안칩 #중국정부지원 #미중기술패권 #수출규제 #레거시 

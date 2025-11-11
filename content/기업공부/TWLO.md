@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 895
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #클라우드통신 #API #개발자플랫폼 #고객참여 #SMS #음성 #이메일 #인증 #AI #데이터분석 #확장성 #글로벌인프라 #CPaaS #디지털전환 #옴니채널 #실시간통신 #SaaS #마케팅자동화 #컨택센터 #IoT

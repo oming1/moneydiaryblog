@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 330
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:23:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #헬스케어 #바이오테크 #근육질환 #디스트로피 #근육디스트로피
 
 #### 산업섹터 (Sector, Industry)

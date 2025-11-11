@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 513
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #우라늄 #에너지 #원전 #원자력 #친환경 #저농축산화우라늄 #고순도저농축우라늄
 
 ## 산업섹터

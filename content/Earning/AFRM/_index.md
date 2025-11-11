@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2033
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
-  <meta property="article:modified_time" content="2025-11-04T01:17:33Z" />
-</div>
 # AFRM
 
 이 섹션의 내용입니다.

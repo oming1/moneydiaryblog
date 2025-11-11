@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 483
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:48Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #검사장비 #산업자동화
 
 ## 산업섹터

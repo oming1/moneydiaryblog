@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 803
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #테크 #하드웨어 #데이터센터 #서버 #클라우드 #컴퓨터하드웨어
 
 ## 산업섹터

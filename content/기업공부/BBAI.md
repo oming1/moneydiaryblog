@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 118
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #AI #빅데이터분석 #머신러닝 #클라우드컴퓨팅 #사이버보안 #의사결정지원 #예측분석 #국방산업 #정부계약 #엔터프라이즈AI #IoT #엣지컴퓨팅 #디지털전환 #자연어처리 #컴퓨터비전 #자율시스템 #공급망최적화 #위험관리 #지능형자동화 #ESG

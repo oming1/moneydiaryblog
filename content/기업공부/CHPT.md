@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 193
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-06T03:12:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #임의소비재 #전문소매 #전기차충전기 
 
 #### 산업섹터 (Sector, Industry)

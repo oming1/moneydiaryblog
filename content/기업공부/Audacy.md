@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 95
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 미국 상장 여부
 
 **현재 비상장 상태** - Audacy Inc는 과거 NYSE에서 AUD 티커로 거래되었으나, 2023년 5월 NYSE에서 상장폐지되었고, 2024년 9월 파산에서 벗어나며 Soros Fund Management가 주도하는 사모 소유 기업으로 전환되었습니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 518
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-03T00:15:46Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #폐배터리 #산업재 #폐기물관리 #리튬 #리튬이온배터리
 
 **산업섹터 (Sector):** 산업재 (Industrials)  

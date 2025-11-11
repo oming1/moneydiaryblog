@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 696
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #호텔레스토랑레저 #피트니스프랜차이즈 #체육관체인 #저가피트니스  #디지털통합 #장비혁신 #건강과웰빙
 
 ## 섹터

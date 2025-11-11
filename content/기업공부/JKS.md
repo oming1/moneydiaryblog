@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 468
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #태양광 #PV산업 #실리콘웨이퍼 #태양전지 #태양광모듈 #수직계열화 #재생에너지 #클린에너지 #모노웨이퍼 #태양광발전 #글로벌확장 #기술혁신 #고효율모듈 #페로브스카이트 #탠덤태양전지 #지속가능성 #중국제조 #그린에너지 #탄소중립 #에너지전환

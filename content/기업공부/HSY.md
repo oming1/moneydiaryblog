@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 421
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:48:45Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #식품 #필수소비재 #초콜릿
 
 ## 산업섹터

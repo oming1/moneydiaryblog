@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 338
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #산업유통 #MRO #패스너 #자동판매기 #FASTVend #공급망솔루션 #산업자동화 #디지털화 #전자상거래 #재고관리 #현장서비스 #계약고객 #건설 #제조업 #안전용품 #공구 #볼트너트 #공급망최적화 #유통혁신 #B2B서비스 #산업부품 #물류효율성 #디지털전환 #고객맞춤형 #신뢰성

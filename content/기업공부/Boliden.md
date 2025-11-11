@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 153
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-04T08:05:22Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #비철금속 #아연 #광산 #2차전지 #정제련업 #기초소재 #금속및광업
 
 ## 산업섹터

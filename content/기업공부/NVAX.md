@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 638
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #백신 #생명공학 #COVID19 #NVXCoV2373 #NanoFlu #RSV #전염병대응 #임상시험 #면역학 #바이러스 #재조합단백질 #Matrix-M #호흡기세포융합바이러스

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 819
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T11:31:57Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:11:01Z" />
-</div>
 #리츠 #부동산 #상업용부동산 #아울렛
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 625
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T02:44:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #제약 #제네릭 #복제약 #바이오시밀러 
 
 #### 산업섹터 및 산업

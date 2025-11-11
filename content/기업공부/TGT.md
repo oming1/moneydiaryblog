@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 865
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-22T01:54:23Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #소비재 #중저가 #할인점 #소매 #소비자방어주 #블랙프라이데이 
 
 ## 산업섹터

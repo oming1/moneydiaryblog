@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 708
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-19T07:23:11Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #안티모니 #희토류 #금속및광업 #기초소재 #원자재 #금 
 
 ③ Perpetua Resources (PPTA US): 26년을 목표로 미국 정부와 안티모니 채굴 프로젝트 진행 중인 기업

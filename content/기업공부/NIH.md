@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 615
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 National Institutes of Health(NIH)는 미국 증시에 상장되어 있지 않은 미국 정부 기관입니다.
 
 ## 핵심 키워드

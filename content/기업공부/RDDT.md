@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 734
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-09T12:59:55Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #커뮤니케이션서비스 #인터랙티브미디어및서비스
 
 ## 산업섹터

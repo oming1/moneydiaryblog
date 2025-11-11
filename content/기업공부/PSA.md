@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 710
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #셀프스토리지 #REIT #부동산투자 #월배당 #자산관리 #도시화 #전자상거래 #인구증가 #포트폴리오다각화 #규모의경제 #브랜드인지도 #입지전략 #고객충성도 #디지털화 #지속가능성 #ESG #인수합병 #글로벌확장 #현금흐름 #자산가치상승 #리츠 

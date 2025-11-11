@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 939
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #도메인레지스트리 #인터넷인프라 #닷컴 #닷넷 #DNS #루트서버 #ICANN계약 #독점적지위 #경제적해자 #고마진사업 #안정적현금흐름 #워렌버핏투자 #인터넷보안 #네트워크효과 #장기계약 #필수인프라 #가격인상권한 #베리사인 #웹사이트주소 #규제장벽 #관종

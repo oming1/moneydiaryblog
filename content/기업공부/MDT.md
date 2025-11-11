@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 559
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:09:58Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #의료장비및용품 
 
 Medtronic plc(MDT)는 광범위한 의료 기기와 솔루션을 설계, 개발, 제조 및 마케팅하는 의료 기술 회사입니다.

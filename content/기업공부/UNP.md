@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 912
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #화물철도 #북미물류 #벌크화물 #인터모달운송 #공급망 #에너지수송 #철도인프라 #디지털화 #자동화운영 #연비향상 #ESG #탄소감축 #정밀운송 #철도안전 #수송효율 #중서부운송 #곡물수송 #자동차수송 #화학수송 #미국제조업
 
 ## 산업섹터

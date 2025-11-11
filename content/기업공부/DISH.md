@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 280
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:16:51Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #위성TV
 
 ## 산업섹터

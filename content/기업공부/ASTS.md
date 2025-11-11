@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 91
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-17T03:02:55Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #커뮤니케이션서비스 #위성통신 #인공위성 #통신위성 #우주 #방산 #저궤도위성
 
 ## 산업 섹터

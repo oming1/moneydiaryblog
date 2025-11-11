@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # 5.Base info(경제용어 등 기타 정보)
 
 이 섹션의 내용입니다.

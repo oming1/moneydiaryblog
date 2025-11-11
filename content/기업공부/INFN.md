@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 446
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #Infinera #INFN #광통신 #DWDM #포토닉집적회로 #CoherentOptics #WaveLogic #ROADM #OTN #PacketOptical #네트워크자동화 #BluePlanet #SDN #5G백홀 #데이터센터 #클라우드네트워크 #MetroEthernet #EdgeComputing #하드웨어 #소프트웨어 #TelecomEquipment #OpticalTransport
 
 ---

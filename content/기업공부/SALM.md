@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 768
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 미국 상장 여부
 
 **현재 OTC 상장** - Salem Media Group Inc는 과거 나스닥에서 거래되었으나, 2023년 12월 26일 상장 기준 미달로 나스닥에서 상장폐지되었으며, 현재 OTCQX에서 SALM 티커로 거래되고 있습니다.

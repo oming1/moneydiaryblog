@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 652
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지 #천연가스유통
 
 ## 산업 섹터

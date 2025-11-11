@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 426
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #화학 #소재과학 #폴리우레탄 #산업용화학제품 #첨단소재 #원자재 #소재 #유기화학제품 #에폭시 #아크릴 #아민 #말레산무수물 #폴리머 #MDI
 
 ## 산업 섹터

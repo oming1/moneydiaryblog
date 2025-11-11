@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 294
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-24T01:26:56Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #전기 #유틸리티 #전기유틸리티 
 
 **산업섹터 (Sector, Industry)**

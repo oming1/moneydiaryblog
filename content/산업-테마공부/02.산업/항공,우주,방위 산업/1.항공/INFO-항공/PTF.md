@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #PTF #항공기제조 #화물운송 #화물전용기 #화물 
 
 - 테마구분: [항공기 제조](/industry-study/항공기-제조/), [화물 운송](/industry-study/화물-운송/)

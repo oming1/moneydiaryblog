@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2082
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # S&P500 종합구매관리자 지수
 
 이 섹션의 내용입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 626
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #테크 #소프트웨어 #it서비스관리 #클라우드 
 
 **산업섹터 (Sector, Industry)**

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 230
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #전자장비및부품 #정보기술 #라이다 #LiDAR
 
 ## 산업섹터

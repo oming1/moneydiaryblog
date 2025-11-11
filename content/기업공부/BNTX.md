@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 151
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-18T04:42:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #바이오테크 #헬스케어 #mRNA백신
 
 **산업섹터 (Sector, Industry)**:

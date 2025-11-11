@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 471
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #네트워킹하드웨어및소프트웨어 #정보기술 #네트워크관리 #라우터 #보안
 
 ## 산업 섹터

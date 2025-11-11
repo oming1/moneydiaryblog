@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 820
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-17T14:12:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #항공우주및방위산업 #정보기술 #관측위성 #관측데이터 #우주기반데이터및분석
 
 ## 산업 섹터

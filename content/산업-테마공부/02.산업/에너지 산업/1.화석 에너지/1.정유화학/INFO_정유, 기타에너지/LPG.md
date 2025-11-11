@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:28Z" />
-</div>
 #천연가스 #LPG
 
 1. 다른 용어와의 차이:

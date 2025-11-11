@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 597
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #온라인데이팅 #소셜네트워킹 #모바일앱 #구독모델 #AI매칭 #글로벌확장 #다중브랜드전략 #사용자경험 #데이터분석 #마케팅전략 #ESG #기술혁신 #사용자안전 #인앱구매 #사용자획득 #Tinder #Hinge #Match #OkCupid #PlentyOfFish

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 892
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 미국 상장 여부
 
 **미국 NYSE 상장 확인** - FINVIZ에서 확인된 바와 같이 Townsquare Media는 뉴욕증권거래소(NYSE: TSQ)에 상장된 기업입니다. Class A 보통주로 거래되고 있습니다.

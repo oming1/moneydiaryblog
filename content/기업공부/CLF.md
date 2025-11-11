@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 199
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #철강생산 #철광석채굴 #수직계열화 #전기아크로 #자동차강판 #특수강 #재활용철강 #탄소중립 #수소환원제철 #전기차배터리소재 #ESG #원자재 #미국제조업 #인프라투자 #관세정책 #노동조합 #철스크랩 #HBI #열연강판 #냉연강판

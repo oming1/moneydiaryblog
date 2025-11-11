@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 748
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-05T00:50:42Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #자동차제조업 #전기차 #전기트럭 
 
 산업섹터:  

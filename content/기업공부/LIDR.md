@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 519
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #LiDAR #자율주행 #로보틱스 #컴퓨터비전 #4Sight #인공지능 #센서기술 #3D매핑 #ADAS #스마트시티 #산업자동화 #지능형교통시스템 #엣지컴퓨팅 #IoT #디지털트윈 #실시간데이터처리 #고해상도이미징 #장거리감지 #저비용센서 #소형화

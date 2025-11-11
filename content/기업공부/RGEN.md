@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 743
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-13T12:47:21Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #생명과학도구및서비스 #정보기술 #바이오프로세싱
 
 Repligen Corporation은 생물학적 의약품 생산을 위한 바이오프로세싱 기술과 소모품을 개발 및 상용화하는 생명과학 기업입니다.

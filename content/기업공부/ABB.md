@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 8
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-10T01:24:03Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #산업재 #전기장비 #로봇 #변압기 #산업용로봇 
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 549
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #항공우주및방위산업 #정보기술 #위성 #위성이미지 #인공위성 #위성발사 #위성운영 #위성설계 #통신위성 #관측위성 
 
 ### 산업섹터 및 영위사업

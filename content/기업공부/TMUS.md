@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 878
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T01:50:10Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #무선통신서비스 #통신사 #커뮤니케이션서비스 #통신서비스
 
 T-Mobile US, Inc.(TMUS)는 미국의 무선 통신 서비스 제공업체입니다.

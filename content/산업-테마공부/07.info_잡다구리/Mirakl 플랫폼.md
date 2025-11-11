@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #온라인 #온라인플랫폼 #전자상거래 #BBY 
 
 # **Mirakl 플랫폼 개념 및 주요 기능**

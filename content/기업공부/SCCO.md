@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 775
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #구리생산 #구리광산 #몰리브덴 #아연 #은 #금 #페루광산 #멕시코광산 #제련소 #정련소 #수직통합 #원자재 #소재 #광업 #기본소재 #건설업 #전자산업 #전력산업 #구리수요 #구리가격 #미국그루포멕시코자회사

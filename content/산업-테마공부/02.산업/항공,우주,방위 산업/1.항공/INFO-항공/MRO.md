@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #MRO #항공 #항공기제조 
 
 - 테마구분: [항공기 제조](/industry-study/항공기-제조/)

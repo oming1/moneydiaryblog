@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 442
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #포장식품 #대체육 #소비자방어주
 
 ## 산업섹터

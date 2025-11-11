@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 984
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-04T04:33:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #기초소재 #철강
 
 #### 산업섹터 및 영위사업

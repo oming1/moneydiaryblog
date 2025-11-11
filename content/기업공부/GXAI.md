@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 395
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:33:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #게임플랫폼 #NFT #커뮤니케이션서비스 #게임
 
 Gaxos.ai Inc.(GXAI)는 인공지능(AI) 애플리케이션을 개발하는 기술 기업입니다.

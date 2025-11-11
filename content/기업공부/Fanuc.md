@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 337
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:13:12Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #로봇 #산업재 #자동화및제어시스템
 
 ## 산업섹터

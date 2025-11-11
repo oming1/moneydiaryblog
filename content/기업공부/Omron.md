@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 658
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #제어기기 #협동로봇 #AMR #로봇부품 #테크 #전자부품 #자동화시스템
 
 **산업섹터 (Sector):** 테크 (Technology)  

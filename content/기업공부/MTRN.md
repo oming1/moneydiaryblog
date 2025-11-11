@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 598
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T05:44:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #기타산업금속및광업 #기초소재
 
 #### 산업섹터 및 산업

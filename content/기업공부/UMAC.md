@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 910
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #드론 #UAV #FPV #미국제조 #국방기술 #로터라이오트 #팻샤크 #BlueUAS #브레이브F7 #전략적인수 #국내공급망 #엔터프라이즈판매 #NDAA준수 #드론부품 #eCommerce #FPV고글 #저지연성 #드론액세서리 #국방부승인 #미국드론산업 #임의소비재 #전자장비및부품 

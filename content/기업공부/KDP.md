@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 481
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #음료제조 #커피시스템 #탄산음료 #비탄산음료 #K-Cup #싱글서브커피 #브랜드포트폴리오 #유통네트워크 #소비자패키지상품 #DSD #직접배송 #RTD #즉석음료 #프리미엄화 #지속가능성 #리사이클링 #건강음료 #플라스틱감축 #디지털마케팅 #ESG

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 175
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #온라인식료품배달 #라스트마일물류 #기술플랫폼 #소매파트너십 #주문처리 #개인화쇼핑 #온디맨드경제 #고객편의성 #배달네트워크 #디지털마켓플레이스 #광고수익 #AI추천 #모바일앱 #소비자행동데이터 #식료품전자상거래 #배달경제 #도어대시경쟁 #우버이츠경쟁 #전자상거래 #임의소비재 #배달 

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 666
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #오스카헬스 #OSCR #헬스케어테크 #건강보험 #디지털헬스 #헬스케어플랫폼 #개인화의료 #텔레메디신 #데이터드리븐보험 #멤버십헬스케어 #ACA마켓플레이스 #개인보험 #고객경험CX #AI예방의료 #헬스케어디지털화 #보험테크 #인슈테크 #헬스케어혁신 #환자참여 #비용절감 #예방케어 #원격진료 #헬스케어데이터 #보험클레임 #멤버리텐션 #글로벌확장 #헬스케어파트너십 #디지털헬스케어 #헬스케어경제
 
 ---

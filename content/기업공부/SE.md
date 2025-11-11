@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 780
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #동남아시아 #이커머스 #게임 #핀테크 #쇼피 #가레나 #씨머니 #프리파이어 #모바일게임 #온라인쇼핑 #디지털금융 #라틴아메리카 #브라질 #싱가포르 #플랫폼 #생태계 #GMV #라이브스트리밍 #배틀로얄 #전자지갑 #임의소비재 #정보기술
 
 ---

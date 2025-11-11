@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 631
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #온라인게임 #모바일게임 #PC게임 #클라우드음악 #온라인교육 #이커머스 #광고서비스 #인터넷포털 #게임서비스 #디지털콘텐츠 #AI #5G #스마트시티 #재생에너지 #전기차충전소 #물관리 #환경보호 #사회적책임 #지속가능성 #글로벌확장

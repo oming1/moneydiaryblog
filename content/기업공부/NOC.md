@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 623
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #B-21레이더 #F-35 #센티널ICBM #미사일방어 #우주시스템 #무인항공기 #글로벌호크 #트리톤 #우주항공 #국방 #스텔스폭격기 #전투기 #위성 #레이더 #전자전 #사이버보안 #핵무기 #차세대요격기 #우주발사 #방위산업 
 
 ---

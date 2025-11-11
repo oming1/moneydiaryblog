@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 341
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #산업재 #택배 #물류 #통합화물및물류 #항공운송 #3PL
 
 - 최근이슈

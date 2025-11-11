@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 20
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:23:09Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #바이오테크 #알츠하이머 #파킨슨병 #다운증후군
 
 **산업 섹터 및 산업**

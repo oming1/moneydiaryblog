@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 914
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-07T02:37:02Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #중국 #헬스케어 #제약 #제네릭
 
 Universe Pharmaceuticals Inc(UPC)는 [중국](/industry-study/4국가중국/)의 제약 회사입니다.

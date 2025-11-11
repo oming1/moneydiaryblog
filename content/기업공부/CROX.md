@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 238
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T00:16:44Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #소비재 #신발 
 
 ### 산업섹터 (Sector, Industry)

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 60
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-04T04:33:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T05:52:20Z" />
-</div>
 #반도체 #테크 
 
 #### 산업섹터 및 영위사업

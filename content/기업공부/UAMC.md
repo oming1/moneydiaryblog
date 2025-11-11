@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 901
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #알루미늄 #자동차부품 #경량화 #정밀가공 #압출 #주조 #표면처리 #자동차산업 #전기차 #하이브리드차 #내연기관차 #소재기술 #글로벌공급망 #환경규제 #연비향상  #재활용 #소재
 
 소재 섹터  

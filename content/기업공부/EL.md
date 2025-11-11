@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 309
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-27T09:36:31Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #소비자방어주 #가정용및개인용품 #화장품 
 
 ## 산업섹터

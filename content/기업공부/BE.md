@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 125
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #데이터센터 #산업재 #전기장비 #수소 #블룸에너지 #연료전지 #SOFC #SOEC #고체산화물연료전지 #고체산화물전해조 #분산전원 #마이크로그리드 #데이터센터전력 #무정전전원 #전기요금절감 #그린수소 #수소전환 #전해조효율 #천연가스개질 #바이오가스 #온실가스감축 #IRA세액공제 #ITC #45V #탈탄소화 #에너지안보 #산업열통합 #고효율 #유지보수서비스 #장기계약 #프로젝트파이낸싱
 
 - 최근동향

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 215
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #암호화폐 #비트코인 #이더리움 #디지털자산 #블록체인 #거래소 #커스터디 #스테이블코인 #USDC #스테이킹 #DeFi #NFT #웹3 #핀테크 #디지털지갑 #Layer2 #Base #기관투자자 #개인투자자 #규제 #라이선스 #금융 #핀테크
 
 ---

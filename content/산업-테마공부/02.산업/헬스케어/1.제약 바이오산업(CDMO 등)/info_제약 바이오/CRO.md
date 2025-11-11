@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #헬스케어 #CRO 
 
 **CRO (Contract Research Organization)**는 제약사나 바이오사의 의뢰를 받아 임상시험을 설계, 모니터링, 데이터 관리, 허가 등의 업무를 대행하는 기관입니다. 신약 개발 과정에서 중요한 역할을 하며, 객관적인 시험 결과를 전달하는 역할을 합니다

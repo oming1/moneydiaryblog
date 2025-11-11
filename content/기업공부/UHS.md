@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 907
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #의료서비스 #병원운영 #행동건강 #급성치료 #의료시설 #의료보험 #환자중심케어 #의료품질 #규모의경제 #지역사회의료 #의료기술 #의료인력 #의료인프라 #의료경영 #의료네트워크 #의료접근성 #의료혁신 #의료데이터 #의료시설 #헬스케어 #병원 
 
 [헬스케어](/industry-study/2산업헬스케어/) 섹터  

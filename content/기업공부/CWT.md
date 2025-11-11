@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 254
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T06:32:06Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #인프라 #물공급 #상하수도 #수도유틸리티 #유틸리티
 
 ### 산업섹터 (Sector, Industry)

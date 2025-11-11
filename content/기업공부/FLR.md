@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 346
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-03T12:08:56Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #산업재 #건설및엔지니어링 #인프라 #건설 #발전소 #EPC
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 437
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-25T12:44:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #마이크로컨트롤러 #MCU #반도체 #정보기술 #전력관리솔루션 #자동차 #전력관리솔루션 #자동차 
 
 ## 산업섹터

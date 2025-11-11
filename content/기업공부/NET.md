@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 612
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #CDN #사이버보안 #DDoS방어 #웹성능최적화 #엣지컴퓨팅 #클라우드서비스 #인터넷인프라 #제로트러스트 #DNS #SSL/TLS #WAF #로드밸런싱 #API보안 #봇관리 #스트리밍 #서버리스컴퓨팅 #글로벌네트워크 #AI기반보안 #IoT보안 #데이터분석

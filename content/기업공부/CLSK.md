@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 202
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T12:26:43Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #비트코인 #금융 #자본시장 #비트코인채굴
 
 ## 산업섹터

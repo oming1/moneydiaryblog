@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 622
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #의료영상 #디지털X선 #냉음극기술 #AI진단 #클라우드플랫폼 #의료기기 #나노기술 #원격진단 #의료접근성 #비용효율성 #MSaaS #NanoxARC #NanoxCLOUD #NanoxAI #FDA승인 #글로벌확장 #혁신의료기술 #3D토모신테시스 #만성질환진단 #ESG

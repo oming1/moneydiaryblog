@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 838
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-04T13:02:16Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #소비자방어주 #알코올음료 #주류
 
 ## 산업섹터

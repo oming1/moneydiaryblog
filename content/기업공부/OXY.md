@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 669
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #석유가스 #탐사생산 #화학 #미드스트림 #저탄소기술 #EOR #탄소포집 #퍼미안베이신 #에너지
 
 ## 산업 섹터

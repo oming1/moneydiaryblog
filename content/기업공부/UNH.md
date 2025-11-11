@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 911
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #워렌버핏 #UnitedHealth #UNH #건강보험 #의료서비스 #헬스케어 #ManagedCare #Optum #보험청구 #의료비절감 #데이터분석 #원격의료 #처방약관리 #통합플랫폼 #인구고령화 #비용관리 #디지털헬스 #AI헬스케어 #텔레헬스 #PBM #CareCoordination #RiskAdjustment #메디케어 
 
 ---

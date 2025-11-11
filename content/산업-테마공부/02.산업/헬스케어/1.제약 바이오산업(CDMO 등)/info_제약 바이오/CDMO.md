@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #헬스케어 #CDMO
 
 CDMO (Contract Development and Manufacturing Organization)는 신약을 개발하려는 회사에 [의약품의 R&D 및 제조에 이르는 포괄적인 서비스를 제공]한다. 과거에는 생산에 치중하는 CMO 위주였으나, 현재는 제형, 공정 개발, 임상 시험 재료 및 분석을 포함한 개발까지 지원하는 CDMO로 확대되고 있다.  

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 348
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-05-31T02:06:33Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #구리 #광산 #원자재
 
 ## 산업섹터

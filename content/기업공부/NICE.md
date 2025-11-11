@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 614
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #AI솔루션 #클라우드플랫폼 #고객경험 #금융범죄예방 #컴플라이언스 #콜센터솔루션 #디지털증거관리 #자동화 #데이터분석 #ESG #기술혁신 #글로벌확장 #SaaS #CXone #Enlighten #X-Sight #Evidencentral #CCaaS #GenAI #디지털전환

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 779
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #유럽 #바이오시밀러 #복제약 #헬스케어 #전문및제네릭의약품제조
 
 산도즈는 지역적으로는 매출의 50%가 유럽에서, 제품으로는 75%가 비 바이오시밀러 제네릭에서 나오는 복제약 전문 기업입니다. 1990 년대 시바-가이기 와 산도즈의 합병으로 노바티스가 설립됐고, 노바티스 안에서 독립적으로 운영됐습니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 450
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #LiDAR #자율주행 #자동차센서 #인공지능 #ADAS #고성능센서 #3D이미징 #자동차안전 #스마트모빌리티 #InnovizTwo #BMW #Volkswagen #Mobileye #NVIDIA #OEM파트너십 #실시간처리 #장거리감지 #고해상도 #소프트웨어정의LiDAR #저전력

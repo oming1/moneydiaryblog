@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 219
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #석유가스 #업스트림 #탐사생산 #LNG #셰일오일 #천연가스 #탄소포집 #지속가능에너지 #석유화학 #글로벌에너지기업 #석유정제 #해상시추 #육상시추 #파이프라인 #에너지전환 #신재생에너지 #탄소중립 #ESG #디지털화 #에너지효율

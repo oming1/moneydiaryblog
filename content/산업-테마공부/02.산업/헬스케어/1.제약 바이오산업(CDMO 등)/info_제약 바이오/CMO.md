@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #헬스케어  #CMO
 
 바이오의약품 위탁 생산

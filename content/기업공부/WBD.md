@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 954
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T01:26:04Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:01:32Z" />
-</div>
 #커뮤니케이션서비스 #미디어및엔터테인먼트 #스트리밍 #영화 #OTT #동영상 #미디어 
 
 #### 산업섹터 (Sector, Industry)

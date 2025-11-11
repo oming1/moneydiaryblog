@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 192
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:49Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #로봇 #머신비전 #산업용바코드판독기 #테크
 
 ## 산업섹터

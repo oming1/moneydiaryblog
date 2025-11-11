@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #CTV
 
 CTV (Connected TV)는 [인터넷을 통해 동영상 콘텐츠에 접근하는 데 사용할 수 있는 모든 스마트 TV, 스트리밍 기기, 게임 콘솔]을 뜻한다. 그리고 CTV 광고는 CTV에서 동영상 광고를 통해 광고 경험을 전달한다.

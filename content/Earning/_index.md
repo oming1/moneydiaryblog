@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 4
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:21:29Z" />
-  <meta property="article:modified_time" content="2025-11-04T01:10:20Z" />
-</div>
 # Earning
 
 이 섹션의 내용입니다.

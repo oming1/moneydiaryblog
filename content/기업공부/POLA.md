@@ -7,8 +7,3 @@ sidebar:
   open: false
 weight: 706
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-08-20T07:38:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:47Z" />
-</div>
-

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 699
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #궐련형전자담배 #전자담배 #무연담배 #소지바방어주 #담배 #IQOS #ZYN #말보로 #무연제품 #가열담배 #니코틴파우치 #흡연대체 #전자담배 #생활필수품 #글로벌브랜드 #배당주 #소비재 #필수소비재 #담배제조 #흡연 #니코틴 #브랜드포트폴리오 #정부규제
 
 - 최근 이슈

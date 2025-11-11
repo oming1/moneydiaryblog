@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 592
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-07-12T02:47:23Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #테크 #반도체
 
 **산업섹터 (Sector):** 테크 (Technology)  

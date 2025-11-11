@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 377
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T13:16:55Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #포장식품 #소비자방어주 #소비재 #식료품 
 
 ## 산업섹터

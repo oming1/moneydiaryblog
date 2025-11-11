@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 783
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-18T05:28:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #위성통신 #커뮤니케이션서비스 #인공위성 #우주 #통신위성 
 
 ## 산업 섹터

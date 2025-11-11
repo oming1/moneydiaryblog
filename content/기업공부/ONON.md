@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 661
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T00:16:46Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #임의소비재 #스포츠웨어및스포츠상품 
 
 #### 산업섹터 및 산업

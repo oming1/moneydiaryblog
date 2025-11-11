@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 760
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-26T05:02:56Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #경기소비재 #의류소매 #의류 #신발
 
 ## 산업 섹터

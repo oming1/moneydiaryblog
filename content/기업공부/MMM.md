@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 572
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #산업재 #소비자제품 #산업용제품 #접착제 #필터 #의료기기 #안전장비 #전기장비 #테이프 #마스크 #필터 
 
 ## 산업 섹터

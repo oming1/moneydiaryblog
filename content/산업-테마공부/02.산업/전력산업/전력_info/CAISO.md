@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:32Z" />
-</div>
 #전력 #ISO #캘리포니아 
 
 ### California Independent System Operator (CAISO)

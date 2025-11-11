@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 877
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-11T01:52:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #진단및연구 #헬스케어 #바이오파마 #CDMO
 
 #### 산업섹터 및 산업 (Sector, Industry)

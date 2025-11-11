@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 475
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:24:13Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #전자담배 #담배 #소비자서비스 
 
 #### 산업섹터 (Sector, Industry)

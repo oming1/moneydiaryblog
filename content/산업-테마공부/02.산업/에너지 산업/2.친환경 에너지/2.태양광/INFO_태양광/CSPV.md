@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #태양광 #결정질실리콘태양광 #CSPV
 
 [결정질 실리콘 태양광](/industry-study/결정질-실리콘-태양광/)(CSPV)은 태양 에너지를 전기로 변환하는 가장 일반적인 태양전지 기술입니다.

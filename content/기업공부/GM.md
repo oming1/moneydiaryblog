@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 382
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-20T05:09:16Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #자동차 #소비재 #전기차 #소비자재량주 #자동차제조업체 #전기차 #임의소비재
 
 ## 산업섹터

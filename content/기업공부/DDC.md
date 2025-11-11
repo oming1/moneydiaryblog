@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 265
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #아시아음식 #비트코인전략 #기업재무 #헬스푸드 #간편식 #Ready-to-eat #Ready-to-cook #DayDayCook #비트코인보유 #Animoca파트너십 #식품배달 #아시아요리 #완전채식 #식품기술 #중국시장 #홍콩기업 #식품브랜드 #포트폴리오 #조인트벤처 #스타트업투자 #디지털자산 #암호화폐 #기업혁신 #융합전략 #신성장동력

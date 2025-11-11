@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 673
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-07-04T00:40:52Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #SiriusXM #음악스트리밍
 
 **Pandora Media (P)는 2019년 2월 1일 SiriusXM Holdings Inc. ([SIRI](/company-analysis/siri/))에 인수되어 상장폐지되었습니다.** 현재 Pandora Media는 독립적인 상장 기업이 아니며, [SiriusXM의 자회사]로 운영되고 있습니다.

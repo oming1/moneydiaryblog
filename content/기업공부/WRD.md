@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 974
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #자율주행 #AI #로보택시 #로보버스 #센서융합 #5G #V2X #스마트시티 #전기차 #모빌리티서비스 #ADAS #컴퓨터비전 #딥러닝 #라이다 #중국테크 #스타트업 #미래교통 #스마트모빌리티 #차량공유 #도시교통 #중국 

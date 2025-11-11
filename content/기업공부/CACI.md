@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 168
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #정보기술 #국방 #사이버보안 #정부계약 #AI기술 #클라우드서비스 #통신시스템 #데이터분석 #소프트웨어개발 #임상시험지원 #전략적파트너십 #디지털전환 #인프라관리 #비즈니스시스템 #사이버위협대응 #국제사업 #고객맞춤형솔루션 #기술혁신 #정밀의료 #ESG

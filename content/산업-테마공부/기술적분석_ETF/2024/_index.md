@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2032
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-08T14:22:21Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:35Z" />
-</div>
 # 2024
 
 이 섹션의 내용입니다.

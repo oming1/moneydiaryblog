@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 502
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #리튬 #배터리소재 #전기차 #청정에너지 #지속가능성 #북미공급망 #광산개발 #소재 #산업재 #금속및광업 #리튬광산 
 
 ## 산업 섹터

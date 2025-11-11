@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 448
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T03:13:48Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #반도체 #테크 #데이터센터 #파운드리 #AI #모빌아이 #자율주행
 
 #### 산업섹터 (Sector, Industry)

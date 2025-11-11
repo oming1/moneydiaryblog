@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 379
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T11:59:21Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #비철금속 #광산 #리사이클링 #원자재 #금속및광업 #농산물 #석탄 #석유 #구리 #아연 #니켈
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 512
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #Lennar #LEN #Homebuilder #주택건설 #ResidentialConstruction #미국주택시장 #HousingMarket #신축주택 #부동산개발 #건설사 #LandBank #BuildforRent #Backlog #MortgageRates #HousingDemand #SupplyChain #원자재비용 #수익성  #주택수급불균형 #주택가격 #시장점유율 #비용절감 #디지털설계 #그린빌딩 #워렌버핏 
 
 ---

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 355
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #엣지컴퓨팅 #CDN #클라우드보안 #웹성능최적화 #실시간분석 #API보안 #글로벌네트워크 #DDoS방어 #이미지최적화 #로드밸런싱 #Varnish #HTTP3 #엣지클라우드플랫폼 #웹애플리케이션방화벽 #컨텐츠전송네트워크 #사이버보안 #확장성 #저지연성 #실시간스트리밍 #ESG

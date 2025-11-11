@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 869
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #오프프라이스리테일 #의류 #홈패션 #글로벌유통 #브랜드가치 #재고관리 #보물찾기쇼핑 #다각화 #유연한비즈니스모델 #이커머스 #임의소비재 #의류소매
 
 임의소비재 섹터  

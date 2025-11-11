@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #태양광 
 
 **NEM 3.0**은 캘리포니아의 최신 순 에너지 계량 정책(Net Energy Metering) 으로, 2023년 4월부터 시행되었습니다. 이 정책은 [주택 및 상업용 태양광 발전 시스템 소유자가 생산한 초과 전력을 전력망에 공급할 때 받는 보상 방식을 규정]합니다

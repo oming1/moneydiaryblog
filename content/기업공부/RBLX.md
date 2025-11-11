@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 729
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-08T23:20:09Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #테크 #엔터테인먼트 #게임 
 
 **산업섹터 (Sector, Industry)**:

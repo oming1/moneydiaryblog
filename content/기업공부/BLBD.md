@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 140
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #블루버드 #BLBD #스쿨버스 #스쿨버스제조 #전기버스 #대체연료버스 #TypeC버스 #TypeD버스 #학생수송 #교육교통 #버스플릿 #버스안전 #버스디자인 #버스엔지니어링 #버스부품 #버스서비스 #북미시장 #글로벌확장 #지속가능교통 #전기화추진 #배출가스규제 #학교버스전동화 #연방보조금 #교육예산 #학생안전 #버스플릿관리 #원가절감 #공급망최적화 #성장잠재력
 
 ---

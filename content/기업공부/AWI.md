@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 102
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:01:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #바닥재 #건축제품 #산업재 #타일 
 
 ## 산업섹터

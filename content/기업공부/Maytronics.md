@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 550
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T05:36:29Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇 #가정용내구재 #로봇 #가정용로봇 #테크  #수영장청소로봇 #가전제품
 
 #### 산업섹터 및 산업

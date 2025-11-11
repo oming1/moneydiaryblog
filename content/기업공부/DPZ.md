@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 292
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-11T15:25:44Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #피자 #레스토랑 #임의소비재 
 
 **산업섹터 (Sector, Industry)**

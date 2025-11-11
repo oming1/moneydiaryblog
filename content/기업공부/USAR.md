@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 919
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #희토류 #레어어스 #네오디뮴 #디스프로슘 #마그네트 #전기차 #풍력발전 #국방 #첨단기술 #텍사스 #라운드톱 #광산 #채굴 #정제 #수직통합 #공급망 #중국의존도 #에너지전환 #소재 #광물
 
 ---

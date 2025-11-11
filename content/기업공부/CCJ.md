@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 181
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-18T08:15:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #우라늄 #에너지 #원자력연료 #원전 #광산 #우라늄광산
 #우라늄농축물 #우라늄옥사이드 
 

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 256
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #의료시설 #병원운영 #급성치료 #외래진료 #헬스케어 #지역의료 #재무구조개선 #인수합병 #의료서비스 #환자중심 #헬스케어 #병원 
 
 ## 산업 섹터

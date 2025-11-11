@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 380
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #특수유리 #광섬유 #고릴라글래스 #디스플레이기술 #광통신 #스마트폰글래스 #Corning #소재과학 #5G인프라 #AI데이터센터 #자동차유리 #환경기술 #생명과학 #실리카유리 #세라믹소재 #반도체폴리실리콘 #전자부품 #통신장비 #광케이블 #혁신소재 #Springboard전략 #Broadcom파트너십 #내구성유리 #첨단광학 #자동차 #스마트폰 #광섬유 
 
 ---

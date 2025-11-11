@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 1
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:32Z" />
-</div>
 # 1.얼티엄 배터리
 
 이 섹션의 내용입니다.

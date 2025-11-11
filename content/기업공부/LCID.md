@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 507
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-18T05:52:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #임의소비재 #자동차 #전기차 
 
 #### 산업섹터 및 영위사업

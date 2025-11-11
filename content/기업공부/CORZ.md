@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 221
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-17T12:13:59Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #소프트웨어 #정보기술 #비트코인
 ## 산업섹터
 

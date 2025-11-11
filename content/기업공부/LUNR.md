@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 534
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T03:00:02Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #산업재 #항공우주 #우주 #항공우주및방위산업 #달탐사용탑재체
 
 **산업섹터 (Sector, Industry):**

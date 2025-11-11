@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 788
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #유전자치료 #유전체편집 #희귀질환 #혈우병 #파브리병 #세포치료 #임상시험 #바이오테크 #제약협력 #유전자전달 #ZFN기술 #CAR-T세포치료 #정밀의학 #유전자조절 #희귀질환치료제 #생명과학도구및서비스 #헬스케어
 
 ## 섹터

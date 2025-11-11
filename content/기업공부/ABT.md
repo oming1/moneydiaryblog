@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 15
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #의료기기 #당뇨병 #제네릭 #혈당모니터링시스템 #진단기기 
 
 ## 산업 섹터

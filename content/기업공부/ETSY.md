@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 326
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #온라인마켓플레이스 #수제품 #빈티지상품 #창작자지원 #전자상거래 #글로벌확장 #모바일커머스 #지속가능성 #AI매칭 #사용자경험 #수수료모델 #브랜드인지도 #다중브랜드전략 #ESG #기술혁신 #사용자안전 #커뮤니티가이드라인 #인앱구매 #사용자획득 #크리에이터경제

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 583
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #농업영양소 #비료생산 #인산염 #칼륨 #동물사료 #지속가능성 #글로벌확장 #혁신 #책임 #협업 #성장 #기업시민 #환경관리 #사회적책임 #투명성 #농업기술 #ESG #농업시장 #글로벌유통망 #전략적파트너십 #비료

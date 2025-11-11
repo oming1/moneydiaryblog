@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 648
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #REIT #월배당 #상업용부동산 #트리플넷리스 #배당귀족 #안정적현금흐름 #장기임대계약 #다각화포트폴리오 #소매부동산 #산업용부동산 #필수소매업 #자산인수 #글로벌확장 #배당성장 #고정임대료 #NNN리스 #자본재활용 #ESG #디지털인프라 #게임부동산 #리츠 

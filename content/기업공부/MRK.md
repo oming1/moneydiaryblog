@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 588
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #머크 #MRK #키트루다 #면역항암제 #가다실9 #HPV백신 #바이오의약품 #폐암치료 #항암프랜차이즈 #백신프랜차이즈 #애니멀헬스 #브리디온 #항생제 #바이러스치료제 #Lagevrio #PCV15 #Vaxneuvance #웰리레그 #HIF2α억제제 #TL1A항체 #ADC협업 #DaiichiSankyo제휴 #글로벌임상 #특허만료리스크 #Medicare가격협상 #제조캐파증설 #중국성장 #미국매출비중
 
 ---

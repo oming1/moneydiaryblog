@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 494
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비자방어주 #식료품소매 #식료품 #약국 #약국소매 #슈퍼마켓
 
 **산업섹터 (Sector):** 소비자 방어주 (Consumer Defensive)  

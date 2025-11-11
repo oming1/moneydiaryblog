@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 145
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #산업재 #항공우주및방위산업 #우주 #위성 #인공위성 #궤도관리솔루션
 
 ### 산업섹터 및 영위사업

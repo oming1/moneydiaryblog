@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 431
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #항공우주복합소재 #탄소섬유 #HexTow #HexPly #프리프레그 #허니콤 #열경화성수지 #열가소성수지 #탄소섬유강화플라스틱 #경량화소재 #항공기구조재 #방위산업소재 #복합소재 #보잉 #에어버스 #엔진나셀 #기체구조물 #수직통합 #연료효율성 #지속가능소재 #친환경제조 #고성능섬유 #특수섬유강화재 #우주산업 #복합소재제조
 
 ---

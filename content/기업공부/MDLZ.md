@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 558
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-20T12:06:48Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #식품제품 #필수소비재 #과자 #스낵 #초콜릿 #비스킷
 
 ## 산업섹터

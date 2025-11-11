@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2042
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:27Z" />
-</div>
 # ★ 경제지표 설명
 
 이 섹션의 내용입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 281
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-12T00:19:31Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #커뮤니케이션서비스 #인터넷콘텐츠및정보 #소셜미디어 #트럼프
 
 #### 산업섹터 및 산업

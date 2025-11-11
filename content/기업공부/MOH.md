@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 580
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-25T04:46:07Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #헬스케어 #관리의료 #건강보험 #메디케이드 #메디케어 
 
 **산업섹터 (Sector, Industry)**:

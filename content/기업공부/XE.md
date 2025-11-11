@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 985
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 #에너지 #원전 #SMR #원자력 #고온가스냉각로 #4세대SMR
 #저농축산화우라늄 #고순도저농축우라늄 #피복입자 #TRISO연료 #Xe-100원자로
 #원자력발전 #흑연 #헬륨기체 #불화염 #소형모듈형원자로 

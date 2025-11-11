@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 872
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-09T04:03:54Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #헬스케어 #제약및생명공학 #대마초 
 
 ## 산업섹터

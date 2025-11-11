@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 829
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #바이오리액터 #헬스케어 #의료기기및용품 #의료기기 #바이오테크 
 
 #### 산업섹터 (Sector, Industry)

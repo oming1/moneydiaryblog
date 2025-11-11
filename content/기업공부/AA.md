@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-02T07:50:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:37Z" />
-</div>
 #알루미늄 #기초소재 #광산 #보그사이트 #원자재 
 
 **산업섹터 (Sector):** 기초 소재 (Basic Materials)  

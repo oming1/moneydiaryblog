@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 40
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #앵글로아메리칸 #NGLOY #AAL #글로벌광산 #구리 #철광석 #다이아몬드 #PGM #백금군금속 #제강용석탄 #니켈 #비료원료 #폴리할라이트 #남미광산 #남아공광산 #브라질미나스리우 #디비어스 #쿼야베코 #운영효율 #미래광업 #FutureSmartMining #광물수요 #에너지전환 #ESG #탈탄소 #공정혁신 #원자재가격 #사업재편
 
 ---

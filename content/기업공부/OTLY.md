@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 667
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #대체단백질 #비건 #비건음료 #귀리 #귀리음료 #식물성대체음료 #소비자방어주 #포장식품
 
 - **Sector**: 소비자 방어주 (Consumer Defensive)

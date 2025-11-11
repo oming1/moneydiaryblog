@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 298
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 ## 핵심 키워드
 
 #셰일오일 #천연가스 #업스트림 #탐사생산 #수평시추 #수압파쇄 #디지털기술 #ESG #저탄소전략 #운영효율성 #현금흐름 #배당성장 #델라웨어베이슨 #이글포드 #파우더리버베이슨 #윌리스턴베이슨 #석유가스 #에너지독립 #지속가능에너지 #비전통자원

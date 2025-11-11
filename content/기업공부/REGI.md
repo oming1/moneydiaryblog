@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 740
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-13T08:43:43Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 #에너지 #석유및가스정제및마케팅 #바이오디젤
 
 #### 산업섹터 (Sector, Industry)

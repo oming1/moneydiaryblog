@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 173
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-10T03:14:05Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:08:38Z" />
-</div>
 #산업재 #건축제품및장비 #냉장
 
 #### 산업섹터 (Sector, Industry)

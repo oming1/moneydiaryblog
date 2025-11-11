@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 336
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-02T13:26:49Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #에너지 #석유및가스탐사및생산 
 
 ## 산업섹터

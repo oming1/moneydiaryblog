@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 391
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:08:36Z" />
-</div>
 #통신 #무선통신 #위성통신 #모바일위성전화 #통신위성 #저궤도위성
 
 ## 산업 섹터

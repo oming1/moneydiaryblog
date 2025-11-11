@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 158
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-06T13:06:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #의료장비및용품 
 
 Boston Scientific Corporation(BSX)은 의료 기술 기업으로, 다양한 중재적 의료 분야를 위한 의료 기기를 개발, 제조 및 판매합니다.

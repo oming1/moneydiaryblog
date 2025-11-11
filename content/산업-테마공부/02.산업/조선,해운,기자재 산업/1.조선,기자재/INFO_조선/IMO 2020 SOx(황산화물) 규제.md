@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:33Z" />
-</div>
 #IMO2020SOx황산화물규제 #조선 #해운 #친환경  
 
 - 테마구분: [조선업](/industry-study/조선업/), [친환경](/industry-study/친환경/), [해운업](/industry-study/해운업/)

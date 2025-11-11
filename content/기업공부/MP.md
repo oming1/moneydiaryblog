@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 585
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #희토류 #경희토류 #NdPr #네오디뮴 #프라세오디뮴 #영구자석 #전기차모터 #풍력터빈 #로봇 #전기차  #기초소재 #원자재 #비금귀금속및광물 #희토류산화물
 
 - 최근이슈

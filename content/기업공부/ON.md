@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 659
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-28T12:27:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #반도체  #정보기술 #자동차 #SiC #아날로그반도체
 
 ## 산업섹터

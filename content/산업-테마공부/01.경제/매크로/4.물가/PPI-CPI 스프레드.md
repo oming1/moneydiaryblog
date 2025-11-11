@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 2
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ### 1. 기업 실적 훼손
 
 - **PPI 상승, CPI 정체**: 생산 비용이 증가하지만 소비자 가격이 오르지 않는 경우, [기업의 마진이 줄어들어 실적이 악화]될 수 있습니다. 이는 특히 원자재 의존도가 높은 산업에서 두드러집니다

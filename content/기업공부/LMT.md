@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 524
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-09T13:37:40Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #항공우주및방산 #방산 #항공 #우주 #산업재 #지정학 #스텔스전투기 #군용수송기 #무기 
 
 ## 산업 섹터

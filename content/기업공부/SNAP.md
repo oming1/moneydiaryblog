@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 809
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #소셜미디어 #카메라앱 #AR #광고플랫폼 #스냅챗 #스토리 #렌즈 #비트모지 #스냅맵 #스포트라이트 #스냅챗플러스 #디지털광고 #단기콘텐츠 #인플루언서 #크리에이터경제 #메타버스 #커뮤니케이션서비스  #인터넷서비스및소셜미디어 #소셜미디어 

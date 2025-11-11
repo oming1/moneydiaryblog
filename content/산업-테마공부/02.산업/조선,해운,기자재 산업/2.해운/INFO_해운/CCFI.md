@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #해운 #컨테이너선 #컨테이너 #CCFI 
 
 중국 컨테이너 운임 지수(CCFI)는 중국 교통부가 주관하고 상하이 항운교역소에서 집계하는 지수로, 중국발 컨테이너 운임을 반영합니다. 이 지수는 1998년 4월 13일 처음 공시되었으며, 중국의 주요 항구에서 출발하는 12개의 주요 항로를 기반으로 산정되며 주로 [해운업](/industry-study/해운업/) 및 [컨테이너선](/industry-study/컨테이너선/) 지표로 활용됨

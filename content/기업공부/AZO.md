@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 110
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-10T12:15:40Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #임의소비재 #전문소매 #자동차부품 
 
 AutoZone, Inc.(AZO)는 미국 최대의 자동차 부품 및 액세서리 소매업체입니다.

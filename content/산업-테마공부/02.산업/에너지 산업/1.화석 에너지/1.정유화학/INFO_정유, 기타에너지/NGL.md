@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:36Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:43Z" />
-</div>
 #천연가스 #NGL
 
 NGL에 대한 정보를 아래와 같이 정리해드리겠습니다.

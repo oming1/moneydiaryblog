@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 239
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #특수합금 #우주항공 #방산 #티타늄 #니켈합금 #스테인리스강 #고온합금 #항공기엔진 #방위산업 #첨단소재 #초합금 #특수강 #합금분말 #적층제조 #3D프린팅 #의료기기 #에너지 #철강
 
 ---

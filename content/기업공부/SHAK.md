@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 789
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #패스트캐주얼 #프리미엄버거 #쉐이크쉑버거 #크링클컷프라이 #프로즌커스터드 #고품질재료 #지속가능성 #글로벌확장 #디지털주문 #드라이브스루 #메뉴혁신 #라이선스모델 #브랜드인지도 #고객경험 #ESG #공급망관리 #프랜차이즈 #현지화전략 #AI기술 #식품안전

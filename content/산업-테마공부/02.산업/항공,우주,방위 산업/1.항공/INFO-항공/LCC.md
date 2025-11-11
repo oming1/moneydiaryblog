@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #항공 #항공운송 #화물운송 #여객운송 #LCC #화물 
 
 - 산업 구분: [항공 운송](/industry-study/항공-운송/)

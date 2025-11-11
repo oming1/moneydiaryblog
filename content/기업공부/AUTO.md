@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 97
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-06-28T03:17:40Z" />
-  <meta property="article:modified_time" content="2025-11-04T06:07:15Z" />
-</div>
 #로봇 #산업재 #산업용기계 
 
 ## 산업섹터

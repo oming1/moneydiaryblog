@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 303
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #베트남 #마케팅플랫폼 #소셜커머스 #인플루언서마케팅 #소셜미디어 #전자상거래 #동남아시장 #브랜드연결 #데이터분석 #AI추천 #모바일앱 #디지털마케팅 #콘텐츠제작 #소비자참여 #유통네트워크 #O2O서비스 #글로벌확장 #지속가능성
 
 ## 산업섹터

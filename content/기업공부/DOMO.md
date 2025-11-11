@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 288
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #도모 #DOMO #비즈니스인텔리전스 #데이터분석 #클라우드BI #대시보드 #임베디드애널리틱스 #데이터시각화 #데이터통합 #ETL #데이터웨어하우스 #데이터앱 #자사앱마켓플레이스 #실시간데이터 #셀프서비스BI #데이터거버넌스 #임원대시보드 #모바일분석 #워크플로우자동화 #AI분석 #ML예측 #API통합 #SaaS #구독모델 #유타실리콘슬로프스
 
 ---

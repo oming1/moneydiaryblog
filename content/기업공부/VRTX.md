@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 941
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:42Z" />
-</div>
 ## 핵심 키워드
 
 #바이오테크 #희귀질환 #낭포성섬유증 #유전자치료 #정밀의학 #신약개발 #임상시험 #단백질조절제 #CFTR조절제 #면역질환 #통증관리 #대사질환 #항암제 #유전자편집 #CRISPR #혁신신약 #바이오마커 #맞춤형치료 #지속적혁신 #글로벌확장

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 53
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-21T02:04:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #헬스케어 #관리형의료 #건강관리서비스 #원격의료
 
 ## 산업 섹터

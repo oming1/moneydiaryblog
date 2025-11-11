@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 479
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2023-05-24T05:58:50Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:41Z" />
-</div>
 #ETF
 
 1. 개념

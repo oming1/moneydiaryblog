@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 293
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-20T00:19:06Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #레스토랑 #소비자재량주 #임의소비재
 
 ### 산업섹터 및 산업

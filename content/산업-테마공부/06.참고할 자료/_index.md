@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 6
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:26Z" />
-</div>
 # 6.참고할 자료
 
 이 섹션의 내용입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 577
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #에너지음료 #RTD #카페인음료 #스포츠음료 #브랜드포트폴리오 #글로벌확장 #혁신제품 #유통네트워크 #마케팅전략 #건강음료 #프리미엄화 #DSD #직접배송 #스포츠후원 #카페인프리 #천연원료 #지속가능성 #ESG #디지털마케팅 #소비자트렌드

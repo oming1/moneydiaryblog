@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 863
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #의료기기 #혈관접근 #수술용품 #마취 #심장관리 #응급의료 #호흡기관리 #글로벌확장 #연구개발 #제품혁신 #의료기술 #환자케어 #임상솔루션 #지속가능성 #ESG #Arrow #LMA #UroLift #QuikClot #Weck

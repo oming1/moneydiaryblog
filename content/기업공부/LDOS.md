@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 509
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 ## 핵심 키워드
 
 #정보기술 #국방 #정보시스템 #사이버보안 #헬스케어IT #인공지능 #클라우드컴퓨팅 #빅데이터분석 #정부계약 #시스템통합 #C4ISR #전자전 #우주시스템 #자율주행 #디지털전환 #스마트인프라 #에너지효율 #생체인식 #국토안보 #과학연구 #IT서비스

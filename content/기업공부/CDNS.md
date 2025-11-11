@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 184
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-30T08:34:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #반도체 #정보기술 #소프트웨어 #캐나다 #맞춤형IC설계및시뮬레이션제품
 
 ## 산업섹터

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 115
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #알루미늄제조 #포장솔루션 #음료캔 #재활용가능포장재 #지속가능성 #글로벌기업 #음료산업공급업체 #탄소배출감소 #환경친화적포장 #맥주캔 #소프트드링크캔 #금속용기 #소비재포장 #산업용포장 #알루미늄재활용 #유럽확장 #수익성개선 #포장기술 #컨테이너 #소재

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 5
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:39Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:44Z" />
-</div>
 #Efruxifermin #MASH치료제 
 
 Efruxifermin(EFX)는 대사기능장애 연관 지방간염(MASH, 구 NASH) 치료를 위해 개발 중인 FGF21 유사체입니다.주요 특징:

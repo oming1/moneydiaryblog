@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 876
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:41Z" />
-</div>
 ## 핵심 키워드
 
 #음악스트리밍 #소셜엔터테인먼트 #중국시장 #온라인카라오케 #디지털음악 #콘텐츠라이선싱 #구독서비스 #소셜미디어 #AI추천 #라이브스트리밍 #음악커뮤니티 #모바일앱 #음악제작 #사용자참여 #광고수익 #지속가능성 #글로벌확장 #중국 

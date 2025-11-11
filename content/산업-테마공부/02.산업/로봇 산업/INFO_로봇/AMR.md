@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 3
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:35Z" />
-  <meta property="article:modified_time" content="2025-11-03T21:50:28Z" />
-</div>
 #로봇 #물류 #물류로봇
 
 - 관련테마: [로봇](/industry-study/로봇/), [물류 로봇](/industry-study/물류-로봇/)

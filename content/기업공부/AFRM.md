@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 39
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 #AFRM #BNPL #BuyNowPayLater #이커머스금융 #스마트할부 #무이자결제 #머천트수수료 #이자수익 #API핀테크 #파이낸셜서비스 #신용기반분할결제 #젊은소비자 #가맹점네트워크 #Shopify통합 #후방리스크 #신용평가엔진 #데이터드리븐언더라이팅 #리볼빙크레딧 #앱기반금융 #소상공인지원 #소비자보호 #리턴관리 #ShopPay #AffirmCard #AffirmOne
 
 ---

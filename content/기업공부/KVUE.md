@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 500
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-10-22T01:40:37Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비자방어주 #소비재 #건강관리 #헬스케어 
 
 #### 산업섹터 및 영위사업

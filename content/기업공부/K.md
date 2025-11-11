@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 477
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-08-30T12:31:46Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #소비자방어주 #포장식품 #시리얼
 
 ## 산업섹터

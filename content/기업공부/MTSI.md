@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 599
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #MACOM #MTSI #RF #Microwave #MillimeterWave #GaN #GaAs #InP #Semiconductor #AnalogIC #Photonics #5G #6G #DataCenter #AerospaceDefense #SatelliteComms #Radar #LiDAR #OpticalInterconnect #Connectivity #HighFrequency #NetworkEdge #IndustrialSensor
 
 ---

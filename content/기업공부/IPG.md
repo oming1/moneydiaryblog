@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 456
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-12-09T13:06:57Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #광고 #커뮤니케이션서비스 
 
 Interpublic Group of Companies, Inc.(IPG)는 글로벌 광고 및 마케팅 서비스 기업입니다.

@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 434
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-16T02:53:19Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #도박 #선거베팅 #금융서비스 #자본시장 
 
 ### Interactive Brokers Group Inc. 개요

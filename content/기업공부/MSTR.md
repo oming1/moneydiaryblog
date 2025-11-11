@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 595
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-11-11T13:35:53Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #테크 #소프트웨어 #데이터분석 
 
 ## 산업 섹터

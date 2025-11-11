@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 133
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:38Z" />
-</div>
 ## 핵심 키워드
 
 #온라인엔터테인먼트 #영상공유플랫폼 #ACG콘텐츠 #Z세대타겟 #사용자제작콘텐츠 #라이브방송 #모바일게임 #광고수익 #부가가치서비스 #커뮤니티중심 #중국디지털엔터테인먼트 #콘텐츠다각화 #이커머스 #전략적파트너십 #수익화전략 #AI기술 #5G기술 #영상제작도구 #비디오화트렌드 #높은사용자참여도 #중국 

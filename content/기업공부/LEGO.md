@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 511
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2024-09-19T05:36:46Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:40Z" />
-</div>
 #로봇  #임의소비재 #가정용내구재 #로봇 #가정용로봇 #교육용로봇 #레저 #가전제품
 
 **산업섹터 (Sector, Industry):**

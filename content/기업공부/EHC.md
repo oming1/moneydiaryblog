@@ -7,10 +7,6 @@ sidebar:
   open: false
 weight: 307
 ---
-<div style="display:none">
-  <meta property="article:published_time" content="2025-10-24T13:46:34Z" />
-  <meta property="article:modified_time" content="2025-11-04T02:00:39Z" />
-</div>
 #의료시설 #재활치료 #가정건강관리 #급성기후치료 #헬스케어 
 
 ## 산업 섹터
