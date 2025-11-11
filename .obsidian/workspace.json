@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c1f6dc8eaa54cb68",
         "type": "tabs",
         "children": [
@@ -15,6 +16,33 @@
               "state": {},
               "icon": "lucide-file",
               "title": "새 탭"
+=======
+        "id": "5bc4ed79296e1c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f94d399764a6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-11 미국 시황 정리"
+>>>>>>> d546fd744fecadad808d33d6fed15b4daf1bc8b9
             }
           }
         ]
@@ -49,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CIFR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,6 +207,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
+<<<<<<< HEAD
   "active": "be1ab4c1656287b2",
   "lastOpenFiles": [
     "content/투자아이디어/투자전략/2026년 Asia 투자전략 요약(유안타증권).md",
@@ -227,5 +256,55 @@
     "백업용/코드",
     "content/산업-테마공부/02.산업/미용기기산업/Study/2023/23.1 중소형 미용기기 톺아보기.pdf",
     "attachments"
+=======
+  "active": "73f94d399764a6e7",
+  "lastOpenFiles": [
+    "content/Daily시황정리/2025년/09월/2025-09-25 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-27 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+    "content/Daily시황정리/_index.md",
+    "content/Daily시황정리/2025년/05월/2025-05-14 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/05월/2025-05-15 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/05월/2025-05-10 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/09월/2025-09-05 미국 시황 정리.md",
+    "static/images/Pasted image 20251111065257.png",
+    "static/images/Pasted image 20251111065242.png",
+    "static/images/Pasted image 20251111065048.png",
+    "4.템플렛/0.(간소화)데일리.md",
+    "static/images/Pasted image 20251110172611.png",
+    "static/images/Pasted image 20251110172557.png",
+    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/_index.md",
+    "코드/통합코드 11.07(새글만 적용하도록).md",
+    "static/images/Pasted image 20251110070320.png",
+    "static/images/Pasted image 20251110070215.png",
+    "content/산업-테마공부/04.국가/브라질/2025년 11월, 브라질 기준금리 동결.md",
+    "content/산업-테마공부/04.국가/브라질/브라질.md",
+    "content/산업-테마공부/04.국가/브라질/_index.md",
+    "코드/통합 코드(광고+시간등)_11.04.md",
+    "content/산업-테마공부/04.국가/브라질/무제",
+    "content/Daily시황정리/2025년/01월/2025-01-01 미국 시황 정리.md",
+    "content/산업-테마공부/04.국가/인도/_index.md",
+    "content/산업-테마공부/04.국가/일본/_index.md",
+    "content/산업-테마공부/04.국가/일본/일본.md",
+    "content/산업-테마공부/04.국가/일본/STUDY/2023/_index.md",
+    "content/산업-테마공부/04.국가/독일.md",
+    "content/산업-테마공부/04.국가/브라질",
+    "images/screenshot.jpg",
+    "images/tn.jpg",
+    "static/images/Pasted image 20251107070005.png",
+    "company-analysis",
+    "content/Earning/PLTR",
+    "content/Earning/CIFR",
+    "content/Daily시황정리/2025년/11월",
+    "public/투자아이디어/아이디어-스케치/엔비디아의-어두운-그림자-순환-투자로-매출을-부풀리고-있다는-의혹",
+    "public/docs/1.daily-시황정리/2025/09/2025-09-30-미국-시황-정리",
+    "public/docs/1.daily-시황정리/2025/09/2025-09-27-미국-시황-정리",
+    "public/docs/1.daily-시황정리/2025/09/2025-09-26-미국-시황-정리"
+>>>>>>> d546fd744fecadad808d33d6fed15b4daf1bc8b9
   ]
 }

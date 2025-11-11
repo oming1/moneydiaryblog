@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moneydiary.co.kr/sitemap.xml
+Sitemap: https://moneydiary.co.kr/rss.xml
