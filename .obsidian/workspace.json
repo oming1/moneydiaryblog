@@ -1,76 +1,37 @@
 {
   "main": {
-    "id": "4aea3319736c3186",
+    "id": "9e33974f91d74577",
     "type": "split",
     "children": [
       {
-        "id": "6db34417710949e1",
+        "id": "1ebde1986f9ba3bd",
         "type": "tabs",
         "children": [
           {
-            "id": "94adb0fd5fe54b15",
+            "id": "b570339bc6662ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-11-13 미국 시황 정리"
-            }
-          },
-          {
-            "id": "616e9289d1537457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/산업-테마공부/02.산업/드론/info_드론/마이크로드론.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "마이크로드론"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6f9c8799c372b149",
+    "id": "d4b6286139c5013a",
     "type": "split",
     "children": [
       {
-        "id": "6ac2d850f4618402",
+        "id": "5c5929e6b3a15b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba7f31b76b0ae52",
+            "id": "951fac5f6651fb43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,12 +44,12 @@
             }
           },
           {
-            "id": "a32563435636309a",
+            "id": "89db3a13fb1bf97b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "드론",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +61,7 @@
             }
           },
           {
-            "id": "6057eea8deda2c16",
+            "id": "48a66e88826ed513",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
-    "id": "b75d645c5d6ab651",
+    "id": "def6d9f3099009e9",
     "type": "split",
     "children": [
       {
-        "id": "bab3d877e384f483",
+        "id": "64def847c9abf7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f687d6420cda5ab8",
+            "id": "1e3f5143cc430891",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-12 미국 시황 정리 의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "bea70bb731933963",
+            "id": "bf941163dbc72583",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-12 미국 시황 정리 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "2c07e26ba194bf02",
+            "id": "29b387d167d4271d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,18 +131,17 @@
             }
           },
           {
-            "id": "f2df2940b712b110",
+            "id": "2aed9e0375d14fb7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-12 미국 시황 정리 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -207,26 +165,6 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "616e9289d1537457",
-  "lastOpenFiles": [
-    "content/기업공부/AVAV.md",
-    "content/산업-테마공부/02.산업/드론/info_드론",
-    "content/산업-테마공부/02.산업/드론",
-    "content/기업공부/AIRO.md",
-    "content/산업-테마공부/02.산업/원자재 산업/1.비철금속/희토류/INFO_희토류/네오디뮴.md",
-    "content/산업-테마공부/02.산업/로봇 산업/INFO_로봇/물리 AI.md",
-    "content/산업-테마공부/02.산업/드론/info_드론/마이크로드론.md",
-    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
-    "static/images/Pasted image 20251113212447.png",
-    "content/Daily시황정리/2025년/_index.md",
-    "content/Earning/엔씨소프트/엔씨소프트 25년 3Q 실적발표 컨퍼런스콜.md",
-    "4.템플렛/0.(간소화)데일리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
-    "코드/통합코드 11.11(pdf반영).md",
-    "company-analysis/msft.md",
-    "company-analysis",
-    "코드/광고제거 코드.md",
-    "static/images/Pasted image 20251112065809.png"
-  ]
+  "active": "b570339bc6662ecd",
+  "lastOpenFiles": []
 }
