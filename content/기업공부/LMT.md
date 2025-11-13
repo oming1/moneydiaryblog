@@ -16,9 +16,6 @@ weight: 524
 
 ## 영위 사업
 Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공우주 제품을 설계하고 제조하는 글로벌 기업입니다. 이 회사는 군사 및 상업 고객에게 고급 기술 솔루션을 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -26,17 +23,11 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
     - **역할**: 최종 소비자에게 방산 시스템 및 솔루션 제공
     - **주요 기업**: Boeing (미국, [BA](/company-analysis/ba/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/))
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 원자재 공급 및 부품 제조
     - **역할**: Lockheed Martin의 제품 생산에 필요한 자재 및 부품 제공
     - **주요 기업**: Raytheon Technologies (미국, [RTX](/company-analysis/rtx/)), Honeywell International (미국, [HON](/company-analysis/hon/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **제품 개발**:
     
     - Lockheed Martin은 항공기 및 방산 시스템을 개발합니다.

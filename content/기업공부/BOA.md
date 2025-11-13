@@ -15,9 +15,6 @@ weight: 152
 - **Industry:** 은행 (Banks)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Bank of America는 다양한 금융 서비스를 제공하는 글로벌 금융 기관입니다. 주요 사업으로는 개인 및 기업 금융, 투자 은행, 자산 관리, 신용 카드 발급, 모기지 대출 등이 있습니다.
 
 #### 전방/후방산업
@@ -27,9 +24,6 @@ Bank of America는 다양한 금융 서비스를 제공하는 글로벌 금융 �
 - **후방산업:**
     - **IT 서비스:** 금융 기술 및 보안 솔루션을 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), Accenture (아일랜드, [ACN](/company-analysis/acn/)).
     - **법률 서비스:** 금융 규제 및 법률 자문을 제공합니다. 주요 기업: DLA Piper, Baker McKenzie.
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **금융 서비스 제공:**
     - Bank of America (미국, [BAC](/company-analysis/bac/)): 다양한 금융 서비스 제공.

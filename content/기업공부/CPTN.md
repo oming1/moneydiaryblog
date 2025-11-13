@@ -17,9 +17,6 @@ Industry: 전자장비 및 부품(Electronic Equipment & Parts)
 ## 영위사업
 
 Cepton, Inc.는 실리콘밸리에 본사를 둔 라이다(LiDAR) 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 라이다 센서 개발 및 제조: 근거리부터 초장거리까지 다양한 범위의 라이다 센서 제공
 2. 자동차용 소프트웨어 개발
 3. 라이다 인식 솔루션 제공
@@ -33,9 +30,6 @@ Cepton의 핵심 기술은 특허받은 Micro Motion Technology (MMT®)로, 거�
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 자동차 제조업체: General Motors (US, [GM](/company-analysis/gm/))
 - 스마트 시티 솔루션 제공업체
 - 산업용 로봇 제조업체

@@ -33,9 +33,6 @@ Sunrun Inc.는 주거용 태양광 에너지 시스템의 설계, 개발, 설치
 - **시스템 통합**: 태양광 시스템 통합 및 설치 (Sunrun Inc., Tesla (US, [TSLA](/company-analysis/tsla/)))
 - **서비스 제공**: 에너지 관리 소프트웨어 및 유지보수 서비스 제공 (Sunrun Inc.)
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **태양광 패널**: 주거용 태양광 패널 및 랙킹 시스템
 - **배터리 저장 시스템**: 가정용 및 상업용 에너지 저장 솔루션
 - **에너지 관리 소프트웨어**: 에너지 모니터링 및 제어 소프트웨어
@@ -49,9 +46,6 @@ Sunrun Inc.는 주거용 태양광 에너지 시스템의 설계, 개발, 설치
 - **Vivint Solar (US, [VSLR](/company-analysis/vslr/))**: 주거용 태양광 시스템
 - **SunPower (US, [SPWR](/company-analysis/spwr/))**: 태양광 패널 및 시스템
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 [Sunrun Inc.는 미국 주거용 태양광 시장에서 약 15%의 점유율을 보유하고 있습니다 (2024년 기준)](https://finance.yahoo.com/quote/RUN/)[1](https://finance.yahoo.com/quote/RUN/).
 #### 최근 3년 내 주요 이슈
 #### 최근 3년 내 주요 이슈

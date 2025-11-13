@@ -99,9 +99,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 3단계: **패키징·조립**
 
 - 웨이퍼 절단→칩 본딩→볼 그리드 어레이(BGA) 패키지  
-
-{{< adsense-infeed >}}
-
 4단계: **테스트·검사**
 
 - 전기 테스트, 온도·진동 시뮬레이션, 불량 칩 제거  
@@ -161,9 +158,6 @@ SkyWater(US)는 “설계된 반도체 칩을 실제 제품으로 만들어 내�
 - **Micron Technology(US, [MU](/company-analysis/mu/)):** 메모리 컨트롤러 패키징 (2023년 $12M)
 - **Tesla(US, [TSLA](/company-analysis/tsla/)):** SiC 전력 모듈 테스트 (2023년 $8M)
 - **Start-up Fabless (예: SiPh 스타트업):** 초기 프로토타입·NRE(Non-Recurring Engineering) 수익
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가

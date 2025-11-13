@@ -20,19 +20,10 @@ Stryker Corporation(SYK)는 의료 기술 분야의 글로벌 리더 기업입�
 Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 제품을 제조 및 판매합니다. 주요 제품으로는 정형외과 임플란트, 수술 장비, 수술 내비게이션 시스템, 환자 처리 장비, 응급 의료 장비, 내시경 및 통신 시스템, 신경외과 장비, 신경혈관 및 척추 장치 등이 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
-
-{{< adsense-infeed >}}
-
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 병원 및 의료기관
 - 의사 및 의료 전문가
 ## 밸류체인
@@ -59,9 +50,6 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))
 - Smith & Nephew(UK, [SNN](/company-analysis/snn/))
 - Zimmer Biomet(US, [ZBH](/company-analysis/zbh/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 ## 최근 3년 내 주요 이슈

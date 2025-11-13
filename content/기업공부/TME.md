@@ -30,9 +30,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 2024년 기준 총 매출은 약 40억 달러였으며, 중국 내 8억 명 이상의 월간 활성 사용자(MAU)를 보유하고 있습니다. 최근에는 AI 기반 음악 추천과 글로벌 시장 확장에 주력하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. **광범위한 사용자 기반**: 중국 내 8억 명 이상의 MAU를 보유한 강력한 플랫폼
     
 2. **다양한 서비스 포트폴리오**: 음악 스트리밍부터 소셜 엔터테인먼트까지 폭넓은 서비스 제공
@@ -45,9 +42,6 @@ Tencent Music Entertainment Group(NYSE: TME)는 중국 최대의 온라인 음�
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - **음악 제작 및 배급**: Universal Music Group(NL), Sony Music Entertainment(JP), Warner Music Group(US, WMG)
     
 - **광고주**: 브랜드 및 기업 광고주

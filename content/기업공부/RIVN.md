@@ -15,9 +15,6 @@ Industry: Auto Manufacturers (자동차 제조업)
 
 영위사업:  
 Rivian은 [전기차](/industry-study/2산업자동차-산업전기차/) 및 자동차 기술, 아웃도어 레크리에이션 제품을 설계, 개발, 제조, 판매하는 미국 기업입니다.
-
-{{< adsense-infeed >}}
-
 전방/후방산업:
 - 전방산업:  
     핵심 산업 및 역할: 전기차 충전 인프라, 배터리 재활용  
@@ -25,9 +22,6 @@ Rivian은 [전기차](/industry-study/2산업자동차-산업전기차/) 및 자
 - 후방산업:  
     핵심 산업 및 역할: 배터리 셀 제조, 반도체 생산  
     관련 기업: Panasonic (JP, 6752.T), NVIDIA (US, [NVDA](/company-analysis/nvda/))
-
-{{< adsense-infeed >}}
-
 밸류체인:
 1. 연구개발: Rivian (US, [RIVN](/company-analysis/rivn/)) (전기차 플랫폼 개발)
 2. 부품 제조: 다양한 협력업체

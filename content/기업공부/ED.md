@@ -23,19 +23,10 @@ Consolidated Edison(Con Edison 또는 ConEd)은 전기, [천연가스](/industry
 
 - 에너지 생산: 발전소, 천연가스 생산업체
 - 인프라 장비: 전력 및 가스 설비 제조업체
-
-{{< adsense-infeed >}}
-
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 주거 및 상업용 에너지 소비자
 - 산업용 에너지 소비자
 - 도매 전력 구매자 (지방자치단체, 전력 협동조합 등)
-
-{{< adsense-infeed >}}
-
 ## 주요제품 및 서비스
 - 전기 유통
 - 천연가스 유통
@@ -45,13 +36,7 @@ Consolidated Edison(Con Edison 또는 ConEd)은 전기, [천연가스](/industry
 
 ## 주요 판매국가
 미국 (주로 뉴욕시와 웨스트체스터 카운티, 뉴저지 일부 지역)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - NextEra Energy(US, [NEE](/company-analysis/nee/))
 - Duke Energy(US, [DUK](/company-analysis/duk/))
 - Southern Company(US, [SO](/company-analysis/so/))

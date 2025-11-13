@@ -15,9 +15,6 @@ weight: 822
 
 **섹터(Sector):** Information Technology - 정보기술  
 **산업(Industry):** Software - Application - 애플리케이션 소프트웨어
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 영위사업
@@ -42,9 +39,6 @@ Sapiens International Corporation N.V.은 1982년에 [이스라엘](/industry-st
 
 - **비즈니스 모델 개요**  
     Sapiens의 비즈니스 모델은 라이선스 판매(약 20%), 구독 기반 SaaS(약 50%), 전문 서비스(약 30%)로 구성됩니다. 장기 계약을 통해 반복 수익을 확보하며, 클라우드 전환 프로젝트로 고부가가치 서비스를 제공합니다. 회사는 R&D에 매년 매출의 10-12%를 투자하여 AI와 빅데이터 혁신을 추진하며, 파트너십(예: Microsoft Azure 통합)을 통해 솔루션을 강화합니다. 이는 보험 산업의 디지털화와 규제 변화에 대응하는 유연성을 제공하지만, 경쟁 심화와 규제 준수 비용이 과제입니다.
-
-{{< adsense-infeed >}}
-
 - **주요 리스크 요소**
     
     - **규제 변화:** IFRS 17, Solvency II 같은 보험 규제 업데이트 실패 시 고객 이탈.

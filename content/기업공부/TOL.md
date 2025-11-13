@@ -21,9 +21,6 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
 
 1. 고급 단독주택 및 타운하우스 건설
 Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기업입니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 고급 단독주택 및 타운하우스 건설
 2. 도시형 고층 콘도미니엄 개발 (Toll Brothers City Living 브랜드)
     
@@ -48,9 +45,6 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
 4. 다양한 제품 라인: 단독주택부터 도시형 콘도까지 폭넓은 제품 포트폴리오
     
 5. 수직 계열화: 자체 건축, 엔지니어링, 모기지, 보험 등 관련 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -58,18 +52,12 @@ Toll Brothers Inc는 미국의 대표적인 고급 주택 건설 및 개발 기�
 - 부동산 중개: 주택 판매 및 마케팅 (Realogy Holdings(US, RLGY), RE/MAX Holdings(US, RMAX))
     
 - 인테리어 디자인: 고급 주택 내장 (Restoration Hardware(US, [RH](/company-analysis/rh/)), Williams-Sonoma(US, [WSM](/company-analysis/wsm/)))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 건설자재 공급: 목재, 콘크리트 등 (Vulcan Materials(US, [VMC](/company-analysis/vmc/)), Martin Marietta Materials(US, MLM))
     
 - 가전제품: 고급 주택용 가전 (Whirlpool(US, [WHR](/company-analysis/whr/)), LG Electronics(KR, 066570))
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 토지 확보: Toll Brothers 토지 개발팀, 부동산 중개업체
     
 2. 설계 및 엔지니어링: 자체 건축 및 엔지니어링 부서
@@ -135,9 +123,6 @@ Toll Brothers는 미국 럭셔리 주택 시장에서 선도적인 위치를 차
 1. iShares U.S. Home Construction ETF - ITB
     
 2. SPDR S&P Homebuilders ETF - XHB
-
-{{< adsense-infeed >}}
-
 3. Invesco Building & Construction ETF - PKB
     
 4. Hoya Capital Housing ETF - HOMZ

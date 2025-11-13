@@ -23,9 +23,6 @@ STMicroelectronics는 유럽 최대의 [반도체](/industry-study/반도체/) �
 2. 전력 및 개별 반도체 제품 (P&D)
 3. [마이크로컨트롤러](/industry-study/마이크로컨트롤러/) (MCU)
 4. 디지털 IC 및 RF 제품 (D&RF)
-
-{{< adsense-infeed >}}
-
 STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 다양한 응용 분야를 위한 반도체 솔루션을 제공합니다. 회사는 자체 제조 시설을 보유하고 있으며, 지속적인 R&D 투자를 통해 기술 혁신을 추구하고 있습니다.
 
 ## 핵심 경쟁력
@@ -37,9 +34,6 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 5. 지역적 다각화: 유럽, 미주, 아시아 등 글로벌 시장에서의 균형 잡힌 사업 구조
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 자동차용 전용 IC (매출 비중: 약 35%, 2023년 기준)
 2. [아날로그 반도체](/industry-study/아날로그-반도체/), 산업 및 전력 변환 IC (매출 비중: 약 30%, 2023년 기준)
 3. 범용 및 보안 MCU, MPU, EEPROM (매출 비중: 약 20%, 2023년 기준)
@@ -69,9 +63,6 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 5. ON Semiconductor(US, [ON](/company-analysis/on/)): 전력 및 센서 솔루션
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 점유율을 보유하고 있으며, 유럽 최대의 반도체 기업으로서의 위상을 유지하고 있습니다.
 ## 최근 3년 내 주요 이슈
 

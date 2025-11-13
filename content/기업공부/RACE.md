@@ -20,9 +20,6 @@ weight: 727
     - **핵심 기업**: AutoNation (미국, [AN](/company-analysis/an/)), Penske Automotive Group (미국, [PAG](/company-analysis/pag/))
 - **후방산업**: 자동차 부품 제조업, 전자 부품 제조업
     - **핵심 기업**: Bosch (독일, BOSCH), Brembo (이탈리아, BRE)
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 - **설계 및 개발**: 고성능 스포츠카의 설계 및 개발
     - **대표 회사**: Ferrari (이탈리아, [RACE](/company-analysis/race/)), Lamborghini (이탈리아, VOW3)
@@ -35,13 +32,7 @@ weight: 727
 - **Ferrari 488**: 고성능 스포츠카
 - **Ferrari Portofino**: 럭셔리 컨버터블
 - **Ferrari SF90 Stradale**: 하이브리드 슈퍼카
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**:
-
-{{< adsense-infeed >}}
-
 - 미국: Ferrari의 주요 시장 중 하나로, 고성능 스포츠카의 주요 판매국가입니다.
 - 유럽: 이탈리아, 독일, 영국 등 유럽 주요 국가에서 높은 판매 비중을 차지합니다.
 - 중국: 최근 몇 년간 빠르게 성장하는 시장 중 하나입니다.
@@ -53,7 +44,4 @@ weight: 727
 - Ferrari는 글로벌 고성능 스포츠카 시장에서 중요한 위치를 차지하고 있으며, 시장 점유율은 공개되지 않았습니다. 그러나 주요 경쟁업체와 함께 시장을 선도하고 있습니다.
 
 **최근 3년 내 주요 이슈**:
-
-{{< adsense-infeed >}}
-
 - [**전기차 개발**: Ferrari는 2022년에 첫 전기차 모델을 발표하며, 전기차 시장 진출을 본격화했습니다 (2022년)](https://race.kra.co.kr/busanMain.do)[2](https://race.kra.co.kr/busanMain.do).

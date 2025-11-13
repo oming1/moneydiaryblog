@@ -15,27 +15,15 @@ weight: 516
 - **Industry**: [자동차](/industry-study/자동차/) (Automobiles)
 
 #### 영위사업 (Business Operations)
-
-{{< adsense-infeed >}}
-
 Li Auto는 [중국](/industry-study/4국가중국/)의 신에너지 차량 시장에서 활동하는 기업으로, 프리미엄 스마트 [전기차](/industry-study/2산업자동차-산업전기차/)를 설계, 개발, 제조 및 판매합니다. 주요 제품으로는 MPV와 SUV가 있으며, 자율 주행 기술과 디지털 기술 혁신에도 주력하고 있습니다.
 
 #### 전방/후방산업 (Forward/Backward Industries)
 - **전방산업 (Forward Industries)**:
-
-{{< adsense-infeed >}}
-
     - **자동차 판매업체**: Li Auto의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국)
     - **충전 인프라 제공업체**: Li Auto의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
 - **후방산업 (Backward Industries)**:
-
-{{< adsense-infeed >}}
-
     - **배터리 제조업체**: Li Auto의 전기차에 필요한 배터리를 제공합니다. 주요 기업: [CATL](/company-analysis/catl/) (중국), [LG화학](/industry-study/lg화학/) (한국)
     - **반도체 제조업체**: Li Auto의 전기차에 필요한 반도체를 제공합니다. 주요 기업: NVIDIA (미국, [NVDA](/company-analysis/nvda/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인 (Value Chain)
 - **연구 및 개발**: 전기차 및 관련 기술을 연구하고 개발합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국)
 - **제조**: 전기차 및 부품을 제조합니다. 주요 기업: Li Auto (중국, [LI](/company-analysis/li/)), Geely (중국)

@@ -15,9 +15,6 @@ Sector: 필수 소비재(Consumer Staples)
 Industry: 식품 제품(Food Products)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요 사업 영역은 다음과 같습니다:
 1. 비스킷 및 쿠키
 2. 초콜릿
@@ -25,9 +22,6 @@ Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요
 4. 구운 스낵
 5. 치즈 및 식료품
 6. 분말 음료
-
-{{< adsense-infeed >}}
-
 회사는 Oreo, Cadbury, Milka, Toblerone 등의 글로벌 브랜드와 지역별 유명 브랜드를 보유하고 있으며, 전 세계 150개국 이상에서 제품을 판매하고 있습니다.
 
 ## 주요제품
@@ -42,9 +36,6 @@ Mondelez International, Inc.는 글로벌 과자 및 식품 기업으로, 주요
 
 Mondelez International은 전 세계 150개국 이상에서 사업을 영위하고 있으며, 특히 북미, 유럽, 라틴 아메리카, 아시아, 중동 및 아프리카 지역에서 강세를 보이고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Nestlé SA (스위스) - 초콜릿, 과자류
 2. The Hershey Company (US, [HSY](/company-analysis/hsy/)) - 초콜릿, 캔디
 3. Mars, Incorporated (비상장) - 초콜릿, 껌

@@ -21,9 +21,6 @@ Vroom, Inc.(VRM)은 미국의 온라인 중고차 판매 플랫폼 기업입니�
 3. AI 기반 분석 서비스: CarStory를 통한 자동차 소매업 데이터 분석 및 인사이트 제공
 
 Vroom은 전통적인 중고차 딜러십 모델을 디지털화하여, 고객들에게 편리하고 투명한 온라인 구매 경험을 제공하는 것을 목표로 합니다.최근 주요 이슈로는 2024년 9월 eCommerce 및 중고차 딜러십 사업 중단을 발표하고, UACC와 CarStory 사업에 집중하기로 결정한 것입니다. 이는 지속적인 손실과 시장 환경 변화에 대응하기 위한 전략적 결정으로 보입니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 디지털 플랫폼: 완전한 온라인 구매 프로세스를 제공하여 고객 편의성 극대화
@@ -41,9 +38,6 @@ Vroom은 전통적인 중고차 딜러십 모델을 디지털화하여, 고객�
 1. 자동차 보험: Progressive Corporation(US, [PGR](/company-analysis/pgr/))
 2. 자동차 정비: AutoZone, Inc.(US, [AZO](/company-analysis/azo/))
 3. 자동차 부품: Advance Auto Parts, Inc.(US, [AAP](/company-analysis/aap/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 1. 자동차 제조: General Motors Company(US, [GM](/company-analysis/gm/))

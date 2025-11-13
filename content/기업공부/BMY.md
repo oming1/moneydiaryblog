@@ -15,9 +15,6 @@ weight: 150
 - Industry: Drug Manufacturers—General (제약 제조-일반)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류마티스 관절염, 정신 질환 등 다양한 치료 영역에서 처방약과 생물학적 제제를 제조하는 다국적 제약회사입니다.
 ## 전방/후방산업
 
@@ -40,9 +37,6 @@ Bristol Myers Squibb는 암, HIV/AIDS, 심혈관 질환, 당뇨병, 간염, 류�
     
 - 유통 및 판매: 의약품 유통 및 마케팅
     - 대표 회사: McKesson (US, [MCK](/company-analysis/mck/)) - 의약품 유통
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - Opdivo (면역항암제, 2022년 매출의 28%)
 - Eliquis (항응고제, 2022년 매출의 24%)

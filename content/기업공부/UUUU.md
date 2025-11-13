@@ -39,9 +39,6 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 9. 환경 친화적이고 지속 가능한 채굴 방식 채택
     
 10. 글로벌 희토류 공급망 구축을 위한 전략적 인수 및 프로젝트 개발
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -54,9 +51,6 @@ Energy Fuels Inc.는 미국 내 우라늄, [희토류](/industry-study/2산업�
 후방산업:
 
 - 광산 장비: 채굴 및 운송 장비 제조 (Caterpillar(US, [CAT](/company-analysis/cat/)), Komatsu(JP, 6301))
-
-{{< adsense-infeed >}}
-
 - 화학 산업: 광물 처리 및 정제 화학물질 공급 (DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS))
 
 ## 밸류체인

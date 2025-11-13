@@ -188,9 +188,6 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 - **주요 공급 업체:** Broadcast Electronics, Nautel, Harris Corporation
 
 ### 디지털 인프라:
-
-{{< adsense-infeed >}}
-
 - **사용처:** 웹사이트, 앱, 클라우드 서비스 운영
 - **주요 공급 지역:** 글로벌
 - **주요 공급 업체:** Amazon Web Services [AMZN](/company-analysis/amzn/), Microsoft Azure [MSFT](/company-analysis/msft/)
@@ -289,9 +286,6 @@ Townsquare Media의 핵심 경쟁력은 미국의 중소규모 시장에서 구�
 **미국 중소시장 라디오 방송:** 중소규모 시장에서 상당한 점유율 보유 (구체적 수치 비공개)
 **디지털 마케팅 SMB 시장:** 소상공인 대상 통합 솔루션 시장에서 성장하는 플레이어
 **프로그래매틱 광고:** 지역 중심 프로그래매틱 광고 시장에서 니치 플레이어
-
-{{< adsense-infeed >}}
-
 **지역 디지털 미디어:** 74개 시장에서 400개 이상 웹사이트 운영으로 지역별 강력한 입지
 
 최근 3년간 디지털 부문의 성장으로 전체 매출에서 디지털 비중이 52%까지 확대되어 성공적인 디지털 전환을 보여주고 있습니다.

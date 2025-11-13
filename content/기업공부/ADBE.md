@@ -16,9 +16,6 @@ weight: 26
 
 #### 영위사업
 어도비는 디지털 미디어, 디지털 경험, 출판 및 광고 등 다양한 소프트웨어 솔루션을 제공하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **Digital Media**: 콘텐츠 제작, 출판 및 프로모션을 위한 제품 및 서비스 제공
 - **Digital Experience**: 고객 경험 관리 및 최적화를 위한 통합 플랫폼 제공
 - **Publishing and Advertising**: 전자 학습 솔루션, 기술 문서 출판, 웹 회의, 고급 인쇄 등
@@ -41,9 +38,6 @@ weight: 26
 - **콘텐츠 배포 (Content Distribution)**:
     - **설명**: 디지털 콘텐츠의 배포 및 관리
     - **대표회사**: Adobe (미국, [ADBE](/company-analysis/adbe/)), Amazon (미국, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 - **Creative Cloud**: 포토샵, 일러스트레이터, 프리미어 프로 등 다양한 크리에이티브 소프트웨어 포함
 - **Document Cloud**: Acrobat, PDF 솔루션

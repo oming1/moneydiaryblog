@@ -77,9 +77,6 @@ NIH는 직접적인 수익을 창출하는 기업이 아니라 정부 예산을 
     
 2. 연구 인프라: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)) (실험실 장비), Illumina(US, [ILMN](/company-analysis/ilmn/)) (유전체 분석 장비)
 3. 기초 연구: NIH 인트라뮤럴 프로그램, 대학 연구소 (Harvard Medical School(Harvard Medical School), Stanford Medicine(Stanford Medicine))
-
-{{< adsense-infeed >}}
-
 4. 중개 연구: 생명공학 회사 (Regeneron(US, [REGN](/company-analysis/regn/)) (항체 치료제 개발), BioNTech(US, [BNTX](/company-analysis/bntx/)) (mRNA 기술))
     
 5. 임상 시험: IQVIA(US, [IQV](/company-analysis/iqv/)) (임상시험 관리), PPD(PPD) (임상시험 수탁기관)
@@ -119,9 +116,6 @@ NIH의 주요 "고객"은 연구 보조금 수혜자와 연구 결과를 활용�
 5. 병원 및 의료 시스템: Mayo Clinic(Mayo Clinic), Cleveland Clinic(Cleveland Clinic)
     
 6. 공중 보건 기관: CDC(CDC), WHO(WHO)
-
-{{< adsense-infeed >}}
-
 7. 환자 및 일반 대중: 의학 연구 결과의 최종 수혜자
 
 ## 주요 판매국가
@@ -132,9 +126,6 @@ NIH는 미국 정부 기관으로, 주로 미국 내 연구를 지원하지만 �
 NIH는 정부 기관이므로 직접적인 경쟁자는 없지만, 유사한 역할을 하는 다른 국가 및 국제 연구 자금 지원 기관들이 있습니다:
 
 1. Medical Research Council UK(Medical Research Council UK): 영국의 의학 연구 지원 기관
-
-{{< adsense-infeed >}}
-
 2. European Research Council(European Research Council): EU의 연구 지원 기관
 3. Japan Science and Technology Agency(Japan Science and Technology Agency): 일본의 과학기술 연구 지원 기관
     
@@ -167,9 +158,6 @@ NIH는 세계 최대의 생물의학 연구 자금 제공 기관으로, 2024년 
 ## 주요주주(지분율)
 
 NIH는 미국 연방 정부 기관으로, 주주가 없습니다. 미국 의회가 예산을 승인하고 보건복지부(HHS)가 감독합니다.
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 NIH 자체는 상장되어 있지 않지만, NIH 연구 자금 지원의 혜택을 받는 바이오테크 및 의약품 회사들이 포함된 ETF는 다음과 같습니다:

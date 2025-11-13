@@ -15,9 +15,6 @@ weight: 50
 - **Industry**: Specialty Chemicals (특수 화학)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Albemarle Corporation은 미국 노스캐롤라이나주 샬럿에 본사를 둔 글로벌 특수 화학 제조 기업입니다. 주로 [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/), 브롬, 촉매제 등의 특수 화학 제품을 개발, 제조 및 판매합니다. 회사는 3개의 주요 사업 부문으로 운영됩니다:
 1. 리튬 (2022년 매출의 68.4%)
 2. 브롬 특수제품 (2022년 매출의 19.3%)
@@ -27,9 +24,6 @@ Albemarle Corporation은 미국 노스캐롤라이나주 샬럿에 본사를 둔
 
 - **전방산업**:
     - 전기차 배터리, 소비자 전자제품, 건설, 자동차, 제약, 농작물 보호
-
-{{< adsense-infeed >}}
-
 - **후방산업**:
     - 광업, 원자재 공급
 ## 밸류체인
@@ -55,9 +49,6 @@ Albemarle은 전 세계적으로 사업을 운영하며, 북미, 남미, 유럽,
 - [Ganfeng Lithium](/company-analysis/ganfeng-lithium/)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2020년 기준으로 Albemarle은 전기차 배터리용 리튬 공급 분야에서 세계 최대 기업으로 자리매김했습니다. [Albemarle, SQM, FMC Corporation이 전 세계 리튬 및 리튬 저장 제품의 절반 이상을 생산]하고 있습니다.
 ## 최근 3년 내 주요 이슈
 

@@ -35,23 +35,14 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
     - **대표회사**: China National Tobacco Corporation (중국), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
 
 1. **1차 가공 (Primary Processing)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 잎의 건조 및 가공.
     - **대표회사**: Alliance One International (미국, AOI), Universal Corporation (미국, [UVV](/company-analysis/uvv/)).
-
-{{< adsense-infeed >}}
-
 1. **2차 가공 (Secondary Processing)**:
     
     - **설명**: 담배 제품 제조.
     - **대표회사**: Philip Morris International (미국, [PM](/company-analysis/pm/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
 
 1. **유통 (Distribution)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 제품의 유통 및 판매.
     - **대표회사**: Altria Group (미국, [MO](/company-analysis/mo/)), Imperial Brands (영국, [IMB](/company-analysis/imb/)).
 
@@ -60,9 +51,6 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
     - **대표회사**: 7-Eleven (일본, 3382), Walmart (미국, [WMT](/company-analysis/wmt/)).
 
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **잎담배**: Flue-cured, Burley, Oriental 등.
 - **가공담배**: 시가, 시가릴로, 무연담배 등.
 
@@ -74,9 +62,6 @@ Universal Corporation은 주로 잎담배의 조달, 자금 조달, 가공, 포�
 1. **Philip Morris International (미국, [PM](/company-analysis/pm/))**
     - **경쟁 제품**: Marlboro (궐련형 담배), IQOS (궐련형 전자담배)
     - **시장점유율**: 글로벌 시장 점유율 14% (2019년 기준)
-
-{{< adsense-infeed >}}
-
 1. **British American Tobacco (영국, [BATS](/company-analysis/bats/))**
     - **경쟁 제품**: Dunhill (궐련형 담배), Vuse (액상 전자담배)
     - **시장점유율**: 글로벌 시장 점유율 13% (2021년 기준)

@@ -17,16 +17,10 @@ weight: 980
 #### 영위사업 (Business Operations)
 
 WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO (Contract Research, Development and Manufacturing Organization), [CDMO](/industry-study/cdmo/)로, 생물학적 약물의 발견, 개발 및 제조를 지원합니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **생물학적 발견** (Biologics Discovery)
 - **개발 및 제조** (Development and Manufacturing)
 - **첨단 치료제** (Advanced Therapies)
 - **품질 관리** (Quality Control)
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업 (Upstream/Downstream Industries)
 
 - **전방산업:** 제약 및 바이오테크 기업 (신약 개발 및 상업화 지원)
@@ -41,9 +35,6 @@ WuXi Biologics는 글로벌 생명공학 기술 플랫폼을 제공하는 CRDMO 
     - 대표 기업: ICON plc (IE, ICLR), PPD (US, PPD)
 3. **제조 (Manufacturing)**
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품 (Key Products)
 - **단백질 생성** (Protein Generation)
 - **항체 생성** (Antibody Generation)

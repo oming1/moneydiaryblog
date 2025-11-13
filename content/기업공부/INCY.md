@@ -17,9 +17,6 @@ weight: 443
 ## 영위 사업
 
 Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 찾는 데 중점을 둔 글로벌 생물약제 회사입니다. 주로 종양학, 염증 및 자가면역 질환 분야의 혁신적인 의약품을 발견, 개발 및 상용화하는 데 주력하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - 전방 산업:
@@ -37,9 +34,6 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
     
     - Incyte는 자체적으로 신약을 발견하고 개발합니다.
     - 대표 기업: Gilead Sciences (미국, [GILD](/company-analysis/gild/)), Regeneron Pharmaceuticals (미국, [REGN](/company-analysis/regn/))
-
-{{< adsense-infeed >}}
-
 - 의약품 생산 및 판매:
     - 개발된 의약품을 생산하고 시장에 공급합니다.
     - 대표 기업: Novartis (스위스, [NVS](/company-analysis/nvs/)), Eli Lilly (미국, [LLY](/company-analysis/lly/))
@@ -57,13 +51,7 @@ Incyte Corporation은 심각한 미충족 의료 수요에 대한 해결책을 �
 - Novartis (스위스, [NVS](/company-analysis/nvs/)) - 종양학 및 면역학 치료제
 - Bristol Myers Squibb (미국, [BMY](/company-analysis/bmy/)) - 종양학 및 면역학 치료제
 - Eli Lilly (미국, [LLY](/company-analysis/lly/)) - 자가면역 질환 치료제
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 제공되지 않았지만, Incyte는 특정 희귀 질환 및 종양학 분야에서 주요 플레이어로 자리잡고 있습니다.
 ## 최근 3년 내 주요 이슈
 - Escient Pharmaceuticals 인수 완료 ($750 million 규모) (2024년)

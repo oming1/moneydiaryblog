@@ -17,13 +17,7 @@ weight: 264
 #### 영위사업
 
 듀폰은 특수 화학 제품을 제조 및 판매하는 글로벌 기업으로, 주요 사업 영역은 전자 및 산업, 수처리, 건축 자재, 영양 및 생명과학 등입니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 전자, 건설, 자동차, 식품 및 음료
     
     - **전자:** 반도체 및 전자 부품 제조. 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Samsung Electronics (한국, 005930).
@@ -46,9 +40,6 @@ weight: 264
     - 주요 기업: Ecolab (미국, ECL), SUEZ (프랑스, SEV).
 
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **전자 및 산업용 소재:** 반도체 및 전자 부품용 소재
 - **수처리 솔루션:** 정수 및 폐수 처리 솔루션
 - **건축 자재:** 고성능 건축 자재
@@ -60,9 +51,6 @@ weight: 264
 - **유럽:** 건축 자재 및 수처리 솔루션
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **전자 및 산업용 소재:** 3M (미국, [MMM](/company-analysis/mmm/)), Huntsman Corporation (미국, [HUN](/company-analysis/hun/)).
 - **수처리 솔루션:** Ecolab (미국, ECL), SUEZ (프랑스, SEV).
 - **건축 자재:** Saint-Gobain (프랑스, SGO), Owens Corning (미국, OC).

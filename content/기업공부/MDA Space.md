@@ -21,31 +21,19 @@ MDA Space는 지리공간정보, 로보틱스, 우주 운영, 위성 시스템 �
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 위성 통신, 지구 관측, 우주 탐사
     - 역할: 우주 기술 및 서비스 제공
     - 주요 기업: Telesat (캐나다, TSAT), Canadian Space Agency (캐나다 정부 기관)
     
 - 후방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 전자 부품, 소프트웨어 개발
     - 역할: MDA Space의 제품 제조에 필요한 부품 및 기술 지원
     - 주요 기업: Honeywell (미국, [HON](/company-analysis/hon/)), Thales Group (프랑스, HO)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 - 위성 시스템 설계 및 제조:
     
     - MDA Space는 다양한 위성 시스템을 설계하고 제조합니다.
     - 대표 기업: Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)), Airbus Defence and Space (프랑스, [AIR](/company-analysis/air/))
-
-{{< adsense-infeed >}}
-
 - 우주 로보틱스:
     
     - Canadarm 시리즈 등 우주 로봇 기술을 개발하고 제공합니다.
@@ -69,9 +57,6 @@ MDA Space는 주로 캐나다와 미국 시장에서 활동하며, 유럽과 아
 정확한 시장 점유율 데이터는 없으나, MDA Space는 캐나다 우주 산업에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - Telesat Canada와 198개의 소형 위성 제작 계약 체결 (2023년)
 - 토론토 증권거래소 상장 (2021년)
 - Canadarm3 개발 계약 체결 (2020년)

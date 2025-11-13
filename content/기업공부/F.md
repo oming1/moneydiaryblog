@@ -17,9 +17,6 @@ Industry: Auto Manufacturers (자동차 제조업)
 ## 회사 개요
 
 Ford Motor Company는 1903년에 설립된 미국의 다국적 자동차 제조업체로, 본사는 미시간주 디어본에 위치하고 있습니다. Ford는 자동차 및 상용차를 Ford 브랜드로 판매하며, 고급 자동차는 Lincoln 브랜드로 판매합니다. Ford는 대규모 제조 및 산업 인력 관리의 방법을 혁신하여 세계적으로 "Fordism"이라는 제조 방식을 확립했습니다.
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며, 전기차 및 하이브리드 차량의 개발에도 집중하고 있습니다. 또한, 금융 서비스와 자동차 부품의 판매도 포함됩니다.
@@ -29,17 +26,11 @@ Ford는 승용차, 트럭, SUV 및 상용차를 설계, 제조 및 판매하며,
 - 역할: 자동차 및 부품 구매
 - 자동차 소매업체: AutoNation (US, [AN](/company-analysis/an/))
 - 차량 대여업체: Hertz Global Holdings (US, [HTZ](/company-analysis/htz/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 역할: 부품 및 원자재 공급
 - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/))
 - 금속 공급: Alcoa (US, [AA](/company-analysis/aa/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Ford F-Series (픽업 트럭, 매출 비중: 약 30%, 2023년 기준)
@@ -61,18 +52,12 @@ Ford는 전 세계적으로 판매되고 있으며, 주요 시장은 다음과 �
 - 특허 포트폴리오: 자동차 기술 및 혁신 관련 특허
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - General Motors (US, [GM](/company-analysis/gm/)) - 미국의 주요 자동차 제조업체
 - Toyota Motor Corporation (JP, 7203) - 글로벌 자동차 제조업체
 - [Volkswagen](/company-analysis/volkswagen/) Group (DE, VOW) - 유럽의 주요 자동차 제조업체
 
 ## 산업 내 글로벌 시장 점유율
 Ford는 2022년 기준으로 세계에서 여섯 번째로 큰 자동차 제조업체로, 미국 내에서 두 번째로 큰 자동차 제조업체입니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 자세한 종목 정보 링크
 
 [Ford Motor Company - Wikipedia](https://en.wikipedia.org/wiki/Ford_Motor_Company)

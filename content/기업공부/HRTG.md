@@ -43,16 +43,10 @@ weight: 419
 - **Allstate Corporation (미국, ALL)**: 재산 및 상해 보험
 - **Progressive Corporation (미국, [PGR](/company-analysis/pgr/))**: 재산 및 상해 보험
 - **State Farm (미국, 비상장)**: 재산 및 상해 보험
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
 - **Heritage Insurance**: 미국 내 재산 및 상해 보험 시장에서 약 1%의 점유율 (2023년 기준)
 - **Heritage Insurance**: 미국 내 재산 및 상해 보험 시장에서 약 1%의 점유율 (2023년 기준)
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **허리케인 이안**: 플로리다 지역에 큰 피해를 입혀 보험 청구 급증 (2022년)
 - **디지털 전환**: 온라인 보험 청구 시스템 강화 (2023년)
 - **재보험 비용 증가**: 재보험 비용 상승으로 인한 수익성 압박 (2024년)

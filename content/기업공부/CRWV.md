@@ -22,9 +22,6 @@ CoreWeave Inc.는 AI 및 고성능 컴퓨팅(HPC)에 특화된 클라우드 인�
 ## 섹터
 
 #정보기술 (Information Technology, 정보기술)
-
-{{< adsense-infeed >}}
-
 ## 산업
 
 #소프트웨어애플리케이션 (Software - Application, 소프트웨어 애플리케이션)
@@ -114,9 +111,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 전방산업
 
 - **AI 개발사**: OpenAI(비상장) - 대규모 모델 학습
-
-{{< adsense-infeed >}}
-
 - **클라우드 서비스**: Microsoft(US, [MSFT](/company-analysis/msft/)) - Azure 연동
     
 - **자동차 OEM**: Tesla(US, [TSLA](/company-analysis/tsla/)) - 자율주행 학습
@@ -170,9 +164,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 주요고객
 
 1. Microsoft(US, [MSFT](/company-analysis/msft/)) - Azure AI 연동 서비스
-
-{{< adsense-infeed >}}
-
 2. OpenAI(비상장) - GPT 모델 학습 인프라
     
 3. IBM(US, [IBM](/company-analysis/ibm/)) - Watsonx 플랫폼 구축
@@ -192,9 +183,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 ## 주요 판매국가
 
 - **미국**: 매출의 82% (23개 데이터센터)
-
-{{< adsense-infeed >}}
-
 - **영국**: 12% (런던·맨체스터 센터)
     
 - **캐나다**: 4% (토론토 센터)
@@ -275,9 +263,6 @@ _클라우드 서비스 기업으로 물리적 제조 공정 없음_
 1. Global X Cloud Computing ETF - CLOU
     
 2. Global X Artificial Intelligence & Technology ETF - AIQ
-
-{{< adsense-infeed >}}
-
 3. iShares Expanded Tech-Software Sector ETF - IGV
     
 4. Invesco AI and Next Gen Software ETF - IGPT

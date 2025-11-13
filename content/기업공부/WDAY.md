@@ -32,9 +32,6 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
 ## 밸류체인
 
 - 소프트웨어 개발:
-
-{{< adsense-infeed >}}
-
     - Workday는 자체적으로 클라우드 기반 솔루션을 개발합니다.
     - 대표 기업: SAP (독일, SAP), Oracle (미국, [ORCL](/company-analysis/orcl/))
     
@@ -59,9 +56,6 @@ Workday는 기업용 클라우드 기반 재무 관리, 인적 자본 관리, �
 - ADP Workforce Now (미국, ADP)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Workday는 HR 및 재무 관리 소프트웨어 시장에서 주요 플레이어 중 하나로, Fortune 500 기업의 60% 이상이 Workday를 사용하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

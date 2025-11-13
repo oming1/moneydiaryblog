@@ -43,9 +43,6 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
     
     - **설명**: 담배 제품 제조.
     - **대표회사**: Philip Morris International (미국, [PM](/company-analysis/pm/)), British American Tobacco (영국, [BATS](/company-analysis/bats/)).
-
-{{< adsense-infeed >}}
-
 1. **유통 (Distribution)**:
     
     - **설명**: 담배 제품의 유통 및 판매.
@@ -64,9 +61,6 @@ Imperial Brands는 주로 [일반 궐련](/industry-study/일반-궐련/), [궐�
 - **주요 판매국가**: 유럽, 아프리카, 아시아 (2023년 기준)
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. **Philip Morris International (미국, [PM](/company-analysis/pm/))**
     
     - **경쟁 제품**: Marlboro (궐련형 담배), IQOS (궐련형 전자담배)

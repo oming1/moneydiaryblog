@@ -14,9 +14,6 @@ weight: 859
 - 2025년
 	- 2025-03-05, 유전체 분석과 AI 결합, 견조한 실적과 투심 견인
 		- 유전체 분석(NGS) 기반 진단기기 기업 템퍼스 AI의 2월 중순 이후 주가 급락은 매수 기회가 될 수 있다. 
-
-{{< adsense-infeed >}}
-
 		  템퍼스 AI는 유전체 진단기기로 암 진단과 처방 부문의 실적 성장세가 견조하다. 특히 사업 영역이 암 진단을 넘어 AI 기반으로 개인 맞춤형 처방으로 확장되고 있다. 
 		  
 		  유전성 암 진단 기업 앰브리 제네틱스(Ambry Genetics) 인수로 심혈관, 신경질환 등 적응증을 확대해 나갈 전망이다. 
@@ -33,17 +30,11 @@ Industry: 컴퓨터 소프트웨어(Computer Software)
 ## 영위사업
 
 Tempus AI, Inc.는 2015년 Eric Lefkofsky가 설립한 [헬스케어](/industry-study/2산업헬스케어/) 기술 기업입니다. 회사는 인공지능(AI)과 머신러닝을 활용하여 정밀 의학 솔루션을 개발하는 데 주력하고 있습니다. 주요 사업 영역은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 유전체학(Genomics): 차세대 시퀀싱(NGS) 진단, PCR 프로파일링, 기타 해부학 및 분자 병리 검사를 제공합니다.
 2. 데이터 및 서비스(Data and Services): 생명과학 기업들을 위한 약물 발견 및 개발을 지원합니다. 주요 제품으로는 Insights(대규모 다중 모달 헬스케어 데이터 접근)와 Trials(임상 시험 매칭 서비스)가 있습니다.
 3. AI 애플리케이션(AI Applications): AI 기반 분석 도구를 제공합니다.
 
 Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에서 정밀 의학 솔루션을 개발하고 있습니다. 회사는 시카고에 본사를 두고 있으며, 뉴욕, 샌프란시스코 베이 에리아, 보스턴에 사무실을 운영하고 있습니다. 또한 시카고, 애틀랜타, 리서치 트라이앵글 파크에 CAP/CLIA 인증 실험실을 보유하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 전방산업
@@ -52,9 +43,6 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 - 제약 회사: Pfizer (US, [PFE](/company-analysis/pfe/)), Moderna (US, [MRNA](/company-analysis/mrna/))
 - 연구 기관: 대학, 연구소
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 데이터 센터 및 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
 - 반도체 제조: NVIDIA (US, [NVDA](/company-analysis/nvda/)), Intel (US, [INTC](/company-analysis/intc/))
 ## 밸류체인
@@ -75,9 +63,6 @@ Tempus AI는 종양학, 심장병학, 우울증 등 다양한 질병 영역에�
 ## 주요 판매국가
 Tempus AI는 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Illumina (US, [ILMN](/company-analysis/ilmn/)) (유전체 시퀀싱 기술)
 2. Guardant Health (US, GH) (액체 생검 기술)
 3. Foundation Medicine (Roche 소유) (종양 프로파일링)

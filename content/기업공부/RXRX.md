@@ -60,9 +60,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 5. 주요 제약회사들과의 전략적 파트너십
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 제약산업: 신약 개발 및 상용화 (Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/)))
@@ -104,9 +101,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 현재 대부분의 제품이 임상 단계에 있어 주요 고객은 아직 확립되지 않았으나, 잠재적 고객으로는 다음과 같은 기관들이 있습니다:
 
 1. 대형 제약회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Novartis(CH, [NVS](/company-analysis/nvs/))
-
-{{< adsense-infeed >}}
-
 2. 바이오테크 기업: Gilead Sciences(US, [GILD](/company-analysis/gild/)), Biogen(US, [BIIB](/company-analysis/biib/))
     
 3. 연구기관: National Institutes of Health(US, [NIH](/company-analysis/nih/)), Mayo Clinic(Mayo Clinic)
@@ -137,9 +131,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 2. REC-617(CDK7 억제제) 임상 1상에서 유망한 안전성 및 예비 효능 데이터 보고 (2025년)
     
 3. REC-994의 뇌혈관기형(CCM) 치료제 임상 2상 주요 평가지표 달성 (2025년)
-
-{{< adsense-infeed >}}
-
 4. Roche 및 Genentech와의 파트너십에서 첫 번째 신경-페노맵 전달 (2024년)
     
 5. AI를 활용한 임상시험 최적화 'ClinTech' 이니셔티브 시작 (2025년)
@@ -152,9 +143,6 @@ AI를 활용한 고속 실험 플랫폼과 이미지 기반 분석을 통해 더
 3. State Street Corporation (4.47%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. ARK Genomic Revolution ETF - ARKG
 2. iShares Biotechnology ETF - IBB
 3. SPDR S&P Biotech ETF - XBI

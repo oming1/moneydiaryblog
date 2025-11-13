@@ -25,9 +25,6 @@ MongoDB, Inc.(NASDAQ: MDB)는 오픈 소스 데이터베이스 관리 시스템�
 최근 1년 내 주요 이슈로는 AI 애플리케이션 프로그램(MAAP)의 확장, MongoDB 8.0 출시, Microsoft와의 협업 강화 등이 있습니다. 이러한 혁신은 고객이 데이터 기반의 결정을 내릴 수 있도록 지원합니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 MongoDB의 핵심 경쟁력은 다음과 같습니다:
 
 1. 유연한 데이터 모델: NoSQL 아키텍처를 통해 비정형 데이터를 쉽게 저장하고 처리할 수 있는 능력
@@ -51,9 +48,6 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - 보안 솔루션: Okta(US, [OKTA](/company-analysis/okta/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 데이터베이스 설계: MongoDB(US, [MDB](/company-analysis/mdb/)) (문서 지향 데이터베이스 설계)
 2. 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)) (클라우드 호스팅)
 3. 애플리케이션 개발: 다양한 기업 (MongoDB API 통합)
@@ -74,9 +68,6 @@ MongoDB의 핵심 경쟁력은 다음과 같습니다:
 - Bosch(DE, BOSCH) - 기술 및 서비스 제공
 - Forbes Media - 미디어 및 출판
 - Verizon(US, [VZ](/company-analysis/vz/)) - 통신 서비스 제공업체
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Oracle Corporation(US, [ORCL](/company-analysis/orcl/)) - 관계형 데이터베이스
@@ -104,9 +95,6 @@ MongoDB는 2024년 기준 NoSQL 데이터베이스 시장에서 약 6%의 점유
 - Jennison Associates LLC (4.20%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares Expanded Tech-Software Sector ETF - IGV
 - First Trust Cloud Computing ETF - SKYY
 - Global X Cloud Computing ETF - CLOU

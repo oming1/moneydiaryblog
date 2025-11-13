@@ -63,9 +63,6 @@ DraftKings Inc.는 2012년 설립된 미국 기반의 [디지털 스포츠 엔�
 ---
 
 ## **핵심 경쟁력**
-
-{{< adsense-infeed >}}
-
 **1. 강력한 브랜드 인지도 및 고객 충성도** 미국 스포츠 베팅 시장에서 FanDuel에 이어 2위 위치를 공고히 하며, 약 32% 시장점유율을 보유합니다. 높은 브랜드 인지도를 바탕으로 신규 시장 진입 시 빠른 점유율 확보가 가능합니다.
 **2. 기술 혁신 및 사용자 경험 최적화** AI 기반 개인화 추천 시스템, 실시간 라이브 베팅 기능, 직관적 모바일 인터페이스를 통해 업계 최고 수준의 사용자 경험을 제공합니다. 최근 인수한 Simplebet, Sports IQ Analytics를 통해 라이브 베팅 기술을 더욱 강화했습니다.
 
@@ -228,18 +225,12 @@ DraftKings Inc.는 2012년 설립된 미국 기반의 [디지털 스포츠 엔�
 - **2025년 가이던스**: 매출 $63-66B (32-38% 성장), 조정 EBITDA $9-10B
 
 **주요 성장 동력:**
-
-{{< adsense-infeed >}}
-
 - 추가 주에서의 스포츠 베팅 합법화 확산
 - 라이브 베팅 비중 확대로 마진 개선
 - AI 기반 개인화로 고객당 수익 증대
 - Jackpocket을 통한 크로스셀링 기회 확대
 
 **위험 요소:**
-
-{{< adsense-infeed >}}
-
 - 각 주별 상이한 규제 환경과 세율 변화 리스크
 - 치열한 마케팅 경쟁으로 인한 고객 획득 비용 상승 가능성
 - 거시경제 둔화 시 소비자 가처분소득 감소 영향
@@ -273,9 +264,6 @@ DraftKings Inc.는 2012년 설립된 미국 기반의 [디지털 스포츠 엔�
 - **BETZ** - Roundhill Sports Betting & iGaming ETF BETZ
 - **GAMR** - Wedbush ETFMG Video Game Tech ETF GAMR
 - **BJK** - VanEck Gaming ETF BJK
-
-{{< adsense-infeed >}}
-
 **섹터 관련 ETF:**
 
 - **XLY** - Consumer Discretionary Select Sector SPDR Fund XLY

@@ -161,9 +161,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 **귀리 제품:** 귀리 기반 기능성 원료, 매출비중 약 10% (2024년 기준), 주요 용도 건강식품  
 
 **애완동물 사료 원료:** 프리미엄 펫푸드 단백질, 매출비중 약 5% (2024년 기준), 주요 용도 고급 펫푸드
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 🧱 주된 영향을 미치는 원자재
@@ -241,9 +238,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 
 **- Burcon NutraScience (CA, BU.TO)**  
 식물성 단백질 기술 및 원료 개발업체
-
-{{< adsense-infeed >}}
-
 **- The Scoular Company (US, Private)**  
 곡물 거래 및 식품 원료 가공업체
 
@@ -273,9 +267,6 @@ Above Food Ingredients Inc.은 캐나다 서스캐처원주 리자이나에 본�
 ---
 
 ## 🚀 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 **재무 성과:**
 
 - 2024년 상반기 매출: 6,520만 달러 (CAD 9,000만 달러)

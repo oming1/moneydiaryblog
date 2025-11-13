@@ -24,9 +24,6 @@ Antero Resources Corporation(AR)은 미국 애팔래치아 분지의 마르셀�
 2. 석유 생산: 천연가스와 NGL에 비해 비중은 낮음
 3. 미드스트림 사업: Antero Midstream Corporation과의 파트너십을 통한 수집, 압축, 처리, 수송 서비스
 4. 마케팅: 생산된 자원의 국내외 판매
-
-{{< adsense-infeed >}}
-
 2023년 말 기준 18.1조 입방피트의 천연가스 등가물에 해당하는 확인 매장량을 보유하고 있으며, 2023년 일일 평균 생산량은 3,483백만 입방피트 등가물입니다.
 
 ## 핵심 경쟁력
@@ -83,9 +80,6 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 5. Cabot Oil & Gas(US, COG)
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Antero Resources는 미국 내 주요 천연가스 및 NGL 생산업체 중 하나로 인식되고 있습니다.
 ## 최근 3년 내 주요 이슈
 
@@ -102,9 +96,6 @@ Antero Resources는 주로 미국 시장에서 사업을 영위하고 있으며,
 3. BlackRock Advisors LLC: 8.073%
 4. Wellington Trust Co., NA: 5.611%
 5. Paul Rady: 5.415%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 1. SPDR S&P Oil & Gas Exploration & Production ETF - XOP
 2. iShares U.S. Oil & Gas Exploration & Production ETF - IEO

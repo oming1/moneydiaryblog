@@ -31,9 +31,6 @@ weight: 768
 ---
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Salem Media Group Inc는 1974년 Stuart Epperson과 Edward G. Atsinger III가 설립한 미국의 멀티미디어 기업으로, 기독교 및 보수 성향의 콘텐츠에 특화된 미국 최대 규모의 미디어 회사입니다. 회사는 101개의 라디오 방송국을 운영하며, 38개 시장에서 서비스를 제공하고 있습니다.
 
 **주요 사업부문**으로는 방송 부문(라디오 방송국 운영), 디지털 미디어 부문(Townhall.com, RedState, Hot Air, PJ Media 등), 출판 부문(기독교 테마 잡지 및 도서)으로 구성됩니다. Charlie Kirk Show가 Apple Podcasts에서 보수 팟캐스트 1위, 전체 2위를 기록하는 등 디지털 영향력이 급성장하고 있습니다.
@@ -198,9 +195,6 @@ Salem Media Group은 미국 내 기독교 및 보수 성향 오디언스를 대�
 **기관 투자자**: 2.52% (매우 낮은 수준) **내부자**: 정확한 비율 공개되지 않음 **개인 및 기타**: 대부분
 
 **주요 기관 투자자** (소량 보유):
-
-{{< adsense-infeed >}}
-
 - Mink Brook Asset Management LLC: 527K 주 (2.00%)
 - Gabelli Funds, LLC: 소량 보유
 - Bridgeway Capital Management, LLC: 63K 주 (0.23%)

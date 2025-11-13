@@ -29,9 +29,6 @@ Nordstrom, Inc.는 1901년 설립된 미국의 고급 백화점 체인으로, �
 5. 자체 브랜드: Halogen, BP, Caslon, Zella, Treasure & Bond
 ## 주요 판매국가
 미국 및 캐나다 전역, 28개 주에 376개 매장 운영
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. Macy's (US, [M](/company-analysis/m/))
 2. Dillard's (US, [DDS](/company-analysis/dds/))
@@ -39,9 +36,6 @@ Nordstrom, Inc.는 1901년 설립된 미국의 고급 백화점 체인으로, �
 4. Saks Fifth Avenue
 5. TJX Companies (US, [TJX](/company-analysis/tjx/))
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2014-2023년 캐나다 시장 진출 및 철수
 2. 2017년 Nordstrom Local 컨셉 매장 도입
 3. 2014년 NordstromRack.com 론칭

@@ -34,9 +34,6 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 4. **강력한 고객 관계**: 미국 정부 및 방산 기업들과의 장기 계약 체결
 5. **재무 건전성**: 안정적인 수익원과 강력한 현금 흐름 유지
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 정부 기관: 미국 국방부, 정보기관
@@ -47,9 +44,6 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - 소프트웨어 개발: Microsoft(US, [MSFT](/company-analysis/msft/)), Oracle(US, [ORCL](/company-analysis/orcl/))
 - 데이터 분석 서비스: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Splunk(US, [SPLK](/company-analysis/splk/))
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. **연구개발**: CACI(US, [CACI](/company-analysis/caci/)) (신기술 개발)
@@ -65,24 +59,15 @@ CACI International Inc.(NYSE: CACI)는 미국의 다국적 정보 기술 및 전
 - 임상시험 지원 서비스: 의료 연구를 위한 데이터 관리 및 분석
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 - 미국 국방부(DoD): 방산 관련 IT 솔루션
 - CIA(중앙정보국): 정보 분석 및 보안 시스템
 - FBI(연방수사국): 사이버 보안 및 데이터 관리
 - Lockheed Martin(US, [LMT](/company-analysis/lmt/)): 방산 관련 협력
 - Northrop Grumman(US, [NOC](/company-analysis/noc/)): 방산 관련 IT 솔루션 제공
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 미국을 중심으로 유럽 및 아시아 일부 국가에서 활동 중입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Booz Allen Hamilton Holding Corp(US, BAH): 방산 컨설팅 및 IT 서비스 제공
 - Leidos Holdings Inc(US, [LDOS](/company-analysis/ldos/)): 방산 및 정보 기술 서비스 제공
 - Science Applications International Corporation(US, SAIC): 방산 및 IT 솔루션 제공

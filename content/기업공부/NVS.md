@@ -48,18 +48,12 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
     - 의약품 유통: McKesson (US, [MCK](/company-analysis/mck/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. R&D: Novartis (자체 연구소)
 2. 임상시험: IQVIA (US, [IQV](/company-analysis/iqv/))
 3. 제조: Novartis (자체 생산시설), Lonza Group (CH, [LONN](/company-analysis/lonn/))
 4. 유통: McKesson (US, [MCK](/company-analysis/mck/)), AmerisourceBergen (US, [ABC](/company-analysis/abc/))
 5. 판매: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 코센틱스 (건선, 건선성 관절염 치료제)
 2. 엔트레스토 (심부전 치료제)
 3. 케스임타 (다발성 경화증 치료제)
@@ -101,9 +95,6 @@ Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제�
 3. Credit Suisse Asset Management: 2.5%
 4. BlackRock: 2.3%
 5. Norges Bank Investment Management: 2.2%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - iShares Global Healthcare ETF IXJ

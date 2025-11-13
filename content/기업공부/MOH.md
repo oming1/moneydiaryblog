@@ -23,9 +23,6 @@ weight: 580
 - **후방산업**:
     - **의료 기기 제조**: 의료 기기 제조업체로부터 장비를 공급받음. 예: Medtronic (미국, [MDT](/company-analysis/mdt/)).
     - **의약품 제조**: 제약 회사로부터 의약품을 공급받음. 예: Pfizer (미국, [PFE](/company-analysis/pfe/)).
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 - **계약 및 네트워크 관리**: 의료 제공자와의 계약 체결 및 네트워크 관리. 대표 회사: Molina Healthcare 자체 네트워크.
 - **보험 상품 개발**: 다양한 보험 상품 개발. 대표 회사: Molina Healthcare 자체 개발팀.
@@ -44,9 +41,6 @@ weight: 580
 - 미국: Molina Healthcare의 모든 서비스는 미국 내에서 제공됩니다.
 
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **유나이티드헬스 그룹 (미국, [UNH](/company-analysis/unh/))**: 관리 의료 서비스 (Medicaid, Medicare).
 - **안섬 (미국, [ANTM](/company-analysis/antm/))**: 관리 의료 서비스 (Medicaid, Medicare).
 - **센테네 (미국, CNC)**: 관리 의료 서비스 (Medicaid, Medicare).

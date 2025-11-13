@@ -18,21 +18,12 @@ TransMedics Group, Inc.(TMDX)는 장기 이식 치료를 혁신하는 의료 기
 
 ## 영위사업
 TransMedics는 말기 장기 부전 환자를 위한 장기 이식 치료를 혁신하는 상용 단계의 의료 기술 회사입니다. 주요 제품인 Organ Care System(OCS)은 인체 외부에서 공여 장기를 보존, 최적화 및 모니터링하는 휴대용 시스템으로, 폐, 심장, 간 이식을 위한 솔루션을 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 ## 후방산업
 ## 후방산업
 - 의료 장비 제조업체
 - 반도체 제조업체: TSMC(TW, [TSM](/company-analysis/tsm/))
-
-{{< adsense-infeed >}}
-
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 병원 및 의료기관
 - 장기 이식 센터
 

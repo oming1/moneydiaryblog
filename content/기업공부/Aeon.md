@@ -15,25 +15,13 @@ weight: 35
 
 ### 영위사업
 Aeon Co., Ltd.는 일본 및 국제적으로 다양한 소매 서비스를 제공하는 회사입니다. 주요 사업으로는 슈퍼마켓, 할인점, 편의점, 소규모 슈퍼마켓, 전문점, 약국, 전자상거래 등이 있습니다
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - **소매업체:** Seven & I Holdings (JP, 3382), Lawson (JP, 2651)
 - **전자상거래:** Rakuten (JP, 4755), Amazon (US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 - **물류업체:** Yamato Holdings (JP, 9064), Sagawa Express (JP, 9069)
 - **제조업체:** Unicharm (JP, 8113), Kao Corporation (JP, 4452)
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 
 Aeon의 밸류체인은 다양한 소매 서비스 제공을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
@@ -58,9 +46,6 @@ Aeon의 밸류체인은 다양한 소매 서비스 제공을 포함합니다. �
 - **Seven & I Holdings (JP, 3382):** 소매 (시장 점유율 20%)
 - **Lawson (JP, 2651):** 소매 (시장 점유율 15%)
 - **Rakuten (JP, 4755):** 전자상거래 (시장 점유율 10%)
-
-{{< adsense-infeed >}}
-
 ### 산업 내 글로벌 시장 점유율
 
 Aeon Co., Ltd.의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다

@@ -19,9 +19,6 @@ weight: 966
 산업: #천연가스 #파이프라인
 
 ## 사업 현황
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Williams Companies(NYSE: WMB)는 미국의 주요 에너지 인프라 기업으로, [천연가스](/industry-study/천연가스/) 처리, 수송, 저장을 전문으로 합니다. 주요 사업 부문은 송전 및 멕시코만, 북동부 G&P, 서부, 가스 및 [NGL](/industry-study/ngl/) 마케팅 서비스입니다. 회사는 33,000마일의 파이프라인 네트워크를 보유하고 있으며, 주요 자산으로는 Transco와 Northwest Pipeline이 있습니다. Williams는 마르셀러스, 유티카, 바넷, 이글 포드, 헤인즈빌 등 주요 셰일 지역에서 미드스트림 활동을 수행합니다.
@@ -32,9 +29,6 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 ## 산업 구조
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 전력 생산: NextEra Energy(US, [NEE](/company-analysis/nee/)), Duke Energy(US, [DUK](/company-analysis/duk/))
 - 산업용 에너지: Dow Chemical(US, [DOW](/company-analysis/dow/)), ExxonMobil(US, [XOM](/company-analysis/xom/))
 - 주거 및 상업용 난방: Atmos Energy(US, [ATO](/company-analysis/ato/))
@@ -46,9 +40,6 @@ Williams Companies의 핵심 경쟁력은 광범위한 천연가스 인프라 �
 - 파이프라인 장비: Caterpillar(US, [CAT](/company-analysis/cat/)), Baker Hughes(US, [BKR](/company-analysis/bkr/))
 - 천연가스 처리 기술: Honeywell(US, [HON](/company-analysis/hon/)), Schlumberger(US, [SLB](/company-analysis/slb/))
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 천연가스 생산: EQT Corporation(US, [EQT](/company-analysis/eqt/)), Chesapeake Energy(US, CHK)
 2. 천연가스 수집: Williams Companies(US, [WMB](/company-analysis/wmb/)), Kinder Morgan(US, [KMI](/company-analysis/kmi/))
 3. 천연가스 처리: Williams Companies(US, [WMB](/company-analysis/wmb/)), ONEOK(US, [OKE](/company-analysis/oke/))
@@ -75,9 +66,6 @@ Chevron(US, [CVX](/company-analysis/cvx/)), ExxonMobil(US, [XOM](/company-analys
 ## 경쟁 현황
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Energy Transfer(US, [ET](/company-analysis/et/)), TC Energy(CA, TRP), ONEOK(US, [OKE](/company-analysis/oke/)), Enbridge(CA, ENB), Enterprise Products Partners(US, [EPD](/company-analysis/epd/)), Cheniere Energy(US, [LNG](/industry-study/lng/)), Plains All American Pipeline(US, PAA), Targa Resources(US, [TRGP](/company-analysis/trgp/)), Magellan Midstream Partners(US, MMP)
 
 ## 산업 내 글로벌 시장 점유율
@@ -108,7 +96,4 @@ Williams Companies는 미국 천연가스 파이프라인 시장에서 약 15%�
 - Vanguard Energy ETF - VDE
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

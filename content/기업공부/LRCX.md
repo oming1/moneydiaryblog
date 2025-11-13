@@ -19,9 +19,6 @@ weight: 529
 			  
 			  램 리서치의 25년 3분기 (1~3월) 매출액은 47.2억 달러 (+24.4% YoY), 주당순이익은 1.04달러 (+33.3% YoY)를 기록하며 시장예상치를 각 1.7%, 3.9% 상회했다. 게이트 올어라운드 노드와 고급 패키징 기술의 높은 수요로 파운드리 사업 매출은 역대 최고치를 달성했다. 
 			  [중국](/industry-study/4국가중국/) 시장 매출 비중은 31% (전 분기 동일)로 [수출 규제 적용이 안되는 중국 로컬 기업 주문이 늘어났다]. 매출총이익률은 49.0% (+1.53%p YoY), 영업이익률은 32.8% (+2.50%p YoY)로 기존 회사가 제시한 가이던스의 상단을 달성했다.
-
-{{< adsense-infeed >}}
-
 			  리스크 요인으로는 1) 관세 여파, 2) 수출 규제, 3) 반도체 업황 등이 있다.
 #### 산업섹터 및 영위사업
 
@@ -37,18 +34,12 @@ weight: 529
     - **관련 기업**: Applied Materials Inc. (미국, [AMAT](/company-analysis/amat/)), ASML Holding N.V. (네덜란드, [ASML](/company-analysis/asml/))
 
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발**: 반도체 장비 기술 연구 및 개발
     - **대표 회사**: Applied Materials Inc. (미국, [AMAT](/company-analysis/amat/)), ASML Holding N.V. (네덜란드, [ASML](/company-analysis/asml/))
 - **제조 및 생산**: 반도체 장비 제조 및 생산
     - **대표 회사**: KLA Corporation (미국, [KLAC](/company-analysis/klac/)), Tokyo Electron Limited (일본, 8035)
 - **유통 및 판매**: 반도체 장비 유통 및 판매
     - **대표 회사**: Lam Research Corporation (미국, [LRCX](/company-analysis/lrcx/)), Hitachi High-Tech Corporation (일본, 8036)
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 - **웨이퍼 가공 장비**: ALTUS 시스템 (텅스텐 금속화 응용), SABRE 전기화학 증착 제품 (구리 인터커넥트)
 - **플라즈마 화학 기상 증착 장비**: VECTOR, SPEED

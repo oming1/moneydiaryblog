@@ -69,9 +69,6 @@ Alphabet의 비즈니스 모델은 광고 기반 플랫폼 생태계를 중심�
 ---
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 Alphabet의 핵심 경쟁력은 압도적인 검색 시장 지배력과 데이터 기반 광고 플랫폼입니다. 전 세계 검색 시장의 89.5%를 점유하며, 하루 85억 회 이상의 검색이 이루어집니다. 이를 통해 수집되는 막대한 사용자 데이터는 정교한 광고 타겟팅의 기반이 되어 높은 광고 효율성을 제공합니다.
 
 AI와 머신러닝 기술력도 독보적입니다. 검색 알고리즘 최적화, 유튜브 추천 시스템, 번역 서비스 등 모든 서비스에 AI 기술이 적용되어 있습니다. 특히 2024년 출시된 Gemini AI 모델은 OpenAI의 ChatGPT와 경쟁하며 차세대 AI 경쟁에서 핵심 역할을 하고 있습니다.
@@ -330,9 +327,6 @@ Other Bets 부문의 웨이모 자율주행 기술도 주목할 만합니다. �
 
 - iShares MSCI World Information Technology ETF - WCLD
 - First Trust Cloud Computing ETF - SKYY
-
-{{< adsense-infeed >}}
-
 **AI/클라우드 특화 ETF:**
 
 - Global X Cloud Computing ETF - CLOU

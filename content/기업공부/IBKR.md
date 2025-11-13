@@ -15,26 +15,17 @@ weight: 434
 
 - **Sector**: 금융 서비스 (Financial Services)
 - **Industry**: 자본 시장 (Capital Markets)
-
-{{< adsense-infeed >}}
-
 **영위사업**: Interactive Brokers Group Inc.는 전 세계적으로 자동화된 전자 브로커로 운영됩니다. 이 회사는 주식, 옵션, 선물, 외환, 채권, 뮤추얼 펀드, 상장지수펀드(ETFs), 귀금속 및 암호화폐 거래의 실행, 청산 및 결제를 담당합니다. 또한 헤지 펀드, 뮤추얼 펀드, 상장지수펀드, 등록된 투자 자문사, 독점 거래 그룹, 소개 브로커 및 개인 투자자를 위한 계좌 보관 및 서비스를 제공합니다
 **전방/후방산업**:
 - **전방산업**:
     - **투자 자문**: 투자 전략 및 자문 서비스 제공. 주요 기업: BlackRock (US, [BLK](/company-analysis/blk/)), Vanguard.
     - **헤지 펀드**: 고위험, 고수익 투자 전략 운영. 주요 기업: Bridgewater Associates, Renaissance Technologies.
-
-{{< adsense-infeed >}}
-
 - **후방산업**:
     - **금융 기술**: 거래 플랫폼 및 기술 솔루션 제공. 주요 기업: Nasdaq (US, NDAQ), CME Group (US, CME).
     - **데이터 제공**: 금융 데이터 및 분석 서비스 제공. 주요 기업: Bloomberg, Refinitiv.
 **밸류체인**:
 
 - **거래 플랫폼 개발**: 자동화된 전자 거래 플랫폼 개발. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Charles Schwab (US, [SCHW](/company-analysis/schw/)).
-
-{{< adsense-infeed >}}
-
 - **거래 실행 및 청산**: 주식, 옵션, 선물 등 거래의 실행 및 청산. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), TD Ameritrade (US, [AMTD](/company-analysis/amtd/)).
 - **계좌 보관 및 서비스**: 투자자 계좌 보관 및 서비스 제공. 주요 기업: Interactive Brokers (US, [IBKR](/company-analysis/ibkr/)), Fidelity Investments.
 **주요제품**:

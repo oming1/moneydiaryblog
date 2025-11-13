@@ -53,9 +53,6 @@ LoanDepot는 AI와 디지털 기술을 활용한 빠른 대출 승인(최대 30�
 
 - **주된 원자재 및 공급망**  
     LoanDepot은 금융 서비스 회사로 직접 원자재를 사용하지 않으나, IT 인프라(서버, 소프트웨어)를 조달합니다. 공급망은 클라우드 제공자(AWS, Microsoft)와 데이터 센터로 구성되며, 디지털 보안을 위해 사이버 보안 파트너를 활용합니다.
-
-{{< adsense-infeed >}}
-
 - **최근 주요 이슈**
     - 2024년: 개인 대출 사업 확대와 AI 대출 시스템 업그레이드.
     - 2025년: mellohome 서비스 강화와 국제 시장 검토.
@@ -116,13 +113,7 @@ LoanDepot는 AI와 디지털 기술을 활용한 빠른 대출 승인(최대 30�
 ---
 
 ### 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (제품 사용 산업):**
-
-{{< adsense-infeed >}}
-
 - 부동산: 주택 구매자.
 - 개인 금융: 대출 수요자.
 
@@ -130,9 +121,6 @@ LoanDepot는 AI와 디지털 기술을 활용한 빠른 대출 승인(최대 30�
 
 - IT: Microsoft(US, [MSFT](/company-analysis/msft/)).
 - 데이터: Equifax(US, EFX).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 밸류체인
@@ -184,9 +172,6 @@ LoanDepot는 AI와 디지털 기술을 활용한 빠른 대출 승인(최대 30�
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Rocket Companies(US, [RKT](/company-analysis/rkt/)) - 디지털 모기지, 시장점유율 10%.
 - LendingTree(US, [TREE](/company-analysis/tree/)) - 대출 비교, 시장점유율 5%.
 - SoFi Technologies(US, [SOFI](/company-analysis/sofi/)) - 개인 대출, 시장점유율 8%.

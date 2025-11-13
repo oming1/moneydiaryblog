@@ -28,9 +28,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 
 - 주요 제품 및 서비스:
     - Flight Support Group(FSG): FAA 승인 [PMA](/industry-study/pma/)(Parts Manufacturer Approval) 항공기 대체 부품, 구성품 수리/오버홀(엔진·유압·연료·기체·캐빈 부품 등), 부품 유통. 항공사·MRO·리스사 대상 비용 절감형 솔루션 제공.
-
-{{< adsense-infeed >}}
-
     - Electronic Technologies Group(ETG): 방산/우주/항공/의료용 고신뢰 전자부품(적외선/레이저 시험·시뮬레이션, RF/마이크로파 모듈, 전력변환장치, 임베디드 컴퓨팅, 방사선 내성(Rad‑Hard) 우주급 부품 등).
 
 - 사업 부문별 구성: FSG(항공 애프터마켓)과 ETG(전자기술)가 유사한 비중으로 포트폴리오를 구성(정확 비중: 확인 필요).
@@ -61,9 +58,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ### 핵심 경쟁력
 
 - 규제·인증 역량: PMA/DER 엔지니어링, 시험·문서화, 추적성(QMS) 체계로 높은 신뢰.
-
-{{< adsense-infeed >}}
-
 - 틈새 포지셔닝: 대형사가 덜 집중하는 고마진·저경쟁 영역에서 가격결정력 확보.
 
 - 분권형 운영·M&A 트랙레코드: 창업가 문화 유지, 인수 후 성과 가속.
@@ -94,9 +88,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 4단계: 양산 공정 수립(가공/조립/도금/클린룸)·추적성 체계 구축  
 5단계: 최종 검사·수락시험(성능/신뢰성)  
 6단계: 납품·애프터서비스(수리/오버홀), 지속적 공정 개선
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 전방산업 / 후방산업
@@ -120,9 +111,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 - TE Connectivity(CH, TEL): 커넥터/케이블·전자소자
 
 제조 및 조립 단계:
-
-{{< adsense-infeed >}}
-
 - HEICO(US, [HEI](/company-analysis/hei/)/HEI.A): 설계·가공·조립·시험(자회사 포함)
 
 유통 및 판매 단계:
@@ -147,9 +135,6 @@ HEICO Corporation은 항공 애프터 마켓(PMA 대체 부품)과 방산·우�
 ---
 
 ### 주요 고객
-
-{{< adsense-infeed >}}
-
 - 글로벌 항공사·리스사·MRO 네트워크
 - 방산 프라임·항공/엔진 OEM 및 우주·의료·산업 장비사: Boeing(US, [BA](/company-analysis/ba/)), Airbus(EU, EADSY), RTX(US, [RTX](/company-analysis/rtx/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Northrop Grumman(US, [NOC](/company-analysis/noc/))
 

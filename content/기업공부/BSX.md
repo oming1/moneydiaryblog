@@ -47,14 +47,8 @@ Boston Scientific은 전기생리학, 위장병학, 위장 수술, 여성 골반
 - 신경 조절 시스템
 - 구조적 심장 제품 (EMBLEMTM MRI S-ICD System)
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 유럽, 중동, 아프리카, 아시아 태평양, 아메리카
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Medtronic(US, [MDT](/company-analysis/mdt/))
 - Abbott Laboratories(US, [ABT](/company-analysis/abt/))
 - Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))

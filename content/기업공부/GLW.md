@@ -15,9 +15,6 @@ weight: 380
 
 **섹터(Sector):** Information Technology - 정보기술  
 **산업(Industry):** Electronic Components - 전자부품
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 영위사업 (상세 서술)
@@ -69,9 +66,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 ## 핵심 경쟁력
 
 1. **170년 소재과학 전문성**: 특수유리 및 세라믹 분야의 독보적 기술력과 제조 노하우 보유
-
-{{< adsense-infeed >}}
-
 2. **핵심 시장 지배적 지위**: Gorilla Glass 스마트폰 시장 점유율 약 70%, LCD 디스플레이 유리 글로벌 1위
     
 3. **차세대 기술 선도**: AI 데이터센터용 Co-Packaged Optics, 5G 광통신 솔루션 등 미래 성장동력 확보
@@ -79,9 +73,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 4. **글로벌 제조 네트워크**: 미국, 아시아 주요 거점의 최적화된 생산체계로 고객 근접성과 비용 효율성 달성
     
 5. **장기 파트너십**: Apple, Samsung 등과의 다년간 공급계약 및 공동 기술개발로 안정적 수익 기반 구축
-
-{{< adsense-infeed >}}
-
 6. **R&D 투자 지속**: 매출의 약 10% 수준 R&D 투자로 차세대 소재 기술 혁신 주도
 
 ---
@@ -124,9 +115,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 - 디스플레이: Samsung Display(KR, Samsung Display), LG Display(KR, LG Display) - LCD/OLED 유리기판
 - 자동차: Ford(US, [F](/company-analysis/f/)), GM(US, [GM](/company-analysis/gm/)) - 자동차 유리 및 환경기술
 - 데이터센터: Microsoft(US, [MSFT](/company-analysis/msft/)), Google(US, [GOOGL](/company-analysis/googl/)) - AI용 광통신 솔루션
-
-{{< adsense-infeed >}}
-
 **후방산업 (원자료/부품 공급 산업):**
 
 - 실리카 모래: U.S. Silica(US, SLCA), Badger Mining(US) - 고순도 실리카 원료
@@ -275,9 +263,6 @@ Corning Incorporated는 1851년 설립된 미국의 글로벌 소재과학 및 �
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 **스마트폰 보호유리 시장:**
 
 - 2024년: 약 70% (압도적 1위, Gorilla Glass 브랜드)

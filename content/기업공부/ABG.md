@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABG"
 date: 2024-12-25T21:20:51+09:00
 lastmod: 2025-11-04T11:00:38+09:00
@@ -33,9 +33,6 @@ Asbury는 미국 전역에 약 154개의 신차 딜러십을 운영하며, 31개
 - 부품 제조업체: 차량 부품 공급
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 차량 공급: 자동차 제조업체
 2. 부품 공급: 자동차 부품 제조업체
 3. 소매 판매 및 서비스: Asbury Automotive Group (US, [ABG](/company-analysis/abg/))
@@ -50,13 +47,7 @@ Asbury는 미국 전역에 약 154개의 신차 딜러십을 운영하며, 31개
 5. 연장 서비스 계약 및 차량 보호 상품 (TCA 부문)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Asbury Automotive Group은 주로 미국 시장에서 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. CarMax (US, [KMX](/company-analysis/kmx/)) - 중고차 판매
@@ -64,9 +55,6 @@ Asbury Automotive Group은 주로 미국 시장에서 사업을 영위하고 있
 3. Lithia Motors (US, [LAD](/company-analysis/lad/)) - 자동차 소매
 4. AutoNation (US, [AN](/company-analysis/an/)) - 신차 및 중고차 판매
 5. Group 1 Automotive (US, [GPI](/company-analysis/gpi/)) - 자동차 소매
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Asbury Automotive Group은 미국 자동차 소매 시장에서 주요 플레이어 중 하나로, 2023년 Forbes의 미국 최고 중견기업 순위에서 18위를 차지했습니다.

@@ -15,9 +15,6 @@ weight: 209
 
 섹터: 산업재
 산업: 철도운송
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회사 중 하나로, 캐나다와 미국 중부 지역을 연결하는 약 20,000마일의 철도 네트워크를 운영하고 있습니다. 회사는 다양한 화물 운송 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
@@ -31,9 +28,6 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 
 2024년 기준 총 매출은 약 170억 캐나다 달러였으며, 약 24,000명의 직원을 고용하고 있습니다. 최근에는 디지털 기술을 활용한 운영 효율성 향상, 지속 가능한 운송 솔루션 개발, 그리고 북미 공급망 강화에 주력하고 있습니다.주요 이슈로는 자동화 기술 도입을 통한 안전성 및 효율성 향상, 환경 친화적 기관차 도입, 그리고 주요 항구 및 물류 허브와의 연결성 강화 등이 있었습니다.
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 광범위한 철도 네트워크: 캐나다 횡단 및 미국 중부 진입이 가능한 전략적 노선
 2. 다각화된 사업 포트폴리오: 다양한 산업 분야의 화물 운송 서비스 제공
 3. 첨단 기술 활용: 정밀 스케줄링, 예측 유지보수 등을 통한 운영 효율성 극대화
@@ -53,9 +47,6 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 - 철도 장비 제조: Wabtec Corporation(US, WAB), Trinity Industries(US, TRN)
 - 철도 인프라: Nucor Corporation(US, [NUE](/company-analysis/nue/)), Cleveland-Cliffs(US, [CLF](/company-analysis/clf/))
 - 기술 솔루션: IBM(US, [IBM](/company-analysis/ibm/)), Cisco Systems(US, [CSCO](/company-analysis/csco/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 6. 인프라 구축: Canadian National Railway(CA, [CNI](/company-analysis/cni/)) (철도 네트워크 개발 및 유지보수)
 7. 장비 조달: Wabtec Corporation(US, WAB) (기관차 및 화차 공급)
@@ -81,9 +72,6 @@ Canadian National Railway Co.(NYSE: CNI)는 북미 최대의 철도 운송 회�
 ## 주요 판매국가
 
 캐나다, 미국
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Union Pacific Corporation(US, [UNP](/company-analysis/unp/)): 미국 서부 중심의 철도 운송 기업

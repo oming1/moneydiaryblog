@@ -20,9 +20,6 @@ CAVA는 미국의 패스트 캐주얼 레스토랑 체인으로, 그리스 및 �
 ## 영위 사업
 
 CAVA는 고객이 자신의 식사를 개인화할 수 있도록 다양한 재료와 옵션을 제공합니다. 이 레스토랑은 신선한 재료를 사용하여 빠르고 건강한 식사를 제공하는 데 중점을 두고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -39,9 +36,6 @@ CAVA는 고객이 자신의 식사를 개인화할 수 있도록 다양한 재�
     - **핵심 산업**: 식품 공급 및 유통
     - **역할**: CAVA의 재료 및 제품 공급
     - **주요 기업**:
-
-{{< adsense-infeed >}}
-
         - Sysco Corporation (미국, [SYY](/company-analysis/syy/)) - 식품 서비스 유통업체
         - US Foods (미국, [USFD](/company-analysis/usfd/)) - 식품 유통업체
 ## 밸류체인
@@ -56,13 +50,7 @@ CAVA는 고객이 자신의 식사를 개인화할 수 있도록 다양한 재�
     
     - CAVA는 매장에서 직접 고객에게 음식을 제공합니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - Starbucks (미국, [SBUX](/company-analysis/sbux/)): 커피 및 간편식 제공
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - **그레인 보울**: 다양한 곡물과 채소를 조합한 건강식입니다.
@@ -76,9 +64,6 @@ CAVA는 고객이 자신의 식사를 개인화할 수 있도록 다양한 재�
 CAVA는 미국 내에서 주로 운영되며, 현재 약 100개 이상의 매장을 보유하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Chipotle Mexican Grill (미국, [CMG](/company-analysis/cmg/))**: 멕시코 음식 전문 패스트 캐주얼 레스토랑.
 - **Panera Bread (미국, PNRA)**: 샌드위치 및 베이커리 전문 레스토랑.
 

@@ -39,13 +39,7 @@ weight: 194
 - **고객 지원 및 유지보수 (Customer Support & Maintenance)**:
     - **설명**: 고객 지원 및 서비스 유지보수
     - **대표회사**: Charter Communications (미국, [CHTR](/company-analysis/chtr/)), AT&T (미국, [T](/company-analysis/t/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **Spectrum Internet**: 고속 인터넷 서비스
 - **Spectrum TV**: 케이블 TV 및 디지털 케이블 서비스
 - **Spectrum Mobile**: 모바일 통신 서비스

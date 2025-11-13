@@ -17,9 +17,6 @@ weight: 645
 #### 영위사업
 
 NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 글로벌 기업입니다. 주요 사업 영역은 [자동차](/industry-study/자동차/), 산업 및 사물인터넷(IoT), 모바일, 통신 인프라 등입니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 
 - **전방산업:** 자동차, 산업, 모바일, 통신 인프라
@@ -31,9 +28,6 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
 - **후방산업:** 반도체 제조, 연구 개발
     - **반도체 제조:** 반도체 칩 제조 및 공급. 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (한국,005930).
     - **연구 개발:** 신제품 개발 및 혁신. 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **설계 및 개발:** 반도체 제품 설계 및 개발
     - 주요 기업: Intel (미국, [INTC](/company-analysis/intc/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/)).
@@ -43,9 +37,6 @@ NXP 반도체는 다양한 반도체 제품을 설계, 제조 및 판매하는 �
     - 주요 기업: ASE Technology (대만, ASX), Amkor Technology (미국, [AMKR](/company-analysis/amkr/)).
 - **유통 및 판매:** 반도체 제품 유통 및 판매
     - 주요 기업: Arrow Electronics (미국, [ARW](/company-analysis/arw/)), Avnet (미국, [AVT](/company-analysis/avt/)).
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 - **[마이크로컨트롤러](/industry-study/마이크로컨트롤러/):** 다양한 애플리케이션용 마이크로컨트롤러
 - **애플리케이션 프로세서:** i.MX 애플리케이션 프로세서

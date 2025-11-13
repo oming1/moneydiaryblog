@@ -15,9 +15,6 @@ weight: 637
 
 **섹터(Sector):** Consumer Defensive - 소비자 방어 
 **산업(Industry):** Household & Personal Products - 가정용 및 개인용 제품, [화장품](/industry-study/화장품/)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 영위사업
@@ -67,9 +64,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
     - 뷰티 및 개인 케어: 60%.
     - 영양 및 웰니스: 30%.
     - 기타: 10%.
-
-{{< adsense-infeed >}}
-
 - **고객 유형별 수익 구조:**
     - 독립 대리인: 제품 판매 및 네트워크 보너스.
     - 직접 소비자: e커머스 구독.
@@ -154,9 +148,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 
 - **천연 추출물:** 스킨케어, 공급지: 아시아, 공급업체 Givaudan(CH, GVDNY).
 - **비타민:** 영양제, 공급지: 미국, 공급업체 DSM(NL, DSM).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 고객
@@ -174,9 +165,6 @@ Nu Skin Enterprises, Inc.은 1984년에 미국 유타주 프로보(Provo)에서 
 - 한국: 15% (2023년 기준, 3년간 +2%p).
 - 미국: 20% (2023년 기준, 3년간 +1%p).
 - 일본: 10% (2023년 기준, 3년간 -1%p).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 경쟁업체

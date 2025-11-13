@@ -20,9 +20,6 @@ Synchrony Financial은 소비자 금융 서비스를 제공하는 회사로, 주
 - **소비자 금융**: 신용카드, 상업 신용 제품, 소비자 할부 대출 제공.
 - **프로모션 금융**: 주요 소비자 구매를 위한 프로모션 금융 제공.
 - **로열티 프로그램**: 고객 충성도를 높이기 위한 로열티 프로그램 운영.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 - **전방산업**: 다양한 산업의 기업 및 개인 고객
     - **핵심 산업**: 금융 서비스, 신용카드 발급
@@ -39,21 +36,12 @@ Synchrony Financial은 소비자 금융 서비스를 제공하는 회사로, 주
 - **유통 (Distribution)**: 금융 상품 및 서비스의 전 세계 유통
     - **대표 회사**: Synchrony Financial (미국, [SYF](/company-analysis/syf/)), Wells Fargo (미국, [WFC](/company-analysis/wfc/))
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **신용카드**: 개인 및 상업용 신용카드 제공
 - **프로모션 금융**: 주요 소비자 구매를 위한 프로모션 금융 제공
 - **저축 상품**: 고수익 저축 계좌, CD, 머니 마켓 계좌 등
 #### 주요 판매국가
 Synchrony Financial의 주요 판매국가는 미국입니다. 국가별 매출액 비중은 공개된 자료가 없으나, 주된 매출 국가는 미국입니다.
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **American Express (미국, [AXP](/company-analysis/axp/))**: 신용카드 및 금융 서비스
 - **Capital One (미국, [COF](/company-analysis/cof/))**: 신용카드 및 금융 서비스
 - **Discover Financial Services (미국, [DFS](/company-analysis/dfs/))**: 신용카드 및 금융 서비스

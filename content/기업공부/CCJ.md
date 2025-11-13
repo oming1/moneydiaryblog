@@ -14,13 +14,7 @@ weight: 181
 
 - **Sector:** 에너지 (Energy)
 - **Industry:** [우라늄](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속우라늄/) 및 원자력 연료 (Uranium and Nuclear Fuel)
-
-{{< adsense-infeed >}}
-
 ### 영위사업
-
-{{< adsense-infeed >}}
-
 Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나로, 주로 우라늄 연료를 생산하여 원자력 발전소에 공급합니다. 이 회사는 고품질 우라늄 광산을 소유하고 있으며, 저비용 운영을 통해 경쟁력을 유지하고 있습니다
 ### 전방/후방산업
 - **전방산업:** 원자력 발전업
@@ -41,19 +35,10 @@ Cameco Corporation은 세계 최대의 상장 우라늄 생산 기업 중 하나
     - **설명:** 정제된 우라늄을 사용하여 원자력 연료 제조
     - **대표회사:** Westinghouse Electric Company (미국, [Westinghouse Electric](/company-analysis/westinghouse-electric/)), Global Laser Enrichment (미국, GLE)
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **우라늄 농축물:** 원자력 발전소에서 사용되는 연료
 - **우라늄 옥사이드:** 원자력 연료 제조에 사용
 - **핵연료 서비스:** 원자력 연료의 가공 및 공급
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
 - **캐나다:** 주요 매출 국가
 - **일본:** 주요 매출 국가

@@ -19,9 +19,6 @@ Steel Dynamics Inc (NASDAQ: STLD) is one of the largest domestic steel producers
 ## 영위사업
 
 Steel Dynamics는 1993년 설립되어 현재 미국 내 최대 규모의 [철강](/industry-study/철강/) 생산 및 금속 재활용 기업 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 철강 생산: 평판 압연강, 구조용강, 특수강 등 다양한 철강 제품 생산
 2. 금속 재활용: OmniSource 자회사를 통한 철 및 비철 금속 재활용
 3. 철강 가공: New Millennium Building Systems를 통한 건축용 철강 제품 생산
@@ -42,9 +39,6 @@ Steel Dynamics는 1993년 설립되어 현재 미국 내 최대 규모의 [철�
 - 냉연강판: 가전, 포장 등에 사용, 매출의 약 25% (2024년 기준)
 - 도금강판: 자동차, 건설 등에 사용, 매출의 약 20% (2024년 기준)
 - 구조용강 및 특수강: 건설, 기계 등에 사용, 매출의 약 15% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국이 주요 시장이며, 일부 제품은 캐나다, 멕시코 등으로 수출됩니다.
@@ -71,9 +65,6 @@ Steel Dynamics는 2024년 기준 미국 철강 시장에서 약 11%의 점유율
 - The Vanguard Group (11.66%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 - VanEck Vectors Steel ETF - SLX
 - Materials Select Sector SPDR Fund - XLB

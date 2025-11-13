@@ -286,9 +286,6 @@ Ball Corporation은 글로벌 기업으로 북미, 유럽, 남미가 주요 시�
 12. Envases Group(MX, Envases Group) - 알루미늄 포장 솔루션
     
 13. CPMC Holdings(CN, CPMC Holdings) - 금속 포장재
-
-{{< adsense-infeed >}}
-
 14. Showa Denko(JP, Showa Denko) - 알루미늄 가공
     
 15. Tecnocap(IT, Tecnocap) - 금속 마개 및 용기
@@ -328,9 +325,6 @@ Ball의 경영 전략은 다음과 같은 특징을 보입니다:
 5. 지역 생산 및 조달 강화: 국제 무역의 불확실성에 대한 노출을 최소화하기 위해 지역 생산 및 조달에 강한 중점을 둔 전략 추진 (2025년)
     
 6. 플로리다 음료 캔 제조 용량 확장: 북미 시장에서의 수요 증가에 대응하기 위한 생산 능력 확대 발표 (2025년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 검색 결과 [14](https://fintel.io/so/us/ball)에 따르면, Ball Corporation의 주요 기관 투자자는 다음과 같습니다:

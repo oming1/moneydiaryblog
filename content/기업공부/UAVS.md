@@ -14,9 +14,6 @@ weight: 903
 섹터: 임의소비재
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 산업: [항공우주 및 방위산업](/industry-study/항공우주-및-방위산업/)(Aerospace & Defense)
 
 ## 영위사업
@@ -78,9 +75,6 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
 3. 드론 조립 및 생산
     
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Parrot(FR, PARRO)
-
-{{< adsense-infeed >}}
-
 4. 소프트웨어 개발: 비행 제어, 데이터 분석
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), Pix4D(비상장)
     
@@ -88,13 +82,7 @@ AgEagle Aerial Systems Inc.는 상업용 및 정부용 무인 항공 시스템(U
     - AgEagle Aerial Systems(US, [UAVS](/company-analysis/uavs/)), DJI(비상장)
     
 6. 서비스 제공: 드론 기반 데이터 수집 및 분석
-
-{{< adsense-infeed >}}
-
     - PrecisionHawk(비상장), Kespry(비상장)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 1. eBee X: 정밀 매핑 및 측량용 고정익 드론 (매출 비중: 약 30%, 2023년 기준)

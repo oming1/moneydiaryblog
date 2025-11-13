@@ -18,9 +18,6 @@ weight: 543
 **전방산업**
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 비자 (미국, [V](/company-analysis/v/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
 - **상업 금융 (Commercial Finance):** 기업 및 비즈니스에 금융 서비스를 제공합니다. 주요 기업: JP모건 체이스 (미국, [JPM](/company-analysis/jpm/)), 뱅크 오브 아메리카 (미국, [BAC](/company-analysis/bac/)).
-
-{{< adsense-infeed >}}
-
 **후방산업**
 
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
@@ -43,18 +40,12 @@ weight: 543
     
     - **Concentrix (미국, CNXC)**: 고객 서비스 아웃소싱.
     - **Teleperformance (프랑스, TEP)**: 고객 지원 서비스.
-
-{{< adsense-infeed >}}
-
 **주요제품**
 
 - **Mastercard 신용카드:** 다양한 신용카드 제품.
 - **Mastercard 직불카드:** 은행 계좌와 연동된 직불카드.
 - **Mastercard 선불카드:** 충전식 선불카드.
 - **Masterpass:** 디지털 지갑 서비스.
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
 
 - **미국:** 주요 매출 국가.
@@ -71,9 +62,6 @@ weight: 543
 
 - Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
 **산업 내 글로벌 시장 점유율**
-
-{{< adsense-infeed >}}
-
 - Mastercard는 글로벌 결제 시장에서 약 30%의 점유율을 차지하고 있습니다 (2023년 기준).
 **최근 3년 내 주요 이슈**
 

@@ -22,9 +22,6 @@ Arrow Electronics는 전 세계 기업 및 산업 고객에게 전자 부품과 
 4. 공급망 서비스: 글로벌 물류 및 재고 관리
 
 Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달하여 전 세계 고객에게 공급하고 있으며, 특히 사물인터넷(IoT), 인공지능(AI), 5G 등 신기술 분야에서의 성장에 주력하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 1. 후방산업:
     - 반도체 제조: Intel (US, [INTC](/company-analysis/intc/)), Texas Instruments (US, [TXN](/company-analysis/txn/))
@@ -58,9 +55,6 @@ Arrow Electronics는 글로벌 기업으로, 북미, 유럽, 중동, 아프리�
 4. Digi-Key Electronics (비상장) - 전자부품 유통
 5. Mouser Electronics (비상장) - 전자부품 유통
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Arrow Electronics는 전자부품 유통 산업에서 세계 최대 기업 중 하나로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈

@@ -46,33 +46,18 @@ L3Harris는 방산 및 상업 기술을 제공하며, 공중, 육상, 해양, �
     
     - 다양한 항공기 및 방산 시스템의 부품을 제조합니다.
     - 대표 기업: Honeywell International (미국, [HON](/company-analysis/hon/)) - 경쟁 제품: 항공기 시스템
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 
 - **항공기 시스템**:
     - 군용 및 상용 항공기에 사용되는 시스템으로, 비행 안전성을 높입니다.
     - 매출 비중: 전체 매출의 약 40% 차지.
-
-{{< adsense-infeed >}}
-
 - **[통신 장비](/industry-study/통신-장비/)**:
-
-{{< adsense-infeed >}}
-
     - 군사 및 상업용 통신 솔루션을 제공합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
-
-{{< adsense-infeed >}}
-
 ## 주요 판매 국가
 
 L3Harris는 주로 미국에서 매출을 올리며, 유럽과 아시아에서도 중요한 시장을 형성하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Boeing** (미국, [BA](/company-analysis/ba/)) - 경쟁 제품: 항공기 및 방산 시스템
 - **Lockheed Martin** (미국, [LMT](/company-analysis/lmt/)) - 경쟁 제품: 방산 기술 및 시스템
 

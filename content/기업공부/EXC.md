@@ -29,9 +29,6 @@ weight: 332
         - 에너지 전송: American Electric Power (미국, [AEP](/company-analysis/aep/))
 
 **밸류체인**
-
-{{< adsense-infeed >}}
-
 - **생산:** 전력 및 가스 생산
     - **대표 회사:** Duke Energy (미국, [DUK](/company-analysis/duk/)), NextEra Energy (미국, [NEE](/company-analysis/nee/))
 - **전송:** 전력 및 가스 전송
@@ -44,17 +41,8 @@ weight: 332
 - **[천연가스](/industry-study/천연가스/):** 가정 및 상업용 천연가스 공급
 
 **주요 판매국가**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
-
-{{< adsense-infeed >}}
-
 **경쟁업체**
-
-{{< adsense-infeed >}}
-
 - **NextEra Energy (미국, [NEE](/company-analysis/nee/)):** 전력 및 재생 에너지 공급
 - **Southern Company (미국, [SO](/company-analysis/so/)):** 전력 및 가스 공급
 - **Duke Energy (미국, [DUK](/company-analysis/duk/)):** 전력 및 가스 공급
@@ -62,9 +50,6 @@ weight: 332
 
 - [Exelon은 미국 전력 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준)](https://en.wikipedia.org/wiki/Exelon)[1](https://en.wikipedia.org/wiki/Exelon).
 **최근 3년 내 주요 이슈**
-
-{{< adsense-infeed >}}
-
 - [**2022년:** 허리케인 밀턴으로 인한 전력 복구 작업 (2022)](https://www.exeloncorp.com/)[2](https://www.exeloncorp.com/)
 - [**2023년:** 새로운 재생 에너지 프로젝트 발표 (2023)](https://www.exeloncorp.com/)[2](https://www.exeloncorp.com/)
 - [**2024년:** CEO 교체 및 조직 개편 (2024)](https://www.exeloncorp.com/)[2](https://www.exeloncorp.com/)

@@ -45,9 +45,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
     - **원자로 기술 및 신규 건설 (약 20%):** AP1000 등 신규 원전 설계 및 건설 프로젝트.
 
     - **해체 및 폐기물 관리/SMR 개발 (약 5%):** 미래 성장 동력.
-
-{{< adsense-infeed >}}
-
 - **비즈니스 모델 개요**  
     Westinghouse의 비즈니스 모델은 핵연료 및 서비스의 안정적인 반복 매출( recurring revenue)과 신규 원전 건설 프로젝트의 대규모 계약으로 구성됩니다. 장기 계약을 통해 수익을 확보하며, 엄격한 규제 환경에서 기술 리더십과 안전성을 강조합니다. 회사는 R&D에 매년 상당한 투자를 하여 SMR 등 차세대 기술을 개발하며, 정부와의 파트너십과 국제 협력을 통해 글로벌 시장을 확장합니다. 이는 에너지 안보 및 탈탄소화 트렌드에 맞춰 장기적인 성장을 지원하지만, 초기 투자 비용과 건설 지연 리스크가 과제입니다.
     
@@ -217,9 +214,6 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 - **NuScale Power (US, [SMR](/industry-study/smr/)):** SMR 개발 선두 주자, 미국 기반.
 - **Rolls-Royce SMR:** 영국 기반 SMR 개발.
 - **TerraPower (비상장):** Natrium SMR 개발, 빌 게이츠 지원.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 산업 내 글로벌 시장 점유율 (2023년 추정)
@@ -245,20 +239,11 @@ Westinghouse Electric Company LLC는 1886년 설립된 역사 깊은 Westinghous
 - **2024년:** eVinci SMR 기술 개발 가속화 및 시범 프로젝트 추진, 기존 발전소 대상 디지털 솔루션 및 연료 고도화 서비스 확장.
 - **2025년:** AP300 SMR 설계 승인 절차 시작 및 글로벌 파트너십 강화.
 - **과거:** 2017년 파산 보호 신청 이후, Brookfield Business Partners에 인수되며 재무 구조 개선 및 사업 재편 성공.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 - **Brookfield Business Partners (US, [BBU](/company-analysis/bbu/)):** 최대 주주 (사모 기업이므로 100% 지배).
 - **기타:** Brookfield Business Partners의 주주는 다양한 기관 투자자 (Vanguard, BlackRock 등) 및 개인 투자자로 구성됨.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 관련 ETF

@@ -16,13 +16,7 @@ weight: 741
 
 #### 영위사업
 Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발견, 개발, 제조 및 상업화하는 생명공학 회사입니다. 주요 제품으로는 EYLEA (습성 연령 관련 황반변성 및 당뇨병성 황반부종 치료), Dupixent (아토피 피부염 및 천식 치료), Libtayo (전이성 또는 국소 진행성 피부 편평세포암 치료), Praluent (이형 가족성 고콜레스테롤혈증 및 임상적 동맥경화성 심혈관 질환 치료) 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 의료 서비스 및 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 보험사
     - **핵심 기업:** CVS Health (미국, [CVS](/company-analysis/cvs/)), UnitedHealth Group (미국, [UNH](/company-analysis/unh/))
@@ -42,19 +36,10 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 - **Libtayo:** 전이성 또는 국소 진행성 피부 편평세포암 치료 (2023년 매출 비중: 10%)
 
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 2023년 매출 비중: 60%
 - **유럽:** 2023년 매출 비중: 25%
 - **기타 지역:** 2023년 매출 비중: 15%
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Amgen (미국, [AMGN](/company-analysis/amgn/)):** 생명공학 의약품
 - **Vertex Pharmaceuticals (미국, [VRTX](/company-analysis/vrtx/)):** 유전자 치료제
 - **Gilead Sciences (미국, [GILD](/company-analysis/gild/)):** 항바이러스제

@@ -26,9 +26,6 @@ Complete Genomics는 인간 유전체 시퀀싱 및 분석을 위한 DNA 시퀀�
 - **후방산업 (Downstream Industries)**:
     - **의료 및 진단**: 유전체 데이터를 활용하여 질병 진단 및 치료법 개발. 주요 기업: Roche (CH, [ROG](/company-analysis/rog/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     - **제약 및 생명공학**: 유전체 데이터를 기반으로 신약 개발 및 맞춤형 치료법 연구. 주요 기업: Pfizer (US, [PFE](/company-analysis/pfe/)), Novartis (CH, [NVS](/company-analysis/nvs/))
-
-{{< adsense-infeed >}}
-
 ### 밸류체인 (Value Chain)
 
 1. **샘플링 및 시퀀싱**:
@@ -37,9 +34,6 @@ Complete Genomics는 인간 유전체 시퀀싱 및 분석을 위한 DNA 시퀀�
     - 시퀀싱된 데이터를 분석하여 유전적 변이를 탐지. 주요 기업: Bio-Rad Laboratories (US, BIO), Agilent Technologies (US, [A](/company-analysis/a/))
 3. **응용**:
     - 유전체 데이터를 활용하여 질병 진단 및 치료법 개발. 주요 기업: Roche (CH, [ROG](/company-analysis/rog/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
-
-{{< adsense-infeed >}}
-
 ### 주요제품 (Key Products)
 
 - **DNBSEQ™ Technology**: 고효율, 고정확도의 PCR-free NGS 기술.

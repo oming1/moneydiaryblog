@@ -15,17 +15,11 @@ Sector: [헬스케어](/industry-study/2산업헬스케어/)
 Industry: 생명공학 및 의료 연구(Biotechnology & Medical Research)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Absci Corporation은 생성형 인공지능(AI)을 활용한 신약 개발 회사입니다. 주요 사업 영역은 다음과 같습니다:
 1. AI 기반 신약 설계: AI와 실험실 기술을 결합하여 새로운 생물학적 의약품 후보 물질을 설계합니다.
 2. 통합 신약 개발 플랫폼: 새로운 약물 표적을 식별하고, 생물학적 치료제 후보를 발견하며, 이를 생산할 세포주를 생성하는 통합 프로세스를 제공합니다.
 3. SoluPro 기술: 고처리량 자동화 실험실의 한계를 극복하는 다중 합성 생물학 접근법을 사용합니다.
 4. 면역 반응 분자 재구성: 질병 조직에서 항체를 재구성하고 해당 항원을 식별하여 새로운 치료 표적을 제시합니다.
-
-{{< adsense-infeed >}}
-
 Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기반 설계를 실험실에서의 고처리량 기능 검증 능력으로 뒷받침하고 있습니다.
 
 ## 전방/후방산업
@@ -33,13 +27,7 @@ Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기�
 
 - 제약회사: AstraZeneca (UK, [AZN](/company-analysis/azn/))
 - 바이오테크 기업: Twist Bioscience (US, [TWST](/company-analysis/twst/))
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - AI 및 머신러닝 기술 제공업체
 - 실험실 장비 및 소모품 공급업체
 
@@ -60,9 +48,6 @@ Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기�
 ## 주요 판매국가
 Absci Corporation은 주로 미국에서 사업을 영위하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Schrödinger (US, [SDGR](/company-analysis/sdgr/)) (컴퓨터 기반 신약 설계)
 2. Recursion Pharmaceuticals (US, [RXRX](/company-analysis/rxrx/)) (AI 기반 신약 발견)
 3. Exscientia (UK, [EXAI](/company-analysis/exai/)) (AI 기반 신약 설계)

@@ -29,13 +29,7 @@ Agilent Technologies, Inc.는 생명과학, 진단 및 응용 화학 시장을 �
 5. 마이크로어레이 솔루션
 6. 임상 및 진단 테스트 장비
 7. 자동화 시스템
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Agilent Technologies는 전 세계 110개국 이상의 고객에게 서비스를 제공하고 있습니다.
 ## 경쟁업체
 1. Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/))
@@ -47,9 +41,6 @@ Agilent Technologies는 전 세계 110개국 이상의 고객에게 서비스를
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Agilent는 생명과학 도구 및 서비스 시장에서 선도적인 위치를 차지하고 있습니다.
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았지만, Agilent는 생명과학 도구 및 서비스 시장에서 선도적인 위치를 차지하고 있습니다.
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2023년 초 콜로라도주 프레더릭에 있는 핵산 기반 치료제 제조 시설에 7억 2,500만 달러 투자 확대 발표 (2023년)
 2. CrossLab Virtual Assist 모바일 앱 출시로 원격 기술 지원 강화 (2020년)
 3. 2024 회계연도 순매출 65.1억 달러 기록 (2024년)

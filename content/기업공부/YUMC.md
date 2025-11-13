@@ -27,9 +27,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 4. **디지털 및 배달 서비스**: 자체 모바일앱, 미니프로그램, O2O 플랫폼을 통한 주문/배달
     
 5. **기타 브랜드**: Little Sheep(훠궈), Huang Ji Huang 등 중국식 레스토랑
-
-{{< adsense-infeed >}}
-
 2024년 기준 연 매출 약 110억 달러, 중국 1,900여 개 도시에서 14,000여 매장 운영(직영 및 프랜차이즈 포함). 최근에는 현지화 메뉴 개발, 디지털 오더 및 스마트 매장 도입, ESG 경영 강화에 주력하고 있습니다.
 
 ## 핵심 경쟁력
@@ -49,9 +46,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 ## 전방산업
 
 - **소비재 유통/온라인배달**: Alibaba(US, [BABA](/company-analysis/baba/)), Meituan(CN, 3690)
-
-{{< adsense-infeed >}}
-
 - **로컬 상권/쇼핑몰**: Suning(CN), Wanda Group(CN)
     
 - **여행/레저**: Ctrip(US, [TCOM](/company-analysis/tcom/)), Trip.com
@@ -79,9 +73,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 ## 주요제품
 
 - **KFC 메뉴**: 치킨, 버거, 현지화 스낵류, 도넛 등 (매출의 약 65%)
-
-{{< adsense-infeed >}}
-
 - **Pizza Hut 메뉴**: 피자, 파스타, 샐러드, 중국식 디저트 등 (매출의 약 24%)
     
 - **Taco Bell 메뉴**: 타코·브리또·멕시칸 패스트푸드 (매출의 약 2%)
@@ -100,9 +91,6 @@ Yum China Holdings Inc.(NYSE: YUMC)는 중국 최대의 외식 프랜차이즈 �
 ## 주요 판매국가
 
 중국(주요 시장), 일부 해외 관광지(중국인 대상 점포)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. McDonald’s China (CN): 글로벌 QSR 2위

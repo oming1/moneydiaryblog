@@ -20,13 +20,7 @@ SharkNinja는 청소기, 주방 가전, 뷰티 제품 등 다양한 가전제품
 
 ## 전방/후방산업
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - **부품 공급업체**: 전자 부품 및 기계 부품을 공급하는 업체들
-
-{{< adsense-infeed >}}
-
     - 예: Texas Instruments(US, [TXN](/company-analysis/txn/)), Infineon Technologies(독일, [IFX](/company-analysis/ifx/))
 
 ## 전방산업

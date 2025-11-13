@@ -49,9 +49,6 @@ WeRide는 2017년 설립된 [중국](/industry-study/4국가중국/)의[자율 �
 - WeRide Mini Robobus: 자율주행 미니버스
     
 - WeRide Robosweeper: 자율주행 도로 청소차
-
-{{< adsense-infeed >}}
-
 - 자율주행 소프트웨어 플랫폼
 
 ## 주요 고객
@@ -71,9 +68,6 @@ WeRide는 2017년 설립된 [중국](/industry-study/4국가중국/)의[자율 �
 - AutoX(CN)
     
 - Pony.ai(CN)
-
-{{< adsense-infeed >}}
-
 - Waymo(US, Alphabet 자회사 [GOOGL](/company-analysis/googl/))
     
 - Cruise(US, General Motors 자회사 [GM](/company-analysis/gm/))
@@ -81,9 +75,6 @@ WeRide는 2017년 설립된 [중국](/industry-study/4국가중국/)의[자율 �
 ## 산업 내 글로벌 시장 점유율
 
 자율주행 기술 시장은 아직 초기 단계로, 정확한 시장 점유율 데이터를 제공하기 어렵습니다. WeRide는 중국 내 주요 자율주행 기술 기업 중 하나로 평가받고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 광저우시에서 완전 무인 로보택시 서비스 개시 (2023년)

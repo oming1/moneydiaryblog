@@ -15,25 +15,13 @@ weight: 257
 산업: 호텔, 레스토랑 & 레저(Hotels, Restaurants & Leisure)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 및 운영하는 게임 및 호스피탈리티 서비스 제공업체입니다.
 ## 전방/후방산업
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 건설 및 인테리어 업체: 카지노 및 호텔 시설 건설
 - 식음료 공급업체: 레스토랑 및 바 운영을 위한 재료 공급
-
-{{< adsense-infeed >}}
-
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 관광 및 여행 산업: 고객 유치를 위한 협력
 - 엔터테인먼트 산업: 공연 및 이벤트 제공
 ## 밸류체인
@@ -59,9 +47,6 @@ Caesars Entertainment는 카지노, 호텔, 엔터테인먼트 시설을 소유 
 - Las Vegas Sands(US, [LVS](/company-analysis/lvs/))
 - Wynn Resorts(US, [WYNN](/company-analysis/wynn/))
 - PENN Entertainment(US, PENN)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Caesars Entertainment는 미국 최대의 게임 회사 중 하나로, 정확한 시장 점유율은 제공되지 않았습니다.

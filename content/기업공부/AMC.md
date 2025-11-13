@@ -15,15 +15,9 @@ AMC Entertainment Holdings, Inc.(AMC)는 세계 최대 규모의 영화 상영 �
 
 섹터: 커뮤니케이션 서비스(Communication Services)  
 산업: 엔터테인먼트(Entertainment)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 AMC는 미국과 유럽에서 약 900개의 극장과 10,000개의 스크린을 운영하는 영화 상영 기업입니다. 주요 사업으로는 영화 상영, 프리미엄 좌석 제공, 향상된 식음료 서비스, 충성도 및 구독 프로그램 운영 등이 있습니다. 최신 할리우드 영화와 독립 영화 등 다양한 콘텐츠를 상영합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 ## 후방산업
 
@@ -44,9 +38,6 @@ AMC는 미국과 유럽에서 약 900개의 극장과 10,000개의 스크린을 
 - 프리미엄 좌석 (Signature power-recliner seats)
 - 식음료 서비스
 - AMC Stubs 충성도 프로그램
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 영국, 독일, 스페인, 이탈리아, 아일랜드, 포르투갈, 스웨덴, 핀란드, 노르웨이, 덴마크
@@ -56,13 +47,7 @@ AMC는 미국과 유럽에서 약 900개의 극장과 10,000개의 스크린을 
 - Cineworld Group(UK)
 - Cinemark Holdings(US, CNK)
 - IMAX Corporation(CA, [IMAX](/company-analysis/imax/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, AMC는 세계 최대 규모의 영화 상영 기업으로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈

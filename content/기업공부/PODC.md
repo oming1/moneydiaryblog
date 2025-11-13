@@ -131,13 +131,7 @@ LaunchpadOne이라는 자체 호스팅 및 애널리틱스 플랫폼을 통해 �
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Podtrac 기준 미국 팟캐스트 퍼블리셔 순위 9위 (2025년 기준). 구체적인 시장 점유율 데이터는 공개되지 않음
-
-{{< adsense-infeed >}}
-
 ---
 ## 기업 특징 및 성장성
 
@@ -175,9 +169,6 @@ PodcastOne은 팟캐스트 산업에서 유일한 순수 플레이 상장기업�
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX
 - iShares U.S. Telecommunications ETF - IYZ
-
-{{< adsense-infeed >}}
-
 **소형주 관련 ETF**:
 
 - iShares Russell 2000 ETF - IWM

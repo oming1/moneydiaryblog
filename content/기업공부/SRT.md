@@ -15,13 +15,7 @@ weight: 829
 - **Industry:** 의료 기기 및 용품 (Medical Instruments & Supplies)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Sartorius AG는 생명과학 연구 및 바이오프로세싱 솔루션을 제공하는 글로벌 기업입니다. 주요 사업 영역은 바이오프로세스 솔루션과 실험실 제품 및 서비스로 나뉩니다. 이 회사는 생명과학 연구, 바이오제약 제조, 제약 품질 관리, 세포 및 유전자 치료, 응용 산업에 서비스를 제공합니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 - **전방산업 (Downstream Industry):**
     

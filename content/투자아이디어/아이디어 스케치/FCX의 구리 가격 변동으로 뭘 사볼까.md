@@ -45,9 +45,6 @@ weight: 2
     - 멕시코(Buenavista, La Caridad), 페루(Toquepala, Cuajone) 등 남미 중심.
     - 단일 광산 의존도는 FCX보다 낮고, 생산지 분산도가 높음.
     - 최근 페루 지역 시위 등 정치적 리스크는 있으나, 대형 사고로 인한 대규모 생산 차질은 드물었음.
-
-{{< adsense-infeed >}}
-
 - **Rio Tinto ([RIO](/company-analysis/rio/))**
 
 	- 미국 내 유타 Kennecott 광산 중심으로 안정적 생산.
@@ -64,9 +61,6 @@ weight: 2
 	    - 프로젝트 지연 가능성 및 초기 단계의 불확실성.
 
 - **Taseko Mines([TGB](/company-analysis/tgb/))**
-
-{{< adsense-infeed >}}
-
 	- 미국 내 애리조나 Florence 프로젝트 중심.
 	    - 저비용 생산 가능성(In-situ 기술 활용).
 	    - ESG 친화적 기술로 투자 매력 증가.
@@ -90,17 +84,11 @@ weight: 2
     - 주가 변동성 상대적으로 높음.
 
 ##### **SCCO**
-
-{{< adsense-infeed >}}
-
 - **경쟁력**
     - 멕시코·페루 등 남미 저비용 대형 광산 집중.
     - 생산지 분산, 단일 광산 리스크 상대적으로 낮음.
     - 높은 영업이익률과 꾸준한 배당.
     - 대규모 확장 프로젝트(총 $15B 이상)로 성장성 확보.
-
-{{< adsense-infeed >}}
-
 - **리스크**
     - 멕시코·페루의 정치·사회적 불안(노동쟁의, 시위 등).
     - 환경 규제 강화 및 신규 프로젝트 지연 가능성.

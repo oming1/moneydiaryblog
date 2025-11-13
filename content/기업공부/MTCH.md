@@ -39,9 +39,6 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 - 온라인 광고: 사용자 획득 (Facebook(US, [META](/company-analysis/meta/)), Twitter(US, TWTR))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스: 인프라 제공 (Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/)))
     
 - 데이터 분석: 사용자 행동 분석 (Palantir(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/)))
@@ -60,9 +57,6 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 6. 데이터 분석: Mixpanel(Mixpanel), Amplitude(US, AMPL)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. Tinder: 위치 기반 데이팅 앱 (2024년 2분기 매출의 약 55%)
     
 2. Hinge: 관계 중심 데이팅 앱 (2024년 2분기 매출의 약 20%)
@@ -92,9 +86,6 @@ Match Group Inc는 Tinder, Hinge, Match.com, OkCupid, PlentyOfFish 등 다양한
 Match Group은 2024년 기준 글로벌 온라인 데이팅 시장에서 약 40-45%의 점유율을 차지하고 있는 것으로 추정됩니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. Hyperconnect 인수로 비디오, AI, AR 기술 강화 (2022년)
 2. Tinder Explore 기능 출시로 사용자 경험 개선 (2023년)
     

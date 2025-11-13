@@ -23,30 +23,18 @@ weight: 902
 산화 안티몬은 페인트의 착색제, 섬유 및 필름용 폴리에스테르 수지 생산 촉매제, 플라스틱 병의 폴리에틸렌 프탈레이트 생산 촉매제, 형광 전구의 형광제, 도자기용 불투명제 등으로도 사용된다.
 
 ## 전방/후방산업:  
-
-{{< adsense-infeed >}}
-
 ## 후방산업: 
 
 - 광산 장비 제조업 (Caterpillar Inc. (US, [CAT](/company-analysis/cat/)))  
 ## 전방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체 산업 (Intel Corporation (US, [INTC](/company-analysis/intc/)))
 - 배터리 제조업 (Tesla, Inc. (US, [TSLA](/company-analysis/tsla/)))
 - 난연제 제조업 (Albemarle Corporation (US, [ALB](/company-analysis/alb/)))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인:
 1. 채굴: United States Antimony Corporation (US, [UAMY](/company-analysis/uamy/))
 2. 정제 및 가공: 5N Plus Inc. (캐나다, VNP.TO)
 3. 제품 제조: Campine NV (벨기에, CAMB.BR)
 4. 유통 및 판매: Traxys Group (비상장)
-
-{{< adsense-infeed >}}
-
 ## 주요제품:
 - [안티모니](/industry-study/안티모니/) 금속 및 산화물 (반도체, 배터리, 난연제 원료)
 - 제올라이트 (수처리, 촉매제)
@@ -60,9 +48,6 @@ weight: 902
 - Nihon Seiko Co., Ltd. (일본, 5729.T) (안티모니 제품 제조)
 - Perpetua Resources ([PPTA](/company-analysis/ppta/) US)
 - 
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율: 
 정확한 수치는 확인되지 않으나, [미국 내 유일한 안티모니 생산업체]로 알려져 있음
 ## 최근 3년 내 주요 이슈:

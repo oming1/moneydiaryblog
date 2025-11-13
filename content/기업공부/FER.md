@@ -47,9 +47,6 @@ Ferrovial SE는 15개국 이상에서 사업을 영위하고 있으며, 주로 �
 - 건설자재: CRH (아일랜드, CRH)
 - 장비 제조: Caterpillar (US, [CAT](/company-analysis/cat/))
 - 엔지니어링 서비스: Jacobs Engineering Group (US, J)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 프로젝트 개발: Ferrovial SE (스페인, FER.MC) (인프라 프로젝트 기획 및 개발)
@@ -77,13 +74,7 @@ Ferrovial SE는 15개국 이상에서 사업을 영위하고 있으며, 주로 �
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Ferrovial SE는 유료도로 및 공항 운영 분야에서 주요 글로벌 플레이어 중 하나로 인식되고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 영국 고속철도 프로젝트에서 역대 최대 규모의 건설 계약 체결 (2024년)
 2. András Szakonyi를 디지털 인프라 부문 CEO로 임명 (2024년)
 3. AGS Airports 지분 50% 매각 합의 발표 (2024년)

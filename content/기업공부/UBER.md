@@ -23,18 +23,9 @@ weight: 904
 - **후방산업**:
     - **자동차 제조**: 차량 생산 및 공급. 주요 기업: Toyota (JP, 7203), General Motors (US, [GM](/company-analysis/gm/)).
     - **기술 인프라**: 클라우드 서비스 및 데이터 센터 운영. 주요 기업: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/)).
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 - **플랫폼 개발**: 승차 공유 및 배달 플랫폼 개발. 주요 기업: Uber (US, [UBER](/company-analysis/uber/)), Lyft (US, [LYFT](/company-analysis/lyft/)).
-
-{{< adsense-infeed >}}
-
 - **운영 및 관리**: 운전자 및 배달원의 관리 및 지원. 주요 기업: Uber (US, [UBER](/company-analysis/uber/)), DoorDash (US, [DASH](/company-analysis/dash/)).
-
-{{< adsense-infeed >}}
-
 - **마케팅 및 고객 서비스**: 서비스 홍보 및 고객 지원. 주요 기업: Uber (US, [UBER](/company-analysis/uber/)), Grubhub.
 **주요제품**:
 **주요제품**:

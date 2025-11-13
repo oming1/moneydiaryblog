@@ -35,16 +35,10 @@ SolarEdge Technologies는 태양광 발전 시스템을 위한 DC 최적화 인�
 - **전기차 충전기**: 전기차 충전기 및 관련 서비스
 - **스마트 에너지 관리 소프트웨어**: 에너지 모니터링 및 제어 소프트웨어
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 전체 매출의 약 50% (2023년 기준)
 - **유럽**: 주요 판매국가로 독일, 네덜란드, 이탈리아 등이 포함됨
 - [**아시아**: 주요 판매국가로 일본, 중국 등이 포함됨](https://finance.yahoo.com/quote/SEDG/)[4](https://stockanalysis.com/stocks/sedg/company/)
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Enphase Energy (US, [ENPH](/company-analysis/enph/))**: 태양광 인버터 및 에너지 관리 솔루션
 - **SMA Solar Technology (DE, S92)**: 태양광 인버터 및 시스템
 - **Huawei Technologies (CN, 비상장)**: 태양광 인버터 및 시스템

@@ -23,14 +23,8 @@ JetBlue Airways는 미국을 기반으로 한 항공사로, 미국, 카리브해
     - **여행사 및 온라인 여행 예약 플랫폼**: JetBlue의 항공편을 예약하고 판매합니다. 주요 기업: Expedia (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
     - **호텔 및 숙박업체**: JetBlue의 항공편을 이용하는 여행객들에게 숙박 서비스를 제공합니다. 주요 기업: Marriott International (미국, [MAR](/company-analysis/mar/)), Hilton Worldwide (미국, [HLT](/company-analysis/hlt/))
 - **후방산업 (Backward Industries)**:
-
-{{< adsense-infeed >}}
-
     - **항공기 제조업체**: JetBlue의 항공기 구매 및 임대에 필요한 항공기를 제공합니다. 주요 기업: Airbus (프랑스, AIR.PA), Boeing (미국, [BA](/company-analysis/ba/))
     - **항공기 부품 및 유지보수 서비스**: 항공기 부품 공급 및 유지보수를 담당합니다. 주요 기업: General Electric (미국, [GE](/company-analysis/ge/)), Honeywell (미국, [HON](/company-analysis/hon/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인 (Value Chain)
 
 - **항공기 제조 및 공급**: 항공기 제조 및 공급을 담당합니다. 주요 기업: Airbus (프랑스, AIR.PA), Boeing (미국, [BA](/company-analysis/ba/))

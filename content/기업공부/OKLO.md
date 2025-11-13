@@ -34,22 +34,13 @@ weight: 654
 - Industry: Nuclear Power([원자력 발전](/industry-study/원자력-발전/))
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각 고속로 (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [원자력 발전](/industry-study/원자력-발전/) 기술 회사입니다. 주요 제품은 Aurora라는 소형 모듈형 원자로(SMR)입니다.
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
 
 - 감속재 : 없음 / 냉각재 : 액체금속 소듐 
 에너지로는 고순도 저농축 우라늄(HALEU) 사용
-
-{{< adsense-infeed >}}
-
 - 감속재 : 없음 / 냉각재 : 액체금속 소듐 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - 전방산업:
     
     - 핵심 산업 및 역할: 전력 공급, 데이터 센터, 산업 시설
@@ -79,13 +70,7 @@ Oklo Inc.는  [4세대 SMR](/industry-study/4세대-smr/) 기술인 소듐냉각
 - NuScale Power (US, [SMR](/industry-study/smr/))
 - [TerraPower](/company-analysis/terrapower/) (비상장)
 - X-energy (US, [XE](/company-analysis/xe/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 구체적인 시장 점유율 데이터는 제공되지 않았지만, Oklo는 소형 모듈형 원자로 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

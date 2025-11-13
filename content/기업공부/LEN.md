@@ -34,9 +34,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 - 사업 부문별 매출 비중:  
     • 주택건설: $37.0B (84%)  
     • 금융 서비스: $4.1B (9%)  
@@ -67,9 +64,6 @@ Lennar Corporation(US, [LEN](/company-analysis/len/))는 1954년 설립된 [미�
 - 디지털·모듈러 공법: 공정 표준화로 시공 기간 평균 20% 단축
 - 종합 서비스 모델: 금융·타이틀·보험까지 통합 제공, 고객 전환율 90% 이상
 - 브랜드 인지도: Fortune 500 고객 대상 설문에서 신뢰도 1위
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 핵심 기술

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc4ed79296e1c56",
+        "id": "890ef377d681cb95",
         "type": "tabs",
         "children": [
           {
-            "id": "73f94d399764a6e7",
+            "id": "2f0b6c55d97ac0f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "d546fd744fecadad808d33d6fed15b4daf1bc8b9",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,11 +84,13 @@
               "title": "bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "03563a1fec2a264b",
@@ -193,53 +195,53 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "73f94d399764a6e7",
+  "active": "2f0b6c55d97ac0f4",
   "lastOpenFiles": [
-    "content/Daily시황정리/2025년/09월/2025-09-25 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/09월/2025-09-27 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
-    "content/Daily시황정리/_index.md",
-    "content/Daily시황정리/2025년/05월/2025-05-14 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-15 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-10 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/09월/2025-09-05 미국 시황 정리.md",
-    "static/images/Pasted image 20251111065257.png",
-    "static/images/Pasted image 20251111065242.png",
-    "static/images/Pasted image 20251111065048.png",
-    "4.템플렛/0.(간소화)데일리.md",
-    "static/images/Pasted image 20251110172611.png",
-    "static/images/Pasted image 20251110172557.png",
-    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/_index.md",
-    "코드/통합코드 11.07(새글만 적용하도록).md",
-    "static/images/Pasted image 20251110070320.png",
-    "static/images/Pasted image 20251110070215.png",
-    "content/산업-테마공부/04.국가/브라질/2025년 11월, 브라질 기준금리 동결.md",
-    "content/산업-테마공부/04.국가/브라질/브라질.md",
-    "content/산업-테마공부/04.국가/브라질/_index.md",
-    "코드/통합 코드(광고+시간등)_11.04.md",
-    "content/산업-테마공부/04.국가/브라질/무제",
+    "content/Daily시황정리/2025년/01월/2025-01-21 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-17 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-16 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-15 미국 시황 정리.md",
+    "content/기업공부/ABG.md",
+    "content/기업공부/ABBV.md",
+    "content/Daily시황정리/2025년/01월/2025-01-07 미국 시황 정리.md",
     "content/Daily시황정리/2025년/01월/2025-01-01 미국 시황 정리.md",
-    "content/산업-테마공부/04.국가/인도/_index.md",
-    "content/산업-테마공부/04.국가/일본/_index.md",
-    "content/산업-테마공부/04.국가/일본/일본.md",
-    "content/산업-테마공부/04.국가/일본/STUDY/2023/_index.md",
-    "content/산업-테마공부/04.국가/독일.md",
-    "content/산업-테마공부/04.국가/브라질",
-    "images/screenshot.jpg",
-    "images/tn.jpg",
-    "static/images/Pasted image 20251107070005.png",
+    "content/Daily시황정리/2025년/01월/2025-01-18 미국시황 정리.md",
+    "content/Daily시황정리/2025년/03월/2025-03-27 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-14 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-11 미국 시황 정리.md",
+    "4.템플렛/0.(간소화)데일리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-09 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-08 미국 시황 정리.md",
+    "company-analysis/msft.md",
     "company-analysis",
+    "content/Daily시황정리/2025년/01월/2025-01-04 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-03 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/01월/2025-01-22 미국 시황 정리.md",
+    "코드/광고제거 코드.md",
+    "content/Daily시황정리/2025년/_index.md",
+    "content/Daily시황정리/2025년/11월/_index.md",
+    "content/Daily시황정리/2025년/10월/_index.md",
+    "images/tn.jpg",
+    "images/screenshot.jpg",
+    "static/images/Pasted image 20251112065809.png",
+    "static/pdf",
+    "static/images/Pasted image 20251111151922.png",
+    "static/images/Pasted image 20251111150742.png",
+    "static/images/Pasted image 20251111150710.png",
+    "static/images/Pasted image 20251111150513.png",
+    "static/images/Pasted image 20251111150510.png",
+    "static/images/Pasted image 20251111150441.png",
+    "content/투자아이디어/투자전략",
+    "static/images/Pasted image 20251111144112.png",
+    "content/Earning/엔씨소프트",
+    "content/산업-테마공부/04.국가/브라질/무제",
+    "content/산업-테마공부/04.국가/브라질",
     "content/Earning/PLTR",
     "content/Earning/CIFR",
     "content/Daily시황정리/2025년/11월",
-    "public/투자아이디어/아이디어-스케치/엔비디아의-어두운-그림자-순환-투자로-매출을-부풀리고-있다는-의혹",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-30-미국-시황-정리",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-27-미국-시황-정리",
-    "public/docs/1.daily-시황정리/2025/09/2025-09-26-미국-시황-정리"
+    "public/투자아이디어/아이디어-스케치/엔비디아의-어두운-그림자-순환-투자로-매출을-부풀리고-있다는-의혹"
   ]
 }

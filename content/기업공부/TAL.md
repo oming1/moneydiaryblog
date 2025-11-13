@@ -25,9 +25,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 1. **소규모 클래스 서비스**: 학생들에게 맞춤형 학습 경험을 제공하는 소규모 그룹 수업.
     
 2. **개인화된 프리미엄 서비스**: 개별 학생의 요구에 맞춘 고급 튜터링 서비스.
-
-{{< adsense-infeed >}}
-
 3. **학습 콘텐츠 솔루션**: 인쇄물, 스마트 북, 모바일 앱, AI 기반 학습 기기 등 다양한 학습 자료 제공.
 4. **온라인 교육 플랫폼**: [www.xueersi.com을](http://www.xueersi.xn--com-of0o/) 통해 온라인 학습 서비스 제공.
     
@@ -63,9 +60,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 - **교육 콘텐츠 제공업체**: 학습 자료 및 콘텐츠 제공 (Pearson(UK, PSO), McGraw-Hill(US, MHFI))
     
 - **기술 제공업체**: AI 및 학습 기술 제공 (Google(US, [GOOGL](/company-analysis/googl/)), Microsoft(US, [MSFT](/company-analysis/msft/)))
-
-{{< adsense-infeed >}}
-
 - **인프라 제공업체**: 클라우드 및 네트워크 인프라 (Alibaba Cloud(US, [BABA](/company-analysis/baba/)), Tencent Cloud(HK, 0700))
 
 ## 밸류체인
@@ -73,9 +67,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 1. **콘텐츠 개발**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (교육 콘텐츠 개발)
     
 2. **기술 개발**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (AI 및 학습 기술 개발)
-
-{{< adsense-infeed >}}
-
 3. **서비스 제공**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (온라인 및 오프라인 학습 서비스)
     
 4. **유통 및 판매**: TAL Education Group(US, [TAL](/company-analysis/tal/)) (교육 자료 및 제품 판매)
@@ -92,9 +83,6 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 3. **학습 콘텐츠 솔루션**: 다양한 학습 자료 제공 (2024년 매출의 약 20%)
     
 4. **온라인 교육 플랫폼**: [www.xueersi.com](http://www.xueersi.com/) (2024년 매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 TAL의 주요 고객은 다음과 같습니다:

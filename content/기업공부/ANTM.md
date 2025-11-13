@@ -53,24 +53,15 @@ Anthem은 미국의 주요 건강 보험 회사로, 의료, 약국, 치과, 행�
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 Anthem은 미국을 주요 시장으로 하며, 유럽 및 아시아에서도 중요한 매출을 올리고 있습니다.
 ## 경쟁업체
 
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Cigna** (미국, [CI](/company-analysis/ci/)) - 경쟁 제품: 건강 보험
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 Anthem은 글로벌 관리형 헬스케어 시장에서 약 5%의 점유율을 차지하고 있으며(2023년 기준), 지속적인 성장을 보여주고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **Cigna 인수 실패**: Anthem이 Cigna를 인수하려 했으나 반독점 문제로 인해 실패한 사건 (2017)
 - **Elevance Health로의 재브랜딩**: Anthem이 Elevance Health로 이름을 변경하며 새로운 브랜드 전략을 발표한 사건 (2022)
 - **Blue Cross and Blue Shield of Louisiana 인수 발표**: Louisiana의 Blue Cross와 Blue Shield를 인수하여 사업 영역 확장을 발표한 사건 (2023)

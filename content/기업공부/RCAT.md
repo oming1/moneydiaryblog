@@ -102,9 +102,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 **3단계:** 조립 및 통합 (자체 제조 시설)  
 **4단계:** 품질 검사 및 Blue sUAS 인증  
 **5단계:** 납품 및 현장 지원 서비스
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 전방산업 / 후방산업
@@ -174,9 +171,6 @@ Red Cat의 주요 제품으로는 Teal의 Black Widow(단거리 정찰용), Flig
 - U.S. Army National Guard (육군 주방위군) - Edge 130 계약
 - U.S. Army Communications-Electronics Command (CECOM) - $100만 계약
 - U.S. Department of Homeland Security (국토안보부) - 국경 감시
-
-{{< adsense-infeed >}}
-
 **기타 정부 기관:**
 
 - Other Government Agencies (OGA) - 분류된 계약들

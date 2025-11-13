@@ -15,9 +15,6 @@ weight: 205
 - Industry: Media - Diversified(다각화된 미디어)
 
 ## 영위 사업
-
-{{< adsense-infeed >}}
-
 Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입니다. 주요 사업 부문으로는 케이블 통신, NBCUniversal(미디어 및 엔터테인먼트), Sky(유럽 미디어 및 통신)가 있습니다.
 ## 전방/후방 산업
 
@@ -46,9 +43,6 @@ Comcast는 미국 최대의 케이블 TV 및 인터넷 서비스 제공업체입
     - 대표 기업: ViacomCBS (미국, VIAC), Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - Xfinity (케이블 TV, 인터넷, 전화 서비스)
 - NBCUniversal (NBC, MSNBC, CNBC 등 방송 채널)
 - Universal Pictures (영화 제작 스튜디오)

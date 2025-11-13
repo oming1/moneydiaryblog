@@ -26,9 +26,6 @@ Navitas Semiconductor Corp는 초고효율 갈륨 나이트라이드([GaN](/indu
 - 웨이퍼 제조업체: Shin-Etsu Chemical(JP, 4063.T)
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 스마트폰 제조업체: Apple(US, [AAPL](/company-analysis/aapl/)), Samsung Electronics(KR, 005930.KS)
 - 전기차 제조업체: Tesla(US, [TSLA](/company-analysis/tsla/)), BYD(CN, 1211.HK)
 - 데이터 센터 운영 기업: Amazon(US, [AMZN](/company-analysis/amzn/)), Microsoft(US, [MSFT](/company-analysis/msft/))
@@ -41,9 +38,6 @@ Navitas Semiconductor Corp는 초고효율 갈륨 나이트라이드([GaN](/indu
 4. 유통 및 판매: 직접 판매 및 유통 파트너
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - GaN 파워 IC: 고속 충전기, 데이터 센터 전원 공급 장치, 태양광 인버터 등에 사용
 - GaNFast 파워 IC: 모바일 고속 충전기용 솔루션
 - GaNSense 기술: 과전류, 과전압 보호 기능이 통합된 GaN IC
@@ -51,18 +45,12 @@ Navitas Semiconductor Corp는 초고효율 갈륨 나이트라이드([GaN](/indu
 ## 주요 판매국가
 중국, 유럽, 미국, 아시아 기타 지역
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Infineon Technologies(DE, IFX.DE): GaN 및 SiC 전력 반도체
 - Texas Instruments(US, [TXN](/company-analysis/txn/)): 아날로그 및 임베디드 프로세싱 제품
 - STMicroelectronics(CH, [STM](/company-analysis/stm/)): 광범위한 전자 응용 제품
 - Power Integrations(US, [POWI](/company-analysis/powi/)): 고전압 집적 회로
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈

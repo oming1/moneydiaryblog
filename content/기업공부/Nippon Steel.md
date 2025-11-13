@@ -15,9 +15,6 @@ weight: 617
 - **Industry:** [철강](/industry-study/철강/) (Steel)
 
 **영위사업 (Business Operations)** Nippon Steel Corporation은 철강 제조 및 가공, 엔지니어링 및 건설, 화학 및 소재, 시스템 솔루션 등 다양한 사업을 영위하고 있습니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **철강 제조 및 가공 (Steelmaking and Steel Fabrication):** 철강판, 강관, 철근, 구조용 강재 등
 - **엔지니어링 및 건설 (Engineering and Construction):** 건설, 폐기물 처리 및 재활용, 전기, 가스 및 열 공급
 - **화학 및 소재 (Chemicals and Materials):** 석탄 기반 화학 제품, 석유화학 제품, 전자 재료, 반도체 및 전자 부품용 소재
@@ -31,9 +28,6 @@ weight: 617
 -  **후방산업 (Upstream Industries):**
     - **핵심 산업:** 철광석 및 석탄 채굴
     - **핵심 기업:** Rio Tinto (호주, [RIO](/company-analysis/rio/)), BHP (호주, [BHP](/company-analysis/bhp/))
-
-{{< adsense-infeed >}}
-
 **밸류체인 (Value Chain)**
 - **내부 물류 (Inbound Logistics):** 원자재 수급 및 운송
     - **대표 회사:** Rio Tinto (호주, [RIO](/company-analysis/rio/)), Vale (브라질, [Vale](/company-analysis/vale/))
@@ -59,9 +53,6 @@ weight: 617
 - **미국:** 북미 주요 시장
 - **인도:** 신흥 시장
 **경쟁업체 (Competitors)**
-
-{{< adsense-infeed >}}
-
 - **[포스코](/industry-study/포스코/) (한국, 005490):** 철강 제조 및 가공
 - **JFE Steel (일본, 5411):** 철강 제조 및 가공
 - **ArcelorMittal (룩셈부르크, [MT](/company-analysis/mt/)):** 철강 제조 및 가공

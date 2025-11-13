@@ -18,10 +18,7 @@ weight: 164
 
 BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배터리](/industry-study/배터리/), 전기버스, 전기트럭, 에너지 저장 시스템([ESS](/industry-study/ess/)) 등을 포함한 다양한 제품을 제조 및 판매합니다. 또한, 철도 교통 시스템 및 전자 제품 제조도 영위하고 있습니다.
 
-
 #### 전방/후방산업
-
-
 
 - **전방산업**:
     - **자동차 제조**: 전기차 배터리 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)), NIO (CN, [NIO](/company-analysis/nio/)))
@@ -30,10 +27,7 @@ BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배�
     - **리튬 채굴**: 배터리 원료 공급 (예: Albemarle (US, [ALB](/company-analysis/alb/)))
     - **화학 제조**: 배터리 소재 공급 (예: BASF (DE, BAS))
 
-
-
 #### 밸류체인
-
 
 - **원료 채굴**: Albemarle (US, [ALB](/company-analysis/alb/)), SQM (CL, SQM)
 - **배터리 소재 제조**: BASF (DE, BAS), Umicore (BE, UMI)
@@ -42,26 +36,17 @@ BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배�
 
 #### 주요제품
 
-
-
 - **[전기차](/industry-study/2산업자동차-산업전기차/)**: 전기 승용차 및 상용차
 - **배터리**: [리튬이온 배터리](/industry-study/리튬이온-배터리/) 및 에너지 저장 시스템
 - **전기버스**: 도시 및 장거리 운송용 전기버스
 - **전기트럭**: 물류 및 건설용 전기트럭
-
-
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
 
 - **중국**: 전체 매출의 약 67.33% (2023년 기준)
 - **유럽**: 주요 판매국가로 독일, 프랑스, 영국 등이 포함됨
 - **미국**: 주요 판매국가로 Tesla, Ford 등과 협력
 
 #### 경쟁업체
-
 
 - **Tesla (US, [TSLA](/company-analysis/tsla/))**: 전기차 및 배터리 제조
 - **NIO (CN, [NIO](/company-analysis/nio/))**: 전기차 제조
@@ -71,9 +56,6 @@ BYD는 [전기차](/industry-study/2산업자동차-산업전기차/)(EV), [배�
 #### 산업 내 글로벌 시장 점유율
 
 [BYD는 글로벌 전기차 시장에서 약 17.1%의 점유율을 보유하고 있으며, 이는 2023년 기준으로 세계 2위입니다](https://www.visualcapitalist.com/visualizing-global-electric-vehicle-sales-in-2023-by-market-share/)[1](https://www.visualcapitalist.com/visualizing-global-electric-vehicle-sales-in-2023-by-market-share/)[2](https://www.statista.com/statistics/541390/global-sales-of-plug-in-electric-vehicle-manufacturers/).
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 - **전방산업**:
     - **자동차 제조**: 전기차 배터리 공급 (예: Tesla (US, [TSLA](/company-analysis/tsla/)), NIO (CN, [NIO](/company-analysis/nio/)))

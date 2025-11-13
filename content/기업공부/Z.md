@@ -23,16 +23,10 @@ Zillow Group은 [부동산](/industry-study/2산업부동산/) 및 주택 관련
 - 부동산 중개: Redfin (국가:US, [RDFN](/company-analysis/rdfn/))
 - 주택 건설: Lennar Corporation (국가:US, [LEN](/company-analysis/len/))
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스: Amazon Web Services (국가:US, [AMZN](/company-analysis/amzn/))
 - 데이터 분석: Palantir Technologies (국가:US, [PLTR](/company-analysis/pltr/))
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Zillow.com (부동산 리스팅 및 정보 플랫폼, 매출 비중 정보 없음)
 - Trulia (부동산 검색 엔진, 매출 비중 정보 없음)
 - StreetEasy (뉴욕시 부동산 플랫폼, 매출 비중 정보 없음)
@@ -41,9 +35,6 @@ Zillow Group은 [부동산](/industry-study/2산업부동산/) 및 주택 관련
 ## 주요 판매국가
 ## 주요 판매국가
 Zillow Group은 주로 미국 시장에서 서비스를 제공합니다[](https://finance.yahoo.com/quote/Z/profile/?guccounter=1). 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Redfin (국가:US, [RDFN](/company-analysis/rdfn/)) - 온라인 부동산 중개 서비스
 - Realtor.com (News Corp 소유) - 부동산 리스팅 및 정보 플랫폼

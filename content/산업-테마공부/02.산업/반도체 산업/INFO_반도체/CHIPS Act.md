@@ -52,24 +52,15 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
     - 현재 미국의 반도체 생산 점유율은 1990년대 37%에서 **12%**로 감소한 상태입니다.
 
 2. **기술 패권 경쟁**
-
-{{< adsense-infeed >}}
-
     - 미국은 중국과의 기술 패권 경쟁에서 우위를 점하기 위해 반도체 산업을 전략적으로 육성하고 있습니다.
     - 반도체는 AI, 5G, 국방 등 첨단 기술의 핵심 요소로, 국가 안보와 경제에 중요한 역할을 합니다.
 
 3. **고용 창출 및 경제 활성화**
     
     - CHIPS Act는 미국 내 반도체 제조 시설 건설을 통해 **수십만 개의 일자리 창출**과 지역 경제 활성화를 목표로 합니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### **2025년 트럼프 행정부의 칩스법(CHIPS Act) 수혜 기업**
-
-{{< adsense-infeed >}}
-
 ### **수혜 기업**
 
 -  **인텔 (Intel, [INTC](/company-analysis/intc/))**
@@ -84,13 +75,7 @@ CHIPS Act(칩스법)는 **"Creating Helpful Incentives to Produce Semiconductors
 * ***TSMC (Taiwan Semiconductor Manufacturing Company, [TSM](/company-analysis/tsm/))** 
     
     - 대만 기반의 반도체 제조업체로, 약 **66억 달러**의 보조금을 받으며 애리조나주에 공장을 건설 중입니다.
-
-{{< adsense-infeed >}}
-
 - **삼성전자 (Samsung Electronics)** 
-
-{{< adsense-infeed >}}
-
     - 한국 기반의 글로벌 반도체 제조업체로, 약 **64억 달러**의 보조금을 수령하며 텍사스주에 첨단 반도체 공장을 건설 중입니다.
 
  - **SK하이닉스 (SK Hynix)**

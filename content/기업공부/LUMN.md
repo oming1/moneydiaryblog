@@ -39,9 +39,6 @@ Lumen Technologies는 1968년 설립된 [미국의 대표적인 통신 인프라
 Lumen Technologies의 비즈니스 모델은 광섬유 네트워크 인프라를 기반으로 한 통신 서비스 제공업체입니다.
 
 **1. Business Segment (매출 80% 비중):**
-
-{{< adsense-infeed >}}
-
 - 대기업 고객 대상 네트워킹 솔루션
 - 엣지 컴퓨팅 및 클라우드 연결성 서비스
 - [사이버 보안](/industry-study/사이버-보안/) 및 관리형 서비스
@@ -153,18 +150,12 @@ Lumen Technologies는 통신 서비스 제공업체로 제조업이 아닌 인�
 - Amazon(US, [AMZN](/company-analysis/amzn/)) - AWS 연결성 및 엣지 컴퓨팅 지원
 - Equinix(US, [EQIX](/company-analysis/eqix/)) - 데이터센터 인터커넥션 파트너
 - Digital Realty(US, [DLR](/company-analysis/dlr/)) - 데이터센터 코로케이션 서비스
-
-{{< adsense-infeed >}}
-
 **고객 서비스 단계:** 최종 고객 대상 서비스
 
 - AT&T(US, [T](/company-analysis/t/)) - Mass Markets 사업 인수 예정 파트너
 - Verizon(US, [VZ](/company-analysis/vz/)) - 통신 서비스 경쟁사 및 파트너
 - Best Buy(US,[BBY](/company-analysis/bby/)]) - 소비자 서비스 유통 채널
 - 각종 기업 고객 - 직접 B2B 서비스 제공
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요제품
@@ -174,9 +165,6 @@ Lumen Technologies는 통신 서비스 제공업체로 제조업이 아닌 인�
 **엣지 컴퓨팅 서비스:** AI 워크로드 지원 분산 컴퓨팅, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [EQIX](/company-analysis/eqix/), [DLR](/company-analysis/dlr/)
 
 **퀀텀 파이버:** 소비자 대상 브로드밴드 서비스, 매출 비중 약 20% (2024년 기준), 관련 경쟁사 [CMCSA](/company-analysis/cmcsa/), [CHTR](/company-analysis/chtr/)
-
-{{< adsense-infeed >}}
-
 **클라우드 연결성:** 하이퍼스케일러 연결 서비스, 매출 비중 약 10% (2024년 기준), 관련 경쟁사 [EQIX](/company-analysis/eqix/), [AMT](/company-analysis/amt/)
 
 **사이버보안 서비스:** 네트워크 보안 솔루션, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 [CSCO](/company-analysis/csco/), [FTNT](/company-analysis/ftnt/)

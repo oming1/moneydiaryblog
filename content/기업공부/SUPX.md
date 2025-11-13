@@ -243,9 +243,6 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 - 개인 투자자: 정확한 지분율 미공개
 - 경영진 및 임원: 정확한 지분율 미공개
 ※ 정확한 주주 구성 정보는 제한적으로 공개됨
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 20. 관련 ETF
@@ -262,9 +259,6 @@ Super X AI Technology Ltd는 AI 인프라 솔루션을 전문으로 하는 기�
 - SOXX - iShares Semiconductor ETF SOXX
 
 **레버리지 ETF:**
-
-{{< adsense-infeed >}}
-
 - TQQQ - ProShares UltraPro QQQ TQQQ
 - SOXL - Direxion Daily Semiconductor Bull 3X Shares SOXL
 ---

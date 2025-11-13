@@ -72,9 +72,6 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 1. 미국 (매출 비중: 약 80%, 2023년 기준)
 2. 캐나다 (매출 비중: 약 10%, 2023년 기준)
 3. 유럽 (매출 비중: 약 10%, 2023년 기준)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체:
 
 1. AmerisourceBergen(US, [ABC](/company-analysis/abc/)) - 의약품 유통
@@ -87,9 +84,6 @@ McKesson은 약국, 병원, 의료 시스템, 제약회사 등 다양한 헬스�
 8. Morris & DicksonMorris & Dickson - 의약품 유통
 9. H. D. SmithH. D. Smith - 의약품 유통
 10. Smith Drug CompanySmith Drug Company - 의약품 유통
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율:  
 
 McKesson은 미국 의약품 유통 시장에서 약 33%의 점유율을 보유하고 있습니다 (2023년 기준). 글로벌 시장에서는 정확한 점유율 데이터가 제한적이나, 북미 지역에서 가장 큰 의약품 유통업체로 알려져 있습니다.

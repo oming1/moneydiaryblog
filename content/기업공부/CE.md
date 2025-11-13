@@ -95,9 +95,6 @@ Celanese Corporation은 고성능 엔지니어링 폴리머와 아세틸 제품�
 Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 약 25%를 차지하고 있습니다(2023년 기준). 엔지니어링 플라스틱 시장에서는 상위 5위 내에 포진하고 있으나, 정확한 점유율 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. DuPont의 Mobility & Materials 사업 부문 인수 완료 (2022년)
     
 2. Mitsui & Co., Ltd.와 Nutrinova 합작 회사 설립 (2023년)
@@ -107,9 +104,6 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 4. 프랑크푸르트 VAE 에멀젼 공장 확장 프로젝트 진행 중 (2025년 하반기 완공 예정)
     
 5. 주당 배당금 95% 감축 및 자사주 매입 프로그램 일시 중단 발표 (2025년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 1. The Vanguard Group (11.66%)
     
@@ -118,16 +112,10 @@ Celanese는 아세트산 생산에서 세계 1위로, 전 세계 생산량의 �
 3. State Street Corporation (4.47%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. Materials Select Sector SPDR Fund - XLB
 2. Vanguard Materials ETF - VAW
     
 3. iShares U.S. Basic Materials ETF - IYM
     
 4. Invesco S&P 500 Equal Weight Materials ETF - RTM
-
-{{< adsense-infeed >}}
-
 5. First Trust Materials AlphaDEX Fund - FXZ

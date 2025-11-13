@@ -48,9 +48,6 @@ American Shared Hospital Services(NYSE American: AMS)는 30년 이상의 경력�
 전방산업:
 
 - 병원 및 의료 센터: 장비 최종 사용자 (HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/)))
-
-{{< adsense-infeed >}}
-
 - 암 치료 센터: 방사선 치료 서비스 제공 (21st Century Oncology(21st Century Oncology), GenesisCare(GenesisCare))
 
 후방산업:
@@ -109,18 +106,12 @@ American Shared Hospital Services의 주요 고객은 대부분 병원 및 의�
 5. IBA Group(BE, IBAB): 양성자 치료 솔루션
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 검색 결과[2](https://www.ashs.com/investors/)에 따르면 American Shared Hospital Services는 미국 감마나이프 장비 소유권 시장에서 약 16%의 점유율을 보유하고 있습니다. 글로벌 시장 점유율에 대한 구체적인 데이터는 제공되지 않았습니다.
 
 ## 최근 3년 내 주요 이슈
 
 1. 로드아일랜드 방사선 치료 암 센터 3곳 인수 진행 (2024년)
 2. 에콰도르 국제 암 센터 장비 업그레이드 완료 (2024년)
-
-{{< adsense-infeed >}}
-
 3. 멕시코 푸에블라에 새로운 센터 개설 예정 (2025년 2분기)
     
 4. 감마나이프 고객 사이트 4곳과 계약 연장 (2024년)

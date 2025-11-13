@@ -18,9 +18,6 @@ weight: 453
 International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스를 제공합니다. 이 회사는 다양한 산업용 특수 종이와 포장재를 제조합니다.
 International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스를 제공합니다. 이 회사는 다양한 산업용 특수 종이와 포장재를 제조합니다.
 ### 전방산업 및 후방산업
-
-{{< adsense-infeed >}}
-
 - **후방산업 (Upstream Industry)**:
     
     - **펄프 및 종이 제조**: 담배 제조에 필요한 종이와 필터를 생산. 주요 기업: International Paper (미국, [IP](/company-analysis/ip/)), WestRock (미국, WRK).
@@ -33,16 +30,10 @@ International Paper는 주로 펄프, 종이, 포장재 및 재활용 서비스�
 ### 밸류체인
 
 1. **펄프 및 종이 제조 (Pulp and Paper Manufacturing)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 제조에 필요한 종이와 필터를 생산.
     - **대표회사**: International Paper (미국, [IP](/company-analysis/ip/)), WestRock (미국, WRK).
 
 1. **원자재 공급 (Raw Material Supply)**:
-
-{{< adsense-infeed >}}
-
     - **설명**: 담배 제조에 필요한 종이, 필터, 포장재 등을 공급.
     - **대표회사**: Schweitzer-Mauduit International (미국, [SWM](/company-analysis/swm/)), Glatfelter (미국, GLT).
 

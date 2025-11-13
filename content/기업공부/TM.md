@@ -40,13 +40,7 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 1. 철강: Nippon Steel Corporation(JP, [Nippon Steel](/company-analysis/nippon-steel/))
 2. 알루미늄: Alcoa Corporation(US, [AA](/company-analysis/aa/))
 3. 반도체: NVIDIA Corporation(US, [NVDA](/company-analysis/nvda/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: Toyota Research Institute(US, Toyota)
 2. 원자재 조달: Sumitomo Metal Mining Co., Ltd.(JP, [Sumitomo Metal Mining](/company-analysis/sumitomo-metal-mining/))
 3. 부품 제조: Aisin Seiki Co., Ltd.(JP, Aisin Seiki)
@@ -67,13 +61,7 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 ## 주요 고객
 
 Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한 고객층을 포함합니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 일본, 중국, 유럽 국가들, 동남아시아 국가들
 
 ## 경쟁업체

@@ -41,9 +41,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 1. 후방산업:
     - 석유화학: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 천연가스: Chevron(US, [CVX](/company-analysis/cvx/))
-
-{{< adsense-infeed >}}
-
 2. 전방산업:
     - 자동차: General Motors(US, [GM](/company-analysis/gm/))
     - 전자기기: Apple(US, [AAPL](/company-analysis/aapl/))
@@ -69,21 +66,12 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 3. LG전자(KR, 066570)
 4. BMW(DE, [BMW](/company-analysis/bmw/))
 5. Saint-Gobain(FR, SGO)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 1. 미국 및 캐나다 (2023년 매출 비중: 약 35%)
 2. 유럽, 중동, 아프리카 (2023년 매출 비중: 약 30%)
 3. 아시아 태평양 (2023년 매출 비중: 약 25%)
 4. 라틴 아메리카 (2023년 매출 비중: 약 10%)
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. BASF(DE, BAS) - 종합 화학제품
 2. LyondellBasell(US, [LYB](/company-analysis/lyb/)) - 폴리올레핀, 화학제품
 3. DuPont(US, [DD](/company-analysis/dd/)) - 특수 화학제품
@@ -99,9 +87,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 3. 원자재 가격 상승에 따른 마진 압박 (2023년)
 4. 순환경제 솔루션 개발 및 출시 확대 (2023-2024년)
 5. 디지털 전환 가속화를 통한 운영 효율성 제고 (2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 1. The Vanguard Group, Inc.: 11.62%

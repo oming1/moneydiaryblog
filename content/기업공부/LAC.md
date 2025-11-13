@@ -16,13 +16,7 @@ weight: 502
 ## 산업
 
 금속 및 광업(Metals & Mining)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업입니다. 주요 사업은 다음과 같습니다:
 
 1. Thacker Pass 프로젝트: 미국 네바다주에 위치한 세계 최대 규모의 [리튬](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속리튬/) 광산 개발
@@ -40,9 +34,6 @@ Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업
 5. 강력한 파트너십: General Motors 등 주요 기업들과의 협력 관계
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     
     - 광산 장비: Caterpillar(US, [CAT](/company-analysis/cat/))
@@ -64,9 +55,6 @@ Lithium Americas Corp.는 리튬 광산 개발 및 생산에 주력하는 기업
 
 1. 배터리급 리튬 카보네이트 (전기차 배터리용)
 2. 기술 라이선싱 (리튬 추출 및 정제 기술)
-
-{{< adsense-infeed >}}
-
 ## 주요고객
 
 1. General Motors(US, [GM](/company-analysis/gm/))
@@ -94,9 +82,6 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 5. ISO-9001:2015 인증 획득 (2023년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. General Motors Holdings LLC
 2. Van Eck Associates Corporation
 3. Mirae Asset Global Investments Co., Ltd.

@@ -19,9 +19,6 @@ weight: 965
 Waste Management Inc.는 북미에서 환경 솔루션을 제공하는 회사로, 주거, 상업, 산업 및 지방 자치 단체 고객에게 폐기물 수거, 운송, 처리 및 재활용 서비스를 제공합니다. 주요 사업으로는 폐기물 수거, 재활용, 자원 회수, 매립지 운영 등이 있습니다
 
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **재활용 산업**: 재활용된 자재 공급 (예: International Paper (US, [IP](/company-analysis/ip/)))
     - **에너지 생산**: 매립지 가스를 이용한 재생 가능 에너지 생산 (예: NextEra Energy (US, [NEE](/company-analysis/nee/)))
@@ -42,13 +39,7 @@ Waste Management Inc.는 북미에서 환경 솔루션을 제공하는 회사로
 #### 주요 판매국가
 - **미국**: 전체 매출의 대부분을 차지
 - **캐나다**: 주요 판매국가로 포함됨
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Republic Services (US, [RSG](/company-analysis/rsg/))**: 폐기물 수거 및 재활용 서비스
 - **Clean Harbors (US, [CLH](/company-analysis/clh/))**: 유해 폐기물 처리 및 환경 서비스
 - **Waste Connections (US, [WCN](/company-analysis/wcn/))**: 폐기물 수거 및 재활용 서비스

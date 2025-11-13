@@ -21,9 +21,6 @@ Snowflake는 [클라우드](/industry-study/2산업클라우드/) 기반 데이�
 
 - **전방산업**:
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **핵심 산업 및 역할**: 데이터 분석 및 비즈니스 인텔리전스
     - **관련 기업**: Tableau (US, [CRM](/company-analysis/crm/)), Microsoft Power BI (US, [MSFT](/company-analysis/msft/))
@@ -42,14 +39,8 @@ Snowflake는 [클라우드](/industry-study/2산업클라우드/) 기반 데이�
     - **대표 회사**: IBM Cognos Analytics (US, [IBM](/company-analysis/ibm/)) - 비즈니스 인텔리전스
     - **대표 회사**: Qlik (US, 비상장) - 데이터 분석 플랫폼
 - **클라우드 서비스**: 클라우드 인프라 및 서비스 제공
-
-{{< adsense-infeed >}}
-
     - **대표 회사**: Microsoft Azure (US, [MSFT](/company-analysis/msft/)) - 클라우드 서비스
     - **대표 회사**: Oracle Cloud (US, [ORCL](/company-analysis/orcl/)) - 클라우드 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - **Snowflake Data Cloud** (클라우드 기반 데이터 플랫폼, 매출의 약 90%)
 - **Snowflake Marketplace** (데이터 공유 및 거래 플랫폼, 매출의 약 10%)
@@ -57,9 +48,6 @@ Snowflake는 [클라우드](/industry-study/2산업클라우드/) 기반 데이�
 ## 주요 판매국가
 
 Snowflake는 전 세계적으로 운영되며, 주요 시장은 북미, 유럽, 아시아 태평양 지역입니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - **Databricks (US, 비상장)** - 데이터 분석 및 AI 플랫폼

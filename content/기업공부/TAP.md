@@ -31,9 +31,6 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 - 도소매업: Walmart(US, [WMT](/company-analysis/wmt/)), Costco(US, [COST](/company-analysis/cost/))
 - 요식업: McDonald's(US, [MCD](/company-analysis/mcd/)), Yum! Brands(US, YUM)
 - 숙박업: Marriott International(US, [MAR](/company-analysis/mar/)), Hilton(US, [HLT](/company-analysis/hlt/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 농업: Archer-Daniels-Midland(US, ADM), Bunge(US, BG)
@@ -56,13 +53,7 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 - Carlsberg(DK, CARL-A)
 - Constellation Brands(US, [STZ](/company-analysis/stz/))
 - Boston Beer Company(US, SAM)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Molson Coors는 2023년 기준 글로벌 맥주 시장에서 약 5%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있습니다.
 
 ## 최근 3년 내 주요 이슈

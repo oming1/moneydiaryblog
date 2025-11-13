@@ -15,13 +15,7 @@ weight: 760
 - Industry: Apparel Retail(의류 소매)
 
 ## 영위 사업
-
-{{< adsense-infeed >}}
-
 Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인된 가격에 판매하는 오프프라이스 소매업을 영위하고 있습니다. 주요 브랜드로는 Ross Dress for Less와 dd's DISCOUNTS가 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 - 전방 산업: 소비자 소매
 - 후방 산업: 의류 제조, 가정용품 제조
@@ -40,9 +34,6 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 
 ## 주요 판매 국가
 미국 43개 주, 워싱턴 D.C., 괌에서 사업을 전개하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - TJX Companies (미국, [TJX](/company-analysis/tjx/))
@@ -52,13 +43,7 @@ Ross Stores는 주로 의류, 액세서리, 신발, 가정용품 등을 할인�
 ## 산업 내 글로벌 시장 점유율
 
 Ross Stores는 미국 내 최대 오프프라이스 소매업체 중 하나로, 2024년 2분기 기준 Apparel Retail 산업 내에서 약 18.9%의 시장 점유율을 보유하고 있습니다
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 2023년 뉴욕, 미시간, 미네소타 주에 첫 Ross Dress for Less 매장 오픈 (2023년)
 - COVID-19 팬데믹으로 인한 도전적인 소매 환경 극복 (2021-2022년)
 - 장기 매장 목표를 Ross Dress for Less 2,900개, dd's DISCOUNTS 700개로 상향 조정 (2021년)

@@ -21,9 +21,6 @@ Iridium Communications Inc.는 미국의 위성 통신 회사로, 전 세계적�
 - 66개의 [저궤도 위성](/industry-study/저궤도-위성/)을 활용한 [통신 위성](/industry-study/통신-위성/)을 통해 글로벌 위성 단말 통신 서비스 제공
 
 ## 전방/후방 산업
-
-{{< adsense-infeed >}}
-
 - **전방 산업 (Downstream Industry)**:
     
     - **핵심 산업**: 소비자 및 기업 통신 서비스
@@ -41,18 +38,12 @@ Iridium Communications Inc.는 미국의 위성 통신 회사로, 전 세계적�
         
         - Boeing (미국, [BA](/company-analysis/ba/)) - 위성 및 항공기 제조
         - Thales Alenia Space (프랑스, 비상장) - 위성 시스템 개발
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 - **위성 통신 서비스**:
     
     - Iridium은 다양한 위성 통신 서비스를 제공하며, 주로 군사 및 상업적 용도로 사용됩니다.
     - 대표 기업:
-
-{{< adsense-infeed >}}
-
         - SES S.A. (룩셈부르크, SES) - 글로벌 위성 통신 서비스 제공
         - Intelsat (룩셈부르크, 비상장) - 위성 기반 데이터 전송 서비스 제공
 - **장비 및 솔루션 제공**:
@@ -63,9 +54,6 @@ Iridium Communications Inc.는 미국의 위성 통신 회사로, 전 세계적�
 
 ## 주요 제품
         - Garmin (미국, [GRMN](/company-analysis/grmn/)) - GPS 및 통신 장비 제조
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 - **Iridium Certus®**: 고속 데이터 전송을 지원하는 다목적 플랫폼입니다.
     

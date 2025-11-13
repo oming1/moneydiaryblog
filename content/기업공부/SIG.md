@@ -28,13 +28,7 @@ Signet Jewelers의 핵심 경쟁력은 다음과 같습니다:
 3. 수직 계열화: 원석 구매부터 소매까지 전 과정을 관리하여 비용 효율성과 품질 관리를 강화합니다.
 4. 디지털 혁신: AI 기반 고객 서비스, 가상 try-on 등 혁신적인 기술을 도입하여 고객 경험을 개선하고 있습니다.
 5. 지속가능성 이니셔티브: 윤리적 소싱, 환경 친화적 실천 등을 통해 브랜드 가치를 높이고 있습니다.
-
-{{< adsense-infeed >}}
-
 이러한 경쟁력을 바탕으로 Signet은 변화하는 소비자 트렌드에 대응하며 시장 지위를 강화하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -43,9 +37,6 @@ Signet Jewelers의 핵심 경쟁력은 다음과 같습니다:
 - 결혼 및 이벤트 산업: David's Bridal, The Knot Worldwide
 - 럭셔리 패션: LVMH(FR, MC), Kering(FR, KER)
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 다이아몬드 채굴: De Beers Group(Anglo American), ALROSA(RU, ALRS)
 - 귀금속 제련: Heraeus Group, Metalor Technologies
 - 보석 가공: Rosy Blue, KGK Group
@@ -72,9 +63,6 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 아일랜드, 채널 제도
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Tiffany & Co.(US, TIF) - 고급 주얼리
 - Pandora(DK, PNDORA) - 패션 주얼리
@@ -85,9 +73,6 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 - Swarovski(AT, Swarovski) - 크리스탈 주얼리
 - Blue Nile(US, NILE) - 온라인 다이아몬드 주얼리
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Signet Jewelers는 2024년 기준 글로벌 주얼리 시장에서 약 7%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간 온라인 판매 강화와 M&A를 통해 시장 점유율을 꾸준히 확대해 왔습니다.
 
 ## 최근 3년 내 주요 이슈

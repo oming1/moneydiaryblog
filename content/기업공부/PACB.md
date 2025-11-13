@@ -63,9 +63,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 ## 전방산업
 
 1. 의료 및 제약: 정밀 의학, 희귀 질환 진단, 신약 개발
-
-{{< adsense-infeed >}}
-
     - Pfizer(US, [PFE](/company-analysis/pfe/)), Roche(CH, [ROG](/company-analysis/rog/))
     
 2. 농업 및 식품: 작물 개량, 가축 육종
@@ -79,9 +76,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 1. 반도체 및 전자부품: 시퀀싱 장비용 센서 및 칩 제조
     
     - Intel(US, [INTC](/company-analysis/intc/)), NVIDIA(US, [NVDA](/company-analysis/nvda/))
-
-{{< adsense-infeed >}}
-
 2. 화학 및 생화학 재료: 시약 및 소모품 제조
     
     - Agilent Technologies(US, [A](/company-analysis/a/)), Merck KGaA(DE, [MRK](/company-analysis/mrk/))
@@ -94,15 +88,9 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 1. 연구 및 개발: DNA 시퀀싱 기술 혁신
     
     - Pacific Biosciences(US, [PACB](/company-analysis/pacb/)), Illumina(US, [ILMN](/company-analysis/ilmn/))
-
-{{< adsense-infeed >}}
-
 2. 장비 제조: 시퀀싱 시스템 생산
     
     - Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Oxford Nanopore Technologies(GB, ONT)
-
-{{< adsense-infeed >}}
-
 3. 소모품 및 시약 공급: 시퀀싱 키트 및 시약 제조
     - Agilent Technologies(US, [A](/company-analysis/a/)), Bio-Rad Laboratories(US, BIO)
     
@@ -148,9 +136,6 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 ## 산업 내 글로벌 시장 점유율
 
 정확한 시장 점유율 데이터는 제공되지 않았지만, PACB는 장기 읽기 DNA 시퀀싱 시장에서 주요 플레이어 중 하나로 인식되고 있습니다. 2022년 기준 전체 DNA 시퀀싱 시장에서는 Illumina가 약 80%의 점유율로 선두를 차지하고 있으며, PACB는 장기 읽기 시장에서 Oxford Nanopore Technologies와 경쟁하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 1. Revio 시스템 출시로 처리량 대폭 증가 (2022)
 2. Vega 시스템 발표로 중소규모 시장 공략 강화 (2023)

@@ -23,9 +23,6 @@ Infineon Technologies AG는 세계적인 반도체 및 시스템 솔루션 제�
 4. IoT(사물인터넷) 기술
 5. 산업용 반도체
 Infineon은 특히 [자동차](/industry-study/자동차/) 산업에서 강세를 보이며, 전기차, 자율주행, 커넥티드 카 등을 위한 첨단 반도체 솔루션을 제공하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 1. AURIX™ TriCore™ 마이크로컨트롤러: 자동차 및 산업용 애플리케이션에 사용
 2. XMC™ 산업용 마이크로컨트롤러: 전력 변환, 공장 자동화 등에 활용
@@ -42,9 +39,6 @@ Infineon은 전 세계적으로 사업을 영위하고 있으며, 특히 유럽,
 3. Texas Instruments ([TXN](/company-analysis/txn/))
 4. Renesas Electronics (6723.T)
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 TechInsights의 2023년 자동차 반도체 시장 조사에 따르면, Infineon은 약 14%의 시장 점유율로 1위를 차지했습니다
 
 특히 자동차용 마이크로컨트롤러 시장에서는 약 29%의 점유율로 세계 1위를 기록했습니다

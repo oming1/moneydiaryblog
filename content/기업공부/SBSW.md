@@ -36,9 +36,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 - 2024년 총 매출: ZAR 121억 8,300만
 - 고객 계약 기반 매출: ZAR 70억 6,800만 (57.9%)
 - 기타 매출: ZAR 51억 1,500만 (42.1%)
-
-{{< adsense-infeed >}}
-
 **사업 부문별 매출 비중:**
 - 남아프리카 PGM 운영: 약 40-45%
 - 남아프리카 금 운영: 약 25-30%
@@ -138,9 +135,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 **팔라듐 (Palladium):** 가솔린 엔진 촉매제, 매출비중 30% (2024년), 주요 경쟁사 Norilsk Nickel(NILSY)
 
 **금 (Gold):** 보석 및 투자용, 매출비중 25% (2024년), 주요 경쟁사 Barrick Gold(GOLD)
-
-{{< adsense-infeed >}}
-
 **로듐 (Rhodium):** 고성능 촉매제, 매출비중 8% (2024년), 극소수 생산업체만 존재
 
 **리튬 (Lithium):** 배터리용 원자재, 매출비중 2% (2024년, 확대 예정), 주요 경쟁사 Albemarle([ALB](/company-analysis/alb/))
@@ -152,9 +146,6 @@ Sibanye Stillwater Limited는 남아프리카공화국에 본사를 둔 다국�
 **전력 (Electricity):** 채굴 및 정제 공정용, 주요 공급지 남아프리카/미국, 주요 공급업체 Eskom(ZA)
 
 **연료유 (Diesel Fuel):** 채굴장비 연료, 주요 공급지 남아프리카/미국, 주요 공급업체 Shell(US, SHEL)
-
-{{< adsense-infeed >}}
-
 **화학약품 (Chemical Reagents):** 부유선별 및 정제용, 주요 공급지 글로벌, 주요 공급업체 DowDuPont(US, [DD](/company-analysis/dd/))
 
 **강철 (Steel):** 채굴장비 및 인프라용, 주요 공급지 남아프리카/미국, 주요 공급업체 ArcelorMittal(LU, [MT](/company-analysis/mt/))

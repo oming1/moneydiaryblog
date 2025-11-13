@@ -17,17 +17,11 @@ weight: 102
 ## 영위사업
 
 Armstrong World Industries는 천장 및 벽면 시스템 솔루션의 설계와 제조를 전문으로 하는 기업입니다
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 ## 후방산업
 
 - 원자재 공급: 광물, 목재, 금속 등 (예: 알코아(US, [AA](/company-analysis/aa/)), 뉴코어(US, [NUE](/company-analysis/nue/)))
 - 제조 장비: 건축자재 생산 기계 및 장비 (예: 캐터필러(US, [CAT](/company-analysis/cat/)))
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 건설: 상업용 및 주거용 건물 시공 (예: DR 호튼(US, [DHI](/company-analysis/dhi/)), 렌나(US, [LEN](/company-analysis/len/)))

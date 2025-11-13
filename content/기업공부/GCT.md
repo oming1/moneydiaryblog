@@ -28,9 +28,6 @@ weight: 366
     - SaaS(Software as a Service) 모델을 통해 고객이 소프트웨어를 구독 형태로 이용할 수 있도록 지원합니다.
 
 2. **데이터 센터 솔루션:**
-
-{{< adsense-infeed >}}
-
     - 고성능 서버 및 인프라 관리 서비스를 제공하여 기업 고객이 안정적으로 데이터를 처리하고 저장할 수 있도록 합니다.
     - 데이터 센터의 효율성을 극대화하기 위해 최신 기술을 적용합니다.
 3. **IoT 플랫폼:**
@@ -145,9 +142,6 @@ weight: 366
 **유통 및 판매 단계:**
 
 - **주요 기업 고객:** GCT 솔루션 구매 및 운영
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 제품
@@ -192,9 +186,6 @@ weight: 366
 - **Amazon(US, [AMZN](/company-analysis/amzn/)):** 클라우드 서비스 제공
 - **Microsoft(US, [MSFT](/company-analysis/msft/)):** 데이터 센터 솔루션 제공
 - **IBM(US, [IBM](/company-analysis/ibm/)):** IoT 플랫폼 제공
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 판매 국가
@@ -210,9 +201,6 @@ weight: 366
 - **Amazon Web Services(US, [AMZN](/company-analysis/amzn/)):** 클라우드 서비스, 시장점유율 32%
 - **Microsoft Azure(US, [MSFT](/company-analysis/msft/)):** 클라우드 서비스, 시장점유율 20%
 - **IBM Cloud(US, [IBM](/company-analysis/ibm/)):** 클라우드 및 IoT 서비스, 시장점유율 10%
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 산업 내 글로벌 시장 점유율
@@ -227,9 +215,6 @@ weight: 366
 ---
 
 ### 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 - **매출 성장률:** 3년 CAGR 15.0%
 - **영업 이익률:** 10.0% (2023년)
 - **주요 성장 동력:** 클라우드 및 IoT 서비스 수요 증가

@@ -15,13 +15,7 @@ weight: 985
 
 - Sector: Energy(에너지)
 - Industry: Nuclear Power([원자력 발전](/industry-study/원자력-발전/))
-
-{{< adsense-infeed >}}
-
 ## **영위사업** 
-
-{{< adsense-infeed >}}
-
 X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온가스냉각로(High-Temperature Gas-Cooled Reactor, HTGR, VHTR) 및 TRISO 연료를 개발하는 회사입니다. 이 회사는 차세대 소형 모듈형 원자로([SMR](/industry-study/smr/))와 고온가스냉각로를 설계하고 개발합니다.
 에너지로는 저농축 산화 우라늄/고순도 저농축 우라늄(LEU, HALEU), 피복입자(TRISO) 사용
 
@@ -36,9 +30,6 @@ X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온�
 - **후방산업:** 원자로 부품 제조, 연료 공급, 엔지니어링 서비스
     - **핵심 산업:** 원자로 부품 제조 (Curtiss-Wright (US, CW)), 연료 공급 (Cameco (CA, [CCJ](/company-analysis/ccj/))), 엔지니어링 서비스 (Bechtel (US, 비상장))
     - **역할:** 원자로 부품 및 연료 공급, 엔지니어링 및 건설 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## **밸류체인**
 - **입력:** 원자로 설계, 연료 개발
     - **대표회사:** Curtiss-Wright (US, CW) - 원자로 부품 제조, Cameco (CA, [CCJ](/company-analysis/ccj/)) - 연료 공급
@@ -63,13 +54,7 @@ X-energy는 [4세대 SMR](/industry-study/4세대-smr/) 개발업체로 고온�
 - **[TerraPower](/company-analysis/terrapower/) (US, 비상장):** 4세대 소형 모듈형 원자로 (SMR)
 - **NuScale Power (US, [SMR](/industry-study/smr/)):** 3.5세대 소형 모듈형 원자로 (SMR)
 - **Rolls-Royce (UK, RR):** 3.5세대 소형 모듈형 원자로 (SMR)
-
-{{< adsense-infeed >}}
-
 ## **산업 내 글로벌 시장 점유율**
-
-{{< adsense-infeed >}}
-
 - **X-energy:** 약 5% (2023년 기준)
 - **TerraPower:** 약 10% (2023년 기준)
 - **NuScale Power:** 약 8% (2023년 기준)

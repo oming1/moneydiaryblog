@@ -23,14 +23,8 @@ Sony는 전자제품, 게임, 엔터테인먼트, 금융 서비스 등 다양한
 - 엔터테인먼트: 영화 제작 및 배급, 음악 레이블
 - 금융 서비스: 보험, 은행 등
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계적으로 제품과 서비스를 제공하고 있습니다.
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계적으로 제품과 서비스를 제공하고 있습니다.
 ## 경쟁업체
 
@@ -39,9 +33,6 @@ Sony는 전자제품, 게임, 엔터테인먼트, 금융 서비스 등 다양한
 - Microsoft(US, [MSFT](/company-analysis/msft/))
 - Apple(US, [AAPL](/company-analysis/aapl/))
 ## 최근 주요 이슈
-
-{{< adsense-infeed >}}
-
 - PlayStation 5 출시 및 성공적인 판매
 - 이미지 센서 사업 강화
 - 엔터테인먼트 부문의 지속적인 성장

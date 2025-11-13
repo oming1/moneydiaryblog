@@ -128,9 +128,6 @@ RH(구 Restoration Hardware)는 북미 기반의 하이엔드 홈 퍼니싱·라
 부품 공급 단계:
 
 - 원자재(목재·석재·금속·가죽·패브릭) 및 하드웨어(힌지·손잡이)
-
-{{< adsense-infeed >}}
-
 제조 및 조립 단계:
 
 - 글로벌 파트너 공장(ODM/직소싱)에서 가공·조립·QC
@@ -173,9 +170,6 @@ RH(구 Restoration Hardware)는 북미 기반의 하이엔드 홈 퍼니싱·라
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Williams‑Sonoma(US, [WSM](/company-analysis/wsm/))/Pottery Barn/West Elm
 - Arhaus(US, ARHS), Ethan Allen(US, ETD), La‑Z‑Boy(US, LZB)
 - Wayfair(US, [W](/company-analysis/w/))(온라인 대체), MillerKnoll(US, MLKN)(현대 디자인 일부)

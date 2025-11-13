@@ -180,9 +180,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 
 - 국민건강보험공단(KR) - 한국 건강보험 급여 대상 의약품
 - Zuellig Pharma(SG) - 아시아 의약품 유통업체
-
-{{< adsense-infeed >}}
-
 ※ 대부분 B2B 도매 및 유통업체를 통한 간접 판매 구조
 
 ---
@@ -219,9 +216,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 
 - Johnson & Johnson(US, [JNJ](/company-analysis/jnj/)) - 종합 제약회사, 일부 여성건강 제품
 - Roche(CH, [ROG](/company-analysis/rog/)) - 종양학 및 면역학 분야 경쟁
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 산업 내 글로벌 시장 점유율
@@ -251,9 +245,6 @@ Organon & Co.는 2021년 6월 Merck & Co.(MSD)에서 스핀오프되어 독립�
 - 조정 EBITDA 마진: 31.9% (2024년 2분기), 업계 평균 대비 우수
 - 순부채비율: 4.1배 (2024년 2분기), 목표 4배 이하로 개선 중
 - 자유현금흐름: 2024년 목표 10억 달러 (일회성 비용 제외)
-
-{{< adsense-infeed >}}
-
 **주요 성장 동력:**
 
 - 여성건강 글로벌 시장 확대: 연간 5-7% 성장 전망

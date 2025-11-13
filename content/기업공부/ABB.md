@@ -26,13 +26,7 @@ ABB Ltd는 스위스에 본사를 둔 다국적 기술 기업으로, 전력 및 
 - **후방산업**:
     - **핵심 산업 및 역할**: 전기 부품 제조 및 원자재 공급
     - **관련 기업**: General Electric (US, [GE](/company-analysis/ge/)), Eaton (IE, [ETN](/company-analysis/etn/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **기술 개발**: 전력 및 자동화 기술 혁신
     - **대표 회사**: Rockwell Automation (US, [ROK](/company-analysis/rok/)) - 산업 자동화 및 정보 솔루션
     
@@ -42,19 +36,10 @@ ABB Ltd는 스위스에 본사를 둔 다국적 기술 기업으로, 전력 및 
 - **판매 및 서비스**: 글로벌 판매 네트워크 및 기술 지원 제공
     - **대표 회사**: Honeywell (US, [HON](/company-analysis/hon/)) - 자동화 및 제어 솔루션 제공
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - **전력 제품**: [변압기](/industry-study/변압기/), 스위치기어, 전력 전자 장치
 - **자동화 제품**: PLC, SCADA 시스템, 산업 소프트웨어
 - **[로봇](/industry-study/로봇/) 및 디지털 솔루션**: [산업용 로봇](/industry-study/산업용-로봇/), AI 기반 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 ABB는 전 세계적으로 운영되며, 주요 시장은 유럽, 북미, 아시아 태평양 지역입니다.
 ## 경쟁업체
 

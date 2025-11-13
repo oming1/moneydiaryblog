@@ -15,9 +15,6 @@ weight: 833
 - **Industry (산업)**: Auto Manufacturers (자동차 제조업)
 
 #### 영위사업
-
-{{< adsense-infeed >}}
-
 Stellantis N.V.는 [자동차](/industry-study/자동차/) 및 경상용차의 설계, 엔지니어링, 제조, 유통 및 판매를 영위합니다. 주요 브랜드로는 Abarth, Alfa Romeo, Chrysler, Citroën, DS, Dodge, Fiat, Jeep, Maserati, Ram, Opel, Lancia, Vauxhall, Peugeot, Comau 등이 있습니다.
 
 #### 전방/후방산업
@@ -40,9 +37,6 @@ Stellantis N.V.는 [자동차](/industry-study/자동차/) 및 경상용차의 �
 - **유통 및 판매**
     - **설명**: 완성차의 유통 및 판매
     - **대표회사**: AutoNation (미국, [AN](/company-analysis/an/)), Penske Automotive Group (미국, [PAG](/company-analysis/pag/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **자동차**
@@ -51,9 +45,6 @@ Stellantis N.V.는 [자동차](/industry-study/자동차/) 및 경상용차의 �
 - **경상용차**
     - **브랜드**: Ram, Fiat Professional
     - **주요 모델**: Ram ProMaster, Fiat Ducato
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
 - **주요 판매국가**: 미국, 캐나다, 멕시코, 브라질, 아르헨티나, 영국, 독일, 프랑스, 이탈리아, 스페인, 중국, 일본, 한국
 - **최근 3년간 추이**: 미국과 유럽에서의 판매가 꾸준히 증가하고 있으며, 특히 전기차 판매가 급증하고 있습니다.

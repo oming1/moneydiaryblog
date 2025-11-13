@@ -46,15 +46,9 @@ Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 �
 5. Kraft Heinz (US, [KHC](/company-analysis/khc/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Campbell's는 미국 수프 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2023년 8월 Sovos Brands를 27억 달러에 인수 발표 (2023년)
 2. 2019년 1월 Mark Clouse를 새로운 CEO로 임명 (2019년)
 3. 2019년 "Chunky" 상표권 획득 (2019년)

@@ -65,9 +65,6 @@ Icon 클래스, Oasis 클래스 등 세계 최대급 크루즈선을 독자 개�
 
 **강력한 브랜드 포트폴리오**  
 Royal Caribbean International(대중 시장), Celebrity Cruises(프리미엄), Silversea Cruises(럭셔리) 등 시장 세그먼트별 특화된 브랜드를 운영하여 다양한 고객층을 확보하고 있습니다.
-
-{{< adsense-infeed >}}
-
 **운영 효율성 및 규모의 경제**  
 68척의 대규모 선단 운영을 통한 규모의 경제 실현과 효율적인 운항 스케줄 관리로 업계 최고 수준의 운영 효율성을 달성하고 있습니다.
 
@@ -85,9 +82,6 @@ Royal Caribbean International(대중 시장), Celebrity Cruises(프리미엄), S
 **운항 관리 시스템**: 글로벌 선단의 실시간 위치 추적, 연료 효율성 최적화, 항로 계획 등을 위한 통합 운항 관리 시스템
 
 **예약 및 고객 관리 플랫폼**: 온라인 예약부터 선상 서비스까지 통합된 디지털 고객 관리 플랫폼 및 모바일 앱 기술
-
-{{< adsense-infeed >}}
-
 **안전 관리 기술**: 첨단 해상 안전 시스템, 비상 대피 시스템, 의료 시설 운영 기술
 
 ---
@@ -197,9 +191,6 @@ Meyer Turku, Chantiers de l'Atlantique 등 전문 조선소와 계약하여 선�
 ---
 
 ## 20. 관련 ETF
-
-{{< adsense-infeed >}}
-
 **직접 관련 ETF:**
 
 - VCR - Vanguard Consumer Discretionary ETF VCR

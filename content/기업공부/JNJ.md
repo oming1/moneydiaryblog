@@ -29,13 +29,7 @@ weight: 470
     - **대표 회사:** Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))
 - **유통:** 제품 유통 및 판매
     - **대표 회사:** Cardinal Health (미국, CAH) - 의료 제품 유통, AmerisourceBergen (미국, [ABC](/company-analysis/abc/)) - 제약 유통
-
-{{< adsense-infeed >}}
-
 **주요제품:**
-
-{{< adsense-infeed >}}
-
 - **의약품:**
     - **Stelara:** 면역 질환 치료제 (2023년 매출 비중: 10%)
     - **Imbruvica:** 혈액암 치료제 (2023년 매출 비중: 8%)
@@ -45,9 +39,6 @@ weight: 470
 - **소비자 건강 제품:**
     - **Tylenol:** 진통제
     - **Listerine:** 구강 청결제
-
-{{< adsense-infeed >}}
-
 **경쟁업체:**
 - **Pfizer Inc. (미국, [PFE](/company-analysis/pfe/)):** 의약품
 - **Merck & Co. (미국, [MRK](/company-analysis/mrk/)):** 의약품

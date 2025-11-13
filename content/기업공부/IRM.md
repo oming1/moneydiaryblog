@@ -23,9 +23,6 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 1. 글로벌 기록 및 정보 관리(RIM): 물리적 기록 보관, 데이터 관리, 디지털 솔루션, 보안 파쇄, 엔터테인먼트 서비스 제공
 2. 글로벌 데이터 센터: 엔터프라이즈급 데이터 센터 시설 및 하이퍼스케일 용량 제공
 3. 기타: 미술품 보관 및 자산 수명주기 관리(ALM) 사업 포함
-
-{{< adsense-infeed >}}
-
 2024년 3분기 기준으로 총 수익은 16억 달러를 기록했으며, 이는 전년 동기 대비 12.2% 증가한 수치입니다. 회사는 최근 Project Matterhorn이라는 글로벌 운영 모델 혁신 프로그램을 통해 성장을 가속화하고 있으며, 지속가능성 이니셔티브 강화에도 주력하고 있습니다.
 ## 핵심 경쟁력
 
@@ -46,9 +43,6 @@ Iron Mountain Inc.(NYSE: IRM)는글로벌 정보 관리 서비스 제공업체�
 - 보안 솔루션: Palo Alto Networks(US, [PANW](/company-analysis/panw/)), CrowdStrike(US, [CRWD](/company-analysis/crwd/))
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 물리적 기록 보관: 문서, 테이프 등의 보관 서비스, 매출의 약 50% (2024년 기준)
 - 데이터 센터 서비스: 콜로케이션 및 하이퍼스케일 솔루션, 매출의 약 20% (2024년 기준)
 - 디지털 솔루션: 클라우드 스토리지, 데이터 백업 및 복구, 매출의 약 15% (2024년 기준)

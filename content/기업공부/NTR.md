@@ -32,22 +32,13 @@ Nutrien Ltd.는 농업 투입재 및 서비스를 제공하는 회사로, 주요
     - **화학**: 원료 공급업체 (예: BASF (DE, BAS), Dow Inc. (US, [DOW](/company-analysis/dow/)))
     - **광업**: 광물 채굴업체 (예: Mosaic Company (US, [MOS](/company-analysis/mos/)), CF Industries (US, [CF](/company-analysis/cf/)))
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **원자재 조달**: 화학 원료 및 광물 공급업체 (예: BASF (DE, BAS), Mosaic Company (US, [MOS](/company-analysis/mos/)))
 - **제조 및 생산**: 비료 및 농업 투입재 제조업체 (예: Nutrien 자체 생산)
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 직접 판매, 대리점, 온라인 플랫폼)
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **칼륨 비료**: 과립 및 표준 칼륨 제품 (주요 매출 제품)
 - **질소 비료**: 암모니아, 요소, 질소 용액
 - **인산염 비료**: 고체 및 액체 비료
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 - **Mosaic Company (US, [MOS](/company-analysis/mos/))**: 칼륨 및 인산염 비료
 - **CF Industries (US, [CF](/company-analysis/cf/))**: 질소 비료

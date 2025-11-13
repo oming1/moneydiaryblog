@@ -36,9 +36,6 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 ## 전방/후방산업
 
 1. 후방산업:
-
-{{< adsense-infeed >}}
-
     - 제약사: Pfizer (US, [PFE](/company-analysis/pfe/)), Johnson & Johnson (US, [JNJ](/company-analysis/jnj/))
     - 의료기기 제조: Medtronic (IE, [MDT](/company-analysis/mdt/)), Abbott Laboratories (US, [ABT](/company-analysis/abt/))
     
@@ -61,9 +58,6 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 3. 특수 의약품 유통
 4. 의료기기 및 용품 유통
 5. 동물 건강 제품 유통
-
-{{< adsense-infeed >}}
-
 ## 주요고객
 
 1. CVS Health (US, [CVS](/company-analysis/cvs/))
@@ -100,9 +94,6 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 3. BlackRock Advisors LLC: 6.88%
 4. T. Rowe Price International Ltd.: 4.54%
 5. State Street Corporation: 4.16%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 - iShares U.S. Healthcare Providers ETF IHF
 - VanEck Pharmaceutical ETF PPH

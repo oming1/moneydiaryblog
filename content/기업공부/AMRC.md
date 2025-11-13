@@ -63,9 +63,6 @@ Ameresco Inc.은 2000년 George Sakellaris에 의해 설립된 [북미 및 유�
 ---
 
 ## 핵심 기술
-
-{{< adsense-infeed >}}
-
 **에너지 효율화 기술:** 빌딩 자동화 시스템(BAS), LED 조명, HVAC 시스템 최적화, 스마트 제어 시스템 등을 통한 종합적 에너지 효율 향상 기술
 
 **신재생에너지 기술:** 태양광, 풍력, 바이오가스, 연료전지, 에너지저장시스템(ESS) 등의 분산에너지자원 개발 및 운영 기술
@@ -92,13 +89,7 @@ Ameresco는 제조업체가 아닌 에너지서비스 및 프로젝트 개발업
 - 의료기관: 병원, 의료센터 - 의료시설 에너지 최적화
 - 상업시설: 오피스, 리테일, 호텔 - 상업빌딩 효율화
 - 산업시설: 제조업체, 물류센터 - 산업용 에너지 솔루션
-
-{{< adsense-infeed >}}
-
 **후방산업 (장비 및 서비스 공급업체):**
-
-{{< adsense-infeed >}}
-
 - 태양광 모듈: First Solar(US, [FSLR](/company-analysis/fslr/)), Canadian Solar(CA, [CSIQ](/company-analysis/csiq/)) - 태양광 패널 공급
 - 에너지저장: Tesla(US, [TSLA](/company-analysis/tsla/)), Fluence Energy(US, FLNC) - 배터리 시스템
 - HVAC 장비: Johnson Controls(US, [JCI](/company-analysis/jci/)), Honeywell(US, [HON](/company-analysis/hon/)) - 냉난방 시스템
@@ -117,9 +108,6 @@ Ameresco는 제조업체가 아닌 에너지서비스 및 프로젝트 개발업
 - Johnson Controls(US, [JCI](/company-analysis/jci/)): HVAC 시스템 (시장점유율 15%, 글로벌 1위)
 - Honeywell(US, [HON](/company-analysis/hon/)): 빌딩 자동화 시스템 (시장점유율 12%, 글로벌 2위)
 - First Solar(US, [FSLR](/company-analysis/fslr/)): 태양광 모듈 (박막 태양전지 분야 1위)
-
-{{< adsense-infeed >}}
-
 **시공 및 설치 단계:**
 
 - Ameresco 자체 시공팀과 협력업체 네트워크를 통한 전국 단위 프로젝트 수행
@@ -175,9 +163,6 @@ Ameresco는 제조업체가 아닌 에너지서비스 및 프로젝트 개발업
 - 지역 병원 및 의료센터 - 의료설비 에너지효율화
 
 **유틸리티 및 공공기관:**
-
-{{< adsense-infeed >}}
-
 - Republic Services - Lee County 매립지 RNG 시설 공동개발
 - 다수 지방정부 - 공공시설 에너지 프로젝트
 

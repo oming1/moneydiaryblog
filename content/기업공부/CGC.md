@@ -31,9 +31,6 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 - Tilray(US, [TLRY](/company-analysis/tlry/))
 - Aurora Cannabis(캐나다, ACB)
 - Cronos Group(캐나다, CRON)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 위치
 2019년 4월 기준 시가총액으로 세계 최대의 대마초 회사였으나, 이후 주가 하락을 겪었습니다.
 
@@ -43,9 +40,6 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 - Constellation Brands Inc.가 35% 이상의 지분을 보유 (2019년 기준)
 - 지속적인 인수합병을 통한 사업 확장 (Mettrum Health 등)
 ## 재무 정보 (2024년 11월 9일 기준)
-
-{{< adsense-infeed >}}
-
 - 주가: $4.24
 - 시가총액: 약 3억 5,979만 달러
 - 52주 최고가: $14.92

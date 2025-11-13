@@ -18,9 +18,6 @@ weight: 57
 ## 영위사업
 
 Allurion Technologies Inc.(NYSE: ALUR)는 비만 치료(비만)를 위한 체중 감량 플랫폼을 제공하는 미국 기업입니다. 주요 제품인 Allurion Program은 삼킬 수 있는 무시술 위내 풍선(Allurion Balloon)과 AI 기반 원격 환자 모니터링 도구, 행동 변화 프로그램, 보안 메시징, 비디오 원격 의료 등을 포함한 Allurion Virtual Care Suite로 구성되어 있습니다.
-
-{{< adsense-infeed >}}
-
 2024년 3분기 기준 매출은 5.4백만 달러를 기록했으며, 중동 지역에서 시술 건수가 20% 증가하는 등 글로벌 확장을 진행 중입니다. 회사는 2025년까지 운영비용을 50% 줄이고 미국 외 지역에서 수익성을 달성하는 것을 목표로 하고 있습니다.최근 1년 내 주요 이슈로는 프랑스에서의 제품 리콜로 인한 매출 타격, FDA 승인을 위한 AUDACITY 임상시험 진행, 그리고 AI 제품 플랫폼 확장 등이 있습니다.
 ## 핵심 경쟁력
 1. 비침습적 체중 감량 솔루션: 수술이나 내시경 없이 삽입 및 제거 가능한 혁신적 기술
@@ -42,9 +39,6 @@ Allurion Technologies Inc.(NYSE: ALUR)는 비만 치료(비만)를 위한 체중
 - 의료기기 부품 제조: Jabil(US, [JBL](/company-analysis/jbl/)), Flex(US, FLEX)
 - 소프트웨어 개발: Microsoft(US, [MSFT](/company-analysis/msft/)), Alphabet(US, [GOOGL](/company-analysis/googl/))
 - 데이터 분석: IBM(US, [IBM](/company-analysis/ibm/)), Palantir Technologies(US, [PLTR](/company-analysis/pltr/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Allurion Balloon: 위내 풍선 체중 감량 기기, 매출의 약 80% (2024년 기준)

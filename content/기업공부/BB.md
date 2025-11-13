@@ -115,18 +115,12 @@ BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 �
 ---
 
 ## 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업:**
 - 자동차 제조업: QNX 기반 인포테인먼트 및 ADAS 시스템 - Ford(US, [F](/company-analysis/f/)), GM(US, [GM](/company-analysis/gm/)), BMW(DE, [BMW](/company-analysis/bmw/)), Volkswagen(DE, [Volkswagen](/company-analysis/volkswagen/))
 - 기업 고객: 사이버보안 솔루션 도입 - Fortune 500 기업들
 - 정부 기관: 보안 통신 및 사이버보안 - 미국 국방부, 영국 경찰청
 - 금융기관: 엔드포인트 보안 솔루션 - 주요 은행 및 금융회사
 - 의료기관: 의료기기 보안 솔루션 - 병원 및 의료기기 제조업체
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 
 - 클라우드 서비스: 인프라 및 플랫폼 제공 - Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
@@ -139,9 +133,6 @@ BlackBerry는 순수 소프트웨어 기업으로 전통적인 제조공정은 �
 ## 밸류체인
 
 **소프트웨어 개발 단계:** 핵심 기술 개발 및 제품 설계
-
-{{< adsense-infeed >}}
-
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 개발 도구 및 클라우드 플랫폼 공급
 - Intel(US, [INTC](/company-analysis/intc/)) - 프로세서 기술 및 개발 도구 제공
 - ARM(UK, [ARM](/company-analysis/arm/)) - 임베디드 프로세서 아키텍처 라이선스

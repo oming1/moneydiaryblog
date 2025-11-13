@@ -225,9 +225,6 @@ Flutter Entertainment plc는 [세계 최대의 온라인 스포츠 베팅 및 �
 - **2024년**: FanDuel 100% 지분 완전 취득 (Boyd Gaming으로부터 5% 지분 17.6억 달러에 매수), 미국 조정 EBITDA 흑자 전환
 - **2023년**: The Stars Group과의 통합 완료, PokerStars 브랜드 강화
 - **2022년**: 미국 스포츠 베팅 시장 확대 가속화, 여러 신규 주 진출
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 19. 주요 주주 (지분율)
@@ -258,8 +255,5 @@ Flutter Entertainment plc는 [세계 최대의 온라인 스포츠 베팅 및 �
 - FDIS - Fidelity MSCI Consumer Discretionary Index ETF FDIS
 
 **국제 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - EFA - iShares MSCI EAFE ETF EFA (런던 상장분 포함)
 - VEA - Vanguard FTSE Developed Markets ETF VEA

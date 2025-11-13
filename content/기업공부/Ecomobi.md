@@ -47,9 +47,6 @@ Ecomobi는 브랜드와 인플루언서를 연결하여 소비자에게 제품�
 5. **디지털 트렌드 선도**: 모바일 중심의 사용자 경험 제공
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - **브랜드 및 제조업체**: Procter & Gamble(US, [PG](/company-analysis/pg/)), Unilever(UK, ULVR)
@@ -99,15 +96,9 @@ Ecomobi는 브랜드와 인플루언서를 연결하여 소비자에게 제품�
 1. Shopee(SG): 동남아시아 최대 전자상거래 플랫폼 (간접 경쟁)
     
 2. Lazada(SG): Alibaba 그룹의 전자상거래 플랫폼 (간접 경쟁)
-
-{{< adsense-infeed >}}
-
 3. TikTok Shop(CN): 소셜 미디어 기반 커머스 플랫폼 (직접 경쟁)
     
 4. ZALORA(SG): 패션 중심 전자상거래 플랫폼 (간접 경쟁)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Ecomobi는 동남아시아 소셜 커머스 시장에서 주요 플레이어 중 하나로 자리잡고 있으며, 특히 베트남과 인도네시아에서 강력한 입지를 가지고 있습니다.

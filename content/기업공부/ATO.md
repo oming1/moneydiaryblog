@@ -14,9 +14,6 @@ weight: 93
 유틸리티
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 규제 가스(Utilities - Regulated Gas)
 
 ## 영위사업
@@ -59,9 +56,6 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
 5. 최종 소비자: 주거, 상업, 산업 고객
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 천연가스 유통 서비스 (주거, 상업, 산업용)
 2. 파이프라인 운송 서비스
 3. 천연가스 저장 서비스
@@ -95,9 +89,6 @@ Atmos Energy는 미국 최대의 천연가스 전문 유통기업이지만, 정�
 4. 40년 연속 배당 증가, 연간 3.48달러로 8.1% 인상 (2024년)
 5. 5년간 240억 달러 규모의 자본 투자 계획 발표 (2024년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. BlackRock Advisors LLC: 15.65%
 2. Vanguard Fiduciary Trust Co.: 11.31%
 3. State Farm Investment Management Corp.: 8.361%

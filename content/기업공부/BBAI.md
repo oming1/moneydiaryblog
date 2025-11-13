@@ -17,9 +17,6 @@ weight: 118
 산업: 소프트웨어
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 BigBear.ai Holdings Inc(NYSE: BBAI)는 인공지능(AI) 및 머신러닝 기반의 의사결정 지원 솔루션을 제공하는 기업입니다. 주로 정부 기관과 상업 부문 고객을 대상으로 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
 1. 분석 및 사이버 솔루션: 빅데이터 분석, 예측 모델링, 사이버 보안
 2. 디지털 엔지니어링: AI 기반 시스템 설계 및 구현
@@ -83,9 +80,6 @@ BigBear.ai는 신생 기업으로, 정확한 글로벌 시장 점유율 데이�
 - 클라우드 네이티브 AI 플랫폼 'Neuromesh' 발표 (2022년)
 - ESG 이니셔티브 강화: AI 윤리 및 책임 있는 AI 사용 가이드라인 발표 (2022년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - AE Industrial Partners (약 62%)
 - The Vanguard Group (3.91%)
 - BlackRock (2.65%)

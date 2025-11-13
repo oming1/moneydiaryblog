@@ -15,14 +15,8 @@ Sector: Health Care ([헬스케어](/industry-study/2산업헬스케어/))
 Industry: Medical Equipment & Devices (의료장비및기기)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Bio-Rad Laboratories는 생명과학 연구 및 임상 진단 시장을 위한 혁신적인 제품을 개발, 제조 및 판매하는 글로벌 기업입니다. 주요 사업 분야는 생명과학 연구 도구와 임상 진단 시스템입니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 역할: 연구 및 진단 제품 사용
 - 제약회사: Pfizer (US, [PFE](/company-analysis/pfe/))
@@ -49,9 +43,6 @@ Bio-Rad는 전 세계적으로 제품을 판매하고 있습니다. 2023년 기�
 - 유럽: 31%
 - 아시아: 21%
 - 기타 (주로 캐나다와 라틴 아메리카): 6%
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - Thermo Fisher Scientific (US, [TMO](/company-analysis/tmo/)) - 생명과학 연구 및 진단 장비
 - Abbott Laboratories (US, [ABT](/company-analysis/abt/)) - 의료기기 및 진단 시스템
@@ -61,7 +52,4 @@ Bio-Rad는 전 세계적으로 제품을 판매하고 있습니다. 2023년 기�
 Bio-Rad는 생명과학 연구 분야에서 세계 상위 5개 기업 중 하나로 간주되고 있습니다. 그러나 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
-
-{{< adsense-infeed >}}
-
 [FINVIZ - BIO](https://finviz.com/quote.ashx?t=BIO)

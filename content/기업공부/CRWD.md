@@ -20,9 +20,6 @@ weight: 240
 - **아이덴티티 보호 (Identity Protection):** 사용자 및 시스템의 아이덴티티 보호
 - **위협 인텔리전스 (Threat Intelligence):** 위협 분석 및 대응
 - **보안 오케스트레이션 및 자동화 (Security Orchestration and Automation):** 보안 작업의 자동화 및 통합
-
-{{< adsense-infeed >}}
-
 **전방/후방산업 (Upstream/Downstream Industries)**
 - **전방산업 (Downstream Industries):**
     - **핵심 산업:** 금융, 헬스케어, 정부
@@ -49,16 +46,10 @@ weight: 240
 - **Falcon Identity Protection:** 아이덴티티 보호
 - **Falcon XDR:** 확장 탐지 및 대응 (XDR)
 - **Falcon Complete:** 관리형 탐지 및 대응 (MDR)
-
-{{< adsense-infeed >}}
-
 **주요 판매국가 (Major Sales Countries)**
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 시장 (영국, 독일, 프랑스)
 - **아시아:** 주요 시장 (일본, 한국, 중국)
-
-{{< adsense-infeed >}}
-
 **경쟁업체 (Competitors)**
 - **Palo Alto Networks (미국, [PANW](/company-analysis/panw/)):** 엔드포인트 및 클라우드 보안
 - **Microsoft (미국, [MSFT](/company-analysis/msft/)):** Microsoft Defender 제품군
@@ -66,14 +57,8 @@ weight: 240
 - **SentinelOne (미국, [S](/company-analysis/s/)):** 엔드포인트 보안
 
 **산업 내 글로벌 시장 점유율 (Global Market Share in Industry)**
-
-{{< adsense-infeed >}}
-
 - **2023년:** 약 18.5% (추정)
 - **2022년:** 약 17% (추정)
 - **2021년:** 약 15% (추정)
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈 (Major Issues in the Last 3 Years)**
 - **글로벌 IT 시스템 장애:** 소프트웨어 업데이트 문제로 인한 글로벌 IT 시스템 장애 (2024)

@@ -58,9 +58,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 - **광물별 매출 비중 (2024년 추정):**
     - 구리: 60% (주력).
     - 금 및 은: 20%.
@@ -85,9 +82,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 - **구리 중심의 포트폴리오:** 에너지 전환 트렌드의 직접적인 수혜.
 - **지리적 다각화:** 북미와 남미에 걸쳐 자산을 보유하여 지역별 리스크 분산.
 - **통합 광업 역량:** 탐사부터 채굴, 선광, 제련까지 일관된 공정 관리.
@@ -162,9 +156,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 제품
-
-{{< adsense-infeed >}}
-
 - **구리 (Copper):** 캐소드 및 농축물 형태, 매출 비중 60% (2024 추정), 경쟁사 Freeport-McMoRan(US, [FCX](/company-analysis/fcx/)), BHP(AU, [BHP](/company-analysis/bhp/)), Teck Resources(CA,[Teck](/company-analysis/teck/)]).
 - **금 (Gold):** 불도 및 정련된 형태, 매출 비중 15% (2024 추정), 경쟁사 Barrick Gold(CA, GOLD), Newmont(US, [NEM](/company-analysis/nem/)).
 - **은 (Silver):** 불도 및 정련된 형태, 매출 비중 5% (2024 추정), 경쟁사 Pan American Silver(CA, PAAS).
@@ -183,9 +174,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 고객
-
-{{< adsense-infeed >}}
-
 - **글로벌 금속 제련소:** 중국, 일본, 한국, 유럽의 제련소.
 - **금속 트레이딩 회사:** Glencore, Trafigura 등.
 - **글로벌 보석 및 투자 회사:** 금 및 은 구매자.
@@ -194,9 +182,6 @@ Hudbay Minerals Inc.는 1927년에 설립된 캐나다 기반의 통합 광산 �
 ---
 
 ### 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 - **아시아 (주로 중국):** 40% (2023년 기준, 3년간 +5%p).
 - **유럽:** 30% (2023년 기준, 3년간 -2%p).
 - **북미:** 20% (2023년 기준, 3년간 -1%p).

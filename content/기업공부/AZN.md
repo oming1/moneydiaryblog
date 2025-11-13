@@ -22,9 +22,6 @@ AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 �
     - **핵심 산업**: 병원, 클리닉, 약국
     - **역할**: AstraZeneca의 의약품을 사용하여 환자 치료
     - **관련 기업**: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/)), McKesson (US, [MCK](/company-analysis/mck/))
-
-{{< adsense-infeed >}}
-
 - **후방산업**: 원료 의약품 및 화학 물질 제조
     - **핵심 산업**: 의약품 원료 및 화학 물질 제조
     - **역할**: AstraZeneca의 의약품 제조에 필요한 원료 공급
@@ -46,9 +43,6 @@ AstraZeneca는 전 세계적으로 처방 의약품을 발견, 개발, 제조 �
 - **Calquence (아칼라브루티닙)**: 만성 림프구성 백혈병 치료제
 - **Farxiga (다파글리플로진)**: 제2형 당뇨병 치료제
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Merck & Co. (US, [MRK](/company-analysis/mrk/))**: 다양한 치료제 및 백신
 - **Pfizer (US, [PFE](/company-analysis/pfe/))**: 다양한 치료제 및 백신
 - **Novartis (CH, [NVS](/company-analysis/nvs/))**: 의약품 및 제네릭 의약품

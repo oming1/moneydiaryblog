@@ -45,9 +45,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - **자동차 제조업체**: General Motors(US, [GM](/company-analysis/gm/)), Ford Motor Company(US, [F](/company-analysis/f/))
     
 - **금융 서비스**: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Ally Financial(US, [ALLY](/company-analysis/ally/))
@@ -58,9 +55,6 @@ Cars.com Inc.(NYSE: CARS)는 미국 시카고에 본사를 둔 온라인 자동�
 - **클라우드 서비스 제공업체**: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
     
 - **데이터 분석 솔루션**: Palantir Technologies(US, [PLTR](/company-analysis/pltr/)), Snowflake(US, [SNOW](/company-analysis/snow/))
-
-{{< adsense-infeed >}}
-
 - **IT 인프라**: Cisco Systems(US, [CSCO](/company-analysis/csco/)), Dell Technologies(US, [DELL](/company-analysis/dell/))
 
 ## 밸류체인
@@ -122,9 +116,6 @@ Cars.com은 2024년 기준 미국 온라인 자동차 플랫폼 시장에서 약
 ## 주요주주(지분율)
 
 - The Vanguard Group (11%)
-
-{{< adsense-infeed >}}
-
 - BlackRock (9%)
     
 - State Street Corporation (5%)

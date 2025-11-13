@@ -145,9 +145,6 @@ Water 사업부는 식수 및 환경용수의 미생물 검사 솔루션을 제�
 ---
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 **VetTest 화학분석기:** 동물병원용 혈액화학검사 장비, 매출비중 15% (2024년 추정), 주요 경쟁사 Abaxis, Heska
 
 **SNAP 신속검사 키트:** 15분 내 현장 진단 키트, 매출비중 25% (2024년 추정), 주요 경쟁사 Zoetis, Antigen
@@ -371,8 +368,5 @@ Water 사업부는 식수 및 환경용수의 미생물 검사 솔루션을 제�
 - IWP - iShares Russell Mid-Cap Growth ETF IWP (중형 성장주)
 
 **레버리지/인버스 ETF:**
-
-{{< adsense-infeed >}}
-
 - TQQQ - ProShares UltraPro QQQ TQQQ (나스닥 3배 레버리지)
 - SQQQ - ProShares UltraPro Short QQQ SQQQ (나스닥 인버스)
