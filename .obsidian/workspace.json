@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1ebde1986f9ba3bd",
+        "id": "52013466486f2135",
         "type": "tabs",
         "children": [
           {
-            "id": "b570339bc6662ecd",
+            "id": "729e840a26197d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-11-13 미국 시황 정리"
             }
           }
         ]
@@ -165,6 +179,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b570339bc6662ecd",
-  "lastOpenFiles": []
+  "active": "729e840a26197d24",
+  "lastOpenFiles": [
+    "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
+    "코드/PDF 파일 수집 스크립트.md",
+    "무제"
+  ]
 }
