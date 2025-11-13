@@ -69,9 +69,6 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 - Rexford Industrial Realty(US, REXR): 남부 캘리포니아 중심 산업용 부동산
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 꾸준히 증가하는 추세를 보이고 있으며, 특히 전자상거래 성장에 따른 수혜를 입고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -87,9 +84,6 @@ Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - Cohen & Steers Capital Management (3.26%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - Vanguard Real Estate ETF - VNQ
@@ -99,7 +93,4 @@ Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 
 - Pacer Benchmark Industrial Real Estate SCTR ETF - INDS
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

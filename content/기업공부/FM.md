@@ -25,17 +25,11 @@ First Quantum Minerals Ltd.는 1996년 설립된 캐나다의 글로벌 구리 �
 ## 전방/후방산업
 
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 구리 및 금속 제품 사용
 - 전선 제조업체: Prysmian Group (IT, PRY)
 - 전자제품 제조업체: Apple (US, [AAPL](/company-analysis/aapl/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 역할: 채굴 장비 및 서비스 제공
 - 채굴 장비 제조업체: Caterpillar (US, [CAT](/company-analysis/cat/))
 - 엔지니어링 서비스: Fluor Corporation (US, [FLR](/company-analysis/flr/))
@@ -44,13 +38,7 @@ First Quantum Minerals Ltd.는 1996년 설립된 캐나다의 글로벌 구리 �
 - [구리](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속구리/) (매출 비중: 약 80%, 2023년 기준)
 - [금](/industry-study/2산업원자재-산업1비철금속-비철금속-귀금속금/) (매출 비중: 약 5%, 2023년 기준)
 - [니켈](/industry-study/니켈/) (매출 비중: 약 6%, 2023년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 First Quantum Minerals는 전 세계적으로 사업을 운영하며, 주요 시장은 다음과 같습니다:
 - 잠비아
 - 파나마

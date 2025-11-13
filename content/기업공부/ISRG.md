@@ -14,9 +14,6 @@ weight: 462
 		- 2025-04-23, 2025년 1분기 실적
 		  
 			🤩Intuitive Surgical (ISRG) 2025년 1분기 실적 요약
-
-{{< adsense-infeed >}}
-
 			📊 주요 실적 지표
 			• 조정 EPS: $1.81 (예상 $1.72) 🟢; 전년 대비 ▲21%
 			• 매출: $22.5억 (예상 $21.9억) 🟢; 전년 대비 ▲19%
@@ -49,9 +46,6 @@ weight: 462
 
 Sector: Healthcare ([헬스케어](/industry-study/2산업헬스케어/))  
 Industry: Medical Devices (의료기기, [로봇](/industry-study/로봇/))
-
-{{< adsense-infeed >}}
-
 ## 회사 개요
 
 Intuitive Surgical, Inc.는 1995년에 설립된 미국의 생명공학 회사로, 최소 침습 수술을 위한 로봇 제품을 개발, 제조 및 판매합니다. 본사는 캘리포니아주 서니베일에 위치해 있으며, 가장 유명한 제품은 다빈치 수술 시스템(da Vinci Surgical System)입니다.

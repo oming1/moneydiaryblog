@@ -23,17 +23,11 @@ Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공�
 - **후방산업**:
     - **로켓 엔진 제조**: 로켓 엔진을 설계하고 제조하는 산업. 주요 기업: Aerojet Rocketdyne (미국, [AJRD](/company-analysis/ajrd/)), Rocket Lab USA (미국, [RKLB](/company-analysis/rklb/)).
     - **위성 제조**: 위성을 설계하고 제조하는 산업. 주요 기업: Lockheed Martin (미국, [LMT](/company-analysis/lmt/)), Northrop Grumman (미국, [NOC](/company-analysis/noc/)).
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
 - **연구 및 개발**: 로켓 및 위성 기술의 연구 개발. 대표 기업: Blue Origin (미국), SpaceX (미국).
 - **제조**: 로켓 및 위성의 제조. 대표 기업: Blue Origin (미국), Boeing (미국, [BA](/company-analysis/ba/)).
 - **발사 서비스**: 로켓 발사를 통한 위성 및 우주선의 궤도 진입. 대표 기업: Blue Origin (미국), SpaceX (미국).
 - **운영 및 관리**: 궤도에 진입한 위성 및 우주선의 운영 및 관리. 대표 기업: Blue Origin (미국), Maxar Technologies (미국, [MAXR](/company-analysis/maxr/)).
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **New Shepard**: 소형 우주 관광 및 과학 실험용 재사용 가능한 서브오비탈 로켓.
@@ -43,19 +37,10 @@ Blue Origin은 위성 발사 서비스와 위성 시스템 솔루션을 제공�
 Blue Origin은 주로 미국 내에서 발사 서비스를 제공하고 있으며, 주요 시장은 미국입니다
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **[SpaceX](/company-analysis/spacex/) (미국)**: 다양한 크기의 로켓을 이용한 발사 서비스 제공.
 - **Rocket Lab USA (미국, [RKLB](/company-analysis/rklb/))**: 소형 위성 발사 서비스 제공.
 - **Arianespace (프랑스)**: 유럽의 주요 발사 서비스 제공업체.
-
-{{< adsense-infeed >}}
-
 ### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Blue Origin은 우주 발사 서비스 시장에서 중요한 위치를 차지하고 있습니다. [정확한 시장 점유율 데이터는 제공되지 않았으나, 재사용 가능한 로켓 기술 분야에서 주요 기업 중 하나입니다](https://en.wikipedia.org/wiki/Blue_Origin)[1](https://en.wikipedia.org/wiki/Blue_Origin).
 ### 최근 3년 내 주요 이슈
 

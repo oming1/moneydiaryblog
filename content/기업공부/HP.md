@@ -14,9 +14,6 @@ weight: 415
 에너지
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
 
 ## 영위사업
@@ -28,9 +25,6 @@ Helmerich & Payne, Inc.(H&P)는 석유 및 [천연가스](/industry-study/천연
 3. 국제 시추: 남미, 중동, 아프리카 등 해외 시장에서 시추 서비스 제공
 4. 기술 개발: FlexRig 시스템 등 혁신적인 시추 기술 개발 및 적용
 5. 부동산 개발 및 운영
-
-{{< adsense-infeed >}}
-
 H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 FlexRig 시스템으로 유명하며, 미국 육상 시추 시장에서 20% 이상의 점유율을 보유하고 있습니다.
 
 ## 핵심 경쟁력
@@ -92,18 +86,12 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 4. 지속가능성 이니셔티브 강화 및 탄소 배출 감소 목표 설정 (2023-2024년)
 5. 디지털 기술 및 자동화 솔루션 개발 확대 (2022-2024년)
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. BlackRock Advisors LLC: 15.65%
 2. Vanguard Fiduciary Trust Co.: 11.31%
 3. State Farm Investment Management Corp.: 8.361%
 4. DFA Australia Ltd.: 5.344%
 5. STATE STREET CORPORATION: 4.236%
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. SPDR S&P Oil & Gas Equipment & Services ETF - XES
 2. iShares U.S. Oil Equipment & Services ETF - IEZ
 3. VanEck Oil Services ETF - OIH

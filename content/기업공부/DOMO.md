@@ -71,9 +71,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - 단일 플랫폼·모바일 퍼스트: 현업 사용자의 접근성과 실행력(알림, 협업) 최적화.
 
 - 커넥터/실시간성: 다양한 SaaS/광고·커머스 플랫폼 연결과 신속한 데이터 파이프라인 구성.
-
-{{< adsense-infeed >}}
-
 - 임베디드 상용화 역량: 외부 고객 포털에 안전하게 내재화, 수익화 모델(과금/브랜딩) 지원.
 
 - 데이터 앱 생태계: 템플릿·마켓플레이스로 구축 시간 단축, 현업 중심 ‘용도 기반’ 확산.
@@ -132,9 +129,6 @@ Domo, Inc.는 2010년 설립된 [클라우드](/industry-study/2산업클라우�
 - Magic ETL/Workflows – 사용처: 데이터 정제·업무 자동화, 경쟁사 AYX(Alteryx), [SNOW](/company-analysis/snow/)(파이프라인 파트너)
 
 - 데이터 앱/마켓플레이스 – 사용처: 도메인별 즉시 배포, 경쟁사 THOUGHT(ThoughtSpot, 비상장), [MSTR](/company-analysis/mstr/)(MicroStrategy)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재

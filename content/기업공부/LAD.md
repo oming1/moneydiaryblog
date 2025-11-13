@@ -35,14 +35,8 @@ Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운
 ## 전방/후방산업
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
 - 보험회사: 차량 보험 상품 제공 (예: Progressive Corporation (US, [PGR](/company-analysis/pgr/)))
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 - 자동차 제조업체: 신차 공급 (예: General Motors (US, [GM](/company-analysis/gm/)))
 - 부품 제조업체: 차량 부품 공급 (예: Aptiv PLC (US, [APTV](/company-analysis/aptv/)))
@@ -52,9 +46,6 @@ Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운
 2. 부품 공급: 자동차 부품 제조업체 (예: Magna International (US, [MGA](/company-analysis/mga/)))
 3. 소매 판매 및 서비스: Lithia Motors (US, [LAD](/company-analysis/lad/))
 4. 금융 서비스: Lithia Motors의 자체 금융 부문
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 1. 신차 판매
 2. 중고차 판매
@@ -75,15 +66,9 @@ Lithia Motors는 주로 미국, 영국, 캐나다에서 사업을 영위하고 �
 5. Asbury Automotive Group (US, [ABG](/company-analysis/abg/)) - 자동차 소매 및 부품 판매
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Lithia Motors는 미국 자동차 소매 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 1. 2024년 2분기 매출 92억 3,180만 달러 기록 (2024년)
 2. David Massoudi가 Lithia Motors로부터 캘리포니아의 Carson Nissan 인수 (2024년)
 3. 지속적인 디지털 전환 및 e-커머스 플랫폼 강화 (2022-2024년)

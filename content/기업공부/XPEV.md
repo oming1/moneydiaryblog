@@ -17,18 +17,12 @@ weight: 988
 #### 영위사업 (Business Operations)
 XPeng Inc.는 [중국](/industry-study/4국가중국/)의 스마트 전기차 제조업체로, [전기차](/industry-study/2산업자동차-산업전기차/)를 설계, 개발, 제조 및 판매합니다. 주요 제품으로는 SUV, 스포츠 세단, 패밀리 세단 등이 있으며, 자율 주행 기술과 인공지능 기반의 차량 운영 시스템을 개발하고 있습니다.
 #### 전방/후방산업 (Forward/Backward Industries)
-
-{{< adsense-infeed >}}
-
 - **전방산업 (Forward Industries)**:
     - **자동차 판매업체**: Li Auto의 전기차를 판매합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), [BYD](/company-analysis/byd/) (중국)
     - **충전 인프라 제공업체**: Li Auto의 전기차 충전 인프라를 제공합니다. 주요 기업: ChargePoint (미국, [CHPT](/company-analysis/chpt/)), EVgo (미국, [EVGO](/company-analysis/evgo/))
 - **후방산업 (Backward Industries)**:
     - **배터리 제조업체**: Li Auto의 전기차에 필요한 배터리를 제공합니다. 주요 기업: [CATL](/company-analysis/catl/) (중국), [LG화학](/industry-study/lg화학/) (한국)
     - **반도체 제조업체**: Li Auto의 전기차에 필요한 반도체를 제공합니다. 주요 기업: NVIDIA (미국, [NVDA](/company-analysis/nvda/)), Qualcomm (미국, [QCOM](/company-analysis/qcom/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인 (Value Chain)
 - **연구 및 개발**: 전기차 및 관련 기술을 연구하고 개발합니다. 주요 기업: Tesla (미국, [TSLA](/company-analysis/tsla/)), BYD (중국)
 - **제조**: 전기차 및 부품을 제조합니다. 주요 기업: XPeng (중국, [XPEV](/company-analysis/xpev/)), Geely (중국)

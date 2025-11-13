@@ -45,9 +45,6 @@ American Tower Corporation(NYSE: AMT)은 글로벌 통신 인프라 제공업체
 - SBA Communications Corporation(US, SBAC)
 - Cellnex Telecom(ES, CLNX)
 - Digital Realty Trust(US, [DLR](/company-analysis/dlr/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에서 약 25.15%의 점유율을 보유하고 있습니다. 이는 경쟁사인 Crown Castle(16.43%)과 SBA Communications(6.36%)를 크게 앞서는 수치입니다.
 ## 최근 3년 내 주요 이슈
@@ -57,9 +54,6 @@ American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에
 - 지속가능성 이니셔티브 강화: 현장 재생에너지 생산 40% 증가 (2023년)
 - AI 및 엣지 컴퓨팅 수요 증가에 따른 데이터 센터 사업 성장 (2024년)
 - 글로벌 확장 지속: 아프리카 및 라틴아메리카 시장에서의 성장 (2022-2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (11.66%)

@@ -30,9 +30,6 @@ weight: 302
     - **Alibaba (중국, [BABA](/company-analysis/baba/)):** 다양한 제품 소싱.
     - **JD.com (중국, [JD](/company-analysis/jd/)):** 전자상거래 플랫폼을 통한 제품 공급.
 2. **플랫폼 운영 (Platform Operation):**
-
-{{< adsense-infeed >}}
-
     - **Amazon Web Services (미국, [AMZN](/company-analysis/amzn/)):** 클라우드 인프라 제공.
     - **Microsoft Azure (미국, [MSFT](/company-analysis/msft/)):** 클라우드 서비스 제공.
 3. **결제 처리 (Payment Processing):**
@@ -41,9 +38,6 @@ weight: 302
 4. **물류 및 배송 (Logistics and Shipping):**
     - **UPS (미국, [UPS](/company-analysis/ups/)):** 글로벌 배송 서비스.
     - **FedEx (미국, [FDX](/company-analysis/fdx/)):** 물류 및 배송 솔루션.
-
-{{< adsense-infeed >}}
-
 **주요제품**
 
 - **온라인 마켓플레이스 서비스:** 다양한 카테고리의 제품을 리스트하고 판매할 수 있는 플랫폼.

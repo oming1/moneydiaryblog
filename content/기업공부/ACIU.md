@@ -21,18 +21,12 @@ weight: 20
 	- 제약회사 (Roche (CH, [ROG](/company-analysis/rog/)), Eli Lilly (US, [LLY](/company-analysis/lly/)))
 - **후방 산업:** 
 	- 연구기관 및 CRO (IQVIA (US, [IQV](/company-analysis/iqv/)), Charles River Laboratories (US, [CRL](/company-analysis/crl/)))
-
-{{< adsense-infeed >}}
-
 **주요 제품**
 - **Crenezumab:** 알츠하이머병 치료제 (임상 시험 중)
 - **ACI-24:** 알츠하이머병 백신 (임상 시험 중)
 - **ACI-35:** 타우 병리학을 타겟으로 하는 백신 (임상 시험 중)
 **주요 판매 국가** 현재 AC Immune의 제품은 임상 시험 단계에 있으며, 상업화된 제품은 없습니다. 주요 연구 및 임상 시험은 주로 미국과 유럽에서 진행되고 있습니다.
 **경쟁 업체**
-
-{{< adsense-infeed >}}
-
 - **Biogen (국가:US, [BIIB](/company-analysis/biib/)):** 알츠하이머병 치료제 (Aduhelm)
 - **Eli Lilly (국가:US, [LLY](/company-analysis/lly/)):** 알츠하이머병 치료제 (Donanemab)
 - **Roche (국가:CH, [ROG](/company-analysis/rog/)):** 알츠하이머병 치료제 (Gantenerumab)

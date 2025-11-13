@@ -24,9 +24,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 4. 기술: IT 서비스, C4ISR 솔루션, 사이버 보안 등 제공
 
 2024년 기준 총 매출은 약 394억 달러였으며, 전 세계적으로 106,500명 이상의 직원을 고용하고 있습니다. 최근에는 AI, [로봇](/industry-study/로봇/)공학, 자율 시스템 등 첨단 기술 분야에 대한 투자를 확대하고 있으며, 특히 사이버 보안과 우주 관련 사업에 주력하고 있습니다.[3](https://markets.ft.com/data/equities/tearsheet/profile?s=GD%3ANYQ)
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 1. 다각화된 사업 포트폴리오: 항공, 해양, 지상, IT 등 다양한 분야에서의 사업 전개로 리스크 분산 및 안정적 수익 창출
@@ -42,9 +39,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 - 정부기관: NASA, 국토안보부
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 항공기 부품: United Technologies(US, [RTX](/company-analysis/rtx/)), Honeywell(US, [HON](/company-analysis/hon/))
 - 전자 시스템: L3Harris Technologies(US, [LHX](/company-analysis/lhx/)), Raytheon Technologies(US, [RTX](/company-analysis/rtx/))
 - 원자재 공급: Alcoa(US, [AA](/company-analysis/aa/)), Carpenter Technology(US, [CRS](/company-analysis/crs/))
@@ -76,9 +70,6 @@ General Dynamics Corporation(NYSE: GD)은 미국의 대표적인 방위산업 �
 ## 산업 내 글로벌 시장 점유율
 
 General Dynamics는 2024년 3분기 기준 글로벌 방위산업 시장에서 약 12.99%의 점유율을 보유하고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 특히 해군 함정 및 전투 차량 부문에서 강세를 보이고 있습니다.[6](https://csimarket.com/stocks/competitionSEG2.php?code=GD)
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 - AI 및 자율 시스템 기술 개발 투자 확대 (2024년)
 - Columbia급 핵추진 잠수함 건조 계약 체결 (2023년)
@@ -95,9 +86,6 @@ General Dynamics는 2024년 3분기 기준 글로벌 방위산업 시장에서 �
     [4](https://markets.businessinsider.com/stocks/gd-stock)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - iShares U.S. Aerospace & Defense ETF - ITA
 - SPDR S&P Aerospace & Defense ETF - XAR
 - Invesco Aerospace & Defense ETF - [PPA](/industry-study/ppa/)

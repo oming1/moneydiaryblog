@@ -42,13 +42,7 @@ weight: 793
 - **유통 및 판매 (Distribution & Sales)**:
     - **설명**: 정제된 금속의 유통 및 판매
     - **대표회사**: Sibanye Stillwater (남아프리카, SSW), Johnson Matthey (영국, JMAT)
-
-{{< adsense-infeed >}}
-
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **Platinum**: 백금
 - **Palladium**: 팔라듐
 - **Rhodium**: 로듐
@@ -59,9 +53,6 @@ weight: 793
 - **남아프리카**: 주요 생산 및 판매국가
 - **유럽**: 주요 판매국가
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Anglo American Platinum (남아프리카, [AMS](/company-analysis/ams/))**: 백금족 금속 생산
 - **Impala Platinum (남아프리카, IMP)**: 백금족 금속 생산
 - **Johnson Matthey (영국, JMAT)**: 백금족 금속 가공 및 제조

@@ -15,13 +15,7 @@ weight: 809
 
 섹터: 커뮤니케이션 서비스
 산업: 인터넷서비스및소셜미디어
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat을 운영하는 기술 기업입니다. Snapchat은 사진, 동영상, 메시지를 통해 사용자들이 소통할 수 있는 플랫폼을 제공합니다. 
 
 주요 기능으로는 카메라, 비주얼 메시징, 스냅 맵, 스토리, 스포트라이트 등이 있습니다.2024년 3분기 기준 일일 활성 사용자 수는 4억 4,300만 명이며, 주 수익원은 광고입니다. 최근에는 구독 서비스인 Snapchat+를 출시하여 수익 다각화를 모색하고 있습니다.최근 1년간 주요 이슈로는 AI 기반 'My AI' 챗봇 출시, 'Simple Snapchat' 디자인 개편, AR 렌즈 기능 강화 등이 있습니다. 특히 AR 기술을 활용한 광고 상품 개발에 주력하고 있습니다.
@@ -50,9 +44,6 @@ Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat
 - Spectacles: AR 안경, 매출의 약 1% 미만 (2024년 기준)
 - Snapchat+: 구독 서비스, 2024년 3분기 기준 1,100만 구독자
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 캐나다, 유럽 주요국, 호주, 인도
 
 ## 경쟁업체
@@ -62,17 +53,11 @@ Snap Inc.(NYSE: SNAP)는 카메라 앱 및소셜 미디어 플랫폼인 Snapchat
 - Pinterest(US, [PINS](/company-analysis/pins/)) - 이미지 기반 소셜 미디어
 - Twitter(US, TWTR) - 텍스트 기반 소셜 미디어
 - Google(US, [GOOGL](/company-analysis/googl/)) - YouTube Shorts
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Snap Inc.의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 2024년 3분기 기준 4억 4,300만 명의 일일 활성 사용자를 보유하고 있으며, 특히 젊은 층에서 높은 점유율을 유지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - AI 챗봇 'My AI' 출시 및 전체 사용자 대상 확대 (2023년)
 - 'Simple Snapchat' 디자인 개편으로 사용자 경험 개선 (2024년)
 - AR 렌즈 기능 강화 및 개발자 생태계 확대 (2022-2024년)

@@ -82,9 +82,6 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 3. 에너지 공급: 전력, 천연가스 공급 (2024년 매출의 약 15%)
     
 4. 제조 제품: 항공기 부품, 화학제품, 의류 등 (2024년 매출의 약 15%)
-
-{{< adsense-infeed >}}
-
 5. 소매 제품: 가구, 보석, 식품 등 (2024년 매출의 약 10%)
 ## 주요 판매국가
 
@@ -113,9 +110,6 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 2. 일본 5대 상사 지분 확대로 아시아 투자 강화 (2024년)
     
 3. Greg Abel을 워렌 버핏의 후계자로 지명 (2023년)
-
-{{< adsense-infeed >}}
-
 4. 코로나19 팬데믹 대응으로 항공사 주식 전량 매각 (2022년)
     
 5. 애플 지분 지속 확대, 최대 단일 주식 투자로 성장 (2022-2024년)
@@ -124,9 +118,6 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 
 1. Warren Buffett (38.4% of Class A shares)
 2. The Vanguard Group (7.2%)
-
-{{< adsense-infeed >}}
-
 3. BlackRock (6.5%)
     
 4. State Street Corporation (4.1%)

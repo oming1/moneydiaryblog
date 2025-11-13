@@ -24,13 +24,7 @@ BRP Inc.(DOOO)는 캐나다의 파워스포츠 차량 및 해양 제품 제조�
 - Ski-Doo 및 Lynx 스노모빌
 - Sea-Doo 개인용 수상 오락 기구
 - Rotax 엔진
-
-{{< adsense-infeed >}}
-
 ## 해양 부문
-
-{{< adsense-infeed >}}
-
 - Alumacraft, Manitou, Quintrex, Staer, Yellowfin 보트
 - Rotax 제트보트 엔진
 - Rotax S 선외기

@@ -21,9 +21,6 @@ weight: 162
 		20년 이상 축적된 TRISO 제조 경험 활용, 상업 원자로 연료 공급 주도 목표
 		
 		■ 세부 내용:
-
-{{< adsense-infeed >}}
-
 		TRISO 연료: 고온 안정성·다중 피복 구조로 차세대 고온가스로 설계 선호 연료
 		
 		BWXT, 美 국방부 ‘Pele 프로그램’(1.5MW 이동형 가스냉각 원자로)용 TRISO 제작 완료
@@ -124,9 +121,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 해군 원자로 구성품 제작:  
     • 기술: 대형 단조·열처리→고정밀 5축 가공→선진 용접(EBW/TIG 등)→전수 비파괴검사(초음파, 방사선, 침투)  
     • 특징: 원자로급 소재(니켈합금, 저합금강), 공차·결함 기준이 극도로 엄격
-
-{{< adsense-infeed >}}
-
 - 핵연료 제조(해군/상업/차세대)  
     • 기술: 분말 공정→성형/소결→피복관(Zr합금 등) 장전→어셈블리/고열시험/임계안전관리  
     • TRISO: UCO 커널 합성→PyC/SiC 다층 피복(유동층)→배치별 파괴시험·리텐션 시험
@@ -159,9 +153,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 분말 제어→펠릿 성형·소결→피복관 장전→조립체 구성→연소시험/품질인증
 
 5단계: 통합·출하·현장지원
-
-{{< adsense-infeed >}}
-
 - 시스템 통합/기능시험 → 해군 조선소(HII [HII](/company-analysis/hii/), GD Electric Boat [GD](/company-analysis/gd/))·NASA/프라임 현장 납품 → 기술자 상주 지원
 
 ---
@@ -177,9 +168,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 의료: Cardinal Health(US, CAH), GE HealthCare(US, GEHC) – 동위원소 유통/키트 조립
 
 후방산업(원자재/부품 공급):
-
-{{< adsense-infeed >}}
-
 - 우라늄/HALEU: Centrus Energy(US, [LEU](/company-analysis/leu/)), Cameco(CA, [CCJ](/company-analysis/ccj/)) – 전주기 공급
 - 특수합금/단조: Allegheny Technologies(US, ATI), Carpenter Technology(US, [CRS](/company-analysis/crs/)), Japan Steel Works(JP, 5631.T)
 - 제어/계측: Curtiss-Wright(US, CW), AMETEK(US, AME)
@@ -314,9 +302,6 @@ BWXT는 “미 해군 핵심추진 심장부의 단일·핵심 공급자 + 차�
 - 2023년: DRACO(우주 핵열추진) 관련 파트너십 진전(프라임과의 설계·제조 역할 명확화), 해군 잠수함/항모 라인의 생산 캡acity 증설 계획
 
 - 2022년: DoD 분산전력/마이크로 리액터 개념 검증 과제 선정(원자로 모듈·연료·구조재 솔루션 제시), 일부 정부시설 운영/정비 JV 재편(범위 변경 “확인 필요”)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 주주 (지분율)

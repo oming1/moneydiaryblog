@@ -89,17 +89,11 @@ Magna International은 2024년 기준 글로벌 자동차 부품 시장에서 �
 - 전기차 배터리 인클로저 생산을 위한 신규 공장 설립 발표 (2024년)
 - 지속가능성 목표 강화: 2030년까지 탄소 중립 달성 계획 발표 (2023년)
 - BMW와 차세대 전기차 플랫폼 공동 개발 계약 체결 (2024년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 - The Vanguard Group (3.91%)
 - BlackRock (3.20%)
 - Beutel, Goodman & Company Ltd. (2.55%)
 - Jarislowsky, Fraser Ltd. (2.47%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - First Trust NASDAQ Global Auto Index Fund - CARZ

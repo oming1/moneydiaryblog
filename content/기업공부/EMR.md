@@ -16,9 +16,6 @@ weight: 313
 
 #### 영위사업
 Emerson Electric Co.는 산업, 상업 및 소비자 시장을 위한 다양한 솔루션을 제공하는 기술 및 소프트웨어 회사입니다. 주요 사업 부문은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 - **최종 제어 (Final Control)**: 제어, 격리, 차단, 압력 완화 및 안전 밸브, 액추에이터 및 레귤레이터.
 - **제어 시스템 및 소프트웨어 (Control Systems & Software)**: 분산 제어 시스템, 안전 계장 시스템, SCADA 시스템, 애플리케이션 소프트웨어, 디지털 트윈, 자산 성능 관리, 사이버 보안.
 	-[북미 전력 GRID용 자동화 Software 강자](content/산업-테마공부/02.산업/전력산업/Report/2024/7.1_전력에%20묻는%20네%20개의%20질문들.pdf#page=29&selection=6,0,17,2&color=yellow))
@@ -33,9 +30,6 @@ Emerson Electric Co.는 산업, 상업 및 소비자 시장을 위한 다양한 
     - **핵심 기업**: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/)), Siemens (DE, [SIE](/company-analysis/sie/))
 - **후방산업**: 전자 부품 제조업체, 금속 및 플라스틱 가공업체.
     - **핵심 기업**: Texas Instruments (US, [TXN](/company-analysis/txn/)), Dow Inc. (US, [DOW](/company-analysis/dow/)), Nucor (US, [NUE](/company-analysis/nue/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 - **원자재 공급**: 전자 부품, 금속, 플라스틱 공급업체.
     - **대표 회사**: Texas Instruments (US, [TXN](/company-analysis/txn/)), Dow Inc. (US, [DOW](/company-analysis/dow/))
@@ -45,13 +39,7 @@ Emerson Electric Co.는 산업, 상업 및 소비자 시장을 위한 다양한 
     - **대표 회사**: Grainger (US, GWW), Fastenal (US, FAST 1)
 - **소비자**: 최종 사용자에게 제품 제공.
     - **대표 회사**: ExxonMobil (US, [XOM](/company-analysis/xom/)), Chevron (US, [CVX](/company-analysis/cvx/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **제어 밸브**: 제어, 격리 및 차단 밸브.
 - **측정 및 분석 장비**: 압력, 온도, 유량 측정 장비.
 - **산업용 소프트웨어**: 자산 최적화 소프트웨어, 디지털 트윈.

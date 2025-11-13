@@ -82,9 +82,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 2. 영국 (일부 시설 운영)
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Universal Health Services (US, [UHS](/company-analysis/uhs/)) - 행동 건강 서비스
 2. HCA Healthcare (US, [HCA](/company-analysis/hca/)) - 종합 의료 서비스
 3. Tenet Healthcare (US, [THC](/company-analysis/thc/)) - 종합 의료 서비스
@@ -97,9 +94,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 10. Summit BHC SBHC - 중독 및 정신 건강 치료
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Acadia Healthcare는 미국 행동 건강 서비스 시장에서 주요 기업 중 하나로 알려져 있습니다. 2023년 기준 미국 행동 건강 시장 규모는 약 830억 달러로 추정되며, Acadia Healthcare는 이 중 상당한 비중을 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
@@ -111,9 +105,6 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 5. 주가 52주 최저치인 $37.86 기록 (2024년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. Wellington Management Group LLP: 12.55%
 2. Vanguard Group Inc: 9.57%
 3. Blackrock Inc: 8.69%

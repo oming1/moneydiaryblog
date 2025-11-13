@@ -29,9 +29,6 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 - **전자 부품 산업**: Schneider Electric의 제품에 필요한 전자 부품을 공급합니다. 주요 기업: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/)).
 - **기계 부품 산업**: 자동화 시스템에 필요한 기계 부품을 공급합니다. 주요 기업: SKF (SE, SKF), Timken (US, TKR).
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 1. **부품 공급**
     - 전자 부품: Texas Instruments (US, [TXN](/company-analysis/txn/)), Analog Devices (US, [ADI](/company-analysis/adi/))
     - 기계 부품: SKF (SE, SKF), Timken (US, TKR)
@@ -42,9 +39,6 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 4. **서비스**
     - 유지보수 및 기술 지원 서비스 제공
 #### 주요제품
-
-{{< adsense-infeed >}}
-
 - **전력 관리 시스템**: 전력 분배 및 모니터링 시스템
 - **산업 자동화 솔루션**: 프로세스 제어 시스템, 로봇 공학
 - **스마트 빌딩 솔루션**: HVAC 제어 시스템, 조명 제어 시스템

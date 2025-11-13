@@ -24,13 +24,7 @@ Arm Holdings는 영국에 본사를 둔 반도체 및 소프트웨어 설계 회
 - **후방산업:**
     - **반도체 제조:** ARM의 설계를 기반으로 칩을 제조합니다. 주요 기업: TSMC (대만, [TSM](/company-analysis/tsm/)), [Samsung](/industry-study/samsung/) (한국, 005930).
     - **소재 공급:** 반도체 제조에 필요한 소재를 공급합니다. 주요 기업: ASML (네덜란드, [ASML](/company-analysis/asml/)), Applied Materials (미국, [AMAT](/company-analysis/amat/)).
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **설계 및 개발:**
     - ARM Holdings (영국, [ARM](/company-analysis/arm/)): CPU, GPU, 시스템 IP 설계.
     - Synopsys (미국, [SNPS](/company-analysis/snps/)): 전자 설계 자동화(EDA) 소프트웨어.
@@ -43,9 +37,6 @@ Arm Holdings는 영국에 본사를 둔 반도체 및 소프트웨어 설계 회
 - **유통:**
     - Arrow Electronics (미국, [ARW](/company-analysis/arw/)): 전자 부품 유통.
     - Avnet (미국, [AVT](/company-analysis/avt/)): 전자 부품 유통.
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - **Cortex-A 시리즈:** 고성능 애플리케이션 프로세서.
 - **Cortex-M 시리즈:** 저전력 [마이크로컨트롤러](/industry-study/마이크로컨트롤러/).
@@ -59,12 +50,6 @@ Arm은 전 세계적으로 운영되며, 주요 시장은 북미, 유럽, 아시
 - **NVIDIA (미국, [NVDA](/company-analysis/nvda/)):** GPU 및 AI 프로세서 설계.
 - **Intel (미국, [INTC](/company-analysis/intc/)):** CPU 설계 및 제조.
 - **Qualcomm (미국, [QCOM](/company-analysis/qcom/)):** 모바일 프로세서 설계.
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **모바일 애플리케이션 프로세서:** 90% 이상 (2022년 기준).
 - **IoT 및 임베디드 컴퓨팅:** 65% (2022년 기준).

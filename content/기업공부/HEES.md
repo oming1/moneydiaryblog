@@ -60,13 +60,7 @@ H&E Equipment Services의 핵심 경쟁력은 다음과 같습니다:
 5. 부품 공급: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (OEM 및 애프터마켓 부품)
 6. 고객 지원: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (안전 교육 및 기술 지원)
 7. 중고 장비 판매: H&E Equipment Services(US, [HEES](/company-analysis/hees/)) (렌탈 장비 판매)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 항공 작업 플랫폼: 리프트, 붐 등, 매출의 약 40% (2023년 기준)
 - 토공 장비: 굴삭기, [불도저] 등, 매출의 약 30% (2023년 기준)
 - 특수 장비: 트렌치 안전 장비, 유체 솔루션 등, 매출의 약 20% (2023년 기준)

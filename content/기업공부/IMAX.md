@@ -22,9 +22,6 @@ IMAX Corporation은 엔터테인먼트 기술 기업으로, 주요 사업 부문
     - IMAX DMR(Digital Re-mastering): 영화를 IMAX 포맷으로 변환
     - 영화 배급 및 마케팅
     - 영화 후반 작업 및 품질 관리 서비스
-
-{{< adsense-infeed >}}
-
 2. 기술 제품 및 서비스(Technology Products and Services):
     
     - IMAX 시스템 판매 및 임대
@@ -41,9 +38,6 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 - 영화관 체인: AMC Entertainment (US, [AMC](/company-analysis/amc/)), Cinemark (US, CNK)
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 카메라 및 영상 장비: Sony (일본, [SONY](/company-analysis/sony/))
 - 음향 시스템: Dolby Laboratories (US, DLB)
 ## 밸류체인
@@ -55,9 +49,6 @@ OTT 급성장에도 불구하고 박스오피스가 5년 만에 호황. 블랙 �
 5. 상영: 영화관 파트너사 (AMC, Cinemark 등)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. IMAX 극장 시스템
 2. IMAX DMR 기술
 3. IMAX 카메라 및 촬영 장비

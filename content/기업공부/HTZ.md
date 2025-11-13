@@ -22,9 +22,6 @@ Hertz Global Holdings, Inc.(NYSE: HTZ)는 세계적인 차량 렌탈 및 리스 
 1. 미국 렌터카(U.S. RAC): 미국 내 차량 렌탈 및 관련 서비스
 2. 국제 렌터카(International RAC): 미국 외 지역의 차량 렌탈 및 리스 서비스
 3. 기타 사업(All Other Operations): 미국과 캐나다의 통합 차량 리스 및 플릿 관리 솔루션
-
-{{< adsense-infeed >}}
-
 Hertz는 단기 렌탈, 장기 리스, 플릿 관리 서비스 등 다양한 렌탈 솔루션을 제공하며, 개인 고객부터 기업 고객까지 폭넓은 시장을 대상으로 합니다. 최근에는 전기차 도입, 디지털 서비스 강화, 중고차 판매 사업 확대 등을 통해 사업 다각화를 추진하고 있습니다.최근 1년 내 주요 이슈로는 Tesla 전기차 플릿 축소 및 매각, 새로운 경영진 영입을 통한 수익성 개선 노력, 그리고 디지털 플랫폼 강화를 통한 고객 경험 개선 등이 있습니다.
 
 ## 핵심 경쟁력
@@ -44,16 +41,10 @@ Hertz의 핵심 경쟁력은 다음과 같습니다:
 
 ## 전방/후방산업
 전방산업:
-
-{{< adsense-infeed >}}
-
 - 여행 및 관광: Expedia(US, [EXPE](/company-analysis/expe/)), Booking Holdings(US, [BKNG](/company-analysis/bkng/))
 - 항공: Delta Air Lines(US, [DAL](/company-analysis/dal/)), United Airlines(US, [UAL](/company-analysis/ual/))
 - 기업 출장: American Express Global Business Travel(US, AMEX)
 - 보험: Progressive Corporation(US, [PGR](/company-analysis/pgr/)), Allstate(US, ALL)
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 자동차 제조: General Motors(US, [GM](/company-analysis/gm/)), Ford(US, [F](/company-analysis/f/))

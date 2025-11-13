@@ -96,9 +96,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 고객 맞춤형 테스트 솔루션 설계
 
 **2. 부품 조달:**
-
-{{< adsense-infeed >}}
-
 - 전 세계 정밀 부품 공급업체와의 파트너십
 - 핵심 부품의 전략적 재고 관리
 
@@ -165,9 +162,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 ## 주요제품
 
 **반도체 테스트 장비:** 반도체 칩 품질 검증 장비, 매출 비중 약 75% (2024년 기준), 관련 경쟁사 [AMAT](/company-analysis/amat/), [LRCX](/company-analysis/lrcx/)
-
-{{< adsense-infeed >}}
-
 **협동로봇(Universal Robots):** 산업용 협동로봇 및 자동화 솔루션, 매출 비중 약 15% (2024년 기준), 관련 경쟁사 [ABB](/company-analysis/abb/), KUKA
 
 **자율주행 로봇(MiR):** 창고 및 물류 자동화용 모바일 로봇, 매출 비중 약 5% (2024년 기준), 관련 경쟁사 Amazon, Fetch Robotics
@@ -177,9 +171,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 ---
 
 ## 주된 영향을 미치는 원자재
-
-{{< adsense-infeed >}}
-
 **반도체 칩:**
 - 사용처: 테스트 장비의 핵심 제어 및 처리 부품
 - 주요 공급 지역: 대만, 한국, 미국
@@ -196,9 +187,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 사용처: 장비 구조재 및 정밀 부품
 - 주요 공급 지역: 미국, 유럽, 아시아
 - 주요 공급 업체: Nucor [NUE](/company-analysis/nue/), Steel Dynamics [STLD](/company-analysis/stld/)
-
-{{< adsense-infeed >}}
-
 **알루미늄:**
 
 - 사용처: 장비 프레임 및 하우징
@@ -285,9 +273,6 @@ Teradyne은 설계 중심의 fabless 모델을 기반으로 한 맞춤형 제조
 - 1위: Universal Robots(Teradyne) - 약 30-35%
 - 2위: ABB - 약 15-20%
 - 3위: KUKA - 약 10-15%
-
-{{< adsense-infeed >}}
-
 최근 3년간 반도체 테스트 장비 시장 점유율은 55%→52%→50%로 소폭 감소하지만 여전히 압도적 1위 유지
 ---
 

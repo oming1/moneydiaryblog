@@ -20,9 +20,6 @@ GlobalFoundries는 세계 3위의 반도체 파운드리 기업으로, 고성능
 1. 반도체 웨이퍼 제조 (2023년 매출 비중: 92.3%): 전력 관리 IC, 배터리 관리 IC, 마이크로프로세서, 연결성 칩 등
 2. 반도체 마스크 제조 (2023년 매출 비중: 7.7%)
 3. 엔지니어링 및 웨이퍼 테스트 서비스
-
-{{< adsense-infeed >}}
-
 주요 시장 분야:
 
 - 자동차
@@ -34,13 +31,7 @@ GlobalFoundries는 세계 3위의 반도체 파운드리 기업으로, 고성능
 GlobalFoundries는 미국, 독일, 싱가포르에 생산 시설을 보유하고 있으며, 첨단 공정 기술과 글로벌 제조 능력을 바탕으로 종합 솔루션 제공업체로 성장하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. 다양한 특수 공정 기술: RF-SOI, FD-SOI, SiGe, 임베디드 메모리 등 특화된 기술 보유
 2. 글로벌 생산 네트워크: 미국, 독일, 싱가포르에 위치한 생산 시설로 지역 다변화 및 공급망 안정성 확보
 3. 장기 고객 관계: 자동차, 통신, 산업용 IoT 등 다양한 산업의 주요 기업들과 장기 파트너십 구축
@@ -53,9 +44,6 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 
 1. 후방산업:
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     - 반도체 소재: Tokyo Electron
@@ -98,9 +86,6 @@ GlobalFoundries의 핵심 경쟁력은 다음과 같습니다:
 5. Tower Semiconductor (IL, TSEM) - 아날로그 및 혼합 신호 반도체
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2023년 4분기 기준 GlobalFoundries의 글로벌 파운드리 시장 점유율은 5.8%로, 업계 3위를 차지하고 있습니다. 1위는 TSMC(61.2%), 2위는 Samsung Electronics(11.3%)입니다.
 
 ## 최근 3년 내 주요 이슈

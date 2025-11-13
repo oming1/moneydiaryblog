@@ -23,9 +23,6 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 주요 제품으로는 인프라스트럭처 모니터링, APM, 로그 관리, 네트워크 성능 모니터링, 보안 모니터링, 실시간 사용자 모니터링(RUM) 등이 있습니다. 이러한 제품들은 Datadog 플랫폼을 통해 통합되어 제공됩니다.최근 1년 내 주요 이슈로는 AI 기반 모니터링 및 분석 기능 강화, 클라우드 보안 포지셔닝 확대, Cloudcraft 인수를 통한 클라우드 인프라 시각화 기능 강화 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 통합 플랫폼: 인프라, 애플리케이션, 로그, 보안 등을 단일 플랫폼에서 모니터링
 2. 클라우드 네이티브: 주요 클라우드 서비스와의 원활한 통합
 3. AI/ML 기반 분석: 이상 징후 탐지 및 예측 분석 제공
@@ -38,9 +35,6 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 기업 IT 부서
 - DevOps 팀
-
-{{< adsense-infeed >}}
-
 후방산업:
 
 - 데이터 센터: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
@@ -54,9 +48,6 @@ Datadog Inc.(NASDAQ: DDOG)는 클라우드 기반 모니터링 및 분석 플랫
 - 로그 관리: 로그 수집, 분석, 저장, 매출의 약 20% (2024년 기준)
 - 보안 모니터링: 위협 탐지 및 대응, 매출의 약 10% (2024년 기준)
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 - Peloton(US, [PTON](/company-analysis/pton/)): 피트니스 플랫폼
 - Whole Foods Market(Amazon): 식료품 유통
 - Samsung(KR, 005930): 전자제품 제조
@@ -84,17 +75,11 @@ Datadog은 2024년 기준 APM 및 인프라스트럭처 모니터링 시장에�
 - 클라우드 보안 포지셔닝 확대를 위한 'Cloud Security Management' 플랫폼 출시 (2024년)
 - 연간 반복 수익(ARR) 20억 달러 돌파 (2024년)
 - 유럽 데이터 센터 확장으로 GDPR 준수 강화 (2023년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 - The Vanguard Group (8.17%)
 - BlackRock (7.38%)
 - State Street Corporation (4.55%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 - Global X Cloud Computing ETF - CLOU
 - First Trust Cloud Computing ETF - SKYY

@@ -15,24 +15,15 @@ weight: 384
 - **Industry:** 특수 산업 기계 (Specialty Industrial Machinery)
 
 **영위사업** 
-
-{{< adsense-infeed >}}
-
 Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설계, 제조 및 전 세계에 유통하는 기업입니다. 주요 제품으로는 가정용 자동 대기 발전기, 상업용 및 산업용 발전기, 스마트 홈 솔루션, 에너지 저장 시스템 등이 있습니다.
 
 **전방/후방산업**
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 주택, 상업 및 산업 고객
     - **핵심 산업:** 주택용 전력 공급, 상업용 전력 공급, 산업용 전력 공급
     - **관련 기업:**
         - 주택용 전력 공급: Tesla (미국, [TSLA](/company-analysis/tsla/))
         - 상업용 전력 공급: Caterpillar (미국, [CAT](/company-analysis/cat/))
         - 산업용 전력 공급: Cummins (미국, [CMI](/company-analysis/cmi/))
-
-{{< adsense-infeed >}}
-
 - **후방산업:** 에너지 생산, 에너지 저장, 에너지 전송
     - **핵심 산업:** 에너지 생산 (발전소 운영), 에너지 저장 (배터리 및 저장 시설), 에너지 전송 (전력망 운영)
     - **관련 기업:**
@@ -40,9 +31,6 @@ Generac Holdings Inc.는 다양한 에너지 기술 제품 및 솔루션을 설�
         - 에너지 저장: Tesla (미국, [TSLA](/company-analysis/tsla/))
         - 에너지 전송: American Electric Power (미국, [AEP](/company-analysis/aep/))
 **밸류체인**
-
-{{< adsense-infeed >}}
-
 - **생산:** 전력 및 에너지 저장 제품 생산
     - **대표 회사:** Duke Energy (미국, [DUK](/company-analysis/duk/)), NextEra Energy (미국, [NEE](/company-analysis/nee/))
 - **전송:** 전력 및 에너지 전송

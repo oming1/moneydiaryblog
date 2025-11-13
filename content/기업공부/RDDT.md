@@ -20,9 +20,6 @@ Reddit는 사용자들이 특정 관심사를 중심으로 커뮤니티를 형�
 ## 전방/후방산업
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스 제공업체
 - 데이터 센터 운영업체
 ## 전방산업
@@ -31,9 +28,6 @@ Reddit는 사용자들이 특정 관심사를 중심으로 커뮤니티를 형�
 - 사용자
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 플랫폼 개발: Reddit (자체 개발)
 2. 콘텐츠 생성: 사용자 및 커뮤니티
 3. 광고 판매: Reddit
@@ -47,9 +41,6 @@ Reddit는 사용자들이 특정 관심사를 중심으로 커뮤니티를 형�
 ## 주요 판매국가
 전 세계 (구체적인 국가별 매출 비중 정보 없음)
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Meta Platforms(US, [META](/company-analysis/meta/))
 - Twitter
 - Discord

@@ -16,9 +16,6 @@ weight: 740
 
 #### 영위사업
 Renewable Energy Group, Inc. (REGI)는 바이오디젤 및 재생 가능 디젤을 생산하고 판매하는 기업입니다. 이 회사는 주로 폐식용유, 동물성 지방, 옥수수유 등 다양한 재생 가능 자원을 사용하여 저탄소 연료를 생산합니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 - **전방산업 (Downstream Industry):**
     - **핵심 산업:** 연료 유통 및 소매업
@@ -33,9 +30,6 @@ Renewable Energy Group, Inc. (REGI)는 바이오디젤 및 재생 가능 디젤�
 - **연구 및 개발 (R&D):**
     - **설명:** 새로운 바이오 연료 기술 개발
     - **대표회사:** Renewable Energy Group (미국, [REGI](/company-analysis/regi/)), Neste (핀란드, NESTE)
-
-{{< adsense-infeed >}}
-
 - **제조:**
     - **설명:** 바이오디젤 및 재생 가능 디젤 생산
     - **대표회사:** Renewable Energy Group (미국, [REGI](/company-analysis/regi/)), Valero Energy (미국, [VLO](/company-analysis/vlo/))
@@ -46,9 +40,6 @@ Renewable Energy Group, Inc. (REGI)는 바이오디젤 및 재생 가능 디젤�
 - **판매 및 마케팅:**
     - **설명:** 연료를 최종 소비자에게 판매
     - **대표회사:** Chevron (미국, [CVX](/company-analysis/cvx/)), ExxonMobil (미국, [XOM](/company-analysis/xom/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **InfiniD™ (바이오디젤)**
@@ -58,13 +49,7 @@ Renewable Energy Group, Inc. (REGI)는 바이오디젤 및 재생 가능 디젤�
 
 - **미국:** 주요 매출 국가
 - **유럽:** 주요 매출 국가 (특히 네덜란드, 독일)
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Neste (핀란드, NESTE)**
     - **경쟁 제품:** 재생 가능 디젤
 - **Valero Energy (미국, [VLO](/company-analysis/vlo/))**

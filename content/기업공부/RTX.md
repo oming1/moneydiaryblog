@@ -21,9 +21,6 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 군사 및 방산 서비스
     - **역할**: 최종 소비자에게 방산 솔루션 제공
     - **주요 기업**: Lockheed Martin (미국, [LMT](/company-analysis/lmt/)), Boeing (미국, [BA](/company-analysis/ba/))
@@ -35,15 +32,9 @@ Raytheon Technologies는 항공기 엔진, 방산 시스템(무기), 전자 장�
     - **주요 기업**: Northrop Grumman (미국, [NOC](/company-analysis/noc/)), Honeywell International (미국, [HON](/company-analysis/hon/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **제품 개발**:
     - Raytheon은 첨단 방산 기술과 솔루션을 개발합니다.
     - 대표 기업: General Dynamics (미국, [GD](/company-analysis/gd/)) - 경쟁 제품: 방산 기술
-
-{{< adsense-infeed >}}
-
 - **제조 및 조립**:
     
     - 다양한 항공기 및 방산 시스템의 부품을 제조합니다.

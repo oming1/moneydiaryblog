@@ -27,9 +27,6 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
         
         - Abbott Laboratories (미국, [ABT](/company-analysis/abt/)) - 의료 기기 및 진단 제품 제공
         - Siemens Healthineers (독일, 비상장) - 의료 기술 및 진단 솔루션 제공
-
-{{< adsense-infeed >}}
-
 - **후방 산업 (Upstream Industry)**:
     - **핵심 산업**: 생명 과학 연구 및 개발
     - **역할**: Danaher의 제품에 필요한 원자재 및 연구 지원 제공
@@ -74,9 +71,6 @@ Danaher는 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 �
 ## 산업 내 글로벌 시장 점유율
 
 Danaher는 글로벌 진단 시장에서 약 10%의 점유율을 차지하고 있으며(2023년 기준), 최근 몇 년간 지속적인 성장을 보여주고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - **M&A 활동 증가**: Beckman Coulter와 Pall Corporation과 같은 주요 인수로 사업 확장 (2015).

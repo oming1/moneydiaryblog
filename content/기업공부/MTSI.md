@@ -21,9 +21,6 @@ weight: 599
 ### 영위사업
 
 MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반도체 회사입니다. 주요 사업을 쉽게 풀이하면:
-
-{{< adsense-infeed >}}
-
 1. 무선 기지국용 증폭기 및 스위치  
 
     • 5G/6G 기지국에서 안테나 신호를 크게 증폭해 멀리 전파를 보내는 칩을 만듭니다.
@@ -57,9 +54,6 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
     • 클라우드·데이터센터 기업(예: Amazon, Google): 25%  
     • 방위·우주 업체(예: Raytheon, Lockheed Martin): 20%  
     • 기타 산업 고객(자동차·의료·산업장비): 10%
-
-{{< adsense-infeed >}}
-
 - 지역별 매출 분포 (2023년)  
     • 아시아·태평양: 55%  
     • 북미: 30%  
@@ -111,9 +105,6 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - 데이터센터: Amazon(US, [AMZN](/company-analysis/amzn/)), Google(US, [GOOGL](/company-analysis/googl/)), Microsoft(US, [MSFT](/company-analysis/msft/))
 - 방위·우주: Raytheon(US, [RTX](/company-analysis/rtx/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/)), Boeing(US, [BA](/company-analysis/ba/))
 - 자동차·산업 센서: Velodyne(US, VLDR, Luminar(US, [LAZR](/company-analysis/lazr/))
-
-{{< adsense-infeed >}}
-
 후방산업 (원자재·부품 공급 산업):
 
 - TSMC(TW, [TSM](/company-analysis/tsm/)): 웨이퍼 파운드리
@@ -136,9 +127,6 @@ MACOM은 “보이지 않는 신호”를 만들어 세상을 연결하는 반�
 - **GaAs Radar Module**: 방위·우주 레이더용 믹서·스위치 (매출비중 22%)
 - **VCSEL LiDAR Chip**: 자율주행 센서용 VCSEL 배열 (매출비중 10%)
 - **Custom RF/Optical Modules**: 고객 맞춤형 통합 모듈 (매출비중 9%)
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재

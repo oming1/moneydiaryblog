@@ -17,9 +17,6 @@ weight: 482
 ## 영위 사업
 
 KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다양한 소매 및 상업 은행 제품과 서비스를 제공합니다. 이 회사는 소비자 은행과 상업 은행 두 개의 주요 부문에서 운영되며, 예금, 투자 상품, 상업 리스, 소비자 금융, 모기지 및 신용 카드 서비스 등을 포함합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방 산업
 
 - **전방 산업 (Downstream Industry)**:
@@ -38,9 +35,6 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
         - Goldman Sachs (미국, [GS](/industry-study/gs/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **소매 은행 서비스**:
     
     - 개인 및 기업 고객을 위한 예금 계좌와 대출 상품을 제공합니다.
@@ -54,9 +48,6 @@ KeyCorp는 KeyBank National Association의 지주회사로, 미국 내에서 다
     - 대표 기업:
         
         - U.S. Bancorp (미국, [USB](/company-analysis/usb/)) - 상업 및 소매 금융 서비스 제공
-
-{{< adsense-infeed >}}
-
 ## 주요 제품
 - **소매 뱅킹 서비스**: 개인 및 기업 고객을 위한 예금 계좌와 대출 상품입니다.
     

@@ -66,9 +66,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 **전략적 파트너십:** 다양한 주류 브랜드와의 마케팅 협력 관계 구축 및 독점 유통 계약 체결
 
 **암호화폐 전략:** 비트코인 마이닝 및 디지털 자산 통합을 통한 새로운 수익 창출 기회 모색
-
-{{< adsense-infeed >}}
-
 **자체 브랜드 보유:** SWOL 테킬라 등 자체 브랜드 개발 및 국제 시장 진출
 
 **비용 효율성:** 소규모 조직(4명)으로 운영하며 디지털 중심의 비즈니스 모델 구축
@@ -113,9 +110,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 ## 밸류체인
 
 **브랜드 개발 단계:**
-
-{{< adsense-infeed >}}
-
 - LQR House: 자체 브랜드(SWOL 테킬라) 개발 및 마케팅
 - 제조 파트너: 멕시코 테킬라 제조업체와 OEM 계약
 
@@ -164,9 +158,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 - LCBO - Liquor Control Board of Ontario (캐나다 온타리오주)
 
 **마케팅 파트너 브랜드:**
-
-{{< adsense-infeed >}}
-
 - Montauk Distilling Co. (계피 플레이버드 럼)
 - Whiplash Whiskey (위스키 브랜드)
 - Saltwater Woody (주류 브랜드)
@@ -220,9 +211,6 @@ Robert Leshner(Superstate Inc. CEO)가 약 57%의 지분을 보유하며 최대 
 - 전체 주류 시장에서는 미미한 수준
 
 **틈새 시장 점유율:**
-
-{{< adsense-infeed >}}
-
 - 프리미엄 테킬라 온라인 판매: 소규모 점유율
 - 주류 브랜드 디지털 마케팅: 전문 영역에서 소규모 점유율
 

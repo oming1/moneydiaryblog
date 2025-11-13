@@ -15,9 +15,6 @@ weight: 767
 
 섹터: 정보기술
 산업: 소프트웨어
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 SentinelOne, Inc.(NYSE: S)는 AI 기반의 [사이버 보안](/industry-study/사이버-보안/) 솔루션을 제공하는 기업입니다. 2013년 설립된 이 회사는 엔드포인트, 클라우드 워크로드, IoT 디바이스를 위한 자율 위협 예방, 탐지, 대응 기능을 제공하는 Singularity 플랫폼을 주력 제품으로 운영하고 있습니다.
@@ -35,9 +32,6 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 5. 데이터 분석 역량: Singularity Data Lake를 통한 고급 보안 분석 및 인사이트 제공
 이러한 경쟁력을 바탕으로 SentinelOne은 빠르게 성장하는 사이버보안 시장에서 차별화된 위치를 확보하고 있습니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Microsoft(US, [MSFT](/company-analysis/msft/))
@@ -45,17 +39,11 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 - 정부 및 공공기관
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 반도체: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/))
 - 클라우드 인프라: Equinix(US, [EQIX](/company-analysis/eqix/)), Digital Realty(US, [DLR](/company-analysis/dlr/))
 - 데이터 분석: Splunk(US, [SPLK](/company-analysis/splk/)), Elastic(US, ESTC)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Singularity Platform: 통합 사이버보안 플랫폼, 매출의 약 70% (2024년 기준)
 - Vigilance MDR: 관리형 탐지 및 대응 서비스, 매출의 약 15% (2024년 기준)
 - Professional Services: 보안 컨설팅 및 구현 서비스, 매출의 약 10% (2024년 기준)
@@ -96,9 +84,6 @@ SentinelOne의 정확한 글로벌 시장 점유율 데이터는 제공되지 �
 - Global X Cybersecurity ETF - BUG
 - ETFMG Prime Cyber Security ETF - HACK
 - WisdomTree Cybersecurity Fund - WCBR
-
-{{< adsense-infeed >}}
-
 공유
 
 다시 쓰기

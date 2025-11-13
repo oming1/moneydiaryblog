@@ -35,9 +35,6 @@ Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/)
 
 - 자동차 부품 제조업체: 차량 부품 공급
 - 전자 부품 제조업체: 차량 전자 시스템 부품 공급
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 연구개발: Honda Motor Co Ltd (US, [HMC](/company-analysis/hmc/))
@@ -56,9 +53,6 @@ Honda Motor Co Ltd는 1948년 설립된 [일본](/industry-study/4국가일본/)
 Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특히 북미, 일본, 아시아 지역이 주요 시장입니다.
 ## 경쟁업체
 Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특히 북미, 일본, 아시아 지역이 주요 시장입니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. Toyota Motor Corp (일본, [TM](/company-analysis/tm/))
 2. General Motors Co (US, [GM](/company-analysis/gm/))

@@ -25,18 +25,12 @@ AutoZone은 자동차 교체 부품, 유지보수 품목, 액세서리 및 비�
 AutoZone은 온라인(autozone.com, autozonepro.com)과 오프라인 매장을 통해 제품을 판매하며, 미국, 푸에르토리코, 멕시코, 브라질에서 7,140개 이상의 매장을 운영하고 있습니다.
 ## 전방/후방산업
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 자동차 부품 제조업체
 - 물류 및 유통 기업
 ## 전방산업
 
 - 개인 소비자
 - 자동차 수리점 및 정비소
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. 제품 소싱: 자동차 부품 제조업체로부터 구매
 2. 물류 및 재고 관리: AutoZone
@@ -51,17 +45,11 @@ AutoZone은 온라인(autozone.com, autozonepro.com)과 오프라인 매장을 �
 - 비자동차 제품
 - ALLDATA 자동차 진단 및 수리 소프트웨어
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 푸에르토리코, 멕시코, 브라질, 미국령 버진아일랜드
 ## 주요 판매국가
 
 미국, 푸에르토리코, 멕시코, 브라질, 미국령 버진아일랜드
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - O'Reilly Automotive(US, [ORLY](/company-analysis/orly/))
 - Advance Auto Parts(US, [AAP](/company-analysis/aap/))
 - NAPA Auto Parts
@@ -71,9 +59,6 @@ AutoZone은 온라인(autozone.com, autozonepro.com)과 오프라인 매장을 �
 정확한 시장 점유율 데이터는 제공되지 않았으나, AutoZone은 미국 내 최대 자동차 부품 소매업체로 알려져 있습니다.
 
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 2023 회계연도 매출 174억 6천만 달러 기록 (2024)
 - 전자상거래 플랫폼 강화 및 매장 확장 지속 (2022-2024)
 - 멕시코 실라오 공장 확장을 위해 2억 2천만 달러 투자 계획 발표 (2024)

@@ -15,9 +15,6 @@ T-Mobile US, Inc.(TMUS)는 미국의 무선 통신 서비스 제공업체입니�
 
 섹터: 커뮤니케이션 서비스(Communication Services)  
 산업: 통신 서비스(Telecom Services)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 모바일 통신 서비스를 제공합니다. 주요 사업 영역은 다음과 같습니다:
@@ -30,9 +27,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 
 또한 기업 고객을 위한 솔루션과 IoT 서비스도 제공하고 있습니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 
 - 통신장비 제조업체: Ericsson(SE, ERIC)
@@ -48,9 +42,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 2. 서비스 개발 및 제공: T-Mobile US
 3. 마케팅 및 판매: T-Mobile US, Metro by T-Mobile
 4. 고객 서비스: T-Mobile US
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - 무선 음성, 메시징, 데이터 서비스
 - 5G 네트워크 서비스
@@ -61,9 +52,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 
 미국, 푸에르토리코, 미국령 버진아일랜드
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 푸에르토리코, 미국령 버진아일랜드
 ## 경쟁업체
 - AT&T(US, [T](/company-analysis/t/))
@@ -71,9 +59,6 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 - DISH Network(US, [DISH](/company-analysis/dish/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2024년 9월 30일 기준 1억 2,750만 명의 가입자를 보유하고 있으며, 미국 내 2위 무선 통신사업자입니다.
 ## 최근 3년 내 주요 이슈
 

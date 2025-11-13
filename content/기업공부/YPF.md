@@ -36,9 +36,6 @@ YPF는 아르헨티나 전역에서 석유 및 가스 밸류체인 전반에 걸
 
 - 석유 및 가스 장비 제조업체: Schlumberger (US, [SLB](/company-analysis/slb/))
 - 파이프라인 운영 기업: Transportadora de Gas del Sur (아르헨티나, TGS)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. 탐사 및 생산: YPF SA (US, [YPF](/company-analysis/ypf/))
 2. 운송: YPF SA (US, [YPF](/company-analysis/ypf/))
@@ -56,9 +53,6 @@ YPF는 아르헨티나 전역에서 석유 및 가스 밸류체인 전반에 걸
 6. 석유화학 제품
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 YPF SA는 주로 아르헨티나 국내 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 
@@ -67,9 +61,6 @@ YPF SA는 주로 아르헨티나 국내 시장에서 사업을 영위하고 있�
 3. Chevron (US, [CVX](/company-analysis/cvx/)) (통합 석유 및 가스)
 4. Shell (네덜란드, SHEL) (통합 석유 및 가스)
 5. TotalEnergies (프랑스, TTE) (통합 석유 및 가스)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 YPF는 아르헨티나 국내 석유 및 가스 시장에서 주요 플레이어로 인식되고 있습니다.
 

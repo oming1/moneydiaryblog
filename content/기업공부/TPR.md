@@ -25,9 +25,6 @@ Tapestry는 글로벌 럭셔리 패션 브랜드 기업으로, Coach, Kate Spade
     - 역할: 최종 소비자에게 럭셔리 패션 제품 제공
     - 주요 기업: Nordstrom (미국, [JWN](/company-analysis/jwn/)), Macy's (미국, [M](/company-analysis/m/))
 - 후방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 원자재 공급 및 제조
     - 역할: Tapestry 제품에 필요한 가죽, 직물 등 원자재 공급
     - 주요 기업: PVH Corp. (미국, [PVH](/company-analysis/pvh/)), VF Corporation (미국, VFC)
@@ -47,15 +44,9 @@ Tapestry는 글로벌 럭셔리 패션 브랜드 기업으로, Coach, Kate Spade
 - Kate Spade New York 브랜드 제품 (핸드백, 액세서리 등, 전체 매출의 약 20%)
 - Stuart Weitzman 브랜드 제품 (신발, 전체 매출의 약 10%)
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 Tapestry는 전 세계적으로 제품을 판매하며, 특히 북미, 아시아, 유럽 지역에서 강세를 보입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - LVMH (프랑스, MC) - 다양한 럭셔리 브랜드 보유
 - Kering (프랑스, KER) - Gucci, Saint Laurent 등 럭셔리 브랜드 보유
 - Capri Holdings (미국, [CPRI](/company-analysis/cpri/)) - Michael Kors, Versace 등 브랜드 보유

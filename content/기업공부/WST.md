@@ -42,9 +42,6 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
     
 10. 규제 전문성: 광범위한 Drug Master Files(DMFs) 포트폴리오 보유
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 제약회사: Pfizer(US, [PFE](/company-analysis/pfe/)), Johnson & Johnson(US, [JNJ](/company-analysis/jnj/))
     
@@ -55,9 +52,6 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 후방산업:
 
 - 원자재 공급업체: DuPont(US, [DD](/company-analysis/dd/)), BASF(DE, BAS)
-
-{{< adsense-infeed >}}
-
 - 장비 제조업체: Bosch(DE), Optima(DE)
     
 - 분석 서비스 제공업체: Eurofins Scientific(FR, ERF)
@@ -78,13 +72,7 @@ West Pharmaceutical Services, Inc.(NYSE: WST)는 주사제 의약품 포장 및 
 - 바이오테크 기업: Amgen(US, [AMGN](/company-analysis/amgn/)), Biogen(US, [BIIB](/company-analysis/biib/))
     
 - 의료기기 제조업체: Medtronic(IE, [MDT](/company-analysis/mdt/)), Boston Scientific(US, [BSX](/company-analysis/bsx/))
-
-{{< adsense-infeed >}}
-
 - 계약 제조 고객: 다양한 제약 및 의료기기 기업
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 독일, 프랑스, 영국, 중국, 일본, 싱가포르, 브라질, 멕시코, 호주

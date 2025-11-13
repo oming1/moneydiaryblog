@@ -14,9 +14,6 @@ weight: 327
 Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 방위 산업에 특화된 ETF입니다. 이 ETF는 STOXX Europe Aerospace & Defense 지수를 추적하며, 유럽 전역의 항공기, 우주선, 방위 시스템 및 관련 기술 제조와 서비스에 관련된 기업들에 투자합니다
 
 ## 주요 특징:
-
-{{< adsense-infeed >}}
-
 - 항공우주 및 방위 산업의 선도 기업들에 대한 집중 투자
     
 - Airbus와 BAE Systems 같은 업계 리더들을 포함
@@ -56,9 +53,6 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 높은 변동성과 위험을 동반한 단기 거래용 상품
         
     - 연간 운용보수: 0.97%[4](https://www.mutualfunds.com/etfs/dfen-direxion-dly-aerospace-def-bl-3x-shsetf/)
-
-{{< adsense-infeed >}}
-
 5. MISL First Trust Indxx Aerospace & Defense ETF
     
     - Indxx US Aerospace & Defense 지수 추적
@@ -66,9 +60,6 @@ Select STOXX Europe Aerospace & Defense ETF(EUAD)는 유럽의 항공우주 및 
     - 첨단 및 전통적 항공우주/방위 기업에 투자
         
     - 2022년 10월 출시된 비교적 신생 ETF[5](https://www.ftportfolios.jp/api/LocalizationApi?culture=en-JP&returnUrl=%2Fetfs%2FMISL)
-
-{{< adsense-infeed >}}
-
 6. GCAD Gabelli Commercial Aerospace & Defense ETF
     
     - 항공기 및 부품 제조업체, 방위산업 관련 기업에 투자

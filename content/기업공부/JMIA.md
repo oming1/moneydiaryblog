@@ -49,9 +49,6 @@ Jumia Technologies AG는 2012년에 독일의 Rocket Internet에 의해 나이�
     Jumia는 플랫폼 회사로 직접 제조하지 않으나, 물류 운영에 필요한 포장재, 차량, IT 하드웨어를 사용합니다. 공급망은 아프리카 현지 공급자와 글로벌 파트너(예: 중국 제조사)로 구성되며, 지속 가능성을 위해 재활용 포장재를 도입합니다.
     
 - **최근 주요 이슈**
-
-{{< adsense-infeed >}}
-
     - 2024년: 비용 절감 전략으로 일부 국가 사업 축소, JumiaPay 사용자 20% 증가.
     - 2025년: AI 기반 추천 시스템 론칭, 새로운 아프리카 국가 진출.
 
@@ -149,9 +146,6 @@ Jumia는 플랫폼 회사로 직접 제조 공정이 없습니다. 대신 물류
 - **온라인 마켓플레이스:** 상품 판매, 매출비중 60%(2024), 경쟁사 [AMZN](/company-analysis/amzn/), [BABA](/company-analysis/baba/).
 - **JumiaPay:** 결제 솔루션, 매출비중 20%(2024), 경쟁사 [PYPL](/company-analysis/pypl/), [SQ](/company-analysis/sq/).
 - **Jumia Logistics:** 배송 서비스, 매출비중 20%(2024), 경쟁사 [FDX](/company-analysis/fdx/), [UPS](/company-analysis/ups/).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재

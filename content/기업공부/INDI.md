@@ -29,9 +29,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 3. 다양한 기술 포트폴리오: RF, 아날로그, 혼합 신호, 전력 관리 등 다양한 기술 보유
 4. 빠른 제품 개발 주기: 유연한 조직 구조와 효율적인 R&D 프로세스로 신속한 제품 출시
 5. 전략적 파트너십: 주요 자동차 OEM 및 Tier 1 공급업체와의 긴밀한 협력 관계
-
-{{< adsense-infeed >}}
-
 이러한 경쟁력을 바탕으로 Indie Semiconductor는 빠르게 성장하는 자동차 전자 및 IoT 시장에서 자리매김하고 있습니다.
 
 ## 전방/후방산업
@@ -47,9 +44,6 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - 반도체 장비: ASML(NL, [ASML](/company-analysis/asml/)), Applied Materials(US, [AMAT](/company-analysis/amat/))
 - 웨이퍼 제조: Shin-Etsu Chemical(JP, 4063), SUMCO(JP, 3436)
 - 패키징 및 테스트: ASE Technology(TW, ASX), Amkor Technology(US, [AMKR](/company-analysis/amkr/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. 설계: Indie Semiconductor(US, [INDI](/company-analysis/indi/)) (자동차 및 IoT용 SoC 설계)
 2. 제조: TSMC(TW, [TSM](/company-analysis/tsm/)) (파운드리 서비스)
@@ -64,13 +58,7 @@ Indie Semiconductor의 핵심 경쟁력은 다음과 같습니다:
 - 사용자 경험 솔루션: 인포테인먼트 및 디스플레이 제어용, 매출의 약 30% (2024년 기준)
 - 전기화 솔루션: 배터리 관리 및 무선 충전용, 매출의 약 20% (2024년 기준)
 - 차량 네트워킹: 차량 내 통신 및 연결성 솔루션, 매출의 약 10% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 - Tesla(US, [TSLA](/company-analysis/tsla/)) - 전기차용 전력관리 IC
 - General Motors(US, [GM](/company-analysis/gm/)) - ADAS 및 인포테인먼트 시스템
 - BMW(DE, [BMW](/company-analysis/bmw/)) - 차량 네트워킹 솔루션

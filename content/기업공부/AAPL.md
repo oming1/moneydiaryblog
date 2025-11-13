@@ -26,9 +26,6 @@ Apple Inc.는 1976년 설립된 세계 최대 기술 기업으로, 스마트폰,
 주요 사업부문으로는 iPhone(스마트폰), Mac(데스크톱 및 노트북), iPad(태블릿), 웨어러블·홈·액세서리(Apple Watch, AirPods 등), Services(App Store, iCloud, Apple Music, Apple TV+ 등)로 구성됩니다. 2024년 총 매출 3,908억 달러를 기록했으며, iPhone이 전체 매출의 약 51%를 차지하는 iPhone 중심 포트폴리오를 운영하고 있습니다.
 
 비즈니스 모델 & 수익 모델 요약: 하드웨어 판매와 서비스 수익의 이중 구조로 운영됩니다. 하드웨어 판매로 고객을 유치하고, 서비스를 통해 지속적인 수익을 창출하는 생태계 모델입니다. 서비스 부문이 매출의 25%를 차지하며 고마진 사업으로 성장하고 있습니다.
-
-{{< adsense-infeed >}}
-
 리스크 요소로는 중국 시장 의존도, 공급망 리스크, 스마트폰 시장 포화, 규제 리스크, 경쟁 심화가 있습니다. 주된 원자재는 반도체, 배터리, 디스플레이 패널, 메모리, 알루미늄, 희토류 금속입니다.
 
 1년 이내 최근 이슈로는 2024년 4분기 매출 949억 달러 달성, AI 기능 Apple Intelligence 도입, 중국 시장 iPhone 판매 회복, Vision Pro 출시 등이 있습니다. 최근 1년 주가동향은 52주 최고가 $259.02에서 최저가 $164.08로 변동하며, 현재 주가 $212.44로 AI 기능 도입 기대와 함께 변동성을 보이고 있습니다.
@@ -141,9 +138,6 @@ Apple은 제조업체가 아닌 fabless 모델을 채택하여 설계와 마케�
 ## 밸류체인
 
 **부품 공급 단계:** 핵심 부품 제조 및 공급
-
-{{< adsense-infeed >}}
-
 - Taiwan Semiconductor(TW, [TSM](/company-analysis/tsm/)) - A시리즈, M시리즈 칩셋 제조
 - Samsung(KR, [Samsung](/industry-study/samsung/)) - OLED 디스플레이 및 메모리 공급
 - Sony(JP, [SONY](/company-analysis/sony/)) - 카메라 센서 공급

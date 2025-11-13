@@ -22,9 +22,6 @@ weight: 466
 - **후방산업**: 전자 부품 제조업, 전력 공급업체
     - **핵심 기업**: Schneider Electric (프랑스, [SU](/company-analysis/su/)), Siemens (독일, [SIE](/company-analysis/sie/))
 **밸류체인**:
-
-{{< adsense-infeed >}}
-
 - **제품 개발 및 제조**: HVAC 시스템, 보안 시스템, 화재 감지 시스템, 빌딩 자동화 솔루션을 개발 및 제조
     - **대표 회사**: Honeywell (미국, [HON](/company-analysis/hon/)), Siemens (독일, [SIE](/company-analysis/sie/))
 - **설치 및 유지보수**: 제품 설치 및 유지보수 서비스 제공
@@ -39,19 +36,10 @@ weight: 466
 - 미국: Johnson Controls의 주요 시장은 미국을 포함한 전 세계 150개 이상의 국가입니다. 국가별 매출액 비중은 공개되지 않았습니다.
 
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **Honeywell (미국, [HON](/company-analysis/hon/))**: HVAC, 보안, 화재 감지 시스템 제공
 - **Siemens (독일, [SIE](/company-analysis/sie/))**: 빌딩 자동화 및 제어 솔루션 제공
 **산업 내 글로벌 시장 점유율**:
 
 - Johnson Controls는 글로벌 건축 제품 및 장비 시장에서 중요한 위치를 차지하고 있으며, 시장 점유율은 공개되지 않았습니다. 그러나 주요 경쟁업체와 함께 시장을 선도하고 있습니다.
-
-{{< adsense-infeed >}}
-
 **최근 3년 내 주요 이슈**:
-
-{{< adsense-infeed >}}
-
 - [**OpenBlue 플랫폼 출시**: Johnson Controls는 2021년에 OpenBlue 플랫폼을 출시하여 스마트 빌딩 솔루션을 강화했습니다 (2021년)](https://www.johnsoncontrols.kr/)[2](https://www.johnsoncontrols.kr/)

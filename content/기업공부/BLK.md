@@ -27,9 +27,6 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
         
         - Vanguard Group (미국, 비상장) - ETF 및 뮤추얼 펀드 제공
         - State Street Global Advisors (미국, 비상장) - 자산 운용 서비스 제공
-
-{{< adsense-infeed >}}
-
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 금융 시장 및 데이터 분석
@@ -39,9 +36,6 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
         - Refinitiv (영국, 비상장) - 금융 시장 데이터 제공
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **투자 관리 서비스**:
     
     - BlackRock은 다양한 투자 상품을 관리하며, 고객에게 맞춤형 포트폴리오 솔루션을 제공합니다.
@@ -57,19 +51,10 @@ BlackRock은 세계 최대의 자산 운용 회사로, 다양한 자산 클래�
         - MSCI (미국, MSCI) - 리스크 관리 및 투자 분석 도구 제공
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - **iShares ETF**: 다양한 자산 클래스에 대한 상장지수펀드로 사용됩니다.
-
-{{< adsense-infeed >}}
-
     - 매출 비중: 전체 매출의 약 40% 차지.
     
 - **Aladdin 플랫폼**: 포트폴리오 관리 및 리스크 분석을 위한 소프트웨어입니다.
-
-{{< adsense-infeed >}}
-
     - 매출 비중: 전체 매출의 약 30% 차지.
 ## 주요 판매 국가
 

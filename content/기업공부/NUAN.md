@@ -15,9 +15,6 @@ Nuance Communications, Inc.(NUAN)는 음성 인식 및 인공지능(AI) 소프�
 
 섹터: 정보기술(Information Technology)  
 산업: 소프트웨어 - 애플리케이션(Software - Application)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자연어 처리, AI 기반 솔루션을 제공합니다. 주요 제품으로는 임상 문서화 솔루션, 고객 서비스 자동화 시스템, 음성 비서, 보안 및 생체인식 솔루션 등이 있습니다. 특히 의료 분야에서 강점을 보이며, 임상 문서화와 방사선과 솔루션을 통해 의료진의 업무 효율성을 높이고 있습니다.
 
@@ -28,9 +25,6 @@ Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자�
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
 
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 의료기관: Cleveland Clinic, Mayo Clinic
 - 기업 고객: American Airlines(US, [AAL](/company-analysis/aal/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 자동차 제조업체: 다양한 OEM 파트너십
@@ -40,26 +34,17 @@ Nuance는 의료, 기업, 모바일, 이미징 분야에서 음성 인식, 자�
 2. 소프트웨어 개발: Nuance
 3. 판매 및 유통: 직접 판매, 파트너십 (Cerner, Epic, Avaya, Cisco)
 4. 고객 지원 및 서비스: Nuance
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - Dragon Medical: 의료진용 음성 인식 소프트웨어 (의료 부문 주력 제품)
 - PowerScribe: 방사선과 전용 문서화 솔루션
 - 기업용 AI 고객 서비스 솔루션
 - 모바일 및 IoT용 가상 비서 기술
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국, 유럽, 중동, 아시아-태평양
 ## 주요 판매국가
 
 미국, 유럽, 중동, 아시아-태평양
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Microsoft(US, [MSFT](/company-analysis/msft/))
 - Google(US, [GOOGL](/company-analysis/googl/))
 - Amazon(US, [AMZN](/company-analysis/amzn/))

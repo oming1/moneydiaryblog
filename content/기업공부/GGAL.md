@@ -22,9 +22,6 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 3. 보험(Insurance): 생명보험, 퇴직연금, 주택소유자 보험 등
 4. 기타 사업: 창고 임대 서비스, 인터넷 프로젝트 투자, 자산관리 등
 주요 서비스로는 개인 대출, 모기지 대출, 신용카드, 온라인 뱅킹, 예금 및 당좌계좌 서비스, 외환 거래, 자본시장 및 투자은행 서비스 등이 있습니다.(아르헨티나, 지주사)
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 전방산업
@@ -34,9 +31,6 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 - 투자 및 자산관리 서비스 수요자
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 금융 기술(Fintech): Fiserv (US, FISV)
 - 결제 시스템: Visa (US, [V](/company-analysis/v/)), Mastercard (US, [MA](/company-analysis/ma/))
 - 데이터 분석: IBM (US, [IBM](/company-analysis/ibm/))
@@ -47,13 +41,7 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 3. 리스크 관리: 내부 리스크 관리 부서
 4. 금융 서비스 제공: Banco Galicia (Grupo Financiero Galicia의 주요 자회사)
 5. 고객 서비스: 지점 및 디지털 채널
-
-{{< adsense-infeed >}}
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 개인 및 기업 대출
 2. 신용카드 및 직불카드 서비스
 3. 예금 및 당좌계좌
@@ -62,9 +50,6 @@ Grupo Financiero Galicia S.A.는 아르헨티나의 금융 서비스 지주회�
 ## 주요 판매국가
 ## 주요 판매국가
 아르헨티나를 중심으로 사업을 영위하고 있으며, 우루과이에도 일부 사업을 운영하고 있습니다
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Banco Santander Rio SA (아르헨티나)

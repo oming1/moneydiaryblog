@@ -23,9 +23,6 @@ weight: 274
 
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
-
-{{< adsense-infeed >}}
-
 **밸류체인**
 1. **고객 유치 및 마케팅 (Customer Acquisition and Marketing):**
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
@@ -35,9 +32,6 @@ weight: 274
     - **Equifax (미국, EFX):** 신용 평가 서비스.
     - **Experian (영국, [EXPN](/company-analysis/expn/))**: 신용 정보 및 분석.
 3. **결제 처리 (Payment Processing):**
-
-{{< adsense-infeed >}}
-
     - **Visa (미국, [V](/company-analysis/v/))**: 결제 네트워크.
     - **Mastercard (미국, [MA](/company-analysis/ma/))**: 결제 처리 서비스.
 4. **고객 서비스 및 지원 (Customer Service and Support):**
@@ -46,20 +40,11 @@ weight: 274
     - **Teleperformance (프랑스, TEP)**: 고객 지원 서비스.
 
 **주요제품**
-
-{{< adsense-infeed >}}
-
 - **Discover Card:** 신용카드 서비스.
 - **개인 대출:** 다양한 용도의 개인 대출 서비스.
 - **학생 대출:** 학자금 대출 서비스.
 - **예금 계좌:** 온라인 예금 계좌 및 CD.
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가.
 - **캐나다:** 주요 매출 국가.
 - **영국:** 주요 매출 국가.

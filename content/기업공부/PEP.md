@@ -18,9 +18,6 @@ weight: 682
 PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 및 판매하는 글로벌 기업입니다. 주요 사업 부문은 Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, Asia Pacific, Australia and New Zealand 및 China Region으로 나뉩니다.
 
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **소매**: 슈퍼마켓, 편의점, 대형 할인점 (예: Walmart (US, [WMT](/company-analysis/wmt/)), Costco (US, [COST](/company-analysis/cost/)))
     - **외식업**: 레스토랑, 카페, 패스트푸드 체인 (예: McDonald’s (US, [MCD](/company-analysis/mcd/)), Starbucks (US, [SBUX](/company-analysis/sbux/)))
@@ -32,9 +29,6 @@ PepsiCo, Inc.는 다양한 음료와 간편식품을 제조, 마케팅, 유통 �
 - **원자재 조달**: 농업 원료 및 포장재 공급업체 (예: Archer Daniels Midland (US, ADM), International Paper (US, [IP](/company-analysis/ip/)))
 - **제조 및 생산**: 음료 및 간편식품 제조업체 (예: PepsiCo 자체 생산)
 - **유통 및 판매**: 글로벌 유통 네트워크를 통해 제품 판매 (예: 직접 판매, 대리점, 온라인 플랫폼)
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **음료**: Pepsi, Mountain Dew, Gatorade, Tropicana, Aquafina

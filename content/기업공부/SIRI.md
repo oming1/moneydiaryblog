@@ -28,9 +28,6 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
     
     - **위성 통신:** 위성 라디오 서비스 제공. 예: Intelsat (미국, [I](/company-analysis/i/)), SES S.A. (룩셈부르크, [SESG](/company-analysis/sesg/)).
     - **콘텐츠 제작:** 음악, 스포츠, 뉴스 등 콘텐츠 제작. 예: Warner Music Group (미국, WMG), The Walt Disney Company (미국, [DIS](/company-analysis/dis/)).
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **콘텐츠 제작:**
@@ -45,9 +42,6 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
 - **배포 및 스트리밍:**
     - Sirius XM Holdings Inc. (미국, [SIRI](/company-analysis/siri/)): 위성 라디오 및 스트리밍 서비스.
     - Pandora Media (미국, P) (Sirius XM 자회사): 음악 스트리밍 서비스.
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 
 - **SiriusXM 구독 서비스:** 음악, 스포츠, 엔터테인먼트, 뉴스 등 다양한 채널 제공.
@@ -57,22 +51,13 @@ Sirius XM Holdings Inc.는 주로 북미 지역에서 오디오 엔터테인먼�
 - **캐나다:** 북미 지역 내 주요 시장.
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Spotify Technology S.A. (룩셈부르크, [SPOT](/company-analysis/spot/)):** 음악 스트리밍 서비스.
 - **Apple Inc. (미국, [AAPL](/company-analysis/aapl/)):** Apple Music 스트리밍 서비스.
 - **Amazon.com, Inc. (미국, [AMZN](/company-analysis/amzn/)):** Amazon Music 스트리밍 서비스.
 #### 산업 내 글로벌 시장 점유율
 
 Sirius XM Holdings Inc.는 북미 지역에서 위성 라디오 및 오디오 스트리밍 시장의 주요 플레이어로 자리잡고 있습니다. 정확한 시장 점유율 데이터는 제공되지 않았으나, 주요 경쟁사들과 비교해 높은 점유율을 유지하고 있습니다
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **Pandora 인수:** Sirius XM은 2019년에 Pandora를 인수하여 스트리밍 서비스 부문을 강화했습니다 (2019).
 - **COVID-19 팬데믹:** 팬데믹으로 인한 경제적 영향으로 구독자 수와 매출에 변동이 있었습니다 (2020-2021).
 - **자동차 산업과의 협력 강화:** 주요 자동차 제조업체와의 협력을 통해 차량 내 엔터테인먼트 시스템을 강화했습니다 (2022).

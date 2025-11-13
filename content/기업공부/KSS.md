@@ -15,13 +15,7 @@ weight: 496
 
 ### 영위사업
 Kohl’s Corporation은 미국에서 의류, 신발, 액세서리, 뷰티 및 가정용 제품을 판매하는 옴니채널 소매업체입니다. 주요 브랜드로는 Croft & Barrow, Jumping Beans, SO, Sonoma Goods for Life, Tek Gear, Food Network, LC Lauren Conrad, Nine West, Simply Vera Vera Wang 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 ### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업:**
 - 소매업체: Macy’s (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
 - 전자상거래: Amazon (US, [AMZN](/company-analysis/amzn/)), eBay (US, [EBAY](/company-analysis/ebay/))
@@ -39,17 +33,11 @@ Kohl’s Corporation은 미국에서 의류, 신발, 액세서리, 뷰티 및 �
 - **가정용 제품:** 가구, 주방용품 등 (매출 비중: 2023년 기준 15%)
 
 ### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - 미국 (주요 매출 국가)
 ### 경쟁업체
 - **Macy’s (US, [M](/company-analysis/m/)):** 백화점 (시장 점유율 15%)
 - **Nordstrom (US, [JWN](/company-analysis/jwn/)):** 백화점 (시장 점유율 10%)
 - **Amazon (US, [AMZN](/company-analysis/amzn/)):** 전자상거래 (시장 점유율 30%)
-
-{{< adsense-infeed >}}
-
 ### 산업 내 글로벌 시장 점유율
 
 Kohl’s Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다.

@@ -36,9 +36,6 @@ iRobot Corporation은 1990년에 설립된 미국의 기술 회사로, 소비자
 - 전자 부품 제조업체: Texas Instruments (US, [TXN](/company-analysis/txn/)), NXP Semiconductors (NL, [NXPI](/company-analysis/nxpi/))
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Roomba (로봇 진공청소기)
 - Braava (로봇 바닥 청소기)
 - Terra (로봇 잔디깎이)
@@ -48,9 +45,6 @@ iRobot Corporation은 1990년에 설립된 미국의 기술 회사로, 소비자
 
 iRobot은 전 세계적으로 제품을 판매하며, 주요 시장은 미국, 유럽, 아시아 태평양 지역입니다.
 ## 주요 자산
-
-{{< adsense-infeed >}}
-
 - 1,000만 대 이상의 로봇 판매
 - 강력한 브랜드 인지도
 - 지속적인 연구개발 투자
@@ -63,9 +57,6 @@ iRobot은 전 세계적으로 제품을 판매하며, 주요 시장은 미국, �
 ## 산업 내 글로벌 시장 점유율
 
 iRobot은[청소로봇](/industry-study/청소로봇/) 시장에서 약 30%의 점유율을 보유하고 있으며, 2023년 기준으로 연간 매출이 약 6억 달러에 달합니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 뉴스 및 재무 성과
 - **2024년 1분기 재무 결과**: 매출 1억 5천만 달러, 전년 동기 대비 감소, GAAP 순이익 주당 0.30 달러로 전환.
 - **신임 CEO**: Gary Cohen이 CEO로 임명되어 회사의 전략적 이니셔티브를 이끌 예정.

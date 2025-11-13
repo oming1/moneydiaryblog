@@ -14,9 +14,6 @@ weight: 562
 ## 산업 섹터 (Sector)
 
 섹터: 임의 소비재 (Consumer Discretionary)
-
-{{< adsense-infeed >}}
-
 ## 산업 (Industry)
 
 산업: 인터넷 리테일 (Internet Retail)
@@ -199,9 +196,6 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 - 사용처: 배송 차량, 물류 센터 장비, 포장재
 - 주요 공급 지역: 미국, 유럽, 중국
 - 주요 공급 업체: 현지 물류 장비 업체들
-
-{{< adsense-infeed >}}
-
 **통신 인프라:**
 
 - 사용처: 네트워크 장비, 통신 서비스
@@ -234,9 +228,6 @@ MercadoLibre는 제조업체가 아닌 디지털 플랫폼 기업으로 제조�
 ---
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 라틴 아메리카 18개국에서 서비스를 제공하며, 국가별 매출 비중은 다음과 같습니다:
 
 - 브라질: 약 55% (2024년 기준)
@@ -334,9 +325,6 @@ AI 기술 도입을 통한 차세대 성장 동력도 주목할 점입니다. �
 - New Perspective Fund: 59.2만 주
 - AMCAP Fund: 57.3만 주
 - American Funds Fundamental Investors: 51.1만 주
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 관련 ETF
@@ -353,9 +341,6 @@ AI 기술 도입을 통한 차세대 성장 동력도 주목할 점입니다. �
 - Xtrackers MSCI Emerging Markets UCITS ETF - XMME
 - SPDR S&P Emerging Markets ETF - GMM
 - Vanguard Emerging Markets Stock ETF - VWO
-
-{{< adsense-infeed >}}
-
 **라틴 아메리카 특화 ETF:**
 
 - iShares MSCI Mexico ETF - EWW

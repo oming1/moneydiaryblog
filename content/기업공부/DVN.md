@@ -23,9 +23,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 1. 석유 및 천연가스 탐사
 2. 수평 시추 및 수압 파쇄를 통한 셰일 자원 개발
 3. 원유, 천연가스, 천연가스 액(NGL) 생산 및 판매
-
-{{< adsense-infeed >}}
-
 2024년 기준, Devon Energy는 델라웨어 베이슨, 이글 포드, 파우더 리버 베이슨, 윌리스턴 베이슨 등 미국 내 주요 셰일 지역에서 활발한 생산 활동을 펼치고 있으며, 일일 생산량은 약 60만 배럴의 석유 환산량(BOE)에 달합니다.최근에는 디지털 기술을 활용한 생산 효율성 향상과 함께 ESG 성과 개선에 주력하고 있습니다. 또한, 변동적인 배당 정책을 통해 주주 환원을 강화하고 있으며, 지속 가능한 성장을 위한 포트폴리오 최적화를 추진하고 있습니다.
 
 ## 핵심 경쟁력
@@ -71,9 +68,6 @@ Devon Energy Corporation(NYSE: DVN)은 미국의 독립 석유 및 천연가스 
 - 파이프라인 운영사: Energy Transfer(US, [ET](/company-analysis/et/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국이 주요 판매 국가이며, 일부 국제 시장에도 수출하고 있습니다.
 
 ## 경쟁업체
@@ -101,9 +95,6 @@ Devon Energy는 2024년 기준 미국 내 독립 석유·가스 생산업체 중
 - State Street Corporation (4.61%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Energy Select Sector SPDR Fund - XLE
 - iShares U.S. Oil & Gas Exploration & Production ETF - IEO
 - SPDR S&P Oil & Gas Exploration & Production ETF - XOP

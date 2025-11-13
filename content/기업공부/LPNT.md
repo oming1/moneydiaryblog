@@ -30,9 +30,6 @@ LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고�
 5. 파트너십 네트워크: 학술 의료 센터, 보완적 서비스 제공업체, 지역사회 조직 등과의 협력을 통해 의료 서비스 접근성 및 품질 향상
 6. 디지털 헬스케어 투자: AI 기반 기술, 원격 의료 서비스 등에 투자하여 의료 서비스 혁신 추구
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 1. 의료보험 산업: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), Anthem(US, [ANTM](/company-analysis/antm/))
@@ -40,9 +37,6 @@ LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고�
 3. 의료기기 산업: Medtronic(US, [MDT](/company-analysis/mdt/)), Abbott Laboratories(US, [ABT](/company-analysis/abt/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 1. 의료 IT 솔루션: Cerner Corporation(US, CERN), Epic Systems Corporation(Epic Systems)
 2. 의료 장비 제조: Siemens Healthineers(DE, SHL)
 3. 의료 소모품 공급: Cardinal Health(US, CAH), McKesson(US, [MCK](/company-analysis/mck/))
@@ -90,17 +84,8 @@ LifePoint Health는 미국 의료 서비스 시장에서 주요 플레이어 중
 4. 디지털 헬스케어 및 원격 의료 서비스 확대 (2021-2023)
 5. Apollo Global Management의 인수 이후 사업 구조 조정 (2018-2021)
 6. 미국 상원 예산위원회의 사모펀드 소유 병원 조사 대상 포함 (2023)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 LifePoint Health는 2018년 Apollo Global Management에 의해 인수되어 비상장 기업이 되었기 때문에, 정확한 주주 정보는 공개되지 않습니다.
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. iShares U.S. Healthcare Providers ETF - IHF

@@ -38,9 +38,6 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
         - Texas Instruments (미국, [TXN](/company-analysis/txn/)) - 아날로그 반도체 및 임베디드 프로세서 제공
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **반도체 설계 및 제조**:
     
     - Skyworks는 고성능 RF 및 아날로그 반도체를 설계하고 생산합니다.
@@ -50,9 +47,6 @@ Skyworks Solutions, Inc.는 미국의 반도체 회사로, 주로 무선 통신 
         - NXP Semiconductors (네덜란드, [NXPI](/company-analysis/nxpi/)) - 자동차 및 IoT 솔루션 제공
 
 - **모바일 및 비모바일 애플리케이션**:
-
-{{< adsense-infeed >}}
-
     - Skyworks의 제품은 스마트폰, 자동차, 산업용 장비 등 다양한 분야에서 사용됩니다.
     - 대표 기업:
         

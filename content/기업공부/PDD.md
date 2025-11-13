@@ -19,9 +19,6 @@ weight: 680
 PDD Holdings Inc.는 주로 [중국](/industry-study/4국가중국/)에서 모바일 전자상거래 플랫폼을 운영하며, 의류, 신발, 액세서리, 농산물, 식품, 전자제품 등 다양한 상품을 제공합니다. 이 플랫폼은 특히 소셜 커머스 모델을 통해 사용자들이 공동 구매를 통해 할인된 가격에 상품을 구매할 수 있도록 합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **핵심 산업 및 역할**: 전자상거래 플랫폼을 통한 상품 판매
     - **관련 기업**: Alibaba Group (중국, [BABA](/company-analysis/baba/)), JD.com (중국, [JD](/company-analysis/jd/))
@@ -33,9 +30,6 @@ PDD Holdings Inc.는 주로 [중국](/industry-study/4국가중국/)에서 모�
     - **관련 기업**: Foxconn Technology Group (TWSE: 2354), Lenovo Group (HKSE: 992)
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **전자상거래 플랫폼 운영**:
     
     - **대표 회사**: Alibaba Group (중국, [BABA](/company-analysis/baba/)) - Taobao, Tmall
@@ -51,9 +45,6 @@ PDD Holdings Inc.는 주로 [중국](/industry-study/4국가중국/)에서 모�
 - **매출 비중**: 온라인 마케팅 서비스(78.7%), 거래 수수료(21.1%), 상품 판매(0.2%) (2022년 기준)
 ## 주요 판매국가
 Pinduoduo는 주로 중국 내에서 운영되며, 최근에는 동남아시아 등 해외 시장으로의 확장을 모색하고 있습니다. 현재 구체적인 국가별 매출 비중 데이터는 제공되지 않았습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - **Alibaba Group (중국, [BABA](/company-analysis/baba/))** - Taobao, Tmall
 - **JD.com (중국, [JD](/company-analysis/jd/))** - JD.com 플랫폼

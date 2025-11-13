@@ -18,19 +18,10 @@ weight: 425
 Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 상품과 관련 서비스를 제공합니다. 주요 사업 영역은 메디케어 어드밴티지 플랜, 처방약 보험, 상업용 건강보험 등입니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - 전방산업:
     - 핵심 산업 및 역할: 의료 서비스 제공자, 약국
     - 관련 기업: CVS Health (US, [CVS](/company-analysis/cvs/)), Walgreens Boots Alliance (US, [WBA](/company-analysis/wba/))
-
-{{< adsense-infeed >}}
-
 - 후방산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업 및 역할: 제약, 의료기기
     - 관련 기업: Johnson & Johnson (US, [JNJ](/company-analysis/jnj/)), Medtronic (IE, [MDT](/company-analysis/mdt/))
 
@@ -48,9 +39,6 @@ Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 �
 - 군인 대상 TRICARE 프로그램
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국 전역에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
@@ -59,9 +47,6 @@ Humana Inc.는 미국의 영리 건강보험 회사로, 다양한 건강보험 �
 - Cigna (US, [CI](/company-analysis/ci/)) - 글로벌 건강 서비스 회사
 - Aetna (CVS Health의 자회사) - 종합 건강보험
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2023년 기준 Fortune 500 리스트에서 42위를 차지했으며, 미국에서 4번째로 큰 건강보험 제공업체입니다.
 ## 최근 3년 내 주요 이슈
 

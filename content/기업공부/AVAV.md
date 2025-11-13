@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AVAV"
 date: 2025-10-24T22:46:34+09:00
 lastmod: 2025-11-04T11:00:38+09:00
@@ -63,9 +63,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 - 소형, 경량, 휴대 가능한 전술 드론 시스템의 독보적 위치
 
 **시장 지위:**
-
-{{< adsense-infeed >}}
-
 - 미군 소형 드론 최대 공급업체 (시장점유율 약 70%)
 - 배회탄약 시장의 글로벌 리더
 - 미 육군과 9억 9천만 달러 장기 계약 보유
@@ -190,9 +187,6 @@ AeroVironment은 1971년 Dr. Paul MacCready가 설립한 미국의 방위산업 
 ## 경쟁업체 
 
 **대형 방산업체:**
-
-{{< adsense-infeed >}}
-
 - Lockheed Martin (US, [LMT](/company-analysis/lmt/)) - 대형 드론 시스템, 시장점유율 51.96%
 - Northrop Grumman (US, [NOC](/company-analysis/noc/)) - Global Hawk 등 대형 무인기
 - General Dynamics (US, [GD](/company-analysis/gd/)) - 무인 지상 시스템

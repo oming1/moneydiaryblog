@@ -31,9 +31,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
     - **기타 서비스:** 기술 컨설팅, 유지보수 및 애프터마켓 서비스.
 
 - **사업 부문별 구성**
-
-{{< adsense-infeed >}}
-
     - **산업용 로봇 (약 60% 매출):** 협동 로봇, 산업용 로봇 팔.
     - **반도체 장비 (약 20% 매출):** 웨이퍼 핸들링, 리소그래피 장비.
     - **기타 (약 20% 매출):** 의료기기, 우주항공, 전기차 부품.
@@ -105,9 +102,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 제조 공정
-
-{{< adsense-infeed >}}
-
 1단계: 원자재 조달 (고강도 합금강, 희토류).  
 2단계: 기어 가공 (정밀 CNC).  
 3단계: 조립 및 테스트 (고강성, 고정밀).  
@@ -117,9 +111,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ---
 
 ### 전방산업 / 후방산업
-
-{{< adsense-infeed >}}
-
 **전방산업 (제품 사용 산업):**
 
 - 로봇공학: 협동 로봇, 산업용 로봇.
@@ -128,9 +119,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 - 우주항공: 탐사 로봇.
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - 합금강: Nippon Steel(JP, (5401)).
 - 희토류: Lynas(AU, LYC).
 
@@ -163,9 +151,6 @@ Harmonic Drive Systems Inc.는 1970년에 설립된 [일본](/industry-study/4�
 ### 주된 영향을 미치는 원자재
 - **합금강:** 기어 제조, 공급지: 일본, 공급업체 Nippon Steel(JP, (5401)).
 - **희토류:** 모터 자석, 공급지: 호주, 공급업체 Lynas(AU, LYC).
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주요 고객

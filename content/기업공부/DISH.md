@@ -22,17 +22,11 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 - 스포츠 패키지
 - 가족 패키지
 - 영화 패키지
-
-{{< adsense-infeed >}}
-
 2. Sling TV: 인터넷 기반 스트리밍 서비스
 
 - 라이브 TV 스트리밍
 - 주문형 콘텐츠
 - 맞춤형 채널 구성
-
-{{< adsense-infeed >}}
-
 3. 무선 서비스
 
 - Boost Mobile 브랜드 통한 선불 무선 서비스
@@ -78,9 +72,6 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 - Netflix(US, [NFLX](/company-analysis/nflx/))
 - T-Mobile(US, [TMUS](/company-analysis/tmus/))
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 데이터 없음
 ## 최근 3년 내 주요 이슈
 

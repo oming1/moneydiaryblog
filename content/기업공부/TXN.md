@@ -16,9 +16,6 @@ weight: 897
 
 ## 영위사업
 Texas Instruments (TI)는 아날로그 및 임베디드 프로세싱 칩을 설계, 제조, 테스트 및 판매하는 다국적 반도체 회사입니다. TI는 전 세계적으로 100,000명 이상의 고객에게 다양한 전자 제품에 필요한 반도체 솔루션을 제공합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 - 전방산업:
     - 핵심 산업 및 역할: 전자제품 제조, 통신 장비
@@ -30,9 +27,6 @@ Texas Instruments (TI)는 아날로그 및 임베디드 프로세싱 칩을 설�
     - 관련 기업: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML Holding (NL, [ASML](/company-analysis/asml/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - 연구 및 개발: 새로운 [반도체](/industry-study/반도체/) 기술 개발
 - 제조: 고품질 반도체 칩 생산
 - 유통: 도매업자 및 소매업자를 통한 판매
@@ -48,9 +42,6 @@ Texas Instruments (TI)는 아날로그 및 임베디드 프로세싱 칩을 설�
 
 전 세계적으로 사업을 운영하며, 특히 북미, 유럽, 아시아 시장에서 강력한 입지를 가지고 있습니다.
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계적으로 사업을 운영하며, 특히 북미, 유럽, 아시아 시장에서 강력한 입지를 가지고 있습니다.
 ## 경쟁업체
 - Intel Corporation (US, [INTC](/company-analysis/intc/))

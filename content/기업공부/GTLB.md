@@ -25,16 +25,10 @@ GitLab은 단일 애플리케이션으로 DevOps 플랫폼을 제공합니다. �
 4. 보안 및 컴플라이언스 관리
 5. 프로젝트 계획 및 추적
 6. 협업 도구 (위키, 이슈 트래킹 등)
-
-{{< adsense-infeed >}}
-
 GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기업이 소프트웨어를 더 빠르고 효율적으로 개발, 보안, 배포할 수 있도록 지원합니다.
 
 ## 전방/후방산업
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 소프트웨어 개발: Microsoft (US, [MSFT](/company-analysis/msft/)), Oracle (US, [ORCL](/company-analysis/orcl/))
 - 클라우드 서비스: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Google Cloud (US, [GOOGL](/company-analysis/googl/))
 
@@ -50,9 +44,6 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 4. 고객 지원 및 교육: GitLab (US, [GTLB](/company-analysis/gtlb/)) (전문 서비스 및 교육)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. GitLab DevSecOps 플랫폼
 2. GitLab CI/CD
 3. GitLab 코드 리뷰

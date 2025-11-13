@@ -19,9 +19,6 @@ NetApp, Inc.(NTAP)는 데이터 인프라 솔루션을 제공하는 미국 기�
 
 NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라우드](/industry-study/2산업클라우드/) 운영(CloudOps) 솔루션을 제공합니다. 주요 제품으로는 올플래시 어레이, 하이브리드 클라우드 스토리지 시스템, 소프트웨어 정의 오브젝트 스토리지 플랫폼 등이 있습니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 - 반도체 제조업체
 - 반도체 제조업체
@@ -31,9 +28,6 @@ NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라�
 - 클라우드 서비스 제공업체
 - 엔터프라이즈 고객
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 연구개발: NetApp (자체 R&D)
 2. 제조: NetApp
 3. 판매 및 유통: 직접 판매, 파트너십
@@ -55,17 +49,8 @@ NetApp은 통합 데이터 스토리지, 통합 데이터 서비스 및 [클라�
 - Dell Technologies(US, [DELL](/company-analysis/dell/))
 - Pure Storage(US, [PSTG](/company-analysis/pstg/))
 - IBM(US, [IBM](/company-analysis/ibm/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Gartner의 프라이머리 스토리지 매직 쿼드런트에서 2022년 7월부터 2023년 5월까지 리더로 선정되었습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - 2024년 Real-time Enterprise File 서비스 출시

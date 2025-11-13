@@ -18,13 +18,7 @@ weight: 819
 Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛, 밀레니엄 쇼핑센터 등(상업용부동산)을 소유 및 운영하는 부동산 투자 신탁(REIT)입니다. 이 회사는 다양한 소매 및 엔터테인먼트 공간을 제공하여 고객과 테넌트에게 다양한 쇼핑 경험을 제공합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업 및 역할**: 소매업 및 엔터테인먼트 서비스 제공
     - **관련 기업**: Macy's (US, [M](/company-analysis/m/)), Nordstrom (US, [JWN](/company-analysis/jwn/))
 
@@ -33,13 +27,7 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
 - **후방산업**:
     - **핵심 산업 및 역할**: 부동산 개발 및 관리 서비스
     - **관련 기업**: CBRE Group (US, CBRE), JLL (US, JLL)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - **부동산 개발 및 관리**: 쇼핑몰 및 아울렛 개발 및 유지 관리
     
     - **대표 회사**: Brookfield Property Partners (CA, BPY) - 부동산 개발 및 관리
@@ -58,9 +46,6 @@ Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛
 - **쇼핑몰** (매출의 약 70%)
 - **프리미엄 아울렛** (매출의 약 20%)
 - **밀레니엄 쇼핑센터** (매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시장에서도 활동하고 있습니다.
 

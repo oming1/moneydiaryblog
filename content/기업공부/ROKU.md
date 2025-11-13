@@ -43,9 +43,6 @@ Roku는 스트리밍 플랫폼을 제공하는 회사로, 사용자에게 다양
     
     - **대표 회사**: Hulu (US, 비상장) - 스트리밍 서비스
     - **대표 회사**: Disney+ (US, [DIS](/company-analysis/dis/)) - 스트리밍 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - **Roku Streaming Players** (스트리밍 장치, 매출의 약 40%)
@@ -61,9 +58,6 @@ Roku는 미국을 중심으로 운영되며, 캐나다, 영국, 멕시코 등 �
 - **Amazon (US, [1.Study/☆ 개별종목/AMZN](/company-analysis/amzn/))** - Fire TV 장치 및 스트리밍 서비스
 - **Apple (US, [AAPL](/company-analysis/aapl/))** - Apple TV 및 관련 콘텐츠
 - **Google (US, [1.Study/☆ 개별종목/GOOGL](/company-analysis/googl/))** - Chromecast 및 Android TV
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Roku는 미국 스트리밍 장치 시장에서 약 30%의 점유율을 보유하고 있으며, 글로벌 스트리밍 플랫폼 시장에서도 중요한 위치를 차지하고 있습니다 (2023년 기준).

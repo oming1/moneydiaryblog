@@ -37,9 +37,6 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
     - 반도체 장비: Applied Materials (US, [AMAT](/company-analysis/amat/)), ASML (NL, [ASML](/company-analysis/asml/))
     
 2. 전방산업:
-
-{{< adsense-infeed >}}
-
     - 데이터센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft Azure (US, [MSFT](/company-analysis/msft/))
     - 자동차: Tesla (US, [TSLA](/company-analysis/tsla/)), General Motors (US, [GM](/company-analysis/gm/))
     - 통신장비: Cisco Systems (US, [CSCO](/company-analysis/csco/)), Huawei (비상장)
@@ -54,9 +51,6 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
 5. 최종 사용자: 다양한 전자기기 제조업체 및 데이터센터 운영 기업
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. DC-DC 변환기 (전자기기의 전압 변환, 2024년 3분기 매출 비중: 99.4%)
 2. 조명 제어 시스템 (LED 조명 제어, 2024년 3분기 매출 비중: 0.6%)
 ## 주요 판매국가
@@ -92,9 +86,6 @@ MPS는 단순한 칩 공급업체에서 종합 솔루션 제공업체로 전환�
 주요 주주와 지분율에 대한 구체적인 정보는 제공되지 않았습니다.
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - SPDR S&P Semiconductor ETF XSD
 - iShares PHLX Semiconductor ETF SOXX
 - VanEck Vectors Semiconductor ETF SMH

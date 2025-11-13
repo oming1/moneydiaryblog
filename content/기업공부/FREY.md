@@ -25,16 +25,10 @@ FREYR Battery Inc는 청정 배터리 솔루션을 개발 및 생산하는 노�
 ## 핵심 경쟁력
 
 FREYR Battery의 핵심 경쟁력은 24M Technologies의 혁신적인 반고체 배터리 기술을 상용화하는 능력입니다. 이 기술은 기존 리튬이온 배터리보다 에너지 밀도가 높고 생산 비용이 낮습니다. 
-
-{{< adsense-infeed >}}
-
 또한, 재생에너지를 활용한 생산 프로세스로 탄소 배출을 최소화하여 환경 친화적인 제품을 제공할 수 있습니다. 회사의 글로벌 확장 전략, 다양한 응용 분야에 대한 솔루션 제공 능력, 주요 기술 기업 및 고객사들과의 전략적 파트너십도 주요 경쟁력입니다. 
 
 FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠르게 성장하는 이 분야에서 선도적 위치를 차지할 수 있는 잠재력을 가지고 있습니다.
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     - 리튬 채굴: Albemarle Corporation(US, [ALB](/company-analysis/alb/))
     - 배터리 소재: LG화학(KR, [LG화학](/industry-study/lg화학/))
@@ -66,9 +60,6 @@ FREYR는 특히 ESS와 상업용 모빌리티 시장에 주력하고 있어, 빠
 5. Glencore(UK, [GLEN](/company-analysis/glen/))
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 FREYR Battery의 주요 판매국가는 유럽과 북미입니다.
 ## 경쟁업체
 
@@ -81,9 +72,6 @@ FREYR Battery의 주요 판매국가는 유럽과 북미입니다.
 ## 산업 내 글로벌 시장 점유율
 
 FREYR Battery는 신생 기업으로, 현재 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 빠르게 성장하는 글로벌 배터리 시장에서 중요한 역할을 할 것으로 예상됩니다. 전체 배터리 시장은 2025년까지 1,050억 달러 규모로 성장할 것으로 전망됩니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 1. 중국 경쟁사와의 경쟁으로 인한 셀 생산 중단 및 직원 해고 (2024년)
@@ -99,9 +87,6 @@ FREYR Battery는 신생 기업으로, 현재 글로벌 시장 점유율 데이�
 3. 내부자: 9.52%
 4. Encompass Capital Advisors LLC: 9.58%
 5. Kim, LLC: 8.19%
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. ETFMG Breakwave Sea Decarbonization Tech ETF - BSEA

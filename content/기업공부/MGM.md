@@ -17,9 +17,6 @@ weight: 567
 ## 영위사업
 
 MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소유 및 운영하는 글로벌 호스피탈리티 및 엔터테인먼트 회사입니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 후방산업
@@ -38,9 +35,6 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 3. 호텔 운영: Bellagio, MGM Grand, Mandalay Bay 등
 4. 식음료 서비스: 다수의 레스토랑 및 바
 5. 엔터테인먼트: 공연장, 나이트클럽 운영
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 - [카지노](/industry-study/카지노/) 게임 운영
 - 호텔 숙박 서비스

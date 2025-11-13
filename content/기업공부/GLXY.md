@@ -113,9 +113,6 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 **4. 데이터센터 운영 프로세스:**
 
 - 전력 공급 → 냉각 시스템 → 서버 설치 → 네트워크 연결 → 24/7 모니터링
-
-{{< adsense-infeed >}}
-
 **5. 투자은행 서비스 프로세스:**
 
 - 클라이언트 상담 → 딜 스트럭처링 → 실사 → 거래 실행 → 사후 관리
@@ -158,9 +155,6 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 - Invesco(US, IVZ) - 비트코인 ETF 파트너
 
 **AI 인프라 서비스 단계:** 고성능컴퓨팅 인프라 제공
-
-{{< adsense-infeed >}}
-
 - CoreWeave(US, CoreWeave) - AI 클라우드 서비스 고객
 - NVIDIA(US, [NVDA](/company-analysis/nvda/)) - GPU 및 AI 하드웨어 공급
 - AMD(US, [AMD](/company-analysis/amd/)) - 고성능컴퓨팅 프로세서 공급
@@ -253,9 +247,6 @@ Galaxy Digital은 금융서비스 및 디지털 인프라 운영 기업으로서
 ---
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 기관투자자 대상 디지털자산 서비스 시장에서 점유율 약 2-3위 (2024년 기준)
 
 - 1위: Coinbase - 약 30%

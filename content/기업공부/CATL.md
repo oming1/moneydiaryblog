@@ -58,9 +58,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
     - **전기차 배터리 (약 70% 매출):** 글로벌 자동차 제조사에 공급.
     - **에너지 저장 시스템 (약 20% 매출):** 재생 가능 에너지 프로젝트와 연계.
     - **기타 (약 10% 매출):** 전자기기 및 전력 도구용 배터리.
-
-{{< adsense-infeed >}}
-
 - **비즈니스 모델 개요**  
 
     CATL의 비즈니스 모델은 B2B 중심으로, 자동차 제조사와의 장기 계약을 통해 안정적인 매출을 확보합니다. 회사는 R&D에 매년 매출의 5-7%를 투자하여 배터리 기술 혁신을 추진하며, 글로벌 공급망을 통해 원자재 조달을 최적화합니다. CATL은 또한 전기차 배터리의 성능과 안전성을 높이기 위해 지속적으로 기술 개발을 진행하고 있으며, 이는 전기차 시장의 성장과 함께 안정적인 성장을 지원합니다.
@@ -144,9 +141,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - 에너지 저장 시스템: 태양광 및 풍력 발전소.
 
 **후방산업 (원자재/부품 공급 산업):**
-
-{{< adsense-infeed >}}
-
 - 리튬: Albemarle(US, [ALB](/company-analysis/alb/)), SQM(CL, SQM).
 - 니켈: Vale(BR, [Vale](/company-analysis/vale/)), Norilsk Nickel(RU, NILSY).
 
@@ -175,9 +169,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - **리튬 이온 배터리:** 전기차용, 매출비중 70%(2024), 경쟁사 LG Chem, Panasonic.
 - **에너지 저장 시스템:** 대규모 솔루션, 매출비중 20%(2024), 경쟁사 Tesla, Sonnen.
 - **전고체 배터리:** 차세대 기술, 매출비중 10%(2024), 경쟁사 Solid Power, QuantumScape.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 주된 영향을 미치는 원자재
@@ -230,9 +221,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 - 영업 이익률: 18% (2023년).
 - 주요 성장 동력: 전기차 수요 증가, 기술 혁신.
 - 위험 요소: 원자재 가격 변동, 경쟁 심화.
-
-{{< adsense-infeed >}}
-
 ---
 
 ### 최근 3년 내 주요 이슈
@@ -243,9 +231,6 @@ Contemporary Amperex Technology Co., Limited (CATL)은 2011년에 설립된 [중
 ---
 
 ### 주요 주주 (지분율)
-
-{{< adsense-infeed >}}
-
 - CATL 창립자: 20%.
 - Vanguard Group: 5%.
 - BlackRock: 4%.

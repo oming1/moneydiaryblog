@@ -32,9 +32,6 @@ Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들
 7. 기술 중심 접근: 지속적인 플랫폼 개선과 사용자 경험 최적화
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 
 1. 자동차 보험: Progressive Corporation(US, [PGR](/company-analysis/pgr/))
@@ -45,9 +42,6 @@ Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들
 1. 자동차 제조: General Motors Company(US, [GM](/company-analysis/gm/))
 2. 자동차 경매: Copart, Inc.(US, [CPRT](/company-analysis/cprt/))
 3. 자동차 물류: United Parcel Service, Inc.(US, [UPS](/company-analysis/ups/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 차량 소싱: Manheim(US, Cox Automotive) - 자동차 경매
@@ -63,9 +57,6 @@ Carvana는 전통적인 중고차 구매 경험을 디지털화하여, 고객들
 2. 자동차 금융 서비스: 차량 구매를 위한 대출 제공
 3. 차량 배송 서비스: 전국적인 홈 딜리버리 네트워크
 4. 차량 검사 및 품질 보증 서비스
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 Carvana의 주요 고객은 온라인으로 중고차를 구매하거나 판매하려는 개인 소비자들입니다.
 

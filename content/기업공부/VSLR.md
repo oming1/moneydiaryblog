@@ -26,9 +26,6 @@ Vivint Solar Inc.는 주거용 태양광 에너지 시스템을 설계, 설치 �
     - **반도체 제조**: 태양광 인버터용 반도체 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)))
     - **배터리 제조**: 에너지 저장 배터리 공급 (예: Panasonic (JP,6752)
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **원료 공급**: 반도체 및 배터리 원료 공급 (예: ON Semiconductor (US, [ON](/company-analysis/on/)), Panasonic (JP,6752)
 - **제품 제조**: 태양광 패널 및 배터리 시스템 제조 (Vivint Solar Inc.)
 - **시스템 통합**: 태양광 시스템 통합 및 설치 (Vivint Solar Inc., Sunrun (US, [RUN](/company-analysis/run/)))
@@ -38,9 +35,6 @@ Vivint Solar Inc.는 주거용 태양광 에너지 시스템을 설계, 설치 �
 - **에너지 관리 소프트웨어**: 에너지 모니터링 및 제어 소프트웨어
 - [**유지보수 서비스**: 태양광 시스템 유지보수 서비스](https://www.investing.com/equities/vivint-solar-inc)[2](https://www.barchart.com/stocks/quotes/VSLR)
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국**: 전체 매출의 대부분을 차지
 - **유럽**: 독일, 프랑스, 영국 등 주요 판매국가 포함
 - [**아시아**: 일본 및 한국 등 주요 판매국가 포함](https://www.investing.com/equities/vivint-solar-inc)[1](https://www.investing.com/equities/vivint-solar-inc)

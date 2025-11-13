@@ -23,13 +23,7 @@ CTV 광고가 성장하는 배경에는 OTT 광고 요금제 가입자에 있다
 CTV의 광고 판매는 크게 4가지로 구분할 수 있다. ![](/images/Pasted%20image%2020250626172221.png)40438.png))
 1) Direct order
    Direct order 방식은 [광고주와 플랫폼(퍼블리셔)이 미리 가격과 물량을 확정]한다. 광고주 중 주요 인벤토리를 보장받고 싶은 경우 이러한 계약을 체결한다. 예를 들어 슈퍼볼 메인 광고의 경우 워낙 광고 효과가 크기 때문에 광고주는 미리 플랫폼과 광고 협의를 한다. Direct order는 Ad-tech 기업의 기여도가 낮으므로 수수료 마진이 낮다.
-
-{{< adsense-infeed >}}
-
 2) [PG](/company-analysis/pg/)(Programmatic Guaranteed, 프로그래매틱 보장 거래), 
-
-{{< adsense-infeed >}}
-
    PG 방식은 [광고주와 플랫폼 (퍼블리셔)이 미리 가격과 물량을 확정하는 계약]이다. Direct Order와 유사하나 프로그래매틱 플랫폼을 거치는 차이가 있다. 전통 채널이나 OTT가 주요 광고주와 직접 협상해서 인벤토리를 파는 것이다. 마찬가지로 Ad-tech 기업의 기여도가 낮으므로 수수료 마진이 낮다.
 3) PMP (Private Marketplace, 비공개 마켓플레이스), 
    PMP는 플랫폼이 [일부 광고주만을 대상으로 경매를 제공하는 방식]이다. 광고주는 경쟁 입찰을 통해 인벤토리를 확보한다. 실시간 입찰 등 Ad-tech 역할이 늘어나므로 Ad-tech 기업은 Direct order, PG보다는 높은 수수료를 수취할 수 있다.

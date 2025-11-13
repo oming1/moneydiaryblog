@@ -22,9 +22,6 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 
 최근에는 AI/ML 워크로드를 위한 고성능 네트워킹 솔루션과 800G 이더넷 스위치 등 차세대 제품 개발에 주력하고 있습니다. 또한 엔터프라이즈 및 캠퍼스 네트워킹 시장 진출을 확대하여 사업 다각화를 추진하고 있습니다.
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 혁신적인 소프트웨어 기술: EOS를 통한 차별화된 네트워크 운영체제 제공
 2. 고성능 하드웨어: 업계 최고 수준의 스위칭 성능과 전력 효율성
 3. 클라우드 네이티브 아키텍처: 하이퍼스케일러 요구사항에 최적화된 솔루션
@@ -38,9 +35,6 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - 클라우드 서비스 제공업체: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - 엔터프라이즈 IT: IBM(US, [IBM](/company-analysis/ibm/)), Dell Technologies(US, [DELL](/company-analysis/dell/))
 - 통신사업자: AT&T(US, [T](/company-analysis/t/)), Verizon(US, [VZ](/company-analysis/vz/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 반도체 제조: Broadcom(US, [AVGO](/company-analysis/avgo/)), Intel(US, [INTC](/company-analysis/intc/))
 - 전자부품 제조: Flex(US, FLEX), Jabil(US, [JBL](/company-analysis/jbl/))
@@ -63,9 +57,6 @@ Arista Networks는 클라우드 네트워킹 솔루션을 제공하는 글로벌
 - Extreme Networks(US, EXTR): 엔터프라이즈 네트워킹 솔루션
 - Nokia(FI, NOKIA): 통신 인프라 및 네트워크 솔루션
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Arista Networks는 2024년 기준 고속(100G 이상) 데이터센터 스위치 시장에서 약 35%의 점유율을 보유하고 있습니다. 이는 2022년의 30%에서 꾸준히 상승한 수치입니다. 전체 데이터센터 스위치 시장에서는 약 20%의 점유율로 Cisco에 이어 2위를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

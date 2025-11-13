@@ -121,9 +121,6 @@ ProMIS Neurosciences Inc.는 캐나다 토론토와 미국 매사추세츠 케�
 
 - 표적 단백질 구조 분석 및 항체 설계
 - 전산모델링을 통한 결합 부위 최적화
-
-{{< adsense-infeed >}}
-
 **2단계: 항체 생산**
 
 - 인간화 단클론항체 생산 공정
@@ -352,9 +349,6 @@ ProMIS Neurosciences Inc.는 캐나다 토론토와 미국 매사추세츠 케�
 - Phase 1b PRECISE-AD 임상시험 진행 중
 - 100명 환자 대상 12개월 치료 계획
 - 3개 용량군에서 안전성 및 내약성 평가
-
-{{< adsense-infeed >}}
-
 **재무 안정성:**
 
 - 현금 보유액: 1,329만 달러 (2024년 말)
@@ -439,9 +433,6 @@ ProMIS Neurosciences Inc.는 캐나다 토론토와 미국 매사추세츠 케�
 - SPDR S&P 600 Small Cap ETF(SLY) - 소형주 ETF
 
 **혁신 기술 ETF:**
-
-{{< adsense-infeed >}}
-
 - ARK Innovation ETF(ARKK) - 혁신 기술 ETF
 - Global X Aging Population ETF(AGNG) - 고령화 관련 ETF
 - Longevity Thematic ETF(LNGR) - 수명 연장 관련 ETF

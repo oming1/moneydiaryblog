@@ -25,17 +25,11 @@ Dick's Sporting Goods는 스포츠웨어 용품, 의류, 운동화 및 액세서
 - 팀 스포츠 용품
 
 ## 주요 브랜드
-
-{{< adsense-infeed >}}
-
 - DICK'S Sporting Goods
 - Golf Galaxy
 - Public Lands
 - Moosejaw
 - Going Going Gone!
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국 (47개 주에 800개 이상의 매장 운영)

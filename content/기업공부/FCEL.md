@@ -22,21 +22,12 @@ FuelCell Energy는 연료전지 기반의 에너지 플랫폼을 설계, 제조,
 - 분산형 [수소](/industry-study/수소/) 생산 시스템
 - 탄소 포집 기술
 - 장기 에너지 저장 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 미국, 한국, 독일, 스페인, 영국, 캐나다
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Bloom Energy([BE](/company-analysis/be/))
 - Plug Power([PLUG](/company-analysis/plug/))
 - Ballard Power Systems([BLDP](/company-analysis/bldp/))
-
-{{< adsense-infeed >}}
-
 ## 최근 주요 이슈
 - 세계 최대 규모의 연료전지 발전소인 경기그린에너지와 연료전지 모듈 공급 및 서비스 계약 체결
 - Toyota와 함께 세계 최초의 Tri-gen 생산 시스템 완성 발표

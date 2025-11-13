@@ -88,9 +88,6 @@ FortiOS 운영체제 및 Security Fabric 플랫폼 자체 개발 ASIC 보안 프
 ---
 
 ## 제조공정
-
-{{< adsense-infeed >}}
-
 Fortinet은 제조업체가 아닌 fabless 모델을 채택하여 설계와 소프트웨어 개발에 집중합니다.
 
 **1. 설계 및 개발:**
@@ -136,9 +133,6 @@ Fortinet은 제조업체가 아닌 fabless 모델을 채택하여 설계와 소�
 - EMS 제조업: 위탁 제조 서비스 - Foxconn(TW, Foxconn), Flextronics(SG, Flextronics)
 - 소프트웨어 개발: 운영체제 및 보안 소프트웨어 - 내부 개발 중심
 - 클라우드 서비스: 클라우드 인프라 제공 - Amazon Web Services(US, [AMZN](/company-analysis/amzn/))
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 밸류체인

@@ -41,9 +41,6 @@ UAMC는 특히 전기차, 하이브리드차, 내연기관차 등 다양한 차�
 1. 알루미늄 제련: Alcoa Corporation(US, [AA](/company-analysis/aa/))
 2. 합금 개발: Novelis Inc.(Novelis)
 3. 기계 장비: Haas Automation, Inc.(Haas Automation)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 원재료 공급: Alcoa Corporation(US, [AA](/company-analysis/aa/)) - 알루미늄 원재료
@@ -76,9 +73,6 @@ UAMC의 주요 고객은 북미 지역의 주요 자동차 제조업체들입니
 UAMC의 주요 판매 국가는 미국을 중심으로 한 북미 지역입니다. 구체적인 국가별 매출 비중은 공개되어 있지 않습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Constellium SE(FR, CSTM) - 자동차용 알루미늄 압출 및 가공
 2. Novelis Inc.(Novelis) - 자동차용 알루미늄 시트 및 압출품
 3. Magna International Inc.(CA, [MGA](/company-analysis/mga/)) - 다양한 자동차 부품 및 시스템
@@ -95,9 +89,6 @@ UAMC의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습
 3. 코로나19 팬데믹으로 인한 공급망 차질 대응 및 회복 (2020-2022)
 4. 자동차 경량화 트렌드 가속화에 따른 신규 프로젝트 수주 확대 (2022-2023)
 5. 지속가능성 이니셔티브 강화: 재활용 알루미늄 사용 비율 증가 (2023)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 
 UAMC는 UACJ Corporation의 완전 자회사이므로, UACJ Corporation이 100% 지분을 보유하고 있습니다.

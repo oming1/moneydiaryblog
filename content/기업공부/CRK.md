@@ -16,9 +16,6 @@ weight: 234
 ## 산업
 
 석유, 가스 및 소비 연료(Oil, Gas & Consumable Fuels)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
 
 Comstock Resources, Inc.(CRK)는 미국의 독립 석유([원유](/industry-study/원유/)) 및 [천연가스](/industry-study/천연가스/) 탐사·생산 기업입니다. 주요 사업 영역은 다음과 같습니다:
@@ -53,18 +50,9 @@ Comstock Resources는 주로 텍사스 주와 루이지애나 주의 Haynesville
 2. 수집 및 처리: Comstock Resources (주요 사업 영역)
 3. 수송: Energy Transfer(US, [ET](/company-analysis/et/)) - 파이프라인 운영
 4. 마케팅 및 판매: Comstock Resources (주요 사업 영역)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 천연가스
 2. 석유 (소량)
-
-{{< adsense-infeed >}}
-
 ## 주요고객
 1. 유틸리티 기업
 2. 산업용 에너지 소비자
@@ -94,9 +82,6 @@ Comstock Resources는 주로 미국 시장에서 사업을 영위하고 있습�
 5. Haynesville 셰일 지역에서의 생산 확대 노력
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 구체적인 주요 주주 정보는 제공되지 않았습니다.
 
 ## 관련 ETF

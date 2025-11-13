@@ -16,9 +16,6 @@ REE Automotive Ltd.(REE)는 이스라엘에 본사를 둔 전기차 플랫폼 �
 섹터: 임의소비재(Consumer Discretionary)  
 산업: 자동차 부품(Auto Parts)
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 REE Automotive는 혁신적인 [전기차](/industry-study/2산업자동차-산업전기차/) 플랫폼 기술을 개발합니다. 주요 제품은 다음과 같습니다:
 1. REEcorner: 조향, 제동, 서스펜션, 구동계 등 주요 차량 구성 요소를 바퀴 아치에 통합한 모듈
 2. REEboard: 완전히 평평하고 모듈식인 전기차 플랫폼
@@ -31,9 +28,6 @@ REE Automotive는 혁신적인 [전기차](/industry-study/2산업자동차-산�
 
 - 자동차 부품 제조업체
 ## 전방산업
-
-{{< adsense-infeed >}}
-
 - 전기차 제조업체
 - 물류 기업
 - 모빌리티 서비스 제공업체
@@ -54,9 +48,6 @@ REE Automotive는 혁신적인 [전기차](/industry-study/2산업자동차-산�
 
 이스라엘, 독일, 미국, 영국
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Rivian(US, [RIVN](/company-analysis/rivn/))
 - Tesla(US, [TSLA](/company-analysis/tsla/))
 ## 산업 내 글로벌 시장 점유율

@@ -98,21 +98,12 @@ PAVE의 주요 고객은 다음과 같습니다:
 ## 주요 판매국가
 
 PAVE는 미국에 상장된 ETF로, 주로 미국 내 투자자들을 대상으로 합니다. 그러나 글로벌 투자자들도 이 ETF에 투자할 수 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. **iShares Global Infrastructure ETF (IGF)**: 글로벌 인프라에 투자하는 ETF
     
 2. **SPDR S&P Global Infrastructure ETF (GII)**: 글로벌 인프라에 투자하는 ETF
-
-{{< adsense-infeed >}}
-
 3. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund (GRID)**: 스마트 그리드 인프라에 투자하는 ETF
-
-{{< adsense-infeed >}}
-
 4. **Invesco Water Resources ETF (PHO)**: 물 인프라에 투자하는 ETF
     
 5. **VanEck Vectors Agribusiness ETF (MOO)**: 농업 인프라에 투자하는 ETF
@@ -132,9 +123,6 @@ PAVE는 미국 인프라 개발 ETF 시장에서 독특한 위치를 차지하�
 4. **2025년 3월 기준 시가총액**: PAVE의 시가총액은 84.76억 달러 (2025년 3월)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투자자로는 다음과 같은 기관들이 포함될 수 있습니다:
 
 1. **Vanguard Group Inc.** (11.66%)
@@ -142,9 +130,6 @@ PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투�
 2. **BlackRock Inc.** (9.17%)
     
 3. **State Street Corporation** (4.47%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 1. **Global X US Infrastructure Development ETF - [PAVE](/company-analysis/pave/)**

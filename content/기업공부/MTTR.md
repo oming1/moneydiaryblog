@@ -15,9 +15,6 @@ weight: 601
 			-  (MTTR +9.1%), 비용절감과 수익성 제고를 위해 전체 직원의 약 30%인 170명을 해고할 것이라고 밝히면서 급등
 
 **산업섹터 (Sector):** 테크 (Technology)  
-
-{{< adsense-infeed >}}
-
 **산업 (Industry):** 소프트웨어 - 애플리케이션 (Software - Application)
 
 ### 영위사업
@@ -31,9 +28,6 @@ Matterport, Inc.는 공간 데이터 회사로, 디지털화 및 데이터화에
 **후방산업:**
 - 데이터 센터 운영업체: Equinix (US, [EQIX](/company-analysis/eqix/)), Digital Realty (US, [DLR](/company-analysis/dlr/))
 - 반도체 제조업체: Intel (US, [INTC](/company-analysis/intc/)), NVIDIA (US, [NVDA](/company-analysis/nvda/))
-
-{{< adsense-infeed >}}
-
 ### 주요제품
 
 - **Matterport Capture Services:** 기업 구독자를 위한 완전 관리 솔루션
@@ -41,9 +35,6 @@ Matterport, Inc.는 공간 데이터 회사로, 디지털화 및 데이터화에
 - **LEICA BLK360:** 디지털 트윈을 생성하는 장치
 - **스마트폰 캡처 솔루션:** iOS 및 Android용 스마트폰 캡처 솔루션
 - **360 카메라:** 다양한 360도 카메라
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 - 미국 (주요 매출 국가)
 - 유럽

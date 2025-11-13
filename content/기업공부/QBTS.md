@@ -27,25 +27,13 @@ D-Wave는 [양자컴퓨팅](/industry-study/양자컴퓨팅/) 하드웨어, 소�
 ## 주요 판매국가
 주로 미국과 캐나다를 중심으로 전 세계 기업 및 연구 기관에 서비스를 제공하고 있습니다.
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - IBM(US, [IBM](/company-analysis/ibm/))
 - Google(Alphabet Inc.의 자회사)(US, [GOOGL](/company-analysis/googl/))
 - Rigetti Computing(US, [RGTI](/company-analysis/rgti/))
 - IonQ(US, [IONQ](/company-analysis/ionq/))
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 D-Wave는 양자 어닐링 기술 분야에서 선도적인 위치를 차지하고 있으며, 상용화된 양자 컴퓨팅 시스템을 제공하는 최초의 기업입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 1,200+ 큐비트 Advantage2 프로토타입 출시 및 Leap 서비스에 통합 (2024)
 - 새로운 하이브리드 양자 솔버 출시, 최대 2백만 변수 및 제약 조건 지원 (2024)
 - 게이트 모델 양자 컴퓨터 개발 진행 중 (2021-현재)

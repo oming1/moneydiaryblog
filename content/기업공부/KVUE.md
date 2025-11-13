@@ -15,9 +15,6 @@ weight: 500
 - **산업(Industry)**: 소비재 - 건강 관리(Consumer Products - Health Care)
 
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업**: 소매업, 헬스케어 서비스
     - **핵심 산업 및 역할**: 소매업체와 헬스케어 서비스 제공업체는 Kenvue 제품을 최종 소비자에게 제공합니다.
     - **관련 기업**: Walmart Inc. (미국, [WMT](/company-analysis/wmt/)), CVS Health Corporation (미국, [CVS](/company-analysis/cvs/))
@@ -31,9 +28,6 @@ weight: 500
     - **대표 회사**: Procter & Gamble Co. (미국, [PG](/company-analysis/pg/)), Unilever PLC (영국, ULVR)
 - **유통 및 물류**: 제품 유통 및 물류
     - **대표 회사**: United Parcel Service Inc. (미국, [UPS](/company-analysis/ups/)), FedEx Corporation (미국, [FDX](/company-analysis/fdx/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품
 - **스킨케어**: Neutrogena, Aveeno
 - **구강 관리**: Listerine
@@ -44,9 +38,6 @@ weight: 500
 - **미국**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지
 - **유럽**: 다양한 국가에서 매출 발생
 - **중국**: 빠르게 성장하는 시장
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
 
 - **Procter & Gamble Co. (미국, [PG](/company-analysis/pg/))**: 소비재 제품
@@ -54,13 +45,7 @@ weight: 500
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/))**: 소비재 및 헬스케어 제품
 
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **Kenvue**: 글로벌 소비재 건강 관리 시장에서 약 10%의 점유율 (2023년 기준)
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
 - **스핀오프 및 IPO**: Johnson & Johnson의 소비자 건강 부문에서 분사 및 상장 (2023년)
 - **디지털 전환**: 온라인 판매 채널 강화 (2023년)

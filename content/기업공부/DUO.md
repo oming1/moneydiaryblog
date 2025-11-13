@@ -19,9 +19,6 @@ weight: 295
 ## 영위사업
 
 Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 및 온라인 플랫폼 기업입니다. 주요 사업은 다음과 같습니다:
-
-{{< adsense-infeed >}}
-
 1. Property Cloud: 부동산 판매자를 위한 SaaS 솔루션 제공
 2. 부동산 에이전트 플랫폼: Duoduo Sales, Duoduo Cloud Sales 등 운영
 3. Fangduoduo: 잠재 구매자를 위한 개인화 서비스 제공
@@ -36,9 +33,6 @@ Fangdd Network Group Ltd.(NASDAQ: DUO)는 중국의 부동산 정보 서비스 �
 4. SaaS 기반 솔루션: 클라우드 기반의 확장 가능한 서비스 제공
 5. 중국 부동산 시장에 대한 전문성: 현지 시장 이해도가 높음
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 부동산 개발: China Vanke(CN, 000002), Country Garden(HK, 2007)
 - 부동산 투자: Blackstone(US, [BX](/company-analysis/bx/)), Brookfield Asset Management(US, BAM)
@@ -83,9 +77,6 @@ Fangdd Network Group은 2024년 기준 [중국](/industry-study/4국가중국/) 
 - State Street Corporation (1.33%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - KraneShares CSI China Internet ETF - KWEB
 - Invesco China Technology ETF - CQQQ
 - EMQQ The Emerging Markets Internet & Ecommerce ETF - EMQQ

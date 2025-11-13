@@ -22,9 +22,6 @@ weight: 585
 
 산업섹터: 기초 소재(Basic Materials), 비금 귀금속 및 광물(Non-Gold Precious Metals & Minerals)
 ## 영위사업: 
-
-{{< adsense-infeed >}}
-
 - 희토류 원소 채굴, 가공 및 생산
 - MP Materials는 미국 최대 [희토류](/industry-study/2산업원자재-산업1비철금속희토류/) 생산 업체로 미국 최대 희토류 광산인 마운틴패스 보유하고 있다. NdPr을 비롯해 글로벌 희토류의 15%을 공급한다. 동사의 핵심 제품은 [경희토류](/industry-study/경희토류/)인 NdPr인데, Neodymium(이하 [네오디뮴](/industry-study/네오디뮴/))과 Praseodymium (이하 프라세오디뮴)을 일컫는다. NdPr은 [전기차](/industry-study/2산업자동차-산업전기차/)에 사용되는 전기차 모터, 풍력 터빈, [로봇](/industry-study/로봇/) 등 차세대 산업에 필요한 영구자석을 생산하는데 사용된다. 
   
@@ -42,9 +39,6 @@ weight: 585
 - 로봇 산업 ([ABB](/company-analysis/abb/) Ltd (스위스, ABBN.SW))
 
 ## 밸류체인:
-
-{{< adsense-infeed >}}
-
 1. 채굴: MP Materials (US, [MP](/company-analysis/mp/))
 2. 가공 및 정제: MP Materials (US, [MP](/company-analysis/mp/))
 3. 합금 및 자석 제조: MP Materials (US, [MP](/company-analysis/mp/)) (텍사스 포트워스 공장)
@@ -66,9 +60,6 @@ weight: 585
 - Lynas Rare Earths Limited (호주, LYC.AX) (희토류 생산)
 - Iluka Resources Limited (호주, ILU.AX) (희토류 생산)
 - American Resources Corporation(미국, [AREC](/company-analysis/arec/)) (희토류 산화물 정제)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율: 
 
 - 약 15% (2022년 기준)

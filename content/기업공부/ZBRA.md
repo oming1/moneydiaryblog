@@ -14,9 +14,6 @@ weight: 998
 ## 산업섹터
 
 섹터: 정보기술
-
-{{< adsense-infeed >}}
-
 산업: 전자장비및부품
 
 ## 영위사업
@@ -28,9 +25,6 @@ Zebra Technologies Corporation(NASDAQ: ZBRA)은 미국 일리노이주에 본사
 1. **바코드 스캐너 및 산업용 프린터**: 제품 바코드화, 데이터 캡처, 라벨링 솔루션
     
 2. **모바일 컴퓨팅 디바이스**: 현장 근무자 대상 산업용 모바일 단말기
-
-{{< adsense-infeed >}}
-
 3. **RFID 및 실시간 위치추적(RTLS) 솔루션**: 재고, 자산, 환자 등 추적 관리
     
 4. **AI/비전 시스템**: 머신비전·AI 기반 품질검사, 생산라인 자동화
@@ -129,9 +123,6 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
 2. 헬스케어 IT·자산관리 솔루션 확장(2022~2024년)
     
 3. 클라우드 기반 Zebra DNA 소프트웨어 생태계 고도화(2023~2024년)
-
-{{< adsense-infeed >}}
-
 4. ESG/지속 가능 경영 강화(2030년 탄소중립 목표 선언)
     
 5. 공급망/칩셋 이슈로 생산·납기 변동성 확대(2022~2023년)
@@ -143,13 +134,7 @@ Zebra Technologies는 바코드, RFID 등 데이터 캡처 시장에서 약 35~4
 - BlackRock (9%)
     
 - State Street Corporation (5%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - Technology Select Sector SPDR Fund - XLK
 - iShares U.S. Technology ETF - IYW
     

@@ -16,9 +16,6 @@ weight: 675
 
 #### 영위사업
 Paramount Global은 다양한 미디어 및 엔터테인먼트 콘텐츠를 제작, 배포하는 글로벌 미디어 기업입니다. 주요 사업으로는 텔레비전 방송, 영화 제작 및 배급, 스트리밍 서비스, 출판 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 전방/후방산업
 
 - **전방산업**:
@@ -29,9 +26,6 @@ Paramount Global은 다양한 미디어 및 엔터테인먼트 콘텐츠를 제�
 #### 밸류체인
 
 Paramount의 밸류체인은 콘텐츠 제작에서부터 배포 및 소비자에게 제공되는 과정까지 포함됩니다. 대표적인 회사로는:
-
-{{< adsense-infeed >}}
-
 - **Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))**: 콘텐츠 제작
 - **Sony Pictures (일본, 6758.T)**: 콘텐츠 제작
 - **Netflix (미국, [NFLX](/company-analysis/nflx/))**: 스트리밍 배포
@@ -45,13 +39,7 @@ Paramount의 밸류체인은 콘텐츠 제작에서부터 배포 및 소비자�
 
 #### 주요 판매국가
 Paramount의 주요 판매국가는 미국, 캐나다, 영국, 호주, 독일 등입니다. 2023년 기준으로 미국에서 60%, 국제 시장에서 40%의 매출을 기록했습니다.
-
-{{< adsense-infeed >}}
-
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Netflix (미국, [NFLX](/company-analysis/nflx/))**: 스트리밍 서비스
 - **Disney (미국, [DIS](/company-analysis/dis/))**: 엔터테인먼트 콘텐츠 제작 및 배포
 - **Warner Bros. Discovery (미국, [WBD](/company-analysis/wbd/))**: 엔터테인먼트 콘텐츠 제작 및 배포
@@ -59,9 +47,6 @@ Paramount의 주요 판매국가는 미국, 캐나다, 영국, 호주, 독일 �
 
 #### 산업 내 글로벌 시장 점유율
 Paramount는 글로벌 엔터테인먼트 시장에서 약 10%의 시장 점유율을 차지하고 있습니다. 이는 스트리밍 서비스의 성장과 함께 증가하고 있습니다.
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
 
 - [**ViacomCBS에서 Paramount Global로 사명 변경**]: 2022년 사명을 변경하며 브랜드 재정비 (2022)

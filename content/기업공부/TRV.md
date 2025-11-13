@@ -18,9 +18,6 @@ weight: 888
 
 Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 서비스를 제공하는 글로벌 보험 회사입니다. 주요 사업 부문은 비즈니스 보험, 채권 및 전문 보험, 개인 보험으로 나뉩니다
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업:**
     
     - **기업 및 개인:** 보험 서비스 이용. 예: Amazon.com, Inc. (미국, [AMZN](/company-analysis/amzn/)), Apple Inc. (미국, [AAPL](/company-analysis/aapl/)).
@@ -31,9 +28,6 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
     - **IT 및 소프트웨어:** 보험 관리 시스템 제공. 예: IBM (미국, [IBM](/company-analysis/ibm/)), Oracle Corporation (미국, [ORCL](/company-analysis/orcl/)).
 #### 밸류체인
 - **보험 인수:**
-
-{{< adsense-infeed >}}
-
     - Travelers Companies Inc. (미국, [TRV](/company-analysis/trv/)): 상업 및 개인 보험 인수.
     - Chubb Limited (스위스, [CB](/company-analysis/cb/)): 상업 및 개인 보험 인수.
       
@@ -41,9 +35,6 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
     
     - Munich Re (독일, MUV2): 재보험 서비스.
     - Swiss Re (스위스, SREN): 재보험 서비스.
-
-{{< adsense-infeed >}}
-
 - **위험 관리 및 손해 사정:**
     - Sedgwick Claims Management Services, Inc. (미국, 비상장): 손해 사정 서비스.
     - Crawford & Company (미국, CRD.A): 손해 사정 및 위험 관리 서비스.
@@ -54,9 +45,6 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
 - **개인 보험:** 자동차 보험, 주택 보험.
 
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 시장으로 전체 매출의 대부분을 차지.
 - **캐나다:** 북미 지역 내 주요 시장.
 - **영국:** 유럽 내 주요 시장.
@@ -67,7 +55,4 @@ Travelers Companies Inc.는 상업 및 개인 재산, 상해 보험 제품 및 �
 - **Progressive Corporation (미국, [PGR](/company-analysis/pgr/)):** 자동차 보험.
 
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 [Travelers Companies Inc.는 미국 내 상업 재산 및 상해 보험 시장에서 주요 플레이어 중 하나로, 특히 상업 보험 부문에서 높은 점유율을 유지하고 있습니다](https://stockanalysis.com/stocks/trv/company/)[2](https://stockanalysis.com/stocks/trv/company/).

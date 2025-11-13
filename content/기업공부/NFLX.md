@@ -19,9 +19,6 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 
 ### 전방/후방산업
 **전방산업:**
-
-{{< adsense-infeed >}}
-
 - 광고주: Procter & Gamble (US, [PG](/company-analysis/pg/)), Coca-Cola (US, [KO](/company-analysis/ko/))
 - 콘텐츠 제작자: Disney (US, [DIS](/company-analysis/dis/)), Warner Bros. Discovery (US, DISCA)
 **후방산업:**
@@ -37,13 +34,7 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 - 브라질
 - 캐나다
 - 독일
-
-{{< adsense-infeed >}}
-
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Disney+ (US, [DIS](/company-analysis/dis/)):** 스트리밍 서비스 (시장 점유율 15%)
 - **Amazon Prime Video (US, [AMZN](/company-analysis/amzn/)):** 스트리밍 서비스 (시장 점유율 10%)
 - **Hulu (US, DISCA):** 스트리밍 서비스 (시장 점유율 8%)
@@ -51,9 +42,6 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 ### 산업 내 글로벌 시장 점유율
 Netflix, Inc.의 글로벌 시장 점유율은 약 23% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **광고 매출 증가:** 광고 매출 증가로 인한 주가 상승 (2024년)
 - **비밀번호 공유 제한:** 비밀번호 공유 제한 정책 도입 (2023년)
 - **오리지널 콘텐츠 제작:** 오리지널 콘텐츠 제작에 대한 대규모 투자 (2022년)

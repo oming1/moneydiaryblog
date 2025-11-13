@@ -25,13 +25,7 @@ American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 
 - **후방산업:** 재보험업
     - **핵심 산업:** 재보험업은 AIG에 재보험 상품을 제공하여 리스크를 분산시킵니다.
     - **관련 기업:** Munich Re (독일, MUV2), Swiss Re (스위스, SREN)
-
-{{< adsense-infeed >}}
-
 ### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **보험 인수:**
     - **설명:** 다양한 보험 상품을 인수 및 제공
     - **대표회사:** American International Group Inc (미국, [AIG](/company-analysis/aig/)), Chubb (미국, [CB](/company-analysis/cb/))
@@ -46,9 +40,6 @@ American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 
 - **재산 및 상해 보험:** 상업용 및 개인용 재산 보호
 - **생명 보험:** 개인 및 가족의 재정적 보호 제공
 - **은퇴 서비스:** 은퇴 계획 및 자산 관리
-
-{{< adsense-infeed >}}
-
 ### 주요 판매국가
 - **미국:** 주요 매출 국가
 - **영국:** 주요 매출 국가

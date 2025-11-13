@@ -160,9 +160,6 @@ Applied Digital은 제조업체가 아닌 데이터센터 인프라 개발 및 �
 - 풍력 발전소 - 재생에너지 공급
 - ABB(CH, [ABB](/company-analysis/abb/)) - 중전압 전력 인프라 솔루션
 - Schneider Electric(FR, Schneider Electric) - 전력 관리 시스템
-
-{{< adsense-infeed >}}
-
 **데이터센터 인프라 단계:** 하드웨어 및 시설 구축
 
 - NVIDIA(US, [NVDA](/company-analysis/nvda/)) - GPU 하드웨어 공급
@@ -170,9 +167,6 @@ Applied Digital은 제조업체가 아닌 데이터센터 인프라 개발 및 �
 - Dell Technologies(US, [DELL](/company-analysis/dell/)) - 서버 및 스토리지 솔루션
 - BASX Solutions - 제로워터 냉각 시스템
 - 현지 건설업체 - 데이터센터 건설
-
-{{< adsense-infeed >}}
-
 **클라우드 서비스 단계:** 소프트웨어 및 관리 플랫폼
 
 - Kubernetes 기반 오케스트레이션 플랫폼
@@ -289,9 +283,6 @@ AI 특화 데이터센터 시장은 초기 단계로 정확한 점유율 데이�
 
 - 신흥 시장으로 명확한 점유율 데이터 부족
 - Applied Digital은 CoreWeave와의 대형 계약으로 주요 플레이어로 부상
-
-{{< adsense-infeed >}}
-
 최근 3년간 AI 인프라 수요 급증으로 시장 점유율이 빠르게 변화하고 있으며, CoreWeave와의 70억 달러 계약으로 Applied Digital의 시장 지위가 크게 강화되었습니다.
 
 ---

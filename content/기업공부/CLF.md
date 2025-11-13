@@ -15,13 +15,7 @@ weight: 199
 
 섹터: 소재
 산업: [철강](/industry-study/철강/)
-
-{{< adsense-infeed >}}
-
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Cleveland-Cliffs Inc(NYSE: CLF)는 미국 최대의 평판 압연 강철 생산업체이자 북미에서 가장 큰 철광석 펠릿 공급업체입니다. 회사는 1847년에 설립되었으며, 최근 몇 년간의 전략적 인수를 통해 완전 수직 계열화된 철강 회사로 변모했습니다.주요 사업 부문:
 1. 철강 생산: 열연, 냉연, 도금 강판 등 다양한 철강 제품 생산
 2. 철광석 채굴 및 가공: 자체 철광산 운영 및 펠릿 생산
@@ -49,9 +43,6 @@ Cleveland-Cliffs Inc(NYSE: CLF)는 미국 최대의 평판 압연 강철 생산�
 - 광산 장비: Joy Global(현 Komatsu Mining Corp.), Caterpillar(US, [CAT](/company-analysis/cat/))
 - 에너지: ExxonMobil(US, [XOM](/company-analysis/xom/)), Chevron(US, [CVX](/company-analysis/cvx/))
 - 운송: Union Pacific(US, [UNP](/company-analysis/unp/)), Canadian National Railway(CA, [CNI](/company-analysis/cni/))
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 열연강판: 자동차, 건설 등에 사용, 매출의 약 40% (2024년 기준)
@@ -85,9 +76,6 @@ Cleveland-Cliffs는 2024년 기준 북미 철강 시장에서 약 20%의 점유�
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - Fidelity Management & Research (3.26%)
-
-{{< adsense-infeed >}}
-
 ## 관련 ETF
 
 - VanEck Vectors Steel ETF - SLX

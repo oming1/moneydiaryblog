@@ -42,9 +42,6 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
     - 아시아/중동/아프리카(AMEA): 연소 제품의 규모가 크고, 가격 인상과 포트폴리오 믹스 최적화로 수익성 관리.
 
 - 규제·소송 환경
-
-{{< adsense-infeed >}}
-
     - 미국 FDA의 멘톨 담배 규제·향료 제한·제품 승인(PMTA) 체계, 유럽 TPD(담배제품지침) 등 각국 규제를 준수해야 합니다.
     - 담배 산업 특성상 상시 소송·정책 리스크가 존재하며, 제품 라인업·마케팅·포장경고문·유통 방식 등에 직접적인 영향을 줍니다.
 
@@ -68,9 +65,6 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 
 - 지역별(방향성)
     - 미국 비중이 수익성 측면에서 큼(전자담배·멘톨 연소 담배 영향력), 유럽/영국·AMEA가 매출 저변 확대.
-
-{{< adsense-infeed >}}
-
 - 성장 동력·수익성 개선 요인
     - 비연소 카테고리의 고성장 및 시장 전환(연소 → 비연소).
     - 연소 부문 가격 인상(다운트레이드·불법 거래 리스크와 균형), 프리미엄화.
@@ -129,9 +123,6 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 - 규정된 경고문·그림경고·니코틴 경고·트랙앤트레이스(일부 지역) 인쇄·라벨링, 바코드 부착.
 
 4단계: QC·출하
-
-{{< adsense-infeed >}}
-
 - 수분·무게·치수·연기·니코틴·향·히팅성능·누액 테스트, 규격 합격품만 출하.
 
 ---
@@ -210,9 +201,6 @@ British American Tobacco(BTI)는 전통 담배(연소 제품)와 전자담배·�
 ---
 
 ### 주요 고객
-
-{{< adsense-infeed >}}
-
 - 도매/분배: McLane(US, [BRK.B](/company-analysis/brkb/)), Core‑Mark(US, [PFGC](/company-analysis/pfgc/)) – 전국 유통.
 - 소매: 7‑Eleven(글로벌), Circle K(ATD), Walmart(US, [WMT](/company-analysis/wmt/)), Kroger(US, [KR](/company-analysis/kr/)) – 매대·재고·가격 표시 규정 준수.
 - 면세/여행 리테일: Dufry 등.

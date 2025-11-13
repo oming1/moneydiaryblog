@@ -15,9 +15,6 @@ weight: 726
 - Industry: Software - Application(소프트웨어 - 애플리케이션)
 
 ## 영위 사업
-
-{{< adsense-infeed >}}
-
 Quantum Computing Inc.는 양자 광학 및 나노포토닉 기술 회사입니다. 주요 사업으로는 [양자컴퓨팅](/industry-study/양자컴퓨팅/), 양자 인공지능, [사이버 보안](/industry-study/사이버-보안/), 원격 감지 및 이미징 솔루션을 위한 나노포토닉 기반 기술을 개발하고 제공합니다.
 ## 전방/후방 산업
 ## 전방/후방 산업
@@ -33,13 +30,7 @@ Quantum Computing Inc.는 양자 광학 및 나노포토닉 기술 회사입니�
     - 주요 기업: 반도체 제조업체, 광학 부품 제조업체
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 - 양자 기술 개발:
-
-{{< adsense-infeed >}}
-
     - Quantum Computing Inc.는 자체적으로 양자 기술을 개발합니다.
     - 대표 기업: IBM (미국, [IBM](/company-analysis/ibm/)), Google (미국, [GOOGL](/company-analysis/googl/))
 - 양자 솔루션 제공:
@@ -61,9 +52,6 @@ Quantum Computing Inc.는 양자 광학 및 나노포토닉 기술 회사입니�
 - D-Wave Quantum (미국, [QBTS](/company-analysis/qbts/)) - 양자 컴퓨팅 솔루션
 - IonQ (미국, [IONQ](/company-analysis/ionq/)) - 양자 컴퓨팅 하드웨어
 - Rigetti Computing (미국, [RGTI](/company-analysis/rgti/)) - 양자 프로세서 및 클라우드 서비스
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 정확한 시장 점유율 데이터는 제공되지 않았지만, Quantum Computing Inc.는 양자 기술 분야에서 주목받는 기업 중 하나입니다.
 

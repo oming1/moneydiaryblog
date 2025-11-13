@@ -38,9 +38,6 @@ Boeing은 상업용 항공기, [항공우주 및 방위산업](/industry-study/�
 - 우주 시스템 (우주선 및 발사 시스템, 매출 비중: 약 10%, 2023년 기준)
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Boeing은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아시아 태평양 지역입니다. 구체적인 국가별 매출 비중은 제공된 정보에 없습니다.
 
 ## 경쟁업체
@@ -48,13 +45,7 @@ Boeing은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 - Airbus SE (EU, [AIR](/company-analysis/air/)) - 상업용 항공기 및 방산 시스템
 - Lockheed Martin (US, [LMT](/company-analysis/lmt/)) - 군용 항공기 및 방산 시스템
 - Northrop Grumman (US, [NOC](/company-analysis/noc/)) - 방산 및 우주 시스템
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 2023년 기준 Boeing은 상업용 항공기 시장에서 약 40%의 점유율을 보유하고 있으며, 방산 분야에서도 주요 플레이어 중 하나로 간주됩니다. 최근 3년간의 추이는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크

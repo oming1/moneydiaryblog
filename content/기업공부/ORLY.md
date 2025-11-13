@@ -32,32 +32,20 @@ O'Reilly Automotive은 자동차 교체 부품, 도구, 장비, 소모품 및 �
 2023년 12월 기준 미국 48개 주, 푸에르토리코, 멕시코, 캐나다에서 6,291개의 매장을 운영하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 
 - 자동차 부품 제조업체
 - 물류 및 유통 기업
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 
 - 개인 소비자
 - 자동차 수리점 및 정비소
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 
 1. 제품 소싱: 자동차 부품 제조업체로부터 구매
 2. 물류 및 재고 관리: O'Reilly Automotive
 3. 판매 및 유통: 매장, 온라인 플랫폼
 4. 고객 서비스: O'Reilly Automotive
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 자동차 교체 부품
@@ -74,9 +62,6 @@ O'Reilly Automotive은 자동차 교체 부품, 도구, 장비, 소모품 및 �
 - Advance Auto Parts(US, [AAP](/company-analysis/aap/))
 - NAPA Auto Parts
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 제공되지 않았으나, O'Reilly는 미국 내 주요 자동차 부품 소매업체 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈

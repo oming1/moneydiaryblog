@@ -24,9 +24,6 @@ weight: 151
     - **핵심 산업**: 원료 공급업체, 화학회사
     - **관련 기업**: Merck KGaA (독일, [MRK](/company-analysis/mrk/)), Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/))
 **밸류체인**:
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발**: BioNTech은 자체 연구소와 협력 연구기관을 통해 신약 개발을 진행합니다.
     - **대표 회사**: BioNTech (독일, [BNTX](/company-analysis/bntx/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
 - **임상 시험**: 신약의 안전성과 효능을 검증하기 위한 임상 시험을 수행합니다.
@@ -36,14 +33,8 @@ weight: 151
 - **유통 및 판매**: 글로벌 네트워크를 통해 제품을 유통하고 판매합니다.
     - **대표 회사**: Pfizer (미국, [PFE](/company-analysis/pfe/)), McKesson Corporation (미국, [MCK](/company-analysis/mck/))
 **주요제품**:
-
-{{< adsense-infeed >}}
-
 - **Comirnaty (BNT162b2)**: COVID-19 백신 (2020년 매출 비중: 90% 이상)
 - **개인화된 면역항암요법**: 다양한 암 치료에 사용 (임상 시험 단계)
-
-{{< adsense-infeed >}}
-
 **주요 판매국가**:
 
 - 미국, 독일, 영국, 중국

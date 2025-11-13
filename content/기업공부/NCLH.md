@@ -17,9 +17,6 @@ weight: 607
 **영위사업**: Norwegian Cruise Line Holdings Ltd는 주로 크루즈 여행 서비스를 제공하며, Norwegian Cruise Line, Oceania Cruises, Regent Seven Seas Cruises 브랜드를 운영합니다.
 
 **전방/후방산업**:
-
-{{< adsense-infeed >}}
-
 - **전방산업**:
     - **여행사 및 온라인 여행사**: 크루즈 여행 상품을 판매. 예: 익스피디아 그룹 (미국, [EXPE](/company-analysis/expe/)).
     - **항공사**: 크루즈 여행객의 항공편 제공. 예: 델타 항공 (미국, [DAL](/company-analysis/dal/)).
@@ -27,26 +24,17 @@ weight: 607
 - **후방산업**:
     - **식음료 공급업체**: 크루즈 내 식음료 제공. 예: Sysco Corporation (미국, [SYY](/company-analysis/syy/)).
     - **선박 제조업체**: 크루즈 선박 제조 및 유지보수. 예: Fincantieri (이탈리아, BIT: FCT).
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 
 - **선박 건조 및 유지보수**: 크루즈 선박의 건조 및 유지보수. 대표 회사: Fincantieri (이탈리아, BIT: FCT).
 - **여행 상품 개발**: 다양한 크루즈 여행 상품 개발. 대표 회사: Norwegian Cruise Line 자체 개발팀.
 - **마케팅 및 판매**: 글로벌 시장에서의 크루즈 여행 상품 판매. 대표 회사: Norwegian Cruise Line Holdings 자체 마케팅 팀.
 - **고객 서비스 및 지원**: 고객 지원 및 서비스 제공. 대표 회사: Norwegian Cruise Line Holdings 고객 서비스 팀.
-
-{{< adsense-infeed >}}
-
 **주요제품**:
 - **Norwegian Cruise Line**: 다양한 크루즈 여행 상품 제공.
 - **Oceania Cruises**: 고급 요리 및 목적지 중심의 크루즈 여행 상품 제공.
 - **Regent Seven Seas Cruises**: 럭셔리 크루즈 여행 상품 제공.
 **주요 판매국가**:
-
-{{< adsense-infeed >}}
-
 - 미국: Norwegian Cruise Line Holdings의 최대 시장.
 - 유럽: 영국, 독일 등 주요 국가.
 - 아시아: 일본, 중국 등 주요 국가.

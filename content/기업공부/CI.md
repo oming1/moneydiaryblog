@@ -24,13 +24,7 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - **핵심 산업**: 의료 서비스 및 보험 제공
     - **역할**: 최종 소비자에게 건강 관리 및 보험 솔루션 제공
     - **주요 기업**: UnitedHealth Group (미국, [UNH](/company-analysis/unh/)), Anthem (미국, [ANTM](/company-analysis/antm/))
-
-{{< adsense-infeed >}}
-
 - **후방 산업 (Upstream Industry)**:
-
-{{< adsense-infeed >}}
-
     - **핵심 산업**: 의료 기기 및 제약 제조
     - **역할**: Cigna의 보험 상품에 필요한 의료 서비스 및 제품 제공
     - **주요 기업**: Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)), Pfizer (미국, [PFE](/company-analysis/pfe/))
@@ -48,9 +42,6 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
 ## 주요 제품
 
 - **상업 의료 건강 계획**:
-
-{{< adsense-infeed >}}
-
     - 기업 및 개인 고객을 위한 건강 보험 상품입니다.
     - 매출 비중: 전체 매출의 약 50% 차지.
     
@@ -59,13 +50,7 @@ Cigna는 통합 건강 보험 및 서비스 제공업체로, 의료, 치과, 생
     - 매출 비중: 전체 매출의 약 30% 차지.
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 Cigna는 미국을 주요 시장으로 하며, 유럽, 아시아 태평양 지역에서도 중요한 매출을 올리고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - **UnitedHealth Group** (미국, [UNH](/company-analysis/unh/)) - 경쟁 제품: 종합 헬스케어 솔루션
 - **Anthem** (미국, [ANTM](/company-analysis/antm/)) - 경쟁 제품: 건강 보험

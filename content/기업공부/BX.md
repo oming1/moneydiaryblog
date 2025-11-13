@@ -29,9 +29,6 @@ Blackstone Inc.(NYSE: BX)는 세계 최대의 대체투자 자산운용사입니
 Blackstone은 기관투자자, 연금펀드, 고액자산가 등을 대상으로 서비스를 제공하며, 2024년 12월 기준 총 운용자산(AUM)은 1조 달러를 넘어섰습니다.최근 1년 내 주요 이슈로는 인공지능(AI) 기업 투자 확대, ESG 중심의 투자 전략 강화, 그리고 아시아 태평양 지역에서의 사업 확장 등이 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 1. 글로벌 네트워크: 전 세계에 걸친 광범위한 투자 네트워크와 정보력
@@ -54,9 +51,6 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 부동산 개발 및 관리: CBRE Group(US, CBRE), Jones Lang LaSalle(US, JLL)
 - 금융 데이터 제공업체: Bloomberg L.P., Refinitiv
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 자금조달: Blackstone(US, [BX](/company-analysis/bx/)) (투자자로부터 자금 모집)
 2. 투자대상 발굴: Blackstone(US, [BX](/company-analysis/bx/)) (딜소싱 및 실사)
 3. 투자 실행: Blackstone(US, [BX](/company-analysis/bx/)) (기업 인수, 부동산 매입 등)
@@ -64,9 +58,6 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 5. 가치 창출: Blackstone(US, [BX](/company-analysis/bx/)) (운영 개선, 성장 전략 수립)
 6. 투자 회수: Blackstone(US, [BX](/company-analysis/bx/)) (IPO, M&A, 매각 등)
 7. 성과 분배: Blackstone(US, [BX](/company-analysis/bx/)) (투자자에게 수익 분배)
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - 프라이빗 에쿼티 펀드: 기업 인수 및 성장 투자, 매출의 약 30% (2024년 기준)
@@ -76,9 +67,6 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 - 인프라 펀드: 에너지, 운송, 통신 등 인프라 투자, 매출의 약 5% (2024년 기준)
 
 ## 주요 고객
-
-{{< adsense-infeed >}}
-
 - 연금펀드: CalPERS(US), APG(NL), CPPIB(CA)
 - 국부펀드: GIC(SG), ADIA(AE), CIC(CN)
 - 보험사: Allianz(DE, ALV), AXA(FR, CS)

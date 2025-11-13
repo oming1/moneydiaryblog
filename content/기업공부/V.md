@@ -15,9 +15,6 @@ weight: 926
 - **Industry:** 신용 서비스 (Credit Services)
 
 **영위사업** Visa Inc.는 글로벌 결제 기술 회사로, 신용카드, 직불카드, 선불카드 및 기타 결제 솔루션을 제공합니다. Visa는 전 세계 금융기관, 기업, 카드 소지자 및 가맹점 사이에서 중요한 경제적 연결고리를 제공합니다.
-
-{{< adsense-infeed >}}
-
 **전방산업**
 
 - **소비자 금융 (Consumer Finance):** 개인 및 가계에 금융 서비스를 제공합니다. 주요 기업: 마스터카드 (미국, [MA](/company-analysis/ma/)), 아메리칸 익스프레스 (미국, [AXP](/company-analysis/axp/)).
@@ -28,13 +25,7 @@ weight: 926
 - **IT 서비스 (IT Services):** 금융 서비스 운영을 위한 IT 인프라를 제공합니다. 주요 기업: IBM (미국, [IBM](/company-analysis/ibm/)), 액센츄어 (미국, [ACN](/company-analysis/acn/)).
 - **데이터 분석 (Data Analytics):** 고객 데이터 분석을 통해 맞춤형 금융 서비스를 제공합니다. 주요 기업: 팔란티어 (미국, [PLTR](/company-analysis/pltr/)), 스플렁크 (미국, [SPLK](/company-analysis/splk/)).
 **밸류체인**
-
-{{< adsense-infeed >}}
-
 1. **고객 유치 및 마케팅 (Customer Acquisition and Marketing):**
-
-{{< adsense-infeed >}}
-
     - **Omnicom Group (미국, [OMC](/company-analysis/omc/)):** 마케팅 및 광고 서비스.
     - **WPP (영국, WPP)**: 광고 및 PR 서비스.
 2. **신용 평가 및 리스크 관리 (Credit Assessment and Risk Management):**

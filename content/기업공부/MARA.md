@@ -42,29 +42,17 @@ weight: 546
 - **디지털 자산 관리:** 채굴된 비트코인의 관리 및 보관
 
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **미국:** 주요 매출 국가
 - **캐나다:** 데이터 센터 운영
 - **유럽:** 디지털 자산 거래
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **비트코인 채굴:** Riot Platforms (미국, [RIOT](/company-analysis/riot/)), Hut 8 Mining (캐나다, [HUT](/company-analysis/hut/)).
 - **디지털 자산 거래:** Coinbase (미국, [COIN](/company-analysis/coin/)), Binance.
 
 #### 산업 내 글로벌 시장 점유율
 - **비트코인 채굴:** 글로벌 시장 점유율 약 10% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **2022년:** 마라톤 디지털, 비트코인 채굴 해시레이트 14% 증가
 - **2023년:** 마라톤 디지털, ESG 투자 강화 및 지속 가능한 채굴 기술 도입
 - **2024년:** 마라톤 디지털, 비트코인 채굴 효율성 향상 및 운영 확장

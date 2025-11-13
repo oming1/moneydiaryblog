@@ -41,9 +41,6 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 - 보험사: Cigna(US, [CI](/company-analysis/ci/)), Anthem(US, [ANTM](/company-analysis/antm/))
 
 후방산업:
-
-{{< adsense-infeed >}}
-
 - 생명공학 장비: Thermo Fisher Scientific(US, [TMO](/company-analysis/tmo/)), Illumina(US, [ILMN](/company-analysis/ilmn/))
 - 원료 공급업체: Lonza Group(CH, [LONN](/company-analysis/lonn/))
 - CRO(임상시험수탁기관): IQVIA(US, [IQV](/company-analysis/iqv/)), Charles River Laboratories(US, [CRL](/company-analysis/crl/))
@@ -58,9 +55,6 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 11. 판매: CVS Health(US, [CVS](/company-analysis/cvs/)) (소매 약국)
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - Trikafta/Kaftrio: 낭포성 섬유증 치료제, 매출의 약 80% (2024년 기준)
 - Orkambi: 낭포성 섬유증 치료제, 매출의 약 10% (2024년 기준)
 - Symdeko/Symkevi: 낭포성 섬유증 치료제, 매출의 약 5% (2024년 기준)
@@ -73,9 +67,6 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 - 보험사: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), Cigna(US, [CI](/company-analysis/ci/))
 - 정부 기관: 미국 보훈처(VA), 국방부 의료 시스템
 - 유통업체: AmerisourceBergen(US, [ABC](/company-analysis/abc/)), Cardinal Health(US, CAH)
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 미국, 영국, 독일, 프랑스, 이탈리아, 스페인, 호주, 캐나다, 네덜란드, 스위스
 
@@ -88,9 +79,6 @@ Vertex Pharmaceuticals, Inc.(NASDAQ: VRTX)는 미국의 글로벌 [바이오테�
 ## 산업 내 글로벌 시장 점유율
 
 Vertex Pharmaceuticals는 2024년 기준 글로벌 낭포성 섬유증 치료제 시장에서 약 90%의 점유율을 보유하고 있습니다. 이는 회사의 CFTR 조절제 포트폴리오의 독점적 지위로 인한 것입니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며, 새로운 적응증 확대와 지역 확장을 통해 시장 지배력을 강화하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Trikafta/Kaftrio의 글로벌 출시 및 매출 급증 (2022-2024년)

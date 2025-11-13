@@ -17,9 +17,6 @@ weight: 792
 ## 영위사업
 
 Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양한 바닥재 제품의 설계, 제조 및 유통을 전문으로 하는 기업입니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 ## 후방산업
 
@@ -31,18 +28,12 @@ Shaw Industries Group은 카펫, 러그, 강화마루, 타일, 석재 등 다양
 - 소매: 홈 임프루브먼트 및 바닥재 전문점 (예: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/)))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 원자재 조달: 인비스타(Koch Industries 자회사) (합성섬유), 다우(US, [DOW](/company-analysis/dow/)) (화학 원료)
 2. 제품 설계 및 제조: Shaw Industries Group
 3. 유통 및 판매: 홈 디포(US, [HD](/company-analysis/hd/)), 로우스(US, [LOW](/company-analysis/low/))
 4. 설치 및 시공: 전문 시공업체 및 계약업자
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - 카펫 및 러그
 - 강화마루
 - 타일 및 석재

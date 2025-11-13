@@ -77,9 +77,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 **FLEX Options 기술**: 거래소에서 거래되는 맞춤형 옵션 계약을 활용하여 정의된 결과를 구현하는 기술
 
 **리스크 관리 시스템**: 15% 버퍼 수준을 정확히 유지하기 위한 실시간 리스크 모니터링 및 관리 시스템
-
-{{< adsense-infeed >}}
-
 **포트폴리오 최적화**: S&P 500 수익률 추종과 동시에 보호 기능을 제공하는 최적화된 포트폴리오 구성 기술
 
 ---
@@ -162,9 +159,6 @@ AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF(DECU)는 2024년 11월 29일 출
 ---
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 **BlackRock iShares**: Buffer ETF 시리즈 - 캡형 버퍼 ETF, 시장 점유율 상위
 
 **Innovator ETFs**: Defined Outcome ETF 시리즈 - 정의된 결과 ETF 선도업체

@@ -25,9 +25,6 @@ Hershey Company는 세계 최대 규모의 초콜릿 제조업체 중 하나입�
 Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁신을 통해 새로운 제품을 개발하고 있습니다. 최근에는 식물성 초콜릿 등 건강에 좋은 제품 라인업도 확대하고 있습니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 - 소매업: Walmart (US, [WMT](/company-analysis/wmt/)), Target (US, [TGT](/company-analysis/tgt/))
 - 식품 유통: Sysco (US, [SYY](/company-analysis/syy/)), US Foods (US, [USFD](/company-analysis/usfd/))
@@ -37,9 +34,6 @@ Hershey는 90개 이상의 브랜드를 보유하고 있으며, 지속적인 혁
 - 코코아 생산: Barry Callebaut (스위스, BARN.SW)
 - 설탕 생산: Südzucker (독일, SZU.DE)
 - 포장재: International Paper (US, [IP](/company-analysis/ip/))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. 원재료 조달: Barry Callebaut (스위스, BARN.SW) (코코아 공급)
 2. 제품 생산: Hershey (US, [HSY](/company-analysis/hsy/)) (초콜릿 및 사탕 제조)

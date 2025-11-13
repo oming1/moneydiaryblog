@@ -35,9 +35,6 @@ weight: 67
 ---
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Amazon.com Inc.는 1994년 Jeff Bezos가 설립한 세계 최대 전자상거래 및 클라우드 컴퓨팅 기업으로, 온라인 소매, 클라우드 서비스, 디지털 광고, 구독 서비스 등 다양한 사업을 운영하고 있습니다. 회사는 "고객 중심주의"를 핵심 가치로 삼아 지속적인 혁신과 확장을 통해 글로벌 시장을 선도하고 있습니다.
 
 주요 사업부문은 북미(North America), 국제(International), AWS(Amazon Web Services)로 구성됩니다. 2024년 총 매출 6,380억 달러를 기록했으며, 북미 부문이 매출의 약 61%를 차지하는 핵심 사업입니다. AWS는 매출 비중 19%이지만 운영이익의 대부분을 차지하는 고수익 부문입니다.
@@ -127,9 +124,6 @@ Amazon은 제조업체가 아닌 플랫폼 사업자로서 다음과 같은 운�
 
 - 데이터 센터: 전 세계 26개 리전에서 AWS 인프라 운영
 - 서버 및 하드웨어: 자체 설계한 Graviton 프로세서 활용
-
-{{< adsense-infeed >}}
-
 **4. 고객 서비스:**
 
 - 콜센터: 전 세계 다국어 고객 서비스 제공
@@ -181,9 +175,6 @@ Amazon은 제조업체가 아닌 플랫폼 사업자로서 다음과 같은 운�
 - NVIDIA(US, [NVDA](/company-analysis/nvda/)) - AI 및 GPU 칩 공급
 - Microsoft(US, [MSFT](/company-analysis/msft/)) - 소프트웨어 및 클라우드 경쟁/협력
 - Oracle(US, [ORCL](/company-analysis/orcl/)) - 데이터베이스 및 클라우드 경쟁
-
-{{< adsense-infeed >}}
-
 **콘텐츠 및 서비스 단계:** 디지털 콘텐츠 및 부가 서비스
 
 - Netflix(US, [NFLX](/company-analysis/nflx/)) - 스트리밍 서비스 경쟁

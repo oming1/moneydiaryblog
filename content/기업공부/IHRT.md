@@ -111,9 +111,6 @@ iHeartMedia의 핵심 경쟁력은 미국 내 압도적인 오디오 미디어 �
 전통적인 물리적 원자재보다는 라이선스 및 서비스가 주요 투입 요소:
 
 **방송 라이선스**:
-
-{{< adsense-infeed >}}
-
 - 사용처: 라디오 주파수 사용권, 방송 운영 허가
 - 주요 공급 지역: 미국 연방통신위원회(FCC)
 - 주요 공급 업체: 미국 정부 기관 (FCC)
@@ -197,9 +194,6 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 ---
 
 ## 주요주주 (지분율)
-
-{{< adsense-infeed >}}
-
 **기관 투자자**: 87.26% (2025년 기준) **내부자**: 9.98% **개인 및 기타**: 2.76%
 **주요 기관 투자자**:
 
@@ -217,17 +211,11 @@ iHeartMedia는 미국 최대 규모의 오디오 미디어 기업으로서 850�
 - Communication Services Select Sector SPDR Fund - XLC
 - Vanguard Communication Services ETF - VOX
 - iShares U.S. Telecommunications ETF - IYZ
-
-{{< adsense-infeed >}}
-
 **미디어 및 엔터테인먼트 관련 ETF**:
 
 - Invesco Dynamic Media ETF - PBS
 - SPDR S&P Kensho New Economies Composite ETF - KOMP
 - VanEck Social Sentiment ETF - BUZZ
-
-{{< adsense-infeed >}}
-
 **소형주 관련 ETF**:
 
 - iShares Russell 2000 ETF - IWM

@@ -43,9 +43,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - **미션 계획 및 관리**: 위성 임무 계획, 관리 및 운영 서비스 (매출의 약 15%)
 
 - **하드웨어 제조**: 우주 및 방위 분야 하드웨어 제조 (매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 - **AI/ML 제품 및 서비스**: AI 기반 데이터 분석 및 솔루션 제공 (매출의 약 5%)
 
 - **지역별 매출 분포**: 미국(80%), 유럽(15%), 기타(5%)
@@ -122,9 +119,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - L3Harris Technologies(US, [LHX](/company-analysis/lhx/)): 통신 시스템 (위성 통신 장비 제공)
 
 **제조 및 조립 단계:**
-
-{{< adsense-infeed >}}
-
 - Sidus Space(US, [SIDU](/company-analysis/sidu/)): 위성 설계, 제조 및 통합 (LizzieSat 및 LunarLizzie 위성 플랫폼)
 - 파트너 제조사: 부품 및 하위 시스템 제조
 
@@ -133,9 +127,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
 - SpaceX(비상장): 발사 서비스 제공 (LizzieSat 위성 발사 담당)
 - Sidus Space(US, [SIDU](/company-analysis/sidu/)): 위성 운영 및 데이터 수집
 - Neuraspace(비상장): 위성군 운영 향상을 위한 서비스 제공
-
-{{< adsense-infeed >}}
-
 **데이터 서비스 단계:**
 - Sidus Space(US, [SIDU](/company-analysis/sidu/)): 데이터 처리 및 분석 (Orlaith AI 플랫폼 활용)
 - 최종 사용자: 정부, 국방, 상업 고객 등
@@ -254,9 +245,6 @@ Sidus Space는 우주 인프라 서비스(Space Infrastructure-as-a-Service) 비
     - 1,400만 달러 규모의 사모 발행 (12월)
     - LizzieSat-1 성공적 발사 및 1년간 궤도 운영 (3월)
 - 2023년:
-
-{{< adsense-infeed >}}
-
     - LizzieSat 개발 및 발사 준비
     - 다양한 파트너십 체결 및 기술 개발
 

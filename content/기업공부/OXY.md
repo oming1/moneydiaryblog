@@ -22,15 +22,9 @@ Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주�
 1. 석유 및 가스: 미국 퍼미안 베이신, DJ 베이신, 멕시코만 등에서 석유, 천연가스, [NGL](/industry-study/ngl/) 탐사 및 생산
 2. 화학: OxyChem 자회사를 통해 PVC, 염소, 가성 소다 등 기초 화학 제품 생산
 3. 미드스트림 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
-
-{{< adsense-infeed >}}
-
 OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 이상의 경험을 바탕으로 퍼미안 베이신에서 리더십을 발휘하고 있습니다. 또한 저탄소 기술 개발에도 주력하고 있으며, 자회사 Oxy Low Carbon Ventures를 통해 CCUS, 직접 공기 포집(DAC) 등의 프로젝트를 추진하고 있습니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 퍼미안 베이신 리더십: 미국 최대 석유 생산 지역인 퍼미안 베이신에서 선도적 위치
 2. CO2 EOR 기술: 50년 이상의 경험을 바탕으로 한 업계 최고의 CO2 EOR 기술력
 3. 통합 가치 사슬: 상류, 중류, 하류 부문을 아우르는 통합 운영 체계
@@ -72,17 +66,11 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. ExxonMobil(US, [XOM](/company-analysis/xom/))
 2. Chevron(US, [CVX](/company-analysis/cvx/))
 3. ConocoPhillips(US, [COP](/company-analysis/cop/))
 4. EOG Resources(US, [EOG](/company-analysis/eog/))
 5. Pioneer Natural Resources(US, PXD)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, OXY는 미국 내 주요 석유 및 가스 생산업체 중 하나로 인식되고 있습니다.

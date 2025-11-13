@@ -44,9 +44,6 @@ Hexcel의 비즈니스 모델은 고성능 복합소재 개발 및 제조를 통
 - 엔지니어링 제품(Engineered Products) 부문: 21%
     - 허니콤 구조물, 복합소재 부품 등
     - 조정 영업 이익률: 10.7%
-
-{{< adsense-infeed >}}
-
 **시장별 매출 비중:**
 
 - 상업 항공우주: 59%
@@ -144,9 +141,6 @@ Hexcel의 비즈니스 모델은 고성능 복합소재 개발 및 제조를 통
 ---
 
 ## 제조 공정
-
-{{< adsense-infeed >}}
-
 **1단계: 탄소 섬유 제조**
 
 - PAN(폴리아크릴로나이트릴) 전구체 준비 및 방사
@@ -259,9 +253,6 @@ Hexcel의 비즈니스 모델은 고성능 복합소재 개발 및 제조를 통
 ## 주요 제품
 
 **HexTow® 탄소 섬유:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 항공기 기체 구조물, 우주 발사체, 고급 스포츠 장비
 - 매출비중: 약 35% (2024년 추정)
 - 주요 경쟁사: Toray Industries(JP, 3402.T), Teijin(JP, 3401.T), Mitsubishi Chemical(JP, 4188.T)
@@ -279,9 +270,6 @@ Hexcel의 비즈니스 모델은 고성능 복합소재 개발 및 제조를 통
 - 주요 경쟁사: Collins Aerospace(RTX 자회사), Euro-Composites(비상장)
 
 **Redux® 접착제 및 필름:**
-
-{{< adsense-infeed >}}
-
 - 사용처: 복합재 부품 접합, 허니콤 샌드위치 구조물 제작
 - 매출비중: 약 8% (2024년 추정)
 - 주요 경쟁사: Henkel(DE, HEN3.DE), 3M(US, [MMM](/company-analysis/mmm/)), Solvay(BE, SOLB.BR)

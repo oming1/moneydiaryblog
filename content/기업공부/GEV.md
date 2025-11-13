@@ -45,9 +45,6 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 5. 서비스 사업: 백로그의 약 65%가 서비스 부문으로, 안정적인 현금 흐름을 제공합니다.
 
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 전방산업:
 - 전력 유틸리티: Duke Energy(US, [DUK](/company-analysis/duk/)), NextEra Energy(US, [NEE](/company-analysis/nee/))
 - 재생에너지 개발: Orsted(DK, ORSTED), Iberdrola(ES, IBE)
@@ -64,9 +61,6 @@ GE Vernova의 핵심 경쟁력은 다음과 같습니다:
 - 풍력터빈: 육상 및 해상용, 매출의 약 25% (2023년 기준)
 - 그리드 솔루션: HVDC 시스템 등, 매출의 약 20% (2023년 기준)
 - 서비스: 설비 유지보수 및 업그레이드, 매출의 약 25% (2023년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - 전력 유틸리티 기업

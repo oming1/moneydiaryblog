@@ -23,14 +23,8 @@ KLA Corporation(NASDAQ: KLAC)은 [반도체](/industry-study/반도체/) 제조 
 1. 반도체 공정 제어: 웨이퍼, 레티클, IC 제조 전 과정에 걸친 검사 및 계측 솔루션 제공
 2. 특수 반도체 공정: 첨단 패키징, LED, 파워 디바이스 등을 위한 진공 증착 및 에칭 장비 제공
 3. PCB 및 디스플레이 제조: 인쇄회로기판 및 평판 디스플레이 제조용 검사 장비 제공
-
-{{< adsense-infeed >}}
-
 최근 1년 내 주요 이슈로는 AI 및 고성능 컴퓨팅 애플리케이션을 위한 첨단 공정 지원 강화, 지속가능성 이니셔티브 확대, 그리고 글로벌 공급망 관리 강화 등이 있습니다.
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 KLA Corporation의 핵심 경쟁력은 다음과 같습니다:
 
 1. 기술 리더십: 웨이퍼 검사 및 계측 분야에서 50% 이상의 시장 점유율을 보유한 업계 선도 기업
@@ -83,18 +77,12 @@ KLA Corporation은 2024년 기준 반도체 검사 및 계측 장비 시장에�
 - IC 기판 제조를 위한 신규 검사 및 계측 솔루션 출시 (2024년)
 - 글로벌 공급망 강화를 위한 미시간 주 앤아버 제2 본사 설립 (2023년)
 - 자율주행차용 반도체 검사 솔루션 포트폴리오 확대 (2022년)
-
-{{< adsense-infeed >}}
-
 ## 주요주주(지분율)
 - The Vanguard Group (11.66%)
 - BlackRock (9.17%)
 - State Street Corporation (4.47%)
 - PRIMECAP Management Co. (3.96%)
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 - VanEck Semiconductor ETF - SMH
 - iShares Semiconductor ETF - SOXX
 - SPDR S&P Semiconductor ETF - XSD

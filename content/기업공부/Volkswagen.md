@@ -15,17 +15,11 @@ Sector: Consumer Cyclical (임의소비재)
 Industry: Auto Manufacturers (자동차 제조업)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 [Volkswagen](/company-analysis/volkswagen/) AG([Volkswagen](/company-analysis/volkswagen/))는 [자동차](/industry-study/자동차/) 제조 및 판매를 주요 사업으로 하며, 승용차, 상용차, 전기차, 금융 서비스 등을 제공합니다.
 ## 전방/후방산업
 전방산업:
 - 자동차 딜러: AutoNation (국가:US, [AN](/company-analysis/an/))
 - 자동차 부품 유통: LKQ Corporation (국가:US, LKQ)
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 자동차 부품: Continental AG (국가:DE, CON)
 - 반도체: NVIDIA Corporation (국가:US, [NVDA](/company-analysis/nvda/))
@@ -36,15 +30,9 @@ Industry: Auto Manufacturers (자동차 제조업)
 - 상용차 (MAN, Scania 등)
 - 전기차 (ID. 시리즈)
 - 금융 서비스
-
-{{< adsense-infeed >}}
-
 구체적인 제품별 매출 비중은 제공된 정보에 없습니다.
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Volkswagen은 전 세계적으로 판매되지만, 구체적인 국가별 매출 비중은 제공된 정보에 없습니다. 주요 시장으로는 유럽, 중국, 북미 등이 포함됩니다.
 ## 경쟁업체
 

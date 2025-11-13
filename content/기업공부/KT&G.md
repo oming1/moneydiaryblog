@@ -18,9 +18,6 @@ weight: 497
 			- 23 년과 NGP 매출은 23년 7,794억원(-11% YoY)으로 디바이스 기저 효과가 작용했는데 스틱 판매량은 139.6억개비(+30% YoY)로 증가했고 24년 상반기 NGP매출은 374억원(-4% YoY), 스틱 판매량은 72억개비(+5% YoY)를 기록
 **산업섹터 (Sector):** 소비자 방어주 (Consumer Defensive)  
 **산업 (Industry):** [담배](/industry-study/담배/) (Tobacco)
-
-{{< adsense-infeed >}}
-
 ### 영위사업
 
 KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회사입니다. 주요 제품으로는 재구성 담배 시트, 홍삼 및 홍삼 제품, 기타 건강 식품, 식음료 제품, 건강 기능 식품(건기식), [화장품](/industry-study/화장품/) 및 관련 제품이 있습니다. 또한, 잎담배 재배 지원 서비스, 의약품, 바이오 의약품, 일반 의약품 및 의료 용품을 개발, 제조 및 유통합니다. 부동산, 임대 및 주택 사업에도 참여하고 있습니다
@@ -31,17 +28,11 @@ KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회�
 
 - 담배 소매업체: 7-Eleven, GS25
 - 건강 기능 식품 소매업체: GNC, iHerb
-
-{{< adsense-infeed >}}
-
 **후방산업:**
 
 - 원료 공급업체: Philip Morris International (US, [PM](/company-analysis/pm/)), British American Tobacco (GB, [BATS](/company-analysis/bats/))
 - 포장재 공급업체: Amcor (AU, [AMC](/company-analysis/amc/)), Sealed Air (US, SEE)
 ### 주요제품
-
-{{< adsense-infeed >}}
-
 - **담배 제품:** Esse, Raison, The One 등 (매출 비중: 2023년 기준 70%)
 	- [일반 궐련](/industry-study/일반-궐련/) :[23년 기준 매출액의 48.4%가 궐련제품으로 구성, 국내 일반궐련 기준 M/S 67.0% (2Q24)로 내수시장 내 높은 지배력 부각 / 글로벌 궐련 수요 감소 흐름에도 수출지역 다변화 및 인니, 러시아 등 해외법인의 견조한 영업실적 성장기조 유지](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=12&selection=0,2,71,2&color=yellow))
 	- [궐련형 전자담배](/industry-study/궐련형-전자담배/):[17년 국내 차세대 담배시장 최초 진출, 23년 기준 글로벌 궐련형 전자담배 스틱 점유율 8% 추정 (2Q24 국내 점유율 45.8%)](content/산업-테마공부/02.산업/식음료픔%20산업/2.담배/Report/9.3_담배업체에%20관심이%20지속되는%20이유.pdf#page=27&selection=4,0,41,6&color=yellow))
@@ -62,13 +53,7 @@ KT&G Corporation은 주로 담배 제품을 생산, 유통 및 판매하는 회�
 
 ### 산업 내 글로벌 시장 점유율
 [KT&G Corporation의 글로벌 시장 점유율은 약 5% (2023년 기준)이며, 최근 3년간 큰 변동 없이 유지되고 있습니다](https://www.prnewswire.com/news-releases/ktg-reports-2023-q1-results-on-track-to-become-a-global-top-tier-company-301822112.html)[3](https://www.prnewswire.com/news-releases/ktg-reports-2023-q1-results-on-track-to-become-a-global-top-tier-company-301822112.html).
-
-{{< adsense-infeed >}}
-
 ### 최근 3년 내 주요 이슈
-
-{{< adsense-infeed >}}
-
 - **미국 조사:** 미국에서 유해 물질 정보 누락 혐의로 조사 (2021년)
 - **신제품 출시:** 새로운 Heat Not Burn 플랫폼 lil AIBLE 출시 (2023년)
 - **재정 문제:** 2023년 매출 감소로 인한 재정 문제 발생 (2023년)

@@ -23,9 +23,6 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
 ## 전방/후방 산업
 
 - 전방 산업:
-
-{{< adsense-infeed >}}
-
     - 핵심 산업: 전력 공급, 데이터 센터
     - 역할: 청정 에너지 공급
     - 주요 기업: Google (미국, [GOOGL](/company-analysis/googl/)), Microsoft (미국, [MSFT](/company-analysis/msft/))
@@ -35,9 +32,6 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
     - 핵심 산업: 원자로 부품 제조, 핵연료 생산
     - 역할: 원자로 부품 및 연료 공급
     - 주요 기업: [Westinghouse Electric](/company-analysis/westinghouse-electric/) (미국, 비상장), Framatome (프랑스, 비상장)
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 - 원자로 설계 및 개발:
     
@@ -49,9 +43,6 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
     - 대표 기업: Bechtel Corporation (미국, 비상장), Fluor Corporation (미국, [FLR](/company-analysis/flr/))
 
 ## 주요 제품
-
-{{< adsense-infeed >}}
-
 - KP-FHR (Kairos Power Fluoride Salt-Cooled High Temperature Reactor)
 - Hermes 실증로 (35MW 열출력)
 - Hermes 2 (28MW 전기 출력)
@@ -59,16 +50,10 @@ Kairos Power는 [4세대 SMR](/industry-study/4세대-smr/)개발 업체로 청�
 ## 주요 판매 국가
 
 현재 미국을 중심으로 사업을 전개하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - NuScale Power (미국, [SMR](/industry-study/smr/)) - 소형 모듈형 원자로
 - [TerraPower](/company-analysis/terrapower/) (미국, 비상장) - 진행파 원자로
 - X-energy (미국, [XE](/company-analysis/xe/)) - 고온가스로
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Kairos Power는 아직 상용 원자로를 운영하지 않아 시장 점유율은 없지만, 차세대 소형 모듈형 원자로(SMR) 시장에서 주목받는 기업 중 하나입니다.

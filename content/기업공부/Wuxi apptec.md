@@ -15,9 +15,6 @@ weight: 979
 - **Industry:** 진단 및 연구 (Diagnostics & Research), [바이오테크](/industry-study/바이오테크/)
 
 #### 영위사업 (Business Operations)
-
-{{< adsense-infeed >}}
-
 WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 및 제조([CDMO](/industry-study/cdmo/)) 서비스를 제공합니다. 주요 사업 영역은 다음과 같습니다:
 
 - **화학 약물 CRDMO** (Contract Research, Development and Manufacturing Organization)
@@ -37,9 +34,6 @@ WuXi AppTec는 글로벌 제약 및 생명과학 산업을 지원하는 연구 �
     - 대표 기업: ICON plc (IE, ICLR), PPD (US, PPD)
 3. **제조 (Manufacturing)**
     - 대표 기업: Lonza Group (CH, [LONN](/company-analysis/lonn/)), Catalent (US, [CTLT](/company-analysis/ctlt/))
-
-{{< adsense-infeed >}}
-
 #### 주요제품 (Key Products)
 
 - **화학 약물** (신약 개발 및 상업화 지원)

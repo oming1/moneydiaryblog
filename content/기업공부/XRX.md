@@ -69,9 +69,6 @@ Xerox의 핵심 경쟁력은 오랜 역사를 통해 축적된 문서 관리 및
 
 ## 주요 판매국가
 미국 (매출의 약 60%), 유럽 (매출의 약 30%), 기타 국가 (매출의 약 10%)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - HP Inc.(US, [HPQ](/company-analysis/hpq/)) - 프린터 및 PC
 - Canon(JP, 7751) - 카메라 및 프린터
@@ -95,9 +92,6 @@ Xerox는 글로벌 프린터 및 복합기 시장에서 약 10%의 점유율을 
 - 디지털 전환 가속화에 따른 클라우드 기반 문서 관리 솔루션 강화 (2022년)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 - Carl C. Icahn (69.52%)
 - Blackrock Inc (15.13%)
 - Vanguard Group Inc (12.51%)

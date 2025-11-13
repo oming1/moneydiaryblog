@@ -19,9 +19,6 @@ TJX Companies, Inc.는 미국 및 전 세계에서 오프프라이스 의류 및
 2. HomeGoods: 미국 내 HomeGoods와 Homesense 체인 운영
 3. TJX Canada: 캐나다 내 Winners, HomeSense, Marshalls 체인 운영
 4. TJX International: 유럽과 호주에서 TK Maxx와 Homesense 체인 운영
-
-{{< adsense-infeed >}}
-
 TJX는 브랜드, 패션, 가격, 품질의 조합을 통해 가치를 제공하며, 일반적으로 정상가 소매업체 대비 20-60% 할인된 가격으로 상품을 판매합니다. 회사는 4,950개 이상의 글로벌 매장을 운영하고 있으며, 지속적으로 새로운 상품을 입고하여 "보물찾기" 쇼핑 경험을 제공합니다.최근 이슈로는 e-커머스 플랫폼 확장, 국제 시장 성장, 그리고 COVID-19 팬데믹 영향에 대한 대응이 있습니다.
 
 ## 핵심 경쟁력
@@ -65,9 +62,6 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 ## 주요 판매국가
 
 미국, 캐나다, 영국, 아일랜드, 독일, 폴란드, 오스트리아, 네덜란드, 호주
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 1. Ross Stores, Inc.(US, [ROST](/company-analysis/rost/)) - 오프프라이스 의류 및 홈패션 리테일러
@@ -79,9 +73,6 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 ## 산업 내 글로벌 시장 점유율
 
 2022년 10월 기준, TJX Companies는 주요 오프프라이스 리테일러 중 68%의 시장 점유율을 보유하고 있습니다[
-
-{{< adsense-infeed >}}
-
 6
 ](https://secondmeasure.com/datapoints/off-price-retailers-market-share-nasdaq-rost-nyse-tjx-burl/).
 

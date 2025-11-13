@@ -35,9 +35,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 3. 광범위한 유통 네트워크: 전국적인 주유소 및 편의점 네트워크를 통해 안정적인 판매 채널을 확보하고 있습니다.
 4. 미드스트림 자산: MPLX LP를 통해 안정적인 현금 흐름을 창출하는 미드스트림 사업을 영위합니다.
 5. 기술 혁신: 지속적인 R&D 투자를 통해 정유 공정 효율화, 친환경 연료 개발 등의 기술 혁신을 추구합니다.
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 ## 전방산업:
@@ -45,9 +42,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
 1. 운송업: 자동차, 항공, 해운 등 연료 소비 산업
     
     - Delta Air Lines(US, [DAL](/company-analysis/dal/)), FedEx(US, [FDX](/company-analysis/fdx/))
-
-{{< adsense-infeed >}}
-
 2. 석유화학: 플라스틱, 합성섬유 등 석유 기반 제품 생산
     
     - Dow Inc.(US, [DOW](/company-analysis/dow/)), LyondellBasell(US, [LYB](/company-analysis/lyb/))
@@ -65,9 +59,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     
     - Kinder Morgan(US, [KMI](/company-analysis/kmi/)), Enterprise Products Partners(US, [EPD](/company-analysis/epd/))
 3. 정유 설비 제조: 정유소 장비 및 기술 공급업체
-
-{{< adsense-infeed >}}
-
     - Honeywell UOP(US, [HON](/company-analysis/hon/)), Emerson Electric(US, [EMR](/company-analysis/emr/))
 
 ## 밸류체인
@@ -77,9 +68,6 @@ MPC는 지속 가능한 에너지 솔루션에도 투자하고 있으며, 재생
     - ExxonMobil(US, [XOM](/company-analysis/xom/)), Saudi Aramco(SA, 2222.SR)
     
 2. 운송 및 저장: 파이프라인, 터미널 운영
-
-{{< adsense-infeed >}}
-
     - MPLX LP(US, MPLX), Energy Transfer(US, [ET](/company-analysis/et/))
     
 3. 정제: 원유를 다양한 석유 제품으로 가공

@@ -21,16 +21,10 @@ Joby Aviation은 전기 수직 이착륙(eVTOL) 항공기를 개발하고 제조
     - 최대 속도: 200mph(약 322km/h)
     - 비행 거리: 150마일(약 241km)
     - 6개의 틸트 프롭 프로펠러 사용[
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 현재 개발 단계에 있으며, 미국을 중심으로 사업을 추진하고 있습니다. 일본에서도 ANA Holdings와 파트너십을 맺고 있습니다
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Lilium(US, [LILM](/company-analysis/lilm/))
 - Archer Aviation(US, [ACHR](/company-analysis/achr/))
 - Vertical Aerospace(US, [EVTL](/company-analysis/evtl/))

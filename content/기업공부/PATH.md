@@ -16,13 +16,7 @@ weight: 676
 섹터: 정보기술
 산업: 소프트웨어
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI 소프트웨어를 개발하는 글로벌 기업입니다. 2005년 루마니아에서 설립되어 현재 뉴욕에 본사를 두고 있습니다. UiPath의 주요 제품은 반복적인 업무를 자동화하는 RPA 소프트웨어로, 기업의 생산성과 효율성을 향상시키는 데 중점을 두고 있습니다.
-
-{{< adsense-infeed >}}
-
 주요 제품으로는 UiPath Studio(자동화 프로세스 설계 도구), UiPath Robots(자동화 프로세스 실행), UiPath Orchestrator([로봇](/industry-study/로봇/) 및 프로세스 관리 웹 애플리케이션) 등이 있습니다. 최근에는 AI와 머신러닝을 결합한 '에이전트 자동화' 비전을 발표하며, 더욱 지능적이고 자율적인 자동화 솔루션을 개발하고 있습니다.2024년 3분기 기준으로 연간 반복 수익(ARR)은 17% 증가한 16억 700만 달러를 기록했으며, 전 세계적으로 10,810개 이상의 고객을 보유하고 있습니다. 최근에는 AI 기반 기능을 강화한 2023.4 플랫폼을 출시하고, Inflection AI와의 전략적 파트너십을 체결하는 등 AI 역량을 지속적으로 확대하고 있습니다.
 
 ## 핵심 경쟁력
@@ -39,9 +33,6 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 - 기업 IT: IBM(US, [IBM](/company-analysis/ibm/)), Microsoft(US, [MSFT](/company-analysis/msft/))
 - 금융 서비스: JPMorgan Chase(US, [JPM](/company-analysis/jpm/)), Bank of America(US, [BAC](/company-analysis/bac/))
 - 제조업: General Electric(US, [GE](/company-analysis/ge/)), Siemens(DE, [SIE](/company-analysis/sie/))
-
-{{< adsense-infeed >}}
-
 후방산업:
 - 클라우드 인프라: Amazon Web Services(US, [AMZN](/company-analysis/amzn/)), Microsoft Azure(US, [MSFT](/company-analysis/msft/))
 - AI 및 머신러닝: NVIDIA(US, [NVDA](/company-analysis/nvda/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))
@@ -52,15 +43,9 @@ UiPath Inc.(NYSE: PATH)는 기업용 로봇 프로세스 자동화(RPA) 및 AI �
 - UiPath Document Understanding: 문서 처리 자동화 솔루션
 - UiPath Process Mining: 비즈니스 프로세스 분석 및 최적화 도구
 - UiPath Test Suite: 자동화된 소프트웨어 테스팅 솔루션
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 
 미국, 일본, 영국, 독일, 프랑스, 인도, 중국, 호주
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Automation Anywhere(비상장) - RPA 솔루션

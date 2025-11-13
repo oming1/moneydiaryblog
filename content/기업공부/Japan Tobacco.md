@@ -20,9 +20,6 @@ weight: 463
 
 Sector: Consumer Defensive (소비자 방어주)  
 Industry: Tobacco ([담배](/industry-study/담배/))
-
-{{< adsense-infeed >}}
-
 ## 회사 개요
 
 Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabushiki gaisha)는 1985년에 설립된 일본의 다국적 담배 회사입니다. 본사는 도쿄에 위치하고 있으며, 일본 내 담배 시장에서 주요한 위치를 차지하고 있습니다. JT는 담배 외에도 제약 및 식품 사업에 진출하여 다각화된 포트폴리오를 보유하고 있습니다.
@@ -53,9 +50,6 @@ Japan Tobacco Inc. (日本たばこ産業株式会社, Nihon Tabako Sangyō kabu
 ## 주요 판매국가
 
 Japan Tobacco는 일본을 포함하여 전 세계 120개국에서 제품을 판매하고 있습니다. 일본 내에서 약 66.4%의 시장 점유율을 보유하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 주요 자산
 
 - 다수의 담배 제조 시설
@@ -67,9 +61,6 @@ Japan Tobacco는 일본을 포함하여 전 세계 120개국에서 제품을 판
 - British American Tobacco (UK, [BATS](/company-analysis/bats/))
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Japan Tobacco는 세계 담배 시장에서 약 9%의 점유율을 보유하고 있으며, 2020년 기준으로 글로벌 담배 판매량은 약 54억 개비에 달합니다.
 
 ## 최근 뉴스 및 재무 성과
@@ -80,8 +71,5 @@ Japan Tobacco는 세계 담배 시장에서 약 9%의 점유율을 보유하고 
 ## 자세한 종목 정보 링크
 
 [Japan Tobacco - Wikipedia](https://en.wikipedia.org/wiki/Japan_Tobacco)
-
-{{< adsense-infeed >}}
-
 공유
 다시 쓰기

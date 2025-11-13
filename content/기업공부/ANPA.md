@@ -33,9 +33,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 ---
 
 ## 5. 비즈니스 모델 (수익 모델)
-
-{{< adsense-infeed >}}
-
 **수익 구조 세분화:**
 
 - 금융 인쇄 서비스: 상장 문서, 재무 보고서, 회람, 공시 자료 등의 디자인 및 인쇄 서비스 제공을 통한 수익
@@ -97,9 +94,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 ## 9. 전방산업 / 후방산업
 
 **전방산업 (서비스 사용 산업):**
-
-{{< adsense-infeed >}}
-
 - 금융 서비스: HSBC(UK, HSBC), AIA Group(HK, AIA), Ping An Insurance(CN, Ping An)
 - 부동산 개발: Sun Hung Kai Properties(HK, Sun Hung Kai), Henderson Land(HK, Henderson Land)
 - 소매 및 소비재: Li Ning(HK, Li Ning), Anta Sports(HK, Anta Sports)
@@ -219,9 +213,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 - Toppan Merrill(JP, Private) - 글로벌 금융 인쇄 서비스 제공업체, 시장점유율 약 5-10%
 - EDICO Holdings(HK, 8450) - 홍콩 기반 금융 문서 서비스 제공업체, 시장점유율 약 5-10%
 - RR Donnelley(US, RRD) - 글로벌 통합 커뮤니케이션 서비스 제공업체, 시장점유율 약 3-5%
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 16. 산업 내 글로벌 시장 점유율
@@ -282,9 +273,6 @@ Rich Sparkle Holdings Ltd는 2016년 설립된 홍콩 기반의 [금융 인쇄 �
 - FXO - First Trust Financials AlphaDEX Fund FXO
 
 **섹터 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - XLI - Industrial Select Sector SPDR Fund XLI
 - IYJ - iShares U.S. Industrials ETF IYJ
 - VIS - Vanguard Industrials ETF VIS

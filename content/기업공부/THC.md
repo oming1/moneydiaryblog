@@ -23,9 +23,6 @@ Tenet Healthcare Corporation(THC)은 미국 전역에서 의료 서비스를 제
 ## 주요 경쟁자: 
 
 HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US, [UHS](/company-analysis/uhs/)), Community Health Systems(US, [CYH](/company-analysis/cyh/)) 등이 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 1. 광범위한 의료 시설 네트워크: THC는 미국 전역에 걸쳐 약 50개의 병원과 500개 이상의 외래 수술 센터를 운영하고 있어, 다양한 지역에서 의료 서비스를 제공할 수 있는 능력을 갖추고 있습니다.
 2. 외래 수술 센터(ASC) 중심 전략: United Surgical Partners International과의 파트너십을 통해 ASC 네트워크를 확장하고 운영을 최적화하여 수익성을 개선하고 있습니다.
@@ -65,15 +62,9 @@ HCA Healthcare(US, [HCA](/company-analysis/hca/)), Universal Health Services(US,
 THC의 주요 고객은 의료 서비스를 필요로 하는 일반 대중, 의료보험 회사, 정부 기관(Medicare, Medicaid) 등입니다.
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 미국이 주요 판매국가입니다. THC는 미국 내 여러 주에서 의료 서비스를 제공하고 있으며, 특히 남부 지역에 집중되어 있습니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. HCA Healthcare(US, [HCA](/company-analysis/hca/)) - 종합 병원 및 외래 시설 운영
 2. Universal Health Services(US, [UHS](/company-analysis/uhs/)) - 행동 건강 및 급성 치료 시설 운영
 3. Community Health Systems(US, [CYH](/company-analysis/cyh/)) - 지역 병원 네트워크 운영
@@ -112,7 +103,4 @@ THC는 미국 의료 서비스 시장에서 주요 플레이어 중 하나이지
 5. Invesco DWA Healthcare Momentum ETF - PTH
 
 공유
-
-{{< adsense-infeed >}}
-
 다시 쓰기

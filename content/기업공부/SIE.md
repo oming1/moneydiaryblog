@@ -18,9 +18,6 @@ weight: 795
 
 Siemens Energy는 전 세계적으로 에너지 기술을 제공하는 회사로, 가스 및 증기 터빈, 발전기, 열 펌프, 고전압 직류 송전 시스템, [변압기](/industry-study/변압기/), 전력 변환 시스템, 디지털 그리드 솔루션 등을 제공합니다. 또한, 전력 생성, 전력 전송 및 저장 솔루션을 포함한 다양한 에너지 관련 제품과 서비스를 제공합니다.
 #### 전방/후방산업
-
-{{< adsense-infeed >}}
-
 - **전방산업:** 전력 유통 및 에너지 서비스
     - **핵심 산업:** 전력 유통사, 에너지 서비스 제공업체
     - **핵심 기업:** Duke Energy (미국, [DUK](/company-analysis/duk/)), NextEra Energy (미국, [NEE](/company-analysis/nee/))
@@ -49,9 +46,6 @@ Siemens Energy는 전 세계적으로 에너지 기술을 제공하는 회사로
 - **미국:** 2023년 매출 비중: 18.5%
 - **아시아 및 호주:** 2023년 매출 비중: 15.6%
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Hitachi Energy (일본, 6501):** 에너지 및 유틸리티 솔루션
 - **Schneider Electric (프랑스, [SU](/company-analysis/su/)):** 디지털 변환 솔루션
 - **ABB (스위스, ABBN):** 전력 및 자동화 기술

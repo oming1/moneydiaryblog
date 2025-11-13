@@ -39,9 +39,6 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 - 마케팅 및 브랜딩: 럭셔리 이미지 구축 및 유지
 - 유통: 자체 매장, 백화점, 온라인 판매
 - 고객 서비스: 프리미엄 고객 경험 제공
-
-{{< adsense-infeed >}}
-
 ## 주요제품
 
 - Louis Vuitton (패션 및 가죽 제품)
@@ -50,26 +47,14 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 - Bulgari, TAG Heuer (시계 및 주얼리)
 - Sephora (화장품 소매)
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계적으로 사업을 영위하며, 주요 시장은 유럽, 미국, 아시아입니다.
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 - Kering SA (FR, KER.PA) - 구찌, 생로랑 등 럭셔리 브랜드
 - Compagnie Financière Richemont SA (CH, CFR) - 까르띠에, 몽블랑 등 럭셔리 브랜드
 - The Estée Lauder Companies Inc. (US, [EL](/company-analysis/el/)) - 프리미엄 화장품 및 향수
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 LVMH는 럭셔리 상품 시장에서 세계 1위 기업으로, 2023년 기준 시가총액 5000억 달러를 돌파한 최초의 유럽 기업입니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 LVMH는 럭셔리 상품 시장에서 세계 1위 기업으로, 2023년 기준 시가총액 5000억 달러를 돌파한 최초의 유럽 기업입니다.
 

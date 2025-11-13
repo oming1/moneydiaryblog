@@ -28,9 +28,6 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 - 온라인 게임 이용자
 - 광고주
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 게임 개발: High Roller Technologies (자체 개발)
 2. 플랫폼 운영: HighRoller.com, CasinoRoom.com
 3. 마케팅 및 고객 유치: High Roller Technologies
@@ -41,20 +38,11 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 - 온라인 카지노 평가 및 리뷰 서비스
 - 인터넷 관련 광고 서비스
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 전 세계 (구체적인 국가별 매출 비중 정보 없음)
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 - DraftKings(US, [DKNG](/company-analysis/dkng/))
 - Flutter Entertainment(IE, FLTR.L)
 - Entain(UK, ENT.L)
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다.

@@ -85,9 +85,6 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 ---
 
 ### 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 - **안전 중심 설계:** 강화된 섀시와 충돌 보호 시스템으로 스쿨버스 표준 선도.
 - **전기화 리더십:** BEV 모델의 초기 시장 점유와 기술 파트너십.
 - **맞춤형 생산:** 고객 요구에 따른 옵션 다양화와 빠른 납기.
@@ -181,9 +178,6 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 ---
 
 ### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - IC Bus(US, 비상장) - 스쿨버스, 시장점유율 25%.
 - Thomas Built Buses(US, 비상장) - 스쿨버스, 시장점유율 30%.
 - Lion Electric(CA, LEV) - 전기 버스, 시장점유율 5%.
@@ -228,13 +222,7 @@ Blue Bird Corporation은 1927년에 설립된 미국 조지아주 기반의 스�
 ---
 
 ### 관련 ETF
-
-{{< adsense-infeed >}}
-
 **직접 관련 ETF:**
-
-{{< adsense-infeed >}}
-
 - XTN - SPDR S&P Transportation ETF XTN.
 - IYT - iShares Transportation Average ETF IYT.
 

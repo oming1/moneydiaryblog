@@ -44,9 +44,6 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
     - HCA Healthcare(US, [HCA](/company-analysis/hca/))
     
 2. 약국 체인: 의약품 소매 유통
-
-{{< adsense-infeed >}}
-
     - CVS Health(US, [CVS](/company-analysis/cvs/))
 3. 의약품 도매: 대규모 의약품 유통
     
@@ -74,9 +71,6 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 2. 원료 생산: API 제조
     
     - Viatris(US, [VTRS](/company-analysis/vtrs/)) (자체 API 생산)
-
-{{< adsense-infeed >}}
-
 3. 의약품 제조: 완제품 생산
     
     - Viatris(US, [VTRS](/company-analysis/vtrs/)) (다양한 제형의 의약품 생산)
@@ -134,9 +128,6 @@ Viatris(Mylan 포함)는 2023년 기준 글로벌 제네릭 의약품 시장에�
 5. Capital Research Global Investors (3.67%)
 
 ## 관련 ETF
-
-{{< adsense-infeed >}}
-
 1. VanEck Pharmaceutical ETF - PPH
 2. iShares U.S. Pharmaceuticals ETF - IHE
 3. Invesco Dynamic Pharmaceuticals ETF - PJP

@@ -17,9 +17,6 @@ weight: 429
 산업: 클라우드컴퓨팅
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔루션 및 디지털 자산 채굴을 통해 디지털 경제를 지원하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 고성능 컴퓨팅(HPC): 클라우드 서비스, 베어메탈, 쿠버네티스, AI, GPU 등 다양한 컴퓨팅 솔루션 제공
@@ -35,9 +32,6 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 3. 지리적 다양성: 캐나다 중부와 서부에 분산된 데이터 센터 운영
 4. 재생 에너지 활용: 수력 및 원자력 발전을 활용한 친환경 운영
 5. 기술 혁신: AI, 머신러닝, VR 등 신기술 지원 능력
-
-{{< adsense-infeed >}}
-
 ## 전방/후방산업
 
 전방산업:
@@ -60,9 +54,6 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - 비트코인 채굴: 대규모 디지털 자산 채굴 운영
 ## 주요 판매국가
 캐나다, 미국
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Digital Realty Trust(US, [DLR](/company-analysis/dlr/))
@@ -70,15 +61,9 @@ Hut 8 Corp(NASDAQ: HUT)는 고성능 컴퓨팅(HPC) 인프라, 첨단 기술 솔
 - CyrusOne(US, [CONE](/company-analysis/cone/))
 - Switch(US, SWCH)
 - CoreSite Realty(US, [COR](/company-analysis/cor/))
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Hut 8 Corp의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 북미 지역에서 주요 비트코인 채굴 기업 중 하나로 인식되고 있으며, HPC 및 클라우드 서비스 시장에서도 성장하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 최근 3년 내 주요 이슈
 
 - Salt Creek에서 자체 채굴 운영 최적화 및 채굴기 가동 시작 (2024년)

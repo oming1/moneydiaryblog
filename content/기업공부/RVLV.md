@@ -17,9 +17,6 @@ Revolve Group, Inc.(RVLV)는 밀레니얼 세대와 Z세대를 대상으로 하�
 산업: 인터넷 소매(Internet Retail)
 
 ## 영위사업
-
-{{< adsense-infeed >}}
-
 Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영합니다:
 1. REVOLVE: 프리미엄 의류, 신발, 뷰티, 액세서리, 홈 제품을 제공
 2. FWRD: 고급 럭셔리 브랜드 제품을 제공
@@ -34,21 +31,12 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 ## 전방/후방산업
 
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 의류 제조업체
 - 물류 및 유통 기업
-
-{{< adsense-infeed >}}
-
 ## 전방산업
 - 소비자
 - 패션 인플루언서
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 제품 소싱: 신흥, 기성, 자체 브랜드
 2. 플랫폼 운영: Revolve Group
 3. 마케팅: 인플루언서 네트워크 활용
@@ -63,9 +51,6 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 ## 주요 판매국가
 
 미국 및 국제 시장
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - Nordstrom(US, [JWN](/company-analysis/jwn/))

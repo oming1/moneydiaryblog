@@ -22,36 +22,21 @@ weight: 908
 - **후방산업**: 항공기 제조, 연료 공급
     - **핵심 산업**: 항공기 제조, 정비 서비스, 연료 공급
     - **관련 기업**: Boeing (미국, [BA](/company-analysis/ba/)), ExxonMobil (미국, [XOM](/company-analysis/xom/))
-
-{{< adsense-infeed >}}
-
 **밸류체인**:
 - **항공기 제조 및 공급**: Boeing (미국, [BA](/company-analysis/ba/)), Airbus (유럽, [AIR](/company-analysis/air/))
 - **연료 공급**: ExxonMobil (미국, [XOM](/company-analysis/xom/)), Chevron (미국, [CVX](/company-analysis/cvx/))
 - **항공기 정비 및 서비스**: AAR Corp (미국, [AIR](/company-analysis/air/)), Lufthansa Technik (독일, LHA)
 - **여객 서비스**: Expedia Group (미국, [EXPE](/company-analysis/expe/)), Booking Holdings (미국, [BKNG](/company-analysis/bkng/))
-
-{{< adsense-infeed >}}
-
 **주요제품**:
 
 - **항공 서비스**: 저비용 항공 운송 서비스
 - **부가 서비스**: 수하물 요금, 좌석 선택 요금, 기내 서비스
 **주요 판매국가**:
-
-{{< adsense-infeed >}}
-
 - 미국
 - 멕시코
 - 캐나다
 - 카리브해 국가들
-
-{{< adsense-infeed >}}
-
 **경쟁업체**:
-
-{{< adsense-infeed >}}
-
 - **Southwest Airlines** (미국, [LUV](/company-analysis/luv/)): 저비용 항공사
 - **Spirit Airlines** (미국, [SAVE](/company-analysis/save/)): 저비용 항공사
 - **Allegiant Air** (미국, ALGT): 저비용 항공사

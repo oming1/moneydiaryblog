@@ -22,9 +22,6 @@ Lattice Semiconductor Corporation은 저전력 프로그래머블 로직 디바�
 2. 프로그래머블 혼합 신호 및 상호 연결 제품
 3. 관련 소프트웨어 및 지적 재산권(IP) 제공
 4. 개발 키트, 참조 설계 및 프로그래밍 하드웨어 제공
-
-{{< adsense-infeed >}}
-
 Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 산업 분야에 맞춤형 반도체 솔루션을 제공하고 있습니다.
 
 ## 전방/후방산업
@@ -34,9 +31,6 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 - 컴퓨터 하드웨어: Dell Technologies (US, [DELL](/company-analysis/dell/))
 - 자동차 전자장비: Ford (US, [F](/company-analysis/f/)), Mitsubishi (일본, 8058.T)
 - 데이터 센터: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Microsoft (US, [MSFT](/company-analysis/msft/))
-
-{{< adsense-infeed >}}
-
 ## 후방산업
 
 - 반도체 제조 장비: Applied Materials (US, [AMAT](/company-analysis/amat/))
@@ -60,9 +54,6 @@ Lattice는 통신, 컴퓨팅, 산업, 자동차, 소비자 전자 등 다양한 
 ## 주요 판매국가
 
 미국, 중국, 필리핀, 말레이시아, 싱가포르 등 전 세계적으로 사업을 영위하고 있습니다.
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 1. AMD (Xilinx) (US, [AMD](/company-analysis/amd/))
 2. Intel (Altera) (US, [INTC](/company-analysis/intc/))

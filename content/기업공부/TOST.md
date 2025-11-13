@@ -31,20 +31,11 @@ Toast는 매장 내 식사, 테이크아웃, 배달, 케이터링 등 다양한 
 
 - 레스토랑 및 식음료 업체
 - 식품 배달 서비스: DoorDash (US, [DASH](/company-analysis/dash/)), Uber Eats (US, [UBER](/company-analysis/uber/))
-
-{{< adsense-infeed >}}
-
 ## 후방산업
-
-{{< adsense-infeed >}}
-
 - 클라우드 서비스 제공업체: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)), Google Cloud (US, [GOOGL](/company-analysis/googl/))
 - 결제 처리 업체: Stripe (비상장), PayPal (US, [PYPL](/company-analysis/pypl/))
 
 ## 밸류체인
-
-{{< adsense-infeed >}}
-
 1. 소프트웨어 개발: Toast, Inc. (US, [TOST](/company-analysis/tost/)) (레스토랑 관리 시스템)
 2. 하드웨어 제조: Toast, Inc. (US, [TOST](/company-analysis/tost/)) (POS 단말기, 키오스크)
 3. 클라우드 인프라: Amazon Web Services (US, [AMZN](/company-analysis/amzn/)) (클라우드 호스팅)
@@ -57,13 +48,7 @@ Toast는 매장 내 식사, 테이크아웃, 배달, 케이터링 등 다양한 
 3. Toast Takeout 앱: 테이크아웃 주문 관리 앱
 4. Toast Marketing: 레스토랑 마케팅 도구
 5. Toast Payroll: 직원 급여 관리 시스템
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Toast는 주로 미국 시장에서 사업을 영위하고 있습니다.
 ## 경쟁업체
 1. Square (US, [SQ](/company-analysis/sq/)) (결제 및 POS 시스템)

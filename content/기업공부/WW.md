@@ -26,9 +26,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 1. **디지털 구독 서비스**: 모바일 앱 기반의 식단 관리, 운동, 행동 변화 지원
     
 2. **건강 코칭 및 상담**: 개인별 맞춤 코칭, 심리상담, 웰빙 교육 프로그램
-
-{{< adsense-infeed >}}
-
 3. **커뮤니티 및 워크숍**: 오프라인 및 온라인 그룹 커뮤니티, 워크숍 운영
     
 4. **영양·피트니스 프로그램**: 포인트제 식단, 운동, 영양 교육, 레시피 제공
@@ -43,9 +40,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 3. **개인 맞춤형 솔루션**: AI 및 데이터 기반의 맞춤형 식단/운동/행동 변화 제안
     
 4. **커뮤니티 기반 지원**: 유저 커뮤니티와 동기부여 시스템
-
-{{< adsense-infeed >}}
-
 5. **디지털 전환 가속화**: 모바일 앱, 온라인 코칭, 트래킹 기능 강화
 
 ## 전방/후방산업
@@ -53,9 +47,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 ## 전방산업
 
 - **헬스케어/의료**: UnitedHealth Group(US, [UNH](/company-analysis/unh/)), CVS Health(US, [CVS](/company-analysis/cvs/))
-
-{{< adsense-infeed >}}
-
 - **피트니스 및 웰빙**: Peloton(US, [PTON](/company-analysis/pton/)), Planet Fitness(US, [PLNT](/company-analysis/plnt/))
     
 - **식품/음료**: Nestlé(CH, [NESN](/company-analysis/nesn/)), Unilever(UK, ULVR)
@@ -99,9 +90,6 @@ WW International Inc.(NASDAQ: WW) (이전명: Weight Watchers International Inc.
 미국, 캐나다, 영국, 호주, 프랑스, 독일, 이탈리아, 뉴질랜드, 스웨덴 등
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. Noom(비상장): 데이터 기반 행동 변화 다이어트 앱
     
 2. MyFitnessPal(비상장): 글로벌 칼로리/영양 트래킹 플랫폼

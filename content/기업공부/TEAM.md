@@ -26,9 +26,6 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 5. Atlassian Cloud: 클라우드 기반 솔루션 제공
 
 2024년 기준 총 매출은 약 35억 달러였으며, 전 세계적으로 10,000명 이상의 직원을 고용하고 있습니다. 최근에는 클라우드 기반 서비스로의 전환을 가속화하고 있으며, AI 기능 통합을 통한 제품 혁신에 주력하고 있습니다.최근 주요 이슈로는 Jira Product Discovery 출시, Atlassian Intelligence AI 기능 강화, 그리고 지속적인 클라우드 마이그레이션 추진 등이 있었습니다.
-
-{{< adsense-infeed >}}
-
 ## 핵심 경쟁력
 
 6. 통합 제품 생태계: 다양한 제품 간의 원활한 통합 및 상호 운용성
@@ -63,9 +60,6 @@ Atlassian Corporation(NASDAQ: TEAM)은 소프트웨어 개발자, IT 전문가 �
 - Trello: 작업 관리 및 협업, 매출의 약 15% (2024년 기준)
 - Bitbucket: 소스 코드 관리, 매출의 약 10% (2024년 기준)
 - 기타 제품 및 서비스: 매출의 약 10% (2024년 기준)
-
-{{< adsense-infeed >}}
-
 ## 주요 고객
 
 - Airbnb(US, [ABNB](/company-analysis/abnb/)): 여행 및 숙박 플랫폼

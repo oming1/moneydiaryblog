@@ -88,9 +88,6 @@ VisionWave Holdings의 핵심 경쟁력은 다음과 같습니다:
 **AI 기반 자율 시스템**: VisionWave의 핵심 기술은 고급 인공지능을 활용하여 다양한 작전 환경에서 자율적으로 작동할 수 있는 시스템을 개발하는 것입니다. 이 기술은 인간의 개입 없이도 복잡한 작전을 수행하고 실시간으로 적응할 수 있는 능력을 제공합니다.
 
 **고해상도 레이더 기술**: 회사는 고해상도 레이더 시스템을 개발하여 전통적인 센서보다 더 정확하고 상세한 환경 정보를 제공합니다. 이 기술은 악천후나 가시성이 제한된 상황에서도 효과적으로 작동하여 작전 능력을 향상시킵니다.
-
-{{< adsense-infeed >}}
-
 **다중 도메인 통합 플랫폼**: 공중, 지상, 해상 영역을 아우르는 통합 작전 플랫폼을 개발함으로써, 군사 작전의 조정과 효율성을 크게 향상시킵니다. 이 기술은 다양한 작전 환경에서 원활한 정보 공유와 협력을 가능하게 합니다.
 
 **실시간 위협 감지 및 분석**: 인공지능과 고급 센서 기술을 결합하여 실시간으로 위협을 감지하고 분석하는 시스템을 개발했습니다. 이 기술은 즉각적인 상황 인식과 신속한 대응을 가능하게 합니다.
@@ -168,9 +165,6 @@ VisionWave Holdings는 주로 소프트웨어 및 시스템 통합에 중점을 
 ## 주요 제품
 
 **자율 항공 시스템**: 다양한 미션을 수행할 수 있는 AI 기반 무인 항공기 및 드론 시스템. 정찰, 감시, 물류 지원 등의 용도로 사용됩니다. 정확한 매출 비중은 공개되지 않았습니다. 경쟁사로는 General Atomics(비상장), AeroVironment(US, [AVAV](/company-analysis/avav/)), Shield AI(비상장)가 있습니다.
-
-{{< adsense-infeed >}}
-
 **자율 지상 차량**: 위험한 환경에서 작전을 수행할 수 있는 무인 지상 차량. 폭발물 처리, 물류, 정찰 등의 임무에 활용됩니다. 정확한 매출 비중은 공개되지 않았습니다. 경쟁사로는 Boston Dynamics(Hyundai 소유), Rheinmetall(DE, RHM.DE), QinetiQ(UK, QQ.L)가 있습니다.
 
 **고해상도 레이더 시스템**: 다양한 환경 조건에서도 정확한 탐지 및 추적 기능을 제공하는 첨단 레이더 기술. 정확한 매출 비중은 공개되지 않았습니다. 경쟁사로는 Raytheon Technologies(US, [RTX](/company-analysis/rtx/)), Northrop Grumman(US, [NOC](/company-analysis/noc/)), Lockheed Martin(US, [LMT](/company-analysis/lmt/))가 있습니다.
@@ -242,9 +236,6 @@ _참고: 방위 산업의 특성상, 많은 계약과 판매 정보는 기밀로
 - **L3Harris Technologies(US, [LHX](/company-analysis/lhx/))**: 방위 및 항공우주 기술 기업으로, 통신, 전자, 정보 시스템 등을 개발합니다.
     
 - **BAE Systems(UK, BA.L)**: 영국의 방위, 보안, 항공우주 기업으로, AI 및 자율 시스템 분야에서도 활발히 활동합니다.
-
-{{< adsense-infeed >}}
-
 - **Leidos(US, [LDOS](/company-analysis/ldos/))**: 정보 기술, 공학, 과학 솔루션을 방위, 정보, 민간 시장에 제공하는 기업.
 
 ---
@@ -301,9 +292,6 @@ _참고: 방위 산업의 특성상 많은 계약 정보가 기밀로 유지되�
 **2025년 1월 28일**: Bannix Acquisition Corp.와 VisionWave Technologies Inc.가 합병을 위한 등록 명세서를 SEC에 제출했다고 발표했습니다.
 
 **2024년 9월 6일**: Bannix Acquisition Corp.와 VisionWave Technologies Inc.가 합병 계약 및 재편성 계획에 서명했습니다.
-
-{{< adsense-infeed >}}
-
 ---
 
 ## 주요 주주 (지분율)

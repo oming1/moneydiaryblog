@@ -34,26 +34,14 @@ Interface Inc.는 상업용 카펫 타일 및 탄력성 있는 바닥재의 설�
 - 탄력성 있는 바닥재(LVT 등)
 - 고무 바닥재
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - 미국 (주요 시장)
 - 유럽
 - 아시아 태평양 지역
-
-{{< adsense-infeed >}}
-
 ## 경쟁업체
 
 - 모호크 인더스트리즈(US, [MHK](/company-analysis/mhk/)) (바닥재 전문 기업)
 - 쇼 인더스트리즈(US, [SHWI](/company-analysis/shwi/)) (바닥재 전문 기업)
 - 타켓트(프랑스, [TKTT](/company-analysis/tktt/)) (비닐 바닥재, 카펫)
-
-{{< adsense-infeed >}}
-
 ## 최근 주요 이슈
-
-{{< adsense-infeed >}}
-
 - 지속가능성 이니셔티브 강화 및 탄소중립 목표 추진
 - COVID-19 팬데믹 이후 상업용 부동산 시장 변화에 대응

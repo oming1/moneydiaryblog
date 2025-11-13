@@ -22,9 +22,6 @@ weight: 538
 - **후방산업**: 건설 및 유지보수, 식음료 공급업체
     - **핵심 산업 및 역할**: 리조트 건설 및 유지보수, 식음료 공급 등. 이들은 리조트 운영에 필요한 인프라와 자원을 제공합니다.
     - **관련 기업**: Caterpillar Inc. (미국, [CAT](/company-analysis/cat/)), Sysco Corporation (미국, [SYY](/company-analysis/syy/))
-
-{{< adsense-infeed >}}
-
 #### 밸류체인
 
 - **개발 및 건설**: 리조트 개발 및 건설
@@ -38,13 +35,7 @@ weight: 538
 - **[카지노](/industry-study/카지노/) 및 게임**: 다양한 카지노 게임 및 슬롯 머신
 - **호텔 및 리조트 운영**: The Venetian Macao, Marina Bay Sands (싱가포르), The Parisian Macao 등
 - **컨벤션 및 전시**: 대규모 컨벤션 센터 및 전시 공간
-
-{{< adsense-infeed >}}
-
 #### 주요 판매국가
-
-{{< adsense-infeed >}}
-
 - **마카오**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지, [중국](/industry-study/4국가중국/) 경기의 영향을 많이 받음
 - **싱가포르**: Marina Bay Sands를 통해 높은 매출 발생
 - **미국**: 과거 주요 매출 국가였으나, 현재는 아시아 시장에 집중
@@ -53,13 +44,7 @@ weight: 538
 - **Wynn Resorts (미국, [WYNN](/company-analysis/wynn/))**: 카지노 및 리조트 운영
 - **MGM Resorts International (미국, [MGM](/company-analysis/mgm/))**: 카지노 및 리조트 운영
 - **Caesars Entertainment (미국, [CZR](/company-analysis/czr/))**: 카지노 및 리조트 운영
-
-{{< adsense-infeed >}}
-
 #### 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 - **Las Vegas Sands**: 글로벌 카지노 및 게임 시장에서 약 10%의 점유율 (2023년 기준)
 #### 최근 3년 내 주요 이슈
 - **COVID-19 팬데믹**: 여행 제한으로 인한 매출 감소 (2020년)

@@ -40,9 +40,6 @@ Antofagasta는 구리와 금 채굴 회사로, 구리, 금, 몰리브덴, 은 �
 
 Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴 아메리카, 북미, 아시아 태평양 지역에서도 사업을 운영하고 있습니다.
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴 아메리카, 북미, 아시아 태평양 지역에서도 사업을 운영하고 있습니다.
 ## 경쟁업체
 
@@ -51,7 +48,4 @@ Antofagasta의 활동은 주로 칠레에 집중되어 있으며, 유럽, 라틴
 - BHP Group Ltd (호주, [BHP](/company-analysis/bhp/))
 - Anglo American Plc (영국, AAL.UK)
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 Antofagasta의 정확한 글로벌 시장 점유율 데이터는 제공된 정보에 없습니다.

@@ -33,16 +33,10 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
 5. 고객 맞춤형 서비스: 다양한 고객 요구에 맞는 맞춤형 솔루션 제공
 6. 브랜드 인지도: 업계에서 인정받는 강력한 브랜드 파워
 ## 전방/후방산업
-
-{{< adsense-infeed >}}
-
 1. 후방산업:
     
     - 철강 제조: U.S. Steel(US, [X](/company-analysis/x/))
     - 전자부품 제조: Texas Instruments(US, [TXN](/company-analysis/txn/))
-
-{{< adsense-infeed >}}
-
 2. 전방산업:
     - 석유 및 가스 생산: ExxonMobil(US, [XOM](/company-analysis/xom/))
     - 시추 서비스: Schlumberger(US, [SLB](/company-analysis/slb/))
@@ -55,9 +49,6 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
 4. 서비스 및 유지보수: NOV Inc. (주요 사업 영역)
 5. 최종 사용자: ExxonMobil(US, [XOM](/company-analysis/xom/)) - 석유 및 가스 생산
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 1. 시추 장비 및 시스템
 2. 완결 및 생산 솔루션
 3. 웰보어 기술
@@ -71,9 +62,6 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
 3. 해양 시추 업체
 4. 국영 석유 회사
 5. 독립 석유 및 가스 생산 기업
-
-{{< adsense-infeed >}}
-
 ## 주요 판매국가
 NOV Inc.는 글로벌 기업으로, 주요 판매 국가는 미국, 사우디아라비아, 브라질, 노르웨이, 영국, 캐나다 등입니다.
 

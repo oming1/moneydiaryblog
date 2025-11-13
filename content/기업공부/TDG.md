@@ -33,9 +33,6 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
 ## 밸류체인
 
 - 항공기 부품 제조:
-
-{{< adsense-infeed >}}
-
     - TransDigm은 다양한 항공기 부품을 설계 및 제조합니다.
     - 대표 기업: Heico Corporation (미국, [HEI](/company-analysis/hei/)), Woodward (미국, [WWD](/company-analysis/wwd/))
 - 항공기 애프터마켓:
@@ -49,9 +46,6 @@ TransDigm Group은 항공 우주 산업을 위한 엔지니어링 부품을 설�
 - 비항공 제품 (전체 매출의 약 10%)
 
 ## 주요 판매 국가
-
-{{< adsense-infeed >}}
-
 TransDigm은 전 세계적으로 사업을 영위하며, 특히 북미, 유럽, 아시아 태평양 지역에서 강세를 보입니다.
 
 ## 경쟁업체
@@ -60,9 +54,6 @@ TransDigm은 전 세계적으로 사업을 영위하며, 특히 북미, 유럽, 
 - Moog Inc. (미국, [MOG-A](/company-analysis/mog-a/)) - 정밀 모션 제어 제품
 
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 정확한 시장 점유율 데이터는 없으나, TransDigm은 항공우주 부품 시장에서 선도적인 위치를 차지하고 있습니다.
 
 ## 최근 3년 내 주요 이슈

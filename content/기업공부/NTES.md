@@ -65,20 +65,11 @@ NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 중국�
 - **서버 및 클라우드 인프라**: 온라인 서비스 호스팅 (Alibaba Cloud(US, [BABA](/company-analysis/baba/)), Tencent Cloud(HK, 0700))
     
 - **반도체 및 하드웨어**: 컴퓨팅 성능 제공 (NVIDIA(US, [NVDA](/company-analysis/nvda/)), Intel(US, [INTC](/company-analysis/intc/)))
-
-{{< adsense-infeed >}}
-
 - **콘텐츠 창작자 및 IP 라이센서**: 게임 및 콘텐츠 개발 협력 (Blizzard Entertainment(Blizzard Entertainment), Mojang Studios(Mojang Studios))
-
-{{< adsense-infeed >}}
-
 ## 밸류체인
 1. **게임/콘텐츠 개발**: NetEase(US, [NTES](/company-analysis/ntes/)) (자체 게임 개발), Blizzard Entertainment(Blizzard Entertainment) (IP 제공 및 협력 개발)
     
 2. **기술 인프라**: Alibaba Cloud(US, [BABA](/company-analysis/baba/)) (클라우드 서비스), Tencent Cloud(HK, 0700) (네트워크 인프라)
-
-{{< adsense-infeed >}}
-
 3. **출판 및 배포**: Apple App Store(Apple App Store) (iOS 앱 배포), Google Play(US, [GOOGL](/company-analysis/googl/)) (안드로이드 앱 배포)
 4. **마케팅 및 사용자 확보**: ByteDance([ByteDance](/company-analysis/bytedance/)) (디지털 광고 플랫폼), Tencent(HK, 0700) (소셜 미디어 마케팅)
     

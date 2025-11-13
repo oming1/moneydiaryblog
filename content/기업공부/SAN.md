@@ -26,9 +26,6 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
     - **핵심 산업:** 연구소, 원료 공급업체
     - **핵심 기업:** Thermo Fisher Scientific (미국, [TMO](/company-analysis/tmo/)), Merck KGaA (독일, [MRK](/company-analysis/mrk/))
 #### 밸류체인
-
-{{< adsense-infeed >}}
-
 - **연구 및 개발:** Sanofi는 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
     - **대표 회사:** Regeneron Pharmaceuticals (미국, [REGN](/company-analysis/regn/)), Alnylam Pharmaceuticals (미국, ALNY)
 - **제조:** 고품질의 의약품을 제조합니다.
@@ -48,15 +45,9 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
 - **기타 지역:** 2023년 매출 비중: 10%
 
 #### 경쟁업체
-
-{{< adsense-infeed >}}
-
 - **Pfizer (미국, [PFE](/company-analysis/pfe/)):** 백신 및 항바이러스제
 - **Novartis (스위스, [NOVN](/company-analysis/novn/)):** 항암제 및 면역억제제
 - **Johnson & Johnson (미국, [JNJ](/company-analysis/jnj/)):** 다양한 치료제 및 의료기기
-
-{{< adsense-infeed >}}
-
 #### 최근 3년 내 주요 이슈
 - **COVID-19 백신 개발 실패 (2021)**
 - **Dupixent의 새로운 적응증 승인 (2022)**

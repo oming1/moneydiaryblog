@@ -14,9 +14,6 @@ weight: 763
 섹터: 임의소비재
 
 ## 산업
-
-{{< adsense-infeed >}}
-
 산업: 미디어 & 엔터테인먼트(Media & Entertainment)
 ## 영위사업
 
@@ -30,9 +27,6 @@ Rumble Inc.는 비디오 공유 및 스트리밍 플랫폼을 운영하는 기�
 Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견과 콘텐츠를 허용하는 정책을 통해 차별화를 꾀하고 있습니다. 주요 수익원은 광고로, 전체 매출의 74.1%를 차지하며, 나머지는 기타 서비스 및 클라우드 부문에서 발생합니다.
 
 ## 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 1. 자유로운 표현 정책: 다양한 의견을 수용하는 플랫폼 운영으로 차별화된 포지셔닝 확보
 2. 다각화된 수익 모델: 광고, 스트리밍, 클라우드 서비스 등 다양한 수익원 보유
 3. 기술 혁신: 자체 개발한 비디오 스트리밍 및 클라우드 기술을 통한 서비스 품질 향상
@@ -57,9 +51,6 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 미국을 중심으로 글로벌 서비스 제공
 
 ## 경쟁업체
-
-{{< adsense-infeed >}}
-
 1. YouTube(Alphabet Inc. 자회사, US, [GOOGL](/company-analysis/googl/))
 2. TikTok(ByteDance Ltd. 자회사, 비상장)
 3. Meta Platforms Inc.(US, [META](/company-analysis/meta/))
@@ -73,9 +64,6 @@ Rumble은 자유로운 표현을 지향하는 플랫폼으로, 다양한 의견�
 5. 정치적 논란 및 콘텐츠 정책 관련 이슈 (2022-2024)
 
 ## 주요주주(지분율)
-
-{{< adsense-infeed >}}
-
 1. Chris Pavlovski (CEO 및 창업자)
 2. Cantor Fitzgerald & Co.
 3. Vanguard Group Inc.

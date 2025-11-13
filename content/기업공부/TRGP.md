@@ -64,9 +64,6 @@ Targa는 특히 퍼미안 베이신 지역에서 강력한 입지를 보유하�
 Targa Resources의 주요 고객은 석유 및 가스 생산업체, 석유화학 기업, 정유사, 유틸리티 기업 등입니다. 구체적인 고객사 정보는 공개되어 있지 않습니다.
 
 ## 주요 판매국가
-
-{{< adsense-infeed >}}
-
 Targa Resources는 주로 미국 내에서 사업을 영위하고 있으며, LPG 수출을 통해 글로벌 시장에도 진출하고 있습니다. 주요 LPG 수출 대상국으로는 아시아, 유럽, 중남미 국가들이 포함됩니다.
 ## 경쟁업체
 
@@ -75,9 +72,6 @@ Targa Resources는 주로 미국 내에서 사업을 영위하고 있으며, LPG
 3. Kinder Morgan, Inc.(US, [KMI](/company-analysis/kmi/)) - 천연가스 파이프라인
 4. Williams Companies, Inc.(US, [WMB](/company-analysis/wmb/)) - 천연가스 처리 및 운송
 5. Energy Transfer LP(US, [ET](/company-analysis/et/)) - 통합 미드스트림 서비스
-
-{{< adsense-infeed >}}
-
 ## 산업 내 글로벌 시장 점유율
 
 Targa Resources의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 회사는 미국 NGL 처리 및 프랙셔네이션 시장에서 주요 플레이어 중 하나로 인식되고 있으며, 특히 퍼미안 베이신 지역에서 강력한 입지를 보유하고 있습니다.

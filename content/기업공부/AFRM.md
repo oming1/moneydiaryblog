@@ -59,9 +59,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 핵심 경쟁력
-
-{{< adsense-infeed >}}
-
 - **머신러닝 언더라이팅**: 수억 건 거래 데이터 기반 리스크 모델
 - **투명성·신뢰**: 복잡한 수수료 없이 소비자 만족·재사용률↑
 - **머천트 네트워크**: 이커머스·오프라인 양축으로 확산
@@ -88,9 +85,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ### 전방산업 / 후방산업
 - **전방산업**: 
 	- 전자상거래·리테일·여행·교육·헬스케어 등 POS 지불 솔루션 수요
-
-{{< adsense-infeed >}}
-
 - **후방산업**:  
     • 클라우드 인프라: AWS(US, [AMZN](/company-analysis/amzn/)), Google Cloud(US, [GOOGL](/company-analysis/googl/))  
     • 결제 네트워크: Visa(US, [V](/company-analysis/v/)), Mastercard(US, [MA](/company-analysis/ma/))  
@@ -150,9 +144,6 @@ Affirm은 온라인·오프라인 가맹점 결제 시점(Point-of-Sale)에서 �
 ---
 
 ### 기업 특징 및 성장성
-
-{{< adsense-infeed >}}
-
 - **매출 성장률**: 3년 CAGR 약 38% (2021–2023)
 - **영업이익률**: 투자 단계로 변동성, 손익분기점 근접 중
 - **핵심 성장 동력**: 새로운 시장(EMEA·APAC) 진출, 카드·구독 솔루션 확장, Returnly·Chargeflow 통한 서비스 다각화

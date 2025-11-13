@@ -53,9 +53,6 @@ Wayfair는 메인 브랜드인 Wayfair.com 외에도 Joss & Main(중간 가격�
 - **비즈니스 고객(B2B)**: Wayfair Professional을 통한 상업용 고객
 
 **성장 동력:**
-
-{{< adsense-infeed >}}
-
 - 온라인 가구 시장의 지속적 성장
 - CastleGate 물류 네트워크 확장을 통한 배송 효율성 개선
 - AI 기반 개인화 추천 시스템
@@ -75,9 +72,6 @@ Wayfair는 메인 브랜드인 Wayfair.com 외에도 Joss & Main(중간 가격�
 - 16백만 제곱피트의 전용 창고 네트워크
 - 미국 고객의 97%에게 2일 배송 보장
 - 아시아 통합 및 운송 서비스를 통한 공급망 최적화
-
-{{< adsense-infeed >}}
-
 **3. 데이터 기반 개인화 기술**
 
 - 머신러닝과 AI를 활용한 개인 맞춤형 제품 추천
@@ -148,9 +142,6 @@ Wayfair는 제조업체가 아닌 온라인 마켓플레이스이므로 직접�
 - Ashley Furniture(US, Ashley) - 미국 최대 가구업체, 침실 및 거실 가구 공급
 - 중국 및 베트남 제조업체들 - 저가 가구 및 홈데코 제품 대량 공급 (시장점유율 약 40%)
 - 유럽 럭셔리 브랜드들 - Perigold를 통한 고급 가구 공급
-
-{{< adsense-infeed >}}
-
 **플랫폼 운영 단계:**
 
 - Wayfair Inc. - 중앙집중식 플랫폼 운영, 마케팅, 고객서비스 총괄
@@ -239,9 +230,6 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 - Rooms To Go - 미국 대형 가구 체인, 시장점유율 약 2%
 
 **일반 소매업체:**
-
-{{< adsense-infeed >}}
-
 - Walmart(US, [WMT](/company-analysis/wmt/)) - 저가 가구 및 홈굿즈, 시장점유율 약 12%
 - Target(US, [TGT](/company-analysis/tgt/)) - 중간가격대 홈데코, 시장점유율 약 6%
 - Home Depot(US, [HD](/company-analysis/hd/)) - 야외 가구 및 홈임프루브먼트, 시장점유율 약 4%
@@ -337,9 +325,6 @@ Wayfair는 B2C 비즈니스 모델로 개별 소비자가 주요 고객층이며
 - **개인 및 기타 투자자**: 32.0%
 
 **최근 동향:**
-
-{{< adsense-infeed >}}
-
 - 창업자들의 정기적인 지분 매각을 통한 유동성 확보
 - 기관투자자들의 지분율은 상대적으로 안정적 유지
 

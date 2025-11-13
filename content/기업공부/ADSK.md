@@ -18,9 +18,6 @@ weight: 31
 Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인먼트 산업을 위한 3D 설계 및 엔지니어링 소프트웨어를 제공하는 다국적 기업입니다.
 
 ## 주요제품
-
-{{< adsense-infeed >}}
-
 - AutoCAD: 2D/3D 컴퓨터 지원 설계(CAD) 소프트웨어
 - Revit: 건축 정보 모델링(BIM) 소프트웨어
 - Fusion 360: 3D 제품 설계 및 엔지니어링 플랫폼
@@ -36,9 +33,6 @@ Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인�
 - PTC Inc(US, PTC)
 - Oracle(US, [ORCL](/company-analysis/orcl/))
 ## 산업 내 글로벌 시장 점유율
-
-{{< adsense-infeed >}}
-
 CAD 및 3D 설계 소프트웨어 시장에서 주요 선도 기업 중 하나입니다.
 ## 최근 주요 이슈
 
