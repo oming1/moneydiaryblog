@@ -86,6 +86,7 @@ _merge:
 # Hextra 테마 파라미터
 params:
   description: "오늘을 기록하고 내일의 투자를 준비하는 블로그, 머니다이어리(Moneydiary)"
+  keywords: ["투자", "주식", "경제", "시황", "애널리스트", "기업분석", "산업분석"]  # 이 줄 추가
 
   # SNS 공유용 기본 이미지 (이 줄 추가)
   default_og_image: "images/logo.png"
