@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52013466486f2135",
+        "id": "0a73b581fc048cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "729e840a26197d24",
+            "id": "bf1e73062545c3d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
+                "file": "content/Daily시황정리/2025년/11월/2025-11-14 미국 시황 정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-13 미국 시황 정리"
+              "title": "2025-11-14 미국 시황 정리"
             }
           }
         ]
@@ -179,14 +179,19 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "729e840a26197d24",
+  "active": "bf1e73062545c3d9",
   "lastOpenFiles": [
+    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-14 미국 시황 정리.md",
+    "코드/PDF 파일 수집 스크립트.md",
+    "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
+    "static/images/Pasted image 20251114103109.png",
+    "static/images/Pasted image 20251114103050.png",
+    "content/산업-테마공부/02.산업/자동차 산업/자율주행",
     "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
-    "코드/PDF 파일 수집 스크립트.md",
     "무제"
   ]
 }
