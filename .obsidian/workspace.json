@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8f8410bb5a187c03",
+        "id": "11a6502122d28644",
         "type": "tabs",
         "children": [
           {
-            "id": "45ecba7313bb96c2",
+            "id": "8a8fa4b38fe0dd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
+                "file": "content/Daily시황정리/2025년/11월/2025-11-18 미국 시황 정리.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "한국에 FSD가 온다(25.11.14_삼성증권)"
+              "title": "2025-11-18 미국 시황 정리"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "45ecba7313bb96c2",
+  "active": "8a8fa4b38fe0dd64",
   "lastOpenFiles": [
+    "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
     "content/산업-테마공부/02.산업/드론/info_드론/마이크로드론.md",
     "content/Earning/엔씨소프트/엔씨소프트 25년 3Q 실적발표 컨퍼런스콜.md",
     "content/Daily시황정리/2025년/11월/2025-11-22 미국 시황 정리.md",
