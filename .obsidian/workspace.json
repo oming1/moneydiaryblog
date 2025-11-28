@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb5839005cbeb81",
+        "id": "adcc6d6f5b0d0fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "038f15b001809cca",
+            "id": "ccf2d2a2f97988fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/과거/2024/08월/2024-08-14.md",
+                "file": "content/Daily시황정리/2025년/11월/2025-11-29 미국 시황 정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-08-14"
+              "title": "2025-11-29 미국 시황 정리"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "리튬염",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,27 +182,49 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "038f15b001809cca",
+  "active": "ccf2d2a2f97988fe",
   "lastOpenFiles": [
-    "content/Daily시황정리/과거/2024/07월/2024-07-09.md",
-    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
-    "content/투자아이디어/투자전략/2026년 Asia 투자전략 요약(유안타증권).md",
-    "content/Earning/엔씨소프트/엔씨소프트 25년 3Q 실적발표 컨퍼런스콜.md",
-    "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
+    "무제.md",
+    "content/Daily시황정리/2025년/11월/2025-11-29 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-26 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-25 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-22 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-21 미국 시황 정리.md",
+    "content/기업공부/AMAT.md",
+    "content/Daily시황정리/2025년/11월/2025-11-20 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-19 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-18 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-15 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-14 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-20 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-17 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-03 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-14 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-13 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-15 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-09 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-08 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-07 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/05월/2025-05-02 미국 시황 정리.md",
-    "4.템플렛/1.실적발표 템플릿.md"
+    "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
+    "4.템플렛/0.(간소화)데일리.md",
+    "content/산업-테마공부/02.산업/원자재 산업/5.기타원자재/리튬염.md",
+    "static/images/Pasted image 20251127135753.png",
+    "content/기업공부/NIO.md",
+    "content/산업-테마공부/02.산업/로봇 산업/휴머노이드 로봇.md",
+    "content/산업-테마공부/02.산업/로봇 산업/INFO_로봇/옵티머스.md",
+    "static/images/Pasted image 20251127132558.png",
+    "static/images/Pasted image 20251127132537.png",
+    "content/Daily시황정리/2025년/_index.md",
+    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
+    "static/images/Pasted image 20251120152501.png",
+    "static/images/Pasted image 20251120152252.png",
+    "static/images/Pasted image 20251120152232.png",
+    "industry-study",
+    "static/images/Pasted image 20251117111727.png",
+    "static/images/Pasted image 20251115095645.png",
+    "static/images/Pasted image 20251115095229.png",
+    "static/images/Pasted image 20251115094942.png",
+    "static/pdf/유안타증권_주식전략_2026년 Asia 투자전략 금냥묘계(錦囊妙計)_20251111.pdf.fsb",
+    "content/산업-테마공부/02.산업/0.미국 기업 편람/2024/1.2. 2024 미국 기업 편람.pdf",
+    "content/산업-테마공부/02.산업/자동차 산업/자율주행",
+    "content/산업-테마공부/02.산업/드론/info_드론",
+    "content/산업-테마공부/02.산업/드론"
   ]
 }
