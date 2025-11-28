@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9762522429d059f5",
+    "id": "b065b60aa105390e",
     "type": "split",
     "children": [
       {
-        "id": "adcc6d6f5b0d0fdf",
+        "id": "8f8410bb5a187c03",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf2d2a2f97988fe",
+            "id": "45ecba7313bb96c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily시황정리/2025년/11월/2025-11-29 미국 시황 정리.md",
+                "file": "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-29 미국 시황 정리"
+              "title": "한국에 FSD가 온다(25.11.14_삼성증권)"
             }
           }
         ]
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3ef8e9361c1df1d9",
+    "id": "2b230566d62d200b",
     "type": "split",
     "children": [
       {
-        "id": "c575971c2d7f02d9",
+        "id": "ad60724f2595e559",
         "type": "tabs",
         "children": [
           {
-            "id": "7fc9aef3b24a71f3",
+            "id": "5917d597ef866339",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "9b92a078d9eee3ab",
+            "id": "8c702fde8d48191f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "리튬염",
+                "query": "한국에 FSD가 온다(25.11.14_삼성증권)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "42876aa2204aecb9",
+            "id": "899a139af7be61c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,27 +84,28 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "796869d43cfa307a",
+    "id": "dcba302ef7d3a68e",
     "type": "split",
     "children": [
       {
-        "id": "4201c52524836aca",
+        "id": "99ea532694892573",
         "type": "tabs",
         "children": [
           {
-            "id": "e551d408e9feb169",
+            "id": "51ff932ad9d42ca3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Daily시황정리/과거/2024/08월/2024-08-14.md",
+                "file": "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-08-14 의 백링크"
+              "title": "한국에 FSD가 온다(25.11.14_삼성증권) 의 백링크"
             }
           },
           {
-            "id": "764acdc8b6ae9197",
+            "id": "b2df0b4290a919a6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Daily시황정리/과거/2024/08월/2024-08-14.md",
+                "file": "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-08-14 의 나가는 링크"
+              "title": "한국에 FSD가 온다(25.11.14_삼성증권) 의 나가는 링크"
             }
           },
           {
-            "id": "76cee410603418e5",
+            "id": "a550aa7c324a723a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,18 +148,18 @@
             }
           },
           {
-            "id": "c72a24740dd50767",
+            "id": "0c76de636dd9b836",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Daily시황정리/과거/2024/08월/2024-08-14.md",
+                "file": "content/산업-테마공부/02.산업/자동차 산업/자율주행/한국에 FSD가 온다(25.11.14_삼성증권).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024-08-14 의 개요"
+              "title": "한국에 FSD가 온다(25.11.14_삼성증권) 의 개요"
             }
           }
         ]
@@ -182,49 +183,20 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ccf2d2a2f97988fe",
+  "active": "45ecba7313bb96c2",
   "lastOpenFiles": [
-    "무제.md",
+    "content/산업-테마공부/02.산업/드론/info_드론/마이크로드론.md",
+    "content/Earning/엔씨소프트/엔씨소프트 25년 3Q 실적발표 컨퍼런스콜.md",
+    "content/Daily시황정리/2025년/11월/2025-11-22 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-29 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-26 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-25 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-22 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-21 미국 시황 정리.md",
-    "content/기업공부/AMAT.md",
     "content/Daily시황정리/2025년/11월/2025-11-20 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-19 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-18 미국 시황 정리.md",
     "content/Daily시황정리/2025년/11월/2025-11-15 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-14 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-12 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-08 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-13 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-11 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-07 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-05 미국 시황 정리.md",
-    "4.템플렛/0.(간소화)데일리.md",
-    "content/산업-테마공부/02.산업/원자재 산업/5.기타원자재/리튬염.md",
-    "static/images/Pasted image 20251127135753.png",
-    "content/기업공부/NIO.md",
-    "content/산업-테마공부/02.산업/로봇 산업/휴머노이드 로봇.md",
-    "content/산업-테마공부/02.산업/로봇 산업/INFO_로봇/옵티머스.md",
-    "static/images/Pasted image 20251127132558.png",
-    "static/images/Pasted image 20251127132537.png",
-    "content/Daily시황정리/2025년/_index.md",
-    "content/Daily시황정리/2025년/11월/2025-11-06 미국 시황 정리.md",
-    "content/Daily시황정리/2025년/11월/2025-11-04 미국 시황 정리.md",
-    "static/images/Pasted image 20251120152501.png",
-    "static/images/Pasted image 20251120152252.png",
-    "static/images/Pasted image 20251120152232.png",
-    "industry-study",
-    "static/images/Pasted image 20251117111727.png",
-    "static/images/Pasted image 20251115095645.png",
-    "static/images/Pasted image 20251115095229.png",
-    "static/images/Pasted image 20251115094942.png",
-    "static/pdf/유안타증권_주식전략_2026년 Asia 투자전략 금냥묘계(錦囊妙計)_20251111.pdf.fsb",
-    "content/산업-테마공부/02.산업/0.미국 기업 편람/2024/1.2. 2024 미국 기업 편람.pdf",
-    "content/산업-테마공부/02.산업/자동차 산업/자율주행",
-    "content/산업-테마공부/02.산업/드론/info_드론",
-    "content/산업-테마공부/02.산업/드론"
+    "content/Daily시황정리/2025년/11월/2025-11-19 미국 시황 정리.md",
+    "content/Daily시황정리/2025년/11월/2025-11-14 미국 시황 정리.md"
   ]
 }
